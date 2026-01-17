@@ -86,7 +86,7 @@ async def multi_agent(num_agents, limit, max_rounds):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--agents", type=int, default=1)
-    parser.add_argument("--limit", type=int, default=5)
+    parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--rounds", type=int, default=3)
 
     args = parser.parse_args()

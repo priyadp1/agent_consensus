@@ -39,6 +39,7 @@ Task:
 Give your own considered answer and briefly explain your reasoning.
 """
             response = run_model(prompt).strip()
+            response = " ".join(response.split())
             round_answers[agent_id] = response
 
         history.append(round_answers)

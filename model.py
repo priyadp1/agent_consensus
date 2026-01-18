@@ -2,7 +2,7 @@ from openai import AzureOpenAI
 import os
 from dotenv import load_dotenv
 load_dotenv()
-
+MODEL_NAME = "gpt-4.1-nano"
 def create_model():
     client = AzureOpenAI(
     azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
@@ -15,7 +15,7 @@ def create_model():
 def run_model(prompt: str):
     model = create_model()
     response = model.chat.completions.create(
-        model="gpt-4.1-nano",
+        model=MODEL_NAME,
           messages=[
             {"role": "user", "content": prompt}
         ]

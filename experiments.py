@@ -2,9 +2,11 @@ import json
 import os
 import argparse
 import asyncio
+import re
 
-from model import run_model
+from model import run_model, MODEL_NAME
 from multiagent import agent_talk
+from filter_questions import valid_question
 
 DATA_PATH = "data/jsonl/train.jsonl"
 
@@ -16,51 +18,86 @@ def stream_jsonL(path):
 
 
 def build_prompt(example):
+    options = example["options"]
+    option_block = "\n".join(
+        [f"({chr(65+i)}) {opt}" for i, opt in enumerate(options)]
+    )
+
     return f"""
-You are answering a subjective public opinion question.
+You are answering a subjective public opinion survey question.
 
 Question:
 {example["question"]}
 
 Answer options:
-{example["options"]}
+{option_block}
 
-Global response distributions by country:
-{example["selections"]}
+Instructions:
+- Choose ONE option.
+- Respond ONLY in the format:
+  Final answer: <LETTER>
+- Do NOT add explanations or extra text.
 
-Task:
-Give your own considered answer and briefly explain your reasoning.
+Final answer:
 """
 
 
+ANSWER_RE = re.compile(r"Final answer:\s*\(?([A-Z])\)?")
+
+
+def parse_answer(text, num_options):
+    match = ANSWER_RE.search(text)
+    if not match:
+        return "INVALID"
+
+    letter = match.group(1)
+    idx = ord(letter) - ord("A")
+
+    if 0 <= idx < num_options:
+        return letter
+
+    return "INVALID"
+
+
 def single_agent(limit):
-    results_dir = f"results/single_agent_{limit}"
+    results_dir = f"results/{MODEL_NAME}/single_agent_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
-    for q_idx, example in enumerate(stream_jsonL(DATA_PATH)):
-        if q_idx >= limit:
-            break
+    used = 0
+
+    for example in stream_jsonL(DATA_PATH):
+        if not valid_question(example):
+            continue
 
         prompt = build_prompt(example)
-        answer = run_model(prompt)
+        raw = run_model(prompt)
+        answer = parse_answer(raw, len(example["options"]))
 
-        with open(os.path.join(results_dir, f"answers_{q_idx}.txt"), "w") as f:
-            f.write(f"Question {q_idx}\n")
-            f.write(example["question"] + "\n\n")
-            f.write(answer.strip())
+        output = {
+            "question": example["question"],
+            "options": example["options"],
+            "answer": answer,
+            "raw_output": raw.strip()
+        }
 
-        print(f"Saved single-agent result for question {q_idx}")
+        with open(os.path.join(results_dir, f"q_{used}.json"), "w") as f:
+            json.dump(output, f, indent=2)
+
+        used += 1
+        if used >= limit:
+            break
 
 
 async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/agents_{num_agents}_questions_{limit}"
+    results_dir = f"results/{MODEL_NAME}/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     agents = list(range(num_agents))
+    used = 0
 
-    for q_idx, example in enumerate(stream_jsonL(DATA_PATH)):
-        if q_idx >= limit:
-            break
+    for example in stream_jsonL(DATA_PATH):
+        if not valid_question(example):
+            continue
 
         history = await agent_talk(
             agents=agents,
@@ -71,22 +108,35 @@ async def multi_agent(num_agents, limit, max_rounds):
             max_rounds=max_rounds
         )
 
-        with open(os.path.join(results_dir, f"answers_{q_idx}.txt"), "w") as f:
-            f.write(f"Question {q_idx}\n")
-            f.write(example["question"] + "\n\n")
+        parsed_rounds = []
 
-            for r_idx, round_data in enumerate(history, start=1):
-                f.write(f"\n--- ROUND {r_idx} ---\n")
-                for agent_id, resp in round_data.items():
-                    f.write(f"Agent {agent_id}: {resp}\n")
+        for round_data in history:
+            parsed = {}
+            for agent_id, raw in round_data.items():
+                parsed[agent_id] = {
+                    "answer": parse_answer(raw, len(example["options"])),
+                    "raw_output": raw.strip()
+                }
+            parsed_rounds.append(parsed)
 
-        print(f"Saved consensus results for question {q_idx}")
+        output = {
+            "question": example["question"],
+            "options": example["options"],
+            "rounds": parsed_rounds
+        }
+
+        with open(os.path.join(results_dir, f"q_{used}.json"), "w") as f:
+            json.dump(output, f, indent=2)
+
+        used += 1
+        if used >= limit:
+            break
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--agents", type=int, default=1)
-    parser.add_argument("--limit", type=int, default=10)
+    parser.add_argument("--limit", type=int, default=5)
     parser.add_argument("--rounds", type=int, default=3)
 
     args = parser.parse_args()

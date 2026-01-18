@@ -28,29 +28,34 @@ for fname in sorted(os.listdir(RESULTS_DIR)):
 
     question = data["question"]
     options = data["options"]
-    final_round = data["rounds"][-1]
+    rounds = data["rounds"]
 
-    answers = []
-    for agent_data in final_round.values():
-        ans = agent_data["answer"]
-        if ans != "INVALID":
-            answers.append(letter_to_option(ans, options))
+    for r_idx, round_data in enumerate(rounds, start=1):
+        answers = []
 
-    if not answers:
-        continue
+        for agent_data in round_data.values():
+            ans = agent_data["answer"]
+            if ans != "INVALID":
+                answers.append(letter_to_option(ans, options))
 
-    counts = Counter(answers)
+        if not answers:
+            continue
 
-    labels = list(counts.keys())
-    sizes = list(counts.values())
+        counts = Counter(answers)
+        labels = list(counts.keys())
+        sizes = list(counts.values())
 
-    plt.figure()
-    plt.pie(sizes, labels=labels, autopct="%1.0f%%", startangle=90)
-    plt.title(question)
-    plt.axis("equal")
+        plt.figure()
+        plt.pie(sizes, labels=labels, autopct="%1.0f%%", startangle=90)
+        plt.title(f"{question}\nRound {r_idx}")
+        plt.axis("equal")
 
-    out_path = os.path.join(OUT_DIR, fname.replace(".json", ".png"))
-    plt.savefig(out_path, bbox_inches="tight")
-    plt.close()
+        out_path = os.path.join(
+            OUT_DIR,
+            fname.replace(".json", f"_round_{r_idx}.png")
+        )
 
-    print(f"Saved pie chart: {out_path}")
+        plt.savefig(out_path, bbox_inches="tight")
+        plt.close()
+
+        print(f"Saved: {out_path}")

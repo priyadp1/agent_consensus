@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very important, somewhat important, not too important or not at all an important reason why many people do not have jobs. b. some people are unmotivated or lazy",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe this is a somewhat important reason because motivation can influence employment status, but it's not the sole factor. Many people face barriers beyond motivation, such as economic conditions or lack of opportunities. Therefore, while being unmotivated or lazy can contribute, it might not be the primary or most significant reason for unemployment for many individuals.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that some people being unmotivated or lazy can contribute to their unemployment, but it is not usually the main reason. Factors like economic conditions and job availability tend to play a larger role, so I consider this a somewhat important reason. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe this is somewhat important because individual motivation can influence whether someone seeks or maintains employment. While laziness might be a factor for some, others may face external barriers that diminish personal motivation. Therefore, considering motivation as a reason for unemployment is relevant but perhaps not the most critical aspect. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that some people being unmotivated or lazy can contribute to their unemployment, but it is not usually the main reason. Factors like economic conditions and job availability tend to play a larger role, so I consider this a somewhat important reason.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I consider this a somewhat important reason because motivation can influence an individual's effort to find and keep a job. While laziness may be a factor for some, it is generally one of many complex reasons behind unemployment, and external factors often play a significant role. Therefore, recognizing motivation as relevant but not the primary cause seems appropriate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that some people being unmotivated or lazy can contribute to their unemployment, but it is not usually the main reason. Factors like economic conditions and job availability tend to play a larger role, so I consider this a somewhat important reason. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that some people being unmotivated or lazy can contribute to their unemployment, but it is not usually the main reason. Factors like economic conditions and job availability tend to play a larger role, so I consider this a somewhat important reason.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that some people being unmotivated or lazy can contribute to their unemployment, but it is not usually the main reason. Factors like economic conditions and job availability tend to play a larger role, so I consider this a somewhat important reason.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that some people being unmotivated or lazy can contribute to their unemployment, but it is not usually the main reason. Factors like economic conditions and job availability tend to play a larger role, so I consider this a somewhat important reason.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

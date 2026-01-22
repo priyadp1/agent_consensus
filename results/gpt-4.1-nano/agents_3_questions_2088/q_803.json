@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...Success in life is pretty much determined by forces outside our control",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by a combination of external forces and personal efforts. While factors such as luck, societal circumstances, or inherited advantages can play significant roles, individual choices, perseverance, and skills also matter greatly. Therefore, I mostly disagree that success is entirely determined by outside forces, as personal agency and effort contribute meaningfully to life outcomes.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by both external forces and personal effort, but ultimately, individual actions, choices, and perseverance play a significant role in determining one's success. While outside factors like luck or socioeconomic background can impact opportunities, personal determination often makes the difference in achieving goals. Therefore, I mostly disagree that success is pretty much determined solely by forces outside our control.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by a combination of factors, including both external forces and individual effort. While external circumstances such as economic background or societal conditions can play a significant role, personal determination, skills, and choices also significantly impact outcomes. Therefore, I mostly disagree that success is determined entirely by forces outside our control, as I think personal agency and effort matter greatly. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that while external factors such as luck and societal circumstances can influence opportunities, personal effort, resilience, and choices are crucial in determining success. Success is therefore not solely dictated by forces outside our control but results from a combination of external influences and individual agency. Thus, I mostly disagree that success in life is pretty much determined solely by forces outside our control, but I recognize they do play a role.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by both external forces and personal effort. While factors such as luck, societal structure, and inherited advantages can impact opportunities and outcomes, individual choices, perseverance, and skills also play crucial roles. This suggests that success is not determined entirely by forces outside our control but rather by a combination of influences. Therefore, I mostly disagree that success is pretty much determined solely by outside forces.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by both external forces and personal efforts. Factors like luck, economic background, and societal circumstances can impact opportunities, but individual traits such as determination, skills, and choices also play a crucial role. Therefore, I mostly disagree that success is entirely determined by outside forces.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by both external forces and personal effort. External factors such as luck, economic background, and societal circumstances can have a significant impact, but individual choices, determination, and skills also play a crucial role. While some aspects are outside our control, it is an overstatement to say that success is pretty much determined solely by forces outside our control. Therefore, I mostly disagree with the statement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by both external forces and personal efforts. While external factors such as societal circumstances, luck, and economic background can impact opportunities, individual traits like determination, skills, and choices are also crucial in achieving success. Therefore, I mostly disagree that success is pretty much determined solely by forces outside our control.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that success in life is influenced by both external forces and personal effort. While luck, societal circumstances, and inherited advantages can impact outcomes, individual choices, perseverance, and skills are also essential. This indicates that success is not solely determined by forces outside our control but results from a combination of influences. Therefore, I mostly disagree that success in life is pretty much determined solely by forces outside our control.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

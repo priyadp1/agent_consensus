@@ -1,0 +1,61 @@
+{
+  "question": "Overall, do you think the current government is doing too much, too little, or the right amount to ensure that women have the same rights as men? ",
+  "options": [
+    "Too much",
+    "Too little",
+    "Right amount"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the current government is doing too little to ensure that women have the same rights as men. Despite progress, gender inequality persists in many areas such as workplace equality, political representation, and pay equity. More proactive policies and reforms are needed to address these gaps and promote true equality. Therefore, the government should increase its efforts to protect and uphold women's rights.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the current government is doing too little to ensure that women have the same rights as men. Gender equality remains a work in progress, and many disparities still exist in areas such as pay, representation, and access to opportunities. Increased effort and policy changes are necessary to bridge these gaps and promote true equality. Therefore, I think more action is needed to achieve this goal.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the government is doing too little to ensure that women have the same rights as men. Despite progress in many areas, gender inequality persists in various aspects such as pay gaps, representation, and access to opportunities. More proactive measures and policies are needed to address these disparities comprehensively. Therefore, I think current efforts are insufficient and need to be increased to achieve true equality.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the government is doing too little to ensure women's equal rights. Despite some improvements, significant disparities still exist in areas like pay, career opportunities, and representation, indicating that current efforts are insufficient. Greater proactive measures and policy initiatives are needed to advance gender equality meaningfully. Therefore, I think more action is required to achieve this goal.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the current government is doing too little to ensure that women have the same rights as men. Despite some progress, gender inequality remains evident in areas like equal pay, representation, and opportunities for advancement. These persistent disparities suggest that more proactive policies and reforms are necessary to truly achieve gender equality. Therefore, I think efforts should be increased to fully address these issues and promote equality for women.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the government is not doing enough to ensure gender equality. Despite some efforts, disparities in pay, representation, and workplace opportunities still persist, indicating that additional proactive measures are necessary to create a truly equitable society. Addressing these ongoing issues requires stronger policies and committed action from the government.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the government is doing too little to ensure that women have the same rights as men. Despite some efforts, significant gender disparities still exist in areas like equal pay, representation in leadership positions, and access to opportunities. More robust and proactive policies are needed to address these issues comprehensively and achieve true equality. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the government is not doing enough to ensure women's equal rights. Despite some efforts, disparities in pay, representation, and workplace opportunities still exist. These ongoing issues suggest that additional proactive measures and stronger policies are necessary to create a truly equitable society. Therefore, I think more action is required to achieve this goal.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the current government is doing too little to ensure that women have the same rights as men. Despite some efforts, substantial disparities still exist in areas such as pay, representation, and opportunities, indicating that more proactive and comprehensive policies are needed. Achieving true gender equality requires increased commitment and targeted action from the government.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

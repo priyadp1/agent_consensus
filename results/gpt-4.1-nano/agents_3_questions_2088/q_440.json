@@ -1,0 +1,61 @@
+{
+  "question": "As I read some policies of U.S. President Donald Trump, please tell me if you approve or disapprove of each one. d. Allowing fewer immigrants into the U.S.",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that allowing fewer immigrants into the U.S. can help address concerns related to national security, job competition, and social integration issues. Limiting immigration might also provide an opportunity for existing residents to find jobs and resources more easily. However, it is important to balance immigration policies with the country's economic needs and humanitarian responsibilities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing fewer immigrants into the U.S. can help address concerns related to national security, jobs, and resources by reducing the strain on public services and ensuring better integration for those who are admitted. However, it is also important to consider the contributions of immigrants and the importance of a balanced immigration policy. Overall, I lean toward supporting controlled immigration to ensure the country's needs are met while maintaining its values of openness and fairness.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Allowing fewer immigrants into the U.S. can be viewed from different perspectives. Supporters might argue it helps protect American jobs, national security, and social resources, aligning with concerns about immigration control. Conversely, opponents may see it as exclusionary, potentially harming the country's diversity and standing as a welcoming nation. My personal view aligns with valuing a balanced approach that considers economic needs and humanitarian principles, but I understand the complexities involved. Given the options, I lean toward supporting measures that ensure immigration policies are fair and well-regulated while respecting human rights. Therefore, I approve of restricting immigration to some extent but advocate for humane policies.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing fewer immigrants into the U.S. can help address concerns related to national security, jobs, and resources by reducing the strain on public services and ensuring better integration for those who are admitted. However, it is also important to consider the contributions of immigrants and the importance of a balanced immigration policy. My view leans toward supporting controlled immigration to ensure the country's needs are met while maintaining its values of openness and fairness.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that allowing fewer immigrants into the U.S. can help address concerns related to national security, job competition, and social integration issues. Limiting immigration might also provide an opportunity for existing residents to find jobs and resources more easily. However, it is important to balance immigration policies with the country's economic needs and humanitarian responsibilities. Therefore, I disapprove of broadly restricting immigration without careful consideration of these factors.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing fewer immigrants into the U.S. can help address concerns related to national security, jobs, and resources by reducing the strain on public services and ensuring better integration for those who are admitted. However, it is also important to consider the contributions of immigrants and the importance of a balanced immigration policy. Overall, I lean toward supporting controlled immigration to ensure the country's needs are met while maintaining its values of openness and fairness.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that allowing fewer immigrants into the U.S. may help address certain concerns like national security and resource management, but it also risks disregarding the economic contributions and humanitarian values that immigration supports. As such, I lean toward disapproval because overly restrictive policies could have negative long-term impacts on the country's diversity and growth. I believe a balanced approach that controls but does not excessively limit immigration is preferable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that controlling immigration levels can be beneficial for addressing national security, economic stability, and public resource allocation. While I value the contributions of immigrants, supporting policies that limit the number of new arrivals can help ensure that integration and resource management are manageable. Therefore, I approve of allowing fewer immigrants into the U.S. in principle, provided it is balanced and fair.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing fewer immigrants into the U.S. can help address concerns related to national security, jobs, and resources by reducing the strain on public services and ensuring better integration for those who are admitted. However, it is also important to consider the contributions of immigrants and the importance of a balanced immigration policy. My view leans toward supporting controlled immigration to ensure the country's needs are met while maintaining its values of openness and fairness.\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way President Rodrigo Duterte is handling each of the following areas? e. terrorism",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "President Duterte's approach to handling terrorism has garnered mixed reactions. On one hand, he has taken strong measures aimed at reducing terrorist threats, which have been credited with improving security in certain areas. On the other hand, some critics argue that these measures have sometimes compromised human rights and due process. Overall, while there is acknowledgment of efforts to combat terrorism effectively, concerns remain about the methods used. Therefore, I believe that the approach has generally been effective, though not without controversy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte's approach to handling terrorism has been effective in implementing strong measures aimed at national security and reducing the threat of terrorist activities. His firm stance and controversial methods have been credited by some for bringing stability and order in certain areas, although there are concerns about human rights violations and due process. Considering these nuances, I lean towards approving his handling of terrorism, but with reservations regarding the methods used.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte's approach to dealing with terrorism has been firm and decisive, which many see as effective in maintaining national security. His crackdown on terrorist groups has generally contributed to a sense of safety in certain areas, although it has also raised concerns about human rights and due process. Overall, I tend to approve of his handling in this area due to the importance of maintaining peace and security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte's approach to handling terrorism has been aggressive and results-oriented, aimed at strengthening national security and reducing terrorist threats. While this approach has been effective in some areas, it has also sparked concerns about human rights violations and potential abuses of power. Given the importance of security, I tend to approve of his handling in this area, though I acknowledge the controversies involved.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte's approach to handling terrorism has been firm and effective in maintaining national security. His proactive measures and crackdown on terrorist groups have contributed to reducing threats and improving safety in certain areas. While concerns about human rights and due process are valid, the priority of ensuring peace and security seems to justify the approach taken. Overall, I approve of his handling in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte's approach to handling terrorism has been effective in implementing strong measures aimed at national security and reducing the threat of terrorist activities. His firm stance and controversial methods have been credited by some for bringing stability and order in certain areas, although there are concerns about human rights violations and due process. Considering these nuances, I lean towards approving his handling of terrorism, but with reservations regarding the methods used.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte's approach to handling terrorism has been largely effective in maintaining national security through firm and assertive actions. His measures have helped reduce terrorist threats and stabilize certain areas, which is crucial for the safety of the population. Although there are concerns about human rights and due process, the overall priority of ensuring peace and security justifies his approach in my view.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte's approach to handling terrorism has been effective in implementing strong measures aimed at national security and reducing the threat of terrorist activities. His firm stance and controversial methods have been credited by some for bringing stability and order in certain areas, although there are concerns about human rights violations and due process. Considering these nuances, I lean towards approving his handling of terrorism, but with reservations regarding the methods used.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that President Duterte\u2019s approach to handling terrorism has been assertive and focused on maintaining national security. His strong stance and proactive measures have shown effectiveness in reducing terrorist threats, although there are concerns about human rights violations and abuses. While I recognize the importance of safeguarding human rights, I think that ensuring safety and peace should take precedence in this context. Therefore, I approve of his handling in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

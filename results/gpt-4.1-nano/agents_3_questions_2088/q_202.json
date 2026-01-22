@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...Most people have a better life now, even though some are rich and some are still poor",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that overall, many people's lives have improved due to advancements in technology, healthcare, and education, which have increased opportunities and quality of life for a significant portion of the population. However, I also recognize that disparities still exist, with some people remaining poor and facing challenges, while others enjoy wealth. This nuanced perspective leads me to mostly agree that most people have a better life now, despite ongoing inequalities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that overall, many people have experienced improvements in their quality of life due to advances in healthcare, technology, and living standards. While inequalities persist, the general trend points toward progress in various aspects of life for most individuals. Therefore, I mostly agree with the statement, acknowledging that some remain poor despite overall improvements.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that, overall, most people experience improvements in their quality of life, thanks to advances in healthcare, technology, and global connectivity. While economic disparities still exist, the general trend appears to be a better living standard for many. This leads me to mostly agree with the statement that most people's lives are better now, despite ongoing inequalities.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while many people have experienced significant improvements in their quality of life due to advancements in healthcare, technology, and global development, these benefits are not evenly distributed. Inequalities still persist, resulting in some remaining poor even as others become wealthier. Overall, I think that most people's lives are better now compared to the past, but not universally so. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while many people have experienced improvements in their quality of life due to advancements in technology, healthcare, and education, significant disparities and inequalities still exist. These ongoing gaps suggest that not everyone is necessarily better off. Therefore, I mostly agree that most people have a better life now, despite some remaining poverty and inequality.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that although there have been significant improvements in various aspects of life thanks to advances in technology, healthcare, and education, inequalities and disparities still persist, with some people remaining in poverty while others enjoy wealth. This suggests that the overall trend is positive, but it is not universal. Therefore, I mostly agree that most people have a better life now, even though some are rich and some are still poor.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while many people have experienced significant improvements in living standards through advancements in technology, healthcare, and education, persistent inequalities mean that not everyone is necessarily better off. The overall trend points toward progress, but disparities remain substantial. Therefore, I mostly agree that most people have a better life now, even though some are rich and some are still poor.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that overall, most people experience improvements in their quality of life due to advancements in technology, healthcare, and global development. However, these benefits are not equally shared, and inequality remains a significant issue. While many have better lives, a considerable portion still faces poverty, making the overall trend positive but uneven. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that despite the ongoing disparities and inequalities, overall improvements in healthcare, technology, and economic development have helped many people lead better lives today. While not universal, the advancements and progress suggest that the majority of people have experienced a positive change in their quality of life, even if some remain poor and others are wealthy. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

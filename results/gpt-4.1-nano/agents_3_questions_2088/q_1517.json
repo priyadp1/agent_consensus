@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of groups and organizations. Tell me how much confidence you have in each group to do the right thing for India - a lot, some, not too much, or no confidence at all...state governments",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have moderate confidence in state governments to do the right thing for India, as many state governments have shown dedication to regional development and public welfare. However, their effectiveness can vary depending on political leadership, resources, and local issues. While some states excel in governance and public service, others face challenges like corruption, inefficiency, or political conflicts. Therefore, I believe they deserve some confidence, but not a lot, given the variability across different states. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that state governments have a significant role in addressing local issues and implementing policies that directly impact citizens. While some state governments are capable and proactive, others may face challenges such as corruption or lack of resources, which can hinder their effectiveness. Therefore, my confidence varies but generally leans towards some confidence, as many state governments do strive to serve their people's best interests, even if their performance is inconsistent across the country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that state governments have a significant role in addressing local issues and implementing policies effectively. While some may not always have the resources or unity across states that national leadership might have, they are generally closer to the ground and better positioned to understand regional needs. Therefore, I have some confidence that state governments can do the right thing for India, though there might be variability based on the specific state and political context.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that state governments play a crucial role in directly addressing local issues and implementing policies relevant to their regions. While they may face challenges such as resource limitations and varying levels of effectiveness, many strive to serve their communities well. Given this, I have some confidence that they can do the right thing for India, but acknowledge that their performance can be inconsistent. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that state governments play a crucial role in addressing regional issues and implementing policies effectively. While their effectiveness can vary depending on political leadership, resources, and local challenges, they are generally closer to the ground and better understand regional needs. This suggests that I have some confidence in their ability to do the right thing for India, though I recognize there are limitations and variability across states.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that state governments have a mixed record in doing the right thing for India. While many are capable and committed to regional development and addressing local issues, their effectiveness often depends on factors like political leadership, resources, and issues of corruption or inefficiency. Given this variability, I have a moderate to cautious level of confidence in them. Based on the options, I think \"some confidence\" best captures this nuanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that state governments have a significant role in addressing local and regional issues, and their effectiveness can vary widely depending on leadership, resources, and governance quality. While some may do the right thing consistently, others may face challenges like corruption or inefficiency. Overall, my confidence tends to be cautious but optimistic about their capacity to do the right thing for India. Given the options, \"some confidence\" best reflects this balanced view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that state governments have a significant role in managing local and regional issues, and their effectiveness varies depending on factors such as leadership, resources, and accountability. While some are capable of doing the right thing, others face challenges that limit their effectiveness. Overall, I have a moderate level of confidence in them to do the right thing for India. Therefore, I choose \"some confidence.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that state governments are essential in addressing local and regional issues, understanding the specific needs of their communities. While their effectiveness can vary depending on political priorities, resources, and leadership, they are generally better positioned to respond quickly and effectively to local concerns. However, there can be discrepancies in performance across different states, which affects my confidence level. Considering these factors, I have some confidence that they can do the right thing for India, but I acknowledge the variability and challenges they face.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

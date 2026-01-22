@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all. o. political instability",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Political instability can significantly affect a country\u2019s economy, security, and social cohesion. When a nation experiences high levels of political unrest or frequent changes in government, it can lead to uncertainty that hampers development, discourages investment, and endangers citizens' safety. Given these potential widespread consequences, I believe political instability is a very big problem in many contexts. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Political instability can severely affect a country's economy, security, and social cohesion. When instability is widespread or persistent, it can disrupt daily life, impede development, and lead to violence or conflict. Therefore, I consider political instability to be a very significant issue that requires urgent attention to ensure stability and well-being. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Political instability can have serious consequences for a country\u2019s economy, security, and social cohesion. When instability is frequent or severe, it can disrupt daily life, deter investment, and lead to violence or unrest. While some may see it as a manageable issue or believe it will resolve over time, for many, political instability poses a significant challenge that affects many aspects of life. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe political instability is a very big problem because it can lead to widespread unrest, economic decline, and violence, severely affecting people's safety and the country's development. Such instability often undermines social trust and can create long-term challenges that are difficult to resolve. Given its potential to disrupt multiple aspects of life and governance, I consider it a very significant issue that requires urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Political instability can lead to economic decline, social unrest, and threats to safety, which can severely disrupt a nation's progress and the well-being of its citizens. Given the potential for widespread and serious consequences, I believe political instability is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Political instability threatens a nation's safety, economic growth, and social harmony. It can lead to violence, hinder development, and create uncertainty for citizens and investors alike. Given its potential to cause widespread and severe consequences, I believe it is a very big problem. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Political instability can have serious and far-reaching effects on a country\u2019s economy, social cohesion, and safety. Since it can lead to violence, economic downturns, and social unrest, I believe it is a very big problem that needs urgent attention to prevent widespread negative consequences. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe political instability is a very big problem because it can lead to widespread unrest, economic decline, and violence, severely affecting people's safety and the country's development. Such instability often undermines social trust and can create long-term challenges that are difficult to resolve. Given its potential to disrupt multiple aspects of life and governance, I consider it a very significant issue that requires urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe political instability is a very big problem because it can lead to widespread unrest, economic decline, violence, and undermine social trust. These issues can severely affect the safety and development of a country, making it a critical challenge that needs urgent attention. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

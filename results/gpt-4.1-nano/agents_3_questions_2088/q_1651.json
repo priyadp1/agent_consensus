@@ -1,0 +1,60 @@
+{
+  "question": "In response to the situation involving Russia and Ukraine, do you support or oppose each of the following actions?...Economic aid to Ukraine provided by Western countries",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Supporting economic aid to Ukraine can help uphold international law, support a democratic nation under aggression, and promote regional stability. Many believe that assisting Ukraine financially enables it to defend itself better and reduces the risk of further destabilization in Europe. Opposing such aid might be based on concerns about escalating conflicts, economic costs, or questioning the effectiveness of foreign assistance, but overall, providing aid aligns with supporting sovereignty and international norms.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that providing economic aid to Ukraine is a crucial step in supporting a nation facing unjust aggression. Such aid can help stabilize Ukraine's economy, support its sovereignty, and promote regional stability. Conversely, opposing aid might be seen as neglecting international responsibility and enabling further conflict. Therefore, I support economic aid to Ukraine provided by Western countries.\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support economic aid to Ukraine provided by Western countries because it can help stabilize the region, support Ukraine's sovereignty, and promote international stability. Providing aid demonstrates solidarity and may deter further aggression, ultimately contributing to the global effort to uphold international norms and peace.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support providing economic aid to Ukraine because it helps uphold Ukraine\u2019s sovereignty, promotes regional stability, and demonstrates international solidarity against unjustified aggression. Assisting Ukraine aligns with the goal of maintaining peace and discouraging further conflict, which I believe is in the best interest of global stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support economic aid to Ukraine provided by Western countries because such assistance can help Ukraine defend its sovereignty, contribute to regional stability, and uphold international norms. Providing aid demonstrates solidarity with Ukraine and may deter further aggression, promoting peace and stability in the region. I believe that supporting Ukraine in this way aligns with the broader goal of maintaining international law and supporting democratic nations under threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support providing economic aid to Ukraine because it helps defend a sovereign nation facing unjust aggression, promotes regional stability, and aligns with international efforts to uphold democracy and sovereignty. Assisting Ukraine also discourages further escalation of conflict and demonstrates international responsibility. Therefore, I believe Western countries should continue to offer economic support to Ukraine.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support providing economic aid to Ukraine because such assistance helps defend national sovereignty, promotes regional stability, and upholds international laws. Supporting Ukraine in this way aligns with efforts to maintain peace and support democratic nations under threat, which I believe is essential in responding effectively to the conflict. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support providing economic aid to Ukraine because it is crucial for defending Ukraine\u2019s sovereignty, maintaining regional stability, and demonstrating international solidarity against unjustified aggression. Such aid helps uphold democratic values and discourages further conflict escalation, aligning with the broader goal of promoting peace and security in the region. Therefore,\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support providing economic aid to Ukraine because such assistance is crucial for helping Ukraine defend its sovereignty, maintain regional stability, and uphold international law. Supporting Ukraine through aid also demonstrates international solidarity against unjustified aggression, which is important for promoting peace and deterring future conflicts. I believe that assisting Ukraine in this way aligns with shared values of democracy and peacekeeping in the global community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

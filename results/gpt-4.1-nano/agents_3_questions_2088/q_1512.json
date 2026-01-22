@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me whether you think the following statements apply to the United Nations or not. The United Nations\u2026 g. Promotes action on climate change",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The United Nations has been actively involved in promoting action on climate change through initiatives such as the Climate Change Conferences (COP), the Paris Agreement, and various sustainability programs. These efforts aim to coordinate global responses, encourage member nations to reduce emissions, and promote sustainable development. Given its prominent role in addressing climate issues and facilitating international cooperation, it is reasonable to say that the UN promotes action on climate change.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United Nations has been actively involved in promoting action on climate change through initiatives like the Paris Agreement and supporting member states in reducing greenhouse gases. Its agencies and conferences consistently focus on environmental sustainability and climate policy, demonstrating a clear commitment to this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United Nations actively promotes action on climate change through various initiatives, agreements like the Paris Agreement, and supporting countries in implementing policies to reduce greenhouse gas emissions. Its agencies and programs work on raising awareness, facilitating international cooperation, and encouraging sustainable development practices that address climate issues globally. Therefore, it is accurate to say that the United Nations promotes action on climate change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations actively promotes action on climate change through a variety of international agreements, initiatives, and supporting member states in environmental efforts. Its involvement in the Paris Agreement and other sustainability programs underscores its commitment to addressing climate issues globally. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations indeed promotes action on climate change through international agreements like the Paris Agreement, and its various programs and initiatives aim to coordinate countries' efforts to reduce emissions and promote sustainability. The evidence from the other responses and the UN's well-known activities support this view. Therefore, I choose to affirm that the statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United Nations has been at the forefront of global efforts to combat climate change, organizing international conferences like the COP meetings, facilitating agreements such as the Paris Agreement, and supporting development projects that promote sustainability. Its agencies work directly on climate issues, and the UN actively encourages member states to take action and fulfill commitments aimed at reducing emissions and protecting the environment. Given these significant initiatives and its role in fostering international cooperation on climate action, it is accurate to say that the UN promotes action on climate change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the United Nations actively promotes action on climate change through its various international agreements, initiatives, and agencies dedicated to sustainability and environmental protection. Its role in organizing key conferences like COP and supporting member states' commitments demonstrates its leadership in this area. Therefore, I choose to affirm that the statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations actively promotes action on climate change through international agreements, conferences, and support for sustainable development initiatives. Its role in facilitating agreements like the Paris Agreement and organizing COP meetings demonstrates its commitment to addressing climate issues globally. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations actively promotes action on climate change through various international agreements and initiatives, such as the Paris Agreement, and supports member states in implementing sustainability efforts. These actions demonstrate the UN's role in addressing global climate issues. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

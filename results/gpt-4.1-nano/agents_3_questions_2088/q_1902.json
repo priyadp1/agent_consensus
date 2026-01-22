@@ -1,0 +1,61 @@
+{
+  "question": "I\u2019m going to read you a list of things your country might do in dealing with developing countries. As I read each one, please tell me if you would support or oppose it. b. importing more goods from developing countries",
+  "options": [
+    "Support",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would support importing more goods from developing countries because it can help foster economic growth and improve relations between countries. It can also provide consumers with more diverse and affordable products, benefiting the economy overall. Supporting fair trade practices can also promote sustainable development in these countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can help boost their economies and foster international trade relations. Additionally, consumers often benefit from a wider variety of affordable products. This approach promotes economic growth and mutual benefit, which I believe is positive for both my country and developing nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can promote economic growth and improve trade relations, benefiting both countries involved. It can also increase consumer choices and help developing countries earn revenue to further develop their economies. However, I would want to ensure that such imports are fair and do not harm local industries. Overall, supporting this move seems beneficial for international cooperation and economic development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can stimulate economic growth, improve trade relations, and offer consumers a wider range of affordable products. Ensuring fair trade practices is important, but overall, this approach can foster mutual development and benefit both my country and those developing nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can boost economic growth, provide consumers with more options, and promote better international relations. Additionally, it can help developing countries earn income and improve their standards of living. Ensuring fair trade practices is important to prevent harm to local industries. Overall, I believe this strategy can yield positive outcomes if managed responsibly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can help stimulate their economic growth and foster better international relations. It also benefits consumers by providing a wider selection of affordable and diverse products. Promoting fair trade practices further ensures that such trade benefits all parties and supports sustainable development in those countries. Overall, I believe this approach encourages mutual economic growth and development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can help boost their economies, create more diverse options for consumers, and strengthen international relationships. When managed responsibly to ensure fair trade practices, it can contribute to sustainable development and mutual benefit for both countries involved.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can stimulate economic growth both for the developing countries and the importing country. It also offers consumers access to a wider range of affordable and diverse products, which can improve living standards. Promoting fair trade practices ensures that this exchange is beneficial and sustainable for all involved. Overall, this approach fosters mutual development and positive international relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support importing more goods from developing countries because it can strengthen international trade relationships, help developing nations by providing new markets for their products, and offer consumers access to a greater variety of affordable goods. Managing trade fairly and ethically is essential to ensure mutual benefits and prevent harm to local industries. Overall, this strategy can promote economic growth and global cooperation if implemented responsibly.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

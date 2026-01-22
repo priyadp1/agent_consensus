@@ -1,0 +1,62 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for your country. Do you think that ___ is a major threat, a minor threat, or not a threat to your country? d. The spread of infectious diseases",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The spread of infectious diseases is a significant concern because of its potential to cause widespread health crises, overwhelm healthcare systems, and disrupt daily life and economic stability. In recent years, outbreaks such as COVID-19 have highlighted how infectious diseases can rapidly cross borders and impact entire nations, making it a major threat in the eyes of many citizens and policymakers.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The spread of infectious diseases remains a significant global concern, especially in our interconnected world where pathogens can quickly cross borders. Such outbreaks can cause health crises, economic disruption, and strain healthcare systems. Given recent global experiences with pandemics, it is reasonable to view this as a major threat to our country\u2019s stability and well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The spread of infectious diseases is a significant concern because it can lead to widespread health crises, economic disruptions, and strain on healthcare systems. In our interconnected world, outbreaks can cross borders rapidly, affecting many countries. Therefore, I believe it poses at least a minor threat, and considering recent global examples, it can be seen as a major threat. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the spread of infectious diseases is a major threat to our country because of the ease with which outbreaks can cross borders and the severe impact they can have on public health, the economy, and our healthcare infrastructure. Recent global pandemics have demonstrated the devastating effects such diseases can impose, emphasizing the importance of viewing this issue as a pressing concern that requires significant attention and preparedness.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The spread of infectious diseases poses a significant threat to national health, economies, and stability, especially given recent global outbreaks like COVID-19. Such diseases have the potential to cause widespread crises, overwhelm healthcare systems, and disrupt daily life, making them a major concern for countries worldwide. Considering the severity and frequency of recent health emergencies, I believe it is a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of infectious diseases is a major threat because recent global health crises, such as the COVID-19 pandemic, have shown how quickly these diseases can impact every aspect of a country's life, including health systems, economies, and daily routines. This interconnectedness makes the risk of rapid transmission across borders a persistent concern that requires serious attention and preparedness.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider the spread of infectious diseases to be a major threat for my country because, as recent global events have shown, infectious diseases can rapidly cross borders and significantly impact public health, the economy, and social stability. The COVID-19 pandemic demonstrated how vulnerable societies are to these health crises and the importance of preparedness and effective response measures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of infectious diseases is a major threat because recent global health crises, such as the COVID-19 pandemic, have shown how quickly these diseases can impact every aspect of a country's life, including health systems, economies, and daily routines. This interconnectedness makes the risk of rapid transmission across borders a persistent concern that requires serious attention and preparedness.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the spread of infectious diseases is a major threat to our country because of the ease with which outbreaks can cross borders and the severe impact they can have on public health, the economy, and our healthcare infrastructure. Recent global pandemics have demonstrated the devastating effects such diseases can impose, emphasizing the importance of viewing this issue as a pressing concern that requires significant attention and preparedness.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

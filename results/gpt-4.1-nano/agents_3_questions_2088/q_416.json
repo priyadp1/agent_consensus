@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me how important each of the following is in a democracy to you...Political stability?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it ensures that government functions effectively and that citizens can enjoy rights and freedoms without excessive disruption or chaos. Stability provides a foundation for economic growth, social justice, and consistent rule of law, which are essential for a healthy democracy to thrive. Without it, political unrest and instability could undermine democratic institutions and erode public trust.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it creates an environment where citizens can freely participate without fear of sudden upheaval or chaos. Stability ensures continuity in governance, protects rights, and allows for long-term planning and development. Without stability, democracy can be undermined by unrest and uncertainty, making it difficult for society to thrive and for citizens to trust the system altogether. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it ensures that the government functions smoothly, laws are consistently applied, and citizens can trust the political system. Without stability, democracy can be undermined by chaos, corruption, or sudden shifts that make it difficult for citizens to plan for the future or feel secure. Stability provides a foundation upon which democratic processes like free elections, civil liberties, and economic growth can thrive, contributing to overall societal well-being and trust in institutions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it provides a secure environment for citizens to participate freely and confidently, knowing that the political system is steady and predictable. Stability fosters trust in institutions, supports long-term planning, and prevents unrest that can disrupt democratic processes. When stability is lacking, democracy becomes fragile, and the rights and freedoms of citizens may be jeopardized, undermining the very foundations of democratic governance.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it ensures effective governance, protects citizens' rights, and maintains public trust. Stability creates a secure environment where democratic institutions can function properly, economic growth can occur, and social justice can be promoted without the constant threat of chaos or unrest. Without stability, the foundation of a healthy democracy can weaken, leading to uncertainty and potential erosion of democratic principles. Therefore, maintaining political stability is essential for the long-term health and resilience of a democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it provides the foundation necessary for effective governance, protection of citizens' rights, and long-term progress. Stability helps prevent chaos and unrest that could undermine democratic processes and institutions, thereby ensuring a consistent environment where democracy can flourish and citizens can participate confidently. Without stability, the risk of disorder increases, which can weaken trust in the system and hinder societal development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider political stability very important in a democracy because it underpins effective governance, upholds citizens' rights, and fosters trust and security within society. Stability allows democratic institutions to function smoothly, encourages economic development, and ensures that democratic principles are preserved and not undermined by chaos or unrest. Without stability, the risk of disorder and erosion of democratic values increases, which can weaken the foundation of a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it provides the foundation necessary for effective governance, protection of citizens' rights, and long-term progress. Stability helps prevent chaos and unrest that could undermine democratic processes and institutions, thereby ensuring a consistent environment where democracy can flourish and citizens can participate confidently. Without stability, the risk of disorder increases, which can weaken trust in the system and hinder societal development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe political stability is very important in a democracy because it creates a secure environment that allows citizens and institutions to function effectively without fear of chaos or upheaval. Stability supports long-term planning, trust in government, and the protection of rights, which are essential for a healthy and resilient democratic system. Without stability, the risk of unrest and erosion of democratic values increases, jeopardizing the entire political framework.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. c. Kukiz'15",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Kukiz'15 is a relatively new political movement in Poland that has gained some support among voters seeking alternative or anti-establishment options. Given its mixed reception, I may have a somewhat favorable opinion due to its efforts to introduce new ideas and challenge traditional parties, but I might also have reservations about its policies or stability. Therefore, I would choose somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Kukiz'15 is a relatively new and somewhat controversial political movement in Poland, known for its nationalist and populist stance. Public opinion about it tends to be mixed, with some supporters appreciating its anti-establishment message and others criticizing it for extremist views or lack of clear policy positions. Given these mixed perceptions, I hold a somewhat favorable opinion but recognize that many people might view it less positively. Therefore, I would choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am aware that Kukiz'15 is a political movement in Poland known for its populist and anti-establishment stance. Depending on current political developments and public perception, opinions about Kukiz'15 may vary. Given that I do not have access to recent survey data, I will base my judgment on general public sentiment typical for similar political movements. Considering that Kukiz'15 has a mixed reputation\u2014some supporters appreciate its reformist and anti-corruption efforts, while critics may view it skeptically\u2014an average or moderate opinion might be appropriate. Therefore, I lean toward a somewhat favorable view, assuming some appreciation for its outsider status and reform intentions, despite possible criticisms. My choice reflects an optimistic but cautious perspective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the descriptions provided, Kukiz'15 has a mixed reputation with some supporters appreciating its anti-establishment and reformist stance, while critics hold skeptical views. Given this, a somewhat favorable opinion seems appropriate because it recognizes the movement's positive aspects but also acknowledges potential criticisms and controversies. Therefore, I am inclined to reaffirm the choice of B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the information provided and considering the generally mixed yet somewhat positive perception of Kukiz'15 among the public, I believe that a moderate favorable opinion aligns well with its reputation and political stance. The movement's efforts to challenge traditional parties and promote reform seem to attract support from those seeking change, though skepticism remains among some segments. Therefore, I maintain that a somewhat favorable view is appropriate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Kukiz'15 has gained some support among voters looking for alternatives to traditional parties, and although it has a strong populist and nationalist stance that can be polarizing, I see it as having a somewhat favorable image due to its anti-establishment efforts and desire for change. However, the mixed public perception and concerns about extremism or policy clarity prevent me from rating it more highly. I therefore hold a somewhat favorable opinion.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the existing opinions and the general perception of Kukiz'15 as a movement that has some public support due to its anti-establishment and reformist stance, but also faces skepticism because of its populist and nationalist tendencies, I believe that a somewhat favorable opinion best captures its current image. It is viewed positively by supporters seeking change, yet it remains polarizing for others. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Kukiz'15 is a political movement that has garnered support from voters seeking anti-establishment change and reform. It has a mixed reputation, with supporters appreciating its focus on populist policies and challenger stance, while critics often cite concerns about extremism and policy coherence. Given this nuanced perception, I believe a somewhat favorable view best captures its current public image, acknowledging both its appeal and controversies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Kukiz'15 is recognized for its anti-establishment, reformist approach, which appeals to voters seeking change and challenging traditional political structures. While it has gained some support, it also faces criticism and skepticism from others. Given this mixed perception but leaning towards a generally positive view of its reformist intentions, a somewhat favorable opinion seems appropriate. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

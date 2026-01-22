@@ -1,0 +1,62 @@
+{
+  "question": "As I read this list of countries and organizations, please tell me if each has done a great deal, fair amount, not very much or nothing at all to assist Japan with the impact of the earthquake and tsunami...the United States",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not very much",
+    "Nothing at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The United States has historically been one of Japan\u2019s closest allies and has provided substantial aid and support in the aftermath of natural disasters like earthquakes and tsunamis. Given the extensive humanitarian aid, rescue operations, financial assistance, and ongoing cooperation, I believe the US has done a great deal to assist Japan in this context.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United States has historically been a strong supporter of Japan in times of disaster, providing significant aid, rescue teams, financial assistance, and diplomatic support following the earthquake and tsunami. The extent of their involvement in such crises usually surpasses a fair amount, often reaching a great deal, reflecting their strategic partnership and commitment to disaster relief. Given this context, I believe their response has been substantial, although the precise level may vary depending on specific incidents. Nonetheless, they have played a major role in assisting Japan during such emergencies.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United States has historically been a major supporter of Japan following natural disasters, providing extensive aid in terms of rescue teams, supplies, and financial assistance. The swift mobilization of rescue personnel and cooperation at various levels demonstrates significant commitment and resource investment. Considering this, I believe the United States has done a great deal to assist Japan with the impact of the earthquake and tsunami.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given the extensive and prompt support the United States has historically provided to Japan during earthquakes and tsunamis, including rescue teams, financial aid, and diplomatic backing, their involvement has been substantial and impactful. The responses from other participants also recognize this level of assistance as being significant, often equating to a great deal. Considering this context, I believe their support has been significant and consistent with a great deal of aid.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United States has historically been a strong supporter of Japan, especially during times of crisis. Their quick response with rescue teams, humanitarian aid, financial assistance, and ongoing cooperation after the earthquake and tsunami demonstrate a significant level of support. Considering this, I believe they have indeed done a great deal to assist Japan in mitigating the disaster's impact.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United States has provided a significant level of assistance to Japan following the earthquake and tsunami, including humanitarian aid, rescue efforts, and financial support. Their longstanding alliance and active involvement during such crises indicate that they have contributed a great deal to Japan's disaster response and recovery efforts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the United States demonstrated a strong commitment to helping Japan during the earthquake and tsunami through prompt rescue efforts, humanitarian aid, and financial support. Their longstanding alliance and active engagement indicate that they have done a great deal to assist Japan in its recovery efforts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United States has historically been a strong supporter during Japan's natural disasters, providing rescue teams, financial aid, and diplomatic support rapidly and effectively. Their assistance has been comprehensive and impactful, demonstrating a clear commitment to helping Japan recover from earthquakes and tsunamis. Based on these considerations, their level of aid aligns most closely with a great deal of support.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United States has historically played a significant role in assisting Japan during natural disasters, providing immediate rescue teams, financial aid, and ongoing support to help recovery efforts. Their quick and substantial response in past crises demonstrates a high level of commitment and aid. Based on this context, I believe their support has been a great deal.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

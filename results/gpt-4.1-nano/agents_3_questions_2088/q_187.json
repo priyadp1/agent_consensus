@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way...Mexican President Felipe Calder\u00f3n...is dealing with the new Arizona immigration law?",
+  "options": [
+    "Approve",
+    "Neither approve nor disapprove  (DO NOT READ)",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have information indicating that Mexican President Felipe Calder\u00f3n has publicly addressed or taken a stance on the Arizona immigration law. Without clear knowledge of his position, I find it difficult to approve or disapprove. Therefore, I am neutral and neither approve nor disapprove.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have information on Mexican President Felipe Calder\u00f3n's specific actions or statements regarding the Arizona immigration law, thus I cannot definitively approve or disapprove. Without clear details, my stance would be neutral. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not have enough information about how Mexican President Felipe Calder\u00f3n is specifically addressing the Arizona immigration law to form an opinion. Additionally, as a foreign observer, I might rely on publicly available opinions or statements, but without a clear stance or actions from his side, I cannot definitively approve or disapprove. Therefore, I am neutral about his handling of this issue.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have enough information about how Mexican President Felipe Calder\u00f3n is specifically addressing the Arizona immigration law to form a clear opinion. Without specific actions or statements, I cannot properly evaluate his response. Therefore, I am neutral about his handling of this issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have specific information on Mexican President Felipe Calder\u00f3n's public stance or actions regarding the Arizona immigration law. Without clear knowledge of his position, I cannot confidently approve or disapprove. Therefore, I choose to remain neutral.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Since there is no publicly available information indicating that Mexican President Felipe Calder\u00f3n has taken a stance or publicly addressed the Arizona immigration law, I cannot assess approval or disapproval. Based on the lack of specific knowledge about his position, I would choose a neutral stance.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have specific information on Mexican President Felipe Calder\u00f3n's stance or actions regarding the Arizona immigration law. Since there is no publicly available information indicating that he has taken a stance or publicly addressed the issue, I cannot confidently approve or disapprove. Therefore, I choose to remain neutral.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have clear information on whether Mexican President Felipe Calder\u00f3n has publicly addressed or taken a stance regarding the Arizona immigration law. Without specific actions, statements, or indications of his position, I cannot form an informed opinion about his handling of this issue. Therefore, I am neutral on this matter.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not have specific information on Mexican President Felipe Calder\u00f3n's public stance or actions regarding the Arizona immigration law. Without clear knowledge of his response, I cannot confidently approve or disapprove. Therefore, I choose to remain neutral.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Mustapha Ben Jaafar? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Mustapha Ben Jaafar is a respected political leader who has contributed meaningfully to national discourse and democratic development. Given his role in promoting dialogue and reform, I hold a somewhat favorable opinion of him, acknowledging both his positive efforts and the complexities inherent in political leadership. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Mustapha Ben Jaafar is a figure who has played a significant role in Tunisian politics, especially during the transitional period after the 2011 revolution. He has been associated with efforts toward democratic development and has garnered respect from many sectors for his leadership. However, opinions about him may vary depending on individual political perspectives and the current socioeconomic context. Considering these factors, I lean towards a somewhat favorable opinion, recognizing his contributions but also acknowledging that not everyone may support his policies or actions. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mustapha Ben Jaafar. He has played a significant role in Tunisian politics and is seen as a figure committed to democratic principles and reform. His leadership during critical moments has earned respect, although some might view certain decisions differently. Overall, I perceive him positively with some reservations based on political complexities and differing perspectives. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a respectful view of Mustapha Ben Jaafar due to his role in Tunisia's democratic transition. His leadership during critical times has contributed positively to the country's political development, and many consider him a dedicated advocate for democratic principles. While I acknowledge that opinions about him vary, I lean towards a generally favorable perception based on his contributions and ongoing influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mustapha Ben Jaafar. He is recognized for his contributions to Tunisia's democratic transition and his efforts to promote dialogue and reform. While I appreciate his positive role in politics, I also acknowledge that leadership involves complexities and differing perspectives that can temper my view. Overall, I hold a generally respectful opinion with some reservations about certain decisions or actions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Mustapha Ben Jaafar because he has played a notable role in Tunisia's political transition and democratic development, earning respect in many sectors. While I acknowledge his contributions, I also recognize that opinions about him can vary depending on individual political views and current circumstances. Given this, I lean toward a somewhat favorable perspective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mustapha Ben Jaafar because of his significant contributions to Tunisia's democratic transition and efforts to promote dialogue and reform. While I recognize these positive aspects, I also understand that opinions about political figures can vary depending on individual perspectives and ongoing circumstances. Overall, my view is generally respectful but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a respectful view of Mustapha Ben Jaafar due to his significant role in Tunisia's democratic transition and his ongoing influence advocating for democratic principles. His leadership during critical times has contributed positively to the country's political development, and many respect his dedication. While opinions about him can vary, I lean toward a somewhat favorable perception based on his contributions and reputation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe I have a somewhat favorable opinion of Mustapha Ben Jaafar. He has played a significant role in Tunisia's democratic transition, advocating for dialogue and reform. While I respect his contributions, I also recognize that political leadership can be complex and subject to criticism, which tempers my overall view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way President Nicolas Maduro is handling each of the following areas? a. unemployment",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perception of Maduro's handling of unemployment is complicated by the country's ongoing economic challenges, including high inflation and a shrinking formal job market. While some initiatives have been introduced to stimulate employment, evidence suggests that unemployment remains a significant issue for many Venezuelans. Therefore, my view is that the government's efforts have not significantly improved the employment situation. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe many Venezuelans face ongoing economic challenges, and while some policies may have been implemented to address unemployment, the overall impact appears mixed. Given the complex economic situation, my perception leans towards disapproval of Maduro's handling of unemployment, as unemployment remains a significant concern in the country. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that President Nicolas Maduro's handling of unemployment has faced significant challenges, as countrywide economic difficulties and high unemployment rates suggest struggles in effectively addressing job creation and economic growth. While there may be some government initiatives, the overall impact appears limited, leading me to disapprove of his approach in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the information from other respondents indicating ongoing economic challenges and high unemployment rates, and their overall inclination towards disapproval due to limited effectiveness of policies, I share the viewpoint that President Nicolas Maduro has not effectively handled unemployment. The persistent economic difficulties suggest that his measures have not sufficiently reduced unemployment or improved job prospects for Venezuelans.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the context of ongoing economic challenges, high unemployment, and limited impact of government initiatives, I believe that President Nicolas Maduro is not effectively addressing unemployment. Despite some efforts, the evidence suggests that unemployment remains a significant problem, and his handling does not appear to have substantially improved the situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the ongoing economic difficulties in Venezuela, including high inflation and persistent unemployment, and considering that Maduro's efforts appear insufficient to significantly improve the employment situation, I would disapprove of his handling of unemployment.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the ongoing economic challenges in Venezuela, including persistently high unemployment and the perception that government efforts have not significantly improved the situation, I disapprove of President Nicolas Maduro's handling of unemployment. The evidence suggests that despite some initiatives, unemployment remains a major issue, indicating that his strategies have not been effective enough to address the problem adequately.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the ongoing economic challenges in Venezuela, including high unemployment rates, and the perception that Maduro's policies have not sufficiently addressed these issues, I disapprove of his handling of unemployment. The persistent economic difficulties and limited improvements suggest his efforts are inadequate to reduce unemployment effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the ongoing economic difficulties in Venezuela, the persistent high unemployment rate, and the limited effectiveness of policies under President Nicolas Maduro's administration as reflected in respondent opinions, I believe that he is not effectively handling unemployment. The situation suggests that current measures have not substantially improved employment prospects or reduced unemployment levels. Therefore, I disapprove of his handling in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me which of the following is closest to your own opinion. Less inefficient large enterprises is helpful for economic improvement OR Less inefficient large enterprises is not helpful for economic development",
+  "options": [
+    "Less inefficient large enterprises is helpful for economic improvement",
+    "Less inefficient large enterprises is not helpful for economic development"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient can significantly contribute to economic improvement because it can lead to higher productivity, better resource allocation, and increased competitiveness. Efficient large enterprises can generate more revenue, create jobs, and foster innovation, all of which are beneficial for economic development. Therefore, reducing inefficiency in large enterprises is helpful rather than unhelpful for economic progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that reducing inefficiency in large enterprises would be helpful for economic improvement because it can lead to better productivity, lower costs, and more sustainable growth. When large enterprises operate more efficiently, they can contribute to a healthier economy by providing more stable employment, increasing innovation, and improving competitiveness in the global market. Conversely, if large enterprises remain inefficient, they may drain resources and hinder overall economic progress, making efficiency crucial for development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient is helpful for economic improvement because efficiency can lead to higher productivity, better competitiveness, and overall growth in the economy. When large enterprises operate more efficiently, resources are utilized better, costs are reduced, and they can contribute more effectively to employment and innovation. This, in turn, can positively impact economic development on a broader scale. Therefore, reducing inefficiency in large enterprises aligns with fostering economic progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient is helpful for economic improvement because increased efficiency can enhance productivity, reduce costs, and lead to more sustainable growth. When large firms operate efficiently, they can better contribute to economic development by creating jobs, fostering innovation, and competing effectively in global markets. Inefficient large enterprises, on the other hand, tend to deplete resources and slow down overall economic progress. Therefore, reducing their inefficiency is beneficial for economic development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient is helpful for economic improvement because increased efficiency can lead to higher productivity, better resource utilization, and enhanced competitiveness. Efficient large enterprises are more capable of contributing to economic growth, job creation, and innovation, all of which support broader economic development. Therefore, reducing inefficiency in large enterprises aligns with the goal of fostering a stronger economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient is helpful for economic improvement because it enhances productivity, reduces waste, and boosts competitiveness, all of which can lead to sustained economic growth and development. Efficient large enterprises can better contribute to employment, innovation, and resource utilization, supporting broader economic progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient is helpful for economic improvement because increased efficiency leads to higher productivity, better resource utilization, and stronger competitiveness. These factors contribute positively to overall economic growth, job creation, and innovation, which are essential for broader economic development. Enhancing efficiency in large firms aligns closely with fostering a healthier and more dynamic economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient is helpful for economic improvement because increased efficiency leads to higher productivity, resource savings, and greater competitiveness. When large firms operate efficiently, they contribute more effectively to employment, innovation, and sustainable growth, which collectively support broader economic development. Inefficient large enterprises tend to waste resources and can hinder progress, so reducing their inefficiency is beneficial for overall economic improvement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that making large enterprises less inefficient is helpful for economic improvement because improving efficiency in big firms can lead to increased productivity, better resource utilization, and greater competitiveness. When large enterprises operate more efficiently, they can contribute more effectively to economic growth, innovation, and employment, which ultimately supports overall economic development. Reducing inefficiency in large firms aligns with the goal of fostering a stronger, more sustainable economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

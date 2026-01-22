@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Supreme Council of the Armed Forces? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the Supreme Council of the Armed Forces because their role in the country's political transitions has been controversial at times, and their influence often raises concerns about military dominance over civilian governance. While they may have maintained stability in certain periods, skepticism about their intentions and actions persists among many citizens, leading me to feel somewhat unfavorable towards them.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the Supreme Council of the Armed Forces. My reasoning is based on the perception that their role in managing political transitions has sometimes been seen as inconsistent or controversial, and there are concerns about their influence over democratic processes and civil liberties in the country. While I recognize their significance in national security and stability, I remain cautious about their overall impact on democratic governance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of the Supreme Council of the Armed Forces is cautious and critical due to concerns over transparency, governance, and accountability. While I recognize their role in maintaining stability, I am wary of their influence over political matters and the potential for power concentration. Therefore, I lean towards viewing them unfavorably.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the Supreme Council of the Armed Forces. While I acknowledge their role in maintaining stability and national security, I am concerned about issues related to transparency, influence over political processes, and accountability. These factors lead me to view their impact on democratic governance with caution and some skepticism.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I tend to view the Supreme Council of the Armed Forces somewhat unfavorable due to ongoing concerns about military influence over politics, transparency issues, and accountability. While I acknowledge they have contributed to stability at times, their role often raises questions about civilian governance and democratic principles, leading me to feel somewhat unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the Supreme Council of the Armed Forces because I am concerned about their influence over political transitions and democratic processes. Their role often appears to undermine civilian governance and civil liberties, leading me to view them cautiously and somewhat unfavorably.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have concerns about the military's influence over political processes and the potential undermining of civilian governance and democratic principles. While acknowledging their role in stability, the issues of transparency and accountability lead me to lean toward an unfavorable view of the Supreme Council of the Armed Forces.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the Supreme Council of the Armed Forces because I believe their influence over political transitions and governance can undermine democratic processes and civil liberties. Their role seems to prioritize stability over transparency and civilian control, which raises concerns about accountability and democratic integrity.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable view of the Supreme Council of the Armed Forces. While I recognize their role in maintaining stability and security, I am concerned about issues such as transparency, civilian oversight, and potential overreach of military influence in politics. These factors make me cautious about their impact on democratic governance and civil liberties, leading to a somewhat unfavorable opinion.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

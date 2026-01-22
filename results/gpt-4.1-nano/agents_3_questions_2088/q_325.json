@@ -1,0 +1,62 @@
+{
+  "question": "And what about the different products that are now available from different parts of the world - do you think this is a very good thing, somewhat good, somewhat bad or a very bad thing for our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The availability of diverse products from different parts of the world generally broadens consumer choices and can promote economic growth through increased competition and innovation. It allows people to access high-quality and unique items that might not be produced domestically, potentially improving living standards. However, there can be concerns about local industries being impacted or losing cultural identity. Overall, considering the benefits of access to international goods and the potential for positive economic effects, this trend largely benefits the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The availability of different products from various parts of the world can be highly beneficial for our country. It fosters diversity, provides consumers with more choices, and can lead to competitive pricing and innovation. Access to international products also supports globalization and cultural exchange, which can boost our economy and broaden our perspectives. While there might be concerns about local industries or quality, overall, the positive impacts outweigh the negatives, making this development a valuable opportunity for growth and enrichment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Having access to a wide variety of products from different parts of the world is generally a positive development because it provides consumers with more choices, often at more competitive prices. It can also foster cultural exchange and innovation. However, it may pose challenges to local industries and could lead to over-reliance on foreign goods, which might be risky for the country's economic stability. Overall, the benefits seem to outweigh the drawbacks, making it a somewhat good thing for the country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The availability of diverse products from around the world offers significant advantages such as increased choices for consumers, competitive prices, and opportunities for cultural exchange and innovation. While there are some concerns about impacts on local industries and economic dependence, the overall benefits seem to promote economic growth and cultural enrichment. Therefore, I believe it is a somewhat good development for our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that having access to a variety of international products is a generally positive development for our country. It broadens consumer choices, encourages competition, and stimulates innovation, which can lead to improved living standards. While there are potential risks to local industries and cultural identity, the overall benefits\u2014such as economic growth and cultural exchange\u2014seem to outweigh those concerns. Therefore, I see this as a somewhat good thing for our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the availability of products from different parts of the world is a very positive development for our country. It provides consumers with more choices and access to innovative and high-quality items, which can enhance our standard of living. While there are concerns about the impact on local industries and cultural identity, the overall benefits\u2014such as economic growth, increased competition, and cultural exchange\u2014outweigh the negatives. Embracing global product diversity can foster progress and enrich our society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having access to products from different parts of the world is a very positive development for our country. It offers consumers more choices, introduces innovative and high-quality products, and can boost economic growth through increased competition. While there are valid concerns about protecting local industries and cultural identity, the overall benefits of international product diversity\u2014such as enhanced standards of living and cultural exchange\u2014make this a very good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the availability of products from different parts of the world is a very positive development for our country. It offers consumers greater choices, access to innovative and high-quality items, and the potential for cultural exchange and economic growth. While there are some concerns about local industries and cultural identity, the overall advantages seem to outweigh the negatives, fostering progress and societal enrichment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the availability of diverse international products is a positive development for our country. It increases consumer choices, fosters healthy competition, and encourages innovation, all of which can improve living standards. Although there are concerns about effects on local industries and cultural identity, the overall advantages\u2014such as economic growth and cultural exchange\u2014seem to outweigh these issues. Therefore, I consider this a somewhat good thing for our country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

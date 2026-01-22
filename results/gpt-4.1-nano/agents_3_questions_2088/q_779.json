@@ -1,0 +1,63 @@
+{
+  "question": "Do you think the North American Free Trade Agreement, or NAFTA, has been a very good, somewhat good, somewhat bad or very bad thing for your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has been somewhat good for my country because it has increased trade and investment opportunities, leading to economic growth and job creation in certain sectors. However, it has also resulted in job losses and wage pressures in some industries, which makes the overall impact mixed. Therefore, I see it as more beneficial than harmful, but not without challenges.\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has had mixed effects on my country. On one hand, it has increased trade and economic opportunities, which can be beneficial for growth and employment. On the other hand, some industries have suffered due to competition from imports, leading to job losses and economic challenges in certain regions. Overall, I see the agreement as somewhat beneficial but with significant drawbacks, so I would categorize it as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has been somewhat good for my country because it has helped increase trade and economic opportunities, but it has also led to job losses in certain sectors and concerns about inequality. While it has overall benefited our economy by integrating with North American markets, some communities have faced challenges. Therefore, I see it as a mixed outcome with more positive than negative effects.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has had mixed effects on my country. While it has created new trade opportunities and supported economic growth in certain sectors, it has also contributed to job losses and economic difficulties in some industries and regions. Overall, I feel it has been somewhat beneficial but not without significant drawbacks. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has been a somewhat good for my country because it has increased trade and investment opportunities, leading to economic growth and job creation in certain sectors. However, it has also resulted in job losses and wage pressures in some industries, which makes the overall impact mixed. Therefore, I see it as more beneficial than harmful, but not without challenges.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has had mixed effects on my country. While it has created new trade opportunities and stimulated economic growth in some sectors, it has also led to job losses and challenges for certain industries. Overall, I see it as somewhat beneficial but not without significant drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has been a somewhat beneficial development for my country because it has promoted increased trade and economic growth in certain sectors. However, it has also caused job losses and wage pressures in specific industries, making the overall impact mixed. Considering both the positives and negatives, I see it as more good than bad but recognize significant drawbacks.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has had mixed effects on my country. While it has provided opportunities for economic growth and increased trade, it has also caused job losses and challenges in certain industries. Overall, I consider it to be somewhat good, acknowledging both its benefits and drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe NAFTA has had both positive and negative effects on my country. It has created opportunities for trade and economic growth, which have benefited some sectors and regions. However, it has also led to job losses and challenges in certain industries, making its overall impact mixed. Considering these factors, I see it as somewhat beneficial but not entirely without drawbacks.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

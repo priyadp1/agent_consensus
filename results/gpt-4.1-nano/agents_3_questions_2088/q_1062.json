@@ -1,0 +1,62 @@
+{
+  "question": "Do you think actions taken by the international community to address global climate change, such as the Paris climate agreement, will mostly benefit the public\u2019s economy, mostly harm the public\u2019s economy, or have no impact?",
+  "options": [
+    "Mostly benefit",
+    "Mostly harm",
+    "No impact",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that international actions to address global climate change, such as the Paris agreement, will mostly benefit the public\u2019s economy in the long run. While there might be immediate costs associated with implementing new policies and transitioning to cleaner energy sources, these efforts can foster innovation, create new industries, and promote sustainable growth. Additionally, mitigating climate change can prevent costly damages from environmental disasters, health issues, and resource depletion, ultimately leading to economic stability and prosperity for the public. Therefore, the overall economic impact of such international cooperation is likely to be predominantly positive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Actions taken by the international community to address global climate change, like the Paris agreement, are likely to have a mixed impact on the economy. In the short term, implementing new policies and transitioning to cleaner energy sources may increase costs for industries and consumers, potentially causing some economic challenges. However, in the long run, such efforts can stimulate innovation, create new employment opportunities, and lead to sustainable economic growth. Overall, the consensus tends to lean toward these actions ultimately benefiting the economy by promoting sustainability and resilience, although the immediate effects might be challenging for some sectors. Therefore, I believe these actions will mostly benefit the public\u2019s economy in the long term.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The actions taken by the international community to address global climate change, such as the Paris agreement, have the potential to both benefit and harm the public\u2019s economy, depending on how they are implemented. Many see these measures as investments in sustainable industries and innovation, which could stimulate economic growth and job creation in the long term. However, there are concerns that strict regulations and shifts away from fossil fuels might impose short-term costs on certain sectors, possibly leading to economic disruptions. Overall, while there may be some initial challenges, the transition towards sustainable practices is likely to foster new economic opportunities rather than predominantly harm the economy. Therefore, I believe these actions will mostly benefit the public\u2019s economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the actions taken by the international community to address global climate change, such as the Paris agreement, will mostly benefit the public\u2019s economy in the long run. While there may be short-term costs and adjustments needed, investing in sustainable energy and innovation can lead to new job opportunities and economic growth over time. The shift towards environmentally responsible policies is likely to create resilient economic sectors and reduce the risks associated with climate-related damages, ultimately benefiting the economy more than harming it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that international efforts like the Paris climate agreement are likely to mostly benefit the public\u2019s economy in the long run. While there may be short-term costs and adjustments for certain industries, these measures can drive innovation, create new green jobs, and promote sustainable economic growth. Additionally, preventing severe climate-related damages can save economic resources and protect public well-being, leading to overall economic stability and prosperity. Therefore, I think these actions will mostly benefit the public\u2019s economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that international efforts to combat climate change, such as the Paris agreement, will mostly benefit the public\u2019s economy in the long run. While there are short-term costs associated with transitioning to cleaner energy and implementing new policies, these actions stimulate innovation, create new jobs, and foster sustainable economic growth. Additionally, preventing the severe damages caused by climate change can save costs related to disasters and health issues, further supporting economic stability. Overall, the positive impacts and potential for long-term prosperity suggest that these actions will mainly benefit the economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that international actions like the Paris climate agreement will mostly benefit the public\u2019s economy in the long run. Although there may be some short-term costs for certain industries, these measures can drive innovation, foster the development of green jobs, and promote sustainable economic growth. Additionally, preventing the severe damages caused by climate change can reduce future economic losses, health costs, and disaster-related expenses. Overall, the potential for long-term economic stability and prosperity leads me to think these actions will mainly benefit the economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that international efforts like the Paris climate agreement will mostly benefit the public\u2019s economy in the long run. While there might be some short-term costs associated with transitioning to cleaner energy sources and implementing new policies, these investments tend to stimulate innovation, create new jobs, and promote sustainable economic growth. Additionally, preventing and mitigating the severe damages caused by climate change can reduce costly disasters and health expenses, leading to overall economic stability and prosperity. The long-term benefits outweigh the immediate drawbacks, supporting the view that these actions are economically advantageous.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that actions by the international community to address global climate change, such as the Paris agreement, will mostly benefit the public\u2019s economy in the long run. While there may be short-term costs and adjustments for some industries, investing in sustainable energy and innovation can create new job opportunities, stimulate economic growth, and reduce future climate-related damages. These measures can foster resilience and stability, ultimately leading to economic benefits rather than harm.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

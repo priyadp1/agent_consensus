@@ -1,0 +1,62 @@
+{
+  "question": "All in all, how do you feel about the world becoming more connected through greater economic trade and faster communication - do you think this is a very good thing, somewhat good, somewhat bad or a very bad thing for our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that increased global connectivity through enhanced economic trade and faster communication generally benefits our country by fostering economic growth, innovation, and cultural exchange. These developments can lead to more opportunities, better access to information, and stronger international relationships. While there are challenges such as economic disruptions or cultural shifts, the overall positive impacts outweigh the negatives. Therefore, I see this trend as largely beneficial for our nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that increasing global connections through trade and communication generally benefits our country by creating new opportunities for economic growth, innovation, and cultural exchange. While there are challenges such as potential inequality or cultural shifts, the overall positive impacts tend to outweigh the negatives, fostering progress and a more interconnected world. Therefore, I see this as a very good development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that increased economic trade and faster communication generally bring many benefits, such as economic growth, innovation, and cross-cultural understanding. These connections can help our country access new markets, ideas, and collaborations that foster progress. However, there can also be challenges like economic dependency, job displacement, and cultural homogenization. Overall, I think the positive aspects outweigh the negatives, making this development more beneficial than harmful for our country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that greater economic trade and faster communication generally bring significant benefits to our country, including economic growth, innovation, and improved cultural understanding. While there are some challenges like economic dependency or cultural shifts, the overall positive impact tends to outweigh the negatives, supporting progress and global connectedness. Therefore, I see this as more beneficial than harmful for our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that increased global connectivity through economic trade and faster communication generally benefits our country by fostering economic growth, innovation, and cultural exchange. These developments create more opportunities, facilitate access to information, and strengthen international relationships. While there are challenges such as economic dependency or cultural shifts, the overall positive impacts tend to outweigh the negatives. Therefore, I see this trend as largely beneficial for our nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that increased global connectivity through economic trade and faster communication generally benefits our country by promoting economic growth, innovation, and cultural exchange. Despite some challenges, the positives such as more opportunities, access to information, and stronger international relationships outweigh the negatives. Therefore, I see this as a very good development for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that increased global connectivity through economic trade and faster communication generally benefits our country by fostering economic growth, innovation, and cultural exchange. These developments create more opportunities, facilitate access to information, and strengthen international relationships. While there are challenges such as economic dependency or cultural shifts, the overall positive impacts tend to outweigh the negatives. Therefore, I see this trend as largely beneficial for our nation. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that greater economic trade and faster communication generally have positive effects on our country. They promote economic growth, innovation, cultural exchange, and stronger international relationships. While there are valid concerns about dependency or cultural shifts, the overall benefits tend to outweigh the negatives. This development fosters progress and global interconnectedness, which is beneficial for our nation's future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the increasing global connectivity through economic trade and faster communication is generally a positive development for our country. It promotes economic growth, innovation, and cultural exchange, creating more opportunities and fostering international relationships. Although there are some challenges, such as economic dependency or cultural shifts, the overall benefits seem to outweigh the negatives, making this trend largely beneficial. Therefore, I see this as more beneficial than harmful for our country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

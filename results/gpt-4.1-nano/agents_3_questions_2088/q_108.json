@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very important, somewhat important, not too important, or not at all important reason why people in your country move to other countries. c. To find better educational opportunities",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people seek better educational opportunities because they believe it can improve their future prospects, provide higher quality schooling, or help their children succeed. Education is often seen as a key factor for personal and economic advancement, making it a significant reason for migration. Therefore, I consider it a very important reason.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people seek better educational opportunities abroad to improve their knowledge, skills, and future prospects. Education can be a strong motivator for migration, especially when local systems may not offer the desired quality or specialization. Therefore, I consider this a very important reason for migration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people around the world move to other countries in search of better educational opportunities, such as higher-quality universities, specialized training, or clearer pathways to careers. Education is a major driver for migration because it can significantly impact an individual's future prospects and income potential. Therefore, I believe this reason is quite important for many migrants.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that seeking better educational opportunities is a very important reason for people moving to other countries because access to higher-quality education, specialized programs, and better prospects can significantly influence individuals' decisions to migrate. Education can open doors to better career options and economic stability, making it a primary motivator for many migrants.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that seeking better educational opportunities is a very significant reason for migration because education can open doors to improved economic prospects, higher income, and personal development. Many individuals prioritize access to quality learning environments for themselves and their children, which it makes sense that this is viewed as a very important motivation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that seeking better educational opportunities is a very important reason for migration because education significantly impacts individuals' future success and quality of life. Many people move to access higher quality schooling or specialized programs not available locally, which can open doors to better career prospects and personal development. Given this, I consider it a very important reason.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that seeking better educational opportunities is a very important reason for migration because access to quality education can significantly impact individuals' future prospects, economic stability, and personal growth. Many people prioritize education for themselves and their children to secure better careers and life outcomes. Therefore, I consider it a very important reason.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that seeking better educational opportunities is a very important reason for people to move to other countries because access to higher-quality education and specialized programs can greatly influence migrants\u2019 decisions. Education often serves as a key motivator since it can lead to improved career prospects and personal growth, which are highly valued by individuals seeking better futures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I think that seeking better educational opportunities is a very important reason for people moving to other countries because access to quality education can significantly impact individuals\u2019 future prospects and quality of life. Educational opportunities often serve as a primary motivation, especially for families looking to secure better futures for their children as well as for individuals seeking personal advancement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

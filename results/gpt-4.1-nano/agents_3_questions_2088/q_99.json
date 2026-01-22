@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Health care",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider healthcare a critical issue because access to quality health services affects the well-being of individuals and the overall health of the population. In many areas, healthcare remains expensive or inaccessible, which can lead to serious health and economic problems. Therefore, I see healthcare as a very big problem facing our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that health care is a very big problem because many people struggle to access affordable and quality medical services, which can lead to poor health outcomes and increased financial burden. The healthcare system's shortcomings can significantly impact individuals and society as a whole. Therefore, I see health care as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe health care is a very big problem because many people struggle with access to affordable and quality medical services. The healthcare system's shortcomings can have serious consequences on people's well-being and overall public health. Therefore, I see it as a significant issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe health care is a very big problem because access to affordable and quality medical services remains a significant challenge for many people. This can lead to poor health outcomes and place a heavy financial burden on individuals and families, which indicates it is a major issue confronting our country today.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe healthcare is a very big problem because many people in our country face difficulties in accessing affordable and quality health services. When healthcare is inaccessible or too expensive, it affects the well-being of individuals and can lead to broader public health issues. Addressing healthcare concerns is essential for improving overall societal well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe healthcare is a very big problem because access to quality medical services is essential for the well-being of individuals and the health of the nation. In many places, healthcare remains expensive and difficult to access, leading to serious implications for people's health and economic stability. Ensuring accessible healthcare is crucial to addressing broader societal issues and improving overall quality of life. Therefore, I see healthcare as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe healthcare remains a very significant issue because it directly impacts people's health, financial stability, and overall well-being. When access to affordable and quality medical services is limited, it leads to serious consequences for individuals and society as a whole. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe health care remains a very big problem because many people still struggle to access affordable and quality medical services. This not only affects their health outcomes but also causes financial hardship, highlighting the need for significant improvements in our healthcare system to ensure better health and economic stability for all.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe health care is a very big problem because access to affordable and quality services remains a challenge for many, leading to poor health outcomes and financial strain on individuals. Improving healthcare access is crucial for the well-being of society as a whole.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

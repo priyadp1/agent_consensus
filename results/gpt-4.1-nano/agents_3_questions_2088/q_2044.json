@@ -1,0 +1,62 @@
+{
+  "question": "The National Security Law should be abolished.",
+  "options": [
+    "Strongly agree",
+    "Agree",
+    "Disagree",
+    "Strongly disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the National Security Law is necessary to maintain stability and security within the region. While I understand concerns about its impact on certain rights, the primary goal should be safeguarding the safety of citizens and the nation's sovereignty. Abolishing the law could undermine efforts to prevent threats and chaos, making it essential to preserve or possibly improve it rather than eliminate it altogether.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The National Security Law was implemented to maintain stability and safeguard national interests, especially in regions where security concerns are significant. While some argue it may restrict certain freedoms, the primary goal is to ensure overall safety and order. Abolishing it without considering alternatives could jeopardize security and stability, which are foundational to societal well-being. Therefore, I believe the law plays an important role and should remain in place with ongoing review and adjustments to balance security and freedoms.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the National Security Law is an important measure to ensure the stability and security of the country. While I acknowledge concerns about civil liberties, I think that maintaining national security should take precedence, especially in the context of regional stability and public safety. Therefore, I lean towards disagreeing with its abolition to preserve the current balance between security and freedoms.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that national security measures are essential for maintaining societal stability and protecting citizens from potential threats. While safeguarding security, it's equally important to ensure that freedoms and rights are preserved and that laws are applied fairly. Abolishing the law entirely could undermine the security framework that supports social order. Therefore, I lean toward maintaining the law with ongoing review to ensure a balanced approach.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that maintaining the National Security Law is essential for ensuring stability, security, and safeguarding national sovereignty. While I recognize the importance of civil liberties, the primary responsibility of the government is to protect its citizens and prevent chaos. Therefore, abolishing the law could undermine these efforts, and I support keeping it in place.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that maintaining national security is crucial for stability and safety, especially in regions with significant security concerns. While I acknowledge the importance of protecting individual freedoms, I think that the law, as it is, serves a necessary purpose to uphold sovereignty and prevent threats. Therefore, I do not support its abolition but believe it should be continually reviewed to balance security and freedoms appropriately.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that national security is vital for maintaining stability and protecting citizens. While I understand concerns about civil liberties, I think that abolishing the law could compromise security and sovereignty. A balanced approach with careful review might be better, but overall, I support keeping the law in place to ensure safety and order.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that maintaining a balanced approach to national security is essential for societal stability, but laws should also respect individual rights and freedoms. Abolishing the law entirely could compromise security and social order, which is not desirable. Therefore, I prefer to keep the law in place, while advocating for continuous review and adjustment to ensure it balances security needs with civil liberties.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that national security is vital for maintaining social order and protecting citizens. While individual rights and freedoms are important, they should not come at the expense of the country's safety and stability. If abolishing the law compromises security, it could lead to chaos and undermine the very stability that citizens rely on. Therefore, I support keeping the law in place, with ongoing review to balance security and rights.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

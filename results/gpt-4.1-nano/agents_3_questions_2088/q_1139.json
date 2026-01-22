@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements. b. Voting gives people like me some say about how the government runs things",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that voting is an essential way for citizens to have some influence over government decisions, even if it doesn't always lead to immediate change. This sense of participation helps uphold democratic principles and gives individuals a voice in shaping policies and leadership. Therefore, I mostly agree that voting gives people like me some say about how the government runs things.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that voting is an important way for citizens to have a voice in how the government is run. It provides a direct opportunity to influence policies and leadership decisions. Therefore, I mostly agree with the statement, but I may not fully see it as complete power to change everything. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that voting is an essential way for ordinary people to influence government decisions and policies. It offers a voice and a sense of participation in the democratic process, making citizens feel their opinions matter and can lead to change. Therefore, I mostly agree with the statement that voting gives people like me some say about how the government runs things.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that voting is an important way for citizens to have a voice in how the government is run. It provides an opportunity for influence and participation, but it may not always lead to direct or complete control over governmental decisions. Since the statement emphasizes that voting gives \"some say\" and I agree that it does offer a voice, I choose mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that voting provides a meaningful opportunity for individuals to influence government decisions and have their opinions heard, especially in a democratic system. It helps citizens feel connected to the political process and that their participation can lead to change. Therefore, I mostly agree that voting gives people like me some say about how the government runs things.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I mostly agree that voting gives people some say about how the government runs things. Both responses indicate a recognition of voting as an important influence and a way to shape leadership and policies, though not necessarily implying complete control. My view aligns with the idea that voting plays a significant role in democratic participation but does not guarantee total influence over government actions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that voting provides a meaningful opportunity for individuals to influence government decisions and have their opinions heard, especially in a democratic system. While voting may not guarantee complete control over government actions, it definitely gives people some say about how the government runs things by allowing them to choose representatives and influence policy directions. This aligns with the idea that voting is a crucial aspect of democratic participation, offering a voice in governance, even if it does not entail total influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that voting provides a meaningful way for individuals to have some influence over how the government is run, even if it does not result in complete control. Considering the extent of influence and participation I associate with voting, I would choose mostly agree because it acknowledges the role of voting in shaping governance without overstating its power.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that voting is an important way for citizens to have a voice in how the government is run. It provides an opportunity for influence and participation, but it may not always lead to direct or complete control over governmental decisions. The statement emphasizes that voting gives \"some say,\" and I agree that it does offer a voice. Therefore, I mostly agree that voting gives people like me some say about how the government runs things. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

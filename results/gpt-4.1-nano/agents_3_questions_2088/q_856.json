@@ -1,0 +1,62 @@
+{
+  "question": "Overall, what is your opinion of the German reunification of 1990?  Do you have a very positive, somewhat positive, somewhat negative, or very negative opinion of the reunification?",
+  "options": [
+    "Very positive",
+    "Somewhat positive",
+    "Somewhat negative",
+    "Very negative"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the German reunification of 1990 was a historic moment that ultimately contributed to the strengthening of Europe and provided opportunities for economic growth and cultural exchange between the former East and West Germany. Although it faced significant challenges and complexities, the overall outcome has been positive in promoting unity and stability. Therefore, I hold a somewhat positive opinion of the reunification.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I consider the German reunification of 1990 to be a largely positive development because it ended decades of division, restored national unity, and provided opportunities for economic and social integration. Although there have been challenges and disparities, the overall outcome has been beneficial for the country's stability and identity. Therefore, I have a somewhat positive opinion of the reunification.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I view the German reunification of 1990 as a significant and positive historical moment because it marked the end of decades of division, fostering unity and peace among Germans. While there were some challenges associated with integrating East and West Germany, overall, the reunification helped restore national dignity and offered opportunities for development and cooperation. Therefore, I feel somewhat positive about it, recognizing both its achievements and the ongoing efforts needed to address its complex consequences.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the reunification was a pivotal event that brought about a sense of national unity and ended a long period of division. It created opportunities for a more integrated and peaceful Germany, despite some challenges and disparities that followed. Overall, I see it as a positive development for the country's future and stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the reunification was a pivotal event that brought about positive change by ending decades of division and fostering a sense of unity among Germans. While there were challenges in the process, the overall impact has been beneficial in promoting stability, cooperation, and progress. Recognizing the complexities involved, I still hold a somewhat positive view of the reunification.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the German reunification of 1990 was a significant and positive milestone for Germany and Europe as a whole. It ended decades of division, fostered national unity, and opened up opportunities for social and economic integration, despite some challenges along the way. Overall, the outcome has been beneficial for promoting stability, collaboration, and shared identity among Germans. Therefore, I hold a somewhat positive opinion of the reunification.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the German reunification of 1990 was an important event that contributed positively to ending division and promoting unity among Germans. Although there were some difficulties in the transition, overall, the impact has been beneficial in fostering stability and a shared identity. Therefore, I hold a somewhat positive opinion of the reunification.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the German reunification of 1990 was a historic event that ultimately promoted national unity and laid the foundation for a more integrated and stable Germany and Europe. While there were some difficulties and inequalities following the process, the overall impact has been positive for fostering peace, collaboration, and a shared identity among Germans. Therefore, I have a somewhat positive opinion of the reunification.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the reunification of Germany in 1990 was a significant milestone that helped bring the nation together after years of division. It created opportunities for increased cooperation, economic growth, and cultural integration, despite some difficulties and disparities that emerged during the transition. Given the overall positive impact and the importance of unity for Germany\u2019s future stability, I hold a somewhat positive view of the reunification.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

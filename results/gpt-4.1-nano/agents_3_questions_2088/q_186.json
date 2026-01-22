@@ -1,0 +1,61 @@
+{
+  "question": "Would you favor or oppose further talks between India and Pakistan to try to reduce tensions between the two countries?",
+  "options": [
+    "Favor",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given the complex historical tensions and recurring conflicts between India and Pakistan, many believe that dialogue and diplomatic talks are essential to fostering understanding and reducing the risk of escalation. Engaging in discussions could help address longstanding issues, build trust, and explore peaceful solutions, which are crucial for regional stability. Therefore, supporting further talks aligns with the goal of promoting peace and stability in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would favor further talks between India and Pakistan because diplomacy and dialogue are essential tools for resolving long-standing conflicts. Engaging in talks can help build mutual understanding, reduce misunderstandings, and create opportunities for peaceful coexistence. While challenges remain, dialogue remains a crucial step toward lasting peace and stability in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that dialogue can be a constructive means to promote peace and stability in the region, especially considering the long history of tension and conflict between India and Pakistan. Continued talks might open pathways toward mutual understanding and resolution of outstanding issues, which could benefit both nations and the broader global community. Therefore, I would favor further talks.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that continued dialogue between India and Pakistan is essential for fostering peace and reducing tensions. Diplomatic talks provide a platform for both nations to address underlying issues, build mutual understanding, and work towards long-term stability. Given the history of conflicts and the potential benefits of peaceful resolution, I would favor further talks to promote regional harmony and security.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in diplomatic talks between India and Pakistan is essential for fostering understanding and reducing regional tensions. While the historical conflicts are complex, dialogue provides a peaceful avenue to address longstanding issues, build trust, and promote stability. Therefore, I favor further talks to encourage peaceful resolution and regional development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that further talks between India and Pakistan are necessary because sustained diplomacy can help address deep-rooted issues, reduce misunderstandings, and foster trust. Given the history of conflict, dialogue offers a peaceful pathway toward regional stability and improved relations. Engaging in open communication is a constructive approach to resolving long-standing tensions and preventing escalation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in diplomatic talks between India and Pakistan is crucial for promoting regional peace and stability. Despite historical conflicts, dialogue provides a constructive platform to address complex issues, build mutual trust, and reduce tensions. I support further talks to encourage peaceful resolution and foster better relations between the two nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in further dialogue between India and Pakistan is crucial for building trust, addressing the core issues that divide the two nations, and ultimately fostering regional peace. Diplomatic talks can serve as a vital mechanism to prevent escalation of conflicts and work towards long-term stability, which benefits both countries and the broader region. Given the history of tensions and the potential for constructive resolution through open communication, I would favor further talks to promote understanding and peace.\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that continued dialogue between India and Pakistan is crucial for fostering peace, understanding, and regional stability. Diplomatic talks create an opportunity to address long-standing conflicts, encourage trust, and work toward peaceful coexistence. Given the potential for positive outcomes and the importance of resolving tensions through peaceful means, I would favor further talks to promote regional harmony and security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

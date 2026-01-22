@@ -1,0 +1,60 @@
+{
+  "question": "Overall, do you approve or disapprove of the international policies of President Barack Obama?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama's international policies were generally aimed at improving diplomatic relations and promoting global stability, which I support. His efforts to strengthen alliances, engage in multilateral agreements, and focus on diplomacy over military conflict resonate positively with my views. Therefore, I approve of his policies overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama's international policies were generally aimed at diplomacy and multilateral cooperation, which I support. He sought to improve relationships with other countries, reduce military conflicts, and address global issues through engagement and dialogue. Given these efforts, I tend to approve of his approach to international relations. Therefore, I am inclined to select option A. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that President Barack Obama's international policies had a mixed record, with efforts to improve diplomatic relations like the Iran nuclear deal and re-engaging with global partners. However, some actions, such as drone strikes and intervention in certain conflicts, raised concerns. Overall, I lean towards disapproval because of the perceived long-term consequences and ethical considerations. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President Barack Obama's international policies involved significant efforts to promote diplomacy and multilateral cooperation, such as the Iran nuclear deal and re-engagement with global partners. While these initiatives had positive aspects, actions like drone strikes and military interventions raised ethical concerns and questions about long-term impacts. Overall, given these mixed effects and ethical considerations, I lean toward disapproval. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President Barack Obama's international policies were a mix of diplomatic efforts and military actions. While his initiatives to improve diplomatic relations and engage in multilateral agreements are commendable, some actions like drone strikes and interventions raise ethical and strategic concerns. Overall, given the balance of these factors, I lean towards disapproval. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support President Barack Obama's emphasis on diplomacy, multilateral cooperation, and efforts to reduce military conflicts, which align with promoting global stability and improving international relations. These policies seem to have been aimed at constructive engagement rather than confrontation, and I view them positively overall.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama's international policies were generally aimed at promoting diplomacy and international cooperation, which I view as positive steps towards global stability. While I acknowledge there were military actions as well, his emphasis on multilateral agreements and diplomatic engagement suggest a focus on constructive solutions rather than conflict. Therefore, I approve of his international policies overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support President Barack Obama's international policies because they emphasized diplomacy, multilateral engagement, and efforts to reduce military conflicts, which contributed to promoting global stability and improving international relations. While some actions like drone strikes raise concerns, overall, I believe his approach favored constructive global cooperation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that President Obama's international policies aimed to promote diplomacy, multilateral cooperation, and nuclear agreements, which are positive efforts. However, they were also accompanied by controversial actions such as drone strikes and military interventions that raised ethical and strategic concerns. Considering both the diplomatic achievements and the ethical issues, I lean toward disapproval of his policies overall. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

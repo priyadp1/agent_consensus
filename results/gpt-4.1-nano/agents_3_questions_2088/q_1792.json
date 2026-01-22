@@ -1,0 +1,62 @@
+{
+  "question": "Generally speaking, do you think ____ plays a more important role in the Middle East today compared with 10 years ago, a less important role, or about as important a role as it did 10 years ago? a. Russia",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In the context of recent developments in the Middle East, Russia's influence has fluctuated. Over the past decade, Russia has increased its involvement through military interventions, support to regimes, and diplomatic engagement, notably in Syria and various regional conflicts. This expansion suggests that Russia plays a more significant role today compared to 10 years ago, when its presence was relatively less pronounced. Therefore, it seems reasonable to conclude that Russia now holds a more important role in the Middle East.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past decade, Russia has increased its strategic engagements in the Middle East, notably through military interventions in Syria, expanding influence in regional politics, and fostering alliances with countries like Iran and Turkey. These actions have signaled a shift towards greater Russian involvement and influence in shaping regional dynamics. Consequently, I believe Russia now plays a more important role in the Middle East today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past decade, Russia has increasingly asserted itself in the Middle East through military involvement in Syria, increased diplomatic presence, and efforts to expand its influence in regional geopolitics. This has led many to believe that Russia's role has become more prominent compared to 10 years ago, when its influence was more limited or less apparent in the region. While other global powers like the United States and regional actors also play significant roles, Russia's strategic moves have significantly elevated its importance, making it more influential today.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given the increased military and diplomatic presence of Russia in the Middle East over the past decade, including active involvement in Syria and efforts to expand regional influence, it appears that Russia's role has become more prominent. These actions suggest Russia now plays a more significant role compared to 10 years ago, aligning with the views expressed by other respondents.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the recent developments and increased military and diplomatic engagement by Russia in the Middle East over the past decade, it appears that Russia now plays a more prominent and influential role than it did 10 years ago. Its interventions, particularly in Syria, and efforts to expand regional influence suggest its importance has grown. Therefore, I believe Russia's role has become more significant in this period.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the increased Russian military and diplomatic involvement in the Middle East over the past decade, particularly through interventions in Syria and expanded regional influence, it appears that Russia has assumed a more significant role in shaping regional dynamics than it did 10 years ago. This suggests that Russia\u2019s influence has grown and is now more prominent than before.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on recent developments and increased military and diplomatic involvement by Russia in the Middle East, especially in Syria, it is evident that Russia's influence has grown over the past decade. Its strategic moves and expanded regional engagement suggest a more prominent role compared to 10 years ago. Therefore, I believe Russia now plays a more important role in the Middle East today than it did a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the recent increased military and diplomatic activities of Russia in the Middle East, notably its interventions in Syria and efforts to expand regional influence, it is clear that Russia's role has become more prominent over the past decade. These developments suggest that Russia now plays a more important role compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the increased Russian military and diplomatic activities in the Middle East over the past decade, especially in Syria and other regional engagements, it is clear that Russia's role has grown significantly. This increased involvement suggests that Russia now plays a more important role than it did 10 years ago. Therefore, I believe Russia's influence in the Middle East has become more prominent in recent years.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

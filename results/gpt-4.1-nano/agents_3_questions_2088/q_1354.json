@@ -1,0 +1,63 @@
+{
+  "question": "Does this statement describe your country very well, somewhat well, not too well, or not well at all? a. Elected officials care what ordinary people think",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe elected officials care somewhat well about what ordinary people think. While some politicians may genuinely consider public opinion, it often does not fully influence their decisions or policies. This nuanced view reflects the typical perception that there is a gap between elected officials\u2019 intentions and the realities of political responsiveness. Therefore, selecting \"somewhat well\" captures this balanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe elected officials care somewhat well about what ordinary people think because while they sometimes listen to public opinion, their decisions are often influenced by political agendas, special interests, or other factors that may not always prioritize public sentiment. Therefore, the statement does not fully capture the reality but reflects a moderate level of concern.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe this statement describes my country somewhat well because, in general, elected officials tend to have some awareness of public opinion, especially during elections or when facing public pressure. However, not all officials consistently prioritize ordinary people's views, and there are instances where their actions don't seem aligned with public preferences. Therefore, I would select this as it captures a moderate level of alignment between officials' care and public opinion without overstating it.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe elected officials care somewhat well about what ordinary people think because, although they often consider public opinion, their decisions are also influenced by other factors like political agendas and special interests. This suggests that there is some level of care, but it is not comprehensive or fully aligned with public sentiment. Therefore, I would select this as it captures a moderate level of alignment between officials' care and public opinion without overstating it.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials' concern for what ordinary people think tends to be moderate. While there are instances when politicians respond to public opinion, especially during elections or in response to pressure groups, there is also significant evidence that many officials do not prioritize or fully consider the preferences of the general populace in their decision-making. This suggests that the level of care shown by elected officials is often somewhat well but not consistently or deeply rooted. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials care somewhat well about what ordinary people think. While there is some consideration of public opinion, multiple factors such as political agendas and special interests often influence their decisions more heavily. This suggests a moderate level of responsiveness rather than full attentiveness, aligning with a \"somewhat well\" perception.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials care somewhat well about what ordinary people think. While they do show some responsiveness, it is often limited by other factors such as political agendas, special interests, and strategic considerations. This results in a moderate level of concern rather than a strong or consistent focus on public opinion. Based on these observations and the patterns seen in other responses, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials care somewhat well about what ordinary people think. While they may take public opinion into account at times, their actions are often driven by political agendas, special interests, and other factors that can overshadow the expressed desires of the populace. This indicates a moderate level of consideration rather than strong or minimal concern. Therefore, I would select this as it reflects a nuanced view of responsiveness that is neither overly optimistic nor dismissive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials' concern for what ordinary people think is moderate. While they sometimes listen and respond to public opinion, it is also clear that other factors such as political interests, pressure groups, and ideological agendas heavily influence their decisions. Based on this, their level of care can be characterized as somewhat well, as there is some recognition of public opinion but not a consistent or strong prioritization. Therefore, I would select B. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

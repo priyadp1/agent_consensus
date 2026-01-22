@@ -1,0 +1,62 @@
+{
+  "question": "How reliable of an ally is\u2026Britain? Is\u2026Britain...very reliable, somewhat reliable, not too reliable or not at all reliable as an ally?",
+  "options": [
+    "Very reliable ally",
+    "Somewhat reliable ally",
+    "Not too reliable ally",
+    "Not at all reliable ally"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Britain has historically been a strong and dependable partner in various international alliances, such as NATO, and has played significant roles in global security and diplomacy. While its reliability can sometimes be influenced by shifting political priorities or changes in government, overall, Britain tends to be committed to its alliances and international obligations. Therefore, it is generally considered a fairly dependable ally, though not necessarily flawless or unwavering at all times.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Britain has historically been considered a reliable ally, especially within frameworks like NATO and in its diplomatic and military collaborations. While there have been moments of discord or disagreements, overall, Britain tends to fulfill its commitments and maintain strong diplomatic relations. Its long-standing alliances and shared interests with many countries reinforce its reputation as a dependable partner on the international stage. However, like any country, its reliability can vary depending on specific circumstances or political decisions at given times, but generally, it is seen as a trustworthy ally. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Britain has historically been a steadfast ally to many countries, especially through NATO and various diplomatic and military partnerships. Despite occasional disagreements or policy shifts, it generally maintains strong commitments to its allies and upholds international agreements. While no international alliance is perfect and some critics might point to moments of divergence, overall, Britain\u2019s track record suggests it can be trusted to a significant degree as an ally. Therefore, it falls into the category of being quite dependable, though not infallible.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the historical and ongoing commitments of Britain as a NATO member and its consistent diplomatic and military collaborations, I view Britain as a dependable partner in international affairs. While no country is perfect, Britain\u2019s track record of fulfilling its alliances and maintaining strong relationships suggests it is a very reliable ally overall. Its reputation for commitment and trustworthiness in the international community supports this perspective.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the historical involvement of Britain in international alliances like NATO, its consistent participation and commitment to global security efforts suggest a high level of reliability. While occasional political shifts or disagreements may affect cooperation temporarily, overall, Britain demonstrates a steady and dependable approach as an ally. Considering these factors, I believe Britain is quite a trustworthy partner in international relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Britain is generally a dependable ally due to its long-standing commitments and active participation in international alliances like NATO. While there can be occasional disagreements or shifts in policy, overall, Britain maintains strong diplomatic and military relationships that support its reputation as a trustworthy partner. Given this, I would select the option that best reflects a high level of reliability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the historical evidence of Britain's consistent involvement in international alliances such as NATO, its demonstrated commitment to global security efforts, and its generally steady diplomatic and military relations, I believe Britain is quite a trustworthy partner in international relations. Although occasional political shifts may cause temporary disagreements, these do not significantly undermine its overall reliability as an ally. Therefore, I consider Britain a very reliable ally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Britain is generally a dependable ally based on its long-standing commitments, active participation in alliances like NATO, and its consistent diplomatic and military support. While no country is perfect and occasional disagreements may occur, overall, Britain demonstrates strong loyalty and reliability as a partner on the international stage. This makes it a very reliable ally in my view.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Britain is a highly dependable ally, given its long-standing commitment to international alliances such as NATO, its consistent participation in global security efforts, and its track record of honoring diplomatic and military commitments. While no country is perfect, Britain\u2019s reputation for reliability and trustworthiness in international affairs has been proven over many decades, making it a very reliable partner overall. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

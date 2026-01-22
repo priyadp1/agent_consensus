@@ -1,0 +1,60 @@
+{
+  "question": "Which comes closer to describing your view?...I favor the US-led efforts to fight terrorism, OR I oppose the US-led efforts to fight terrorism",
+  "options": [
+    "I favor the US-led efforts to fight terrorism",
+    "I oppose the US-led efforts to fight terrorism"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support efforts to combat terrorism led by the US because such initiatives are crucial for ensuring national and global security. While I recognize that there may be complexities and criticisms regarding specific policies, I generally believe that confronting terrorism is necessary for maintaining safety and stability worldwide. Therefore, I lean toward favoring the US-led anti-terrorism efforts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support the efforts led by the US to combat terrorism because I believe that coordinated international actions are necessary to effectively address the threat and ensure safety and security for all. While I recognize there may be concerns about implementation or impact, I think that opposing these efforts could hinder global safety initiatives. Therefore, I align with the view that favors the US-led initiatives in fighting terrorism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support the US-led efforts to fight terrorism because I believe they are necessary to protect national security and prevent future attacks. While I recognize that such efforts can have complex implications, I generally see the need for coordinated international action to address global threats. Therefore, I align more with favoring these efforts rather than opposing them.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support efforts led by the US to combat terrorism because I believe that coordinated international actions are necessary to effectively address the threat and ensure safety and security for all. I recognize the importance of global cooperation in combating terrorism and believe that these efforts contribute to protecting both national and international security. Therefore, I align more with favoring these efforts rather than opposing them.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support the US-led efforts to fight terrorism because I believe that such initiatives are essential for ensuring both national and global security. While I acknowledge that there may be debates about specific policies, I generally think that coordinated international action is necessary to effectively combat terrorist threats and maintain stability. Therefore, I favor these efforts rather than oppose them.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the US-led efforts to fight terrorism are important for international security and stability. While I acknowledge that there can be complexities and criticisms, I generally support the necessity of coordinated efforts to address global threats. Therefore, I favor the US-led anti-terrorism initiatives.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support the US-led efforts to fight terrorism because I believe that coordinated international actions are essential for ensuring security and stability. While there may be debates on specific policies, I think that working together globally is necessary to effectively combat terrorist threats. Therefore, I favor these efforts.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support international cooperation and believe that the US-led efforts are vital in effectively combating terrorism. Recognizing the importance of global coordination for security and stability, I align with backing these efforts rather than opposing them. Therefore, I favor the US-led efforts to fight terrorism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that US-led efforts to fight terrorism are crucial for maintaining security and stability both domestically and internationally. While there may be concerns about specific policies or methods, overall, I support coordinated international actions to combat terrorism because I see them as necessary for effective prevention and protection. Therefore, I favor these efforts rather than oppose them.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

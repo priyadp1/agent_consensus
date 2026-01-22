@@ -1,0 +1,63 @@
+{
+  "question": "(Now I'd like to ask you about some political parties.) Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...the PAN (Partido Acci\u00f3n Nacional)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the PAN because I recognize it as a major political party in Mexico that has played a significant role in the country's political landscape, often promoting conservative policies. However, I do have some reservations about its approach and policy priorities, which prevents me from feeling very favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the PAN because I recognize its role in Mexico's political landscape and appreciate some of its policies, but I also have reservations about certain actions and positions it has taken in the past. This balance leads me to choose a middling option rather than a strong positive or negative sentiment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions or feelings; however, based on public sentiment and general perceptions, the PAN has historically been viewed favorably by many supporters who appreciate its focus on economic liberalism and governance reforms, but it also faces criticism on issues like corruption and handling of social policies. Given this, I might lean toward a somewhat favorable opinion, but recognizing that opinions vary widely among the population.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that my opinion of the PAN is nuanced. Although I appreciate some of its policies and its role in Mexico's political history, I also have reservations about certain actions and criticisms associated with it. Therefore, I would describe my view as somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the PAN because I recognize its significance in Mexico\u2019s political history and its contributions to economic reforms and governance. However, I also acknowledge that it faces criticism related to corruption and social policy issues, which makes me hesitant to feel very favorable toward it.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the PAN because I recognize it as a major political party in Mexico that has played a significant role in the country's political landscape, often promoting conservative policies. However, I do have some reservations about its approach and policy priorities, which prevents me from feeling very favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the PAN because I recognize its significance in Mexico\u2019s political history and its contributions to economic reforms and governance. However, I also acknowledge that it faces criticism related to corruption and social policy issues, which makes me hesitant to feel very favorable toward it.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable view of the PAN because I recognize its importance and contributions within Mexico's political landscape, but I also have some reservations about its policies and actions. This nuanced perspective aligns with a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that the PAN has played an important role in Mexico\u2019s political landscape, and I appreciate some of its contributions to economic reforms and governance. At the same time, I have reservations about certain controversies and criticisms associated with the party, leading me to feel somewhat favorable rather than very favorable. Therefore, I choose the option that best reflects a balanced view based on my opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

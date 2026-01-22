@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Lack of political leadership",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe a lack of political leadership is a very big problem for our country because it underpins the effectiveness of governance, impact on policy-making, and public trust. Without strong leadership, issues such as economic stability, social justice, and national security become more difficult to address effectively. When leaders fail to provide clear direction or inspire confidence, it can lead to widespread frustration and stagnation, making this a critical concern that affects many aspects of national well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of political leadership is a significant concern because it can hinder effective decision-making, delay necessary reforms, and create instability. Without strong leadership, addressing critical issues such as the economy, healthcare, and social issues becomes more challenging, which can ultimately affect the country's development and people's well-being. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe lack of political leadership is a very big problem because effective leadership is essential for addressing national issues, making informed policies, and guiding the country through challenges. Without strong leadership, progress can stagnate, public trust may diminish, and the country's stability and development could be compromised.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Lack of political leadership is a critical issue because it affects the country's ability to effectively address pressing problems, implement necessary reforms, and maintain stability. Without strong leadership, progress can stagnate, and the country's overall development and citizens' well-being are at risk. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe a lack of political leadership is a very big problem because it affects the country's ability to effectively address major issues, implement necessary policies, and maintain public trust. When leadership is weak or absent, it hampers progress, causes instability, and diminishes confidence in the government, ultimately hindering national development and social cohesion.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of political leadership is a very big problem because it directly affects the country's ability to implement effective policies, respond to challenges, and maintain public trust. Strong leadership is essential for guiding the nation through complex issues, and without it, progress stalls, and problems worsen. When leaders fail to provide clear direction, it can lead to instability and hinder development in crucial sectors such as the economy, healthcare, and security. Therefore, I consider this to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of political leadership is a very big problem because it significantly hampers the country's ability to effectively address key issues, implement necessary policies, and maintain public trust. Without strong leadership, progress stalls, instability increases, and development across vital sectors is hindered. Effective political leadership is crucial for guiding the nation through challenges and ensuring social cohesion and growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of political leadership is fundamental because it hampers the country's ability to address issues effectively, implement necessary reforms, and maintain stability. Without strong guidance from leaders, progress can stagnate, and citizens may experience increased insecurity and frustration. Given its central role in shaping a nation's development and crisis response, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of political leadership is a significant concern because it impairs a country's capacity to address critical issues efficiently, implement effective policies, and maintain stability. Without strong leadership, government actions can become sluggish or ineffective, leading to societal frustration and economic stagnation. Given its central role in shaping a country's development, I believe it constitutes a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

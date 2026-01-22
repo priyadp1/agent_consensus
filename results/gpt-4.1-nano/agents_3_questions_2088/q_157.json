@@ -1,0 +1,61 @@
+{
+  "question": "When children today in your country grow up, do you think they will be better off or worse off than people are now?",
+  "options": [
+    "Better",
+    "Worse",
+    "Same (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because of advancements in technology, healthcare, and education which can improve their quality of life and opportunities. However, there are also concerns about environmental issues and economic stability that could negatively impact their future. Overall, I am optimistic that positive developments will outweigh the challenges, making the future brighter for the next generation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe children today will likely be better off in the future because advancements in technology and education are continuously improving living standards, healthcare, and access to information. These positive developments suggest that future generations will have greater opportunities and a higher quality of life than current ones. However, concerns about environmental issues and economic challenges might pose risks, but overall, progress in many sectors points toward an improved future for children.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because technological advancements and improved education can lead to greater opportunities and quality of life. While challenges such as environmental issues and economic uncertainties exist, ongoing efforts to address these problems suggest that future generations will benefit from innovative solutions and increased global awareness. Therefore, I think they will generally be better off than people are now.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because technological progress and advancements in education are likely to continue improving living conditions, healthcare, and access to information. Although there are environmental and economic challenges, ongoing efforts and innovations provide hope that future generations will enjoy greater opportunities and quality of life than current ones.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because technological advancements, improved healthcare, and better access to education are likely to create more opportunities and enhance their overall quality of life. Although there are challenges such as environmental concerns and economic uncertainties, ongoing efforts to address these issues give me confidence in a brighter future for the next generation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because ongoing advancements in technology, healthcare, and education are likely to enhance their opportunities and quality of life. While there are valid concerns about environmental and economic challenges, the overall trend of progress suggests a more favorable future for the next generation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because technological advancements, improved healthcare, and greater access to education are creating more opportunities and enhancing their quality of life. Despite some challenges, progress in these areas suggests a positive outlook for the future generation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because technological advancements, improved healthcare, and expanded educational opportunities are likely to continue enhancing their quality of life. While challenges like environmental issues and economic uncertainties exist, the overall trend of progress and innovation suggests a more favorable future for the next generation. Therefore,\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe children today will be better off because ongoing technological advancements, improvements in healthcare, and increased access to education are likely to continue improving their living conditions and opportunities. Despite some environmental and economic concerns, the overall trend of innovation and progress suggests a more prosperous future for the next generation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

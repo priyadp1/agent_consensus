@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Iran",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My opinion of Iran is somewhat unfavorable due to concerns about its nuclear program, regional influence, and human rights record. While I recognize that not all aspects are negative, the overall perception is cautious and skeptical. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I do not have personal opinions, but if I consider general international perspectives, many people may view Iran's government rather unfavorably due to concerns over its nuclear program, human rights issues, and regional policies. Others might hold a somewhat favorable opinion due to cultural or religious connections, but overall, the sentiment tends to lean toward unfavorable. Therefore, I would select very unfavorable to reflect common public opinion. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of Iran is somewhat unfavorable because of concerns related to its geopolitical actions and human rights record. While I acknowledge some aspects of its culture and history positively, the overall assessment leans toward caution and skepticism.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I hold a somewhat unfavorable opinion of Iran due to ongoing concerns about its nuclear program, human rights issues, and regional policies. While I acknowledge its rich cultural history and the diversity of perspectives, the overall perception is cautious and leaning toward unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have some concerns regarding Iran's nuclear program, regional influence, and human rights issues. While I recognize positive aspects of its culture and history, my overall opinion leans toward caution and skepticism. Therefore, my opinion is somewhat unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the general international perspectives and recent public sentiment, I recognize that many people view Iran's government unfavorably due to concerns over its nuclear program, human rights issues, and regional influence. While some individuals may hold a somewhat favorable or neutral opinion based on cultural ties or diplomatic considerations, the prevalent public opinion tends to lean toward an unfavorable view. Therefore, I would choose somewhat unfavorable as it reflects a cautious but not outright hostile perception.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My view is that Iran is a complex country with both positive cultural contributions and significant concerns related to its government policies, nuclear program, and regional actions. Based on this, my opinion leans towards a somewhat unfavorable view, acknowledging the issues but also recognizing certain cultural aspects. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the information provided and considering the general tone of public opinion reflected in the examples, I hold a somewhat unfavorable view of Iran. This is primarily due to concerns about its nuclear activities, human rights record, and regional influence, which tend to influence public opinion negatively but do not necessarily amount to very unfavorable. The responses suggest a cautious stance that recognizes issues without outright hostility.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the concerns about Iran's nuclear program, regional policies, and human rights issues, along with a recognition of its cultural richness, my overall impression is cautious and leaning toward unfavorable. Therefore, I would choose somewhat unfavorable as my opinion.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

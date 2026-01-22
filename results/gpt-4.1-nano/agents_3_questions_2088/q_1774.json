@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, if the Taliban were to regain control of Afghanistan would it be a good thing for Pakistan, a bad thing for Pakistan, or would it not matter?",
+  "options": [
+    "Good",
+    "Bad",
+    "Would not matter"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "If the Taliban were to regain control of Afghanistan, it could lead to increased regional instability, which might threaten Pakistan's security and economic stability. Historically, the Taliban's return might embolden militant groups in the region, potentially spilling over into Pakistan's border areas and exacerbating existing security challenges. Conversely, some might argue that Pakistan could benefit from a friendly government in Afghanistan that aligns with its interests. However, the unpredictability and potential for unrest suggest that overall, it would likely be a negative development for Pakistan, considering the risks of increased violence, refugee flows, and regional instability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The return of the Taliban to control Afghanistan could have significant repercussions for Pakistan. Given the close geographical proximity and historical ties, a Taliban-led Afghanistan might lead to increased border tensions, impacts on regional stability, and potential spillover of insurgent activities into Pakistan. While some may argue that it could stabilize certain aspects of the region, the overall uncertainty and potential for increased violence and instability make it more likely to be a negative development for Pakistan. Therefore, I believe it would be a bad thing for Pakistan.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "If the Taliban were to regain control of Afghanistan, it could have significant implications for Pakistan. Given their historical and regional ties, a Taliban-controlled Afghanistan might lead to increased instability along the border, potentially fueling cross-border insurgency and creating security challenges for Pakistan. Additionally, Pakistan might face diplomatic and economic repercussions, and the revival of the Taliban's governance could influence regional dynamics in unpredictable ways. Therefore, it would likely be a bad thing for Pakistan, considering the potential for increased insecurity and instability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "If the Taliban were to regain control of Afghanistan, it could exacerbate regional instability and increase security threats for Pakistan, given their shared border and intertwined interests. Such a development might lead to more cross-border insurgent activities, diplomatic complications, and economic repercussions, making it more likely to be detrimental to Pakistan rather than beneficial or neutral. Considering these factors, I believe it would be a bad thing for Pakistan.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "If the Taliban regains control of Afghanistan, it could lead to increased security and stability issues in the region that directly affect Pakistan. Historically, a Taliban-led Afghanistan has been associated with cross-border insurgent activity and heightened tensions, which pose security risks for Pakistan. Given these factors, it seems more likely that such a development would be a negative for Pakistan, as it could worsen regional instability and security concerns. Therefore, I believe it would be a bad thing for Pakistan.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "If the Taliban were to regain control of Afghanistan, it could destabilize the region further, leading to heightened security threats, refugee flows, and increased militant activity that might spill over into Pakistan. Given Pakistan's proximity and historical ties with Afghanistan, such a development could exacerbate border tensions and internal security challenges. Considering these factors, it seems more likely that the return of the Taliban would be a negative situation for Pakistan, impacting its stability and security negatively. Therefore:\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my view, if the Taliban were to regain control of Afghanistan, it would pose significant security and stability challenges for Pakistan. Historically, Taliban control in Afghanistan has been associated with increased cross-border insurgent activity, refugee flows, and regional tensions, all of which could negatively impact Pakistan's internal security and border stability. Given these considerations, such a development would likely be more harmful than beneficial to Pakistan.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "If the Taliban were to regain control of Afghanistan, it could lead to increased instability and security threats in the region, which would likely spill over into Pakistan due to their shared border and interconnected interests. This could result in more cross-border insurgent activities, increased militant movements, and diplomatic tensions, all of which would pose challenges for Pakistan's security and stability. Given these potential consequences, it seems more likely that such a development would be a detrimental event for Pakistan rather than beneficial or neutral.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "If the Taliban were to regain control of Afghanistan, it could lead to increased instability and security threats for Pakistan, especially considering their shared border and regional interests. Historically, Taliban control has been linked to cross-border insurgent activities and diplomatic tensions, which tend to negatively impact Pakistan's security and stability. Therefore, it would likely be a bad thing for Pakistan.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

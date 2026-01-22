@@ -1,0 +1,62 @@
+{
+  "question": "Now thinking about standards for products and services...In general, do you trust European standards or American standards more when it comes to data privacy?",
+  "options": [
+    "European standards",
+    "American standards",
+    "Neither (VOL)",
+    "Both (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I tend to trust European standards more when it comes to data privacy because the European Union has implemented comprehensive legislation such as the General Data Protection Regulation (GDPR), which sets strict rules and enforcement mechanisms for protecting individuals' privacy rights. In contrast, American standards often vary across states and sectors, with less uniform federal regulation, leading to perceptions of weaker privacy protections overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I tend to trust European standards more when it comes to data privacy because they have implemented comprehensive regulations like the General Data Protection Regulation (GDPR), which sets strict rules for data protection and privacy. These regulations prioritize individual rights and have a global influence, often serving as a benchmark for privacy standards worldwide. Conversely, American standards are generally more business-friendly and rely on a patchwork of laws that can vary by state and sector, often giving less emphasis to individual privacy. Therefore, I personally feel more confident in European standards for safeguarding data privacy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I tend to trust European standards more when it comes to data privacy because the European Union has implemented comprehensive regulations like the General Data Protection Regulation (GDPR) which enforce strict data protection rules and give individuals greater control over their personal data. In contrast, American standards are often more business-friendly and may prioritize innovation and economic interests, sometimes at the expense of privacy protections. Therefore, my preference leans towards the robustness of European standards in safeguarding personal information.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe European standards are more trustworthy because they are governed by comprehensive and strict regulations like GDPR, which prioritize individual privacy rights and are influential worldwide. American standards tend to be more flexible for businesses and can vary significantly by state, often giving less emphasis to privacy protections. For these reasons, I trust European standards more when it comes to data privacy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I trust European standards more because they have established comprehensive and strict regulations like the GDPR, which emphasizes strong data privacy protections and gives individuals more control over their personal information. In contrast, American standards tend to be more fragmented, with varying regulations across states and sectors, which can result in weaker overall privacy protections. This makes European standards appear more reliable and robust in safeguarding data privacy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I trust European standards more because the GDPR provides comprehensive and stringent regulations that prioritize individual data rights and have a global influence, whereas American standards tend to be more fragmented and generally focus more on business interests, resulting in less consistent protections for privacy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I trust European standards more because they have established comprehensive and strict regulations like the GDPR that prioritize individual data rights and aim for strong data privacy protections. In contrast, American standards are more fragmented across states and sectors, which can lead to inconsistent and often weaker privacy protections. This makes European standards seem more reliable and aligned with safeguarding personal data.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I trust European standards more because regulations like GDPR implement strict data privacy protections and prioritize individual rights, which are globally influential. In contrast, American standards are more fragmented across states and tend to focus more on facilitating business interests, often resulting in varying degrees of privacy protection. Given these factors, European standards appear more reliable for safeguarding personal data.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I trust European standards more because they have established comprehensive and strict regulations like GDPR, which prioritize individual privacy rights and are influential worldwide. American standards tend to be more flexible for businesses and can vary significantly by state, often giving less emphasis to privacy protections. This makes European standards appear more reliable and robust in safeguarding data privacy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

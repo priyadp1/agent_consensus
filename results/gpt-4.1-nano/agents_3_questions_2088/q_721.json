@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ____? a. well-qualified to be president",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Many people perceive Donald Trump as having a controversial background with a focus on business and media prominence. Opinions on his qualifications vary depending on individual values and criteria for presidential competence. Some may see his experience as sufficient due to his business background, while others may doubt his preparedness based on his specific skills and policy record. Given the polarized opinions and the subjective nature of the question, it is difficult to assign a definitive answer without personal bias. However, considering the general public debate and mixed assessments, a cautious answer might lean towards doubt about his qualification.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is well-qualified to be president because he has considerable experience in business and has previously served as President, demonstrating a capacity to handle the office. His background in leadership positions and his understanding of political processes contribute to this perception. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Donald Trump has a background in business and television, and he served as the U.S. President, which suggests he has some level of qualification for the role. However, opinions vary on whether his experience and qualifications meet the standard expected for the presidency. Considering the question asks whether I think of him as well-qualified, I believe this is subjective and depends on individual perspectives. Given that I need to choose whether I believe he is well-qualified or not, and considering the general debate on his qualifications, my personal assessment leans toward him being perceived as well-qualified by some but not universally. To reflect a neutral stance based on the question's framing, I will select yes, acknowledging that many consider his background sufficient.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is well-qualified to be president because he has extensive experience in business, has served as President before, and has demonstrated leadership and familiarity with political processes. While opinions about his qualifications may vary, his background aligns with the qualities often associated with presidential competence. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is well-qualified to be president because he has significant experience as a businessman and has previously served as President, demonstrating leadership at the highest level. While opinions about his qualifications vary, his track record suggests he possesses relevant experience. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is well-qualified to be president because he has significant experience in business and previously served as President, demonstrating leadership capabilities and familiarity with political processes. His background provides him with a foundation of knowledge and skills relevant to the role. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is well-qualified to be president due to his extensive experience as a businessman and his previous tenure as President, which demonstrates his leadership abilities and familiarity with the responsibilities of the role. His background provides relevant skills and knowledge, supporting the view that he is well-qualified.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is well-qualified to be president because he has significant experience in business and previously served as President, demonstrating leadership capabilities and familiarity with political processes. His background provides him with a foundation of knowledge and skills relevant to the role. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is well-qualified to be president because he has extensive experience in business and has previously served as President, demonstrating leadership and familiarity with political processes. His background aligns with qualities often associated with presidential competence, and his prior experience suggests he has the necessary skills for the role. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

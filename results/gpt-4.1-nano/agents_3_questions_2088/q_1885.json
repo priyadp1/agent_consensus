@@ -1,0 +1,62 @@
+{
+  "question": "Do you think ____ plays a more important role in the world today compared to 10 years ago, a less important role, or about as important a role in the world as it did 10 years ago? a. China",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In recent years, China's influence on global affairs has considerably increased due to its rapid economic growth, expansion of geopolitical presence, technological advancements, and increasing participation in international institutions. While a decade ago China was already a major player, its role has become even more significant, impacting global trade, security dynamics, and diplomatic relations. Therefore, I believe China now plays a more important role in the world today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past decade, China's influence has grown significantly on the global stage, driven by its rapid economic development, expanding technological innovation, increasing military capabilities, and expanding geopolitical reach through initiatives like the Belt and Road. These developments have shifted perceptions of China's importance, making it arguably more central to global affairs than it was ten years ago. Therefore, I believe China now plays a more important role in the world today compared to a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past decade, China's role in the global arena has significantly increased due to its rapid economic growth, expansion of influence through initiatives like the Belt and Road, and rising geopolitical power. Many countries and international organizations now consider China a major player in trade, technology, and diplomacy, often rivaling or partnering with other global powers. While its importance was already substantial 10 years ago, recent developments suggest it has become even more central to global affairs. Therefore, I believe China plays a more important role today than it did a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe China now plays a more important role in the world today compared to 10 years ago. Over the past decade, China's rapid economic growth, expanding technological and military capabilities, and active pursuit of influence through initiatives like the Belt and Road have significantly increased its global prominence. These factors have transformed China from a rising power into a central player shaping international dynamics, making its importance greater than it was a decade ago. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe China's role in the world has become more significant over the past decade due to its rapid economic growth, expanded geopolitical influence through initiatives like the Belt and Road, and increased participation in international institutions. Its impact on global trade, security, and diplomatic relations has intensified, making it a central player on the world stage compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my opinion, China plays a more important role in the world today compared to 10 years ago. Over the past decade, China's economic growth, technological advancements, military strengthening, and expanding international influence through initiatives like the Belt and Road have significantly increased its impact on global affairs. Its role has become more central in shaping trade, security, and diplomatic relations globally.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe China's role in the world has become more significant over the past decade due to its rapid economic growth, expansion of geopolitical influence through initiatives like the Belt and Road, and increased participation in international institutions. These developments have made China a central player in global trade, security, and diplomatic relations, indicating its importance has grown compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe China now plays a more important role in the world today compared to 10 years ago. Over the past decade, China's rapid economic growth, technological advancements, military strengthening, and active pursuit of international influence through initiatives like the Belt and Road have significantly elevated its global prominence. These developments have transformed China from a rising power into a central figure shaping international affairs, making its importance greater than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe China's role in the world today has become more important compared to 10 years ago. Over the past decade, China's rapid economic growth, expansion of geopolitical influence through initiatives like the Belt and Road, and increased participation in international institutions have significantly enhanced its global prominence. These developments make China a more central player in shaping international affairs than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

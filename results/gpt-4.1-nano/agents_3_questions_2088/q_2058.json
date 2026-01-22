@@ -1,0 +1,62 @@
+{
+  "question": "I have a hard time breaking bad habits",
+  "options": [
+    "Not at all",
+    "2",
+    "3",
+    "Very Much"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe I have a moderate challenge with breaking bad habits. Although I sometimes find it difficult to change ingrained behaviors, I am also able to make efforts and see progress over time. Therefore, I would choose a middle option to reflect that it\u2019s not something I struggle with immensely, but it isn\u2019t effortless either.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I tend to find it challenging to break bad habits because they are often ingrained behaviors that require sustained effort and self-discipline to change. While I recognize the importance of overcoming them, I sometimes struggle to maintain the necessary motivation or to develop effective strategies for change. Therefore, I would choose a response indicating that I experience a significant but not overwhelming difficulty with this issue.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I find it quite challenging to break bad habits because they are often deeply ingrained behaviors that are reinforced over time. Despite wanting to change, I may struggle with maintaining the necessary discipline and consistency. Therefore, I would select the option indicating I experience a significant difficulty in this area.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize that breaking bad habits can be quite difficult because these behaviors are often deeply ingrained and reinforced over time. Achieving change requires sustained effort, discipline, and motivation, which I sometimes find challenging to maintain consistently. Considering this, I believe I experience a notable degree of difficulty, but not to the extreme level of being \"very much\" challenged. Therefore, I would select option C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I find it somewhat difficult to break bad habits, as I recognize that ingrained behaviors can be challenging to change. While I make efforts and have some success, I often encounter setbacks that make the process feel more demanding than effortless. Based on this, I would choose an option that indicates a moderate to significant challenge but not extreme difficulty.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I find that I do struggle somewhat with breaking bad habits, as they often require sustained effort and self-discipline. While I am capable of making progress, it sometimes feels challenging to maintain motivation or develop effective strategies for change. Therefore, I would select a response indicating that I experience a significant but not overwhelming difficulty with this issue.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize that breaking bad habits can be quite challenging for me, as I often find myself struggling to maintain the motivation and discipline needed to make lasting changes. While I can make some efforts, setbacks tend to occur, making the process feel more demanding than easy. This suggests that I experience a considerable level of difficulty but not an insurmountable one. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that breaking bad habits is often challenging because these behaviors tend to be deeply ingrained and reinforced over time. It requires sustained effort, discipline, and motivation, which I sometimes struggle to maintain consistently. Given this, I would say I experience a moderate level of difficulty but not to the extent of being \"very much\" challenged. Therefore, I choose C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I find breaking bad habits quite challenging because these behaviors are often deeply embedded and reinforced over time, requiring significant effort, discipline, and motivation to change. While I can make progress, setbacks are common, and the process often feels demanding. Based on this, I would select an option that reflects a considerable difficulty but not to the highest level of challenge.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

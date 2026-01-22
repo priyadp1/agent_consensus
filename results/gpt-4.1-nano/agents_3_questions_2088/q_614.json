@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Malala Yousafzai? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she is widely recognized for her courageous advocacy for girls' education, standing up for human rights despite facing threats and adversity. Her efforts have inspired many and she has received international acclaim, which positively influences my view of her.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she is an inspiring advocate for education and girls' rights, demonstrating courage and resilience in the face of adversity. Her global recognition and efforts to promote peace and education make her a highly admirable figure in our country and beyond.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she is widely recognized for her courageous advocacy of girls' education and human rights. Her efforts have earned her global respect and admiration, including the Nobel Peace Prize, and many see her as a symbol of perseverance and positive change, which resonates positively even in our country's context. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she is an inspiring advocate for education and girls' rights, demonstrating courage and resilience in the face of adversity. Her global recognition and efforts to promote peace and education make her a highly admirable figure in our country and beyond.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she exemplifies courage and dedication in advocating for education and human rights, inspiring many around the world including in our country. Her recognition through international awards like the Nobel Peace Prize further solidifies her positive image. I believe her efforts contribute to positive social change and serve as a powerful symbol of perseverance and hope.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she exemplifies moral courage and dedication to advancing education for girls, despite facing life-threatening challenges. Her unwavering stand for human rights and her global influence inspire respect and admiration. Her recognition and advocacy for positive social change make her an admirable leader and symbol of resilience.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she demonstrates exceptional courage and commitment to advocating for girls' education and human rights, even in the face of danger. Her global recognition and efforts to promote social justice inspire respect and admiration. Her actions serve as a powerful example of resilience and moral integrity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she has shown incredible bravery and dedication in advocating for education and girls' rights, even in the face of serious danger. Her efforts to promote peace and positive social change on a global scale inspire respect and admiration. Her recognition as a Nobel laureate and her resilience make her an exemplary figure.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Malala Yousafzai because she is an inspiring advocate for education and girls' rights, demonstrating courage and resilience in the face of adversity. Her global recognition and efforts to promote peace and education make her a highly admirable figure in our country and beyond.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

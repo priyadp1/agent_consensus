@@ -1,0 +1,60 @@
+{
+  "question": "On another topic, had you heard that President Barack Obama's father was Kenyan, or hadn't you heard this?",
+  "options": [
+    "Had heard",
+    "Had not heard"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This information has been widely publicized and discussed during his political career and in media coverage about his background. Therefore, I select:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This is a widely known fact, publicly confirmed by Obama himself, and often discussed in the media and biographies about him. Therefore, I select (A).\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan, as it is a widely known fact and has been publicly discussed in various media and educational sources. Therefore, my response is that I had heard this information.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This information is widely known and has been publicly discussed and confirmed through media coverage and biographical sources about Obama. Therefore, I select (A).\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This information has been widely publicized and discussed during his political career and in media coverage about his background. Therefore, I select:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This fact has been extensively covered in media, biographies, and publicly discussed during his political career. Therefore, I select:\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This information has been widely reported and publicly discussed during his political career and in media coverage about his background. Therefore, I select:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This has been widely reported and confirmed through various media outlets, biographies, and public discussions. Given this information, I select:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard that President Barack Obama's father was Kenyan. This fact has been widely discussed and confirmed through various media reports and biographical sources. As such, I select:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

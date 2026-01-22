@@ -1,0 +1,62 @@
+{
+  "question": "Over the past year do you think relations between your country and the U.S. have gotten better, gotten worse or stayed about the same?",
+  "options": [
+    "Gotten better",
+    "Gotten worse",
+    "Stayed about the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past year, relations between my country and the U.S. seem to have experienced some tension, likely due to political disagreements and diplomatic issues. These factors have led to a perception that relations may have worsened, although not necessarily to the point of complete deterioration. Therefore, I believe they have gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Over the past year, relations between my country and the U.S. have experienced some fluctuations. There have been moments of increased cooperation and dialogue on certain issues, but also notable disagreements and tensions on others. Overall, I perceive that the relationship has remained relatively stable, with no clear trend toward significant improvement or deterioration. This suggests that the score has largely stayed the same despite underlying complexities.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past year, diplomatic and economic tensions have been notably higher, with events such as political disagreements and trade disputes contributing to a deterioration in relations. Public statements and policies indicate a decline in mutual trust and cooperation, suggesting that the overall relationship has worsened during this period.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the varied perspectives, I believe that overall, relations have not improved significantly nor deteriorated markedly. While there have been fluctuations, the general trend appears to be stability with no substantial change. Therefore, I think the most accurate reflection is that relations have stayed about the same over the past year.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the responses provided, both agents perceive a decline in relations over the past year, citing increased tensions, political disagreements, and trade disputes. These factors suggest that overall relations have deteriorated rather than improved or remained stable. Therefore, my view aligns with these observations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the perspectives provided, the first respondent perceives a decline in relations, indicating they have worsened. The second respondent observes some fluctuations but ultimately feels the relationship has remained stable. Since the second view emphasizes stability overall, I lean towards the perception that relations have mostly stayed the same over the past year.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the varied opinions, there is evidence of both perceptions of decline and stability, but overall, the trend appears to be leaning toward worsening relations based on the feedback about increased tensions and disagreements. While some see stability, the dominant impression from the responses suggests relations have deteriorated over the past year.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the provided responses, both respondents perceive that relations have largely remained stable over the past year, despite acknowledging some fluctuations. Neither indicates a significant improvement or deterioration, suggesting a common perception of status quo. Therefore, the most appropriate choice aligns with this consensus.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives shared, one respondent sees relations as stable, while the other perceives a decline. Given the mixed signals, but considering recent political and diplomatic tensions internationally that have generally led to increased skepticism and deteriorating perceptions, I lean toward the view that relations have likely worsened over the past year. Therefore, I believe the answer is B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

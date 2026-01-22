@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way President Pe\u00f1a Nieto is handling each of the following areas...Dealing with corruption",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Pe\u00f1a Nieto handled dealing with corruption. Despite efforts to implement reforms and initiate some investigations, many cases of corruption persisted, and significant scandals involving high-level officials continued to surface, undermining public trust. His administration was often criticized for lacking transparency and decisive action in rooting out corrupt practices, which diminished confidence in his leadership on this critical issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Pe\u00f1a Nieto has handled dealing with corruption. Despite efforts to implement reforms and create transparency measures, significant corruption issues persisted during his administration. Many critics argue that his government was unable to effectively combat corruption or hold powerful figures accountable, which undermined public trust and hindered progress. Therefore, I believe his approach to dealing with corruption was inadequate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pe\u00f1a Nieto's handling of dealing with corruption due to numerous reports of ongoing scandals and the perception that efforts to combat corruption have been insufficient or ineffective during his administration. Many critics argue that systemic issues persist, and progress appears limited, which undermines public trust and confidence in his leadership on this critical issue.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pe\u00f1a Nieto's handling of dealing with corruption because despite efforts to implement reforms and transparency measures, significant issues persisted, and many critics argue that systemic corruption was not effectively addressed. This ongoing problem undermined public trust and suggests that his administration's efforts were inadequate in tackling corruption effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Pe\u00f1a Nieto handled dealing with corruption. Despite some reform efforts, many corruption scandals continued to surface, and actions taken seemed insufficient to effectively address systemic issues. The ongoing presence of high-level scandals and perceived lack of transparency undermined public trust and confidence in his administration's commitment to combating corruption.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Pe\u00f1a Nieto handled dealing with corruption. Despite some reforms, the persistence of corruption scandals, the lack of transparency, and the failure to hold high-level officials accountable indicate that his administration did not effectively combat corruption. Public trust was undermined, and significant issues remained unresolved, demonstrating an inadequate approach to this critical area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Pe\u00f1a Nieto handled dealing with corruption. Despite some initial reforms announced at the start of his term, ongoing scandals involving high-level officials and a lack of transparency suggested that meaningful progress was not achieved. The persistence of corruption allegations and limited visible accountability contributed to a perception that his administration did not adequately confront the systemic issues, eroding public trust in his commitment to tackling corruption effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pe\u00f1a Nieto's handling of dealing with corruption because, despite efforts to implement reforms and transparency measures, significant issues persisted. The ongoing problems, persistent scandals, and lack of effective accountability suggest that his administration did not successfully combat corruption, which undermined public trust and left critical issues unaddressed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pe\u00f1a Nieto's handling of dealing with corruption because, despite efforts to implement reforms and transparency measures, significant issues persisted. Many corruption scandals continued to surface, and actions taken seemed insufficient to effectively address systemic issues. The ongoing presence of high-level scandals and perceived lack of transparency undermined public trust and confidence in his administration's commitment to combating corruption.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

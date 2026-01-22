@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Pollution and other forms of environmental damage",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Pollution and environmental damage are significant issues that impact public health, ecosystems, and overall quality of life. In many countries, these problems have led to health problems such as respiratory issues, water contamination, and loss of biodiversity. While some might consider pollution to be manageable or less urgent compared to economic or social issues, the long-term consequences make it a serious concern. Therefore, I believe pollution and environmental damage are a very big problem because addressing them is vital for the well-being of current and future generations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Environmental damage and pollution are significant concerns for many communities, impacting health, quality of life, and the natural surroundings. Given the current global emphasis on climate change and environmental preservation, I believe these issues are generally viewed as very serious problems by the public. They also tend to attract considerable attention from policymakers and activists, reinforcing the perception of their importance. Therefore, I consider pollution and environmental damage to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Pollution and environmental damage are significant issues that impact public health, ecosystems, and quality of life. In many countries, pollution has been linked to respiratory and other health problems, and environmental degradation can threaten biodiversity and natural resources. As a result, I believe that pollution and environmental damage constitute a very big problem because addressing them requires substantial policy efforts, technological innovation, and public awareness to protect future generations and maintain ecological balance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe pollution and environmental damage are very big problems because they significantly impact public health, ecosystems, and the overall quality of life. Addressing these issues requires substantial effort from policymakers and communities, and their persistence threatens the sustainability of future generations. Given the widespread concern and the urgent need for action, I see them as a very serious challenge facing our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe pollution and environmental damage are a very big problem because they have long-term impacts on public health, ecosystems, and the sustainability of natural resources. Addressing these issues requires significant effort from governments, industries, and individuals to implement policies, develop cleaner technologies, and raise public awareness. If left unaddressed, the consequences could be severe for current and future generations, making it a critical issue that demands priority action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe pollution and environmental damage are a very big problem because they have far-reaching health, ecological, and economic impacts. The long-term consequences threaten the well-being of current and future generations, and addressing these issues is crucial for sustainable development and public health. Given their widespread recognition and the urgent calls for action, they should be considered a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe pollution and environmental damage are a very big problem because they have long-term health, ecological, and economic impacts that threaten both current and future generations. Addressing these issues requires urgent collective action to prevent severe consequences for public well-being and the sustainability of our natural resources.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe pollution and environmental damage are very big problems because they have significant impacts on public health, ecosystems, and the sustainability of our resources. Their widespread effects and the urgent need for action make them a critical concern for our country\u2019s future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe pollution and environmental damage are a very big problem because they have profound long-term impacts on public health, ecosystems, and the sustainability of natural resources. These issues require large-scale efforts for mitigation and prevention, and if left unaddressed, they could cause serious and lasting harm to both current and future generations. Given the urgency and magnitude of the problem, I consider it a very big challenge facing our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

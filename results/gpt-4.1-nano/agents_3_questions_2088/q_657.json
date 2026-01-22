@@ -1,0 +1,60 @@
+{
+  "question": "What's more important in your country society that everyone be free to pursue their life's goals without interference from the state or that the state play an active role in society so as to guarantee that nobody is in need?",
+  "options": [
+    "Freedom to pursue life's goals without interference",
+    "State/government guarantees nobody in need"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the most important aspect in society is ensuring that individuals have the freedom to pursue their life's goals without interference from the state. Personal freedom fosters innovation, individual development, and a sense of autonomy, which are crucial for a thriving and dynamic society. While social safety measures are important, they should not come at the expense of personal liberty. Balancing freedom with social support is ideal, but if prioritization is necessary, safeguarding individual liberty provides the foundation for a fair and prosperous society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that individual freedom to pursue personal goals is fundamental for a thriving society because it encourages innovation, personal responsibility, and the realization of human potential. While social support is important, excessive interference or reliance on the state can inhibit personal initiative and adaptability. A balanced society ideally allows people to freely pursue their ambitions while maintaining a social safety net that ensures basic needs are met without overly constraining individual liberty. Therefore, I prioritize the freedom to pursue life's goals without interference from the state.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that individual freedom is fundamental to personal development and innovation. When people are free to pursue their goals without excessive government interference, it fosters a society of motivation and diversity of ideas. While social safety nets are important, I think that the core value should be enabling personal autonomy, which can then be complemented by targeted support as needed. Ensuring complete freedom allows individuals to shape their lives according to their aspirations. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a society thrives when individuals have the freedom to pursue their personal goals without unnecessary state interference. Personal autonomy encourages innovation, motivation, and the development of human potential. While social safety nets are important to ensure that nobody is in need, such support should not come at the expense of individual liberty. A balanced approach that prioritizes freedom while providing essential support aligns best with fostering a dynamic and resilient society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a society's strength lies in the freedom of its individuals to pursue their aspirations without unnecessary state interference. Personal liberty encourages innovation, diversity, and individual growth, which are essential for a vibrant and resilient community. At the same time, social support mechanisms are important, but they should complement rather than replace personal freedom. Ensuring that people have the autonomy to shape their lives creates a foundation for fair opportunity and collective progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that safeguarding individual freedom to pursue personal goals is fundamental because it encourages innovation, personal growth, and autonomy, which are essential for a thriving society. While ensuring that nobody is in need is important, it should not compromise personal liberty. A society that prioritizes freedom provides the best foundation for sustainable progress and allows for social support mechanisms to be implemented without infringing on individual rights. Therefore, I choose the option that emphasizes freedom without interference.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that individual freedom to pursue personal goals is the cornerstone of a vibrant and dynamic society. When people are free to follow their aspirations without excessive interference, innovation and personal growth flourish, leading to overall progress. While social support by the state is valuable, it should not infringe upon personal liberty, as true societal strength combines freedom with compassion. Ensuring people can shape their lives autonomously provides a fair foundation for opportunity and resilience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that individual freedom to pursue personal goals is essential for fostering innovation, motivation, and personal growth. While ensuring that no one is in need is important, I think that support should not come at the expense of liberty. A society that prioritizes freedom provides a strong foundation for progress, and social safety nets can be effectively implemented without infringing upon personal rights. Therefore, I choose the option that emphasizes freedom without interference.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that individual freedom to pursue personal goals is fundamental for fostering innovation, motivation, and personal development within a society. While ensuring that no one is in need is important, these safety measures should complement rather than restrict personal liberty. A society that balances freedom with social support tends to be more resilient and dynamic, encouraging both creativity and compassion. Therefore, I prioritize the liberty to pursue one's goals without undue state interference.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

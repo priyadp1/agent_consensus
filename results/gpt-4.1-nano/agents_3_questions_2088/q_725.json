@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \nf. protesting police misconduct",
+  "options": [
+    "Top priority",
+    "Important but lower priority",
+    "Not too important",
+    "Should not work on this issue",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Protesting police misconduct is a crucial issue because it relates directly to accountability, justice, and the protection of citizens' rights. Addressing police misconduct can help prevent abuse, build public trust, and promote fair law enforcement practices. Given its significance to human rights and the well-being of society, it should be a top priority for human rights organizations. Focusing on such issues can lead to systemic change and ensure that law enforcement upholds human rights standards.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Protesting police misconduct is a critical issue because it directly relates to accountability, justice, and protection of citizens' rights. Such concerns can undermine trust in law enforcement and the rule of law if left unaddressed. Given the importance of addressing abuses and ensuring fair treatment, I believe it should be a top priority for human rights organizations to focus on protesting police misconduct.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Protesting police misconduct is a critical issue because it touches on fundamental rights such as justice, accountability, and equal treatment under the law. Addressing it is essential to prevent abuses of power and to ensure community trust in law enforcement agencies. I believe it should be a top priority for human rights organizations to advocate for transparency, accountability, and reform in policing practices. Prioritizing this issue can lead to meaningful change that benefits society as a whole.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe protesting police misconduct should be a top priority for human rights organizations because it directly addresses issues of justice, accountability, and protection of citizens' rights. Addressing police misconduct is essential to uphold the rule of law, prevent abuses of power, and maintain public trust in law enforcement agencies, which are fundamental for a fair and equitable society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Protesting police misconduct is fundamentally tied to protecting citizens' rights, ensuring justice, and holding law enforcement accountable. Addressing this issue can lead to systemic reforms that prevent abuses and build public trust in institutions. Given its importance to human rights and societal well-being, I believe it should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Protesting police misconduct is a fundamental human rights issue because it directly involves accountability, justice, and the protection of individuals from abuse and injustice. Addressing this problem can help improve law enforcement practices, restore public trust, and uphold legal and ethical standards that are essential for a fair society. Given these reasons, it should be prioritized as a top issue for human rights organizations to work on, since systemic change in this area can have broad and lasting positive impacts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Protesting police misconduct is a critical issue because it directly relates to protecting fundamental human rights, promoting justice, and ensuring accountability of law enforcement authorities. Addressing this issue can lead to meaningful reforms that prevent abuses, restore public trust, and foster a more just society. Given its importance to individual rights and systemic integrity, it should be a top priority for human rights organizations. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe protesting police misconduct should be a top priority for human rights organizations because it directly impacts justice, accountability, and protection of citizens' rights. Addressing this issue is essential to ensure law enforcement is held to ethical standards, prevent abuses of power, and maintain public trust, which are core elements of a fair and equitable society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe protesting police misconduct should be a top priority for human rights organizations because police misconduct often involves abuses of power that can lead to violations of citizens' fundamental rights, undermine trust in law enforcement, and perpetuate injustices within society. Addressing this issue is crucial for ensuring justice, accountability, and the protection of citizens' rights, thereby fostering a fairer and more equitable society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "In which of the following things do you believe, if you believe in any?\n\nHeaven",
+  "options": [
+    "Yes",
+    "No",
+    "Don't know",
+    "No answer",
+    "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I personally believe in the concept of heaven as a spiritual or religious belief that offers hope and moral guidance to many people. While I may not have concrete evidence, the idea of heaven plays a significant role in various cultural and religious contexts, influencing how people view life and morality. Therefore, I answer yes to this question.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the concept of heaven is a matter of personal faith and cultural belief, and while I respect such beliefs, I do not hold a definitive belief in its existence myself. Therefore, I choose \"No\" to indicate that I do not believe in heaven.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the concept of heaven is a matter of personal faith and cultural interpretation. Certain religious traditions strongly emphasize the existence of heaven as an afterlife realm, while others either do not believe in it or consider it a metaphorical or spiritual concept rather than a literal place. Given the diversity of beliefs and the lack of empirical evidence, I am uncertain about its existence personally. Therefore, I choose \"Don't know\" as it reflects my acknowledgment of the uncertainty surrounding this belief.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe in the concept of heaven as a religious and spiritual belief held by many, though it is not empirically verifiable. Given my understanding, I acknowledge its significance in cultural and faith contexts but do not assert its physical existence. Therefore, I choose Yes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the concept of heaven is primarily a spiritual and religious belief that offers hope and moral guidance to many. While I acknowledge that there is no empirical evidence to prove its existence, I consider it a matter of faith and cultural interpretation rather than a literal, physical realm. Therefore, I would choose yes because I personally believe in the idea as a spiritual or metaphorical concept rather than a confirmed reality.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I personally believe that the concept of heaven is rooted in religious and spiritual traditions, offering hope and moral guidance to many people. While I do not have scientific evidence to confirm its existence, I respect the belief that many hold about it. Given this perspective, I would choose \"Yes\" to acknowledge the belief in heaven as a meaningful part of cultural and religious worldviews.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the concept of heaven holds significant cultural, spiritual, and religious meaning for many people. While there is no empirical scientific evidence to prove its existence, it often serves as a symbol of hope, moral idealism, and spiritual comfort. Recognizing its importance in various belief systems and personal faith, I would affirm that I believe in heaven as a concept. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe in the concept of heaven as a religious and spiritual idea that holds significance for many people, even though it cannot be empirically verified. I recognize its importance within cultural and faith contexts and respect the belief that many individuals hold. Therefore, I choose Yes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe in the concept of heaven as a spiritual and religious belief that holds significance for many individuals' faith, hope, and moral guidance. While I recognize there is no empirical proof of its physical existence, I accept it as a metaphorical or faith-based idea rather than a literal, verifiable reality. Therefore, I choose A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

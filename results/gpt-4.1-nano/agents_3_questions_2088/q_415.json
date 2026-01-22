@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you completely agree, mostly agree, mostly disagree, or completely disagree with...It's necessary for the future of our country to be active in world affairs",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that active participation in world affairs is crucial for a country's growth, security, and influence. Engaging globally allows for fostering diplomatic relationships, economic opportunities, and addressing shared challenges such as climate change or security threats. Remaining isolated could lead to missed opportunities and weaker standing on the international stage. Therefore, I mostly agree that it is necessary for the future of our country to be active in world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that active participation in world affairs is crucial for the future of our country because it helps promote diplomacy, economic growth, and security. Engaging internationally allows us to build alliances, address global challenges collectively, and ensure our national interests are protected. Avoiding involvement could lead to isolation and missed opportunities for positive influence, which are essential for sustained progress and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that being active in world affairs is essential for the future of our country because international involvement can promote stability, economic growth, and strong diplomatic relationships. It helps ensure that our country's interests are represented on the global stage and can lead to collaborative solutions for global challenges. Remaining isolated or inactive could weaken our influence and security. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that engaging actively in world affairs is vital for the long-term prosperity and security of our country. International involvement fosters positive diplomatic relationships, economic opportunities, and the ability to influence global policies that affect us. While caution is necessary, total withdrawal or minimal participation could jeopardize our standing and ability to address global challenges effectively. Therefore, I mostly agree.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that active participation in world affairs is vital for a country's growth, security, and influence in today's interconnected global environment. Engaging internationally allows us to build diplomatic relationships, promote economic opportunities, and collaboratively address shared challenges like climate change and security threats. Isolation could undermine our country's standing and limit our ability to shape global outcomes. Therefore, I mostly agree that it is necessary for the future of our country to be active in world affairs.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that active involvement in global affairs is essential for a country's growth, security, and influence. Engaging internationally allows us to build diplomatic relationships, participate in resolving global issues, and promote economic opportunities. Remaining isolated could weaken our international standing and limit our ability to address shared challenges effectively, which could be detrimental to our nation's future.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that active participation in world affairs is crucial for our country's security, economic growth, and global influence. Engaging internationally helps us build diplomatic relationships, address shared challenges like climate change and security threats, and ensure our interests are represented on the global stage. Remaining passive or isolated could weaken our position and hinder our ability to effectively respond to global issues. Therefore, I mostly agree that it is necessary for the future of our country to be active in world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that active engagement in world affairs is crucial for ensuring our country's security, economic growth, and international influence. Being involved allows us to build strong diplomatic relations, participate in global decision-making, and address transnational issues effectively. Isolation could harm our standing and limit our ability to protect national interests in an interconnected world. Therefore, I mostly agree.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that being actively involved in world affairs is essential for securing our country's future. In a highly interconnected world, international engagement helps us build important alliances, promote economic growth, and address global challenges like climate change, security threats, and health crises. Staying passive or disengaged could leave us more vulnerable and diminish our influence on global issues that ultimately impact our national well-being. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

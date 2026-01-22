@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way Prime Minister Tayyip Erdogan is handling each of the following areas...corruption",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My opinion on Prime Minister Tayyip Erdogan's handling of corruption is based on the perception of ongoing corruption issues within Turkey during his tenure. While Erdogan has taken steps to implement anti-corruption measures and has publicly committed to transparency, critics often point to persistent corruption allegations and concerns about accountability that undermine confidence in his approach. Consequently, I lean toward disapproval due to these persistent concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perspective on Prime Minister Tayyip Erdogan's handling of corruption is mixed. While his administration has implemented some measures aimed at addressing corruption issues, there have also been numerous allegations and controversies suggesting ongoing concerns. Public opinion often varies depending on individual experiences, political beliefs, and the transparency of government actions. Given the complexity of the situation and the mixed signals observed, I lean towards disapproval as there is significant skepticism regarding the effectiveness and sincerity of anti-corruption measures.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My opinion on Prime Minister Tayyip Erdogan's handling of corruption is that it is generally disapproved. Despite some efforts to combat corruption, many believe that corruption allegations and scandals have persisted or even worsened during his tenure. Critics argue that there has been insufficient transparency and accountability, which undermines public trust. Therefore, I disapprove of his approach in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Tayyip Erdogan's handling of corruption warrants disapproval due to persistent allegations, scandals, and skepticism about transparency and accountability, which continue to undermine public trust despite efforts to address the issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Tayyip Erdogan's handling of corruption is generally disapproved. Despite his efforts to address corruption and promote transparency, ongoing allegations and scandals suggest that corruption remains a significant issue under his leadership. The persistence of these issues indicates that his approach has not been fully effective in eliminating corruption or reassuring the public about accountability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of corruption has been largely inadequate. Despite efforts to address corruption publicly, numerous allegations and ongoing concerns suggest that substantial issues remain unaddressed or insufficiently tackled. The persistent nature of corruption cases and skepticism about the government's transparency lead me to disapprove of his approach in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of corruption has been largely inadequate. Despite his efforts to address corruption publicly, numerous allegations and ongoing concerns suggest that substantial issues remain unaddressed or insufficiently tackled. The persistent nature of corruption cases and skepticism about the government's transparency lead me to disapprove of his approach in this area.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's approach to handling corruption has been inadequate. Despite efforts to combat corruption publicly, the persistent allegations, scandals, and skepticism about transparency suggest that significant issues remain unresolved. This ongoing lack of trust and accountability undermines confidence in his leadership on this critical issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Tayyip Erdogan's handling of corruption warrants disapproval due to persistent allegations, scandals, and skepticism about transparency and accountability, which continue to undermine public trust despite efforts to address the issue.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

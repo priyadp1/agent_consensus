@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Corrupt political leaders.",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders are generally viewed as a significant problem because they undermine trust in government, distort justice, and can hinder development and social stability. While some people may see corruption as an existing issue that needs attention, others might consider it more severe depending on the prevalence and impact in their country. Overall, the problem of corruption in leadership is widely recognized as a very serious issue affecting societies globally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders undermine trust in government, distort policies, and often prioritize personal gain over public welfare. When leaders abuse their power for personal enrichment or misconduct, it can lead to widespread disillusionment and instability within a society. Given the significant negative impacts of corruption on governance, economic development, and social cohesion, I believe this is a very big problem that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders undermine trust in government, waste public resources, and can lead to increased inequality and social unrest. Such corruption erodes democratic institutions and can severely impact economic development and social well-being. Given these serious implications, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders pose a serious threat to the functioning of a fair and effective government. They undermine trust, divert resources from public services, and weaken democratic institutions, leading to long-term negative consequences for society. Given the widespread and harmful impact of such corruption, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders can severely undermine trust in government, distort justice, waste public resources, increase inequality, and lead to social unrest. These impacts threaten democratic institutions and hamper economic and social development. Given the serious consequences associated with corruption, I view it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders fundamentally undermine democratic processes, erode public trust, and can lead to misallocation of resources, inequality, and social unrest. Because corruption often involves abuse of power that damages the fabric of governance and society, many people see it as a very serious problem that impairs national development and stability. Myself, I believe that corruption among leaders is a very big problem that needs ongoing vigilance and reform to ensure fair and transparent governance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders pose a significant threat to democratic institutions, justice, and social stability. Their actions can lead to widespread mistrust, inequality, and inefficient use of resources, ultimately undermining societal progress. Given these serious consequences, I believe that corruption among political leaders is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders pose a significant threat to good governance, trust in institutions, and social stability. Their actions can lead to widespread inequality, inefficiency, and long-term damage to democracy. Given these serious consequences, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders significantly undermine trust in government, distort justice, divert resources, and weaken democratic institutions. Their actions have wide-ranging and serious negative impacts on society, making this a very big problem that hampers effective governance and social stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

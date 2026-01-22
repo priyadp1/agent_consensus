@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...UGTT?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UGTT because it has historically played a significant role in advocating for workers' rights and social justice in Tunisia. While I recognize its influence and contributions, I also perceive that it sometimes faces criticism or skepticism regarding its political involvement and organizational practices. Therefore, I would lean towards a moderate positive view, but not strongly favorable. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UGTT because I recognize its significant role in advocating for workers' rights and its influence in the country's social and political landscape. However, I also acknowledge that there are criticisms and concerns about its methods or political alignments, which prevent me from feeling overwhelmingly positive about it. This nuanced perspective leads me to choose a moderate option rather than the extremes. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My opinion of UGTT is somewhat favorable because I recognize it as a significant labor union that advocates for workers' rights and social justice in the country. While I appreciate its role and contributions, I am aware of ongoing political debates and tensions involving the organization, which makes me view it positively but with some reservations. Therefore, I would select a mid-level positive option to reflect this nuanced opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UGTT because I appreciate its important role in defending workers' rights and its influence on social and political issues. While I recognize its significant contributions, I am also aware of criticisms and political complexities surrounding the organization, which makes me view it positively but with some reservations. Therefore, I select a moderate option that reflects this nuanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UGTT because it has historically been an important advocate for workers' rights and social justice in Tunisia. While I appreciate its contributions and influence, I also recognize that it faces political debates and criticisms, which temper my overall view. Given this nuanced perspective, I would select a mid-level positive option. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UGTT because it has historically played a significant role in advocating for workers' rights and social justice in Tunisia. While I recognize its influence and contributions, I also perceive that it sometimes faces criticism or skepticism regarding its political involvement and organizational practices. Therefore, I would lean towards a moderate positive view, but not strongly favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of UGTT because it has historically been an important advocate for workers' rights and social justice in Tunisia. While I recognize its influence and contributions, I am also aware of the criticisms and challenges it faces regarding political involvement and organizational practices. This nuanced perspective leads me to choose a moderate positive view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UGTT because I appreciate its long-standing role in advocating for workers' rights and its influence on social issues in the country. While I recognize its contributions, I am also aware of some criticisms regarding its political involvement and organizational practices, which makes me view it positively but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UGTT because I acknowledge its important role in advocating for workers' rights and social justice in Tunisia. While I recognize its positive contributions, I am also aware of the political debates and criticisms that surround it, which makes my opinion more moderate. This balanced view leads me to choose a moderately positive option.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

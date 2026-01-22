@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me how closely you follow each type of news. Do you follow ____ very closely, somewhat closely, not very closely or not at all closely? c. news about other countries",
+  "options": [
+    "Very closely",
+    "Somewhat closely",
+    "Not very closely",
+    "Not at all closely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I follow news about other countries somewhat closely because I find international developments interesting and relevant, but I do not dedicate as much time or attention to it as I do domestic news. Therefore, I would choose the option that best reflects a moderate level of interest without being very close. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I follow news about other countries occasionally, but I do not dedicate a lot of time or actively seek out this information. My interest is usually limited to major international events or news that directly impacts my country or personal situation. Therefore, I would choose \"Not very closely\" to accurately reflect my level of engagement with international news. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I follow news about other countries somewhat closely because I like to stay informed about international affairs, but I don't usually pay very close attention on a daily basis. I occasionally read headlines or watch international news segments, but I don't delve deeply into every story. Therefore, I would select \"somewhat closely.\" \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I follow international news in a way that is not very frequent or detailed. I stay somewhat informed about major international events but do not seek out or engage deeply with international news regularly. Based on this, I believe \"somewhat closely\" best describes my level of following news about other countries.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the descriptions, I follow news about other countries somewhat closely because I find international developments interesting and relevant, but I do not dedicate as much time or attention to it as I do domestic news. Based on the provided responses and reasoning, my choice aligns with \u201csomewhat closely.\u201d\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would say I follow news about other countries somewhat closely because I find international issues and global developments interesting and relevant, but I do not dedicate a large amount of time or attention to it regularly. My engagement is moderate, focusing on major international stories or those that impact my country directly. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I consider news about other countries to be moderately important to me, and I follow it with some regularity but not in great depth. I tend to pay attention to major international developments that have a direct or significant impact on my country or global affairs, but I do not devote extensive time to staying updated on every international issue. Therefore, I would classify my level of following as somewhat closely. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Both responses indicate a moderate level of engagement with news about other countries, describing it as \"somewhat closely\" or \"moderately interested\" without deep or frequent coverage. Since I also fall into a similar category of engaging with international news in a moderate, somewhat attentive manner, I will align with this description. \n\nI do not follow international news very closely on a daily basis, nor do I ignore it entirely. My interest is consistent with moderately paying attention to major international events and issues that are relevant or impactful. Therefore, I choose the same level of engagement as the others described.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the description, I follow international news to some extent but do not seek it out frequently or in great depth. I stay informed about major international events but do not prioritize or follow international news as closely as domestic news. Therefore, \"somewhat closely\" best matches my engagement level.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

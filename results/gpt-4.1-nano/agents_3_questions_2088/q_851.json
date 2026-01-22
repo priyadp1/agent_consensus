@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Mexico",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mexico. I appreciate its rich cultural heritage, beautiful landscapes, and vibrant traditions. However, I am also aware of some challenges the country faces, such as economic issues and safety concerns in certain areas. Overall, my view is positive but tempered with cautious awareness. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mexico. I appreciate its rich cultural heritage, vibrant traditions, and natural beauty. Additionally, I recognize the contributions of Mexico to art, cuisine, and history. However, I am aware that there are ongoing challenges related to economic development and security, which temper my overall enthusiasm. This balance of admiration and awareness of issues leads me to this moderate positive view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Mexico because of its rich cultural heritage, welcoming people, and vibrant traditions that contribute positively to the global community. I appreciate its history, cuisine, music, and the warmth shared by its residents, which foster a sense of connection and admiration.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mexico. I admire its rich cultural heritage, traditions, and contributions to art and cuisine. At the same time, I recognize some ongoing challenges the country faces, such as security and economic issues, which slightly temper my overall positive view. Therefore, I am leaning toward a moderate appreciation rather than a very strong one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my opinion of Mexico is mostly positive due to its rich cultural heritage, welcoming people, vibrant traditions, and beautiful landscapes. While I acknowledge some of the challenges the country faces, such as economic issues and safety concerns in certain areas, these do not overshadow the overall admiration I have for its contributions and warmth. Therefore, I would choose a somewhat favorable opinion, as my view is generally positive but with some awareness of its issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Mexico. I value its rich cultural heritage, vibrant traditions, and natural beauty, which have made significant contributions to art, cuisine, and history. While I recognize there are challenges related to economic development and safety concerns in certain areas, my overall impression remains positive but cautious. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Mexico, appreciating its rich cultural heritage, vibrant traditions, and natural beauty. While I am aware of some economic and safety challenges the country faces, these do not significantly diminish my overall favorable opinion. Therefore, I would select a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mexico. I appreciate its rich cultural heritage, vibrant traditions, and contributions to art and cuisine. While I acknowledge some ongoing issues related to security and economic challenges, my overall view remains positive but cautious, leaning towards appreciation rather than strong enthusiasm.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mexico. I appreciate its rich cultural traditions, art, cuisine, and the warmth of its people. While I am aware of some challenges like security and economic issues, they do not significantly diminish my overall positive view. My impression is balanced, recognizing both the strengths and the issues the country faces.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

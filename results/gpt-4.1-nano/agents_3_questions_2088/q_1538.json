@@ -1,0 +1,63 @@
+{
+  "question": "When it comes to our country\u2019s economy, how much influence do you think China is having on economic conditions in your country\u2014a great deal of influence, a fair amount of influence, not too much influence, or no influence at all?",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "No influence at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe China has a considerable impact on our country's economy due to its significant role in global trade, manufacturing, and investment. Many industries rely heavily on Chinese supply chains, and economic developments in China tend to influence markets and trade balances here. While it's unlikely that China controls our entire economic condition, its influence is substantial enough to be perceived as a fair amount. Therefore, I think the country\u2019s economic landscape is notably shaped by Chinese economic activity, but not necessarily dominated by it.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe China has a significant influence on our country's economic conditions due to its role as a major trading partner and the interconnectedness of global supply chains. Its policies, economic growth, and international trade decisions can impact our exports, imports, and overall economic stability. Therefore, I would select a fair amount of influence, acknowledging that while it is substantial, it may not be the primary force shaping our economy. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perception is that China has a significant impact on our country's economy, given its prominent role in global trade, investments, and supply chains. China's economic activities can influence market prices, employment, and overall economic stability here. Therefore, I believe China has a fair amount of influence on our economy. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe China has a notable influence on our country's economic conditions due to its pivotal role in global trade, investments, and supply chains. Its economic decisions can affect market stability, trade balances, and employment in our country. While it is a significant factor, other domestic economic forces also play important roles. Therefore, I would select a fair amount of influence.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe China has a considerable influence on our country's economic conditions, mainly because it plays a crucial role in global trade, manufacturing, and investment. Many industries here depend on Chinese supply chains, and economic changes in China often impact markets and trade balances in our country. While China doesn't control our entire economy, its influence is significant enough to be perceived as a fair amount that shapes our economic landscape.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe China has a substantial influence on our country's economic conditions due to its prominent role in global trade, manufacturing, and investment. Many industries here depend on Chinese supply chains, and shifts in China's economic policies or growth tend to impact our markets and trade dynamics. While it\u2019s unlikely that China controls all aspects of our economy, its influence is significant enough to figure prominently in our economic outlook. Therefore, I would select a fair amount of influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe China has a notable influence on our country's economic conditions, especially given the extensive integration of Chinese supply chains, trade relationships, and investment activities that affect various industries here. While China does not dominate or control our economy entirely, its economic policies and shifts can significantly impact our markets and economic stability. Therefore, I would choose a fair amount of influence to reflect this impact.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe China has a considerable influence on our country's economic conditions, given its central role in global trade, manufacturing, and investment activities. Many sectors in our economy are highly interconnected with Chinese supply chains, and changes in China's economic policies or performance can have ripple effects on our market stability, trade balance, and employment levels. While it is not the sole determinant of our economic health, its influence remains significant enough to shape economic conditions here. Therefore, I would select a fair amount of influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe China has a significant influence on our country's economic conditions due to its vital role in global trade, investments, and supply chains. Many sectors here depend heavily on Chinese manufacturing and exports, and economic shifts in China frequently impact markets and employment in our country. While other domestic factors also affect our economy, China's influence is tangible and substantial enough to be considered a fair amount of influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

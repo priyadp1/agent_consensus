@@ -1,0 +1,63 @@
+{
+  "question": "How much confidence do you have in the healthcare system in the public to handle a future global health emergency that might occur \u2013 a great deal of confidence, some confidence, not too much confidence or no confidence at all?",
+  "options": [
+    "A great deal",
+    "Some",
+    "Not too much",
+    "None at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while the healthcare system has made significant improvements, there are still concerns about its readiness and capacity to handle a future global health emergency. Some confidence reflects a cautious optimism but also acknowledges existing limitations and uncertainties about the system's ability to respond effectively in a crisis. Therefore, I choose a moderate level of confidence rather than complete trust or lack thereof.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose B because while I believe the healthcare system has strengths, I also recognize that there are gaps and challenges that could impact its ability to handle a major global health emergency effectively. Therefore, I have some confidence but not a great deal.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some confidence in the healthcare system's ability to handle a future global health emergency because, despite concerns about preparedness and resource allocation, there are established infrastructures and ongoing efforts to improve response capabilities. However, I recognize there are uncertainties and areas for improvement, which temper my confidence somewhat. Therefore, I would choose some confidence. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while the healthcare system has demonstrated resilience and capacity in certain areas, there remain significant challenges related to resource allocation, infrastructure, and preparedness that could hinder its effectiveness in a future global health emergency. These factors lead me to have some confidence, as I see both strengths and notable weaknesses. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while the healthcare system has shown improvements, concerns about its capacity and preparedness still exist, which leads me to feel somewhat confident. I recognize the infrastructures are in place and efforts are ongoing, but uncertainties remain regarding the system's ability to fully handle a future crisis. Therefore, I choose some confidence. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while the healthcare system has made significant improvements, there are still concerns about its readiness and capacity to handle a future global health emergency. Some confidence reflects a cautious optimism but also acknowledges existing limitations and uncertainties about the system's ability to respond effectively in a crisis. Therefore, I choose a moderate level of confidence rather than complete trust or lack thereof.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the healthcare system has shown improvements but still faces challenges in capacity and preparedness for a future global health emergency. This cautious optimism suggests I have some confidence but recognize limitations. Therefore, I choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the healthcare system has shown resilience in certain areas but still faces significant challenges related to resources, infrastructure, and preparedness. These issues suggest a cautious outlook, where there is some confidence in the system's potential to handle emergencies, but not complete trust due to existing limitations. Therefore, I select B.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the healthcare system has demonstrated resilience and capacity in certain areas, but significant challenges remain, including resource allocation and infrastructure weaknesses. While there are efforts to improve preparedness, uncertainties about its ability to fully handle a future global health emergency persist. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

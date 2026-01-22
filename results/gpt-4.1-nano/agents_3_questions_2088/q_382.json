@@ -1,0 +1,62 @@
+{
+  "question": "I'd like you to rate some different groups of people in your country according to how you feel about them.  For each group, please tell me whether your opinion is very favorable, mostly favorable, mostly unfavorable or very unfavorable?...Czechs",
+  "options": [
+    "Very favorable",
+    "Mostly favorable",
+    "Mostly unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a generally positive view of Czechs, considering their rich cultural history, friendly nature, and contributions to art, science, and industry. While individual opinions may vary, I tend to see them as mostly favorable, reflecting respect and appreciation for their traditions and societal values.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose mostly favorable because Czechs are generally seen as friendly, hospitable, and proud of their rich cultural heritage. While there may be individual differences in opinions, the overall perception tends to be positive, reflecting respect and admiration for their history, arts, and contributions. Therefore, my opinion leans toward mostly favorable. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Czechs, appreciating their rich cultural history, contributions to the arts and sciences, and their reputation for hospitality and friendliness. While individual opinions may vary, I tend to feel mostly favorable toward this group. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a positive perception of Czechs, noting their friendly nature, cultural richness, and contributions to arts and sciences. Based on this overall favorable impression, I would choose mostly favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a generally favorable view of Czechs, as they are known for their rich cultural history, hospitality, and contributions to arts and science. Their friendly nature and societal values contribute to a positive impression. Considering the provided options and the context, I feel mostly favorable toward them.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive perception of Czechs due to their rich cultural history, friendliness, and notable contributions to various fields. Based on the common attitudes and my understanding of their societal values, I would categorize my opinion as mostly favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive perception of Czechs, appreciating their rich cultural heritage, friendly demeanor, and contributions to arts and sciences. Their societal values and hospitality contribute to a favorable impression, but I do not feel an exceptionally strong or enthusiastic affinity that would merit a very favorable rating. Therefore, I believe mostly favorable accurately reflects my view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "INVALID",
+        "raw_output": "I hold a generally positive view of Czechs, recognizing their rich cultural history, friendliness, and contributions to arts and sciences. My perception aligns with a mostly favorable opinion based on these qualities and societal values.",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a positive view of Czechs, appreciating their cultural contributions, friendly nature, and societal values. This overall favorable perception aligns with a mostly favorable opinion, as they are generally seen in a positive light based on their traditions and contributions to arts and sciences.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

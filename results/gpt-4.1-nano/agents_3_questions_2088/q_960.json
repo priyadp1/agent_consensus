@@ -1,0 +1,61 @@
+{
+  "question": "Overall, do you think of the U.S. as more of a partner of your country, more of an enemy of your country, or neither?",
+  "options": [
+    "More of a partner",
+    "More of an enemy",
+    "Neither"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. is generally more of a partner. While there are disagreements and strategic conflicts at times, overall, the U.S. collaborates with my country on many issues like trade, security, and cultural exchange, which fosters a sense of partnership rather than hostility. This ongoing cooperation suggests a relationship rooted in mutual interests rather than enmity.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. is more of a partner because, despite occasional disagreements, it generally collaborates on global issues, provides economic and security support, and maintains diplomatic relations that benefit both nations. This cooperative relationship fosters mutual interests and underscores partnership rather than hostility.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. generally functions as a partner due to its role in international collaborations, aid, and diplomatic relations, which often aim to support mutual interests. While there are moments of tension or disagreement, viewing the U.S. as an outright enemy does not align with my perception, nor do I feel neutral about the relationship. Therefore, I see the U.S. more as a partner overall.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I see the U.S. as primarily acting in a manner that fosters collaboration, mutual support, and diplomatic engagement with my country. While not without disagreements, these do not overshadow the overall pattern of partnership. The U.S. appears to prioritize working together on shared interests rather than viewing us as opponents. Therefore, I consider the U.S. more of a partner overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I perceive the U.S. as more of a partner because, despite occasional disagreements, there is consistent cooperation on trade, security, and cultural exchange. This ongoing collaboration indicates a relationship built on mutual interests rather than hostility or neutrality. Therefore, I see the U.S. primarily as a partner.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. is more of a partner for my country. The ongoing cooperation on issues such as trade, security, and cultural exchanges indicates a relationship built on mutual interests and collaboration. While disagreements may occur, they do not overshadow the overall partnership nature of the relationship.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I see the U.S. as more of a partner because there are ongoing collaborations on trade, security, and cultural exchanges that reflect mutual interests. Despite occasional disagreements, the overall relationship appears to be rooted in cooperation rather than hostility or neutrality. This consistent collaboration suggests a partnership rather than enmity or neutrality.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. generally operates in a manner that promotes cooperation, diplomatic engagement, and shared interests with my country. Although there are disagreements at times, they do not significantly undermine the overall pattern of partnership observed. This suggests that the U.S. is more of a partner rather than an enemy or neutral. Therefore, I consider the U.S. more of a partner overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I perceive the U.S. as generally engaging in diplomatic efforts that promote cooperation, mutual support, and shared interests with my country. While disagreements may exist, they do not define the overall nature of the relationship, which appears to be more collaborative than adversarial. Therefore, I see the U.S. more as a partner overall.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

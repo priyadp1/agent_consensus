@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Air pollution",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Air pollution is a significant issue in many countries and can have serious health and environmental consequences. Its impact can vary depending on the level of pollution and local circumstances, but in general, it is perceived as a major concern that affects a large portion of the population. Given its widespread effects on health, quality of life, and the environment, I would consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Air pollution is a significant concern in many countries, including our own. It affects people's health, especially vulnerable populations like children and the elderly, and can contribute to serious diseases such as asthma, lung attacks, and heart problems. Additionally, air pollution impacts the environment, damaging ecosystems and reducing the quality of life. Given these considerations, I believe air pollution is a very big problem because it has widespread health, environmental, and economic consequences that need urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Air pollution is a significant concern in many countries due to its impacts on public health, the environment, and quality of life. In my view, while it is a serious issue, it may not always be perceived as the most urgent or pressing problem compared to other challenges like economic stability or healthcare access. However, its effects are long-term and widespread, making it a notable problem but perhaps not the absolute top priority for everyone. Therefore, I think it is a moderately big problem.\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe air pollution is a very serious problem because it directly impacts the health of many people, harms the environment, and can lead to long-term negative consequences for society. Given its widespread effects and the urgent need for action, I would classify it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe air pollution is a serious issue that affects many people's health and the environment, but I also think it may not be perceived as the most urgent problem compared to other challenges like economic or healthcare issues. Considering its widespread but perhaps less immediate impact, I would categorize it as a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe air pollution is a very big problem because it directly affects people's health and the environment on a large scale. It can cause serious diseases and harm ecosystems, which makes it an urgent issue in our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe air pollution is a significant concern that poses health risks to the population and damages the environment. Although it may not always be perceived as the most urgent issue compared to economic or healthcare problems, its widespread impact makes it a problem that deserves attention. Therefore, I would categorize it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I consider air pollution a very big problem because it has a profound impact on public health, contributing to respiratory and cardiovascular diseases, and it also causes environmental degradation. Its widespread nature and potential for long-term harm make it an urgent issue that society needs to address immediately.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe air pollution is a very serious problem because it directly affects public health, harms the environment, and has long-term consequences that require urgent attention. Its widespread nature and impact make it a significant challenge that needs priority action.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

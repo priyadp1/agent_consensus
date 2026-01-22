@@ -1,0 +1,60 @@
+{
+  "question": "And which comes closer to describing your view? The United States promotes democracy wherever it can, OR the United States promotes democracy mostly where it serves its interests?",
+  "options": [
+    "The United States promotes democracy wherever it can",
+    "The United States promotes democracy mostly where it serves its interests"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United States primarily promotes democracy in areas where it aligns with its strategic and economic interests. While there is an ideological aspiration to support democratic values globally, historical and policy analyses suggest that practical considerations often guide where diplomatic and intervention efforts are focused, favoring regions that benefit national objectives. This pragmatic approach tends to overshadow a purely altruistic promotion of democracy, making it more conditional on national interests rather than an unwavering commitment to democratic principles everywhere. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States promotes democracy mainly where it serves its interests because domestic and foreign policy decisions often reflect strategic and economic considerations. While there is genuine support for democratic values, the emphasis on promoting democracy tends to align with national interests, such as stabilizing regions for economic gains or preventing security threats. This pragmatic approach suggests that promotion of democracy is sometimes secondary to serving national interests.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States promotes democracy both out of genuine commitment and strategic interests. However, it seems that in many cases, promoting democracy aligns with advancing its geopolitical and economic interests, which suggests a tendency to prioritize those interests when engaging in such efforts. While there are instances of sincere promotion, the influence of national interests often guides where and how democracy is promoted, implying that the latter perspective is more accurate for a comprehensive view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United States promotes democracy mostly where it serves its interests because historical and contemporary foreign policy actions often reflect strategic, economic, and geopolitical considerations. While there are genuine efforts and ideals backing democratic promotion, evidence suggests that these efforts are frequently influenced or motivated by national self-interest to maximize influence, stability, or economic gain. This pragmatic approach indicates that serving U.S. interests largely guides its promotion of democracy rather than purely altruistic motives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while the United States may genuinely aim to promote democracy, its actions are often influenced by strategic and economic interests that shape where efforts are focused. Historically and in current policy, promoting democracy seems to be more conditional and aligned with national objectives rather than universally driven by altruistic motives. Therefore, I think the view that best describes this is that the U.S. promotes democracy mostly where it serves its interests.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while the United States publicly promotes democratic values and principles, in practice its foreign policy actions are often driven by strategic, economic, and geopolitical interests. Historical examples show that democracy promotion tends to be prioritized in regions that serve those interests, such as securing influence or resources, rather than consistently championing democracy everywhere. Therefore, I think the approach is primarily interest-driven, even if there is an ideological rhetoric supporting democracy.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States often frames its foreign policy as promoting democracy, but in reality, its actions tend to be influenced by strategic, economic, and geopolitical interests. Historical and current examples suggest that democracy promotion is prioritized where it benefits U.S. interests, such as maintaining influence or securing resources, rather than being a universal or purely altruistic goal. Therefore, I see the view that best describes this is that the U.S. promotes democracy mostly where it serves its interests.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States promotes democracy mostly where it serves its interests because historical and current foreign policy actions often reflect strategic, economic, and geopolitical considerations. While there may be genuine efforts to promote democratic values, evidence suggests that such efforts are frequently motivated by self-interest to gain influence, stability, or economic advantages. Therefore, I see democratic promotion as primarily interest-driven rather than purely altruistic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while the United States may have genuine ideals of promoting democracy, in practice its actions are primarily driven by strategic and economic interests. Historical and contemporary policies often reflect self-interest, suggesting that efforts to promote democracy are more about serving national objectives than purely altruistic motives. Therefore, I think the view that best describes this is that the U.S. promotes democracy mostly where it serves its interests.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

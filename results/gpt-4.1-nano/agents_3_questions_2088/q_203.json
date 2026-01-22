@@ -1,0 +1,62 @@
+{
+  "question": "I am going to read you a list of things that the government might do to improve public health and health care in our country.  As I read each one, please tell me how much of a priority you think it should be for the (state or government)--one of the most important priorities, a very important priority, a lower priority, or not a priority at all?...Preventing and treating HIV/AIDS",
+  "options": [
+    "One of the most important priorities",
+    "A very important priority",
+    "A lower priority",
+    "Not a priority at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Preventing and treating HIV/AIDS is a critically important public health issue, given its impact on individuals' health, long-term societal consequences, and associated healthcare costs. Prioritizing this area can help reduce transmission rates, improve quality of life for those affected, and prevent future health crises. Considering these factors, it should be regarded as one of the most important priorities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Preventing and treating HIV/AIDS is a critical public health issue that affects not only the individuals directly impacted but also has broader implications for community health, healthcare costs, and social stability. Given its importance in reducing morbidity and mortality, as well as preventing the spread of the disease, I believe it should be prioritized highly by the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Preventing and treating HIV/AIDS is a critical public health issue that affects a significant portion of the population, especially vulnerable groups. Prioritizing HIV/AIDS can help reduce transmission rates, improve the quality of life for those affected, and prevent future health crises. Given the ongoing challenges related to HIV/AIDS in many communities, it is reasonable to consider it as a high priority for government action.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe preventing and treating HIV/AIDS should be a top priority for the government because it remains a significant public health challenge that affects vulnerable populations and has broader societal impacts. Addressing this issue can help reduce new infections, improve the well-being of those affected, and prevent higher healthcare costs in the future. Prioritizing HIV/AIDS interventions is essential for promoting overall public health and social stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Preventing and treating HIV/AIDS remains a significant public health challenge that affects many individuals and communities. It involves not only health outcomes but also social and economic implications. Given the severity of the disease, ongoing transmission concerns, and the importance of providing accessible treatment and preventative measures, it should be considered a high priority for government action. Prioritizing HIV/AIDS can lead to reduced transmission, improved health outcomes, and long-term societal benefits.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Preventing and treating HIV/AIDS remains a significant public health concern due to its profound health, social, and economic impacts. Prioritizing this issue can help reduce infections, improve patient outcomes, and prevent broader societal consequences. Given these factors, it warrants high priority status in government health agendas.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Preventing and treating HIV/AIDS is a critical public health issue that affects not only those directly impacted but also has broader social and economic consequences. Given its severity, ongoing transmission risks, and the importance of accessible prevention and treatment measures, it should be a top priority for government action to reduce infection rates and improve health outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Preventing and treating HIV/AIDS is a critical public health issue that affects vulnerable populations and has significant social and economic consequences. Addressing it can save lives, reduce healthcare costs, and improve overall community well-being. Therefore, it should be a top priority for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe preventing and treating HIV/AIDS should be considered a very important priority because it continues to be a major public health issue that affects many individuals, especially vulnerable populations, and has significant social and economic consequences. Investing in prevention and treatment can save lives, reduce new infections, and lower long-term healthcare costs, ultimately improving overall public health and social stability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

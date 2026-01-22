@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way President Nicolas Maduro is handling each of the following areas? b. relations with the U.S.",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I background this based on the complex diplomatic relations and ongoing tensions between Venezuela and the United States. President Maduro's approach has been characterized by mixed signals: some efforts at dialogue and normalization, but also persistent conflicts, sanctions, and accusations on both sides. These factors suggest that the handling of relations with the U.S. has been controversial and viewed by many as ineffective or problematic. Therefore, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perspective on President Maduro's management of relations with the U.S. is that it has been complex and often strained. While efforts have been made to navigate diplomacy, ongoing sanctions and political disagreements have hindered progress. Therefore, I lean towards disapproval, as the relationship remains tense and unresolved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Nicolas Maduro is handling relations with the U.S. because there has been ongoing tension and lack of diplomatic engagement, which hampers efforts for improved cooperation and economic recovery. The approach seems to perpetuate hostility rather than foster dialogue and mutual understanding.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Nicolas Maduro is handling relations with the U.S. because ongoing tensions, sanctions, and limited diplomatic engagement suggest that the approach is hindering progress and mutual understanding, making the relationship remain strained. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Maduro's handling of relations with the U.S. because the ongoing tensions, sanctions, and mutual accusations suggest a failure to foster constructive dialogue or improve diplomatic ties. This approach appears to perpetuate conflict rather than promote cooperation or understanding, which hampers potential progress in bilateral relations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe President Maduro's approach to relations with the U.S. has been largely ineffective due to persistent tensions, sanctions, and ongoing conflicts that hinder diplomatic progress. Despite some efforts at dialogue, the relationship remains tense and unresolved, which suggests disapproval of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Maduro's handling of relations with the U.S. because ongoing tensions, sanctions, and mutual accusations indicate a failure to foster constructive dialogue or improve diplomatic ties. The approach seems to perpetuate conflict rather than promote cooperation, which hampers potential progress in bilateral relations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Nicolas Maduro's handling of relations with the U.S. because ongoing tensions, sanctions, and limited diplomatic engagement continue to strain the relationship, preventing progress and mutual understanding. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of how President Nicolas Maduro is handling relations with the U.S. because the ongoing tensions, sanctions, and limited diplomatic engagement suggest that the approach is hindering progress and mutual understanding, making the relationship remain strained.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

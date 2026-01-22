@@ -1,0 +1,60 @@
+{
+  "question": "Which of these characteristics do you associate with Americans? Do you associate inventive with Americans  or not?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive because the United States has a long history of innovation, technological advancements, and pioneering ideas across various fields such as technology, entertainment, and science. This inventive spirit is often highlighted in global perceptions of American culture and achievements. Therefore, I believe Americans are associated with being inventive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive because the United States has a history of innovation and technological advancements, with many inventors and entrepreneurs contributing to global progress. This characteristic is often highlighted in popular culture and media portrayals of American ingenuity and creative problem-solving skills.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive because the United States has a long history of innovation and technological advancements, from the invention of the light bulb and airplane to modern tech companies. This association is also reinforced by cultural narratives celebrating creativity and entrepreneurship. Therefore, I believe Americans are generally seen as inventive.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive because the country has a notable history of innovation, technological breakthroughs, and entrepreneurial spirit that is widely recognized and often highlighted in media and popular culture. This association aligns with the global perception of Americans as creative problem solvers and pioneers in various fields.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive because the country has a well-known history of innovation, technological breakthroughs, and pioneering ideas that have had a global impact. This reputation for invention and creativity is reinforced by cultural stories, technological achievements, and a strong entrepreneurial spirit. Therefore, I believe Americans are associated with being inventive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive because the country has a strong reputation for innovation, technological breakthroughs, and a culture that encourages creative problem-solving. This perception is reinforced by many notable American inventors, companies, and achievements in science and technology, which are widely recognized and celebrated globally.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I strongly associate Americans with being inventive because of their lengthy history of technological innovations, groundbreaking inventions, and a culture that promotes creativity and entrepreneurship. Many American inventors and companies have significantly contributed to global advances, reinforcing this perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive because the country has a long history of innovation, technological advances, and a culture that fosters entrepreneurship and creative problem-solving. Many American inventors and technological breakthroughs have significantly impacted the world, reinforcing this perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate Americans with being inventive due to the country's longstanding reputation for technological innovation, entrepreneurial achievements, and cultural stories that highlight creativity and pioneering spirit. This perception is supported by the global recognition of American contributions to science, technology, and industry.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

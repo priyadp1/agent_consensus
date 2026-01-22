@@ -1,0 +1,63 @@
+{
+  "question": "For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs \u2014 a lot of confidence, some confidence, not too much confidence or no confidence at all. e. U.S. presidential candidate Ted Cruz",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I would choose not too much confidence because Ted Cruz is known for his strong conservative views and often takes stances that may not prioritize international diplomacy or global cooperation. While I believe he may act in America's interests, his approach might be more unilateral or ideologically driven, which makes me less confident in his judgment regarding world affairs overall.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Ted Cruz to do the right thing regarding world affairs because he is known for his strong conservative stance and clear positions on foreign policy. While I trust his judgment to some extent, there are reasons to be cautious about his approach, which might not always prioritize diplomatic consensus or global cooperation. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Ted Cruz to do the right thing regarding world affairs. While he is a prominent figure known for strong conservative views and assertive foreign policy positions, I may have reservations about his potential approach on global issues, given his ideological stances and past statements. Therefore, I lean towards a moderate level of confidence rather than high or none.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given Ted Cruz's strong conservative ideology and assertive foreign policy positions, I feel somewhat confident in his ability to do the right thing regarding world affairs, but I also recognize that his approach may be more unilateral and less diplomatic. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given Ted Cruz's reputation for strong conservative views and a tendency toward unilateral action in international matters, I am somewhat confident he would act in ways aligned with his ideological priorities but may not prioritize multilateral diplomacy. While he might act in America's interests, his approach could be somewhat forceful or ideologically driven, leading to reservations about his effectiveness on broader global issues. Therefore, I would choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Ted Cruz's strong conservative views and tendency toward unilateral decisions suggest a cautious outlook when it comes to global affairs. While he might act in America's interests, his approach could lack the diplomatic nuance necessary for effective international leadership. Therefore, I have some confidence in his capacity to do the right thing regarding world affairs, but I recognize potential limitations. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given Ted Cruz's reputation for strong conservative views and a tendency toward unilateral action in international matters, I believe he would act in ways aligned with his ideological priorities. While he might prioritize America's interests, his approach could be somewhat forceful or ideologically driven, leading to reservations about his effectiveness on broader global issues. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Ted Cruz's strong conservative ideology and tendency towards unilateral actions could hinder effective international diplomacy, making me somewhat confident in his ability to do the right thing regarding world affairs but with limitations. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering Ted Cruz's well-known conservative stance and his tendency to prioritize American interests with a willingness to take assertive or unilateral actions on the international stage, I feel somewhat confident that he would do the right thing regarding world affairs within his ideological framework. However, I also recognize that his approach might sometimes lack emphasis on multilateral diplomacy and could be driven by ideological considerations, which might limit his effectiveness in complex global issues. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

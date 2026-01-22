@@ -1,0 +1,63 @@
+{
+  "question": "Thinking about the political system in the United States, would you say it works very well, somewhat well, not too well, or not well at all?",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. political system faces significant challenges such as political polarization, instances of government gridlock, and concerns about representation and transparency. While the system has mechanisms for accountability and has produced effective governance at times, these issues often hinder its overall effectiveness, leading many to see it as only somewhat functional rather than very effective. Therefore, I would say it works somewhat well.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe the US political system faces significant challenges, including polarization, gridlock, and unequal representation, which hinder its effectiveness. While it has mechanisms for stability and change, the current state suggests it does not function very well overall. Therefore, I would choose to describe it as not too well or not well at all, leaning towards the latter due to the systemic issues that are evident today.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. political system has made some progress in addressing important issues, but it often faces significant challenges such as polarization, gridlock, and unequal representation that hinder its effectiveness. While it functions to some extent, these persistent problems suggest it does not operate very smoothly or efficiently overall. Therefore, I would say it works somewhat well, but not optimally. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The US political system faces significant challenges such as polarization, gridlock, and unequal representation, which frequently impair its effectiveness and efficiency. While it has mechanisms to maintain stability and adapt over time, these systemic issues often hinder it from functioning smoothly or achieving optimal policy outcomes. Given these persistent problems, I believe it does not work very well overall, but considering some progress and mechanisms in place, it\u2019s not entirely ineffective. Therefore, I would choose to describe it as somewhat well, acknowledging both its flaws and its ongoing efforts to serve the nation effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. political system is relatively functional but faces notable challenges such as polarization, gridlock, and issues with fair representation. While it has mechanisms to address problems and can produce effective governance at times, these persistent issues often hinder its overall smooth operation. Considering these factors, it seems to operate somewhat well, but not very effectively. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Considering the numerous challenges such as political polarization, gridlock, and issues with representation and transparency, it appears that while the system has mechanisms for governance, these problems significantly impede its effectiveness. Given this, I believe the system does not work very well overall and is more aligned with the lower ratings. Therefore, I would choose not too well or not well at all, leaning towards D based on the severity of systemic issues today.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the U.S. political system faces significant challenges such as polarization, gridlock, and issues with fair representation, which hinder its overall effectiveness. While it has mechanisms to address problems and can sometimes produce effective governance, these persistent issues prevent it from functioning smoothly or very well. Therefore, I would choose not too well, as the systemic problems are substantial enough to impede its proper operation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe the US political system faces numerous challenges such as polarization, gridlock, and unequal representation, which significantly hinder its ability to function effectively and achieve meaningful policy outcomes. While it has mechanisms to ensure stability, these systemic issues often prevent it from working well overall. Therefore, I would choose not too well, leaning more towards D, as the system struggles with persistent problems that limit its effectiveness.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. political system faces significant challenges such as polarization, gridlock, and unequal representation that often impair its effectiveness. While it has mechanisms to adapt and maintain stability, these persistent issues hinder smooth functioning and prevent it from being very effective. Considering both the resilience and the ongoing hardships, I would describe it as somewhat well.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

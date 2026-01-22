@@ -1,0 +1,60 @@
+{
+  "question": "All in all, do you think it is a good idea or a bad idea for the government to more strictly regulate the way large financial companies, such as banks, do business?",
+  "options": [
+    "Good idea",
+    "Bad idea"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Implementing stricter regulations on large financial companies can help prevent risky behaviors that could lead to economic instability, protect consumers from unfair practices, and ensure that these institutions operate transparently. While overregulation might stifle innovation or efficiency, carefully calibrated rules can promote a healthier financial system that benefits society as a whole. Therefore, I believe it is a good idea for the government to pursue more strict regulation in this sector.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is a good idea for the government to more strictly regulate the way large financial companies do business. Such regulation can help ensure financial stability, protect consumers, prevent risky behaviors that could lead to economic crises, and promote fairness within the financial system. Stricter oversight can also reduce the likelihood of unethical practices and promote transparency, which benefits society as a whole by fostering trust in financial institutions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is a good idea for the government to more strictly regulate large financial companies. These institutions have a significant impact on the economy, and stricter regulations can help prevent abuses, protect consumers, and ensure financial stability. Proper oversight can mitigate risks that might lead to economic crises, and foster trust in the financial system. While excessive regulation could potentially stifle innovation, responsible oversight is essential to maintain a healthy and fair financial environment for everyone.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that stricter regulation of large financial companies is a good idea because it can help prevent financial crises, protect consumers from potential abuses, and promote fairness and transparency within the financial system. Given the significant impact these institutions have on the economy, responsible oversight is essential to maintain stability and trust. While there is a concern about overregulation stifling innovation, I think the benefits of safeguarding the broader economic health outweigh that risk.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that stricter regulation of large financial companies is beneficial because it helps prevent risky behaviors that could lead to economic instability, protects consumers from unfair practices, and promotes transparency in the financial sector. While it's important to avoid overregulation that might hinder innovation, responsible oversight can create a safer and more trustworthy financial environment for society as a whole.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that stricter regulation of large financial companies is beneficial because it can help prevent financial crises, protect consumers from unfair or risky practices, and promote transparency and trust in the financial system. Proper oversight ensures that these institutions operate responsibly, which ultimately safeguards the broader economy and society. While overregulation might have some downsides, carefully designed policies can mitigate those risks and strengthen financial stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that stricter regulation of large financial companies is a good idea because such oversight can prevent risky behaviors that might lead to economic crises, protect consumers from unfair or harmful practices, and enhance transparency and trust in the financial system. Effective regulation ensures that these institutions operate responsibly, which benefits society as a whole. While there is a concern about overregulation stifling innovation, responsible and well-designed policies can strike a balance that promotes stability and fairness. Therefore, I support increased regulation to promote a safer and more reliable financial environment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that stricter regulation of large financial companies is a good idea because it helps prevent financial crises, protects consumers from risky or unfair practices, and promotes transparency and trust in the financial system. Ensuring these institutions operate responsibly is crucial for economic stability and maintaining public confidence. While there is a concern about overregulation, proper oversight can balance innovation and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that stricter regulation of large financial companies is a good idea because it helps prevent reckless behaviors that could lead to economic downturns, protects consumers from unfair or harmful practices, and ensures greater transparency and accountability within the financial industry. While overregulation could pose some risks to innovation, responsible oversight is crucial for safeguarding the stability and trust in our financial system, which benefits society as a whole.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

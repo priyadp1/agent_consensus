@@ -1,0 +1,63 @@
+{
+  "question": "How much responsibility should each of the following have in making sure that the your nationality workforce has the right skills and education to be successful in the future? c. schools",
+  "options": [
+    "A lot",
+    "Some",
+    "Only a little",
+    "None",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe schools should have a significant responsibility in ensuring the workforce possesses the right skills and education for future success because they are the primary institutions for formal learning, skill development, and foundational knowledge. By providing quality education, schools can prepare individuals to adapt to changing job markets and technological advancements. While other sectors like government or industry also play roles, the educational system is foundational in shaping a skilled and educated workforce, making it essential for schools to have a substantial responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Schools play a crucial role in preparing the workforce of the future by providing foundational skills, critical thinking, and specialized education. Given the importance of education in equipping individuals with the necessary competencies, they should bear a significant responsibility to ensure that the workforce has the right skills and education to be successful. While other factors like government policies, employers, and individuals themselves are also important, schools are the primary institutions responsible for guiding skill development from an early stage. Therefore, I believe they should have a substantial responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe schools should have a significant responsibility because they are the primary institutions dedicated to education and skill development. By setting curricula and providing foundational knowledge, schools can ensure that the workforce has the necessary skills to adapt to future job markets. While other stakeholders like government, businesses, and individuals also play roles, schools lay the groundwork for a skilled and educated workforce. Therefore, I think they should have a considerable, but not exclusive, role.  \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe schools should have a significant responsibility in ensuring the workforce has the right skills and education for the future. As primary educational institutions, they are essential in laying the foundational knowledge, critical thinking skills, and specialized training needed for individuals to succeed in evolving job markets. While other stakeholders like government, employers, and individuals also contribute, the role of schools in early education and skill development is fundamental. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe schools should have a significant responsibility in ensuring the workforce has the right skills and education for future success because they are the primary institutions for formal learning, skill development, and foundational knowledge. By providing quality education, schools can prepare individuals to adapt to changing job markets and technological advancements. While other sectors like government or industry also play roles, the educational system is foundational in shaping a skilled and educated workforce, making it essential for schools to have a substantial responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe schools should have a significant responsibility in preparing the future workforce because they are the primary institutions responsible for foundational education and skill development. By providing quality instruction and fostering critical thinking, schools lay the groundwork for individuals to acquire the necessary skills for success in a rapidly changing job market. While other sectors like government, industry, and the individuals themselves also contribute, the role of schools is fundamental in shaping a competent and adaptable workforce. Therefore, they should carry a substantial responsibility for ensuring the right skills and education are in place.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that schools should have a significant responsibility in preparing the future workforce because they are the primary institutions responsible for foundational education and skill development. By providing quality instruction and fostering critical thinking, schools can lay the groundwork for individuals to acquire the necessary skills to succeed in a rapidly changing job market. While other sectors like government, industry, and individuals also contribute, the role of schools is fundamental in shaping a competent and adaptable workforce. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that schools should have a significant responsibility in ensuring that the workforce has the right skills and education for the future. As the primary institutions responsible for foundational learning, critical thinking, and early skill development, schools play a crucial role in preparing individuals for an evolving job market. While other sectors such as government, industry, and individuals themselves also share responsibility, the fundamental role of schools in equipping future workers remains essential. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe schools should have a significant responsibility in ensuring that the workforce has the right skills and education for the future. As primary institutions for formal learning, they play a crucial role in providing foundational knowledge, developing critical thinking skills, and offering specialized training that prepares individuals for evolving job markets. While other stakeholders like government, employers, and individuals also contribute, the role of schools in early education and skill development is fundamental to building a competent and adaptable workforce. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

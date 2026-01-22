@@ -1,0 +1,63 @@
+{
+  "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?\n\nPeople who speak a different language",
+  "options": [
+    "Mentioned",
+    "Not mentioned",
+    "Don't know",
+    "No answer",
+    "Missing; Not available"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have neighbors who speak a different language because communication might be difficult, potentially leading to misunderstandings or discomfort in the neighborhood. It could also pose challenges in building community bonds or helping each other in emergencies. Therefore, I lean toward selecting the option indicating I have a preference to avoid such neighbors.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have neighbors who speak a different language because communication might become difficult, leading to misunderstandings or lack of social integration. This could affect daily interactions and community harmony. Therefore, I might be hesitant to choose this group as neighbors.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having neighbors who speak a different language is an important factor to consider, as it could impact communication and community cohesion. If I prefer not to have neighbors who speak a different language, I would select \"Mentioned\" to indicate that. However, without further context, it is also possible that I might not have a strong preference or that I am uncertain. Given the options, I will choose the one that directly states I would mention this as a concern.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I understand that having neighbors who speak a different language could pose communication challenges and affect community harmony. Based on this reasoning and the provided options, I would select \"Mentioned\" to indicate this concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having neighbors who speak a different language could potentially lead to communication challenges and affect social cohesion in the neighborhood. As a result, I might prefer not to have such neighbors, or at least consider it a concern. Based on the options provided, I would choose the one that indicates I would mention this as a reason for preferring not to have such neighbors.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I understand that having neighbors who speak a different language might present communication challenges and potentially affect community harmony. While respecting linguistic diversity is important, personal comfort and ease of interaction influence my preference. Therefore, I prefer not to have neighbors who speak a different language.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having neighbors who speak a different language might lead to communication barriers and affect social interactions within the community. Given the potential challenges and the concern for neighborhood cohesion, I would mention this as a reason for not wanting such neighbors. Therefore, I choose to acknowledge this explicitly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I recognize that having neighbors who speak a different language can sometimes lead to communication difficulties and impact community interaction. While respecting diversity is important, personal comfort and ease of communication are also valid considerations when it comes to neighborhood preferences. Given these factors, I would select that I would not like to have neighbors who speak a different language.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I understand that having neighbors who speak a different language might create communication challenges and could impact social cohesion within the neighborhood. Since the question asks if I would prefer not to have such neighbors and I recognize this as a concern, I would indicate it by selecting \"Mentioned.\" \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

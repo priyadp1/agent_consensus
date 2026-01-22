@@ -1,0 +1,62 @@
+{
+  "question": "Do you think of yourself first as a Pakistani or first as a (Insert ethnicity/tribal identification from response)?",
+  "options": [
+    "Pakistani",
+    "(ethnicity/tribal identification)",
+    "Both equally (VOL)",
+    "Other (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I identify primarily as a Pakistani because I see myself as part of the national community that unites people across different ethnic and tribal backgrounds. While my ethnicity or tribal identity is important to me and shapes parts of my personal history and culture, my sense of national belonging as a Pakistani influences how I see my place in society and my responsibilities. Recognizing that these identities coexist, I feel that my national identity takes precedence in my self-perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I consider myself first as a Pakistani because my national identity encompasses a broader sense of belonging and citizenship that unites all my cultural and ethnic affiliations within the country. While my ethnic or tribal background is an important part of who I am, my primary identification is shaped by my citizenship and shared national experiences. This helps me feel connected to the larger community and its collective identity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I see myself primarily as a Pakistani because I identify with the national identity that encompasses my cultural background, citizenship, and shared values. While my ethnic or tribal roots are important to me personally and culturally, my sense of belonging and daily life is more centered around my nationality. Therefore, I prioritize the sense of being Pakistani as it reflects my participation in the broader society and national identity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I personally identify primarily as a Pakistani because my sense of belonging and civic identity is rooted in my national citizenship, shared values, and collective experiences as part of Pakistan. Although my ethnic or tribal background is an important aspect of my personal heritage, it does not define my main identity in social or national contexts. This broader national identity helps me feel connected to the larger community and common goals.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I identify primarily as a Pakistani because I see myself as part of a national community that unites people across different ethnic and tribal backgrounds. While my ethnicity or tribal identity is important to me and shapes parts of my personal history and culture, my sense of national belonging as a Pakistani influences how I see my place in society and my responsibilities. Recognizing that these identities coexist, I feel that my national identity takes precedence in my self-perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I see myself primarily as a Pakistani because I believe that national identity brings people from diverse ethnic and tribal backgrounds together under a common sense of belonging and shared responsibilities. Recognizing the importance of ethnic and tribal identities, I still prioritize my sense of being Pakistani as it guides my role in society and my connection to the broader community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I identify primarily as a Pakistani because I see myself as part of a national community that unites people across different ethnic and tribal backgrounds. While my ethnicity or tribal identity is important to me and shapes parts of my personal history and culture, my sense of national belonging as a Pakistani influences how I see my place in society and my responsibilities. Recognizing that these identities coexist, I feel that my national identity takes precedence in my self-perception.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I identify primarily as a Pakistani because I feel a strong sense of belonging and shared purpose through my national identity. While my ethnic or tribal background is an important part of who I am, it does not define my main sense of self in social or civic contexts. My primary connection is to Pakistan as a nation that encompasses diverse backgrounds and unites its citizens under common values and identity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I identify primarily as a Pakistani because my sense of belonging and civic identity is rooted in my national citizenship, shared values, and collective experiences as part of Pakistan. Although my ethnic or tribal background is an important aspect of my personal heritage, it does not define my main identity in social or national contexts. This broader national identity helps me feel connected to the larger community and common goals.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

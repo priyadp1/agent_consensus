@@ -1,0 +1,62 @@
+{
+  "question": "Do you think the Nigerian government is making progress in its campaign against Boko Haram, losing ground or are things about the same as they have been in the past?",
+  "options": [
+    "Making progress",
+    "Losing ground",
+    "About the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on recent reports and news, there have been some successes in reducing Boko Haram's influence and territorial control, but also setbacks and ongoing threats. The situation remains complex, with some areas experiencing improved stability while others face persistent violence. Therefore, it seems that progress has been made, but it is not comprehensive or definitive enough to say they are winning the fight outright. Overall, I believe the government is making progress, but not fully overcoming Boko Haram yet.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on recent reports and ongoing attacks in northeastern Nigeria, it seems that Boko Haram remains active and has shown resilience despite counterinsurgent efforts. While there have been some successes against the group, overall, they continue to carry out attacks and recruit members, indicating that the Nigerian government has not made consistent or significant progress in reducing their influence. Therefore, things appear to be largely the same as in the past, with some fluctuations but no clear overall improvement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the recent reports and developments, there has been some progress in Nigeria's efforts against Boko Haram, including better intelligence, military operations, and community engagement. However, Boko Haram remnants and threats still persist in certain regions, indicating that while there has been some improvement, the situation remains tense and not fully resolved. Therefore, I believe the campaign has made some progress but is not entirely successful yet.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on available reports, there are mixed indicators. Some evidence suggests that Nigeria has achieved some tangible improvements through better intelligence and military actions, yet Boko Haram still remains active in certain regions, posing persistent threats. The overall picture indicates partial progress but not enough to declare a decisive victory, and the group continues to demonstrate resilience. Therefore, the situation appears to be somewhat improved but still challenging, leading me to conclude that the campaign has made some progress but is not yet fully successful.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the consistent reports of some progress through improved military efforts and community engagement, but also ongoing threats and stability challenges, it appears that the Nigerian government has made partial improvements but has not fully overcome Boko Haram. This indicates a situation where progress has been achieved, but significant setbacks remain. Therefore, I believe the most accurate choice reflects that situation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the mixed reports, there have been some successes in pushing back Boko Haram, but the group remains resilient with ongoing attacks and territorial presence. Overall, the situation has not significantly improved nor worsened, indicating a status quo of sorts. Thus, I believe the Nigerian government is making some progress, but not enough to claim a decisive victory.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the Nigerian government has made some progress against Boko Haram, given reports of ongoing military efforts and community engagement leading to partial successes. While the group remains active and resilient, the fact that there have been improvements suggests that the situation is better than before, albeit not fully resolved. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the mixed but somewhat optimistic reports, it appears that the Nigerian government has achieved some improvements through enhanced military efforts and intelligence. However, Boko Haram remains active and resilient in certain areas, indicating that the situation has not been fully resolved. Therefore, it seems appropriate to select progress, albeit limited.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the reports indicating some tangible improvements through better military efforts and community engagement, but acknowledging that Boko Haram remains active and the situation is still challenging, I believe the Nigerian government has made some progress, though not a decisive or complete one. The evidence suggests partial gains but not full victory or a significant regression. Therefore, I choose to reaffirm the view that progress has been made.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

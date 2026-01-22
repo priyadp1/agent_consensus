@@ -1,0 +1,63 @@
+{
+  "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nThrift saving money and things",
+  "options": [
+    "Important",
+    "Not mentioned",
+    "Don't know",
+    "No answer",
+    "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe teaching children about thrift and saving money is especially important because it helps them develop financial responsibility, avoid debt, and build a secure future. Instilling these habits early can have long-lasting positive effects on their personal and financial well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that encouraging children to learn about thrift\u2014saving money and things\u2014is especially important because it fosters financial responsibility, self-discipline, and the ability to manage resources effectively. These skills are essential for their future stability and success, and establishing good saving habits early can promote a healthy attitude toward money. Therefore, I choose the option that recognizes its importance.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe thrift is especially important because instilling the value of saving money and things helps children develop responsible financial habits early on. Learning to be economical can contribute to their independence and decision-making skills throughout life. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider thrift to be especially important because teaching children to save money and resources promotes responsible financial behavior, self-discipline, and long-term planning skills. Developing these habits early can significantly contribute to their ability to manage personal finances responsibly in the future. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I consider teaching children about thrift and saving money especially important because it fosters financial responsibility from an early age, helping them develop good money management habits that can benefit them throughout their lives. Learning to be economical can also promote independence and responsible decision-making. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that teaching children about thrift and saving money is especially important because it helps them develop essential financial skills, self-discipline, and responsible resource management. These qualities contribute to their long-term financial stability and success, which are crucial for their personal growth. Therefore, I choose the option that recognizes its importance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that teaching children about thrift and saving money is especially important because it promotes financial literacy, responsible resource management, and self-discipline. These skills are fundamental for their future financial stability and support responsible decision-making. Early lessons in thrift can foster independence and help children develop habits that benefit them throughout life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that teaching children to be thrifty and to save money and things is especially important because it fosters responsible financial habits, self-discipline, and resourcefulness from an early age. These qualities help children develop a mindset of mindful resource management that benefits them throughout their lives, promoting long-term financial stability and responsible behavior. Cultivating thrift can also teach children the value of money and the importance of planning for future needs, which are essential life skills. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that teaching children to be thrifty and save money is especially important because it helps instill responsible financial habits early on. Developing these skills promotes self-discipline, independence, and good decision-making, which are essential for their future well-being and financial stability. By learning to manage resources wisely from a young age, children are better prepared to handle complex financial situations as adults. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

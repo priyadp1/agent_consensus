@@ -1,0 +1,63 @@
+{
+  "question": "In which of the following things do you believe, if you believe in any?\n\nHell",
+  "options": [
+    "Yes",
+    "No",
+    "Don't know",
+    "No answer",
+    "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not believe in the concept of hell, as I see it more as a symbolic or religious idea rather than an objective reality. Therefore, I would select \"No\" to express my belief.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I personally do not believe in the concept of hell, as I view it as a myth or religious metaphor rather than an actual place or reality. While I recognize that many cultures and religions incorporate the idea of hell, I do not hold this belief myself. Therefore, I choose no.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I don't believe in hell, as my views are more aligned with secular or atheistic perspectives, or I simply haven't thought about it enough to hold a firm belief. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not believe in hell, considering it a religious or mythological concept rather than an actual entity or place. I recognize that many faiths include the idea, but personally, I do not hold this belief. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not believe in hell as a literal or objective place of punishment; I see it more as a religious or symbolic concept used to illustrate moral consequences. Therefore, I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not believe in the concept of hell, as I see it more as a symbolic or religious idea rather than an objective reality. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not believe in hell as a literal or objective place of punishment. I see it more as a religious or symbolic concept used to illustrate moral consequences, so I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not believe in hell as a literal place of eternal punishment; I see it more as a religious or mythological construct that does not have a basis in objective reality. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not believe in hell as a literal or divine place of punishment. I see it as a mythological or religious concept that has no empirical basis. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

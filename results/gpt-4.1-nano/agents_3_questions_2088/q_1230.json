@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Poor infrastructure, such as roads and bridges",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor infrastructure like roads and bridges is a very big problem because it directly affects transportation, safety, and economic development. Poor infrastructure can cause accidents, slow down trade, and hinder everyday life, which makes it a significant concern for the country's well-being. Therefore, I see it as a major issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor infrastructure is a very significant issue because it directly impacts transportation, safety, and economic development, affecting the daily lives of many citizens. Well-maintained roads and bridges are essential for effective commerce, emergency response, and access to services. When infrastructure is inadequate, it leads to increased costs and delays, which can hinder national progress and quality of life. Therefore, I consider it a very big problem that requires immediate attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Poor infrastructure issues, such as roads and bridges, can significantly impact daily life, commerce, and transportation safety. Many people consider these problems quite serious because they directly affect mobility, economic development, and the overall quality of life. In my view, infrastructure problems are often perceived as a very big problem given their far-reaching consequences and the costs involved in fixing them. Therefore, I would select the option indicating they are a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Poor infrastructure like roads and bridges is fundamental to daily life and economic activity. When such infrastructure is inadequate, it hampers transportation safety, increases costs, and slows development, which can have widespread negative effects on the country's progress and people's well-being. Given the importance of infrastructure in supporting various aspects of society and the economy, I believe it is a very big problem that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor infrastructure such as roads and bridges is a very big problem because it directly impacts transportation safety, economic activity, and daily life. When infrastructure is inadequate, it can cause accidents, hinder trade, and reduce overall quality of life, all of which are significant issues that require urgent attention. Therefore, I would select the option indicating they are a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe poor infrastructure such as roads and bridges is a very big problem because it directly affects transportation, safety, and economic development. Inadequate infrastructure can lead to accidents, increase costs for commerce, and slow down trade and access to essential services. Since these issues have widespread and significant impacts on daily life and overall progress, I consider it a critical concern that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor infrastructure such as roads and bridges is a very big problem because it directly affects transportation safety, economic development, and daily life. When infrastructure is inadequate, it can lead to accidents, increase costs for commerce, and hinder access to essential services, which have widespread and significant impacts on people's well-being and the country's progress. Therefore, I consider it a critical concern that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Poor infrastructure like roads and bridges is crucial for economic activity, safety, and overall development. When infrastructure is poor, it hampers transportation, increases costs, and poses safety risks, which can significantly hinder progress and affect people's daily lives. Given its fundamental importance and the widespread negative impacts associated with inadequate infrastructure, I believe it is a very big problem that requires urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Poor infrastructure like roads and bridges is crucial for a country's development and the daily lives of its citizens. Inadequate infrastructure can lead to safety hazards, increased costs, and hinder economic growth, which can have widespread negative impacts on society. Given its fundamental importance, I believe poor infrastructure is a very big problem that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

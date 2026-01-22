@@ -1,0 +1,63 @@
+{
+  "question": "(Please tell me how well each of the following describes foreign companies in the mining industry in our country.)...Their mines are unsafe for workers",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies in our country's mining sector tend to prioritize safety, but there are still concerns among some workers and locals that their mines may not always be as safe as they should be. While some companies may adhere to safety standards, the perception persists that safety protocols are sometimes overlooked in the pursuit of profit or efficiency. Therefore, it seems they are somewhat responsible for unsafe conditions, though not entirely. This suggests that their mines are somewhat unsafe for workers, but not necessarily very unsafe.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perception is that foreign companies in our country's mining industry typically prioritize safety standards, but there may be occasional lapses due to profit pressures or regulatory enforcement issues. Some mines might pose safety risks to workers, but generally, many are taking precautions to ensure safety. Therefore, I would select a middle-ground option that acknowledges safety concerns but not to the highest degree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My perception is that foreign companies in the mining industry in our country generally prioritize safety protocols, but there may still be occasional concerns raised by workers or local communities about safety standards. Overall, I believe their mines are not particularly unsafe for workers; therefore, I would choose an option indicating a moderate or low concern about safety. However, without concrete evidence of widespread safety issues, I do not think the mines are seen as extremely unsafe. Thus, my answer reflects a belief that their safety measures are relatively adequate, with only some minor issues possibly perceived.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the perceptions shared by previous respondents, there appears to be a consensus that foreign companies in our country's mining industry generally prioritize safety standards, with only occasional lapses or concerns raised by workers or communities. While some safety issues may exist, they are not perceived as widespread or severely unsafe. This suggests that the mines are relatively safe for workers, but not without some concerns. Therefore, I believe that their mines are somewhat safe but not completely free of safety issues. I choose an option indicating moderate safety concerns but not extreme or pervasive danger.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the previous responses, there seems to be a perception that foreign mining companies are somewhat responsible for safety concerns but are generally not seen as highly unsafe. The first respondent's answer suggests a moderate concern (somewhat unsafe), while the second perceives relatively adequate safety measures, indicating a neutral or low concern. Therefore, I believe the safest choice reflecting this perception is that their mines are not particularly unsafe but may have minor issues.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the provided responses, it appears that perceptions about foreign mining companies' safety are generally moderate. Respondents acknowledge that while these companies often prioritize safety, there are still instances where safety protocols may be overlooked or lapses occur, but overall, the mines are not seen as extremely unsafe. Given this moderate perception, the most appropriate choice aligns with a perception that their mines are somewhat unsafe for workers without suggesting widespread danger.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the survey responses, perceptions of foreign mining companies' safety seem to be moderate. Respondent 1 indicates a view that their mines are somewhat unsafe but not highly dangerous, while respondent 2 perceives safety as generally adequate with some lapses. Both responses suggest that while there may be safety issues, they are not considered to be a serious or widespread problem. Therefore, the most appropriate choice aligns with a perception that their mines are somewhat unsafe for workers without implying significant danger.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the consensus from previous responses, perceptions of foreign mining companies' safety appear moderate, with some concerns about lapses but not widespread danger. This suggests that their mines are not considered highly unsafe but do have some safety issues that are recognized. Therefore, the most fitting option reflects an acknowledgment of safety concerns without implying extreme danger.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the previous responses, there is a mixed perception regarding the safety of foreign mines in our country. Some respondents suggest there are occasional safety concerns but overall the mines are relatively safe, indicating that safety issues are not pervasive or severe. Others imply that safety may be somewhat questionable but not drastically unsafe. Considering this, my perception aligns more with the idea that the mines are generally safe but with some minor safety concerns, which corresponds to a moderate level of safety issues rather than a high or very high concern.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

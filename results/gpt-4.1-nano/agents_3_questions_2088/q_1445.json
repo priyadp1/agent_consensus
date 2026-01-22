@@ -1,0 +1,63 @@
+{
+  "question": "For each one please tell me if you think the your nationality government should make decisions about this issue for ...  b. migration of EU citizens into your country",
+  "options": [
+    "(Survey country) should make decisions",
+    "EU should make decisions",
+    "Both (VOL)",
+    "Neither (VOL)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the decision about migration of EU citizens into our country should primarily be made by our national government. This allows for better control and consideration of our country's specific needs, policies, and social contexts. While the EU's policies are important, ultimately, the sovereignty and management of migration flows should rest with our own government to ensure appropriate measures are taken that align with national interests and public opinion. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the decision should primarily rest with my country's government, as it directly affects national policies, social services, and economic impacts within our borders. While the EU's policies influence migration, individual member states often need autonomy to address their specific circumstances and concerns. Therefore, I think our government should make decisions about migration of EU citizens into our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the decision about migration of EU citizens into my country should primarily be made by my national government because it pertains to our own country\u2019s policies, security, and integration strategies. While the EU has overarching frameworks and agreements, the specific management and regulation of migration should be under national control to address local needs and concerns effectively. Therefore, my opinion is that my government should make these decisions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that migration of EU citizens into my country should primarily be managed by the EU, as it involves movement within a Union that is based on shared policies and agreements. Since EU citizenship grants rights across member states, decisions about internal migration are better handled collectively to ensure harmony, fairness, and adherence to EU regulations. This approach helps balance national sovereignty with collaborative governance, and policies can be more consistent across countries, benefiting all parties involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the decision about migration of EU citizens into our country should primarily be made by our national government. This allows us to better control our borders, ensure that migration policies align with our national interests, and address specific social and economic concerns unique to our country. While the EU provides frameworks and collaborative policies, the management of how EU citizens integrate and move within our borders is best handled domestically to meet our citizens' needs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the decision about migration of EU citizens into our country should primarily be made by our national government. This is because migration directly impacts our social services, economy, and public sentiment, and therefore, it is important for our government to have control over these decisions to ensure they align with national interests and specific circumstances. While the EU\u2019s policies are relevant, the sovereignty of our nation in managing migration is crucial for addressing our unique needs effectively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that migration of EU citizens into our country should primarily be managed by our national government because this allows us to address the specific social, economic, and security concerns relevant to our nation. While the EU provides overarching frameworks, the details of immigration and integration are best handled domestically to ensure policies align with our country's unique needs and interests.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the decision about migration of EU citizens into my country should primarily be made by the EU, as it involves movement within a Union that is based on shared policies and agreements. Since EU citizenship grants rights across member states, decisions about internal migration are better handled collectively to ensure harmony, fairness, and adherence to EU regulations. This approach helps balance national sovereignty with collaborative governance, and policies can be more consistent across countries, benefiting all parties involved.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the decision about migration of EU citizens into our country should primarily be made by our national government. This allows us to better control our borders, ensure that migration policies align with our national interests, and address specific social and economic concerns unique to our country. While the EU provides frameworks and collaborative policies, the management of how EU citizens integrate and move within our borders is best handled domestically to meet our citizens' needs.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

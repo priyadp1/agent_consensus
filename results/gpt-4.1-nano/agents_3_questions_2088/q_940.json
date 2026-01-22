@@ -1,0 +1,61 @@
+{
+  "question": "Which of these characteristics do you associate with Americans? Do you associate ____ with Americans or not? d. tolerant",
+  "options": [
+    "Yes, associate",
+    "No, do not associate",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people view Americans as a diverse and open-minded group, which can be associated with tolerance. While individual experiences may differ, on a general level, tolerance is commonly linked with American values of freedom and acceptance. Therefore, I associate tolerance with Americans.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Americans are often perceived as a diverse and open-minded population, which can include being tolerant of different races, religions, and lifestyles. While no group is perfectly uniform, in general, many people view Americans as being more tolerant compared to stereotypes of other nations. However, there are also segments within the U.S. that hold less tolerant views. Overall, the perception tends toward associating Americans with tolerance, though this varies depending on individual perspectives and contexts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people tend to view Americans as generally tolerant, especially given the country's diversity and democratic values. While there are certainly exceptions, the perception often aligns with the idea that Americans are open-minded and accepting of different cultures, beliefs, and lifestyles. Therefore, I associate tolerance with Americans.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I associate tolerance with Americans because the country\u2019s diverse population and commitment to democratic values often lead to perceptions of openness and acceptance of different cultures, beliefs, and lifestyles. While individual experiences vary, the general perception tends to view Americans as being tolerant compared to stereotypes of other nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Americans are often viewed as a tolerant group, especially considering the country's diversity, democratic values, and cultural acceptance. While individual experiences and opinions may vary, the general perception aligns with associating tolerance with Americans due to their reputation for openness and acceptance of different beliefs and lifestyles. Therefore, I choose to associate tolerance with Americans.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Americans are generally perceived as a tolerant group due to the country's emphasis on freedom, diversity, and acceptance of different cultures and lifestyles. While individual experiences vary, the common narrative and values associated with American society support this perception. Therefore, I associate tolerance with Americans.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Americans are often perceived as a tolerant group because of their country's emphasis on freedom, diversity, and acceptance of different cultures and lifestyles. While individual experiences and perspectives may vary, the general narrative and values associated with American society support the idea that Americans are seen as tolerant. This perception aligns with the reputation of openness and acceptance that many associate with Americans, based on cultural and societal norms. Therefore, I choose to associate tolerance with Americans.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I associate tolerance with Americans because the country\u2019s emphasis on diversity, freedom, and democratic values often foster perceptions of openness and acceptance toward different cultures and lifestyles. While there are variations among individuals, the general narrative and societal ideals support this association.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate tolerance with Americans because of the country's diversity and democratic values, which often promote acceptance of different cultures and beliefs. While individual experiences may differ, the general perception is that Americans are seen as tolerant. This perception is reinforced by their reputation for openness and inclusivity in society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Which comes closer to describing your view?...The United States is mostly to blame for the drug violence in Mexico, OR Mexico is mostly to blame for the drug violence, OR both are to blame",
+  "options": [
+    "United States",
+    "Mexico",
+    "Both",
+    "Neither (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that both the United States and Mexico share responsibility for the drug violence issues. The U.S. has contributed through high demand for illegal drugs and involvement of American-based gangs, which fuels the drug trade. Meanwhile, Mexico faces challenges related to corruption, organized crime, and insufficient law enforcement capacity that enable violence to persist. Therefore, accountability lies with both countries, as their interconnected roles create a complex problem that cannot be solely attributed to one side.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The issue of drug violence in Mexico is complex and influenced by multiple factors. The United States' role in demand for illegal drugs, along with American trafficking routes and related money flows, significantly contribute to the violence. At the same time, Mexico bears responsibility for its domestic policies, law enforcement effectiveness, and corruption levels, which can exacerbate the violence. Recognizing the interconnectedness of these factors, it seems most reasonable to attribute some blame to both parties rather than focusing solely on one. This perspective encourages understanding of the shared responsibilities and emphasizes the need for cooperation to address the problem effectively.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe both the United States and Mexico share responsibility for the drug violence. The U.S. has played a significant role by demanding illegal drugs, which fuels the drug trade, and contributing to high levels of drug consumption. Meanwhile, Mexico bears responsibility for the ongoing violence related to drug trafficking organizations and enforcement efforts. Blaming one side overlooks the complex, interconnected factors driving the violence, so recognizing shared blame seems the most accurate reflection of the situation.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that both the United States and Mexico share responsibility for the drug violence. The U.S. plays a significant role by creating demand for illegal drugs and facilitating trafficking routes that increase violence. At the same time, Mexico's domestic policies, law enforcement effectiveness, and corruption levels influence the extent and intensity of the violence. Recognizing the interconnected factors suggests that assigning blame to both parties is more accurate than focusing on just one side. Addressing this complex issue requires mutual responsibility and cooperation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that both the United States and Mexico share responsibility for the drug violence. The U.S. contributes through high demand for illegal drugs and the presence of American gangs involved in trafficking, which incentivizes illegal activity. Mexico faces its own challenges such as corruption, organized crime, and limited law enforcement capacity that exacerbate violence. Since the problem results from the interconnected actions of both nations, it is most accurate to say that both are to blame.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that both the United States and Mexico share responsibility for the drug violence issues. The U.S. has contributed through high demand for illegal drugs and involvement of American-based gangs, which fuels the drug trade. Meanwhile, Mexico faces challenges related to corruption, organized crime, and insufficient law enforcement capacity that enable violence to persist. Therefore, accountability lies with both countries, as their interconnected roles create a complex problem that cannot be solely attributed to one side.  \nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that both the United States and Mexico share responsibility for the drug violence. The U.S. contributes through high demand for illegal drugs and the involvement of American gangs, which incentivizes trafficking and violence. Mexico faces issues such as corruption, organized crime, and limited law enforcement capacity, which facilitate violence and instability. Since the problem stems from the interconnected actions of both countries, it is most accurate to say that both are to blame.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that both the United States and Mexico share responsibility for the drug violence. The U.S. contributes by creating demand for illegal drugs and facilitating trafficking routes that increase violence. Simultaneously, Mexico's domestic issues like corruption and organized crime further exacerbate the problem. Recognizing the interconnected roles suggests that accountability lies with both countries, making a shared responsibility the most accurate characterization of the situation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that both the United States and Mexico share responsibility for the drug violence. The U.S. significantly influences the situation through its high demand for illegal drugs, which fuels trafficking and violence, as well as the presence of American gangs involved in the drug trade. Conversely, Mexico's domestic issues such as corruption, organized crime, and limited law enforcement capacity contribute to the severity and persistence of the violence. Since both countries' actions and policies are interconnected and impact the problem, it is more accurate to assign blame to both than to focus on only one side.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

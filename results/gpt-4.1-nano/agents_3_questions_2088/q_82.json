@@ -1,0 +1,61 @@
+{
+  "question": "In general, when European companies build factories in our country, does that mostly help or mostly hurt our economy? ",
+  "options": [
+    "Mostly help",
+    "Mostly hurt",
+    "No effect (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "European companies building factories in our country can bring both positive and negative effects. On the positive side, it can create jobs, introduce new technology and management practices, and stimulate economic activity. However, if these companies repatriate profits outside the country or if their operations lead to environmental degradation or unfair competition, the overall impact could be detrimental. The net effect depends heavily on how these investments are managed and integrated into our economy. Generally, if managed well, such investments tend to mostly help our economy, but there are situations where they may also cause harm.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "European companies building factories in our country can have both positive and negative effects, depending on various factors. On the positive side, they can create jobs, bring investments, improve technology transfer, and boost local industries. These benefits can stimulate economic growth and development. However, there are also concerns about potential negative impacts, such as crowding out local businesses, repatriation of profits to foreign countries, possible environmental degradation, and undermining local industries if the foreign companies do not collaborate well with the local community. Overall, if the foreign companies follow ethical practices, invest in local communities, and contribute to sustainable development, their presence is more likely to help the economy. Conversely, if their activities are primarily profit-driven with minimal benefits to the local economy, the impact might be more harmful. Given these considerations, I believe that, in general, European companies building factories in our country mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "When European companies establish factories in our country, it can bring several economic benefits such as job creation, technology transfer, and increased exports. These investments can stimulate local industries, improve infrastructure, and enhance our country's competitiveness. However, some may argue that foreign companies might also lead to profit repatriation, potential job displacement for local workers, or increased environmental concerns. Overall, the positive impact tends to outweigh the negatives if managed properly, making such foreign investments generally beneficial to our economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "European companies building factories in our country tend to bring significant economic benefits, such as creating jobs, transferring technology, and attracting investments, which generally help our economy grow. While there are potential concerns like profit repatriation or environmental issues, these are often manageable with proper regulation and oversight. Overall, the positive impacts outweigh the negatives when such investments are conducted ethically and sustainably. Therefore, I believe they mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "European companies building factories in our country often bring significant economic benefits, such as creating jobs, transferring technology, and boosting local industries. While there are some concerns about profit repatriation or environmental impact, these issues can generally be managed through effective regulation and policies. Overall, the positive effects tend to outweigh the negatives if the investments are well integrated into our economy, making them mostly helpful. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "European companies building factories in our country can bring significant benefits, such as job creation, technology transfer, and investment stimulation, which generally support economic growth. While there are concerns about potential negative effects like environmental impact or profit repatriation, these risks can often be mitigated if companies operate responsibly and engage positively with the local community. Overall, the potential for economic development and improved living standards makes it more likely that these investments mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "European companies building factories in our country generally bring economic benefits such as job creation, technology transfer, and increased investment, which can support local industries and improve living standards. While there are potential concerns related to environmental impact or profit repatriation, these issues can often be managed through effective regulation and responsible business practices. Based on this overview, the positive contributions tend to outweigh the negatives when investments are well-managed, so they mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Building factories in a country by European companies can bring several positive economic effects, such as creating jobs, transferring technology, and attracting investments. These benefits can support economic growth and improve living standards. While there are potential concerns like environmental impacts or profit repatriation, responsible operations and proper regulation can mitigate these issues. Overall, the likelihood that such investments mostly help the local economy is high, especially when companies act responsibly and sustainably. Therefore, I believe these investments mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "European companies building factories in our country generally bring positive economic effects, such as increased employment opportunities, technology transfer, and investment inflows. These benefits tend to foster economic growth and development, especially when proper regulations are in place to address potential concerns like environmental impact or profit repatriation. Given these considerations, it seems that such foreign investments mostly help our economy. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

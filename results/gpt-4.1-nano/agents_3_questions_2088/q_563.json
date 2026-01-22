@@ -1,0 +1,62 @@
+{
+  "question": "Overall, how much influence do you think Iran is having on the way things are going in your country? Would you say it is having a great deal of influence, a fair amount, not too much, or no influence at all? ",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "No influence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe Iran has a limited influence on my country's affairs. While there may be some diplomatic or political interactions, it doesn't seem to significantly shape policies or societal trends here. Therefore, I would choose the option indicating a moderate or minimal level of influence.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe Iran's influence on my country is relatively limited. While there may be some diplomatic or economic interactions, there doesn't seem to be a significant or direct impact on the major political or social aspects of our national affairs. Therefore, I would say it has not too much influence at this point. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Iran has a significant influence on my country\u2019s affairs, especially through its regional policies, diplomatic relations, and economic interactions. While it may not dominate all aspects of my country's direction, the extent of Iran's involvement is noticeable and impactful. Therefore, I think it has a fair amount of influence, shaping certain policies and regional dynamics.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe Iran's influence on my country is relatively limited, primarily confined to diplomatic and economic interactions without significantly affecting major political or social dimensions. While some regional or minor policies might be impacted, these do not seem to substantially shape the overall trajectory of my country's affairs. Therefore, I would say it has not too much influence at this point.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that Iran's influence in my country is limited and not very impactful. While there may be some diplomatic or regional interactions, it does not seem to significantly shape policies, society, or overall direction here. Therefore, I would select the option indicating not too much influence.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the context provided and the perspectives shared by other respondents, it seems that Iran's influence on the country is generally viewed as limited and not very significant. Both agents believe the impact is minimal, indicating that Iran does not play a major role in shaping the country's political or social landscape. Therefore, I would also consider the influence to be quite limited, aligning with the option that indicates a small or negligible impact.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on the information provided and the perspectives of the other respondents, it appears that Iran's influence in the country is perceived as limited and not very impactful. The respondents indicate that Iran does not significantly shape policies, society, or the overall direction here. Given this context, I believe Iran is having only a small or negligible influence. Therefore, I select the option that best reflects this understanding.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the responses of other agents and their assessment that Iran's influence appears limited and not significantly shaping the country's trajectory, I believe the same applies to my perspective. Therefore, I see Iran's impact as minor and not influential enough to be categorized higher than a small degree of influence.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe Iran's influence on my country remains limited and primarily regional or diplomatic in nature, without significantly impacting major political, economic, or social developments. Based on this assessment, I think it falls into the category of not too much influence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

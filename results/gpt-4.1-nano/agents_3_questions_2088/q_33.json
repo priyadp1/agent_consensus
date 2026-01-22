@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Drug cartel-related violence",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Drug cartel-related violence is a significant issue that affects the safety, stability, and overall quality of life in many parts of the country. It can lead to deaths, injuries, economic disruption, and a pervasive sense of insecurity among the population. Given these serious implications, I consider it a very big problem. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The issue of drug cartel-related violence is a significant concern because it affects public safety, economic stability, and the rule of law. Such violence can lead to loss of life, fear among communities, and disruption of daily life. While some regions may experience more violence than others, overall, it remains a major problem facing many countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Drug cartel-related violence is a significant concern because it directly impacts safety, security, and stability in the country. It often results in loss of lives, disrupts communities, and hampers economic development. Given its severity and widespread effects, I would consider it a very big problem.\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Drug cartel-related violence significantly impacts public safety, economic stability, and social order. It causes loss of lives, creates fear in communities, and disrupts daily activities across many regions. Given its widespread and serious consequences, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Drug cartel-related violence has severe consequences for public safety, economic stability, and social well-being. The widespread and often deadly nature of this violence creates a climate of insecurity that affects many communities. Its serious impact on daily life and the country's stability leads me to consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Given the widespread and serious impact of drug cartel-related violence on safety, economic stability, and public well-being, it is a major concern that undermines various aspects of society. Its implications are severe enough to be considered a very big problem by most standards.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Drug cartel-related violence causes widespread insecurity, threatens public safety, and hampers economic stability. Its persistent and deadly nature has a profound impact on everyday life and national stability, making it a very serious concern. Given its severe consequences and broad effects, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe drug cartel-related violence is a very big problem because it poses serious threats to public safety, causes loss of life, spreads fear, and disrupts daily life, which negatively affects communities and the economy across many regions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Drug cartel-related violence causes widespread insecurity, loss of life, and significant disruption to both communities and the economy. Its pervasive and severe impact makes it a critical issue affecting many aspects of daily life and national stability. I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

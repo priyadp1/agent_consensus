@@ -1,0 +1,62 @@
+{
+  "question": "Which statement comes closest to your view, even if none are exactly right? Democracy in the United States...",
+  "options": [
+    "Is a good example for other countries to follow",
+    "Used to be a good example, but has not been in recent years",
+    "Has never been a good example for other countries to follow",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that democracy in the United States has had moments when it served as a positive example for other countries, especially in its early years and during periods of strengthening democratic institutions. However, recent events and ongoing challenges, such as political polarization, election controversies, and social inequalities, have diminished its role as an ideal model. Therefore, I think it used to be a good example but has not been in recent years.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that democracy in the United States has faced significant challenges and has experienced periods of decline or crisis, especially in recent years. While it still embodies important principles of representation and participation, its effectiveness and integrity have been questioned both domestically and internationally. Therefore, I see it more as having been a good example in the past but not recently. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that democracy in the United States used to be a good example for other countries to follow, but in recent years, various political and social issues have challenged its effectiveness and fairness. While it still has many strengths, its current state makes me less confident that it serves as a model now. Therefore, I think the statement that best reflects my view is that it used to be a good example but has not been in recent years. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that democracy in the United States has faced significant challenges and has experienced periods of decline or crisis, especially in recent years. While it still embodies important principles of representation and participation, its effectiveness and integrity have been questioned both domestically and internationally. Therefore, I see it more as having been a good example in the past but not recently. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that democracy in the United States has historically served as a positive example for other nations, demonstrating principles of representation, rule of law, and individual rights. However, in recent years, there have been significant challenges such as political polarization, misinformation, and social inequalities that have undermined its effectiveness and credibility. These issues suggest that while it may have been a good example in the past, it no longer fully represents an ideal model today. Therefore, my view aligns most closely with the statement that it used to be a good example but has not been in recent years.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while American democracy has historically served as a model due to its foundational principles and early successes, recent developments such as political polarization, election disputes, and social inequalities have raised concerns about its current effectiveness and global reputation. These factors suggest it is more accurate to view the U.S. as having been a good example in the past, but not in recent years. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United States has historically been a leading example of democracy, embodying principles like representation, individual rights, and rule of law. However, in recent years, challenges such as political polarization, social inequalities, and electoral disputes have raised concerns about its current effectiveness and reputation as a model for others. These issues suggest that while it may have been a good example in the past, it no longer entirely serves as a definitive model today. Therefore, I align most closely with the idea that it used to be a good example but has not been in recent years.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while the United States has historically been viewed as a model for democracy due to its foundational principles and influence, recent political polarization, social inequalities, and challenges to electoral integrity have raised questions about its current role as a global exemplar. Given this, I think it best to acknowledge that it was a good example in the past but is less so now.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that democracy in the United States has faced challenges in recent years, including political polarization and social inequalities, which have impacted its effectiveness and international reputation. While it still upholds important principles, it is no longer the exemplary model it once was. Therefore, my view is closest to the idea that it used to be a good example but has not been in recent years.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

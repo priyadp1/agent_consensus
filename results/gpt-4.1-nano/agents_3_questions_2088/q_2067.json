@@ -1,0 +1,62 @@
+{
+  "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:\n\nThe government (in your municipality)",
+  "options": [
+    "A great deal",
+    "Quite a lot",
+    "Not very much",
+    "None at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My confidence in the local government depends on its effectiveness, transparency, and ability to address community needs. If I believe it consistently delivers positive results and communicates openly, I might have quite a lot or a great deal of confidence. However, if I feel it is inefficient, untrustworthy, or unresponsive, I would have little or no confidence. Overall, I tend to have moderate trust but remain cautious about the reliability and accountability of municipal governments.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have moderate confidence in the municipality government, as I believe they generally aim to serve the public's interests, but I am also aware of potential inefficiencies and instances of corruption that can undermine trust. Therefore, I would choose quite a lot of confidence, reflecting cautious optimism but recognizing room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have moderate trust in the local government, as I believe they are generally working toward community interests, but I also recognize that there may be issues or inefficiencies that reduce my confidence somewhat. Therefore, I would choose quite a lot confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that my municipality's government generally works toward the public's interests and makes efforts to serve the community. While I recognize there may be inefficiencies or occasional issues, I tend to trust their intentions and actions overall. Therefore, I have quite a lot of confidence in them.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat cautiously optimistic about the local government\u2019s ability to serve the community effectively. While I recognize its efforts and generally trust it to work in our interest, I am also aware of possible challenges like inefficiencies or lack of transparency that might affect my confidence. Therefore, I would choose quite a lot confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that my confidence in the local government is quite significant because I trust that they generally work to serve the community's best interests and address local issues effectively. While I acknowledge there may be some shortcomings or instances of inefficiency, overall, I feel reasonably optimistic about their ability to fulfill their responsibilities. Therefore, I would select quite a lot confidence as it reflects a positive yet cautious outlook.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that local government plays a crucial role in addressing community needs and providing essential services. While I recognize that there may sometimes be issues like inefficiency or lack of transparency, I generally trust that they aim to serve the public's best interests and work towards improving the community. Given this, I have quite a lot of confidence in the local government, balancing trust with some cautious awareness of potential shortcomings.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that my municipality's government generally works toward the public's interests and makes efforts to serve the community. While I recognize there may be inefficiencies or occasional issues, I tend to trust their intentions and actions overall. Therefore, I have quite a lot of confidence in them.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "INVALID",
+        "raw_output": "I believe that my municipality's government generally works toward the public's interests and makes efforts to serve the community. While I recognize there may be inefficiencies or occasional issues, I tend to trust their intentions and actions overall. Therefore, I have quite a lot of confidence in them.",
+        "model_failed": false
+      }
+    }
+  ]
+}

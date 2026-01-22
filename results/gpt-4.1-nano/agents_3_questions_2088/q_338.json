@@ -1,0 +1,60 @@
+{
+  "question": "In your opinion, should Ukraine remain one, united country, or should regions that want to leave be allowed to secede? ",
+  "options": [
+    "Remain united",
+    "Allowed to secede"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my opinion, Ukraine should remain one united country. Maintaining national unity fosters stability, shared identity, and political coherence, which are crucial for the country's security and development. Allowing regions to secede could lead to fragmentation, conflicts, and weaken the nation\u2019s sovereignty, especially given Ukraine\u2019s current geopolitical challenges. Respecting the territorial integrity of Ukraine ensures that all regions are part of a collective effort to build a peaceful and prosperous future together.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my view, maintaining the territorial integrity of Ukraine as a united country is essential for stability, national identity, and sovereignty. Allowing regions to secede could lead to fragmentation, conflict, and weakening of the state's ability to function effectively. Ensuring unity helps to promote a cohesive national identity and supports long-term peace and development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Ukraine should remain one united country because maintaining territorial integrity is essential for national stability, sovereignty, and international recognition. Allowing regions to secede could set a precedent for fragmentation and weaken the country's ability to address internal and external challenges effectively. Unity fosters stronger bargaining power and a cohesive national identity, which are crucial for long-term peace and development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Ukraine should remain one, united country. A unified state is vital for maintaining stability, protecting sovereignty, and fostering a strong national identity. Allowing regions to secede could lead to conflict, weaken the country's ability to manage internal affairs, and undermine international recognition. Unity encourages cooperation and resilience in facing challenges, both internal and external. Preserving territorial integrity is essential for Ukraine's long-term peace, development, and international standing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Ukraine should remain one, united country. Preserving territorial integrity is vital for national stability, sovereignty, and international legitimacy. Allowing regions to secede could lead to fragmentation, conflicts, and weaken Ukraine's ability to effectively address internal and external challenges. A unified Ukraine strengthens its position both domestically and internationally, fostering peace and development across the entire nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Ukraine should remain one, united country. A unified nation helps maintain stability, preserves national identity, and strengthens sovereignty, which are vital given the complex geopolitical situation and recent conflicts. Allowing regions to secede might lead to fragmentation, destabilize the country further, and hinder efforts for peace and development. Keeping the country intact promotes a cohesive and resilient Ukraine capable of facing future challenges.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Ukraine should remain one, united country. Preserving territorial integrity is essential for national stability, sovereignty, and international legitimacy. Allowing regions to secede could lead to fragmentation, conflicts, and weaken Ukraine\u2019s capacity to effectively address internal and external challenges. A unified Ukraine promotes peace, development, and resilience across the entire nation. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Ukraine should remain one, united country. A unified nation provides stability, preserves national identity, and strengthens sovereignty, which are especially important given the ongoing conflicts and geopolitical challenges the country faces. Allowing regions to secede could trigger fragmentation and internal instability, undermining efforts toward peace and development. Maintaining territorial integrity supports national resilience and international credibility, fostering a more secure future for Ukraine.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Ukraine should remain one, united country. Maintaining national unity is essential for ensuring stability, sovereignty, and a cohesive national identity. Allowing regions to secede could lead to conflict, weaken the country's ability to govern effectively, and undermine international recognition and support. A united Ukraine can better face internal and external challenges, promote peace, and secure future development. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

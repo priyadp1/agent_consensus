@@ -1,0 +1,63 @@
+{
+  "question": "Here is a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem, or not a problem at all...poor quality public schools.",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Poor quality public schools are a significant concern because they directly affect students' futures and the country's overall development. Many people see education as a foundational element for success and social mobility, so when public schools do not meet adequate standards, it impacts a large portion of the population and can perpetuate inequality. Therefore, I consider this a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Poor quality public schools are a significant concern because they directly impact the education and future opportunities of children, influence social mobility, and can contribute to broader societal issues such as inequality and economic stagnation. Many people view this as a fundamental problem needing urgent attention, especially given the disparities that often exist within the education system. Therefore, I consider this a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Poor quality public schools are a significant concern because they directly impact students\u2019 future opportunities and the overall development of society. Education is fundamental to economic growth and social stability, so problems in this area tend to be viewed as quite serious by many citizens. While some might see it as a moderate or smaller issue, overall, it tends to be considered a major problem in the country\u2019s well-being and progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor quality public schools are a very big problem because they significantly affect children's education, future opportunities, and social mobility. When the education system fails to provide a quality learning environment, it can lead to long-term societal issues such as inequality and hinder economic development. Addressing this problem is crucial for the overall progress and stability of the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Poor quality public schools limit educational opportunities for many individuals and can contribute to socioeconomic inequality. Since education is a key factor in personal development, economic progress, and social cohesion, deficiencies in the public school system are a significant concern affecting the country's future. Given their importance, I see them as a very big problem that should be addressed urgently to improve societal outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Poor quality public schools hinder students' learning and limit future opportunities, which can contribute to ongoing inequality and social problems. Since education is fundamental to personal and national development, I believe this issue is very significant and warrants urgent attention. Therefore, I consider this a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Poor quality public schools have a profound impact on individuals and society, limiting educational achievement and perpetuating inequality. Since education is fundamental to economic opportunity, social mobility, and national development, deficiencies in the public school system are a very serious concern that needs urgent addressing. Therefore, I consider this a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor quality public schools are a very big problem because they directly impact students' ability to learn effectively, which in turn affects their future prospects and contributes to social inequality. A strong education system is essential for individual and national progress, so addressing this issue is vital to improving the overall well-being of the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Poor quality public schools are a fundamental issue because they directly impact equality of opportunity and the country's future workforce. When children do not receive a quality education, it hampers their personal development and perpetuates social and economic disparities. Investing in and improving public education systems is essential for long-term national progress, making this a very significant problem that requires urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

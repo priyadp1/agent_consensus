@@ -1,0 +1,62 @@
+{
+  "question": "What kind of influence is\u2026the current government in Simferopol...having on the way things are going in Crimea? Is the influence very good, somewhat good, somewhat bad or very bad in Crimea? ",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The influence of the current government in Simferopol on the situation in Crimea can be viewed as somewhat positive, primarily because their policies might have brought some stability and order to the region, especially given the complex political context. However, concerns about resistance to broader reforms and ongoing geopolitical tensions suggest that the influence is not entirely beneficial. Therefore, it seems to fall into the somewhat good category, as it may have improved local governance but still faces significant challenges. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The influence of the current government in Simferopol on Crimea's situation appears mixed. While some may see benefits in stability or certain policies, there are concerns about limited progress, lack of political freedoms, or economic challenges that might be associated with governance under the current regime. Considering these factors, the influence seems to lean more towards being somewhat bad than very bad, but it does not appear beneficial overall. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The influence of the current government in Simferopol on Crimea's situation is complex. While some believe that the government has contributed to stability and development, others criticize it for perceived authoritarianism and lack of broader democratic representation. Overall, the impact appears to be somewhat mixed, with certain positive aspects but also significant concerns that suggest the influence leans toward the somewhat bad side. Considering these factors, the assessment aligns more with a somewhat bad influence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The current government in Simferopol appears to have a mixed influence on Crimea. While there are some positive aspects such as maintaining stability and supporting development, there are also concerns about limited political freedoms, authoritarian tendencies, and economic difficulties. These issues suggest that the overall impact is not strongly beneficial, but rather somewhat negative. Based on these considerations, I believe the influence is somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the limited information and the nuanced nature of the government's influence, I believe the influence has some positive effects but also significant drawbacks, especially given concerns about authoritarian tendencies and ongoing tensions. While it has contributed to stability in some aspects, the overall impact seems less than ideal, leaning towards the somewhat bad side. Therefore, I choose the option that best captures this assessment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the feedback from other respondents, the influence of the current government in Simferopol seems somewhat mixed. While there may be some stability and order, there are also ongoing concerns about limited political freedoms and economic challenges, which suggests the impact is more negative than positive. Overall, the influence appears to be on the side of somewhat bad, rather than beneficial or very detrimental. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The current government in Simferopol appears to have a mixed influence on Crimea, with some stabilizing effects but also significant concerns regarding political freedoms, economic stability, and tension escalation. Given the evidence and opinions of other respondents, I believe their influence leans more toward the negative side, though not entirely catastrophic. Therefore, I select the option that best reflects a somewhat bad influence.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The influence of the current government in Simferopol appears to be mixed. While it provides some stability and development, issues like limited political freedoms and economic difficulties suggest that its impact leans towards the negative side. Based on this, I see it as somewhat bad, but not entirely detrimental.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The current government in Simferopol appears to have a predominantly negative influence on Crimea's situation. While there might be some stability and development, concerns about authoritarian practices, restrictions on freedoms, and economic challenges suggest that its overall impact is more detrimental than beneficial. Therefore, the influence is better characterized as somewhat bad rather than neutral or positive.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

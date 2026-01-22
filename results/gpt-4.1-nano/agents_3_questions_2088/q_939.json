@@ -1,0 +1,63 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____? d. The Taliban",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "My opinion of the Taliban is very unfavorable due to their history of human rights violations, insurgent activities, and suppression of women and minority rights. Their governance has often been associated with violence and instability, which influences my negative perception. Given these considerations, I would choose the option that reflects a very unfavorable view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "The Taliban is widely recognized internationally and within our country for its history and actions, which many associate with oppressive policies, human rights abuses, and threats to stability. Given the global and national perceptions, most people tend to view the Taliban unfavorably. However, some individuals may hold a neutral or supportive stance due to political, cultural, or ideological reasons, but these are generally in the minority. Considering the overall societal sentiment and reports, the most common perception would be unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I would choose D because the Taliban is widely viewed negatively due to their history of human rights violations, authoritarian rule, and ongoing conflicts in the region. Many consider them a threat to stability and human rights, leading to an unfavorable opinion.  \nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the widespread recognition of the Taliban's history of human rights abuses, oppressive policies, and ongoing conflicts, the majority of public opinion tends to be unfavorable toward them. While there may be some individuals who hold a neutral or supportive view, these are generally in the minority. Based on societal perceptions and reports, I reaffirm that most people would view the Taliban unfavorably. Therefore, my choice aligns with previous responses, selecting D.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of the Taliban due to their history of human rights abuses, oppressive policies, and ongoing conflicts that threaten regional stability. Their actions and governance have caused significant harm and instability, which shapes my negative view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Considering the widespread reports of the Taliban's involvement in human rights violations, insurgent activities, and oppressive governance, as well as the negative perceptions conveyed by previous respondents, my opinion aligns with a very unfavorable view. The general societal consensus appears to be largely negative, which reinforces my perspective.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the historical and current actions of the Taliban, including reports of human rights abuses, oppressive policies, and ongoing conflicts, I hold a very unfavorable opinion of their leadership and governance.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the extensive reports of the Taliban's involvement in human rights abuses, violent insurgency, and oppressive policies, the majority of public opinion is likely to be unfavorable. These actions have led many to view them very negatively, aligning with the general consensus reflected in previous responses. Therefore, I believe most people would hold a very unfavorable opinion of the Taliban.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the widespread recognition of the Taliban\u2019s history of human rights abuses, oppressive policies, and ongoing conflicts, the majority of public opinion tends to be unfavorable toward them. While some individuals may hold neutral or supportive views, these are generally in the minority. Due to their actions and the negative impact they've had both regionally and internationally, my opinion aligns with the most common sentiment of strong disapproval. Therefore, I choose D.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

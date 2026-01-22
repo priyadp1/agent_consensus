@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...public debt",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider public debt to be a very big problem because high levels of public debt can lead to economic instability, reduce a country's ability to invest in essential services, and increase the risk of financial crises. When debt becomes unmanageable, it can burden future generations and limit government policies to respond to economic challenges effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Public debt can be a significant concern because high levels may impair a country's ability to fund important services, lead to higher taxes, or result in economic instability. When debt becomes excessive, it can limit future policy options and increase financial vulnerability. However, if current debt levels are manageable and used productively, it might not pose an immediate severe problem. Overall, for many countries, public debt remains a serious issue that needs careful management. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Public debt is often considered a significant issue because high levels of government borrowing can lead to increased taxes, reduced government spending on essential services, and economic instability. In many countries, substantial public debt can hinder growth and burden future generations. Therefore, I see it as a very big problem, especially if the debt levels are unsustainable or growing rapidly.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Public debt can be a very significant problem if it reaches levels that threaten economic stability, lead to higher taxes, and limit the government's ability to fund essential services. While manageable debt levels may not pose an immediate crisis, sustained or excessive public debt can have serious long-term implications. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe public debt is a very big problem because excessive government borrowing can lead to economic instability, limit the government's ability to fund essential services, and burden future generations with repayment. High or rising debt levels can also reduce investor confidence and increase the risk of financial crises, which negatively impact overall economic health.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe public debt is a very big problem because high levels of debt can hinder economic growth, restrict government spending on social programs and infrastructure, and increase the risk of financial crises. Managing public debt is crucial to ensure long-term economic stability and to avoid burdening future generations. If debt levels become unsustainable, it can significantly impair a country's ability to respond to economic challenges effectively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I think public debt is a very big problem because high levels of government borrowing can lead to increased financial instability, limit funds available for essential public services, and impose a heavy economic burden on future generations. Managing and reducing public debt is essential for maintaining long-term economic health and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe public debt is a very big problem because if debt levels become too high, they can threaten economic stability, lead to increased taxes, limit government spending on vital services, and potentially cause financial crises. Managing and reducing public debt is crucial for sustainable growth and future economic resilience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I consider public debt to be a very big problem because high levels of government borrowing can threaten economic stability, increase the risk of financial crises, and limit the government's capacity to fund essential services. Excessive debt also burden future generations with repayment obligations, which can have long-term negative consequences for the country's overall economic health. Therefore, I believe it warrants serious concern and attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Here are some pairs of statements. Please tell me whether the FIRST statement or the SECOND statement comes closer to your own views \u2014 even if neither is exactly right. The first pair is... Immigrants in our country today want to adopt your nationality customs and way of life, or Immigrants today want to be distinct from your nationality  society",
+  "options": [
+    "Statement #1",
+    "Statement #2",
+    "Neither/Both equally (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that many immigrants aim to integrate and adopt the customs and way of life of the country they move to, wanting to become part of the society and its cultural practices. While some may wish to maintain their own cultural identity, I think the tendency is toward assimilation rather than separation. Therefore, I feel that the first statement aligns more closely with my views.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that most immigrants today tend to want to retain their cultural identities and may not fully adopt all aspects of the prevailing nationality customs and way of life. Therefore, I align more with the idea that they want to be distinct from the society of their new country. This perspective reflects the perception that cultural differences and individual identities are often maintained even after immigration. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I find that many immigrants tend to want to maintain their cultural identity and distinct customs rather than fully adopting the majority society\u2019s ways. While some may seek integration, the perception that they wish to be different or maintain their particular customs feels closer to my view. Therefore, I lean towards the second statement as representing my perspective more accurately. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the perspectives shared by the other respondents, both tend to believe that many immigrants prefer to maintain their cultural identities and are less inclined to fully adopt the customs and way of life of the host society. They perceive a desire among immigrants to be distinct and retain their own traditions rather than fully assimilate. My own view aligns with this understanding, as I also believe that immigrants often wish to preserve their cultural uniqueness and are less likely to adopt all aspects of the dominant society\u2019s customs, even if some integration occurs. Therefore, I choose the second statement as it best reflects my perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the provided responses, the first agent's view corresponds to the idea that many immigrants seek to adopt the customs and way of life of the host country, aiming for integration and assimilation. The second agent emphasizes maintaining cultural identity and distinct customs, which aligns with the second statement. Since I personally believe that many immigrants do desire to adopt the host country's customs and integrate into society, I align more with the first statement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that many immigrants aim to integrate and adopt the customs and way of life of the country they move to, wanting to become part of the society and its cultural practices. While some may wish to maintain their own cultural identity, I think the tendency is toward assimilation rather than separation. Therefore, I feel that the first statement aligns more closely with my views.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that many immigrants aim to adopt the customs and way of life of the host country, seeking integration and assimilation into the society. While some may wish to maintain their own cultural identity, the overall tendency appears to be toward adopting the mainstream customs rather than remaining distinct. This aligns with the idea that immigrants want to integrate and adopt the local customs and practices.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I recognize that opinions on immigrant integration vary, with some believing that immigrants seek to adopt the host country's customs and others perceiving a desire to remain distinct culturally. My own view is that while some degree of cultural retention is natural, the predominant tendency among immigrants is to want to integrate and adopt the society's way of life in order to belong and participate fully. Therefore, I align more closely with the belief that immigrants aim to integrate and adopt the country's customs and way of life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that many immigrants today aim to integrate with our society and adopt our customs and way of life to some extent. While maintaining their cultural roots can be important, I think the overall trend is towards assimilation and embracing the societal norms. Given this perspective, I feel that the first statement aligns more closely with my views, as it emphasizes immigrants wanting to adopt the host country's customs and way of life.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

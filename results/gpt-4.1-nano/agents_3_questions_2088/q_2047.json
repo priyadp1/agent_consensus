@@ -1,0 +1,63 @@
+{
+  "question": "Which of the following things have you done for reasons of security?\n\nDidn\u2019t carry much money",
+  "options": [
+    "Yes",
+    "No",
+    "Don't know",
+    "No answer",
+    "Missing; Not available"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I chose to carry very little money as a precautionary measure to reduce the risk of theft or loss when out in public. By limiting the amount of cash I have on hand, I am taking a simple step to enhance my personal security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have, at times, carried less money or avoided carrying large sums for security reasons. This is a common strategy to reduce the risk of theft or loss, especially when in crowded or uncertain environments. Therefore, I would select \"Yes\" to indicate that I have done this for security reasons.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I chose to carry less money for security reasons because carrying less cash reduces the risk of theft or loss, especially when in unfamiliar or high-risk areas. This is a common safety measure people take to protect their belongings and personal safety.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have carried less money for security reasons to reduce the risk of theft or loss, particularly in environments where my safety might be compromised or where there is a higher chance of theft. This action is a common security measure people take to protect themselves and their belongings. Therefore, I would select \"Yes.\"\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have chosen to carry less money as a security measure to minimize the risk of theft or loss, which is a common reason for doing so. This aligns with the responses from other respondents who also cited safety concerns as their motivation for carrying less cash.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have also carried very little money specifically to reduce the risk of theft or loss when in public, which is a security measure. Therefore, I have done this for reasons of security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I also carry very little money for reasons of security, specifically to reduce the risk of theft or loss in public. This aligns with the common security motivations cited by others. Therefore, I would choose to carry less money for security reasons.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have carried less money for security reasons to minimize the risk of theft or loss, especially in environments where safety might be compromised. This aligns with the reasoning provided by other respondents and is a common security behavior.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have carried less money for security reasons to reduce the risk of theft or loss and to protect myself and my belongings in potentially risky environments. This is a common security measure people take. Therefore, my answer is:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

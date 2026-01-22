@@ -1,0 +1,62 @@
+{
+  "question": "I'd like you to rate some different groups of people in [UKRAINE/CRIMEA] according to how you feel about them.  For each group, please tell me whether your opinion is very favorable, mostly favorable, mostly unfavorable or very unfavorable?...Tartars",
+  "options": [
+    "Very favorable",
+    "Mostly favorable",
+    "Mostly unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The Crimean Tatars have historically faced persecution and displacement, especially after the annexation of Crimea by Russia in 2014. Their resilience and efforts to preserve their culture and rights often evoke respect and sympathy. However, political tensions and differing perspectives on their role in recent events can influence opinions. Overall, I feel mostly favorable because of their resilience and cultural richness, despite complex political issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I chose option B because the Crimean Tatars have historically faced discrimination and exile, but in recent years, many have demonstrated resilience and efforts to preserve their culture. While there are ongoing tensions and challenges, there is also recognition of their contributions and importance in the region. My opinion leans towards mostly favorable due to their cultural resilience and the recognition of their rights by some international organizations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel mostly favorable towards the Tartars in Crimea because they are an indigenous ethnic group with a rich cultural heritage that has historically faced discrimination and marginalization, especially after the annexation of Crimea by Russia. Supporting their rights and acknowledging their history fosters a more inclusive and respectful attitude.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I view the Crimean Tatars mostly favorably because they are an indigenous community with a strong cultural identity that has historically endured discrimination and exile. Despite ongoing tensions related to recent political issues, many support their rights and recognize their resilience and contributions to the region\u2019s diversity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel mostly favorable towards the Crimean Tatars because they have demonstrated resilience and have a rich cultural heritage. Despite facing historical persecution and recent conflicts, their efforts to preserve their identity and rights evoke respect and support for their community.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize the Crimean Tatars as a group that has faced significant historical adversity, including persecution and forced exile, yet they have demonstrated resilience and a strong effort to preserve their culture and identity. Despite political tensions in the region, their resilience and cultural contributions tend to evoke respect and sympathetic feelings. Therefore, my opinion is mostly favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I feel mostly favorable towards the Crimean Tatars because they have demonstrated resilience despite facing historical persecution and exile. Their efforts to preserve their cultural identity and push for recognition and rights evoke respect and sympathetic feelings, especially given their history and the challenges they continue to face in the region.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize the historical hardships faced by the Crimean Tatars, including persecution and exile, as well as their resilience and efforts to preserve their culture. These factors evoke respect and sympathetic feelings towards them. Hence, my opinion aligns with mainly favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel mostly favorable towards the Crimean Tatars because they are an indigenous community with a strong cultural identity that has endured historical hardships. Their resilience and efforts to preserve their culture and rights command respect, especially given their experiences of persecution and exile in the past. Despite recent political tensions, their contributions to the region's cultural diversity and their struggle for recognition foster a positive outlook.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

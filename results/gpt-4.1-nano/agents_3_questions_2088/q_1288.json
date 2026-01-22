@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...French President Nicolas Sarkozy",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B because Nicolas Sarkozy, during his presidency from 2007 to 2012, demonstrated a proactive approach to international affairs, engaging actively in global issues. While he showed leadership and took a stance on several important matters, his influence and decision-making were sometimes viewed as partisan or affected by national interests, which could impact the perception of trustworthiness in handling world affairs. Therefore, I feel a moderate level of confidence in his ability to do the right thing on the global stage.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would select B) Some confidence because during his presidency, Nicolas Sarkozy was active on international issues and engaged in several diplomatic initiatives. However, opinions about his effectiveness and consistency regarding global affairs vary, and some may see his actions as driven by national interests rather than a broad vision for world welfare.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B, some confidence, because Nicolas Sarkozy was known for taking assertive stances on international issues and engaging actively in global affairs during his presidency. While he demonstrated leadership and influence, opinions on his effectiveness and consistency varied, leading to moderate confidence levels among different populations. Therefore, \"some confidence\" seems appropriate based on his track record.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Nicolas Sarkozy demonstrated a proactive and assertive approach to international affairs during his presidency, engaging in various diplomatic initiatives and portraying confidence in handling global issues. While opinions on his overall effectiveness differ, his active involvement suggests a level of trust in his commitment to doing the right thing concerning world affairs. Therefore, I feel confident in selecting a positive level of confidence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose B because Nicolas Sarkozy has shown assertiveness and active engagement in international affairs during his presidency, which indicates a moderate level of confidence. However, some skepticism remains regarding his consistency and the influence of national interests, making \"some confidence\" the most appropriate choice.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because Nicolas Sarkozy showed some engagement in international issues and diplomatic initiatives during his time in office. While he demonstrated leadership and a willingness to be active on the global stage, perceptions of his effectiveness and consistency vary, and some may view his actions as influenced more by national interests than by a broad or altruistic global perspective. Therefore, I have some confidence but not a great deal.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Nicolas Sarkozy demonstrated a certain degree of assertiveness and active engagement in global affairs during his tenure as French President. While he showed leadership and took initiatives on international issues, perceptions of his consistency and motives suggest a moderate level of trust rather than strong confidence. Considering this, I feel \"some confidence\" best reflects my view of his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering Nicolas Sarkozy's active and assertive approach to international affairs during his presidency, along with his diplomatic initiatives, I believe he demonstrated a decent level of engagement and leadership on the global stage. While perceptions of his effectiveness may vary, the fact that he took significant steps suggests I have some confidence in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Nicolas Sarkozy demonstrated a proactive and assertive approach to international affairs during his presidency, engaging in various diplomatic initiatives and portraying confidence in handling global issues. While opinions on his overall effectiveness differ, his active involvement suggests a level of trust in his commitment to doing the right thing concerning world affairs. Therefore, I feel confident in selecting a positive level of confidence.  \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

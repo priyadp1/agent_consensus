@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...rising prices",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Rising prices can significantly impact individuals and families by increasing the cost of essential goods and services such as groceries, fuel, housing, and healthcare. This inflation can reduce purchasing power, lead to financial stress, and create economic instability if it becomes persistent. Therefore, I consider rising prices to be a very big problem because of their broad and potentially severe effects on people's livelihoods and the overall economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Rising prices can significantly affect household budgets, reduce purchasing power, and increase financial stress for many people. When prices go up, especially for essentials like food, fuel, and housing, it can feel overwhelming and have widespread economic impacts. Therefore, I would categorize rising prices as a very big problem because of their extensive and serious consequences on individuals and the economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Rising prices can significantly impact people's daily lives, especially if they affect essential goods like food, fuel, and housing. For many, increased costs can lead to financial strain, reduced purchasing power, and a sense of economic insecurity. While some individuals might be less affected depending on their income level or savings, overall, rising prices tend to be regarded as a substantial problem that warrants concern. Therefore, I would consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Rising prices directly affect many people's ability to afford essential goods and services, often leading to increased financial stress and economic hardship. Since these impacts can be widespread and serious, I believe rising prices constitute a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe rising prices are a very big problem because they can significantly strain household budgets, reduce purchasing power, and lead to economic insecurity for many individuals and families. Persistent inflation can also cause broader economic instability, affecting not just personal finances but the overall economy. Given these impacts, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Rising prices directly affect the cost of living by making everyday essentials more expensive, which can lead to financial strain for many households. When inflation is high, it reduces purchasing power and can cause economic instability, impacting overall well-being and economic growth. Given these widespread and significant effects, I believe rising prices are a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider rising prices to be a very big problem because they directly impact the cost of everyday essentials, reducing the ability of households to afford necessary goods. When prices increase sharply, it leads to financial strain on families, diminishes savings and purchasing power, and can contribute to economic instability. These consequences affect individuals and the economy as a whole, making it a significant concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Rising prices significantly impact individuals and families by increasing the cost of essentials like food, housing, and transportation. This can lead to financial hardship, reduce disposable income, and create economic instability on a larger scale. Because of these widespread and serious consequences, I believe rising prices are a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Rising prices impact many people's ability to afford necessities, leading to financial strain and insecurity. Given that the effects can be broad and serious, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

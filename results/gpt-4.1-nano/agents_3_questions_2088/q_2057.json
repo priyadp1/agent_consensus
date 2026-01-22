@@ -1,0 +1,63 @@
+{
+  "question": "How have your perceptions about political culture and political system changed from the experience of Hurricane Maria?",
+  "options": [
+    "A lot",
+    "Fairly",
+    "Little",
+    "Nothing",
+    "No answer"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "My experience with Hurricane Maria highlighted the shortcomings in the government's emergency response and the need for stronger community resilience. It made me more aware of the importance of political accountability and the effectiveness of the political system in addressing crises. As a result, my perceptions about the political culture have shifted toward a greater desire for transparency and reforms to improve disaster management and public trust. Therefore, I believe my perceptions have changed significantly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perceptions about the political culture and system have shifted somewhat due to Hurricane Maria. The experience exposed challenges in government response, resource allocation, and community resilience, leading me to scrutinize the effectiveness and transparency of institutions more critically. While I still believe in the potential for positive change, I now see room for improvement and increased accountability. Therefore, my viewpoint has changed fairly significantly.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Experiencing Hurricane Maria deeply impacted my perceptions of the political culture and system. It exposed the vulnerabilities and shortcomings in disaster response and recovery efforts, leading me to believe that the political institutions may not be adequately prepared or responsive to citizens' needs during crises. This event also heightened my awareness of societal inequalities and reinforced skepticism about government efficacy and transparency. Overall, the experience made me more critical and less trusting of the political system than I was before.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "My perceptions about the political culture and system have changed significantly due to the experience of Hurricane Maria. The event exposed critical issues in government responsiveness, resource management, and institutional transparency, which led me to become more skeptical and critical of the political system. I now have a clearer understanding of its shortcomings in crisis situations and feel that there is considerable room for improvement to better serve citizens. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My perceptions about the political culture and political system have significantly shifted due to my experience with Hurricane Maria. The disaster revealed critical flaws in government response and highlighted societal inequalities, which led me to become more aware, critical, and skeptical of the institutions' ability to effectively serve and protect citizens during crises. This awareness has prompted a desire for greater transparency, accountability, and reforms to enhance disaster preparedness and recovery efforts. Therefore, my perceptions have changed quite a lot as a result of this experience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Hurricane Maria deeply impacted my perception of the political system and culture. The administration's response revealed significant gaps in disaster preparedness, resource management, and transparency, prompting me to reconsider how effectively our government communicates and manages crises. While it did not completely overhaul my views, it heightened my awareness of the need for greater accountability and reform, leading to a notable shift in my perceptions. Therefore, I believe my perceptions have changed fairly.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My experience with Hurricane Maria made me realize the extent of systemic vulnerabilities and deficiencies in our political and disaster response systems. It caused me to question the reliability and effectiveness of our institutions, making me more aware and cautious about their roles and accountability. Although the change was significant, it didn't completely transform my views, but it definitely increased my critical perspective on how government handles crises. Therefore, I believe my perceptions have changed fairly.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The experience of Hurricane Maria significantly altered my perspective on the political culture and system. The disaster exposed critical issues such as government responsiveness, transparency, and disaster preparedness that I had previously overlooked or underestimated. Seeing the shortcomings and the subsequent challenges faced by the community heightened my awareness and skepticism about the effectiveness and accountability of the political system. While the change in perception is not completely transformative, it is substantial enough to be considered a major shift, making \"Fairly\" the most appropriate choice.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Hurricane Maria was a profoundly transformative event that exposed significant vulnerabilities in the political and social structures of my community. Experiencing the disaster firsthand and witnessing the response (or lack thereof) led me to reevaluate my perceptions of how capable and responsive our political system truly is. It shifted my outlook from possibly trusting existing institutions to questioning their efficacy and planning. I now see the importance of accountability, transparency, and proactive disaster management more clearly and feel that my perception has changed quite a lot as a result.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

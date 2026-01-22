@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...the African Union",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the African Union because it plays a significant role in fostering regional cooperation and addressing issues such as peacekeeping, economic development, and health in Africa. However, I believe there is room for improvement in the effectiveness and implementation of some of its initiatives, which prevents a very favorable rating. Therefore, I lean towards a moderate positive stance but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat favorable towards the African Union because it plays a crucial role in promoting regional integration, peace, and development across African nations. While there are areas for improvement, overall, the organization is seen as a positive force for addressing continental issues. Therefore, I would choose a moderately positive opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the African Union has an important role in promoting regional cooperation, peace, and development among African nations. While its effectiveness and impact can vary depending on specific initiatives and circumstances, overall, I have a generally positive view of its efforts to address continent-wide challenges. Therefore, I tend to lean towards a somewhat favorable opinion, recognizing its potential but also its limitations. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the African Union because, while it has made meaningful efforts toward promoting regional integration, peace, and development across Africa, it faces challenges related to effectiveness and implementation. Its initiatives are valuable, but there is room for improvement to increase their impact and address ongoing issues on the continent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the African Union because I recognize its important role in promoting peace, regional cooperation, and development across Africa. While I appreciate its efforts, I also think there are areas where its effectiveness could be improved, which prevents me from rating it as very favorable. Overall, I see its potential and value, but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the African Union is doing important work in fostering cooperation, peace, and development across the continent. While it has made meaningful contributions, some challenges in effectiveness and implementation remain, which temper a more strongly positive view. Overall, I feel somewhat favorable about its efforts and role.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize the African Union's valuable efforts in promoting peace, cooperation, and development across Africa. While I acknowledge its positive impact, I also believe there are areas that could be improved to enhance its effectiveness. Therefore, I would classify my opinion as somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the African Union has made commendable efforts to promote peace, stability, and development across Africa. However, it faces ongoing challenges in effectively implementing initiatives and addressing complex issues on the continent. While its work is valuable and necessary, the levels of effectiveness prevent a strongly positive opinion. Therefore, I have a somewhat favorable view of the African Union.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the African Union because I recognize its efforts to promote peace, regional cooperation, and development across Africa. While it has made valuable contributions, there are ongoing challenges related to effectiveness and implementation that prevent me from rating it higher. Overall, I see potential and value in its work, but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

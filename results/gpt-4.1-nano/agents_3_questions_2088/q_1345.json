@@ -1,0 +1,61 @@
+{
+  "question": "Now, thinking about some possible economic concerns for the country. Do you think that the economic problems of countries like Greece and Italy pose(s) a major threat, a minor threat, or no threat to the economic well being of your country? ",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "No threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose only a minor threat to my country's economic well-being. While issues in the Eurozone can have some ripple effects, my country has its own economic strengths and resilience that mitigate the impact of their financial crises. Additionally, economic interdependence means that supportive measures and policy adjustments can help contain any potential negative spillovers, preventing a major threat level. Therefore, I see such problems as a concern but not critically threatening to my country's economy.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose a minor threat to my country's economic well-being. While interconnected economies mean that issues in one country can have ripple effects, the direct impact on my country is relatively limited compared to more dominant economic powers. Additionally, my country has resilient economic policies and diversified markets that help absorb external shocks, reducing the overall threat level. Therefore, I see these problems as a concern but not a pressing or major threat at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose a minor threat to the economic well-being of my country. While economic instability in large European economies can have ripple effects, such as impacting trade, investments, and regional stability, my country is also relatively resilient and has its own domestic policies to address economic challenges. Therefore, the threat is not significant enough to be considered major, but it is still worth attention.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose a minor threat to my country's economic well-being. Although crises in these countries can influence regional markets and trade flows, my country has sufficient resilience and economic diversification to mitigate extensive impacts. Consequently, I see these issues as a concern but not an immediate or major threat to our economy.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose only a minor threat to my country's economic well-being. While issues in the Eurozone can cause some ripple effects, my country has its own economic resilience and policies to buffer against severe impacts. Additionally, economic interdependence often facilitates cooperation and support measures that help prevent the spread of crises. Therefore, I see such problems as a concern but not critically threatening to my country's economy.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose only a minor threat to my country's economic well-being. While interconnected economies can influence each other, my country has significant economic resilience, diversified markets, and effective policies that help cushion external shocks. Therefore, these issues, though concerning, are unlikely to cause substantial or major disruptions to my nation's economy at this time.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose only a minor threat to my country's economic well-being. Although economic interconnectedness can create some spillover effects, my country has multiple buffers such as diversified markets, strong economic policies, and resilience measures that mitigate the impact of such crises. Based on this, I do not see these issues as posing a major threat at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the economic problems of countries like Greece and Italy pose a minor threat to my country's economic well-being. While I recognize that economic crises in these countries can have some ripple effects on regional markets and trade, I also believe that my country has built sufficient resilience, diversification, and effective policies to absorb or mitigate these external shocks. Therefore, I consider these issues to be concerning but not severe enough to pose a major threat. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the responses from others and my own perspective, I believe that the economic problems of countries like Greece and Italy pose only a minor threat to my country's economic well-being. While disruptions in the eurozone can have some ripple effects, my country has established economic resilience, strong policies, and regional ties that help mitigate the potential impacts. I see these issues as notable, but not enough to threaten our economy significantly.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

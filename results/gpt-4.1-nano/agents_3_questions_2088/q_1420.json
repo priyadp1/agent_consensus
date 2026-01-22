@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Unemployment",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Unemployment is often considered a major concern because it directly impacts people's livelihoods, economic stability, and social well-being. High unemployment rates can lead to increased poverty, social unrest, and a sense of insecurity among citizens. Therefore, I believe unemployment is a very big problem in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Unemployment is generally a significant concern in many countries because it affects people's livelihoods, economic stability, and social well-being. When unemployment rates are high, it can lead to increased poverty, crime, and social unrest, which makes it a very big problem from a public opinion perspective. Even when unemployment is moderate, it still tends to be viewed as a serious issue because it impacts a large segment of the population and ongoing economic growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Unemployment can be a significant concern for many individuals and families because it affects income, stability, and overall economic well-being. When unemployment rates are high, it often leads to financial hardship and social issues, making it a pressing problem in the country. Personally, I believe unemployment is a very big problem because it directly impacts people's livelihoods and can destabilize communities.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Unemployment is a fundamental economic issue that directly affects individuals and families, influencing income, stability, and social cohesion. Given its widespread impact and potential to cause social problems, I believe it is a very big problem in our country. Addressing unemployment effectively is crucial for overall national well-being and growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe unemployment is a very big problem because it affects many people's ability to earn a living, creates economic instability, and can lead to social issues such as poverty and unrest. High unemployment rates diminish overall well-being and undermine social cohesion, making it a serious concern for the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Unemployment is a significant issue because it directly affects people's ability to earn a living and maintain economic stability. When unemployment is high, it can lead to increased poverty, social unrest, and decreased overall well-being, making it a very big problem in many countries. Given these considerations, I believe it is a very big problem.\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe unemployment is a very big problem because it directly impacts a large portion of the population by limiting job opportunities, increasing poverty, and potentially leading to social unrest. High unemployment undermines economic stability and social cohesion, making it a critical issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Unemployment remains a critical issue that impacts individuals' livelihoods and the stability of society. High unemployment can lead to increased poverty, social unrest, and hinder overall economic growth. Considering its profound effects, I believe it is a very big problem in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I consider unemployment to be a very big problem because it has a profound impact on individuals and families, leading to financial hardship, social instability, and decreased overall economic growth. High unemployment can also increase poverty levels and social unrest, affecting the country's long-term development. Addressing unemployment is therefore essential for national stability and prosperity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

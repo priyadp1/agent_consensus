@@ -1,0 +1,61 @@
+{
+  "question": "Aside from your feelings about Dilma Rousseff in particular, do you think it would be a good thing or a bad thing to elect a woman to be president, or don't you think it matters?",
+  "options": [
+    "Good",
+    "Bad",
+    "Doesn't matter"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Electing a woman to be president can be a positive step toward gender equality and ensuring diverse representation in leadership. It can challenge stereotypes and promote inclusivity, which benefits the democratic process. Therefore, I believe it would be a good thing. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe electing a woman to be president can be a positive step toward gender equality and diversity in leadership. It allows for more inclusive representation and may bring different perspectives and priorities to governance. While individual qualities are important, the gender of a candidate shouldn't be a determining factor in their suitability for the role. Therefore, choosing a woman for president, all else being equal, can be an improvement for a more equitable society. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Electing a woman as president can be seen as a positive step toward gender equality and breaking down traditional stereotypes about leadership. It promotes diversity in political representation and may inspire more women to participate in politics. Since the focus here is on whether it is generally a good or bad thing, I believe that choosing a woman for president is fundamentally beneficial regardless of individual candidates\u2019 specific qualities. Therefore, I think it would be a good thing.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe electing a woman to be president can be a positive step toward promoting gender equality and diversity in leadership roles. It can challenge traditional stereotypes and inspire more women to participate in politics, contributing to a more inclusive and representative government. While individual qualities of candidates are important, the idea of having women in such high leadership positions generally fosters societal progress toward equality. Therefore, I think it would be a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe electing a woman as president is a positive development because it promotes gender equality, broadens representation, and challenges stereotypes about leadership. Such progress can lead to more inclusive governance and inspire greater participation of women in politics. Therefore, I think it would be a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that electing a woman as president can be a positive step toward achieving greater gender equality and broadening representation in leadership. Allowing women to hold such high positions challenges traditional stereotypes and promotes inclusivity, which can ultimately benefit democratic processes and societal development. While the individual qualities of candidates are important, gender should not be a barrier to leadership roles. Therefore, I think it would be a good thing.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that electing a woman as president would be a good thing because it promotes gender equality, enhances representation, and challenges outdated stereotypes about leadership. Such progress supports a more inclusive and fair society, encouraging broader participation in politics and decision-making. Therefore, I think it would be a good thing.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that electing a woman to be president can be a positive step toward promoting gender equality and diversity in leadership. It challenges traditional stereotypes, encourages inclusivity, and can inspire more women to participate in politics. Gender should not be a barrier to leadership roles, and having women in such high positions can benefit societal progress and democratic development. Therefore, I think it would be a good thing.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe electing a woman as president can be a positive step toward promoting gender equality and diversity in leadership roles. It challenges traditional stereotypes and inspires more women to participate in politics, contributing to a more inclusive and representative government. The importance of individual qualities is secondary to the societal progress that such representation fosters. Therefore, I think it would be a good thing.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

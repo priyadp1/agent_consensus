@@ -1,0 +1,63 @@
+{
+  "question": "For each one, please tell me if you think it is a very serious problem, somewhat serious, not too serious or not a problem at all. d. China\u2019s territorial disputes with India",
+  "options": [
+    "Very serious problem",
+    "Somewhat serious problem",
+    "Not too serious a problem",
+    "Not a problem",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The territorial disputes between China and India have long been a source of tension, leading to military standoffs and strained diplomatic relations. Given the potential for escalation and regional instability, many people might view this issue as quite serious. At the same time, it might not be perceived as an immediate threat to the average person's daily life compared to other pressing issues like economic instability or health crises. Therefore, I consider it somewhat serious but not among the most urgent problems facing society today.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "China\u2019s territorial disputes with India are a significant geopolitical issue, involving longstanding border disagreements that have occasionally led to military standoffs and conflicts. While these disputes do not currently threaten global stability on a large scale, they do have the potential to escalate and influence regional security, economic relations, and diplomatic ties in South Asia and beyond. Given their importance and potential for escalation, I consider them a very serious problem. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "China\u2019s territorial disputes with India have historically led to military tensions and occasional border clashes, which can have serious regional security implications. Given the potential for escalation and the importance of the region to both countries and the broader international community, I believe it is a very serious problem that warrants close attention and diplomatic efforts to peacefully resolve. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The territorial disputes between China and India involve longstanding border disagreements that have historically caused military tensions and intermittent clashes. While these disputes do not currently threaten global stability, they have the potential to escalate, impacting regional security and diplomatic relations. Considering their geopolitical significance and the risk of escalation, I view this as a very serious problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe China\u2019s territorial disputes with India pose a somewhat serious problem. While the conflicts and tensions have significant regional security implications, they are less likely to impact the daily lives of most people directly and tend to be more of a geopolitical concern. This issue is important but perhaps not as immediate or widespread in its impact as other pressing societal problems.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that China\u2019s territorial disputes with India pose a significant geopolitical challenge, involving military standoffs and diplomatic tensions that could escalate and impact regional stability. While they may not threaten the daily lives of most people directly, their potential for escalation and regional consequences make them a serious concern. Therefore, I see this as a very serious problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe China\u2019s territorial disputes with India represent a somewhat serious problem. While these disputes involve regional security concerns and have the potential for escalation, they do not currently appear to pose an immediate threat to the daily lives of most people. They are geopolitical issues with significant implications, but their direct impact on the general population seems limited at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe China\u2019s territorial disputes with India are a very serious problem because they involve longstanding border disagreements that have led to military tensions and intermittent clashes. These disputes have the potential to escalate further, affecting regional security, diplomatic relations, and stability. Given their geopolitical significance and the risk of conflict escalation, I consider this a very serious problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "China\u2019s territorial disputes with India have historically involved military tensions and border disagreements that could potentially worsen and escalate. Given their strategic importance and the regional security concerns they pose, I consider them to be a very serious problem. While these disputes may not threaten global stability directly, their impact on regional peace and diplomacy is significant, making them a matter of serious concern.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

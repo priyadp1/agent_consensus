@@ -1,0 +1,61 @@
+{
+  "question": "Do you think the European Union promotes prosperity?",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes prosperity because it has fostered economic growth, facilitated free trade among member countries, and supported development programs that benefit its citizens. These efforts generally contribute to improved living standards and stability across the region, although there may be challenges and disparities that affect perceptions. Overall, the EU's initiatives tend to promote prosperity on a broad scale.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The European Union has played a significant role in fostering economic growth, stability, and integration among its member countries. Many nations have experienced increased prosperity through access to a large single market, improved infrastructure, and shared resources. However, the benefits are not always evenly distributed, and some members face challenges like economic disparities and bureaucratic hurdles that can hinder overall prosperity. Therefore, while the EU promotes prosperity for many, the extent of its success is subject to debate and varies depending on specific contexts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The European Union has played a significant role in fostering economic integration, stability, and development among its member states. Many countries within the EU have experienced increased prosperity, improved living standards, and stronger collaborative efforts that drive growth. However, the effectiveness and benefits of the EU are not universally perceived, as some individuals believe that certain policies or economic disparities may hinder overall prosperity or that the EU's influence may not be beneficial for all member states or their citizens. Considering these varied perspectives, I believe the EU generally promotes prosperity, though with nuanced challenges and differing opinions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the European Union does promote prosperity because it facilitates economic integration, provides access to a large market, and supports infrastructure development, which benefit many member countries. Although there are challenges like disparities and bureaucratic hurdles, overall, the EU's efforts contribute positively to growth and improved living standards for many. Therefore, I support the idea that the EU promotes prosperity, even if the results are not uniform across all members.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union generally promotes prosperity through economic growth, increased trade, and development programs that benefit many of its member countries. While there are challenges and disparities, the overall effect appears to support improved living standards and stability across the region. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes prosperity because it has contributed to economic growth, enhanced trade, and supported development initiatives across its member states. While there are some disparities and challenges, the overall impact has been positive in fostering stability and improved living standards for many. Therefore, I think the EU generally promotes prosperity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union generally promotes prosperity because it has contributed to economic growth, increased trade, and development initiatives that benefit many of its member countries. Despite some disparities and challenges, the overall effect appears to support improved living standards and regional stability, suggesting a positive impact on prosperity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes prosperity because it has contributed to economic growth, facilitates access to large markets, and supports development initiatives among member countries. Although there are disparities and challenges, the overall impact appears positive in fostering stability and improving living standards for many. These benefits suggest that the EU generally enhances prosperity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union generally promotes prosperity due to its role in facilitating economic integration, expanding trade opportunities, and supporting development initiatives that benefit many member countries. Despite some disparities and bureaucratic challenges, the overall effects tend to support economic growth and improved living standards in the region. These benefits suggest that the EU contributes positively to prosperity on the whole.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

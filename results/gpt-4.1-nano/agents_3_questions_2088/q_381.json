@@ -1,0 +1,63 @@
+{
+  "question": "And thinking about U.S. policy toward China, how important do you think each of the following is,very important, somewhat important, not too important, or not at all important?...be tough with China on economic and trade issues",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important",
+    "Should not be done (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe being tough with China on economic and trade issues is very important because it is crucial for protecting American jobs, maintaining fair trade practices, and addressing issues like intellectual property theft. Taking a strong stance can help ensure that U.S. economic interests are safeguarded and that China adheres to international rules. Therefore, I consider this policy to be very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to be tough with China on economic and trade issues because China has been accused of unfair trade practices, intellectual property theft, and manipulation that harm U.S. economic interests. Being firm can help protect American jobs, promote fair competition, and ensure that trade policies are balanced and equitable. Taking a strong stance demonstrates that the U.S. is serious about safeguarding its economic well-being and maintaining a level playing field in international trade. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Being tough with China on economic and trade issues is very important because it helps protect American jobs, ensure fair trade practices, and safeguard the U.S. economy from unfair competitive advantages. Strong trade policies also signal that the U.S. is serious about maintaining its economic interests and national security in the face of China's rising global influence. Therefore, prioritizing a tough stance is essential for advancing national economic goals and addressing ongoing trade disparities.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that being tough with China on economic and trade issues is very important to protect U.S. economic interests, ensure fair competition, and address unfair trade practices. A firm stance can help safeguard American jobs and national security and demonstrate the seriousness of U.S. commitment to fair trade. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that being tough with China on economic and trade issues is very important because it directly affects the protection of American jobs, fair trade, and national security concerns. Maintaining a firm stance can help address trade imbalances, prevent intellectual property theft, and ensure that international trade rules are enforced. A strong policy in this area supports the economic interests of the United States and protects its global standing. Therefore, I consider this policy to be very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to be tough with China on economic and trade issues because such an approach is essential to defending American jobs, ensuring fair trade practices, and counteracting unfair practices like intellectual property theft. A strong stance signals that the U.S. is committed to safeguarding its economic interests and enforcing international trade rules effectively. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that being tough with China on economic and trade issues is very important because it is essential to protect American jobs, promote fair trade, and maintain national security. Taking a firm stance can help to address trade imbalances, prevent intellectual property theft, and ensure that trade rules are respected globally. These issues directly impact the economic wellbeing of the United States and its position on the world stage. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that being tough with China on economic and trade issues is very important to protect American economic interests, ensure fair competition, and counter unfair trade practices. A firm stance can help safeguard U.S. jobs, maintain national security, and reinforce the importance of fair trade standards. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that being tough with China on economic and trade issues is very important because it directly impacts the protection of American jobs, fair trade practices, and national security. A firm stance helps address trade imbalances, prevent intellectual property theft, and enforce international trade rules, which are essential for safeguarding the economic interests of the United States and maintaining its global standing. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

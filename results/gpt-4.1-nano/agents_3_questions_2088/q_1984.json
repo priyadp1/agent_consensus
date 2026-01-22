@@ -1,0 +1,62 @@
+{
+  "question": "In your country today, when it comes to ____ do you think \u2026? a. Being leaders in their local communities",
+  "options": [
+    "Men generally have more opportunities",
+    "Women generally have more opportunities",
+    "Opportunities are generally about the same for both",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Depending on the country and its societal norms, opportunities for men and women in leadership within local communities can vary significantly. In many places, traditional gender roles and unequal access to education or resources might lead to men having more opportunities. Conversely, in countries with strong gender equality policies, women may have similar or even greater opportunities to become community leaders. If I consider a context where gender equality has progressed but disparities still exist, I would think men generally have more opportunities in such leadership roles.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my country today, when it comes to being leaders in their local communities, I believe opportunities tend to favor men more than women. Society often has traditional expectations and structures that make it easier for men to assume leadership roles, while women may face cultural, social, or institutional barriers that limit their chances. Despite progress, these disparities still persist in many areas, which influences my perception that men generally have more opportunities in this regard.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In many countries, leadership in local communities often involves social expectations, gender roles, and access to resources that influence opportunities. Historically, men have typically had more avenues for leadership roles and social power, partly due to cultural norms and systemic inequalities. While progress has been made toward gender equality, disparities still exist in many contexts. Therefore, it seems that, in general, men tend to have more opportunities to be leaders in their local communities compared to women. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my country today, I believe that opportunities to be leaders in local communities tend to favor men more than women. Traditional social roles and cultural expectations often create barriers for women, making it easier for men to assume leadership roles. Although progress has been made toward gender equality, these disparities still influence perceptions of opportunity. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my country today, opportunities for leadership in local communities are still influenced by traditional gender roles and societal norms. While there have been efforts to promote gender equality, systemic cultural expectations and disparities in access to resources often give men an advantage in becoming community leaders. Therefore, I believe men generally have more opportunities in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my country today, societal norms, cultural expectations, and existing institutional structures often influence leadership opportunities within local communities. Generally, traditional gender roles tend to favor men when it comes to leadership positions, with women facing barriers such as limited access to resources, cultural restrictions, or gender biases. Although progress has been made in many areas, disparities still persist, leading me to believe that men typically have more opportunities for leadership roles at the local level.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my country today, traditional gender roles and societal expectations still tend to favor men when it comes to leadership opportunities in local communities. Although there have been improvements, systemic cultural norms and unequal access to resources often limit women's chances to become community leaders. Therefore, I believe men generally have more opportunities in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the information provided and noting the persistent traditional social roles and cultural expectations that tend to favor men in leadership positions within local communities, I believe that men generally have more opportunities in this area. Despite some progress, these disparities still influence perceptions and realities of leadership opportunities for women. Therefore, my choice aligns with these observations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my country today, traditional social norms and cultural expectations still tend to favor men when it comes to leadership roles in local communities. Although there are ongoing efforts to promote gender equality, systemic barriers and societal perceptions often give men an advantage in attaining leadership positions. Therefore, I believe men generally have more opportunities in this area. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

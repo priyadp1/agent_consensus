@@ -1,0 +1,63 @@
+{
+  "question": "For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs \u2013 a lot of confidence, some confidence, not too much confidence, or no confidence at all. j. Saudi Arabian Crown Prince Mohammad bin Salman",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Crown Prince Mohammad bin Salman regarding his actions in world affairs because he has shown a willingness to pursue economic reforms and engage diplomatically, but concerns about human rights issues and regional conflicts make me cautious about fully trusting his leadership. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Crown Prince Mohammad bin Salman regarding his influence on world affairs because while he has initiated reforms and taken some steps towards modernization, concerns about human rights issues, lack of transparency, and regional policies raise doubts about his overall trustworthiness in doing the right thing consistently. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My confidence in Mohammad bin Salman regarding world affairs is limited due to concerns about Saudi Arabia's human rights record, the murder of journalist Jamal Khashoggi, and regional policies that often appear unpredictable. While he has taken some steps toward modernization and economic reforms, skepticism remains about his long-term intentions and the stability of his leadership in managing international relations responsibly.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Crown Prince Mohammad bin Salman regarding his influence on world affairs. While he has initiated reforms and taken steps toward modernization, ongoing concerns about human rights abuses, the murder of Jamal Khashoggi, and regional policies that sometimes seem unpredictable make me cautious. I believe he has the capacity to do the right thing, but skepticism remains due to these issues. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Mohammad bin Salman regarding his actions in world affairs because he has demonstrated a willingness to pursue economic reforms and engage diplomatically, but concerns about human rights issues and regional conflicts make me cautious about fully trusting his leadership. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Crown Prince Mohammad bin Salman regarding his actions in world affairs because he has shown a willingness to pursue economic reforms and engage diplomatically. However, concerns about human rights issues, lack of transparency, and regional conflicts make me cautious about fully trusting his leadership in doing the right thing consistently. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Mohammad bin Salman's ability to do the right thing regarding world affairs because he has taken steps toward economic reforms and diplomatic engagement, but ongoing concerns about human rights violations, lack of transparency, and regional conflicts make me cautious about fully trusting his leadership. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Crown Prince Mohammad bin Salman regarding his influence on world affairs. While he has taken steps toward economic reforms and diplomatic engagement, concerns about human rights abuses, lack of transparency, and regional conflicts make me cautious. I believe he has the capacity to do the right thing, but skepticism remains due to these issues. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Crown Prince Mohammad bin Salman demonstrates some capacity for responsible leadership in world affairs through economic reforms and diplomatic engagements. However, ongoing concerns regarding human rights violations, regional conflicts, and recent controversial incidents make me cautious about fully trusting his intentions. Therefore, I have some confidence in his ability to do the right thing. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

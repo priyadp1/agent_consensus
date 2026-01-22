@@ -1,0 +1,62 @@
+{
+  "question": "Countries from around the world will meet in December (2015) in Paris to deal with global climate change. They will discuss an agreement to limit greenhouse gas emissions, such as from burning coal or (gas/petrol). Do you support or oppose your country limiting its greenhouse gas emissions as part of such an agreement?",
+  "options": [
+    "Support",
+    "Oppose",
+    "Climate change does not exist (Vol.)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support limiting greenhouse gas emissions because addressing climate change is crucial for protecting the environment, public health, and future generations. Reducing reliance on fossil fuels like coal and gas can help mitigate the adverse effects of global warming and promote sustainable development. International cooperation is essential to effectively tackle this global issue. Therefore, I believe my country should participate actively in such agreements.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support my country limiting its greenhouse gas emissions because addressing climate change is crucial for protecting the environment, public health, and future generations. By participating in such agreements, countries can work together to reduce pollution and mitigate the adverse impacts of global warming. Taking collective action is essential, and I believe it is important for my country to do its part in combating climate change.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support my country limiting its greenhouse gas emissions because addressing climate change is crucial for protecting the environment, public health, and future generations. Taking part in international efforts can also promote sustainable economic growth and demonstrate global leadership on an important issue. I believe that collective action is necessary to effectively combat climate change and mitigate its impacts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support my country limiting its greenhouse gas emissions because addressing climate change is vital for protecting the environment, public health, and future generations. International cooperation and collective action are essential to effectively reduce pollution and mitigate global warming. By participating in such agreements, my country can contribute to a sustainable future and demonstrate global responsibility.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support my country limiting its greenhouse gas emissions as part of the international effort to combat climate change. Taking action now is essential to protect the environment, public health, and future generations. Collaborating globally increases the effectiveness of these measures and demonstrates leadership in addressing this urgent issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support my country limiting its greenhouse gas emissions because addressing climate change is vital for protecting the environment, public health, and future generations. Collaborative international efforts are necessary to effectively combat this global challenge, and reducing reliance on fossil fuels like coal and gas can help mitigate the adverse impacts of warming. Taking part in such agreements demonstrates responsible leadership and a commitment to sustainable development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that limiting our country's greenhouse gas emissions is necessary to address the urgent issue of climate change. Such international agreements promote cooperation, reduce environmental damage, and protect public health and future generations. Taking responsibility and participating in efforts to reduce reliance on coal and fossil fuels is the right course of action to ensure a sustainable future for all.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support my country limiting its greenhouse gas emissions as part of the international effort to combat climate change. Protecting the environment, public health, and future generations is essential, and global cooperation is necessary to effectively address this urgent issue. Participating in such agreements also shows responsible leadership and a commitment to sustainable development, which I believe is vital for a healthier planet.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support my country limiting its greenhouse gas emissions as part of such an international agreement because addressing climate change is crucial for protecting the environment, public health, and the well-being of future generations. Global cooperation enhances the effectiveness of efforts to reduce pollution and combat global warming, making it essential for countries to work together on this urgent issue. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

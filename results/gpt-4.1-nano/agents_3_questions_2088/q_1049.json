@@ -1,0 +1,63 @@
+{
+  "question": "(Please tell me how well each of the following describes foreign companies in the mining industry in our country.)...They provide jobs for local workers",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Foreign companies in the mining industry in our country often bring economic development and create employment opportunities. However, the extent to which they provide jobs for local workers can vary based on company policies, local workforce skills, and regulations. In many cases, there is some level of employment for local people, but a significant portion of the workforce might be composed of foreign managers or specialists, and local employment may not be maximized. Given this, it seems they provide jobs for local workers somewhat well, but not entirely or very well.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My answer is likely B because foreign companies in the mining industry often create employment opportunities for local workers, but the extent of their contribution can vary depending on the specific company practices, local policies, and the overall economic context. While they do provide jobs, these are sometimes limited or not as integrated into local communities, which might prevent them from being seen as providing jobs \"very well.\" Therefore, \"Somewhat well\" seems to best capture the general perception that foreign mining companies contribute to employment but perhaps not extensively or perfectly. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Foreign companies in the mining industry often bring significant investment and operational capacity to the country. However, their commitment to employing local workers varies depending on company policies, local labor laws, and community engagement. In many cases, foreign mining firms do create jobs for local residents, but these jobs may not always be the most numerous or the most accessible for the local population. Some companies might also prioritize expatriate workers or bring in skilled labor from abroad, which can limit the employment opportunities for local workers. Overall, while foreign companies do contribute to local employment, the extent of their impact on providing jobs specifically for local workers is moderate. Therefore, the most appropriate choice to reflect this situation is \"Somewhat well,\" acknowledging their contribution but also recognizing room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies in the mining industry do contribute to local employment by providing jobs; however, their focus may often be on bringing in skilled or expatriate workers, and the number of local jobs created might not be as extensive or well-integrated into the community as desired. Given this, \"Somewhat well\" accurately reflects the moderate level of contribution they make to local employment opportunities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the general observations and the previous responses, foreign mining companies tend to create some employment opportunities for local workers but often still rely on foreign skilled labor and management. While they do contribute to local employment, their contribution is not typically seen as very comprehensive or fully satisfactory for locals. Therefore, I believe the most accurate assessment is that they provide jobs for local workers somewhat well.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies in the mining industry in our country provide some jobs for local workers, but not to a very high or comprehensive extent. While they contribute to employment opportunities, their practices, local policies, and workforce skills influence how well they serve the local community. Based on this, \"Somewhat well\" best captures the general perception that they do provide jobs, though not entirely or very well.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the previous responses and the general consensus, it seems that foreign mining companies do contribute to local employment but not extensively or fully satisfactorily for many locals. The descriptions indicate that they provide some jobs but often rely on foreign skilled labor and do not fully integrate local workers at a high level. Therefore, the best fit is \"Somewhat well.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies in the mining industry do contribute to local employment, but their focus tends to be on bringing in skilled or expatriate workers. The number of jobs created for local workers may not be extensive or well-integrated into the community, which suggests a moderate level of contribution. Therefore, \"Somewhat well\" appropriately reflects this perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that foreign mining companies do contribute to local employment, providing jobs to local workers. However, they often rely on skilled expatriates and may not create as many local jobs as one would hope, nor do they necessarily integrate local workers into all facets of their operations. Based on this understanding, \"Somewhat well\" seems to best reflect the situation, indicating a moderate contribution without it being very comprehensive or entirely satisfactory.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

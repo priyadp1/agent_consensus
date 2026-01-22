@@ -1,0 +1,60 @@
+{
+  "question": "I'm going to read you a list of things the US might do to combat extremist groups in Pakistan. Please tell me whether you would support or oppose...conducting missile strikes against leaders of extremist groups.",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Supporting missile strikes against leaders of extremist groups may be justified as a means to disrupt their operations and protect civilians, especially if diplomatic solutions are insufficient. However, such actions also carry risks of escalating violence, causing unintended civilian casualties, and damaging international relations. It is important to weigh the potential security benefits against the moral and humanitarian costs. Given these complexities, I would lean toward opposing missile strikes to prevent further escalation and loss of innocent lives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Conducting missile strikes against leaders of extremist groups in Pakistan is a complex issue. Supporters might argue that such strikes can weaken these groups and prevent future attacks, thus enhancing regional security. Opponents, however, might contend that missile strikes could lead to civilian casualties, escalate tensions, and destabilize the region further, potentially fueling more extremism. Given the potential for unintended consequences and the importance of respecting sovereignty, I would oppose such actions without extensive diplomatic efforts and careful consideration of the broader impacts.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose conducting missile strikes against leaders of extremist groups because such actions can lead to increased violence, civilian casualties, and destabilize the region further. Additionally, targeted killings may generate resentment and support for extremist causes, making long-term peace and security harder to achieve. Diplomatic efforts and cooperation with local authorities are likely more effective and less destructive in combating extremism. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose conducting missile strikes against leaders of extremist groups in Pakistan because such actions risk causing civilian casualties, escalating violence, and destabilizing the region further. They may also foster resentment and support for extremism, making long-term solutions more difficult. Diplomatic efforts and cooperation with local authorities are likely more effective in addressing the root causes of extremism and achieving sustainable peace.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose conducting missile strikes against leaders of extremist groups because such actions often lead to increased violence, civilian casualties, and regional instability. They can also foster resentment and support for extremist causes, undermining long-term peace efforts. Diplomatic solutions and regional cooperation are generally more sustainable and less destructive strategies to combat extremism. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose conducting missile strikes against leaders of extremist groups in Pakistan because such actions risk causing civilian casualties, escalating violence, and damaging diplomatic relations. The potential for unintended harm and increased regional instability outweighs the perceived security benefits. Diplomatic efforts and other non-military approaches should be prioritized to address extremism effectively and humanely.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose conducting missile strikes against leaders of extremist groups because such actions can lead to civilian casualties, escalate violence, and harm diplomatic relations. They often foster resentment and support for extremist causes, making long-term resolution more difficult. Diplomatic and non-military approaches are generally more effective and humane in addressing extremism.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose conducting missile strikes against leaders of extremist groups in Pakistan because such actions can cause civilian casualties, escalate violence, and harm diplomatic relations. These consequences may undermine regional stability and make long-term solutions more difficult to achieve. Diplomatic efforts and cooperation with local authorities are more effective and humane approaches to counter extremism.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose conducting missile strikes against leaders of extremist groups in Pakistan because such actions tend to cause civilian casualties and escalate violence, which can increase resentment toward the United States and potentially strengthen extremist support. Additionally, missile strikes often undermine diplomatic efforts and regional stability, making long-term solutions more difficult. Pursuing diplomacy and cooperation with local authorities appear to be more effective approaches for sustainable peace.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

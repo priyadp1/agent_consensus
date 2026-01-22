@@ -1,0 +1,63 @@
+{
+  "question": "(Now thinking about foreign aid programs. Please tell me how well each of the following describes programs in your country funded by foreign aid organizations. Does it describe these programs very well, somewhat well, not too well or not well at all?)...Inefficient",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe foreign aid programs in my country are generally inefficient because a significant portion of the aid does not reach the intended recipients effectively. There are often issues with bureaucratic delays, misallocation of resources, and corruption, which prevent these programs from achieving their goals. As a result, I would say they describe these programs not well at all.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe foreign aid programs in my country are often inefficient, with resources not always reaching the intended beneficiaries or being used effectively. Many programs seem to face bureaucratic delays, mismanagement, or lack of proper oversight, which hinders their effectiveness. As a result, I would say they describe these programs somewhat well, but not very well, since efficiency is a significant issue. Therefore, I choose.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that foreign aid programs can often be perceived as inefficient due to issues like misallocation of funds, corruption, bureaucracy, and lack of accountability. These factors can lead to resources not reaching the intended beneficiaries or not producing the intended outcomes, which fosters skepticism about their effectiveness. While some programs may be well-intentioned and effective, on the whole, the perception of inefficiency tends to be common, given the complexity and challenges inherent in managing such initiatives across different countries with varied systems and needs. Therefore, I would select the option that best reflects this sentiment.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the perspectives of other respondents and my own assessment of foreign aid programs' efficiency, I recognize that many such programs face significant challenges like bureaucratic delays, mismanagement, and misallocation of funds, which often hinder their effectiveness. While some programs may operate well, the overall perception and experience suggest that they are more often not too well in terms of efficiency. Therefore, I would choose the option that best reflects this general assessment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that foreign aid programs in my country face significant challenges related to inefficiency, such as bureaucratic delays, misallocation of resources, and corruption. These issues hinder the programs' effectiveness in reaching and benefiting the intended recipients. While some programs may work well, the overall perception and experiences suggest that inefficiency is a common problem. Given this, I would say that describing these programs as not too well captures the general situation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe foreign aid programs in my country are often inefficient, with resources not always reaching the intended beneficiaries or being used effectively. Many programs seem to face bureaucratic delays, mismanagement, or lack of proper oversight, which hinders their effectiveness. While there is some effort to improve these issues, the overall inefficiency remains a significant concern. Therefore, I would say they describe these programs somewhat well, but not very well, since efficiency is a significant issue. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the descriptions provided by other respondents, there is a perception that inefficiency significantly hampers the effectiveness of foreign aid programs in my country, with issues like bureaucratic delays, misallocation, and corruption being common. While some programs may function adequately, the overall sentiment leans toward inefficiency being a notable problem. Since the question asks how well these programs are described by inefficiency, and the responses suggest it's a major concern but not necessarily all-encompassing, I believe \"somewhat well\" captures this situation appropriately.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the general perception of inefficiency, bureaucratic delays, mismanagement, and resource misallocation that are often associated with foreign aid programs, I believe that describing these programs as not too well captures the overall challenges they face. While some efforts are made to improve, the prevalent inefficiencies suggest that these programs do not operate effectively, but are not so entirely ineffective as to be described as not well at all. Therefore, I choose the option that reflects this moderate perception of inefficiency.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the overall perception of foreign aid programs being hampered by inefficiencies such as bureaucratic delays, mismanagement, and resource misallocation, I believe that describing these programs as not too well reflects the general situation. While some programs might operate effectively, the prevalent issues suggest that inefficiency is a significant concern, making the option that best captures this reality the one that indicates they do not describe these programs well at all.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

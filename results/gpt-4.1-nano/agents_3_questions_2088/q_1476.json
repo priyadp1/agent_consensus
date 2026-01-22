@@ -1,0 +1,60 @@
+{
+  "question": "In your opinion, should the International Criminal Court be allowed to try your country soldiers accused of war crimes if the your country government refuses to try them, or not?",
+  "options": [
+    "Yes, International Criminal Court should try soldiers",
+    "No, International Criminal Court should not try soldiers"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the International Criminal Court should be allowed to try soldiers accused of war crimes if the home country government refuses to do so because justice should be universal and not solely dependent on national authorities. This ensures accountability and upholds international standards, especially in cases where local justice systems may be inadequate or biased. Allowing the ICC to step in helps prevent impunity and promotes global justice and human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that if a country's government refuses to prosecute soldiers accused of war crimes, then the International Criminal Court should be allowed to try them. This is important to ensure that justice is served and accountability is maintained, especially when internal mechanisms are unwilling or unable to do so. Allowing the ICC to step in helps uphold international standards of justice and deters future misconduct by military personnel. Therefore, the international community has a responsibility to act in such situations to prevent impunity and promote human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that if a country's government refuses to prosecute soldiers accused of war crimes, the International Criminal Court should be allowed to step in and conduct trials. This is essential to uphold international justice, ensure accountability, and prevent impunity for serious crimes regardless of national political considerations. Allowing the ICC to try such individuals helps maintain global standards and sends a strong message that war crimes will not be overlooked, even if the national legal systems fail to address them adequately.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that holding military personnel accountable for war crimes is crucial to uphold justice and prevent impunity. When a national government refuses to prosecute soldiers accused of such crimes, it can undermine international efforts for justice and send a message that such acts are tolerated. The International Criminal Court offers a vital avenue to ensure that individuals are held responsible when domestic mechanisms fail or are unwilling to do so. Allowing the ICC to try accused soldiers in such cases helps reinforce global standards of human rights and accountability, ensuring that justice is not obstructed by national interests or political considerations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that when a country's government refuses to prosecute soldiers accused of war crimes, it is important for the International Criminal Court to have the authority to step in and conduct trials. Justice should be universal and independent of national political considerations to ensure accountability and prevent impunity. Relying solely on domestic courts, especially if they are unwilling or biased, can result in impunity for serious crimes. Allowing the ICC to intervene promotes international standards, upholds human rights, and sends a clear message that war crimes will not be overlooked. Therefore, I support the ICC being allowed to try soldiers in such cases.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that accountability for war crimes should not be limited by national boundaries or the willingness of a country's government. When a government refuses to prosecute soldiers accused of serious violations, it undermines justice and can perpetuate impunity. The International Criminal Court provides a necessary international mechanism to ensure that individuals are held responsible regardless of their nationality or the actions of their home country. Allowing the ICC to intervene in such cases helps uphold universal human rights and reinforces the global standards of justice. Therefore, I support the ICC having the authority to try soldiers in these circumstances.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that when a country's government refuses to prosecute soldiers accused of war crimes, it is crucial for the International Criminal Court to have the authority to step in and conduct trials. Justice should be universal and independent of national political considerations to ensure accountability and prevent impunity. Relying solely on domestic courts, especially if they are unwilling or biased, can result in impunity for serious crimes. Allowing the ICC to intervene promotes international standards, upholds human rights, and sends a clear message that war crimes will not be overlooked. Therefore, I support the ICC being allowed to try soldiers in such cases.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that justice and accountability are fundamental principles that should not be compromised, especially in cases involving war crimes. When a country's government refuses to try soldiers accused of such serious violations, it can foster impunity and undermine international efforts to uphold human rights. The International Criminal Court serves as a necessary mechanism to ensure that justice is ultimately served, regardless of national political will. Allowing the ICC to intervene in such cases helps maintain global standards of justice and ensures accountability for the most serious crimes, promoting a more just and lawful international community.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that justice should be preserved and accountability upheld, especially when a national government fails to prosecute soldiers accused of war crimes. The International Criminal Court provides an essential mechanism to ensure that heinous acts do not go unpunished due to domestic political or judicial failures. Allowing the ICC to step in maintains international standards of human rights, prevents impunity, and reinforces the global commitment to justice. Relying solely on national courts in such situations risks perpetuating cycles of impunity and undermines the universality of human rights protections. Therefore, I support the ICC being allowed to try soldiers when their own government refuses to do so.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

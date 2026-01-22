@@ -1,0 +1,61 @@
+{
+  "question": "Has each of the following gotten better or worse over the last five years in our country: the working conditions for ordinary workers.",
+  "options": [
+    "Better",
+    "Worse",
+    "Has not changed"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, many workers have faced increasing job insecurity, extended working hours, and sometimes declining workplace safety standards, especially in industries affected by economic fluctuations and the COVID-19 pandemic. While there have been efforts to improve working conditions through regulations and organizational initiatives, the overall trend suggests that the conditions for ordinary workers have not consistently improved and, in some cases, have worsened. Therefore, I believe that working conditions for ordinary workers have mostly gotten worse over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Over the past five years, there have been mixed developments regarding working conditions for ordinary workers. In some sectors, there have been improvements such as better safety regulations, increased wages, and more flexible hours, which suggest positive progress. However, other sectors continue to face issues like job insecurity, long working hours, and inadequate benefits, indicating that conditions have not universally improved. Overall, while there are signs of progress in certain areas, the overall situation remains somewhat stagnant or uneven, making it difficult to classify as clearly better or worse across the board.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the conditions for ordinary workers have experienced mixed developments depending on the sector and region. Nonetheless, many workers have faced increasing job insecurity, stagnant wages, and growing demands, often without corresponding improvements in workplace safety or benefits. While some sectors have seen better policies and more flexible work arrangements, overall, the trend suggests that the average worker's conditions have deteriorated. Therefore, I believe that working conditions for ordinary workers have generally gotten worse over this period.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, there have been some improvements in specific areas such as safety regulations and flexible work arrangements in certain sectors. However, these positive developments are not universal, and many workers continue to face issues like job insecurity, stagnant wages, and longer working hours in other sectors. Overall, the evidence suggests that while some progress has been made, the general trend points toward worsening conditions for many ordinary workers.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the last five years, evidence indicates that workers have faced increased job insecurity, longer working hours, stagnant or declining wages, and insufficient safety protections in many sectors. While some areas have seen improvements, these tend to be limited and do not outweigh the widespread challenges faced by ordinary workers. Overall, the trend points toward a decline in working conditions for the average worker. Therefore, I believe that working conditions for ordinary workers have generally gotten worse over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Over the last five years, there have been both positive developments and ongoing challenges regarding working conditions for ordinary workers. While some sectors have seen improvements in safety standards, wages, and flexible work arrangements, other sectors continue to struggle with job insecurity, long hours, and insufficient benefits. The mixed nature of these changes indicates that the overall conditions have not universally improved but have experienced both improvements and setbacks, leading to an overall situation that is somewhat stagnant or uneven.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Over the past five years, the overall trend in working conditions for ordinary workers appears to be mixed. While some sectors have seen improvements, such as better safety standards or more flexible work arrangements, other sectors continue to face issues like job insecurity, longer working hours, and stagnant wages. Given this balanced assessment and the absence of a clear, universal improvement or decline, the situation seems to be overall stagnant or uneven rather than definitively better or worse.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Over the last five years, there have been some improvements in certain aspects of working conditions, such as safety regulations and flexible work options in some sectors. However, these benefits have not been widespread, and many workers still face issues like stagnant wages, long hours, and job insecurity. Overall, the evidence suggests that conditions have not universally improved and may have remained relatively stable or varied across sectors. Therefore, I believe there has been no clear overall improvement or worsening.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, although there have been some improvements in specific areas such as safety regulations and flexible work arrangements, these are not widespread and do not offset ongoing issues like job insecurity, stagnant wages, and longer working hours faced by many workers. The overall trends seem to suggest that conditions for the average worker have deteriorated rather than improved, reflecting a broader decline in working conditions for many in the country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

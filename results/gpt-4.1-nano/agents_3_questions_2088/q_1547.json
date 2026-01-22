@@ -1,0 +1,62 @@
+{
+  "question": "In a family, when it comes to making important decisions about ____, do you think \u2026? b. How to raise children",
+  "options": [
+    "Men generally have more influence",
+    "Women generally have more influence",
+    "Men and women generally have about the same influence",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In many societies, traditional gender roles often influence family decision-making, especially regarding how to raise children. Historically, women tend to be more involved in day-to-day child-rearing and therefore may have more influence in decisions about upbringing. Although this can vary depending on cultural norms and individual family dynamics, many studies suggest that women generally hold more sway in these decisions. Nonetheless, in some households, especially where gender roles are more egalitarian, influence might be shared equally. However, given the common trends, the most typical pattern is that women have more influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In many traditional family settings, the decision-making process regarding how to raise children has historically been influenced more by women, as they are often primary caregivers and involved more directly in day-to-day parenting. However, with evolving gender roles and increased involvement of men in child-rearing, the influence can vary significantly depending on cultural context and individual families. Nonetheless, in general societal patterns, it is often observed that women tend to have more influence over these decisions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In many cultures, traditional gender roles often attribute the responsibility of raising children to women, which can influence decision-making dynamics within the family. However, this is shifting in some societies toward more shared or egalitarian roles. While influence may vary depending on cultural, social, and individual factors, historically and broadly speaking, women tend to have more influence in decisions related to child-rearing due to their involvement and societal expectations. Therefore, I believe women generally have more influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In many cultural and societal contexts, especially traditional ones, women tend to have more influence over decisions related to raising children due to their primary caregiving roles and involvement in daily parenting activities. Although evolving gender norms are gradually promoting more shared responsibilities, the historical and prevalent pattern remains that women typically hold more influence in this area. Therefore, I believe that women generally have more influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In many cultural contexts, traditional gender roles assign the responsibility of raising children primarily to women, which often results in women having more influence over these important decisions. Although societal shifts towards gender equality are ongoing, the historical and predominant pattern remains that women hold more sway in decisions about child-rearing. This influence stems from their involved role in daily caregiving and societal expectations that reinforce maternal authority in family matters related to raising children.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In most traditional family settings, women are often more involved in the day-to-day aspects of raising children, such as feeding, caregiving, and discipline, which naturally gives them more influence in decisions related to child-rearing. While evolving gender roles are changing some dynamics, the historical and cultural tendency still suggests that women tend to hold more sway in these decisions overall. Therefore, the most appropriate choice reflecting this pattern is B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In many cultural and traditional contexts, women have historically held more influence over decisions related to raising children due to their primary caregiving roles and societal expectations. Although norms are shifting toward greater gender equality, the dominant pattern still tends to favor women\u2019s influence in this area. Therefore, the most accurate choice based on these considerations is B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In many cultural and societal contexts, especially traditional ones, women tend to have more influence over decisions related to raising children due to their primary caregiving roles and involvement in daily parenting activities. Although evolving gender norms are promoting more shared responsibilities, the historical and prevalent pattern remains that women typically hold more influence in this area. Therefore, I believe that women generally have more influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In many cultural and societal contexts, especially traditional ones, women tend to have more influence over decisions related to raising children. This is often due to their primary caregiving roles and involvement in daily parenting activities. While contemporary shifts are promoting more shared decision-making, the longstanding pattern still frequently assigns greater influence to women in this area. Therefore, I believe women generally have more influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

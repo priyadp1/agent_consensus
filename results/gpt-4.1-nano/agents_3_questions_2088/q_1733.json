@@ -1,0 +1,62 @@
+{
+  "question": "How concerned, if at all, are you about the future of Muslims in this country - very concerned, somewhat concerned, not too concerned, or not at all concerned?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the future of Muslims in this country because I believe that ensuring their safety, acceptance, and equal rights is essential for a fair and inclusive society. While I do not feel extremely worried, I recognize that vigilance and support are necessary to prevent discrimination or marginalization. Therefore, my concern is moderate but genuine. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the future of Muslims in this country because, while I believe in coexistence and equal rights, I also recognize that social tensions and misunderstandings can pose challenges for minority groups. It's important to promote tolerance and awareness to ensure a positive future for all communities. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe it's important to be vigilant about the well-being of all communities, including Muslims, to promote understanding and prevent discrimination or prejudice. While I am generally optimistic about social progress, I acknowledge that concerns remain in some areas due to misinformation or societal tensions. Therefore, I would consider myself somewhat concerned, as it's essential to support inclusivity and address potential issues proactively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B because I believe that while many people are supportive of Muslim communities, societal tensions and misinformation can still create challenges that require ongoing attention and understanding. Maintaining awareness and promoting tolerance is crucial for fostering a more inclusive environment, and I see these concerns as moderate rather than alarmist or dismissive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that promoting equality, understanding, and protection for all communities, including Muslims, is vital for a healthy society. While I am not deeply worried about potential discrimination or issues, I recognize the importance of remaining vigilant and supportive to ensure their well-being. Therefore, I would choose a moderate level of concern, but not extreme. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that promoting a safe, inclusive, and respectful society is crucial. While I am not extremely worried, I recognize that ongoing efforts are necessary to protect minority groups and foster understanding. Social tensions and misunderstandings can impact the well-being of Muslim communities, so maintaining awareness and support is important to me. Therefore, I am somewhat concerned about the future of Muslims in this country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that fostering a society based on inclusion, understanding, and protection for all communities, including Muslims, is essential for social harmony. While I personally do not feel highly worried about their future, I recognize that ongoing efforts to promote equality and address potential challenges are important. Being somewhat concerned reflects a proactive attitude toward supporting minority groups and ensuring they are valued and protected. Therefore, I would choose a moderate level of concern but not extreme.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that promoting a safe, inclusive, and respectful society is crucial. While I am not extremely worried, I recognize that ongoing efforts are necessary to protect minority groups and foster understanding. Social tensions and misunderstandings can impact the well-being of Muslim communities, so maintaining awareness and support is important to me. Therefore, I am somewhat concerned about the future of Muslims in this country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that fostering an inclusive and tolerant society is essential for social cohesion. While I trust that many communities and institutions support Muslim citizens, I am aware that societal tensions and misinformation can sometimes pose challenges. Therefore, I feel moderately concerned about the future of Muslims in this country, recognizing the importance of ongoing awareness and support to ensure their well-being and integration.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

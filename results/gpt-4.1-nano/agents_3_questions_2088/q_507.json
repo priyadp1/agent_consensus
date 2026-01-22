@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...Brazilian President Luiz Inacio Lula da Silva.",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I choose B because Luiz Inacio Lula da Silva has historically demonstrated a commitment to re-engaging with international diplomacy and promoting Brazil's interests on the world stage. While he has experience and some positive track record, questions about consistency in foreign policy and his ability to influence global issues significantly lead me to have some confidence rather than a lot. Therefore, I see him as someone who can generally be relied upon but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Luiz Inacio Lula da Silva has demonstrated a focus on domestic social issues and has a history of engaging in international diplomacy that often emphasizes cooperation and development. His background as a seasoned leader with experience in both governance and global affairs suggests he is likely to approach world issues with a balanced perspective. Therefore, I have some confidence that he will do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Brazilian President Luiz Inacio Lula da Silva has historically shown a focus on social issues, development, and a willingness to engage in international cooperation. His leadership style tends to be pragmatic and rooted in diplomatic engagement, which can inspire some confidence in his ability to handle global affairs responsibly. However, like any leader, there are varying perceptions about his effectiveness and consistency on the international stage. Considering this, I would choose some confidence as a balanced view of his experience and diplomatic approach.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Luiz Inacio Lula da Silva's extensive experience in both domestic and international affairs, combined with his pragmatic diplomatic style and focus on cooperation, suggests he has a reasonable level of competence in handling global issues. While he may not be universally trusted on the international stage, his track record indicates he is capable of making responsible decisions regarding world affairs. Therefore, I have some confidence in his ability to do the right thing on the global stage.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Luiz Inacio Lula da Silva has demonstrated a pragmatic and diplomacy-focused approach to international relations, which suggests a reasonable level of confidence in his ability to handle world affairs responsibly. His history of engaging with international issues and a focus on development and cooperation indicate that he is capable of doing the right thing in global matters, though there may be some reservations about his effectiveness and consistency. Therefore, I choose some confidence as a balanced assessment of his leadership on world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Luiz Inacio Lula da Silva has a track record of engaging in international diplomacy and prioritizing cooperation, which indicates he is somewhat capable of doing the right thing regarding world affairs. While he has experience and a focus on social issues domestically, his international approach may not always be decisive or strongly oriented toward global leadership. Therefore, I would choose some confidence in his ability to handle world affairs responsibly but with room for doubt. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the information provided, Luiz Inacio Lula da Silva has demonstrated diplomatic and cooperative approaches in international relations, indicating a level of competence and a focus on multilateral engagement. While he has experience and a history of engaging with global issues, there may be some reservations about his decisiveness or consistency in global leadership. Given these considerations, a moderate level of confidence seems appropriate, leaning towards trust in his approach but acknowledging potential limitations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Luiz Inacio Lula da Silva has demonstrated a focus on diplomacy and cooperation during his leadership, which suggests a reasonable level of confidence in his ability to handle global issues responsibly. Although he may not be seen as a bold global leader, his experience and diplomatic style give me some confidence that he can do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Luiz Inacio Lula da Silva's track record of focusing on international cooperation, engaging in diplomatic efforts, and emphasizing development initiatives suggests a moderate level of confidence in his capacity to handle world affairs responsibly. While he has shown pragmatic and diplomatic approaches, some reservations remain about the consistency and effectiveness of his leadership in global matters. Therefore, I select some confidence as a balanced assessment of his global leadership ability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

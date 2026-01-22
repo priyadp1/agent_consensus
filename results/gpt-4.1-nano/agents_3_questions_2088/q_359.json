@@ -1,0 +1,61 @@
+{
+  "question": "Thinking of Egypt's relationship with the United States, in the future, would you like Egypt to be closer, about as close, or less close to the United States than it has been in recent years?",
+  "options": [
+    "Closer to the United States",
+    "About as close to the United States",
+    "Less close to the United States"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that maintaining or improving Egypt's relationship with the United States could be beneficial for regional stability, economic cooperation, and diplomatic support. A closer relationship might facilitate better collaboration on security issues and development projects, which are important for Egypt's national interests. However, some may prefer to keep the relationship steady or less close to assert greater independence. Ultimately, wanting a closer relationship aligns with pursuing strategic advantages and strengthening alliances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My preference leans toward maintaining a balanced relationship with the United States, neither increasing nor decreasing the level of closeness significantly. Closer ties could bring economic and security benefits, but might also impact Egypt's autonomy or regional relationships. Conversely, less close relations might foster independence but could reduce beneficial cooperation. Therefore, I think keeping the relationship about the same as in recent years is the most prudent approach to ensure stability and continued collaboration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining a balanced relationship with the United States is most beneficial for Egypt. Being closer could lead to stronger diplomatic and economic ties, but it might also affect Egypt's independence in decision-making and its regional relationships. Staying about as close as in recent years allows Egypt to continue engaging with the U.S. strategically while preserving flexibility in its foreign policy. Being less close might reduce influence but could isolate Egypt diplomatically. Therefore, I lean toward keeping the relationship at its current level to balance international partnerships and national interests.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe maintaining a stable and balanced relationship with the United States is most advantageous for Egypt. While closer ties could enhance economic and security cooperation, they might also limit Egypt's independence and influence regional dynamics. Staying about as close as in recent years allows Egypt to benefit from cooperation without overly compromising its autonomy or regional flexibility. Therefore, I would choose to keep the relationship at its current level to support stability and strategic interests.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining a balanced relationship with the United States is most beneficial for Egypt. While closer ties could enhance economic and security cooperation, they might also limit Egypt's autonomy and influence in the region. Staying about as close as in recent years allows Egypt to continue benefiting from strategic partnerships while preserving its independence and flexibility in foreign policy decisions. Therefore, I lean toward keeping the relationship at its current level to support stability and national interests.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given Egypt\u2019s strategic interests, regional considerations, and the desire to balance relations with major powers, I prefer to keep the current level of closeness with the United States. Strengthening the relationship could offer economic and security benefits, but maintaining a steady relationship allows Egypt to preserve its independence and regional flexibility. Therefore, I choose to remain about as close as in recent years to ensure stability and continued cooperation without overly depending on or alienating the U.S.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe maintaining a balanced relationship with the United States is most beneficial for Egypt. Strengthening ties could boost economic and security cooperation, but it might also reduce Egypt's regional independence and influence. Conversely, less close relations might undermine strategic benefits. Staying about as close as in recent years allows Egypt to continue to benefit from cooperation while preserving its autonomy and regional flexibility. Therefore, I choose to remain about as close as in recent years to ensure stability and continued cooperation without over-reliance on the U.S.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe maintaining a balanced relationship with the United States is the most prudent approach for Egypt. While closer ties could bring economic and security advantages, they might also constrain Egypt\u2019s independence and influence in regional affairs. Staying about the same as in recent years allows Egypt to continue benefiting from cooperation with the U.S. without sacrificing its autonomy or regional flexibility, which is essential for pursuing its national interests and stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining a balanced and stable relationship with the United States is in Egypt\u2019s best interest. While closer ties could offer economic and security benefits, they might also reduce Egypt\u2019s independence and influence in regional affairs. Staying about the same as in recent years allows Egypt to continue to benefit from strategic partnerships without compromising its autonomy or flexibility in foreign policy. This approach supports national stability and regional interests effectively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

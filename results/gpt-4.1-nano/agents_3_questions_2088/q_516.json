@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. b. Indian National Congess (INC)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Indian National Congress. While I recognize its historical significance and role in India's independence movement, I am also aware of some of the political challenges and criticisms it has faced in recent years. Therefore, I would choose a moderate position rather than an extremely favorable or unfavorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Indian National Congress. While I recognize its historical significance and role in India\u2019s independence movement, I also acknowledge some of the challenges and controversies it has faced in recent years. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The Indian National Congress has a long-standing history as a major political party in India. People's opinions about the INC tend to vary based on their political views, perceptions of its leadership, and recent performance. Some may view it very favorably for its role in India's independence and its influence on the country's development, while others might see it somewhat or very unfavorably due to concerns about corruption, governance issues, or policy disagreements. Without specific context, choosing a moderate stance reflects the general variability in public opinion towards the party.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Indian National Congress. While I appreciate its historical importance in India's independence and its contributions to the country's political development, I also recognize some of the setbacks and controversies it has faced recently. This balanced view leads me to select option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the Indian National Congress. While I appreciate its historical significance and contributions to India's independence, I am also aware of the political challenges and criticisms it faces today, which leads me to a balanced view rather than an extremely positive or negative one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the Indian National Congress. I appreciate its historical role in India's independence movement and its contributions to the country's political development. However, I also recognize that the party has faced significant political challenges and criticisms in recent years, which temper my overall perception. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Indian National Congress because I acknowledge its historical importance in India's independence and political development, but I also recognize its recent challenges and criticisms that impact my overall perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the Indian National Congress because I acknowledge its historical significance in India\u2019s independence movement and its role in shaping the country's political landscape. Nonetheless, I am aware of the recent challenges, controversies, and criticisms faced by the party, which impact my overall perception. Given this balanced view, I would select option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Indian National Congress. I acknowledge its historical significance in India\u2019s independence movement and its role in shaping the country's political landscape. However, I am also aware of the controversies and challenges it faces in recent times, which prevents me from feeling more positively about it. This balanced perspective aligns most closely with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

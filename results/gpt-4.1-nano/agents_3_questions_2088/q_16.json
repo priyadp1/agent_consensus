@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you think the PRI, the PAN, or the PRD party could do a better job in each of the following areas. Which party could do a better job of dealing with corruption? ",
+  "options": [
+    "PRI",
+    "PAN",
+    "PRD",
+    "Other (VOL)",
+    "None (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the PRD could do a better job of dealing with corruption because historically, it has positioned itself as a party advocating for social justice and transparency, yet it has also faced its share of allegations and scandals related to corruption. The PRI has a long-standing history with corruption issues, which diminishes its credibility on this front, and the PAN has often focused more on economic policies and governance reform rather than actively tackling corruption. Since the question asks which could do better, the PRD's positioning and recent efforts suggest a potential to improve and take stronger action against corruption, making it the more suitable choice here.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the party best suited to handle corruption depends largely on their past records and policies. The PRI has historically been associated with corruption scandals, although it has also taken steps toward reform. The PAN has worked to promote transparency and anti-corruption measures, often positioning itself as a cleaner alternative. The PRD tends to focus more on social issues, but its stance on corruption varies. Given the current context and recent efforts to improve accountability, the PAN is perceived by many as having a stronger commitment to fighting corruption. Therefore, I think the PAN could do a better job in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the PRD could do a better job of dealing with corruption because, historically, it has promoted reforms and policies aimed at increasing transparency and fighting corruption, especially during its leadership periods. While the PRI and PAN have also faced criticism for corruption issues, the PRD\u2019s platform and focus on social justice and governance reforms suggest a stronger commitment to tackling corruption effectively. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the historical context and recent efforts by these parties, the PAN has positioned itself as a cleaner alternative with a focus on transparency and anti-corruption measures. While the PRI has been associated with corruption scandals and the PRD emphasizes social justice reforms, the evidence suggests that the PAN\u2019s policies and image are more aligned with combatting corruption effectively at this time. Therefore, I believe the PAN could do a better job in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the input responses emphasizing the PRD's efforts and commitments toward transparency, social justice, and governance reforms, I believe the PRD has demonstrated a stronger stance and initiatives aimed at tackling corruption compared to the PRI and PAN. While all parties have faced criticisms, the evidence suggests that the PRD is more actively engaged in improving anti-corruption measures. Therefore, I select the PRD as the party that could do a better job in this area.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the historical context and recent efforts by each party, the PAN has demonstrated a more consistent focus on transparency and anti-corruption measures, positioning itself as a party committed to cleaner governance. While the PRI has a long history linked to corruption scandals, it has also made some reforms, but doubts remain due to its past. The PRD's focus tends to be more on social issues rather than corruption specifically, and its stance in this area is less clear. Based on this, I believe the PAN could do a better job of dealing with corruption.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the historical context and recent efforts, the PAN has shown a stronger commitment to transparency and anti-corruption initiatives compared to the PRI, which has a long history of corruption scandals, and the PRD, which tends to focus more on social issues rather than corruption specifically. While the PRD emphasizes governance reforms, its impact on corruption is less evident, and the PRI's past issues cast doubt on its current efforts. Therefore, I believe the PAN could do the better job in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the information provided, the PAN has demonstrated a stronger and more consistent commitment to transparency and anti-corruption efforts compared to the PRI and PRD. The PRI has a history associated with corruption scandals, and although it has made some reforms, skepticism remains. The PRD's focus appears to be more on social issues rather than specifically targeting corruption. Given these considerations, I believe the PAN is the party with the most credible efforts and stance against corruption presently.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the historical context and recent advancements, the PAN has positioned itself as a more transparent and anti-corruption focused party, making efforts to improve its image and policies in this area. While the PRI has been associated with past corruption scandals and the PRD emphasizes social justice, the current evidence suggests that the PAN is better aligned with effective anti-corruption measures today. Therefore, I believe the PAN could do a better job in this area.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

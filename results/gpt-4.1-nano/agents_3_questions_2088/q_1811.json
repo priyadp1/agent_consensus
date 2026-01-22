@@ -1,0 +1,63 @@
+{
+  "question": "Here are some different political and social actions that people can take. Please indicate, for each type of action whether you have done this in the past year, you have done this in the more distant past, you have not done this but might do it or you have not done this and would never, under any circumstances, do it. b. participated in an organized protest of any kind",
+  "options": [
+    "Have done in the past year",
+    "Have done in the more distant past",
+    "Have not done, but might do",
+    "Have not done and would never do",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I selected option B because I have participated in organized protests in the more distant past, perhaps during a particular social movement or cause I supported, but I have not done so recently within the past year. I believe organized protests can be impactful but may not always be feasible or relevant for me at the moment, though I remain open to participating again in the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have never participated in an organized protest, but I might consider doing so in the future if I felt strongly about an issue. I have not done this in the past year or in the more distant past, and I do not have a firm stance against it under all circumstances. My willingness depends on my feelings about the causes being protested. Based on these considerations, I choose option C.\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have never participated in an organized protest of any kind and would not do so under any circumstances, as I tend to avoid large gatherings and prefer other forms of civic engagement. Therefore, I would choose D.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have never participated in an organized protest of any kind and would not do so under any circumstances, as I tend to avoid large gatherings and prefer other forms of civic engagement. Therefore, I would choose D.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest in the past year, but I might consider doing so in the future if I feel strongly about a cause or issue that I want to support through public demonstration. While I understand protests can be a powerful way to express opinions, I haven't recently engaged in this activity and remain open to the possibility but not committed to it at this time.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest in the past year or the distant past. I consider the idea of participating in protests potentially, depending on the issue, but I have not done so yet. I do not categorize myself as someone who would never participate if the circumstances were right, nor am I certain I will in the future. Given my current stance and actions, I choose option C because I am open to the possibility but have not yet participated. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest in the past year but have considered the possibility depending on the issues involved. I remain open to engaging in such actions in the future but have not done so yet and do not rule out the possibility entirely. Therefore, I choose option C as I am not currently engaged but remain open to participation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have not participated in an organized protest in the past year or the distant past, and I do not see myself participating in one in the future. I may consider other forms of civic engagement but do not plan to join protests. Therefore, I choose option D as I would never participate in this action under any circumstances.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest in the past year, but I might consider doing so in the future if I feel strongly about a cause or issue that I want to support through public demonstration. I believe engaging in protests can be an effective way to voice concerns and advocate for change, and I remain open to participating if the situation aligns with my values and beliefs.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Overall, do you think current economic ties between your country and ____ are very good, somewhat good, somewhat bad or very bad? b. China",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perception of the economic ties between my country and China is somewhat positive, as China is a major trading partner and investment destination for many countries. While there may be concerns about dependency or geopolitical issues, overall the economic relationship seems to be beneficial and robust, leaning more towards good than bad.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perception of the economic ties between my country and China is complex. While there are significant trade and investment relationships that benefit many sectors, there are also concerns about overdependence, trade imbalances, and geopolitical tensions. Overall, I believe the economic relationship is somewhat good, as it presents opportunities for growth but also carries risks that need careful management.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perception of the economic ties between my country and China is cautiously optimistic. While there are significant trade relationships and collaborations that benefit both economies, recent geopolitical tensions and concerns over trade policies have introduced some uncertainties. Overall, I believe the ties are generally positive but acknowledge that there are challenges that could impact the strength of the relationship moving forward.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the responses of others, it appears that the economic ties between my country and China are generally viewed positively, though with some caution due to geopolitical concerns and trade imbalances. The perception leans toward a somewhat good relationship, recognizing both benefits and existing challenges. Therefore, I also feel that the ties are somewhat good, reflecting a balance of optimism and awareness of potential issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the economic ties between my country and China are quite positive, given the extensive trade and investment relations that benefit both economies. While there are geopolitical concerns, they do not currently overshadow the overall economic cooperation. Therefore, I would classify the relationship as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perception of the economic ties between my country and China is cautiously optimistic. While China remains a key trade and investment partner that benefits many sectors, there are valid concerns about overreliance, trade imbalances, and geopolitical issues. Overall, I see the relationship as somewhat good, recognizing both its advantages and the need for careful management to address potential risks.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the previous responses describe the economic ties as generally positive, with recognition of both benefits and concerns, my perception aligns with a somewhat positive view. While there are issues to manage, the overall relationship seems to be functioning well without significant negativity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the provided responses and considering the general perception of economic ties with China, there is a recognition of benefits such as trade and investment, but also caution due to geopolitical concerns and trade imbalances. The responses suggest a balanced view leaning towards the relationship being somewhat good, acknowledging both positives and challenges. Therefore, I feel that the economic ties are somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the responses and the general perception of economic relations being positive but with some caution, I believe that the ties are best characterized as somewhat good. The balance of trade benefits and cautious geopolitical considerations suggest a generally positive view without reaching the very good level. Therefore, I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

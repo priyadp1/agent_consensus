@@ -1,0 +1,63 @@
+{
+  "question": "How have your perceptions of migration changed from the experience of Hurricane Maria?",
+  "options": [
+    "A lot",
+    "Fairly",
+    "Little",
+    "Nothing",
+    "No answer"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perceptions of migration have become more nuanced and empathetic as a result of experiencing Hurricane Maria. Witnessing the displacement and challenges faced by those affected opened my eyes to the complex factors that drive migration and the importance of compassion and support in addressing these issues. This experience has deepened my understanding and awareness of migration's role within communities and the importance of empathetic policies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Experiencing Hurricane Maria profoundly impacted my views on migration. Before the hurricane, I saw migration primarily as a personal or economic choice. However, after witnessing how many people were displaced, struggled to rebuild their lives, and faced systemic challenges, I developed a greater understanding of migration's complexities and its importance as a response to crises. This experience made me more empathetic toward those who migrate due to adverse circumstances and more aware of how environmental disasters can reshape lives and communities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My perceptions of migration have become more nuanced after experiencing Hurricane Maria. The disaster highlighted the importance of mobility as a resilience strategy and made me more aware of the complexities involved in migration decisions, especially during crises. I now understand that migration can be a vital response to adverse conditions, but it also carries significant challenges and uncertainties, shaping my view to be more informed and empathetic. Therefore, my perception has changed significantly in light of this experience.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perception of migration has become more nuanced and empathetic after experiencing Hurricane Maria. Witnessing the widespread displacement and challenges faced by affected communities highlighted the complex reasons behind migration, especially in response to environmental disasters. This experience shifted my view from seeing migration merely as an individual or economic choice to understanding it as a vital resilience strategy in crisis situations, and I now recognize the broader social and systemic factors involved. Therefore, I believe my perception has changed fairly significantly.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perceptions of migration have definitely become more nuanced and empathetic since experiencing Hurricane Maria. The disaster exposed me to the realities faced by those who are forced to migrate due to adverse conditions, making me more aware of the complexities involved and the importance of compassionate, supportive responses. This experience has broadened my understanding of migration as both a challenge and a resilience strategy, shifting my view to be more informed and empathetic overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My perceptions of migration have become more nuanced and empathetic as a result of experiencing Hurricane Maria. Seeing firsthand the displacement and hardships faced by those affected helped me understand the complex motivations behind migration and the systemic challenges involved. This has deepened my awareness of the importance of compassionate policies and community support for migrants. I believe this experience has significantly broadened my perspective and understanding of the multifaceted nature of migration in crises.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Experiencing Hurricane Maria deeply reshaped my understanding of migration by highlighting the complex motivations and hardships faced by displaced individuals. It increased my awareness of the systemic and personal factors driving migration in the context of disaster, fostering greater empathy and a nuanced perspective. This event made me realize the resilience involved and the importance of supportive policies. Therefore, my perception has become significantly more nuanced and empathetic.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Experiencing Hurricane Maria deeply influenced my understanding of migration by revealing its complex social and environmental drivers beyond economic reasons. I now see migration as a multifaceted response to crises, motivated by resilience and systemic issues, rather than simply individual choice. This shift in perception has been quite substantial, making me feel that my view has changed fairly significantly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Having experienced Hurricane Maria, I realize that my perception of migration has become more complex and empathetic, as I have seen firsthand how environmental disasters can force people to migrate and how migration can serve as a form of resilience. This awareness has shifted my view from a simple economic or individual choice to understanding the broader social, systemic, and humanitarian factors involved. Therefore, I believe my perception has changed fairly significantly.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

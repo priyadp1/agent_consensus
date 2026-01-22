@@ -1,0 +1,63 @@
+{
+  "question": "After the dissolution of the Soviet Union, we changed from a country where there was just one party to a country with a multiparty system. Overall, do you strongly approve, approve, disapprove or strongly disapprove of this change in your country?",
+  "options": [
+    "Strongly approve",
+    "Approve",
+    "Disapprove",
+    "Strongly disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The transition from a single-party system to a multiparty system after the dissolution of the Soviet Union was a significant political change that aimed to foster greater democratic freedoms and political pluralism. Many citizens viewed this shift as a positive development, allowing for broader representation and more choices in governance. However, opinions varied depending on individuals' political views, experiences, and perceptions of how the change impacted stability and governance. Overall, considering the desire for democratic reform and increased political freedoms, I believe that a majority likely approved or strongly approved of this transition, although some may have disapproved or strongly disapproved due to concerns about chaos or instability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The transition from a one-party system to a multiparty system after the Soviet Union's dissolution was a significant political change that generally aimed to promote democracy, political pluralism, and greater citizen participation. Depending on individual perspectives, some may see this change as a positive move towards democratic reform and greater freedom, leading to approval. Others might feel uncertain about the stability and effectiveness of a multiparty system or remain skeptical about its implementation, possibly leading to disapproval. Given the importance of democratic advancement and the general global trend favoring multi-party systems, I lean towards supporting this change as a positive development for my country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The shift from a single-party system to a multiparty system after the dissolution of the Soviet Union was a significant political transformation aimed at increasing political freedom and democratization. Depending on individual perspectives and experiences, respondents might view this change positively as a move toward greater democracy or negatively if it led to instability or uncertainty. Since some might feel uncertain or have no opinion, they could choose DK/Refused, but many likely see it as a positive step given the general global trend toward democratic governance. Therefore, I believe the most common attitude would be approval, either strong or moderate, reflecting support for democratization and political pluralism.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the transition from a one-party system to a multiparty system after the Soviet Union's dissolution was a crucial step toward democratization and political freedom. It aimed to promote political pluralism, increase citizen participation, and align with international democratic standards. While there might be concerns about stability, historical evidence and global trends suggest that most people viewed this change favorably as a move toward a more open and democratic society. Considering these factors, I approve of this transformation as a positive development for my country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The transition from a single-party to a multiparty system after the dissolution of the Soviet Union was generally viewed as a move toward increased democratic freedoms and political pluralism. Given the global trend toward democratization and the desire for greater representation, most people would likely have approved or strongly approved of this change. While some might have concerns about potential instability or chaos, the dominant sentiment would probably favor the positive aspects of political liberalization. Therefore, I believe the most representative answer is approval, leaning toward strong approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the transition from a single-party system to a multiparty system after the dissolution of the Soviet Union was a positive political development aimed at fostering democracy, political freedom, and greater citizen participation. Although there may have been concerns about stability, overall, the move towards a more pluralistic political landscape likely increased opportunities for representation and choice. Given these considerations, I strongly approve of this change for my country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives of the respondents and the general global trend toward democratization after the Soviet Union's dissolution, the move from a single-party to a multiparty system was largely seen as a positive step toward greater political freedom and participation. The responses indicate a strong approval, with one respondent explicitly stating they \"strongly approve,\" and the other favoring approval, leaning toward strong approval. These opinions reflect overall support for the political liberalization that occurred during that period, despite potential concerns about stability. Therefore, my response aligns with this sentiment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the transition from a one-party system to a multiparty system after the dissolution of the Soviet Union was a crucial step toward democratization and political freedom. It aimed to promote political pluralism, increase citizen participation, and align with international democratic standards. While there might be concerns about stability, the overall trend suggests that most people viewed this change favorably as a move toward a more open and democratic society. Therefore, I approve of this transformation as a positive development for my country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The transition from a one-party to a multiparty system after the dissolution of the Soviet Union was largely perceived as a positive step toward democratization and increased political freedoms. Based on historical context and public sentiments during that period, many citizens likely supported this change, viewing it as a necessary move to align with democratic standards and improve political participation. Both respondents' answers lean toward approval, with one suggesting approval and the other leaning toward strong approval. Given this consensus, the most appropriate choice reflects general support for this democratic transition.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

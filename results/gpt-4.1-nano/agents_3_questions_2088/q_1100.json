@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country.  Is the influence of the trade unions very good, somewhat good, somewhat bad or very bad in our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Trade unions play a crucial role in advocating for workers' rights, fair wages, and better working conditions. When they effectively represent their members, they can contribute positively to economic stability and social equity, which benefits the broader society. However, in some cases, trade unions may prioritize their own interests or resist necessary economic reforms, leading to inefficiencies or conflicts that can hinder overall progress. Overall, the influence of trade unions in our country tends to lean toward being somewhat good, as they help uphold important rights but may also sometimes impede flexibility and competitiveness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Trade unions play a crucial role in advocating for workers' rights, improving working conditions, and ensuring fair wages. When they effectively represent their members, they can contribute positively to social and economic stability by promoting equity and giving workers a voice in policy decisions. However, if they become too powerful or resistant to necessary economic reforms, they may hinder productivity and innovation, which can negatively impact the country's progress. Overall, the influence of trade unions tends to lean towards being beneficial when balanced appropriately, supporting social justice without obstructing economic growth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Trade unions play a complex role in shaping our country's development. They often work to protect workers' rights, improve working conditions, and promote fair wages, which can contribute positively to social stability and economic fairness. However, in some cases, they may also resist necessary economic reforms or push for demands that could hamper overall productivity and competitiveness. Overall, their influence tends to lean towards advocating for workers' interests, which is generally beneficial for social equity but can sometimes slow down broader economic progress. Considering this balance, I view their influence as somewhat good because their contributions help foster a more equitable society, even if there are some drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Trade unions play an important role in defending workers' rights and promoting social justice, which can lead to a more equitable society. While their actions may sometimes slow economic reforms or affect productivity, their overall influence tends to support social stability and fairness. Given this balance, I believe their influence is more beneficial than harmful, though not perfect. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Trade unions have a significant impact on the country's development. They help ensure workers' rights, fair wages, and improved working conditions, which foster social equity and stability. While their efforts are generally beneficial, sometimes they resist economic reforms or push demands that may hinder overall economic efficiency and competitiveness. Overall, their influence promotes social fairness but can slightly slow down broader economic progress. Therefore, I believe their influence is somewhat good because the positive effects for workers and society outweigh the drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Trade unions play an important role in advocating for workers' rights and improving working conditions, which can benefit societal stability and fairness. However, their influence can also sometimes create resistance to necessary economic reforms or reduce workplace flexibility, potentially hindering broader economic progress. Considering these factors, their overall influence seems to balance positive contributions with some drawbacks, leaning toward a generally beneficial impact but not without negative aspects. Therefore, I believe their influence is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Trade unions play a crucial role in defending workers' rights and ensuring fair working conditions, which contribute positively to social stability and equity. While they can sometimes oppose reforms or resist changes necessary for economic growth, overall their influence tends to promote social fairness and prevent exploitation. Considering these factors, their impact appears more beneficial than harmful, though not without some limitations. Therefore, I believe their influence is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Trade unions have a significant role in protecting workers' rights and promoting fairness in society, which contributes positively to social stability and equity. However, they can sometimes resist necessary economic reforms or oppose workplace flexibility, which might hinder broader economic progress. Overall, their influence appears to be more beneficial than harmful, but with some limitations. Given this balance, I believe their influence is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Trade unions play a vital role in advocating for workers' rights, fair wages, and safer working conditions, which contribute positively to social justice and stability. While they may sometimes slow economic reforms or cause minor inefficiencies, their overall influence tends to support social fairness and protect workers from exploitation. Considering the balance of benefits and drawbacks, I believe their influence is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

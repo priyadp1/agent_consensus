@@ -1,0 +1,63 @@
+{
+  "question": "How concerned are you, if at all, that territorial disputes between China and neighboring countries could lead to a military conflict? Are you very concerned, somewhat concerned, not too concerned, or not at all concerned? ",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that territorial disputes between China and its neighboring countries are a significant concern due to the potential for escalation into military conflict. Such disputes can threaten regional stability and peace, and given the historical tensions in the region, I feel quite worried about the possibility of conflict arising from these issues. Therefore, I would choose \"Very concerned.\"\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the potential for territorial disputes between China and neighboring countries to escalate into military conflict. While I recognize the seriousness of these disputes and their potential regional consequences, I also believe that diplomatic efforts and international safeguards can mitigate the risk of full-scale conflict. Therefore, I do not feel extremely worried but acknowledge the importance of remaining attentive to these issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that territorial disputes in that region have the potential to escalate into military conflicts, which could have serious regional and global repercussions. Given the history and tensions involved, I am quite concerned about these issues, as unpredictable or unresolved disputes could easily lead to wider conflicts. Therefore, I am very concerned about the possibility of military conflict arising from these disputes.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the potential for escalation and regional instability, I find the prospect of military conflict concerning but also recognize ongoing diplomatic efforts aimed at de-escalation. While I am aware of the risks involved, I feel that the situation is complex and not necessarily immediate. Therefore, I am somewhat concerned but not overly worried about the possibility of conflict arising from these disputes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the history of tensions and the potential for escalation in territorial disputes between China and neighboring countries, I am quite concerned about the possibility of these disputes leading to military conflict. The regional stability and security in the area are at risk, and unresolved or unpredictable disputes could indeed escalate into broader conflicts. Therefore, I would choose \"Very concerned.\"\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that territorial disputes between China and neighboring countries are a significant concern because they have the potential to escalate into military conflict, which could threaten regional stability and peace. Given the longstanding tensions and the possibility of miscalculation or escalation, I am quite worried about these issues. Therefore, I would choose \"Very concerned.\"\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that territorial disputes between China and neighboring countries pose a significant risk of escalation into military conflict because they threaten regional stability, and past tensions and misunderstandings could lead to miscalculations or unintended conflicts. Given these considerations, I am very concerned about the potential for these disputes to escalate.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I recognize that territorial disputes in the region hold the potential for escalation, which could threaten regional stability and peace. While diplomatic efforts exist to manage tensions, the risk of miscalculation or escalation remains a concern for me. Given the complexity and the serious implications, I would consider myself quite worried about the possibility of military conflict arising from these disputes. Therefore, I choose \"Very concerned.\"\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that territorial disputes in the region have the potential to escalate, affecting regional stability and security. While diplomatic efforts are ongoing, the risk of miscalculation or escalation still exists, which makes me somewhat concerned about the possibility of conflict. I believe it's important to remain attentive to these tensions but also hopeful that diplomacy will prevail. Therefore, I am somewhat concerned but not very worried.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

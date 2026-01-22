@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country.  Is the influence of (ethnic group- Yoruba) very good, somewhat good, somewhat bad or very bad in our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The Yoruba are one of the largest ethnic groups in Nigeria, contributing significantly to the country's culture, economy, and politics. Their influence has helped shape the development of the nation through their rich cultural heritage, thriving industries, and political participation. While there are challenges that come with regional and ethnic dynamics, the overall impact of the Yoruba on Nigeria's progress and cultural diversity has been largely positive. Their contributions foster unity, innovation, and cultural richness, which are vital for national development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The Yoruba ethnic group has historically been influential in Nigeria, especially in the southwestern region where they are predominantly located. Their contribution to the country's cultural, economic, and political development is significant, with many notable leaders, entrepreneurs, and cultural icons originating from this group. When considering their influence nationwide, it generally fosters positive development through cultural preservation, entrepreneurship, and political engagement. While any group's influence can also have complexities, overall, the Yoruba contribute substantially to the nation's progress in a positive manner. Therefore, their influence can be seen as beneficial to the country's advancement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The influence of the Yoruba in our country is complex and multifaceted. Historically, the Yoruba people have contributed significantly to Nigeria's cultural, economic, and political spheres. Many Yoruba leaders, entrepreneurs, and cultural icons have positively shaped national development, and their rich traditions promote diversity and social cohesion. However, like any large ethnic group, there are sometimes tensions or conflicts that can have negative effects on national unity. Overall, the Yoruba community's impact tends to promote progress, cultural richness, and economic activity, which are beneficial for the country. Therefore, their influence can be viewed as somewhat good, fostering positive development and social cohesion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The Yoruba cultural group has historically contributed positively to Nigeria's development, especially through their economic activities, political influence, and cultural heritage. Their influence generally promotes social cohesion, innovation, and economic progress across the country. While complexities and challenges may exist, the overall impact appears to be beneficial for Nigeria's advancement. Therefore, I believe their influence is overall very good for the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The Yoruba are a major ethnic group with a rich cultural heritage, significant contributions to Nigeria's economy through their industries and entrepreneurship, and active participation in politics. Their influence generally promotes cultural diversity, innovation, and economic development, which are beneficial for national progress. While there may be some regional or political tensions, overall, their impact tends to be positive and constructive for the country\u2019s growth and unity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The Yoruba have historically played a significant role in Nigeria's development, contributing to culture, politics, and the economy. Their influence has generally been positive, fostering cultural diversity, economic growth, and political participation. While challenges exist, the overall impact appears to be beneficial for the country's progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The Yoruba have a long history of contributing positively to Nigeria's cultural, economic, and political development. Their active participation and entrepreneurial spirit have generally promoted progress, diversity, and national unity. While there may be regional or political tensions at times, these do not overshadow their overall beneficial influence on the country\u2019s growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The Yoruba ethnic group has historically played a significant and largely positive role in Nigeria\u2019s development. Their contributions to culture, economy, and politics have generally fostered social cohesion, cultural diversity, and economic progress. While challenges may exist, the overall influence of the Yoruba is beneficial for the country's advancement. Therefore, I believe their influence is overall very good for the country.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The Yoruba are one of Nigeria's major ethnic groups with a longstanding cultural heritage and significant economic contributions. Their influence has generally fostered cultural diversity, economic growth, and political participation, which are important for national development. While regional and political tensions may sometimes exist, overall, their influence tends to be positive and constructive, benefiting the country's progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

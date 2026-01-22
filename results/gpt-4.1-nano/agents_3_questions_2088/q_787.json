@@ -1,0 +1,62 @@
+{
+  "question": "How likely are you to vote in the upcoming parliamentary elections - very likely, somewhat likely, not very likely, or not at all likely? ",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not very likely",
+    "Not at all likely"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe I am very likely to vote because I value participating in democratic processes and want my voice to be heard in the upcoming elections. I stay informed about political issues and feel motivated to contribute to shaping the future of my community and country. Therefore, I am confident I will cast my vote. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am very interested in participating in the upcoming parliamentary elections because I feel it is important to have my voice heard in shaping the future of my country. I regularly stay informed about political issues and plan to make time to vote. Therefore, I am very likely to vote.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am quite interested in the upcoming elections and plan to participate actively, but I may have some uncertainties due to work commitments or recent political developments. Therefore, I feel we are very likely to vote, but with a slight possibility I might not, making \"very likely\" the most appropriate choice.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am committed to participating in the upcoming parliamentary elections because I believe voting is an important civic duty that gives me a say in my country's future. I regularly follow political news and plan to go to the polls, so I feel very likely to vote. Even if some unforeseen circumstances arise, my intention remains strong. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the provided responses from other agents, both indicate a high likelihood of voting, with some acknowledgment of minor uncertainties but overall strong motivation to participate. I also consider my own level of interest and confidence in my civic engagement. Since I feel committed to voting but recognize minor potential obstacles, I would categorize my likelihood as quite high but not absolutely certain. Therefore, I choose \"somewhat likely\" as it best reflects a strong intention with slight reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe I am very likely to vote because I value participating in democratic processes and want my voice to be heard in the upcoming elections. I stay informed about political issues and feel motivated to contribute to shaping the future of my community and country, which makes me confident I will cast my vote.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the responses from other agents, both indicate a high likelihood of voting, with Agent 1 expressing strong intention but some minor reservations, and Agent 2 showing firm confidence. I personally feel motivated to participate and believe my commitment aligns with a very likely scenario. However, recognizing that unforeseen circumstances could affect participation, I lean toward a very likely response but acknowledge some small uncertainties.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am very likely to vote because I actively follow political news and feel committed to participating in the democratic process. I believe voting is an important civic duty that allows me to have a say in my country's future. My intention to vote remains strong despite potential unforeseen circumstances, which confirms my likelihood of voting is high.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the provided responses, both agents express a strong intent to vote\u2014one feels very likely due to a sense of civic duty and commitment, while the other feels quite likely but with some minor reservations. Considering this, I also feel committed to voting and intend to do so, but I acknowledge that unforeseen circumstances could potentially affect my participation. This aligns most closely with a \"somewhat likely\" classification, as I have a strong inclination but recognize some possible uncertainties.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

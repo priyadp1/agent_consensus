@@ -1,0 +1,60 @@
+{
+  "question": "In general, would you be more sympathetic to the groups who want to modernize the country or Islamic fundamentalists?",
+  "options": [
+    "Groups who want to modernize",
+    "Islamic fundamentalists"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am more sympathetic to groups who want to modernize the country because modernization often aims at improving standards of living, promoting education, and fostering development, which can benefit society as a whole. While respecting cultural and religious values is important, I believe that progressive change can lead to greater individual freedoms and social justice. The push for modernization tends to be inclusive and adaptable, helping to address contemporary issues more effectively than rigid fundamentalist approaches that may limit personal rights and suppress diversity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I tend to be more sympathetic to groups who want to modernize the country because modernization often promotes progress, education, gender equality, and economic development, which can improve the overall quality of life for citizens. While respecting cultural and religious values is important, radical fundamentalist approaches can sometimes lead to social constriction and conflict. A focus on modernization suggests a desire for societal evolution aligned with current global standards, fostering stability and growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I tend to be more sympathetic to groups who want to modernize the country because modernization often aims at improving living standards, promoting education, and ensuring individual rights. These efforts can lead to societal progress, economic development, and increased opportunities for all citizens, which I believe are beneficial for the country's long-term stability and growth. While I respect cultural and religious traditions, I think evolution and adaptation are crucial for addressing contemporary challenges effectively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am more sympathetic to groups who want to modernize the country because modernization is generally associated with positive progress such as improved education, economic development, and better social rights. These changes tend to create more inclusive and forward-looking societies that adapt to global developments, ultimately benefiting the population. Respecting cultural traditions is important, but the pursuit of modernization often aligns better with long-term stability and growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am more sympathetic to groups who want to modernize the country because modernization promotes progress, education, and social development, which can improve the quality of life for many people. While respecting cultural and religious traditions is important, I believe that embracing change and adaptation can help society address current challenges more effectively and ensure greater individual freedoms and social justice. Rigidity and a strict interpretation of religious fundamentals may hinder social progress and limit personal rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am more sympathetic to groups who want to modernize the country because modernization can lead to improvements in living standards, education, and societal progress while allowing respect for cultural values. Progressive change supports social justice and individual freedoms, which I believe are essential for a healthy, inclusive society. Conversely, Islamic fundamentalist approaches often emphasize strict adherence to traditional laws that may limit personal rights and hinder social development. Therefore, embracing modernization seems more conducive to fostering positive societal change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I feel more sympathetic toward groups who want to modernize the country because modernization tends to promote progress, educational development, and social justice, which can lead to improved quality of life and greater individual freedoms. Embracing change allows societies to adapt to current challenges and fosters inclusive growth rather than being constrained by rigid traditional practices that may limit rights and hinder social advancement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am more sympathetic to groups who want to modernize the country because modernization tends to promote social progress, economic development, and respect for individual rights, which contribute to long-term stability and inclusivity. While respecting cultural traditions is important, embracing change through modernization often results in a more open and equitable society, whereas Islamic fundamentalism may impose strict rules that can restrict freedoms and hinder social advancement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am more sympathetic to groups who want to modernize the country because modernization often leads to improvements in education, economic opportunities, and social equality. It tends to foster a more inclusive society that can adapt to global changes and promote individual freedoms. While respecting cultural traditions is important, progress that benefits the broader population and ensures long-term stability aligns better with my values. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

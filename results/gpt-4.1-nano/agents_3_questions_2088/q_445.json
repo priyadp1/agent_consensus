@@ -1,0 +1,61 @@
+{
+  "question": "Overall, do you think that the quality of life for Muslim women in your country is better, worse, or about the same as the quality of life for women in most Muslim countries?",
+  "options": [
+    "Better",
+    "Worse",
+    "About the same"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the quality of life for Muslim women in my country is about the same as in most Muslim countries. While there may be differences in specific aspects such as social norms, legal rights, or economic opportunities, overall, the conditions tend to be comparable, with some areas of progress and others needing improvement. Therefore, I think it is fair to see the situation as roughly equal in comparison.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My assessment of the quality of life for Muslim women in my country compared to most Muslim countries depends on several factors, including social, legal, and economic conditions. If my country has progressive laws, better access to education and healthcare, and greater social acceptance, then the quality of life may be better. Conversely, if there are more restrictions, inequalities, or socio-political issues, it could be worse. If the conditions are similar across most Muslim countries and my country aligns with that average, then it would be about the same. Considering current global and regional trends, I believe that my country's environment offers a relatively more supportive context for Muslim women, making their quality of life somewhat better than in many other Muslim countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the quality of life for Muslim women in my country is about the same as in most Muslim countries. This assessment considers factors such as social freedoms, legal rights, and access to education and healthcare, which tend to be fairly comparable across many Muslim-majority nations. While there are differences depending on specific policies and cultural practices, overall, the standard of living and opportunities available to Muslim women here are generally similar to those elsewhere in the Muslim world.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the diverse circumstances across Muslim countries and my country's specific social, legal, and economic context, I believe that the quality of life for Muslim women here is generally comparable to that in most Muslim nations. While there may be some differences based on local policies and cultural factors, overall, the standard of living, access to education, healthcare, and social freedoms align closely with those found elsewhere in the Muslim world. Therefore, I think it is about the same.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that the quality of life for Muslim women in my country is about the same as in most Muslim countries. While some aspects like legal rights or social expectations may vary, overall, the opportunities, freedoms, and living conditions for Muslim women tend to be comparable across different nations within the Muslim world. These similarities and differences tend to balance out, leading me to see the situation as roughly equal.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the varied factors influencing the quality of life for Muslim women\u2014such as legal rights, access to education and health care, social norms, and economic opportunities\u2014my view is that my country's situation is moderately better than in many other Muslim countries, especially if there have been recent reforms or progressive policies. While disparities still exist within my country, overall, conditions tend to be more favorable compared to the average across Muslim nations, which often face more significant challenges in these areas. Therefore, I believe the quality of life for Muslim women here is somewhat better than in most Muslim countries.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the diverse experiences and contexts within Muslim countries, my perception is that the quality of life for Muslim women in my country is generally about the same as in most other Muslim nations. While there may be some specific advantages or disadvantages locally, overall, the level of opportunities, social norms, and legal rights tends to be comparable across these countries. Therefore, I see no clear reason to believe it is significantly better or worse overall.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on my perception of the social, legal, and economic conditions affecting Muslim women in my country compared to the broader Muslim world, I believe that the quality of life here is relatively better. My country has implemented progressive policies, improved access to education and healthcare, and fostered greater social freedoms for women, which may not be as widespread in some other Muslim nations facing more significant challenges or conservative norms. While disparities still exist within my country, the overall environment appears more favorable. Therefore, I think the quality of life for Muslim women here is somewhat better than in most Muslim countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the context provided, I believe that the overall quality of life for Muslim women in my country is about the same as in most Muslim countries. While cultural, legal, and social factors can vary, these differences often balance out across nations, leading to similar levels of opportunities, freedoms, and living conditions for Muslim women. Therefore, I choose this view to acknowledge the diversity but also the similarities in experiences worldwide.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

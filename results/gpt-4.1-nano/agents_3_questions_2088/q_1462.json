@@ -1,0 +1,62 @@
+{
+  "question": "When children today in the public grow up, do you think they will be better off or worse off financially than their parents?",
+  "options": [
+    "Better off",
+    "Worse off",
+    "Same (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Many people believe that economic conditions, technological changes, and educational opportunities will continue to evolve. Given current trends of increasing wealth inequality and economic fluctuations, it seems plausible that future generations may face more challenges in achieving the same or greater financial stability as their parents. While some advancements may provide new opportunities, the overall outlook suggests that children might be worse off financially due to broader economic and social issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people believe that economic mobility and technological advancements could lead to children having better opportunities and financial stability in the future. However, concerns about increasing inequality, rising costs of living, and potential economic challenges suggest that it might be difficult for the next generation to surpass their parents financially. Given these contrasting perspectives, I think the future is uncertain, but historically, many societies have seen progress, which leans toward optimism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that children today may face a more challenging financial future due to rising living costs, increased student debt, and economic uncertainties. While technological advancements can create new opportunities, they also tend to disrupt traditional job markets, possibly making it harder for future generations to achieve the same financial stability as their parents. However, improvements in education and investment strategies might offset some of these challenges, making it difficult to be certain. Overall, the trajectory seems uncertain but leans toward them being worse off financially.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that children today may face a more challenging financial future due to rising living costs, increased student debt, and economic uncertainties. While technological advancements can create new opportunities, they also tend to disrupt traditional job markets, possibly making it harder for future generations to achieve the same financial stability as their parents. However, improvements in education and investment strategies might offset some of these challenges, making it difficult to be certain. Overall, the trajectory seems uncertain but leans toward them being worse off financially.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that children today will be worse off financially than their parents due to rising living costs, increasing student debt, and economic uncertainties that may hinder their ability to achieve the same level of financial stability. Although technological advancements can open new opportunities, they also introduce disruptions in job markets, making the financial outlook uncertain. Given these factors, I think the economic challenges are likely to outweigh potential benefits in the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that children today will be worse off financially than their parents. While technological progress and new opportunities can provide some benefits, the current trends of rising economic inequality, increasing costs of living, and potential economic instability suggest that future generations may face more financial hardships and fewer opportunities for upward mobility. These factors lead me to think that their financial situation might be less favorable compared to their parents.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that children today will be worse off financially than their parents due to rising living costs, increasing debt, and economic instability which may limit their ability to achieve the same or better financial stability despite technological advancements. These challenges suggest a more difficult financial outlook for future generations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that children today will be worse off financially than their parents due to rising living costs, increasing student debt, economic uncertainty, and growing economic inequality. These combined factors suggest that future generations may face more financial challenges and fewer opportunities for upward mobility, making it likely they will be worse off.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe children today will face a more challenging financial future due to rising costs, student debt, and economic uncertainties. While technological changes create opportunities, they also disrupt traditional job markets, making it harder for future generations to achieve the same level of financial stability as their parents. Therefore, I think they will be worse off financially.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

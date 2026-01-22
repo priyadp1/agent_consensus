@@ -1,0 +1,61 @@
+{
+  "question": "Would you favor or oppose further talks between your country and Pakistan to try to reduce tensions between the two countries?",
+  "options": [
+    "Favor",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would favor further talks between my country and Pakistan to reduce tensions because open dialogue can promote understanding, foster peace, and help address mutual concerns through diplomacy rather than conflict. Maintaining peaceful relations is essential for regional stability and economic development. Engaging in constructive dialogue indicates a willingness to resolve issues amicably and could lead to tangible improvements in bilateral relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I favor further talks between my country and Pakistan to try to reduce tensions because dialogue and diplomatic efforts are essential for fostering peace and stability in the region. Engaging in discussions can help address underlying issues, build mutual understanding, and potentially prevent conflicts. Given the historical complexities and the importance of maintaining good neighborly relations, I believe continued communication is beneficial. Therefore, I support initiating or continuing such talks.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in diplomatic talks can be a constructive way to reduce tensions, foster understanding, and find peaceful solutions to ongoing conflicts. Open communication often helps address misunderstandings and build trust, which is essential for long-term stability between countries. Therefore, I would favor further talks between my country and Pakistan. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that continued diplomatic talks are vital for reducing tensions and fostering peace between my country and Pakistan. Engaging in dialogue helps address misunderstandings, build trust, and find peaceful solutions that benefit both nations. Diplomatic efforts are often the most effective way to prevent escalation and promote stability in the region. Therefore, I support further talks as a constructive approach to improving relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in further negotiations with Pakistan is a constructive approach to reducing tensions. Diplomatic discussions can help clarify misunderstandings, build mutual trust, and promote peaceful resolution of conflicts. Maintaining open channels of communication is crucial for regional stability and long-term peace, making continued dialogue beneficial rather than destructive. Therefore, I would support ongoing talks between the two countries to foster better relations and resolve issues amicably.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that continued dialogue between my country and Pakistan is essential to reduce tensions and promote peace in the region. Open communication can help address misunderstandings, build trust, and find peaceful solutions to conflicts. Diplomatic engagement demonstrates a commitment to stability and cooperation, which are beneficial for all parties involved. Therefore, I would favor further talks to improve bilateral relations and regional security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in further talks with Pakistan is a constructive approach to reducing tensions. Diplomatic discussions can help clarify misunderstandings, build mutual trust, and promote peaceful resolution of conflicts. Maintaining open channels of communication is essential for regional stability and long-term peace. Therefore, I would favor ongoing talks to foster better relations and resolve issues amicably.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that diplomatic talks are an effective way to reduce tensions and promote peace between my country and Pakistan. Engaging in dialogue can help address misunderstandings, build trust, and find peaceful solutions, which are crucial for regional stability and security. Therefore, I support further talks as a constructive step towards improving relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in further talks with Pakistan offers a constructive pathway toward reducing tensions and fostering regional stability. Diplomatic dialogue helps address misunderstandings, build mutual trust, and find peaceful solutions, which are essential for maintaining peace and preventing escalation. Given these benefits, I support continued negotiations to improve relations between the two countries.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

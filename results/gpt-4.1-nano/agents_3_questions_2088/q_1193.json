@@ -1,0 +1,63 @@
+{
+  "question": "(Please tell me how confident you are that the following organizations or groups will help solve the major problems in our country. Are you very confident, somewhat confident, not too confident or not confident at all?)...(insert survey country nationality) companies",
+  "options": [
+    "Very confident",
+    "Somewhat confident",
+    "Not too confident",
+    "Not confident at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat confident that companies can help solve major problems in our country because they often have the resources, innovation, and influence needed to address issues such as economic development and technological advancement. However, I also recognize that relying solely on companies may overlook broader structural or policy challenges that require government or community action. Therefore, I am not very confident but believe they can contribute positively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My confidence in companies helping to solve the country's major problems depends heavily on their track record, transparency, and commitment to social responsibility. If these companies are actively engaged in sustainable practices, fair treatment of employees, and socially impactful initiatives, I might feel somewhat confident. However, generally, I may have some reservations about their ability to make a significant positive difference without stricter accountability. Therefore, I would choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that companies in our country can play a significant role in addressing major issues, such as economic development, employment, and innovation, especially when they are committed to social responsibility and ethical practices. However, their ability to effectively solve these problems often depends on regulation, transparency, and collaboration with government and civil society. While I am hopeful about their potential contributions, I remain cautious about over-relying on companies to solve fundamental societal challenges. Therefore, I am somewhat confident in their potential to help address major problems.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that companies in our country have the potential to contribute positively to solving major problems, especially when they demonstrate social responsibility, transparency, and ethical practices. However, their effectiveness often depends on external factors such as regulation and collaboration with other sectors. Given this, I feel somewhat confident that companies can help address some of the country\u2019s major issues, but I also recognize the importance of accountability and systemic support.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that companies in our country have the potential to contribute positively to solving major problems, especially when they engage in responsible practices, innovation, and collaborate with government and civil society. While they can be influential and resourceful, their effectiveness depends on oversight, regulations, and a broader systemic approach. Given these considerations, I am somewhat confident that companies can help address our country's major issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that companies have the potential to contribute positively to solving major problems in our country due to their resources, innovation, and influence. When they are socially responsible, transparent, and committed to sustainability, their impact can be significant. However, I remain cautious because addressing complex issues often requires coordinated efforts beyond the business sector alone. Therefore, I am somewhat confident that companies can help, but they are not the sole solution.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that companies have the capacity to make a positive impact on solving major problems in our country, especially if they operate responsibly, innovate effectively, and collaborate with other sectors like government and civil society. While their influence is significant, their effectiveness depends on proper regulation and systemic efforts. Given these considerations, I am somewhat confident that companies can help address our country's major issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that companies can play a meaningful role in addressing major problems in our country, especially when they demonstrate social responsibility, transparency, and sustainability. Their resources, influence, and capacity for innovation make them valuable actors in solving complex issues. However, I also recognize that their effectiveness depends on regulation, accountability, and collaboration with other sectors. Given this balance of potential and limitations, I am somewhat confident that companies can help, but they are not the only or the primary solution.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that companies in our country have significant potential to contribute to solving major problems, especially if they prioritize social responsibility, ethical practices, and collaborate effectively with government and civil society. While their impact depends on external factors such as regulation, oversight, and systemic support, I am optimistic that responsible corporate actions can make a meaningful difference. Therefore, I am somewhat confident in their ability to help address our country's major issues.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

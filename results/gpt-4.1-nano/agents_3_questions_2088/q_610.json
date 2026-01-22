@@ -1,0 +1,62 @@
+{
+  "question": "Where do you most often turn to get news about national and international issues--television, newspapers, radio, magazines, or the internet?  Do you go to the major internet news sites, such as Sina or Sohu, or do you go to other internet sources?",
+  "options": [
+    "Major internet news sites",
+    "Other internet sources",
+    "Both",
+    "Other (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I primarily rely on the internet for news about national and international issues because of its quick access and wide range of sources. Within the internet, I tend to visit major news sites such as Sina or Sohu for their comprehensive coverage and reliability. These platforms offer up-to-date information, analysis, and multimedia content that other sources may not always provide as promptly. While I occasionally explore other internet sources like social media or niche blogs, my main focus remains on the major internet news sites for staying informed.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I mainly rely on internet sources for news about national and international issues because they provide quick, up-to-date information and a wide variety of viewpoints. Within the internet, I tend to visit major news sites like Sina or Sohu because they are well-established, reputable, and offer comprehensive coverage. While I sometimes explore other internet sources for different perspectives, my primary online news consumption happens through these major sites.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I primarily get my news from the internet because it offers quick updates and a wide range of sources. I usually visit major internet news sites like Sina or Sohu as they are popular and provide comprehensive coverage of national and international issues. These sites are convenient and well-known for delivering timely news, which fits my preference for staying informed efficiently. However, I also occasionally explore other internet sources such as independent blogs or international news platforms to get diverse perspectives. Overall, my main reliance is on the major internet news sites, but I do incorporate other sources as well.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I primarily rely on major internet news sites like Sina or Sohu because they are well-established and provide comprehensive, timely coverage of national and international issues. While I occasionally explore other internet sources for different perspectives, my main news consumption occurs through these major sites due to their convenience and reliability. Based on the options provided, my choice aligns most closely with option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I most often turn to major internet news sites like Sina or Sohu for news about national and international issues because they provide comprehensive coverage, up-to-date information, and reliable analysis. While I do explore other internet sources occasionally, my primary focus remains on these major platforms for their convenience and credibility in keeping me informed efficiently.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I predominantly rely on the internet for news about national and international issues due to its convenience and the immediacy of information it provides. Among internet sources, I prefer major news sites like Sina or Sohu because of their reputation for reliability, comprehensive coverage, and timely updates. These platforms allow me to stay well-informed with credible and diverse perspectives, which is essential for understanding complex international and national matters. While I occasionally explore other sources, my main focus remains on these major internet news sites for my news consumption.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I most often turn to major internet news sites like Sina or Sohu for news about national and international issues because they offer comprehensive coverage, reliable analysis, and timely updates that help me stay well-informed. While I do explore other sources from time to time, these platforms remain my primary choice due to their credibility and convenience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I mainly turn to the internet for news about national and international issues because it provides quick and reliable access to updated information. Among internet sources, I prefer major news sites like Sina or Sohu due to their reputation for credibility, comprehensive coverage, and timely updates. These platforms help me stay well-informed with diverse perspectives essential for understanding worldwide and national matters, and I tend to rely on them primarily for my news consumption.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Both respondents express a clear preference for major internet news sites like Sina or Sohu, citing their comprehensive coverage, timely updates, and reliability. While they mention occasional exploration of other sources, their primary source remains these major platforms. Given this emphasis on reliance rather than a mix, the most accurate choice aligns with option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

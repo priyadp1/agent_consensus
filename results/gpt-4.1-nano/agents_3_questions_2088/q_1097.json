@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Hazem Salah Abu Ismail? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but based on the general public figures' reputation, Hazem Salah Abu Ismail has been a controversial figure with both supporters and critics. Considering this, I might lean toward a somewhat favorable opinion due to his influence among certain groups, but also recognizing the criticism and controversy surrounding him. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions or feelings; however, based on general public perception, Hazem Salah Abu Ismail has been a controversial figure in Egypt. Some people admire his religious stature and political activism, while others criticize him for his associations and statements. Given this mixed perception, many individuals might hold a somewhat favorable opinion, appreciating his activism but wary of other aspects. Therefore, I would choose the option indicating a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I do not hold a personal opinion on Hazem Salah Abu Ismail as I am an AI and do not have personal views. However, considering the controversy surrounding his past political activities and public image, opinions about him tend to vary widely among the population. Some might view him favorably for his religious and political stances, while others might perceive him unfavorably due to his political past and associations. Given this context, I would likely lean toward a neutral or somewhat unfavorable view, but as I do not have subjective opinions, I must select an option that reflects general public perception. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the mixed public perception of Hazem Salah Abu Ismail, with some people appreciating his religious stance and activism but others criticizing his past statements and associations, it seems that many individuals may hold a somewhat favorable or somewhat unfavorable view depending on their perspectives. Since I need to select one, and given the diversity of opinions and the controversy surrounding him, I believe a somewhat unfavorable opinion better captures the general cautious or critical stance that many might have. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Hazem Salah Abu Ismail is a controversial figure known for his religious and political activism in Egypt. Public perception of him tends to be polarized; some regard him favorably due to his religious stance and grassroots support, while others view him unfavorably because of his political past and associated controversies. Given this mixed reputation and widespread criticism of political figures involved in controversial activities, I would lean toward a somewhat unfavorable opinion, acknowledging the controversy but recognizing that some still hold a favorable view. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the information provided, Hazem Salah Abu Ismail is a controversial figure who has both supporters and critics. While some admire his religious stance and activism, others criticize his associations and statements. The general perception seems to lean toward a somewhat favorable view, recognizing his influence and support among certain groups, but acknowledging the controversy surrounding him. Therefore, my choice aligns with a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Hazem Salah Abu Ismail is a highly polarizing figure in Egypt, with a significant support base due to his religious activism and grassroots appeal, but also facing criticism and controversy related to his political activities and statements. Given this mixed perception, I believe that many people see him in a somewhat favorable light, recognizing his influence while being aware of the controversies surrounding him. Therefore, I would select the option that best reflects this balanced view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the mixed perceptions and the fact that Hazem Salah Abu Ismail is a controversial and polarizing figure, I think the general public's opinion leans slightly more towards cautious support rather than outright negativity. While some appreciate his religious activism, others criticize his past statements and associations, creating a nuanced view. Therefore, I believe a somewhat favorable opinion best captures the overall sentiment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the mixed perceptions and the controversy surrounding Hazem Salah Abu Ismail, I recognize that many people may view him with a degree of skepticism due to his political and religious activism, but some still hold a favorable opinion based on his grassroots support. Since the majority of opinions tend to lean toward critical or cautious perspectives, I believe a somewhat unfavorable stance captures the general public sentiment accurately. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

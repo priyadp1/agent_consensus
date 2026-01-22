@@ -1,0 +1,60 @@
+{
+  "question": "As I read some specific policies of President Barack Obama tell me if you approve or disapprove of them...Stimulating the U.S. economy through government spending.",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Stimulating the economy through government spending can be an effective way to boost economic growth, especially during times of recession. It can create jobs, increase demand, and help stabilize markets. However, critics argue that excessive government spending may lead to increased debt and long-term fiscal issues. My perspective considers the context of economic downturns where such policies can provide necessary relief.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Stimulating the U.S. economy through government spending is a common approach used during economic downturns to boost demand, create jobs, and prevent deeper recessions. During President Barack Obama's tenure, such policies were part of efforts to recover from the financial crisis of 2008, aiming to stabilize the economy and promote growth. Given the context and the rationale behind government spending as a stimulus, I tend to approve of this policy as a necessary measure to support economic recovery and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Stimulating the economy through government spending can be an effective way to boost economic activity, especially during times of recession or economic slowdown. Such policies aim to create jobs, increase demand, and stimulate growth. However, some people worry about the long-term effects, such as increased debt or misallocation of resources. Personally, I believe that appropriately targeted government spending can be beneficial in times of economic hardship, provided it is implemented responsibly.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that stimulating the economy through government spending can be a useful tool during economic downturns, as it helps to create jobs, increase demand, and promote recovery. Given the context of Obama\u2019s policies aimed at addressing the 2008 financial crisis, I support such measures as necessary and beneficial for stabilizing and growing the economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support stimulating the economy through government spending because it can be an effective tool to boost economic growth, especially during downturns or recessions. Such measures can create jobs, increase demand, and stabilize markets in the short term. While concerns about long-term debt are valid, responsible and targeted government spending can help recover from economic slowdowns without causing long-term harm if managed properly. Therefore, I approve of this policy approach.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that stimulating the economy through government spending can be justified, especially during economic downturns and crises like the 2008 financial crisis. Such policies can help create jobs, boost demand, and support economic recovery in the short term. While concerns about long-term fiscal sustainability are valid, in urgent situations, government spending can be an effective tool to stabilize the economy. Therefore, I approve of this approach.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that stimulating the economy through government spending can be an effective way to promote growth and recovery, especially during economic downturns. Such measures can help create jobs and increase demand in the short term, which is beneficial for stabilizing the economy. While long-term fiscal responsibility is important, targeted and responsible government spending during times of need can provide necessary support. Therefore, I approve of this policy approach.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support stimulating the economy through government spending, especially during economic crises like the one faced during the Obama administration\u2019s response to the 2008 financial crisis. Such measures can be effective in creating jobs, increasing demand, and facilitating economic recovery in the short term. While fiscal responsibility is important, in urgent times, government spending is a justified and necessary tool to stabilize the economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that stimulating the economy through government spending can be an effective way to help recover from economic downturns, as it promotes job creation, boosts demand, and helps stabilize markets. Given the context of President Obama's policies following the 2008 financial crisis, such measures are necessary and beneficial for economic recovery in the short term. Therefore, I approve of this approach.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

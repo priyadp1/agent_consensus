@@ -1,0 +1,60 @@
+{
+  "question": "As a result of the earthquake and tsunami did you or members of your household...Experience electrical blackouts?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I experienced power outages during the aftermath of the earthquake and tsunami, which caused damage to electrical infrastructure and disrupted services. As a result, some households faced blackouts, but not necessarily everyone. Since I personally encountered electrical blackouts, I choose the option that reflects that experience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I experienced electrical blackouts because the earthquake and tsunami damaged the power infrastructure in my area, disrupting electricity supply for several days. This affected both me and my household members, making B the correct choice.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I experienced electrical blackouts as a result of the earthquake and tsunami, which disrupted the power supply to my household. This was a significant inconvenience and affected our daily activities during that period. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I experienced electrical blackouts as a direct result of the earthquake and tsunami, which damaged local power infrastructure and disrupted electricity supply to my household. This caused inconvenience and affected our daily routines during that period. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Since the question asks if I or any household members experienced electrical blackouts as a result of the earthquake and tsunami, and considering that such events often damage electrical infrastructure leading to blackouts, I would respond based on whether I personally experienced those outages. If I did experience power outages, I should choose option A; if not, then B. Assuming I experienced disruptions similar to those described by others, I would select:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I experienced electrical blackouts in my household as a direct result of the earthquake and tsunami, which damaged the electrical infrastructure and caused disruptions. Therefore, I believe the correct choice is A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the typical impact of earthquakes and tsunamis on electrical infrastructure, and based on the information provided that both agents experienced outages due to the disaster, it is reasonable to assume that I or household members likely experienced blackouts as well. Therefore, I would select the option indicating such a result.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I experienced electrical blackouts as a direct consequence of the earthquake and tsunami, which damaged local infrastructure and disrupted the electricity supply to my household. This caused significant inconvenience and impacted our daily routines during that period. Based on this, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Given the widespread impact of the earthquake and tsunami on local infrastructure, and assuming my household experienced similar disruptions as reported by others, it is reasonable to select \"Yes\" for experiencing electrical blackouts. Personal observation aligns with the common consequences of such natural disasters affecting power supply.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

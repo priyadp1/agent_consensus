@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. d. Socialist Party (SP)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have not expressed a strong positive or negative opinion towards the Socialist Party in recent times; my view is somewhat neutral, but leaning slightly toward unfavorable based on my knowledge of its policies and actions. Therefore, I would select \"somewhat unfavorable.\" \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "E",
+        "raw_output": "I do not have enough information about the current context or specific opinions regarding the Socialist Party to form a definitive favorable or unfavorable view. Therefore, I might lean towards an uncertain or neutral stance. However, since the options do not include a neutral or middle-ground choice explicitly, and when in doubt, respondents often select \"DK/Refused\" to avoid misrepresentation. \n\nANSWER: E",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "E",
+        "raw_output": "I do not have enough context about the current public opinion or recent developments related to the Socialist Party in order to form an opinion. Given the options, I would select \"DK/Refused\" because I cannot confidently rate my opinion without additional information.\n\nANSWER: E",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "E",
+        "raw_output": "Given that I do not have enough information or recent context to form an informed opinion about the Socialist Party, selecting \"DK/Refused\" accurately reflects my inability to rate the party at this time. I prefer to abstain from providing an opinion without sufficient basis. \n\nANSWER: E",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "E",
+        "raw_output": "I do not have enough specific information or recent context about the Socialist Party to form a clear opinion. Since I cannot accurately assess whether I am favorable or unfavorable without more details, I choose to indicate that I am unsure.\n\nANSWER: E",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My impression of the Socialist Party is generally somewhat unfavorable, based on recent news and policies I have observed, although I do not have a very strong negative opinion. I lean towards a cautious view but recognize some aspects of the party I disagree with. Therefore, I would select \"somewhat unfavorable.\"\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "E",
+        "raw_output": "I do not have enough recent or detailed information about the Socialist Party to form a strong opinion. While I may lean slightly unfavorable based on some public discussions, I cannot confidently assess the party's overall stance or actions. Therefore, I choose to remain unsure.\n\nANSWER: E",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given my current limited information about the Socialist Party and the mixed views expressed by others\u2014some indicating a somewhat unfavorable impression while also acknowledging the lack of strong negative feelings\u2014I lean towards a cautious assessment. Since I do not hold a strongly favorable opinion and recognize some reservations, \"somewhat unfavorable\" seems appropriate.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "E",
+        "raw_output": "Since I also lack sufficient information or recent context about the Socialist Party to form an informed opinion, I would select \"DK/Refused\" to acknowledge my inability to provide a well-founded judgment at this time. This aligns with the reasoning of Agent 0 and Agent 1, who preferred to abstain due to insufficient knowledge.\n\nANSWER: E",
+        "model_failed": false
+      }
+    }
+  ]
+}

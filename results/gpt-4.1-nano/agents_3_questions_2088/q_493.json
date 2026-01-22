@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you think the PRI, the PAN, or the PRD party could do a better job in each of the following areas. Which party could do a better job of dealing with unemployment? ",
+  "options": [
+    "PRI",
+    "PAN",
+    "PRD",
+    "Other (VOL)",
+    "None (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the PRI could do a better job in dealing with unemployment because they have historically implemented policies aimed at economic growth and job creation, although their effectiveness has varied over time. Their experience in managing large-scale economic programs might give them an advantage in tackling unemployment issues efficiently. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the party best suited to address unemployment is the PRI because of its historical experience in implementing large-scale economic programs and policies aimed at job creation. Its established networks and resources could potentially be leveraged efficiently to stimulate employment opportunities nationwide, especially during economic downturns. While other parties may have innovative ideas, the PRI's long-standing presence in government suggests a familiarity with executing policies that impact employment directly. Therefore, I think the PRI could do a better job in dealing with unemployment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the party best suited to handle unemployment depends on their policies and track record. The PRI has historically been a dominant force and may have experience in managing large-scale economic issues, but some see it as less innovative. PAN emphasizes economic freedom and business-friendly policies, which could promote job creation. PRD tends to focus on social programs aimed at reducing inequality, which might address unemployment differently. Given these considerations, I think PAN may have better strategies for dealing with unemployment due to its focus on market-driven solutions and support for entrepreneurship.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the previous responses and the strengths of each party, I believe that the party best equipped to address unemployment would be the PAN, due to its focus on market-driven policies, support for entrepreneurship, and efforts to promote economic freedom, which are often effective strategies for creating jobs and reducing unemployment. The PRI's traditional approach and the PRD's social programs may also help, but the emphasis on business-friendly policies makes PAN the preferable choice in this context.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the party best equipped to handle unemployment is the PAN because their emphasis on economic freedom, business incentives, and entrepreneurship could foster an environment conducive to job creation. Their policies tend to prioritize market-driven solutions, which might lead to sustainable employment growth. While previous experience is valuable, the focus on fostering a favorable economic climate makes PAN a compelling choice for tackling unemployment effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the previous responses, both respondents believe that the PRI has the best capacity to deal with unemployment due to its historical experience, established networks, and policies geared toward economic growth and job creation. While other parties may have innovative ideas, the consistency in recognizing the PRI\u2019s ability to implement large-scale economic programs suggests they are viewed as more capable in this area. Therefore, I also believe the PRI could do a better job in dealing with unemployment.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives, the PAN emphasizes market-driven solutions and entrepreneurship, which can promote sustainable job creation in the long term. The PRI is recognized for its extensive experience and ability to implement large-scale economic policies, but some may see their approach as less innovative in recent times. Given these factors, I believe the party that could do a better job of dealing with unemployment is the PAN because fostering a business-friendly environment can directly encourage employment growth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the PAN (B) could do a better job in dealing with unemployment because its focus on market-oriented policies, promoting entrepreneurship, and economic freedom are strategies often effective in creating jobs and reducing unemployment rates. While the PRI\u2019s experience and networks are valuable, their traditional approaches may be less innovative in addressing current employment challenges. The PRD\u2019s social programs, although important, may not be as directly focused on economic growth and job creation as the policies promoted by the PAN. Therefore, I choose the PAN as the party most capable of addressing unemployment effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the PAN (B) could do a better job dealing with unemployment because its focus on market-driven policies, economic freedom, and support for entrepreneurship are strategies that can create sustainable jobs. Their emphasis on fostering a conducive environment for businesses suggests they are more likely to implement effective measures for reducing unemployment compared to the PRI or PRD, whose approaches may be more socially oriented or traditional. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

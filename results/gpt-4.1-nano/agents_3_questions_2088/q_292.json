@@ -1,0 +1,60 @@
+{
+  "question": "Now I'm going to read you a list of countries.  For each one, please tell me whether you would favor or oppose admitting it into the European Union in the next ten years...Ukraine",
+  "options": [
+    "Favor",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Ukraine has shown a strong desire to align with European institutions and has been actively pursuing integration with the European Union, especially amidst ongoing conflicts and reforms. Supporting Ukraine's accession could promote stability, democracy, and economic development in the region. However, it also involves significant political and logistical challenges to ensure it meets all accession criteria and maintains harmony within the EU. Given these considerations, I would favor Ukraine's admission to support stability and democratic progress in Europe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Ukraine has shown a strong desire to integrate with European institutions and has made efforts to meet the accession criteria, especially considering the ongoing conflict and its strategic importance to European stability. Supporting Ukraine's EU accession can promote stability, democracy, and economic development in the region. However, it also presents challenges related to ongoing conflicts and reforms needed. Overall, favoring Ukraine's accession aligns with supporting a more unified and stable Europe, despite the hurdles.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I favor admitting Ukraine into the European Union because it aligns with the EU's goals of promoting stability, democracy, and economic development in the region, especially considering Ukraine's ongoing efforts to implement reforms and integrate more closely with European institutions. Supporting Ukraine's EU accession could also bolster regional security and reinforce the EU's values of sovereignty and independence. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe admitting Ukraine into the EU in the next ten years is a positive step towards promoting stability, democracy, and economic growth in the region. Ukraine has shown a strong commitment to implementing reforms and aligning itself with European standards, which supports the EU's broader goals of regional integration and security. Given the ongoing conflict, supporting Ukraine's accession could also reinforce European unity and resilience. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe admitting Ukraine into the European Union within the next ten years would be beneficial for regional stability, support for democratic reforms, and promoting economic development in Ukraine. The country has demonstrated a strong commitment to aligning with European values, and its accession could enhance security and strengthen the EU's moral and political standing. Although there are challenges to integration, the potential benefits outweigh the drawbacks, and supporting Ukraine's accession aligns with the EU\u2019s goals of promoting democracy and stability in Europe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that supporting Ukraine's accession to the EU is important to promote stability, democracy, and regional development, especially given Ukraine's efforts and strategic significance. While there are challenges, backing Ukraine's integration aligns with fostering a more unified and resilient Europe. Therefore, I would favor Ukraine's admission.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support Ukraine's accession to the European Union because admitting Ukraine can contribute to regional stability, strengthen democratic institutions, and promote economic development. Ukraine's commitment to aligning with European values and its strategic importance make it a fitting candidate for EU membership, which can also enhance the overall security and unity of Europe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I favor Ukraine's accession to the EU in the next ten years. Supporting Ukraine's membership can strengthen regional stability, promote democratic reforms, and foster economic development. Given Ukraine's efforts towards European integration and the strategic importance of its alignment with European values, accepting it into the EU would enhance regional security and unity, especially amidst ongoing challenges. Therefore, I believe admitting Ukraine aligns with the EU's broader goals of promoting stability, democracy, and prosperity in Europe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that admitting Ukraine into the EU within the next ten years is a positive step toward promoting stability, democracy, and economic growth in the region. Ukraine has shown strong commitment to reforms and aligning with European standards, which supports regional integration and security. Supporting Ukraine\u2019s accession could also reinforce European unity, especially amidst ongoing conflicts, helping to promote resilience and security within the EU.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

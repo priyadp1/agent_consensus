@@ -1,0 +1,62 @@
+{
+  "question": "I\u2019d like your opinion about some possible international concerns. Do you think that ____ is a major threat, a minor threat or not a threat to your country? \nd. global climate change",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Global climate change is widely recognized as a major global issue with potentially severe consequences for economies, health, and security. Its impacts, such as extreme weather events, rising sea levels, and ecological disruptions, can directly threaten the well-being of a country and its citizens. Given the increasing frequency and intensity of natural disasters linked to climate change, many consider it a significant threat that requires urgent action. Therefore, I believe it is a major threat to my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Global climate change poses a serious threat due to its potential to cause extreme weather events, threaten food and water security, and impact health and economic stability. Many experts and reports have highlighted its severity, making it a significant concern for nations worldwide. People are increasingly aware of its risks and emphasize the need for urgent action. Considering this, I see it as a major threat to my country.\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people view global climate change as a significant threat because it has the potential to cause widespread environmental damage, economic disruptions, and health problems. As climate-related disasters like hurricanes, droughts, and floods become more frequent and severe, countries may face serious challenges that threaten security, resources, and overall well-being. Given these considerations, I believe climate change is a major threat to my country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a major threat because it has the potential to cause severe environmental damage, disrupt economies, and threaten public health. The increasing frequency and intensity of natural disasters linked to climate change underscore its seriousness and the urgent need for action. These impacts could undermine stability and security in my country, making it a significant concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a major threat because it poses serious risks to health, safety, and the economy through extreme weather events, rising sea levels, and ecological damage. Its potential to cause widespread disruptions makes it an urgent issue for my country\u2019s future security and well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a major threat to my country because of its potential to cause extreme weather events, threaten public health, disrupt economies, and displace communities. The scientific consensus indicates that without urgent mitigation and adaptation measures, the adverse impacts will significantly affect national security and overall well-being. Therefore, I see it as a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a major threat because it has the potential to cause severe and widespread impacts such as extreme weather events, rising sea levels, and ecological damage. These effects can threaten public health, disrupt economies, and displace communities, thereby posing significant risks to national security and stability. Given the scientific consensus and the urgent need for mitigation and adaptation, I view it as a major threat to my country\u2019s well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global climate change poses a significant threat to my country because it can lead to more frequent and severe natural disasters, damage ecosystems, disrupt economies, and impact public health. The scientific evidence and increasing global concerns highlight the urgency of addressing this issue to prevent long-term harm and ensure national stability. Therefore, I see it as a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a major threat because it has widespread and potentially irreversible impacts on environmental stability, public health, and economic security. The risks of extreme weather, rising sea levels, and ecological damage can undermine national stability and endanger future generations, making it a serious concern that requires urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

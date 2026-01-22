@@ -1,0 +1,62 @@
+{
+  "question": "From what you know, do people who move to the U.S. from other countries have a better life here, a worse life here, or is life neither better nor worse here?",
+  "options": [
+    "Better",
+    "Worse",
+    "Neither better nor worse",
+    "Don't know anyone (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people who move to the U.S. from other countries experience varying outcomes, but generally, they often find opportunities for better economic prospects, education, healthcare, and personal freedoms compared to their countries of origin. However, experiences can differ greatly depending on individual circumstances, communities, and immigration status. Some may face challenges adapting or may struggle with cultural integration, which can impact their quality of life. Overall, while there are many positive stories, a significant portion might find their lives neither markedly better nor worse, especially those who face difficulties adjusting or lack resources. Based on this broader perspective, it can be said that many perceive an improved quality of life, but not universally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Many people who move to the U.S. from other countries do so in search of better opportunities, whether in education, employment, or quality of life. While some find that their lives improve significantly, others may face challenges such as adjusting to a new culture, language barriers, or limited access to resources, which can make their experiences more difficult. Therefore, the impact on their overall life quality varies depending on individual circumstances, and it\u2019s difficult to generalize that most have a better or worse life. Given this, many may see their situation as neither distinctly better nor worse, or might not have direct knowledge of others\u2019 experiences. However, since the question asks for an overarching view based on what is known, the most balanced choice reflects that the situation is mixed and not universally better or worse.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people who move to the U.S. from other countries often seek better economic opportunities, safety, and quality of life, and while some do experience improvements, others may face challenges such as integration issues, job market difficulties, or cultural adjustment. Overall, the experience varies widely depending on individual circumstances, backgrounds, and support systems. Based on general observations, many newcomers find the U.S. offers more opportunities than they had in their home countries, but it is not universally better for everyone. Therefore, I believe that for many, life here is somewhat better, but not necessarily for all.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the varied experiences of people who migrate to the U.S., many seek better opportunities but face different challenges, making their overall experience quite diverse. While some find significant improvements in their quality of life, others encounter difficulties adjusting or lack access to resources, which can diminish their chances of a better life. Given this range of experiences and recognizing that not all newcomers have purely better or worse outcomes, the most balanced view suggests that life is neither universally better nor worse for all. Therefore, based on the information available, the most appropriate choice is C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the general observations that many immigrants seek better economic opportunities and quality of life in the U.S., and that while some find improvements, others face significant challenges with integration and adaptation, I believe that overall, their experiences tend to lean towards a perception of a better life, even if not universally for everyone. This suggests that many do perceive their lives here as improved compared to their countries of origin, although some may not find life better. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "People who migrate to the U.S. from other countries often experience a range of outcomes. Many are attracted by the prospect of better economic opportunities, educational prospects, healthcare, and personal freedoms, leading them to perceive an improved quality of life. However, challenges such as cultural adaptation, language barriers, and immigration hurdles can hinder some individuals from experiencing these benefits fully. There are also those whose circumstances do not change significantly or who face difficulties integrating, resulting in a perception that their life is neither better nor worse. Given the diversity of experiences and the evidence that improvements are often context-dependent, I believe the most accurate choice reflects this variability, and overall, the impact on life quality varies. Therefore, I choose:\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Many people who move to the U.S. from other countries do so seeking better opportunities, such as improved economic prospects, education, healthcare, and personal freedoms. While some find that their lives improve significantly, others encounter challenges related to cultural adaptation, language barriers, and immigration issues that can limit the benefits they experience. Given the diversity of experiences and the fact that improvements can depend heavily on individual circumstances, it is reasonable to conclude that the overall impact is varied. Therefore, I believe the most accurate answer is that life neither improves nor worsens universally for all, reflecting this variability.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "People who move to the U.S. from other countries experience a wide range of outcomes. Some benefit from better economic opportunities, healthcare, and personal freedoms, which can improve their lives. Others face challenges such as cultural adjustment, language barriers, or difficult circumstances that prevent significant improvement. Conversely, some may find their situation remains largely unchanged or even worsens due to these difficulties. Given the diversity of experiences and the fact that for many, the impact on their quality of life depends heavily on individual circumstances, the most balanced answer is that life is neither universally better nor worse for all migrants. Therefore, I choose:\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the diverse experiences of people who migrate to the U.S., some find significant improvements in their quality of life while others face challenges that hinder their well-being. The overall picture suggests that there is no uniform outcome, and many individuals perceive their lives as better, but not universally so. Therefore, the most balanced and accurate choice based on available information is C.  \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

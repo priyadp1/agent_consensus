@@ -1,0 +1,61 @@
+{
+  "question": "Do you think it's good or bad for U.S. colleges and universities to accept international students?",
+  "options": [
+    "Good",
+    "Bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Accepting international students is generally beneficial for U.S. colleges and universities because it promotes diversity, fosters cultural exchange, and can enhance the global reputation of these institutions. International students often pay higher tuition fees, which can help subsidize education costs and support academic programs. Additionally, their diverse perspectives can enrich the campus community and prepare all students for an interconnected world. However, some may argue that an over-reliance on international students could potentially strain resources or impact local access. Overall, the advantages of embracing international students tend to outweigh the disadvantages, making it a positive contribution to higher education.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Accepting international students can be very beneficial for U.S. colleges and universities because it promotes diversity, enriches the educational environment, and fosters international understanding. These students often bring different perspectives, experiences, and ideas that can enhance classroom discussions and research collaborations. Moreover, attracting international students can also bolster the U.S. economy through tuition and living expenses. While there are some concerns about resource allocation or integration, the overall positive impacts make it a good thing for institutions and society as a whole.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Accepting international students can bring diverse perspectives, cultural exchange, and increased global collaboration to U.S. colleges, enriching the educational environment for all students. Moreover, international students often contribute significantly to the economy through tuition and living expenses. While there might be concerns about resource allocation or integration, overall, the benefits tend to outweigh the drawbacks, making this practice advantageous for higher education institutions and society as a whole.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that accepting international students is beneficial for U.S. colleges and universities because it promotes diversity, enhances the educational environment, and fosters international understanding. It also contributes positively to the economy and encourages global collaboration. These advantages suggest that it is a good practice overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe accepting international students is beneficial for U.S. colleges and universities because it promotes diversity, cultural exchange, and enhances the institutions' global reputation. Additionally, international students often contribute financially through higher tuition fees, supporting the broader academic community. The advantages of a diverse and internationally engaged campus seem to outweigh potential resource concerns. Therefore, I think it is good for U.S. higher education to accept international students.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that accepting international students is beneficial for U.S. colleges and universities because it promotes diversity, enhances cultural exchange, and can improve the global reputation of these institutions. International students contribute valuable perspectives and experiences that enrich campus life and academic programs. Additionally, their presence can support financial stability through higher tuition fees and stimulate economic growth. While there are challenges to consider, the overall positive impact makes it a good practice. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is good for U.S. colleges and universities to accept international students because their presence fosters diversity, cultural exchange, and enhances the global reputation of these institutions. International students bring valuable perspectives, contribute to campus life, and support financial stability through higher tuition fees. These benefits collectively strengthen the educational community and promote international understanding. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that accepting international students is beneficial for U.S. colleges and universities because it promotes diversity, enhances cultural exchange, and improves the institutions' global reputation. International students bring valuable perspectives, enrich campus life, and can support financial stability through higher tuition fees. While there are some challenges, the overall positive impact suggests that it is a good practice. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe accepting international students is beneficial for U.S. colleges and universities because it promotes diversity, cultural exchange, and international understanding. These factors enrich the educational environment and prepare students for a globalized world. Additionally, international students often provide financial support through higher tuition fees, which can help sustain academic programs and research. Overall, the advantages outweigh any potential challenges, making it a positive practice.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "All in all, do you think the January elections in Iraq will lead to a MORE stable situation, a LESS stable situation, or will the situation in Iraq not change much?",
+  "options": [
+    "More stable",
+    "Less stable",
+    "Situation will not change much"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The outcome of the January elections in Iraq largely depends on various factors such as electoral processes, political inclusivity, and security conditions. If the elections are conducted transparently and result in a government that has broad support across different factions, they could promote national dialogue and stability. However, given Iraq's history of political fragmentation, unresolved tensions, and ongoing security challenges, it is equally possible that the elections may deepen existing divisions or fail to address underlying issues, leading to continued instability. Therefore, while there is hope for improvement, the most realistic expectation at this stage is minimal change in the overall stability level.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The January elections in Iraq could potentially lead to greater stability if they result in a more inclusive government and improved governance. However, given existing tensions, political fragmentation, and ongoing security challenges, there is also a significant risk that the elections might not significantly change the current situation or could even exacerbate instability if contested or poorly managed. Therefore, while there is hope for progress, many uncertainties remain, making it difficult to expect a substantial shift toward stability in the near term.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The January elections in Iraq could potentially contribute to greater stability if they lead to a more representative government that can address internal conflicts and rebuild trust among different factions. However, given the ongoing violence, political fragmentation, and influence of external actors, these elections might not significantly alter the tense situation in the short term. While they may lay the groundwork for future progress, immediate stability improvements are uncertain, and it\u2019s plausible that the situation will remain relatively unchanged in the near future.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the complex and ongoing challenges in Iraq, including political fragmentation, security issues, and external influences, elections alone are unlikely to produce immediate or significant shifts toward stability. While they can lay the groundwork for future progress, the current situation's deep-rooted issues suggest that stability may not be substantially affected in the short term. Therefore, it\u2019s reasonable to believe that the situation will not change much in the near future.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given Iraq's complex political landscape, ongoing security challenges, and the influence of external actors, elections alone are unlikely to produce immediate and significant shifts toward stability. While they have the potential to foster better representation and dialogue, entrenched divisions and unresolved tensions suggest that the overall situation may remain largely unchanged in the near term. Therefore, it seems more realistic that the elections will not substantially alter Iraq's stability at this point.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering Iraq's complex political landscape, ongoing security issues, and history of fragmentation, elections alone may not be sufficient to significantly alter the stability of the country in the short term. While there is hope that transparent and inclusive elections could promote dialogue and stability, the persistent underlying tensions and challenges suggest that the overall situation is more likely to remain relatively unchanged in the near future.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the historical context and ongoing challenges in Iraq, including political divisions, security issues, and external influences, elections alone are unlikely to lead to a dramatic shift toward stability in the short term. While they might foster some improvements in representation and dialogue, the entrenched problems make significant progress difficult without broader reforms and sustained efforts. Therefore, I believe the situation will remain relatively unchanged after the elections.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given Iraq's history of political instability, security challenges, and deep-rooted divisions, elections often serve as a step toward potential progress but do not guarantee immediate or substantial improvements in stability. While elections can create opportunities for change and dialogue, their impact may be limited without broader systemic reforms and security improvements. Therefore, it is reasonable to believe that the situation will largely stay the same in the short term.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the historical context and ongoing challenges in Iraq, including deep political divisions, security issues, and external influences, elections are unlikely to produce immediate or significant improvements in stability. While they may contribute to a foundation for future progress, the entrenched problems suggest that the overall situation will not change substantially in the short term. Therefore, I believe the situation in Iraq will not change much.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

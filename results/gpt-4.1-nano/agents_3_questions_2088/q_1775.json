@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way President Dilma Rousseff is handling each of the following areas...Public transportation?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of public transportation because there have been persistent issues such as inadequate infrastructure, frequent delays, and insufficient investment that have negatively impacted commuters and overall mobility. These problems suggest a need for better planning and execution in this sector.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of public transportation because there have been ongoing issues with infrastructure, delays, and inadequate investment, which have negatively impacted commuters' daily lives. Improvements in services and infrastructure are necessary to meet the needs of the population, and current efforts seem insufficient.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the overall management of public transportation under President Dilma Rousseff's administration has faced challenges related to infrastructure, funding, and reform implementation. While some efforts may have been made to improve services, many citizens have expressed dissatisfaction with the progress and quality of transportation options, indicating disapproval of her handling in this area. Therefore, I lean towards disapproval based on the current situation and public sentiment.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of public transportation because the ongoing issues with infrastructure, delays, and insufficient investment continue to negatively affect daily commuters and hinder the development of a reliable transportation system. Despite some efforts, progress remains inadequate to meet the population's needs, leading to public dissatisfaction.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of public transportation. The ongoing issues such as inadequate infrastructure, frequent delays, and lack of sufficient investment have worsened the mobility problems faced by commuters. These persistent challenges reflect insufficient management and hindered progress in improving the transportation system.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff\u2019s handling of public transportation because there have been persistent issues such as inadequate infrastructure, frequent delays, and insufficient investment that have negatively impacted commuters and overall mobility. These problems suggest a need for better planning and execution in this sector.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff\u2019s handling of public transportation due to ongoing issues like inadequate infrastructure, frequent delays, and insufficient investment. These problems have worsened commuter mobility and indicate a failure to improve the system effectively. Such persistent challenges suggest that the management and planning in this sector have not met the necessary standards for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of public transportation because the persistent issues with infrastructure, delays, and inadequate investment continue to negatively impact daily commuters and hinder the development of a reliable transportation system. These ongoing problems indicate that the sector has not met the population's needs and requires better planning and execution.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of public transportation because the persistent issues with infrastructure, delays, and lack of sufficient investment continue to negatively impact daily commuters and hinder the development of a reliable transportation system. Despite some efforts, progress remains inadequate to meet the needs of the population.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

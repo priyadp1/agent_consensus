@@ -1,0 +1,60 @@
+{
+  "question": "In your opinion, has the National Rural Employment Guarantee Act (NREGA) been a good thing for India or a bad thing for India?",
+  "options": [
+    "A good thing for India",
+    "A bad thing for India"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The National Rural Employment Guarantee Act (NREGA) has been a significant step toward rural development in India by providing guaranteed employment to rural households, thereby reducing poverty and promoting social inclusion. It has helped improve rural infrastructure and empowered marginalized communities. However, it has also faced criticism regarding implementation challenges, resource management, and occasional inefficiencies. Overall, its positive impact on livelihoods and rural stability outweighs the drawbacks, making it a beneficial policy for India.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The National Rural Employment Guarantee Act has generally been a positive initiative for India as it aims to provide guaranteed employment to rural households, thereby reducing poverty and improving living standards. It promotes social inclusion, empowers marginalized communities, and enhances rural infrastructure through public works. While there are challenges related to implementation and financial sustainability, the overall impact has been beneficial in addressing rural unemployment and fostering economic development. Therefore, I believe it has been a good thing for India.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The National Rural Employment Guarantee Act (NREGA) has been a significant step towards ensuring employment security and social protection for rural populations in India. It has helped alleviate rural poverty by providing guaranteed work and improved livelihoods for millions of poor rural households. Additionally, it has contributed to rural infrastructure development and increased awareness about rights among marginalized communities. While there have been implementation challenges, the overall benefits in promoting inclusive growth and reducing rural distress suggest that NREGA has had a positive impact on India.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that NREGA has been a good thing for India because it provides crucial social security to rural populations, promotes rural development, and helps reduce poverty. By ensuring guaranteed employment, it empowers marginalized communities and supports economic growth in rural areas, despite some implementation challenges. Overall, its benefits in fostering inclusive development outweigh the drawbacks.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the National Rural Employment Guarantee Act (NREGA) has been a good thing for India because it has provided a safety net for rural workers, helped reduce poverty, and contributed to rural development. Although there are some challenges in implementation, the overall positive impacts on livelihoods, social inclusion, and infrastructure development outweigh the negatives. The act promotes inclusive growth and improves rural stability, which are crucial for the country's overall progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the NREGA has been a positive development for India because it has provided crucial employment opportunities to rural populations, helped reduce poverty, and promoted social inclusion. Despite some implementation challenges, its overall benefits in improving rural livelihoods and infrastructure outweigh the drawbacks. Therefore, I think it has been a good thing for India.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the National Rural Employment Guarantee Act has generally been a beneficial initiative for India. It provides essential employment opportunities to rural populations, helps reduce poverty, and promotes rural development and social inclusion. While there are some challenges in implementation, the overall positive impacts on rural livelihoods, infrastructure, and social stability make it a valuable program for the country's progress. Therefore, I consider it a good thing for India.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the NREGA has been a good thing for India because it provides essential social security to rural communities, helps reduce poverty, and promotes rural development. Its role in creating employment opportunities and supporting inclusive growth outweighs any challenges related to its implementation, making it a positive influence on the country's socio-economic landscape.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that NREGA has been a good thing for India because it provides vital livelihood security to rural populations, helps in reducing poverty, and stimulates rural development. While there are logistical challenges, the overall benefits of promoting social inclusion, reducing inequality, and supporting sustainable livelihoods make it a positive force for inclusive growth. Its contribution to empowering marginalized communities and improving rural infrastructure supports long-term national development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "If there is another major terrorist attack on India by these groups, would you favor or oppose the government taking military action against them in Pakistan?",
+  "options": [
+    "Favor",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If another major terrorist attack occurs in India with links to groups based in Pakistan, I would likely favor the government taking military action. Such a move could be seen as a necessary measure to protect national security and prevent further attacks. While military action can escalate tensions and have broader consequences, the primary concern of safeguarding citizens might justify such a response. However, this approach should be considered carefully, ensuring it is proportionate and part of a comprehensive strategy that includes diplomacy and intelligence efforts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If India faces another major terrorist attack by these groups, I believe that taking military action against them in Pakistan could be justified as a measure to ensure national security and prevent future attacks. The safety of the country's citizens should be a top priority, and decisive action might be necessary to address the continuous threat posed by such groups. However, it is also important to consider the potential escalation of conflict and diplomatic repercussions. Nonetheless, given the severity of repeated terrorist attacks, I would likely favor military intervention to send a strong message and ensure security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would favor military action against the groups in Pakistan if another major terrorist attack occurs in India because such acts threaten national security and stability. Taking decisive action may serve as a strong message to prevent future attacks and protect civilians. However, it is also important to consider diplomatic solutions and regional stability. Overall, in the face of grave threats, supporting military measures seems justified to safeguard the nation's interests.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In considering this question, I believe that in the event of another major terrorist attack on India, taking military action against the perpetrators in Pakistan could be justified to protect national security and prevent further violence. While diplomatic solutions should always be pursued, the severity of repeated attacks may warrant decisive military measures to send a strong message and safeguard citizens. Therefore, I would support military action if necessary.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the serious nature of terrorist threats and the importance of national security, I believe that if such an attack were to happen again, the government should take military action against the groups in Pakistan to protect Indian citizens and ensure regional stability. While diplomatic efforts are crucial and should accompany any military response, the primary responsibility of safeguarding the nation might justify a firm and decisive military approach in this context.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the gravity of another major terrorist attack and the perceived threat from groups based in Pakistan, I believe that taking decisive military action could be justified to protect national security and deter future attacks. While diplomatic and intelligence efforts are crucial, a strong show of response might be necessary to address the ongoing security challenges. Therefore, I would favor such military action under these circumstances.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If there is another major terrorist attack on India by these groups, I would favor military action against them in Pakistan. Such a response may be necessary to address the immediate threat and protect national security, especially if diplomatic efforts have failed to prevent the attack. Ensuring the safety of citizens and maintaining regional stability are priorities that can justify decisive action, though it should ideally be complemented by diplomatic measures. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the serious nature of a major terrorist attack on India and the idea that military action could serve as a necessary and justified response to protect national security and deter future threats, I lean towards supporting decisive military measures if diplomatic efforts are insufficient. While peaceful solutions are desirable, the gravity of such attacks might necessitate strong security responses. Therefore, I would favor such military action under these circumstances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that responding to a major terrorist attack with military action is a complex and sensitive decision. While such measures might be justified to protect national security and prevent further violence, they also carry the risk of escalating conflicts and creating long-term instability. Diplomatic efforts and regional cooperation should be prioritized to address the root causes and prevent future attacks. Therefore, I lean towards opposing military action unless all other avenues have been exhausted and significant evidence supports such an approach.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

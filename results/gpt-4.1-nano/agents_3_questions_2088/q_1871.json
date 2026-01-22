@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. e. National Democratic Party of Germany (NPD)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "The National Democratic Party of Germany (NPD) is known as a far-right, nationalist, and sometimes neo-Nazi party with a controversial reputation. Due to its extremist associations and opposition from many members of the public and political establishment, most people likely view it unfavorably. Without more specific context, the general public opinion in many democratic societies tends toward unfavorable attitudes toward such parties. Therefore, I would choose \"Very unfavorable\" as the most appropriate.\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "The National Democratic Party of Germany (NPD) is widely regarded as a far-right, nationalist, and extremist political party. Given its controversial history and association with xenophobic and racist positions, public opinion toward the NPD tends to be predominantly unfavorable among many individuals, especially in mainstream society. However, some segments may hold a somewhat favorable view due to ideological alignment, but overall, the perception is largely negative. Therefore, I would choose very unfavorable as the most common or representative opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I do not hold a favorable opinion of the National Democratic Party of Germany because it is generally associated with far-right, nationalist, and xenophobic ideologies, which many people find concerning or objectionable. Therefore, I would classify my opinion as very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Considering the characterized reputation of the NPD as a far-right, nationalist, and extremist party with associations that are widely viewed negatively by the public, my opinion aligns with the predominant unfavorable view. Given the descriptions, I do not find the party s views or activities appealing or acceptable, leading me to have a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the party's association with far-right nationalism, extremism, and neo-Nazi ideologies, and the general public perception of such groups as undesirable, I would also select \"Very unfavorable.\" This aligns with the widely held negative views toward the NPD due to its controversial reputation and ideological stance.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Based on the information provided and the general negative perception of the NPD due to its extremist associations and controversial reputation, I believe that most people would view it unfavorably. While some individuals with specific ideological alignments might hold a somewhat favorable view, the mainstream sentiment tends to be very unfavorable given the party\u2019s far-right and neo-Nazi links. Therefore, I would choose \"Very unfavorable\" as the most representative opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the NPD's well-documented association with far-right nationalism, extremism, and neo-Nazi ideologies, as well as the general negative perception of such groups, most individuals likely hold a very unfavorable opinion of the party. While some may have a somewhat favorable view, the dominant public sentiment tends to be very unfavorable due to its controversial and extremist reputation.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the NPD's strong association with extremist ideologies, far-right nationalism, and neo-Nazi links, public perception generally perceives it very negatively. The consensus among respondents and the known reputation of the party suggest that most people view it unfavorably, and this is consistent with my understanding of its standing in public opinion. Therefore, my opinion aligns with a very unfavorable view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the NPD's reputation as a far-right, nationalist, and extremist party with associations that are widely viewed negatively, and considering public perception of such groups as undesirable, I also hold a very unfavorable view of the party. Its ideological stance and controversial activities do not resonate with my values or beliefs, leading me to select the most unfavorable option.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

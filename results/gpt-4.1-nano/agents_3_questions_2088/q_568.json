@@ -1,0 +1,62 @@
+{
+  "question": "Do you personally believe that using contraceptives is morally acceptable, morally unacceptable, or is it not a moral issue? ",
+  "options": [
+    "Morally acceptable",
+    "Morally unacceptable",
+    "Not a moral issue",
+    "Depends on the situation (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that using contraceptives is generally a matter of personal choice and health, which doesn't inherently involve moral judgments. For many, it\u2019s about responsible family planning and respecting individual autonomy, rather than a moral issue in itself. However, cultural or personal beliefs might influence how one perceives it, so it can vary depending on context. Overall, I see it as not a moral issue directly, but recognizing that perspectives differ.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that using contraceptives is generally a morally acceptable choice because it allows individuals to have control over their reproductive health and family planning, which can promote well-being and responsible decision-making. While some may argue that the morality of it depends on cultural or personal beliefs, I think it primarily falls within personal autonomy rather than a moral issue with an absolute stance. Therefore, I see it as an acceptable practice providing it is practiced responsibly and with informed consent.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that using contraceptives is a morally acceptable practice because it allows individuals and couples to exercise control over their reproductive health and plan their families responsibly. Access to contraceptives can help prevent unintended pregnancies and promote overall well-being, which aligns with values of autonomy and responsibility. While some may view it as a moral issue depending on personal, religious, or cultural beliefs, I personally see it as a matter of individual choice and health. Therefore, I consider it morally acceptable.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that using contraceptives is generally a moral choice rooted in personal autonomy and responsibility. It enables individuals and couples to manage reproductive health and family planning in a way that promotes well-being and responsible decision-making. While cultural, religious, or personal beliefs may influence perceptions, I see it primarily as a matter of personal choice rather than a moral issue with an absolute stance. Therefore, I consider it a morally acceptable practice.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that using contraceptives primarily relates to personal health, autonomy, and responsible family planning. It is a practical choice that enables individuals to make informed decisions about their reproductive lives. While some cultural or religious beliefs might frame it as a moral issue, for me, it does not inherently involve morality but rather personal responsibility and health considerations. Therefore, I see it as not a moral issue.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that using contraceptives primarily relates to personal choice and health, which are aspects of individual autonomy. While some cultural or moral perspectives might influence opinions, I see it as a matter that generally does not constitute a moral issue in itself. It is about responsible decision-making and respecting personal rights. Therefore, I think it is best categorized as not a moral issue.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that using contraceptives is primarily a matter of individual choice and health, involving personal autonomy and responsible decision-making. While some may interpret it through moral or cultural lenses, for me, it does not inherently pose a moral question but rather concerns personal responsibility and rights. Therefore, I consider it not a moral issue.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that using contraceptives is primarily a matter of personal choice and health, which relate to individual autonomy. While cultural and religious beliefs may influence opinions, I see it as a responsible decision regarding reproductive health rather than a moral issue in itself. Therefore, I think it is best categorized as not a moral issue.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that using contraceptives is primarily a matter of personal choice, health, and responsibility. While some cultural or religious perspectives might associate it with morality, I see it mostly as a practical and individual decision rather than a clear moral issue. Therefore, it does not seem to be inherently a moral question. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

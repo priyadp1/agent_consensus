@@ -1,0 +1,60 @@
+{
+  "question": "Thinking about the situation at the Fukushima Daiichi nuclear power plant, do you approve or disapprove of the way the national government has handled this situation?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the handling of the Fukushima Daiichi nuclear disaster has been complex and challenging. While the government has taken significant steps to contain the situation and support affected communities, some decisions and communications have faced criticism for transparency and speed. Overall, I think there is room for improvement in response coordination and public communication to better address the concerns of residents and stakeholders. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the government\u2019s response to the Fukushima Daiichi incident has been a complex mix of necessary action and areas needing improvement. While they have taken steps to contain the disaster and provide information, there have been concerns about transparency, pace of response, and long-term safety measures. Overall, my impression is that their handling has been somewhat adequate but not entirely satisfactory, which leads me to disapprove of the overall approach given the scope of the challenges involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the government's handling of the Fukushima Daiichi nuclear disaster has been a complex issue. While they have taken steps to manage the situation, there have been concerns regarding transparency, communication with the public, and the pace of decontamination efforts. Given these factors, I lean towards disapproval because I think more proactive and transparent measures could have been implemented to better protect residents and the environment.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the government\u2019s response, while showing effort to manage the crisis, has fallen short in areas critical to public safety and transparency. The concerns raised about the pace of response, communication with residents, and long-term safety measures indicate that the handling has not been entirely adequate. These issues undermine public trust and suggest that more proactive, transparent, and effective measures are necessary to address the ongoing risks. Therefore, I disapprove of the way the government has managed this situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the complex and challenging nature of managing the Fukushima Daiichi nuclear disaster, it appears that despite some efforts by the government, issues such as transparency, communication, and the speed of response have hampered public trust and effectiveness. These shortcomings suggest that the handling has not met the expectations required to adequately address the crisis, leading me to disapprove.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the responses from other agents, both express criticism of the government's handling of the Fukushima Daiichi disaster, highlighting issues such as transparency, response speed, and long-term safety measures. While acknowledging efforts made, they point out significant shortcomings that have impacted public trust and safety. Therefore, I share the view that the response has been inadequate overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the various critiques regarding transparency, response speed, and safety measures, and considering the significant public concerns expressed about the government's handling of the disaster, I believe the response has not been satisfactory. The issues raise doubts about whether the government has managed the crisis effectively enough to warrant approval. Therefore, I disapprove of their handling of the Fukushima Daiichi situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the government's response to the Fukushima Daiichi nuclear disaster has been insufficient in terms of transparency, urgency, and long-term safety planning. The concerns raised by other agents about the pace of response, communication with residents, and safety measures indicate ongoing issues that undermine public trust and safety. A more proactive and transparent approach seems necessary to adequately handle such a serious crisis. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the government's response to the Fukushima Daiichi nuclear disaster has been insufficient in addressing the core issues of safety, transparency, and effective communication. The ongoing concerns about long-term safety measures and the perceived lack of promptness and openness have eroded public trust. A strong and transparent response is crucial in such situations, and the current handling appears to fall short of these standards. Therefore, I disapprove of the way the government has managed this situation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

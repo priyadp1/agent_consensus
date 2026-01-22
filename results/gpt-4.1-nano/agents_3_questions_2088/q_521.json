@@ -1,0 +1,63 @@
+{
+  "question": "Thinking about some countries around the world...Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of Germany?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Germany. I appreciate its strong economy, technological innovation, and rich cultural history. However, I am aware of some political and economic challenges that the country faces, which prevents me from feeling extremely favorable. Overall, my impression is positive but somewhat cautious.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a generally favorable view of Germany because of its strong economy, rich cultural history, and contributions to science and technology. While I recognize there are areas for improvement, my overall impression remains positive. Therefore, I would select somewhat favorable as my opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Germany because it is known for its strong economy, rich cultural history, and contributions to science and technology. However, I think it is important to recognize that opinions can vary based on different perspectives and experiences. Overall, my view is positive but not extremely enthusiastic.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Germany, appreciating its economic strength, rich cultural history, and scientific contributions. While I acknowledge there are areas for improvement, my overall impression remains favorable. Based on this, I would choose somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Germany because I recognize its significant contributions to the global economy, technology, and culture. While I appreciate these positive aspects, I am also aware of some political and economic challenges the country faces, which makes me feel cautiously positive rather than extremely enthusiastic. Therefore, my opinion aligns most closely with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Germany due to its strong economy, technological leadership, and rich cultural contributions. While I acknowledge some challenges the country faces, my overall opinion remains favorable rather than highly enthusiastic or negative. Therefore, I would select somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Germany, appreciating its significant contributions to the global economy, technology, and culture. While I recognize some political and economic challenges the country faces, my overall opinion remains favorable rather than very favorable or unfavorable. Therefore, I would select somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Germany, appreciating its economic strength, cultural richness, and scientific achievements. While I recognize some areas for improvement, my overall impression remains favorable. Therefore, I would select somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a generally positive view of Germany. I appreciate its economic strength, cultural contributions, and technological advancements, though I am aware of some political and economic challenges it faces. My impression is cautious but still favorable overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

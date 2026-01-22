@@ -1,0 +1,62 @@
+{
+  "question": "Now thinking about Iraq, regardless of what you think about the original decision to use military force in Iraq, do you now believe that efforts to establish a stable democratic government in Iraq will definitely succeed, probably succeed, probably fail, or definitely fail?",
+  "options": [
+    "Definitely succeed",
+    "Probably succeed",
+    "Probably fail",
+    "Definitely fail"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the complex and unstable situation in Iraq, along with ongoing political challenges, security issues, and regional tensions, it seems unlikely that efforts to establish a stable democratic government will definitely succeed. While there are reasons for cautious optimism, the persistent difficulties suggest that success is not assured. Therefore, I believe it is more probable that such efforts will face significant obstacles and possibly fail to fully achieve stability. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My view is that the prospects of establishing a stable democratic government in Iraq are uncertain, given the ongoing challenges such as sectarian divisions, political instability, and security issues. While efforts may continue to make progress, the complex environment makes it more likely that the process will face significant obstacles rather than assured success. Therefore, I believe it probably will fail.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the complex situation in Iraq, including ongoing instability, sectarian tensions, and challenges in establishing effective governance, it seems more likely that efforts to build a stable democratic government will face significant hurdles. While there is some hope for success, the current conditions suggest that achieving long-term stability and democracy is uncertain and potentially unlikely. Therefore, I believe it probably will fail.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the current situation in Iraq, including persistent security challenges, deep-seated sectarian divisions, and political instability, it appears that efforts to establish a stable democratic government face considerable obstacles. While progress may continue, the likelihood of success seems uncertain and potentially low given the environment. Therefore, I believe it probably will fail.  \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing security challenges, deep-seated sectarian divisions, and the fragile nature of Iraq's political institutions, it appears there are considerable obstacles to establishing a stable and functioning democracy. While I am hopeful that progress can be made, the current circumstances suggest that success is uncertain and unlikely to be guaranteed. Therefore, I believe it probably will fail.  \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the ongoing security challenges, deep-seated sectarian divisions, and persistent political instability in Iraq, it appears unlikely that efforts to establish a fully functioning, stable democratic government will definitely succeed. While there is some hope for progress, the significant obstacles make it more plausible that such efforts will face substantial hurdles and may ultimately fall short of full success. Therefore, I believe it probably will fail. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the ongoing security issues, persistent sectarian divisions, and fragile political institutions in Iraq, it seems unlikely that efforts to establish a stable and functioning democracy will definitely succeed. While some progress may occur, substantial obstacles continue to pose significant challenges, making success uncertain. Therefore, I believe it probably will fail.  \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing security issues, deep divisions among different groups, and political instability in Iraq, it seems unlikely that efforts to establish a stable democratic government will definitely succeed. While some progress may occur, the significant obstacles suggest that success is not guaranteed and may ultimately face substantial setbacks. Therefore, I believe it probably will fail.  \nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the ongoing security issues, deep divisions along ethnic and sectarian lines, and political instability, it seems unlikely that efforts to establish a stable democracy in Iraq will definitely succeed. While there is hope and some progress, the significant obstacles suggest that success is not assured, and failure remains quite possible. Therefore, I believe it probably will fail.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "In response to the situation involving Russia and Ukraine, do you support or oppose each of the following actions?...Ukraine becoming a member of the EU (European Union)",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Supporting Ukraine\u2019s accession to the EU can promote stability, democracy, and regional security, which aligns with broader European interests and values. It can also strengthen Ukraine\u2019s sovereignty and aid its development. However, some may oppose it due to concerns about potential upheaval, geopolitical tensions, or resource commitments. Given the importance of promoting democratic processes and regional stability, I lean towards supporting Ukraine\u2019s membership in the EU.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Supporting Ukraine's accession to the EU can be viewed as a way to promote stability, sovereignty, and democratic development in Ukraine, as well as fostering closer ties between Ukraine and Western institutions. It can also serve as a strong signal against aggression and support Ukraine's right to choose its future. Opposing this move might be seen as disregarding Ukraine's sovereignty or as potentially escalating tensions, but generally, supporting Ukraine's EU membership aligns with promoting democratic values and regional stability. Therefore, I support Ukraine becoming a member of the EU.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Supporting Ukraine's accession to the EU can promote stability, democratic development, and closer economic and political ties with Western institutions, which may help deter further aggression and foster peace in the region. It aligns with principles of sovereignty and self-determination. Conversely, opposing this move could be seen as hindering Ukraine's sovereignty and future prospects for integration, potentially escalating tensions. Overall, supporting Ukraine's EU membership is a positive step toward reinforcing stability and democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe supporting Ukraine's membership in the EU aligns with promoting democracy, sovereignty, and regional stability. It can help foster peaceful development and signal support against aggression. Therefore, I support Ukraine becoming a member of the EU.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Supporting Ukraine\u2019s accession to the EU is an important step towards promoting stability, democratic development, and regional security. It can help Ukraine strengthen its sovereignty, align with shared European values, and potentially deter further aggression by integrating more closely with Western institutions. While there are concerns about geopolitical tensions and resource commitments, the overall benefits of supporting Ukraine\u2019s EU membership seem to outweigh the drawbacks for regional peace and democratic progress. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that supporting Ukraine\u2019s accession to the EU is beneficial for promoting stability, democratic development, and regional security. It aligns with European values and helps Ukraine strengthen its sovereignty in the face of ongoing conflicts. Supporting Ukraine's EU membership encourages democratic progress and regional integration, which can contribute to long-term peace and stability in the region. Therefore, I support Ukraine becoming a member of the EU.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support Ukraine becoming a member of the EU because it can promote regional stability, democratic development, and sovereignty for Ukraine. Supporting Ukraine\u2019s EU accession aligns with European values and could contribute to peace and security in the region by fostering greater integration and democratic progress. The benefits of supporting Ukraine\u2019s EU membership seem to outweigh potential drawbacks, especially in the context of current conflicts and tensions. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support Ukraine becoming a member of the EU because it promotes democracy, sovereignty, and regional stability. Supporting Ukraine\u2019s EU accession can help foster peaceful development, reinforce democratic values, and signal international backing against aggression. Integrating Ukraine into the EU aligns with efforts to strengthen the region and promote long-term peace and security. Therefore, I support Ukraine becoming a member of the EU.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support Ukraine becoming a member of the EU because it promotes democratic values, sovereignty, stability, and regional security. Supporting Ukraine\u2019s EU membership can foster peaceful development and signal strong backing against aggression, which aligns with broader efforts to uphold democratic principles and regional stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

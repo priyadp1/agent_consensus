@@ -1,0 +1,62 @@
+{
+  "question": "Do you think the U.S. military presence in the Asia-Pacific region makes your country more safe, less safe, or does it not make a difference?",
+  "options": [
+    "More safe",
+    "Less safe",
+    "Does not make a difference",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region generally enhances regional stability and deters conflicts, which contributes to my country's safety. The strategic alliances and military cooperation help manage security threats and prevent escalation from potential adversaries. While some may argue it could provoke tensions or perceived threats, overall, the positive deterrent effect makes my country feel more secure. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region generally enhances regional stability and acts as a deterrent against potential threats, thereby making my country more safe. The presence of a strong allied force can discourage aggression from adversaries and reassure allies, contributing positively to security. Therefore, I think it makes my country more safe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region generally enhances regional security by deterring potential conflicts and reassuring allied nations. This presence helps to maintain stability and prevents against aggressive actions that could threaten my country, making it feel safer overall.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region enhances regional stability and acts as a deterrent against potential threats. Such a presence reassures our allies and discourages hostile actions, ultimately contributing to the safety of my country. Therefore, I think it makes my country more safe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region helps maintain regional stability and deters potential conflicts, which enhances my country's security. It reassures allies and limits aggressive actions from adversaries, making us feel safer overall. Therefore, I think it makes my country more safe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region generally enhances regional stability and acts as a deterrent against potential threats, which contributes to my country's safety. The strategic alliances and military cooperation help manage security threats and prevent escalations from potential adversaries. While some may argue it could provoke tensions or perceived threats, overall, the positive deterrent effect makes my country feel more secure.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region generally enhances regional stability and acts as a deterrent against potential threats. This strategic positioning reassures allies and helps manage security risks, contributing to my country's safety. While there may be some concerns about tensions, the overall impact seems protective rather than provocative. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The U.S. military presence in the Asia-Pacific region appears to serve as a strategic deterrent that enhances regional stability and provides reassurance to countries like mine. By helping to prevent potential conflicts or threats from escalating, it contributes positively to our safety. While some concerns about provoked tensions exist, the overall influence seems to support increased security. Therefore, I believe it makes my country more safe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. military presence in the Asia-Pacific region contributes to regional stability and acts as a deterrent against potential threats, which ultimately enhances safety for my country. A military presence that reassures allies and discourages hostile actions helps maintain peace and security, making us feel safer. Therefore, I think it makes my country more safe.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

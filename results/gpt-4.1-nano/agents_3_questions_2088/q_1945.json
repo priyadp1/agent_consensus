@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...the United Nations",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the United Nations because I believe it plays an important role in promoting international cooperation and addressing global issues, though I am cautious about its effectiveness and sometimes see room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is an important organization that plays a crucial role in maintaining international peace, promoting human rights, and addressing global challenges such as climate change and health crises. While it has its flaws and the effectiveness of its actions can be debated, overall I view it positively because of its efforts to foster cooperation among nations and improve global stability. Therefore, I would choose a somewhat favorable opinion, as I see both strengths and areas for improvement in the UN\u2019s work.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United Nations plays a crucial role in promoting international cooperation, peace, and humanitarian efforts, which I find very favorable. However, I also recognize criticisms regarding its effectiveness and biases, making my opinion somewhat favorable. I do not feel strongly enough to rate it very favorable, nor do I view it unfavorably to the extent of being very unfavorable. Therefore, I would choose somewhat favorable as it best reflects a balanced but positive view of the organization.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is an important and valuable organization that contributes significantly to global peace, humanitarian aid, and international cooperation. While it has limitations and areas where it can improve, I generally hold a positive view of its efforts and impact. Therefore, I would choose somewhat favorable as it reflects a balanced appreciation of its strengths and shortcomings.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations plays an important role in promoting international cooperation and addressing global issues, which I view positively. While I am aware of its limitations and criticisms, my overall impression is somewhat favorable because I see its efforts as beneficial despite room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the United Nations because I recognize its importance in fostering international cooperation, promoting peace, and addressing global issues. While I am aware of its limitations and criticisms regarding effectiveness and bureaucracy, I believe its overall contributions to global stability and human rights are significant. Therefore, I would choose a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United Nations plays a crucial role in promoting international cooperation, peace, and addressing global challenges. While I acknowledge that it faces criticisms regarding bureaucracy and effectiveness, my overall impression is that of a somewhat favorable opinion because I see its efforts as valuable despite some shortcomings.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations plays a crucial role in promoting international peace, humanitarian efforts, and cooperation among nations. While it has its flaws and faces criticism regarding effectiveness and bureaucracy, its overall contributions to global stability and human rights are significant and valuable. Therefore, I hold a somewhat favorable opinion of the United Nations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is an important organization that makes valuable contributions to global issues such as peacekeeping and humanitarian efforts. While it faces challenges and criticisms, overall I view its efforts positively, recognizing its impact while also acknowledging areas for improvement. Therefore, I would choose somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

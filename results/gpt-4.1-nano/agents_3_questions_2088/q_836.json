@@ -1,0 +1,62 @@
+{
+  "question": "Do you think a lack of job opportunities is a very big problem, a moderately big problem, a small problem or not a problem at all in our country?",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "A lack of job opportunities can significantly impact individuals and the economy, leading to increased unemployment, social issues, and decreased quality of life. If this problem is widespread and persistent, it can hinder overall development and stability within the country. Therefore, it is a very big problem. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "A lack of job opportunities can significantly impact individuals' livelihoods and the overall economy. When many people are unable to find stable employment, it can lead to increased poverty, social instability, and decreased economic growth. Given these considerations, I believe this issue is a very big problem in our country because addressing unemployment is crucial for social and economic wellbeing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The availability of job opportunities is a critical factor for economic stability and individual well-being. If there is a significant lack of jobs, it can lead to increased poverty, social unrest, and decreased overall development. For many countries, especially those facing economic challenges or high unemployment rates, this issue is indeed a very pressing concern. Therefore, I believe that a lack of job opportunities is a very big problem in our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of job opportunities is a very big problem in our country because employment opportunities are essential for individual well-being and the country's economic development. High unemployment can lead to increased poverty, social issues, and hinder progress, making it a critical issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of job opportunities remains a very significant issue in our country because it directly affects economic growth, social stability, and the well-being of individuals. When many people struggle to find work, it leads to increased poverty and social unrest, which can hinder overall development. Addressing employment is essential for building a prosperous and stable society. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of job opportunities is a very big problem because it directly affects individuals' livelihoods, contributes to social instability, increases poverty rates, and hampers national economic growth. When many people are unable to find stable employment, it can lead to long-term economic and social challenges that hinder development and overall wellbeing in the country. Addressing unemployment is essential for ensuring social stability and economic progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of job opportunities is a very significant issue in our country because it impacts many aspects of society, including economic stability, individual well-being, and social cohesion. When people cannot find stable employment, it often leads to increased poverty, social unrest, and overall hindered development. Addressing unemployment is crucial for creating a prosperous and stable society. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of job opportunities is a very big problem in our country because employment is fundamental for individual stability and economic growth. When people cannot find jobs, it leads to increased poverty, social discontent, and hampers overall progress. Ensuring ample employment opportunities is crucial for social harmony and national development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a lack of job opportunities is a very big problem in our country because employment is fundamental to individual financial stability and social cohesion. When many people struggle to find work, it can lead to increased poverty, social issues, and hinder overall economic development. Addressing this challenge is crucial for building a prosperous and stable society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

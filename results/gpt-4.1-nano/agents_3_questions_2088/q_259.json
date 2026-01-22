@@ -1,0 +1,60 @@
+{
+  "question": "Japanese Prime Minister Koizumi has visited and paid tribute at the Yasukuni Shrine every year since taking office. Do you support or oppose PM Koizumi's visit to the Yasukuni Shrine?",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because it is seen by many as a symbol of Japan's wartime aggression and visits by officials can cause tensions with neighboring countries such as China and South Korea. While respecting Japan's cultural and religious practices, I believe that acts which may be perceived as commemorating Japan's wartime past should be approached with sensitivity to regional sentiments and historical context.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because it is a sensitive issue that can cause diplomatic tensions with neighboring countries such as China and South Korea. The shrine is associated with convicted war criminals, and visits by Japanese leaders can be seen as a lack of acknowledgment of past wartime actions, which may hinder efforts toward reconciliation and understanding in the region. Respecting the sentiments of other nations and promoting peaceful diplomatic relations are important, and thus I believe refraining from such visits would be more appropriate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because it is a sensitive issue that can strain relations with neighboring countries like China and Korea, which view the shrine as a symbol of Japan's militaristic past. Visiting it may be seen as a lack of acknowledgment of historical issues and could hinder efforts toward reconciliation and peace. Demonstrating respect for the sentiments of these nations is important for maintaining good diplomatic relations and promoting regional stability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because it is a sensitive issue that can cause diplomatic tensions with neighboring countries such as China and South Korea. The shrine\u2019s association with convicted war criminals and the historical context of Japan\u2019s wartime actions make such visits widely viewed as a lack of acknowledgment of past wrongdoings. These visits can exacerbate regional tensions, hinder reconciliation efforts, and may be perceived as disrespectful to the countries affected by Japan\u2019s wartime history. Promoting peaceful relations and mutual understanding should take precedence over actions that could rekindle historical grievances. Therefore, I believe opposing the visit is the more responsible stance to foster better diplomatic relations and regional stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because it is a highly sensitive issue that can provoke tensions with neighboring countries, particularly China and Korea, which perceive the shrine as a symbol of Japan's past militarism and wartime aggression. Such visits may be interpreted as an endorsement or minimization of Japan's wartime actions, hindering regional reconciliation and diplomatic relations. Respecting the historical sentiments of these nations and promoting peaceful diplomacy are more constructive approaches.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because it is a highly sensitive issue that can exacerbate diplomatic tensions with neighboring countries like China and South Korea. The shrine's association with convicted war criminals and its symbolism of Japan's wartime past make such visits controversial. While respecting Japan's cultural and religious practices, I believe it is important for Japanese leaders to show sensitivity to regional historical sentiments and to prioritize peaceful diplomatic relations and reconciliation efforts.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because such visits are highly sensitive and can provoke diplomatic tensions with neighboring countries like China and South Korea. The shrine's association with convicted war criminals and its symbolic significance related to Japan's wartime history make these visits controversial. Respecting regional sentiments and promoting peaceful historical reconciliation seem more appropriate to foster better diplomatic relationships and mutual understanding.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because such visits are highly sensitive and have the potential to worsen diplomatic relations with neighboring countries like China and South Korea. The shrine's association with convicted war criminals and its symbolism of Japan's wartime actions often evoke painful historical memories. Visiting the shrine can be seen as a lack of acknowledgment of past wrongdoings and may hinder efforts toward regional reconciliation. Promoting respect and understanding among nations should take precedence over actions that might cause diplomatic tensions and reopen historical wounds. Therefore, I believe opposing the visit is the responsible stance to support regional harmony and respectful international relations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose PM Koizumi's visit to the Yasukuni Shrine because it is a highly sensitive issue that can provoke tensions with neighboring countries, particularly China and Korea, which perceive the shrine as a symbol of Japan's past militarism and wartime aggression. Such visits may be interpreted as an endorsement or minimization of Japan's wartime actions, hindering regional reconciliation and diplomatic relations. Respecting the historical sentiments of these nations and promoting peaceful diplomacy are more constructive approaches.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

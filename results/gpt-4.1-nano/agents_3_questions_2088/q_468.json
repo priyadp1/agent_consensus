@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you agree or disagree with the following statement...Men get more opportunities than women for jobs that pay well, even when women are as qualified as men for the job",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that, despite progress toward equality, men often have more opportunities for well-paying jobs even when women are equally qualified. This can be attributed to lingering societal biases, unconscious discrimination, and organizational practices that favor men. While there are efforts to bridge this gap, disparities remain prevalent in many industries. Hence, I lean toward agreement on this statement. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that, despite progress towards gender equality, men still tend to have more opportunities for well-paying jobs even when women are equally qualified. This is often due to lingering biases, workplace dynamics, and historical patterns that favor men in certain industries or leadership roles. While there are policies and efforts to close this gap, disparities in opportunity remain prevalent in many contexts.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that, in many cases, men tend to have more opportunities for well-paying jobs even when they are equally qualified as women. This perception is supported by ongoing issues such as gender bias, discrimination, and workplace culture that often favor men for high-paying roles. Despite increasing awareness and efforts toward gender equality, disparities still exist in many industries, which can limit women's chances despite their qualifications. Therefore, I lean toward agreeing with the statement based on observable societal and workplace patterns.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that, despite progress towards gender equality, men still tend to have more opportunities for well-paying jobs even when women are equally qualified. This is influenced by persistent societal biases, workplace cultures, and historical patterns that favor men in high-paying roles and leadership positions. While efforts are being made to address these disparities, they continue to be a significant issue in many industries. Therefore, I agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that, despite progress toward gender equality, men often have more opportunities for well-paying jobs even when women are equally qualified. Societal biases, unconscious discrimination, and organizational practices continue to favor men in many industries. These persistent disparities suggest that gender does influence access to high-paying opportunities beyond individual qualifications. Therefore, I lean toward agreement with the statement.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I agree that men tend to have more opportunities for high-paying jobs even when women are equally qualified. Despite advancements toward equality, societal biases, unconscious discrimination, and organizational practices often favor men, resulting in persistent disparities. Recognizing these ongoing issues, I lean toward agreement on this statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that, despite ongoing efforts for equality, men still tend to have more access to high-paying job opportunities even when women have the same qualifications. Societal biases and organizational practices continue to favor men in many sectors, which leads me to agree with the statement. Therefore, I lean toward agreement but recognize that progress is being made.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that, despite some progress, men still generally have more opportunities for well-paying jobs than women with equal qualifications. Societal biases, workplace cultures, and historic patterns continue to favor men in high-paying roles, making this a persistent issue. Therefore, I lean towards agreement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that, despite ongoing efforts toward equality, men generally have more opportunities for high-paying jobs than women with the same qualifications. This is supported by societal biases, hiring practices, and workplace cultures that tend to favor men for elite roles, which contributes to persistent disparities in economic opportunities. These systemic issues indicate that gender can continue to influence access to well-paying positions beyond individual merit. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

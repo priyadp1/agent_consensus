@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, please tell me how good a job each has done in responding to the impact of the March 11th earthquake and tsunami...Prime Minister Naoto Kan",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat poor",
+    "Very poor"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Naoto Kan did a commendable job responding to the March 11th earthquake and tsunami, given the unprecedented scale of the disaster and the numerous challenges faced. He demonstrated a strong sense of urgency and leadership in coordinating relief efforts, communicating with the public, and mobilizing resources. Although there were criticisms regarding the pace and organization of some responses, his active engagement and decision-making kept the nation's focus on recovery. Overall, my assessment is that he responded fairly well under difficult circumstances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Prime Minister Naoto Kan faced significant challenges during the aftermath of the March 11th earthquake and tsunami. His government was criticized for initial delays in response coordination and contingency planning, which hindered swift rescue and relief efforts. While he took steps to address the disaster, such as visiting affected areas and implementing policies to stabilize the situation, many felt the response was hampered by organizational issues and a lack of preparedness. Overall, his leadership was seen as somewhat effective but not exemplary, highlighting room for improvement in crisis management and communication.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B, Somewhat good. Prime Minister Naoto Kan faced significant challenges in managing the response to the March 11th earthquake and tsunami, including coordinating rescue efforts and addressing nuclear crises like the Fukushima Daiichi meltdown. While he took active steps and made efforts to stabilize the situation, many critics and citizens felt there were delays and shortcomings in decision-making and communication. Overall, his response could be seen as somewhat effective but also flawed in execution. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the critiques and the overall assessment of Prime Minister Naoto Kan's response, it appears that his government faced significant challenges, delays, and organizational issues in effectively managing the crisis, particularly in terms of coordination and communication. While efforts were made, the response was viewed as lacking in rapidity and efficiency, reflecting a somewhat inadequate handling of the disaster and its aftermath.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Naoto Kan's response was somewhat effective given the enormity of the disaster. He showed leadership by actively engaging in relief coordination and decision-making during a chaotic and unprecedented crisis. Although there were criticisms regarding delays and communication issues, his efforts to focus the nation's attention on recovery and manage the nuclear incident demonstrated a notable level of commitment. Considering the difficult circumstances and the complexities involved, I would rate his response as somewhat good. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the mixed assessments, I believe Prime Minister Naoto Kan's response was somewhat effective given the circumstances. While he showed leadership and actively engaged in relief efforts, there were notable criticisms regarding initial delays and organizational shortcomings. These factors suggest a response that was not optimal but demonstrated some effort and leadership amid a highly challenging situation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my view, Prime Minister Naoto Kan's response to the earthquake and tsunami was somewhat effective given the scale and complexity of the disaster. He demonstrated leadership by coordinating relief efforts and addressing critical issues such as the nuclear crisis. While there were some delays and criticisms regarding communication and initial response, overall, his efforts showed commitment to recovery during an unprecedented crisis. Therefore, I believe his response was somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the overall evaluations, Prime Minister Naoto Kan faced considerable criticism for initial delays and organizational issues but also showed some leadership and effort in managing the crisis. The mixed nature of the responses suggests that while his response was not optimal, it had some positive aspects given the challenging circumstances. Therefore, I think his response was somewhat effective, but with room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the mixed evaluations, it seems that Prime Minister Naoto Kan faced significant challenges in responding effectively to the earthquake and tsunami. While he made efforts to lead relief and manage the nuclear crisis, reports indicate delays, coordination issues, and organizational shortcomings, which hindered a more efficient response. Given these factors, I think his response was somewhat lacking in effectiveness but showed some commitment to managing the crisis.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

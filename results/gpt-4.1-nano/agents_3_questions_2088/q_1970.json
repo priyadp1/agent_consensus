@@ -1,0 +1,60 @@
+{
+  "question": "Do you think there is a struggle in our country between groups who want to modernize the country and Islamic fundamentalists or don't you think so?",
+  "options": [
+    "Yes, there is a struggle",
+    "No, there is not a struggle"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe there is a struggle in our country between groups aiming to modernize and those holding onto Islamic fundamentalist views. This is evident in ongoing debates about secularism, governance, and cultural norms, which often reveal conflicting interests and visions for the nation's future. Such tensions suggest an ongoing conflict between progressive forces seeking change and conservative groups advocating for traditional Islamic values.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "There appears to be an ongoing tension in many countries where segments of society push for modernization, including progressive reforms, technological advancement, and social change, while others advocate for traditional or religious values rooted in fundamentalism. This often leads to visible conflicts in politics, media, and community life, suggesting that such a struggle does indeed exist in our country. The presence of debates over secular laws versus religiously influenced legislation and the differing visions for society indicate this ongoing conflict.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that there is indeed a struggle in our country between those who want to modernize and those who advocate for Islamic fundamentalism. This dynamic is reflected in ongoing debates over secularism, education reforms, legal systems, and cultural norms. The tension arises from differing visions of the country's future\u2014one that embraces progressive change and another that seeks to preserve traditional religious values. Such conflicts are common in societies undergoing social and political transformation, highlighting the importance of navigating these differences peacefully and thoughtfully.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that there is indeed a struggle in our country between those who want to modernize and those who advocate for Islamic fundamentalism. This perception is based on the ongoing debates over secular laws, education, cultural norms, and legal systems, which reflect differing visions for the country's future. Such conflicts are often present in societies facing social and political change, indicating a contest between modernization efforts and traditionalist or religiously conservative forces.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe there is indeed a struggle in our country between groups aiming to modernize and those advocating for Islamic fundamentalist views. The ongoing debates and conflicts surrounding secularism, education, legal reforms, and cultural norms demonstrate that there are conflicting visions for the nation's future\u2014one that embraces progress and change, and another that seeks to uphold traditional religious values. Such tensions are typical in societies experiencing social and political transformation, indicating that this struggle is a significant aspect of our current environment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe there is a struggle in our country between groups seeking to modernize and those advocating for Islamic fundamentalist values. The ongoing debates over secularism, legislation, and societal norms reflect conflicting visions for the country's future. Such disputes suggest that this tension is a real and active part of our national landscape.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe there is indeed a struggle in our country between groups seeking to modernize and those advocating for Islamic fundamentalist values. The ongoing debates over secularism, legal reforms, and cultural norms highlight the presence of conflicting visions for the nation's future. These tensions reflect the broader social and political challenges faced during periods of transformation, indicating that this struggle is a significant aspect of our current environment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe there is a struggle in our country between groups who want to modernize and those advocating for Islamic fundamentalist values. The ongoing debates over secular laws, education, cultural norms, and legal systems suggest a clear conflict of visions for the country's future. This indicates that the tension is real and actively present in our society, reflecting broader social and political dynamics that involve modernization efforts competing with traditionalist and religiously conservative forces.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe there is a significant ongoing struggle in our country between groups seeking to modernize and those advocating for Islamic fundamentalist views. This is evident in the debates over secular laws, education policies, cultural standards, and legal reforms. These conflicts reflect underlying tensions between progress-oriented forces and traditional or religiously conservative ones, indicating that this struggle is a notable feature of our current societal landscape.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

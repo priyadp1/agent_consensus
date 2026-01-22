@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me how important each of the following is in a democracy to you...Women have the same rights as men?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that women having the same rights as men is fundamental to ensuring equality and fairness in a democracy. It promotes social cohesion, respects human rights, and allows everyone to contribute fully to society regardless of gender. Recognizing and upholding equal rights for women is essential for a truly democratic and just society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that equality between women and men is fundamental for a fair and just society. Women having the same rights as men ensures equal opportunities, respect, and social progress. It promotes social cohesion and reflects the principle of fairness that is essential in a democracy. Without equal rights, a democracy cannot truly be representative or inclusive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that equal rights for women and men are fundamental to a fair and just society. Ensuring gender equality promotes social cohesion, economic development, and respect for human dignity. Therefore, I consider it very important in a democracy, as it reflects the core values of fairness and equality that underpin democratic governance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that women having the same rights as men is very important in a democracy because equality and fairness are fundamental principles that ensure all citizens are treated with respect and dignity. Gender equality promotes social cohesion, enhances social justice, and allows for more representative decision-making, reflecting the true democratic ethos of inclusion. Therefore, I consider it very important.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that women having the same rights as men is fundamental to ensuring equality and fairness in a democracy. It promotes social cohesion, respects human rights, and allows everyone to contribute fully to society regardless of gender. Recognizing and upholding equal rights for women is essential for a truly democratic and just society. Therefore, I consider it very important in a democracy.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that women having the same rights as men is fundamental to upholding equality, fairness, and social cohesion in a democracy. Ensuring gender equality allows all individuals to contribute equally, fostering inclusivity and respect for human rights. Without it, the principles of democracy are undermined. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that equal rights for women and men are essential for a truly democratic society because they ensure fairness, social cohesion, and human rights for everyone. Without gender equality, the fundamental principles of democracy are compromised, limiting full participation and respect for all individuals. Therefore, I consider it very important in a democracy.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that women having the same rights as men is very important in a democracy because equality and fairness are essential for social justice and inclusive governance. Ensuring gender equality helps create a society where all individuals are treated with respect and dignity, and it strengthens the democratic principles of participation and representation. Without it, the core values of democracy are compromised. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that women having the same rights as men is very important in a democracy because equality and fairness are fundamental principles that ensure all citizens are treated with respect and dignity. Gender equality promotes social cohesion, enhances social justice, and allows for more representative decision-making, reflecting the true democratic ethos of inclusion. Therefore, I consider it very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

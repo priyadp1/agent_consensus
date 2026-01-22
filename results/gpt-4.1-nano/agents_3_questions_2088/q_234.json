@@ -1,0 +1,60 @@
+{
+  "question": "Do you use a computer at your workplace, at school, at home, or anywhere else on at least an occasional basis?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I frequently use a computer for work, communication, and personal tasks, which makes it an integral part of my daily routine. This consistent usage is true across multiple environments, including my workplace, home, and occasionally at school or other locations where I need to access digital resources. Therefore, I do use a computer on at least an occasional basis.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I frequently use a computer at my workplace, as it is essential for tasks such as communication, data processing, and research. My usage also extends occasionally to my home for personal projects and staying connected. Due to the integral role computers play in both professional and personal contexts, my use is consistent and on at least an occasional basis.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I use a computer regularly at my workplace and at home for a variety of tasks including communication, research, and entertainment. Given this frequent usage, I certainly use a computer at least on an occasional basis in these environments. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I use a computer on a regular basis at my workplace, at home, and occasionally in other settings such as public places or for personal errands. Since I do use a computer in at least one of these environments on an occasional basis, I meet the criteria for frequent or occasional use. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I use a computer at my workplace, at home, and occasionally at school or other locations for various tasks such as work, communication, and personal activities. Since I do use a computer at least on an occasional basis in these environments, I choose option A.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Yes, I use a computer at my workplace, home, and sometimes elsewhere for various tasks such as work, communication, or personal activities. My usage is on at least an occasional basis, similar to the other respondents. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I use a computer at home, occasionally for personal tasks and communication. Since I also use it at least on some occasions, I meet the criteria of at least an occasional user. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I frequently use a computer across different environments including work, home, and possibly other places like public spaces or for personal tasks. Since I meet the criterion of using a computer on at least an occasional basis in at least one setting, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I use a computer at my workplace, at home, and occasionally at other locations such as a library or a friend's place for various tasks. Since I do use a computer at least on an occasional basis somewhere, I meet the criteria for this question. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

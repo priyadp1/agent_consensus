@@ -1,0 +1,60 @@
+{
+  "question": "Now I will read a list of some things that have happened in the world recently. For each one,please tell me if you've heard of it or not...the debate over an Arab-owned company possibly running U.S. ports. Have you heard of it or not?",
+  "options": [
+    "Yes, have heard of it",
+    "No, have not heard of it"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of the debate over an Arab-owned company possibly running U.S. ports. This was a significant news story that garnered considerable attention when it was publicly discussed, especially around the mid-2000s, involving concerns about national security and foreign investment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of the debate over an Arab-owned company possibly managing U.S. ports. This was a significant news topic in the mid-2000s when there was controversy regarding the Dubai Ports World company and its involvement in port operations in the United States. The issue received widespread media coverage and public discussion about security and foreign ownership of critical infrastructure.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of the debate over an Arab-owned company possibly running U.S. ports. This controversy received significant media attention and was widely discussed in public and political circles, especially around the early 2000s when issues related to national security and foreign ownership of critical infrastructure were prominent.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of the debate over an Arab-owned company possibly managing U.S. ports because it was a major news story in the mid-2000s, drawing widespread media coverage and public concern about security and foreign ownership of infrastructure.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of the debate over an Arab-owned company possibly running U.S. ports. This topic received extensive media coverage in the early 2000s, particularly due to concerns about national security and foreign control over critical infrastructure. Given the significant attention it garnered at that time, I am familiar with it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of the debate over whether an Arab-owned company might operate U.S. ports. This topic gained significant media coverage and public attention in the mid-2000s, primarily due to concerns about national security, foreign investment, and the involvement of Dubai Ports World. Given this context, my familiarity aligns with having heard of this issue.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I recognize that the debate over an Arab-owned company possibly running U.S. ports was a notable issue in the early to mid-2000s, receiving widespread media coverage and public discourse related to concerns about security and foreign investment. Given my familiarity with its prominence during that period, I have heard of it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of the debate over whether an Arab-owned company might operate U.S. ports because it was a prominent subject in the mid-2000s that received extensive media coverage, raising concerns about national security and foreign ownership. My familiarity with the issue suggests I am aware of it from that period's news discussions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I recall this was a significant news topic in the past, especially in the mid-2000s, due to concerns about foreign ownership and national security related to U.S. port management. The media coverage was extensive at that time, so I am aware of the debate.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

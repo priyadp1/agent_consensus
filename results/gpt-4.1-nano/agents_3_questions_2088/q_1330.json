@@ -1,0 +1,63 @@
+{
+  "question": "I am going to list some different political and social actions that people can take. Have you done this ...  b. participated in an organized protest of any kind",
+  "options": [
+    "Have done in the past year",
+    "Have done in the more distant past",
+    "Have not done, but might do",
+    "Have not done and would never do",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have participated in organized protests more than a year ago but not within the past year, so I choose option B. This indicates my past engagement shows some commitment, but I am not currently active in protests, which aligns with my situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have participated in organized protests before, but not within the past year. I believe such activities are important for expressing opinions and advocating for change, but I tend to participate occasionally rather than regularly. Therefore, I would select the option indicating I participated in an organized protest in the more distant past.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest before, but I might consider doing so in the future if I feel strongly about an issue. I believe protests can be a powerful way to show support or opposition and raise awareness. Therefore, I choose option C.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest before, but I might consider doing so if an issue I care about motivates me. I see protests as an effective way to voice concerns and engage with social or political matters, and I remain open to participating in the future.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest before, but I might consider doing so in the future if I feel strongly about an issue. I believe protests can be a meaningful way to express opinions and cause change, but I haven't taken part yet. Therefore, I choose option C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not participated in an organized protest within the past year, but I have done so in the more distant past. My engagement in protests was a significant activity previously, but I am not currently involved. I might consider participating again in the future, but I am not actively involved now. Therefore, my choice best fits the description of having participated in an organized protest more than a year ago.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have not participated in an organized protest of any kind and do not currently plan to do so in the future. I have never been involved in such actions and do not see myself engaging in them. Therefore, my choice best fits the description of having not done and would never do. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest within the past year, nor in the more distant past. I have not engaged in protests before, but I might consider doing so in the future if an issue strongly motivates me. Since I have never participated but might in the future, option C best reflects my situation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have not participated in an organized protest before, but I might consider doing so if I feel strongly about an issue. I see protests as an effective way to voice concerns and engage with social or political matters, and I remain open to participating in the future.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

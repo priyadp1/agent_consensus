@@ -1,0 +1,61 @@
+{
+  "question": "Has each of the following gotten better or worse over the last five years in our country: the affordability of health care.",
+  "options": [
+    "Better",
+    "Worse",
+    "Has not changed"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the affordability of health care in our country has generally worsened for many individuals. Rising costs of insurance premiums, high out-of-pocket expenses, and increasing prices for medical treatments and prescription drugs have made it more difficult for people to access affordable care. Despite some efforts to improve healthcare coverage or reduce costs, these measures have not been sufficient to offset the overall trend of increasing healthcare expenses. Consequently, many Americans find health care less affordable now than they did five years ago.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the affordability of health care in our country has generally worsened for many individuals. While there have been efforts to expand coverage and control costs, rising premiums, deductibles, and out-of-pocket expenses have made it more difficult for average families to afford necessary medical care. Additionally, in some regions, limited access to affordable providers and high prescription drug costs have further impacted affordability negatively. Therefore, it seems that, on the whole, the situation has deteriorated rather than improved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the affordability of health care in our country has generally worsened for many individuals. Despite some improvements in certain areas, rising medical costs, insurance premiums, and out-of-pocket expenses have made health care less accessible and more financially burdensome for a significant portion of the population. While there have been efforts to expand coverage or reduce costs in specific sectors, the overall trend indicates a decline in affordability for most people. Therefore, it can be said that the situation has gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the responses from other individuals, the consensus is that the affordability of health care has generally worsened over the last five years. Both agents highlight rising costs, premiums, and out-of-pocket expenses as key factors contributing to a decline in affordability. Given this shared perspective and the evidence pointing toward a negative trend, I also believe that the situation has gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the general consensus and available information suggest that health care has become less affordable for many individuals. Rising costs of insurance, medical treatments, and prescription drugs have contributed to increased financial burdens, making access more difficult for a significant portion of the population. Despite some efforts for improvement, the overall trend indicates a decline in affordability. Therefore, I believe the correct assessment is that health care has gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, there have been persistent challenges related to the rising costs of health care, including higher premiums, deductibles, and medication expenses. Despite some policy efforts, these costs continue to strain many individuals and families, making access to affordable health care more difficult. Based on this information, it appears that the affordability has generally worsened.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the last five years, evidence from various sources indicates that the cost of health care has increased significantly, making it less accessible for many people. Rising insurance premiums, higher deductibles, increased medication prices, and ongoing challenges in affordability point to a worsening situation overall, despite policy efforts. Based on this, I believe health care has gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the last five years, reports and data have indicated a trend of increasing health care costs, including higher premiums, deductibles, and medication expenses, which have made accessing affordable health care more difficult for many. While some policy changes have aimed to address these issues, they have not substantially reversed the rising cost trend. Based on this information, I believe the affordability of health care has gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the general trend has been an increase in health care costs, including higher premiums, deductibles, and out-of-pocket expenses for many people. Despite efforts to improve the system, affordability remains a significant concern for a large portion of the population, and data indicates that access to affordable health care has decreased overall. Based on this understanding, I believe the affordability of health care has worsened.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

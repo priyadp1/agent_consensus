@@ -1,0 +1,61 @@
+{
+  "question": "Thinking about immigration, would you support or oppose your country ____? c. encouraging highly skilled people to immigrate and work in your country",
+  "options": [
+    "Support",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support encouraging highly skilled people to immigrate and work in my country because attracting talent can boost innovation, economic growth, and competitiveness in the global market. Skilled immigrants often fill labor shortages, contribute new ideas, and help develop various sectors, which benefits society as a whole. Therefore, I am in favor of this policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Supporting highly skilled immigration can be beneficial for the country's economic growth, innovation, and competitiveness. By attracting talented individuals, the country can foster development and fill skill gaps in various industries. While some people may have concerns about integration or resource allocation, the overall positive impact of such policies often outweighs the negatives. Therefore, I would support encouraging highly skilled people to immigrate and work in my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Encouraging highly skilled people to immigrate and work in the country can be highly beneficial for economic growth, innovation, and global competitiveness. Supporting such policies is generally aligned with attracting talent that can contribute positively to various sectors and boost the country's development. Therefore, I would support this initiative.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support encouraging highly skilled people to immigrate and work in my country because attracting talented individuals can significantly contribute to economic growth, innovation, and global competitiveness. These immigrants often fill critical skill gaps, bring new ideas, and help foster development across various sectors, which ultimately benefits the country's overall progress. While considerations around integration and resource allocation exist, the potential positive impacts generally outweigh potential challenges. Therefore, supporting policies that encourage highly skilled immigration seems beneficial and forward-looking.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support encouraging highly skilled people to immigrate and work in my country because attracting talented individuals can significantly enhance innovation, economic growth, and global competitiveness. Skilled immigrants often fill key labor shortages and bring fresh ideas that benefit various sectors, thereby contributing to the overall development of the country. This policy not only benefits the economy but also fosters a diverse and dynamic workforce, which can lead to long-term societal benefits.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support encouraging highly skilled people to immigrate and work in my country because attracting talent can significantly contribute to economic growth, innovation, and global competitiveness. Skilled immigrants often fill critical labor shortages, bring new ideas, and help develop various sectors, which ultimately benefits society as a whole. While there may be concerns about integration or resource allocation, the overall positive impact of such policies makes support the most reasonable stance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support encouraging highly skilled people to immigrate and work in my country because attracting talented individuals can boost innovation, economic growth, and competitiveness on a global scale. Skilled immigrants often address labor shortages, introduce new ideas, and contribute positively to various sectors. Their presence can enhance the diversity and dynamism of the workforce, leading to long-term benefits for society. Therefore, I believe such policies are beneficial and should be supported.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support encouraging highly skilled people to immigrate and work in my country because attracting talented individuals can boost economic growth, foster innovation, and improve competitiveness on the global stage. Highly skilled immigrants often fill essential gaps in the workforce, contribute new ideas, and help develop key sectors, which benefits society as a whole. While there are valid concerns about integration and resources, the overall positive impact warrants support for such policies.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support encouraging highly skilled people to immigrate and work in my country because attracting talented individuals can significantly enhance innovation, economic growth, and global competitiveness. Skilled immigrants often fill key labor shortages and bring fresh ideas that benefit various sectors, thereby contributing to the overall development of the country. This policy not only benefits the economy but also fosters a diverse and dynamic workforce, which can lead to long-term societal benefits.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

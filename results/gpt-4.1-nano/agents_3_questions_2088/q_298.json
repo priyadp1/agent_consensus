@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \nd. promoting a clean environment",
+  "options": [
+    "Top priority",
+    "Important but lower priority",
+    "Not too important",
+    "Should not work on this issue",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Promoting a clean environment is crucial for the health and well-being of citizens, future generations, and the sustainability of the planet. As environmental issues often intersect with social justice, economic stability, and public health, I believe that human rights organizations should prioritize this work highly. Addressing environmental degradation can serve as a foundation for broader human rights protections, making it a top priority.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because a healthy environment is essential for the well-being and survival of all people. It directly affects access to clean air, water, and safe living conditions, which are fundamental human rights. Additionally, environmental issues often disproportionately affect vulnerable and marginalized communities, so addressing them aligns with broader human rights goals of fairness and justice. Therefore, prioritizing environmental protection helps to ensure a healthier and more equitable society for everyone.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because environmental issues directly affect people's health, safety, and well-being. A healthy environment is fundamental for the realization of many other rights, including access to clean water and safe living conditions. Addressing environmental concerns aligns with the broader goal of ensuring dignified and sustainable living conditions for all members of society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because a healthy environment is essential for the well-being and survival of all people. It directly affects access to clean air, water, and safe living conditions, which are fundamental human rights. Additionally, environmental issues often disproportionately affect vulnerable and marginalized communities, so addressing them aligns with broader human rights goals of fairness and justice. Therefore, prioritizing environmental protection helps to ensure a healthier and more equitable society for everyone.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because environmental health is essential for overall well-being, influences the realization of other human rights, and ensures sustainable development for future generations. Addressing environmental issues can help prevent health problems, promote safety, and support social justice initiatives, making it a critical area for human rights work.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because a healthy environment is essential for the well-being and survival of all people. It directly affects access to clean air, water, and safe living conditions, which are fundamental human rights. Additionally, environmental issues often disproportionately affect vulnerable and marginalized communities, so addressing them aligns with broader human rights goals of fairness and justice. Therefore, prioritizing environmental protection helps to ensure a healthier and more equitable society for everyone.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because environmental health directly impacts fundamental human rights such as access to safe water and air, and it disproportionately affects vulnerable communities. Addressing environmental issues is crucial for ensuring social justice, health, and sustainable development for all people. Therefore, I think it should be a top priority.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because a healthy environment is essential for the well-being and survival of all people. It directly affects access to clean air, water, and safe living conditions, which are fundamental human rights. Additionally, environmental issues often disproportionately affect vulnerable and marginalized communities, so addressing them aligns with broader human rights goals of fairness and justice. Therefore, prioritizing environmental protection helps to ensure a healthier and more equitable society for everyone.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting a clean environment should be a top priority for human rights organizations because a healthy environment is fundamental to ensuring access to clean air, water, and safe living conditions. These are essential human rights, and addressing environmental issues often helps protect vulnerable communities who are disproportionately affected. By prioritizing environmental protection, human rights organizations can promote health, safety, and social justice for all, as environmental sustainability is closely linked to the broader goal of human rights.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

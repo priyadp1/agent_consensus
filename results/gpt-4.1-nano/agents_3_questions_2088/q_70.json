@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. a. People's Party for Freedom and Democracy (VVD)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the People's Party for Freedom and Democracy (VVD). I believe they generally promote policies that align with my views on economic freedom and individual rights, though I may have some reservations about their approach to certain social issues. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of People's Party for Freedom and Democracy (VVD) because I recognize it as a prominent political party that advocates for liberal economic policies and personal freedoms. While I appreciate some of their positions, I am cautious about certain aspects of their policy approach, which leads me to feel somewhat favorable overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of People's Party for Freedom and Democracy (VVD) because I generally agree with their policies on economic growth and individual freedoms, but I am aware of some criticisms regarding their stance on social issues. Therefore, I would select a moderate positive view rather than a very favorable or unfavorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the People's Party for Freedom and Democracy (VVD). I appreciate their focus on economic liberalization and personal freedoms, which aligns with my views. However, I have some reservations about their approach to certain social issues, so I do not feel strongly enough to select very favorable. Therefore, I would choose a moderate positive stance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the People's Party for Freedom and Democracy (VVD) because I appreciate their focus on economic liberalization and individual rights, which align with my values. However, I have some reservations about their policies on social issues, so I do not see them as very favorable. Therefore, I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the People's Party for Freedom and Democracy (VVD). I appreciate their promotion of economic liberalism and individual rights, which aligns with my values. However, I recognize there are some reservations I have regarding their social policies and approach to certain issues, which tempers my enthusiasm.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the VVD because I appreciate their focus on economic liberalization and individual rights, which align with my values. However, I have reservations regarding some of their social policies and approaches on certain issues, which prevents me from feeling very favorable. Therefore, I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the People's Party for Freedom and Democracy (VVD). I appreciate their focus on economic liberalization and personal freedoms, which align with my views. However, I also have some reservations about their social policies and approach to certain issues, which makes my stance moderate rather than strongly positive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the People's Party for Freedom and Democracy (VVD). I appreciate their focus on economic liberalization and individual freedoms, which align with my values. While I recognize some reservations regarding their social policies, I do not feel strongly enough to choose very favorable or unfavorable. Therefore, I select option B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

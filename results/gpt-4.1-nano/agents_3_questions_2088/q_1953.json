@@ -1,0 +1,60 @@
+{
+  "question": "Some people believe Islam should tolerate diverse interpretations of its teachings.  Others believe there is only one true interpretation of the teachings of Islam.  Which of these two points of view is closer to your own?",
+  "options": [
+    "Islam should tolerate diverse interpretations of teachings",
+    "There is only one true interpretation of Islam teachings"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that tolerance for diverse interpretations within Islam is important because it allows for a more inclusive and understanding community. Different cultural, historical, and personal contexts can lead to valid variations in how teachings are understood and practiced. Embracing this diversity can foster greater dialogue, reduce conflicts, and promote peaceful coexistence. While foundational principles are essential, flexibility in interpretation helps accommodate the complexities of contemporary life and different perspectives.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that tolerance and understanding among different interpretations foster a more peaceful and inclusive community. Recognizing that Islam, like many other faiths, has a variety of perspectives helps promote dialogue and respect among followers. While some may feel more comfortable with a singular interpretation, embracing diverse views can strengthen the faith's ability to adapt and resonate with different individuals in a changing world. Therefore, my view aligns more closely with the idea that Islam should tolerate diverse interpretations of its teachings.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that tolerance and understanding are crucial in fostering harmony within diverse communities. Allowing for multiple interpretations of Islamic teachings can promote dialogue and inclusivity, respecting the various cultural and personal contexts in which people practice their faith. While I recognize the importance of core principles, I favor a flexible approach that accommodates different perspectives rather than insisting on a single interpretation. This approach encourages mutual respect and helps prevent division and conflict within the Muslim community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing for diverse interpretations of Islamic teachings fosters a more inclusive, respectful, and adaptable faith community. This approach encourages dialogue among followers, respects cultural and individual differences, and helps prevent unnecessary divisions. Embracing multiple perspectives does not undermine core principles but rather enriches understanding and cohesion within the Muslim community.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing for diverse interpretations of Islamic teachings fosters inclusivity, understanding, and peace within the community. Recognizing that different cultural, historical, and personal contexts can lead to valid variations in how teachings are understood encourages dialogue and respect among believers. This flexibility helps address the complexities of modern life and prevents unnecessary division. Embracing multiple perspectives promotes harmony and reflects the evolving nature of faith in diverse societies.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Islam should tolerate diverse interpretations of its teachings because this approach encourages inclusivity and understanding among followers. It acknowledges that cultural, historical, and personal differences can lead to valid and meaningful variations in how the faith is practiced and understood. Embracing this diversity helps foster respectful dialogue and can adapt to the changing contexts of the modern world, promoting harmony rather than division.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Islam should tolerate diverse interpretations of its teachings because allowing for multiple perspectives fosters greater inclusivity, mutual understanding, and respect among followers. Recognizing that cultural, historical, and personal contexts influence how teachings are understood can promote dialogue and harmony, helping to adapt the faith to modern societal complexities and prevent unnecessary divisions. Embracing diversity in interpretation aligns with the principles of compassion and coexistence.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Islam should tolerate diverse interpretations of its teachings because this promotes inclusivity, respect, and adaptability within the Muslim community. Allowing for different perspectives encourages open dialogue, recognizes cultural and individual differences, and helps prevent divisions, fostering a more harmonious and understanding faith environment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Islam should tolerate diverse interpretations of its teachings because this approach fosters inclusivity, dialogue, and respect among believers from different backgrounds. It allows for a dynamic, adaptable faith that can address the complexities of modern life while maintaining core principles. Embracing multiple perspectives helps strengthen community cohesion and reflects the evolving nature of faith within diverse societies.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

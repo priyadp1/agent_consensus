@@ -1,0 +1,62 @@
+{
+  "question": "I'm going to read a list of some countries where people might go on vacation. Would you be very interested, somewhat interested, or not at all interested in going to...China? ",
+  "options": [
+    "Very interested",
+    "Somewhat interested",
+    "Not at all interested",
+    "Already went to this country (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat interested in going to China because it has a rich cultural history, diverse landscapes, and many famous landmarks like the Great Wall. However, I might consider other destinations first or need more information before making a final decision. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I find the idea of visiting China intriguing because of its rich history, diverse culture, and prominent landmarks like the Great Wall and the Terracotta Warriors. I am interested in exploring the unique traditions, cuisine, and modern cities such as Beijing and Shanghai. However, I haven't traveled there yet, so I would consider myself somewhat interested rather than very interested. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat interested in going to China because I find its rich history, diverse culture, and famous landmarks like the Great Wall fascinating. However, I have not yet traveled there, and some concerns about language barriers and travel restrictions make me hesitant to choose very interested. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I find China's history, culture, and landmarks very intriguing, but I haven't traveled there yet and feel some hesitation due to potential language barriers and travel restrictions. Therefore, I am somewhat interested. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat interested in going to China because I appreciate its rich cultural heritage and iconic landmarks like the Great Wall. While I find the country very appealing, I would like to learn more about practical travel considerations and safety before expressing strong enthusiasm. Therefore, I am moderately interested but not at the highest level of interest.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I find the idea of visiting China appealing due to its rich history, cultural diversity, and well-known landmarks. While I am interested in experiencing its unique traditions and modern cities, I have not traveled there yet. Therefore, I would categorize my interest as somewhat interested. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat interested in visiting China because I value its remarkable history, diverse culture, and major landmarks like the Great Wall. While I find the country intriguing and appealing, I haven't traveled there yet and would like to know more about practical travel aspects and safety considerations before positioning my interest as very high. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a genuine interest in China's rich historical and cultural attractions, and I am intrigued by its diverse cities and traditions. However, I haven't traveled there yet and might feel some hesitation regarding travel logistics. Based on the options, I feel somewhat interested in visiting China. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I find China's rich history, cultural landmarks, and scenic landscapes very intriguing, and I am genuinely interested in experiencing its unique cultural heritage. While I may have some reservations about travel logistics and safety, these do not significantly diminish my overall interest. Therefore, I am somewhat interested.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

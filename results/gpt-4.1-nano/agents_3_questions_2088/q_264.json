@@ -1,0 +1,61 @@
+{
+  "question": "Does our government cooperate too much, not enough, or about the right amount with the United States government?",
+  "options": [
+    "Too much",
+    "Not enough",
+    "About right"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe our government cooperates about the right amount with the United States government. This balance allows us to engage in effective diplomacy and economic relations without overly relying on or distancing ourselves from U.S. influence. Adequate cooperation fosters mutual benefits while maintaining our sovereignty and national interests.\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the level of cooperation varies depending on the context and current issues. In some cases, more collaboration with the United States is beneficial to address international challenges, while in others, maintaining independence is preferable. On balance, I think the government is striking an appropriate balance, working closely when it benefits national interests but also standing independently when necessary.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe our government cooperates about the right amount with the United States government. This level of cooperation allows us to work collaboratively on shared interests and address challenges effectively without risking too much dependence or losing sovereignty. Maintaining a balanced relationship helps ensure mutual respect and the ability to advocate for our nation's priorities.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the government's level of cooperation with the United States should be carefully balanced to serve national interests without compromising sovereignty. Excessive reliance could diminish independence, while too little cooperation might hinder the ability to address shared challenges effectively. Given the importance of maintaining a strategic and balanced relationship, I think the current approach is appropriate, continually adjusting as circumstances evolve. Therefore, I choose to reaffirm the stance that it is about the right amount.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe our government cooperates about the right amount with the United States because this balanced approach enables us to benefit from mutual collaboration without compromising our sovereignty or independence. It allows us to work effectively on shared issues while maintaining control over our policies and national interests. Excessive cooperation might lead to overdependence, whereas too little could hinder our ability to influence or benefit from the relationship. Therefore, a balanced cooperation level seems most appropriate.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe our government cooperates about the right amount with the United States because this balanced approach helps us build strong international relationships while safeguarding our sovereignty. It allows us to benefit from shared economic and security interests without becoming overly dependent or losing independence. This nuanced cooperation ensures that we can adapt to different situations effectively, promoting national interests and stability.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe our government cooperates about the right amount with the United States because a balanced approach fosters beneficial collaboration without risking overdependence or compromising our sovereignty. This careful balance allows us to engage effectively on shared issues while maintaining control over our national interests, which seems to be the most prudent and sustainable approach.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the government currently maintains a balanced level of cooperation with the United States, which allows for beneficial collaboration without compromising national independence. Engaging appropriately helps address common security, economic, and diplomatic challenges effectively while preserving sovereignty. Given the examples of thoughtful balance, I think the current level of cooperation is about right.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the government currently cooperates with the United States in a manner that is balanced and appropriate. This level of cooperation allows us to engage effectively on shared issues, benefiting from collaboration while still maintaining control over our policies and sovereignty. Excessive cooperation could risk overdependence, and too little might limit our influence and effectiveness, so I think the current approach is optimal.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

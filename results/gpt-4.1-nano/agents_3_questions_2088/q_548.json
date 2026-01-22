@@ -1,0 +1,61 @@
+{
+  "question": "(How much of a role do you think Islam plays in the political life of our country - a very large role, a fairly large role, a fairly small role, or a very small role?) In your opinion - is this good or bad for our country?",
+  "options": [
+    "Good",
+    "Bad",
+    "Neither (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe Islam plays a fairly large role in the political life of our country. When religion influences politics, it can help promote moral values, social cohesion, and community interests. However, if religious influence becomes too dominant or exclusive, it might also lead to divisions or undermine secular principles that ensure equal rights for all citizens. Therefore, whether this is good or bad depends on how balanced and inclusive that influence is in practice. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Islam plays a fairly large role in the political life of our country. The impact of religion on politics can provide a moral and ethical foundation for governance, promote social cohesion based on shared values, and ensure that policies reflect the cultural and religious traditions of our people. When balanced appropriately, this can strengthen national identity and social stability. However, it is also important that religious influence does not undermine secular principles or the rights of those from different faiths or beliefs. Overall, a measured role of Islam in politics can be beneficial if it supports justice, peace, and unity, but excessive or exclusive influence might risk alienating minority groups or undermining secular governance principles.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that religion, including Islam, can influence cultural and social values, but it is essential that political decisions are primarily driven by secular principles and the needs of all citizens. When religion plays a significant role in politics, it can sometimes lead to policies that may not represent the diversity of viewpoints within the country, potentially causing division or marginalization of minority groups. Balance and separation between religious influence and political authority are important for social cohesion, fairness, and ensuring that governance serves everyone equally. Therefore, a very large or fairly large role of Islam in political life could pose challenges to national unity and inclusivity, whereas a smaller role might promote a more neutral and inclusive political environment. In my opinion, minimal political influence from religion is generally more conducive to a fair and harmonious society. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the role of Islam in our country's political life should be balanced carefully. While religious principles can offer moral guidance and promote social cohesion, excessive influence risks undermining secular governance and alienating minorities. A moderate role that respects diverse viewpoints can help maintain social stability and fairness. Therefore, I think a fairly small or moderate role is preferable to ensure inclusivity and balanced decision-making, but still allowing for cultural and religious values to be reflected in society. Given the options, I lean toward the importance of limiting political influence to preserve secular principles and social harmony.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that Islam plays a significant role in the political life of our country, but the impact of this influence depends on how it is managed. When religious principles are incorporated thoughtfully and inclusively, they can support social cohesion and moral values. However, if religious influence becomes too dominant or exclusive, it risks creating divisions or marginalizing minority groups, which could undermine social harmony and fairness. Therefore, a balanced approach where religion guides moral and ethical standards without overpowering secular governance seems most beneficial for a harmonious society.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Islam plays a fairly large role in the political life of our country. While religious influence can help promote moral values and social cohesion, it is essential that this influence remains balanced and inclusive to prevent divisions or the erosion of secular principles. When managed properly, such a role can support a sense of identity and unity without marginalizing minority groups or undermining democracy. Therefore, I view this as beneficial for our country's social fabric and stability. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that religion can provide moral guidance and foster social unity when its influence is balanced and inclusive. However, when religious influence becomes too dominant or exclusionary, it risks creating divisions and marginalizing minority groups, which can undermine social harmony and democratic values. Therefore, the role of Islam in our political life should be carefully managed to promote social cohesion without compromising secular principles. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Islam's influence in the political sphere should be balanced carefully. While religious principles can contribute to social values and community cohesion, excessive or unchecked involvement may threaten secular governance and minority rights. A moderate role that respects diverse perspectives helps maintain social harmony and democratic fairness. Therefore, I consider this to be beneficial for our country's stability and cohesion if managed appropriately.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Islam plays a fairly large role in our country's political life, but this influence should be balanced carefully. While religious principles can provide moral guidance and support social cohesion, too much influence may threaten secular governance and lead to marginalization of minorities. A moderate role that respects diverse viewpoints helps maintain social stability and fairness without compromising secular principles. Therefore, I think a fairly large role is beneficial as long as it is managed thoughtfully.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

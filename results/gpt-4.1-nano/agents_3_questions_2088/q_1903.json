@@ -1,0 +1,63 @@
+{
+  "question": "How much responsibility should each of the following have in making sure that the your nationality workforce has the right skills and education to be successful in the future? d. employers",
+  "options": [
+    "A lot",
+    "Some",
+    "Only a little",
+    "None",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Employers play a crucial role in ensuring that the workforce possesses the necessary skills and education for future success because they are directly involved in training, development, and creating opportunities for skill acquisition. While governments and educational institutions are also important, employers have the immediate influence over the skills needed in the workplace and can adapt quickly to changing demands. Therefore, they should bear a significant responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Employers play a crucial role in ensuring that the workforce is equipped with the necessary skills and education for future success, as they are directly involved in training, professional development, and aligning skills with industry needs. While government and educational institutions hold significant responsibility, employers are the closest to the job market and can adapt quickly to changing demands. Therefore, they should have a substantial responsibility in shaping the skills and education of the workforce to promote economic growth and individual success.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Employers play a crucial role in ensuring the workforce has the necessary skills and education by providing appropriate training, development opportunities, and adapting to industry needs. They are directly responsible for workforce readiness and have the resources and influence to shape skill development effectively. While the government and educational institutions also share responsibility, employers are in the best position to assess current skill gaps and implement relevant solutions. Therefore, they should bear a significant share of responsibility. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Employers have a direct and significant impact on workforce skills through training, development, and adapting to industry needs. They are often in the best position to identify skill gaps and implement relevant solutions swiftly. While government and educational institutions play important roles, employers' proximity to the labor market makes them crucial in ensuring the workforce is prepared for future success. Therefore, they should have a lot of responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Employers are in a unique position to directly influence and quickly adapt workforce skills to meet industry needs. They provide training, development opportunities, and have the resources to address skill gaps. While government and educational institutions are important, the immediate and practical role of employers makes them key players in ensuring the workforce is prepared for the future. Therefore, they should bear a significant responsibility in making sure the workforce has the right skills and education for future success.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Employers have a vital role in developing a skilled workforce because they are directly involved in providing training, internships, and on-the-job learning opportunities that align with current industry needs. While government and educational institutions are important, the immediate influence and adaptability of employers make them the key players in ensuring the workforce has the right skills for the future. Therefore, they should bear a significant responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe employers should bear a lot of responsibility in ensuring the workforce has the right skills and education to be successful in the future. Employers are in a unique position to directly influence workforce development through training, on-the-job learning, and adapting skill requirements to meet industry needs. While government and educational institutions play important roles, the immediate and practical influence of employers makes them the key players in preparing the workforce for future success.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Employers are central to shaping a skilled workforce because they are directly involved in training, internships, and on-the-job learning tailored to industry needs. Their proximity to the labor market and ability to quickly adapt make them the most effective in ensuring that the workforce has the right skills for the future. While other institutions like government and educational bodies contribute, employers' hands-on role positions them as the primary responsible party. Therefore, they should have a lot of responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Employers are directly involved in the training and development of the workforce through their hiring practices, on-the-job training, and adapting to industry changes. Their proximity to the labor market enables them to respond swiftly to skill gaps and future needs, making them the most suitable entities to ensure the workforce's skills and education are aligned with future success. While government and educational institutions also have roles, the immediate impact and capacity of employers position them as the primary drivers of workforce preparedness. Therefore, I believe employers should have a lot of responsibility in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

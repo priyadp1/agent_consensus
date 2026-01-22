@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of Prime Minister Recep Tayyip Erdogan very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence on the country has been somewhat good. During his tenure, there have been improvements in infrastructure and economic growth, which have benefited many citizens. However, concerns about democratic freedoms and political polarization also persist, indicating that his influence isn't entirely positive. Overall, the impact is mixed, leaning towards somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence on the country's direction has been mixed. While he has implemented some economic reforms and increased infrastructural development, there have also been concerns about increasing authoritarianism and restrictions on freedoms. Overall, these factors create a perception that his influence is more positive than negative, but not without serious drawbacks. Therefore, I see his influence as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence on my country has been somewhat good. He has implemented policies aimed at economic growth and stability, and has increased Turkey's prominence on the international stage. However, there have also been concerns about increased political authoritarianism, restrictions on freedoms, and issues related to human rights. These mixed outcomes make his influence seem more positive than negative, but not without significant drawbacks. Overall, I see his influence as beneficial but with notable concerns that prevent me from rating it as very good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I perceive Prime Minister Recep Tayyip Erdogan's influence as somewhat positive overall. While he has contributed to economic growth and international recognition, his tenure has also been marked by concerns over authoritarian tendencies and restrictions on personal freedoms. These factors have led me to view his influence as more beneficial than harmful, but not entirely free of problematic aspects.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence has been somewhat good because he has overseen economic growth and increased Turkey's international stature, which benefits the country. However, concerns about democratic freedoms, political authoritarianism, and human rights issues suggest that his influence isn't entirely positive. While there are significant drawbacks, they do not outweigh the positive aspects, making \"somewhat good\" the most appropriate assessment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence on the country has been somewhat good. While he has overseen economic growth and infrastructural improvements that have benefited many citizens, concerns about democratic freedoms, increasing authoritarian tendencies, and political polarization remain significant issues. These mixed effects lead me to see his influence as more positive than negative, but not entirely beneficial.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence has been somewhat good because, overall, he has contributed to economic growth and improved infrastructure, which benefit many citizens. However, concerns regarding democratic freedoms, increasing authoritarian tendencies, and political polarization indicate that his impact is not entirely positive. These mixed effects suggest that his influence is more positive than negative but not entirely beneficial.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence has been somewhat good. While he has contributed to economic growth, infrastructural development, and increased international recognition, there are also concerns regarding democratic freedoms, authoritarian tendencies, and political polarization. These factors suggest a mixed impact, leaning more towards positive but with notable issues that temper a wholly beneficial assessment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Recep Tayyip Erdogan's influence has been somewhat good because he has overseen economic growth and increased Turkey's international stature, which benefits the country. However, concerns about democratic freedoms, political authoritarianism, and human rights issues suggest that his influence isn't entirely positive. While there are significant drawbacks, they do not outweigh the positive aspects, making \"somewhat good\" the most appropriate assessment.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

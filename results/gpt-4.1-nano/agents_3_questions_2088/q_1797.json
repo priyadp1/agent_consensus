@@ -1,0 +1,61 @@
+{
+  "question": "In general, when German companies build factories in our country, does that mostly help or mostly hurt our economy? ",
+  "options": [
+    "Mostly help",
+    "Mostly hurt",
+    "No effect (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "When German companies build factories in our country, it can bring both benefits and drawbacks, but overall, the impact tends to lean towards helping the economy. These investments often lead to job creation, technology transfer, and increased exports, which can stimulate economic growth. On the other hand, some may argue that it could hurt local small businesses or lead to dependency on foreign corporations. However, generally speaking, the positive effects such as employment opportunities and infrastructure development outweigh the negatives, making the presence of foreign factories mostly beneficial for the economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "German companies building factories in our country can bring both benefits and drawbacks. On the positive side, they often create jobs, bring in technological expertise, and increase investment in the local economy. This can lead to economic growth and improved infrastructure. On the other hand, some might argue that such foreign investment can lead to a dependence on external companies, potential negative impacts on local businesses, or repatriation of profits that do not stay within the country. Overall, the effects tend to be more beneficial than harmful, especially when regulation ensures that local interests are protected and benefits are shared. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "When German companies build factories in our country, it can bring both benefits and drawbacks. On the positive side, it can lead to job creation, technology transfer, and increased economic activity. On the other hand, some may argue that it could lead to the loss of local businesses or the imbalance of economic control. Overall, if managed well, such investments tend to boost the economy by creating employment opportunities and fostering economic growth, making the impact mostly beneficial. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that German companies building factories in our country mostly help our economy because they create jobs, bring new technology, and increase economic activity. While there are some concerns about dependence or local businesses, the overall impact tends to be positive if managed properly. The advantages generally outweigh the drawbacks, leading to economic growth and development. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my view, when German companies build factories in our country, the overall effect tends to be positive for the economy. Although there can be concerns about local business competition or economic dependency, the benefits such as job creation, technology transfer, and infrastructure development generally outweigh the negatives. These investments often stimulate economic growth and provide new opportunities, making their impact mostly helpful. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that when German companies build factories in our country, it largely helps our economy. These investments tend to create jobs, bring new technology, and boost economic activity, which generally outweigh any negative impacts such as competition for local businesses. Overall, the positive effects contribute more to economic growth than harm. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that when German companies build factories in our country, it mostly helps our economy. These foreign investments bring new jobs, advanced technology, and increased economic activity, which are beneficial for growth. Although there might be some concerns about local business competition, the overall positive contributions such as infrastructure development and skills transfer tend to outweigh any negatives. Therefore, the impact is generally advantageous for our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that German companies building factories in our country mostly help our economy. They create employment opportunities, introduce advanced technologies, and stimulate economic activity, which generally leads to positive growth. While there may be some concerns about local competition, the overall benefits tend to outweigh the drawbacks, making the economic impact beneficial. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Building factories by German companies generally brings positive effects to our economy through job creation, technology transfer, and increased economic activity. While there are potential concerns about competition or over-dependence, the overall benefits tend to outweigh these issues, leading to economic growth and development. Therefore, I believe it mostly helps our economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

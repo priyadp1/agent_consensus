@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way Prime Minister Malcom Turnbull is handling each of the following areas. e. terrorism",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's approach to terrorism has been effective in implementing security measures and supporting national safety initiatives, which I view as positive steps in protecting citizens. Therefore, I approve of his handling of terrorism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's handling of terrorism has been generally effective, focusing on security measures and intelligence sharing to prevent attacks. However, some may feel his approach could be more aggressive or better balanced with civil liberties. Overall, I lean towards approving his efforts in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's handling of terrorism has been effective in terms of increasing national security measures and strengthening intelligence capabilities. His focus on bipartisan cooperation and proactive legislation indicates a commitment to safeguarding citizens. Therefore, I approve of his approach in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's handling of terrorism has been proactive and focused on strengthening security measures and intelligence efforts, which are crucial for national safety. While some may worry about civil liberties, overall his approach appears committed to preventing attacks and protecting citizens. Therefore, I approve of his efforts in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's handling of terrorism has been proactive and effective in implementing security measures and strengthening intelligence capabilities, which are important for national safety. His focus on bipartisan cooperation and proactive legislation demonstrates a commitment to safeguarding citizens. Therefore, I approve of his approach in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's approach to terrorism is generally effective, as he has prioritized security measures and intelligence sharing that help prevent attacks and protect citizens. While there may be debates about civil liberties, his efforts seem to focus on national safety, which I support. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull has handled the issue of terrorism effectively by emphasizing security, intelligence, and bipartisan cooperation, which are crucial for national safety. While civil liberties debates are important, his proactive measures seem essential in current security contexts. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's handling of terrorism has been effective and focused on enhancing security measures and intelligence sharing to prevent attacks and protect citizens. While I acknowledge concerns about civil liberties, his overall approach appears to prioritize national safety and security. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Malcolm Turnbull's handling of terrorism has been proactive and focused on strengthening security measures, intelligence efforts, and legislation to protect citizens. His approach shows a commitment to national safety and security, which I support. Therefore, I approve of his efforts in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

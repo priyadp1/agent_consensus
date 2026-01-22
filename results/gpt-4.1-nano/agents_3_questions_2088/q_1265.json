@@ -1,0 +1,61 @@
+{
+  "question": "(Do you approve or disapprove of the way Prime Minister Narendra Modi is handling each of the following areas?)...Rising prices",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Rising prices have been a significant concern for many citizens, especially with inflation impacting everyday essentials. Opinions on Modi\u2019s handling of this issue vary; some believe his policies aim to stabilize the economy, while others feel more could be done to control inflation and support consumers. Given the ongoing economic challenges and varying perspectives, I find it difficult to fully endorse either approval or disapproval at this moment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Many people are concerned about rising prices, especially given current inflation rates and economic uncertainties. Prime Minister Narendra Modi's administration has taken various measures to control inflation, but opinions differ on their effectiveness. Some believe his policies are helping to stabilize the economy, while others feel prices remain too high and see his handling as inadequate. Based on this, my view is that the approach has had mixed results, but overall I disapprove of how rising prices are being handled.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The rising prices have been a significant concern for many citizens, impacting everyday living costs and financial stability. While some believe the government has taken steps to address inflation, others feel that the measures are insufficient or too slow. Personal opinions on Prime Minister Narendra Modi's handling of rising prices vary based on individual experiences and perceptions of economic policies. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Narendra Modi's administration has implemented measures to address rising prices, but in practice, many citizens still face high inflation and cost of living pressures. From my perspective, the efforts seem insufficient to fully control inflation, leading me to disapprove of how rising prices are being handled.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Rising prices remain a complex issue with mixed opinions. While some believe that government measures are helping to curb inflation, others feel that the response has been insufficient or slow, leading to ongoing financial strain for many citizens. Given these varied perspectives, I find it appropriate to disapprove of the handling of rising prices at this moment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the mixed perspectives and ongoing economic challenges, I believe that while some measures have been taken, the overall impact on controlling rising prices has not been sufficiently effective. The public opinion reflects dissatisfaction with the current handling, and I share the view that more could be done to address inflation and support consumers. Therefore, I disapprove of Modi's handling of rising prices.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The rising prices remain a significant concern for many citizens, and despite some measures taken by the government, there is widespread perception that these efforts have not been sufficiently effective in controlling inflation. Given the ongoing economic challenges and public dissatisfaction, I believe that the handling of rising prices by Prime Minister Narendra Modi warrants disapproval. Addressing inflation requires more robust action to ease financial strain on consumers and stabilize the economy.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that despite some measures taken, the ongoing issues with inflation and the high cost of living indicate that the government\u2019s efforts have not been sufficiently effective. The public sentiment of dissatisfaction suggests that more action is needed to better control rising prices. Therefore, I disapprove of how Prime Minister Narendra Modi is handling rising prices.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the measures taken by the government to control rising prices have not been sufficient to alleviate the financial burden on citizens. Many still struggle with high inflation and increased cost of living, indicating that the efforts are not fully effective. Therefore, I disapprove of how rising prices are being handled by Prime Minister Narendra Modi.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

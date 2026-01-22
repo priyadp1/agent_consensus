@@ -1,0 +1,61 @@
+{
+  "question": "And which of these comes closer to your view? I like American ideas about democracy, OR I dislike American ideas about democracy.",
+  "options": [
+    "I like American ideas about democracy",
+    "I dislike American ideas about democracy",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am inclined to select option A because I generally appreciate and value American ideas about democracy, such as individual rights, freedom of speech, and democratic governance, even if I recognize that there are areas where these ideas could be improved. My view is that American democratic principles have contributed positively to political development, and I tend to align more with the idea of liking these principles rather than disliking them.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I chose option A because I generally believe that American ideas about democracy emphasize important principles like individual rights, representation, and freedom, which I support. While I recognize there are flaws and areas for improvement, I tend to view these ideas positively overall. Therefore, I like American ideas about democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I appreciate the foundational principles of American democracy, such as freedom of speech, voting rights, and rule of law, which I believe are vital for a functional society. However, I also recognize that in practice, there are significant challenges and disparities that can undermine these ideas. Overall, I tend to support American ideas about democracy, even if I believe there is room for improvement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe American ideas about democracy embody core principles like individual rights, voting, and rule of law, which I support. While I acknowledge there are flaws and challenges in practice, I tend to view the foundational principles positively and support continuing to develop them. Therefore, I choose to say I like American ideas about democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I generally support American ideas about democracy because I value fundamental principles such as individual freedoms, voting rights, and democratic governance. While I recognize that there are challenges and flaws in the implementation of these ideas, I believe their core principles are positive and important for a healthy society. My inclination is to affirm appreciation rather than disapproval of American democratic ideas.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that American ideas about democracy reflect important values such as individual rights, freedom, and representation that I support. While I acknowledge that there may be flaws or areas needing improvement, overall I tend to view these ideas positively and appreciate the principles they stand for. Therefore, I like American ideas about democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that American ideas about democracy embody fundamental principles such as individual freedoms, voting rights, and democratic governance, which I support. While I recognize there are flaws and areas for improvement, overall I view these ideas positively and value their importance for a healthy society. Therefore, I like American ideas about democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe in the core principles underlying American ideas about democracy, such as individual rights, voting, and rule of law. While I recognize that there are flaws and challenges in how these ideas are implemented in practice, I generally view these foundational principles positively and support their continued development. Therefore, I choose to say I like American ideas about democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe American ideas about democracy embody core principles such as individual rights, voting, and rule of law, which I support. While I acknowledge there are flaws and challenges in practice, I tend to view the foundational principles positively and support continuing to develop them. Therefore, I choose to say I like American ideas about democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

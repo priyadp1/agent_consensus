@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me how closely you follow each type of news. Do you follow ____ very closely, somewhat closely, not very closely or not at all closely? a. news about your city or town",
+  "options": [
+    "Very closely",
+    "Somewhat closely",
+    "Not very closely",
+    "Not at all closely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I tend to follow news about my city or town somewhat closely because it helps me stay informed about local events and issues that directly affect my daily life. While I don't keep track constantly, I make an effort to stay updated regularly. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I follow news about my city or town somewhat closely because I like to stay informed about local developments, events, and issues that directly impact my community, but I don't always keep up with every detail or news story as they unfold.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I follow news about my city or town somewhat closely because it helps me stay informed about local events, community issues, and local government decisions, but I do not actively seek out every update or follow it as passionately as national or international news. I rarely miss important local updates, but I tend to prioritize broader topics. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I follow news about my city or town somewhat closely because I want to stay informed about local issues and events that affect my community, but I don't usually seek out every detail or follow every story as they happen. I prioritize broader news sources for national and international updates over local news, so my level of engagement is moderate. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I follow news about my city or town somewhat closely because I like to stay informed about local events and issues that impact my community, but I do not obsessively follow every detail. This approach allows me to stay connected without dedicating excessive time to local news. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I follow news about my city or town somewhat closely because staying informed about local events and issues that affect my daily life is important to me, but I don't always keep up with every detail or news story as they happen. This level of engagement suggests a moderate interest in local news, making \"somewhat closely\" the most appropriate choice.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I follow local news somewhat closely because I like to stay informed about community events and local issues, but I do not pay constant attention to every story or update. This moderate level of engagement aligns most closely with the \"somewhat closely\" option. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I follow news about my city or town somewhat closely because I want to stay informed about local issues and events that affect my community, but I don't usually seek out every detail or follow every story as they happen. My engagement is moderate, and I am interested but not overly obsessed with local news. Therefore, \"somewhat closely\" best reflects my level of follow-up.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I follow local news somewhat closely because I want to stay informed about community issues and events, but I don't dedicate a lot of time to it or follow every story closely. My engagement level is moderate, similar to the other responses. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

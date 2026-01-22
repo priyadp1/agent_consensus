@@ -1,0 +1,60 @@
+{
+  "question": "According to news reports, the American government has been monitoring communications, such as emails and phone calls, in the U.S. and many other countries. In your opinion, is it acceptable or unacceptable for the American government to monitor communications from...American citizens?",
+  "options": [
+    "Acceptable",
+    "Unacceptable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe monitoring communications of American citizens can be acceptable if it is conducted within a clear legal framework that respects privacy rights and is aimed at preventing serious threats such as terrorism or criminal activities. Ensuring transparency and oversight can help balance security needs with individual rights. However, excessive or unwarranted surveillance risks infringing on personal freedoms and can lead to abuse of power. Therefore, any monitoring should be carefully regulated to protect citizens' privacy while addressing national security concerns.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that monitoring communications from American citizens is unacceptable unless it is done with proper legal oversight and suspicion of criminal activity. Privacy is a fundamental right, and unchecked surveillance can infringe on personal freedoms and civil liberties. While national security is important, it should not come at the expense of individual privacy rights without adherence to due process and safeguards. Therefore, broad monitoring without cause tends to undermine trust in government and can lead to abuses of power. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Monitoring communications of American citizens raises important questions about privacy and security. On one hand, surveillance can help prevent threats and protect national security; on the other hand, it can infringe upon individual privacy rights and liberty. In my opinion, it is unacceptable for the government to conduct such monitoring without strict oversight, clear legal protections, and transparency to prevent abuse or unwarranted intrusion into people\u2019s private lives. Protecting civil liberties is essential, and any surveillance should be balanced carefully with privacy considerations to maintain citizens' trust and freedom. Therefore, I believe it is unacceptable for the government to monitor communications from American citizens without proper safeguards.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that monitoring communications from American citizens is unacceptable unless it is conducted under strict legal oversight, with clear justification, and with appropriate safeguards to protect individual privacy rights. While national security is important, it should not compromise civil liberties or trust in government without proper accountability. Unrestrained surveillance risks abuse of power and infringes on fundamental rights, so protections must be in place to ensure any monitoring is justified and transparent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that monitoring communications of American citizens can be acceptable if it is conducted within a clear legal framework that respects privacy rights and is aimed at preventing serious threats such as terrorism or criminal activities. Transparency and oversight are crucial to ensure that surveillance does not infringe unfairly on individual freedoms or lead to abuses of power. Without proper safeguards, such monitoring risks undermining civil liberties and eroding trust in government. Therefore, in principle, with appropriate regulations and accountability, I find it acceptable; otherwise, it would be unacceptable.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that monitoring communications of American citizens can be acceptable if it is conducted within a clear legal framework that respects privacy rights and is aimed at preventing serious threats such as terrorism or criminal activities. Ensuring transparency and oversight can help balance security needs with individual rights. However, excessive or unwarranted surveillance risks infringing on personal freedoms and can lead to abuse of power. Therefore, any monitoring should be carefully regulated to protect citizens' privacy while addressing national security concerns.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that monitoring communications of American citizens can be acceptable if it is conducted within a clear legal framework that respects privacy rights and is aimed at preventing serious threats such as terrorism or criminal activities. Ensuring transparency and oversight can help balance security needs with individual rights, and proper safeguards are essential to prevent abuses of power. Without strict regulations and accountability, such monitoring risks infringing on civil liberties and eroding public trust. Therefore, I think it is acceptable when conducted responsibly and with proper oversight.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that monitoring communications from American citizens is unacceptable unless it is conducted with strict legal oversight, transparency, and adequate safeguards to protect individual privacy rights. While safeguarding national security is important, it should not come at the expense of civil liberties or lead to unchecked government power. Proper regulations and accountability are essential to ensure that surveillance does not infringe on personal freedoms or trust in government. Balancing security and privacy is critical, and without clear boundaries and oversight, such monitoring risks abuse and erosion of fundamental rights.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that monitoring communications from American citizens is unacceptable unless it is conducted under strict legal oversight, with clear justification, and with appropriate safeguards to protect individual privacy rights. While national security is important, it should not compromise civil liberties or trust in government without proper accountability. Unrestrained surveillance risks abuse of power and infringes on fundamental rights, so protections must be in place to ensure any monitoring is justified and transparent. Therefore, I choose to consider this unacceptable as a default position to uphold individual rights.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very important, somewhat important, not too important or not at all an important reason why many people do not have jobs. d. some people are discriminated against because of their ethnicity/race",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Discrimination based on ethnicity or race can significantly impact employment opportunities, making it a serious barrier for many individuals. Recognizing that bias and prejudice can prevent qualified people from securing jobs underscores the importance of addressing discrimination in the workforce. Therefore, I consider this a very important reason why many people do not have jobs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe discrimination based on ethnicity or race is a very important reason why many people do not have jobs because it can prevent qualified individuals from being given equal opportunities, thereby impacting employment rates and perpetuating inequality.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Discrimination based on ethnicity or race can significantly impact employment opportunities, leading certain groups to face barriers that prevent them from securing jobs. Recognizing this as a factor helps in understanding and addressing systemic inequalities in the labor market. Therefore, I consider this a very important reason why many people do not have jobs.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Discrimination based on ethnicity or race can have a profound impact on employment opportunities. When individuals are discriminated against, even if they are qualified, it can prevent them from gaining or maintaining jobs, which contributes significantly to unemployment rates among marginalized groups. Recognizing this as a major factor is essential for understanding systemic inequality and addressing barriers to employment. Therefore, I believe this is a very important reason.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Discrimination based on ethnicity or race often serves as a significant barrier to employment for many individuals. It can lead to unfair treatment in hiring, promotions, and workplace opportunities, thereby reducing the chances of qualified candidates securing jobs. As a result, acknowledging racial or ethnic discrimination as a very important reason is essential to understanding broader employment issues and addressing systemic inequalities. Therefore, I consider this a very important reason why many people do not have jobs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe discrimination based on ethnicity or race is a very important reason why many people do not have jobs because it directly impacts their access to employment opportunities, often preventing qualified individuals from being hired due to prejudicial attitudes. Addressing such discrimination is crucial in improving employment equity and reducing unemployment caused by bias. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Discrimination based on ethnicity or race can create significant obstacles in the job market, leading to unequal opportunities and unfair treatment that can prevent capable individuals from obtaining employment. Given its substantial impact on employment prospects and the importance of addressing systemic inequalities, I believe it is a very important reason why many people do not have jobs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe discrimination based on ethnicity or race is a very important reason why many people do not have jobs because it directly impacts their access to employment opportunities, often preventing qualified individuals from being hired due to prejudicial attitudes. Addressing such discrimination is crucial in improving employment equity and reducing unemployment caused by bias.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that discrimination based on ethnicity or race is a very important reason why many people do not have jobs. Discrimination can systematically block qualified individuals from being hired or promoted, perpetuating inequality and unemployment within affected communities. Recognizing this as a major factor is crucial for addressing underlying societal barriers to employment and promoting fairness in the workforce. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

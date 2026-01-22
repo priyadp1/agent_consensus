@@ -1,0 +1,60 @@
+{
+  "question": "Should countries that now do not have nuclear weapons be stopped from developing them, or don't you think so?",
+  "options": [
+    "Yes, should be stopped",
+    "No, should not be stopped"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe countries that currently do not possess nuclear weapons should be prevented from developing them to maintain global stability and reduce the risk of nuclear conflict. The proliferation of nuclear weapons increases the likelihood of them falling into malicious hands or being used inadvertently, which could have catastrophic consequences. Implementing strict controls and international agreements helps foster peace and security for all nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that countries currently without nuclear weapons should be discouraged from developing them. The proliferation of nuclear weapons increases the risk of global instability, accidental use, or escalation into wider conflicts. It is important for international security that such weapons remain limited to a controlled group of nations, with rigorous verification and disarmament efforts. Preventing new countries from acquiring nuclear arsenals helps maintain global peace and stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Developing nuclear weapons poses significant risks to global security and stability. Allowing countries to pursue nuclear armament could lead to increased tensions, arms races, and the potential for nuclear conflict. Although some nations may seek nuclear capabilities for deterrence or national security reasons, a collective international effort to prevent proliferation can help maintain peace and reduce the danger of nuclear proliferation spreading further. Therefore, it is important to enforce non-proliferation treaties and discourage the development of nuclear weapons by countries that currently do not possess them.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that countries that do not currently have nuclear weapons should be stopped from developing them. The proliferation of nuclear arms increases the risk of accidental use, escalation of conflicts, and could destabilize international security. Maintaining strict controls and preventing new countries from acquiring nuclear weapons is essential for global peace and stability, especially given the destructive power of such weapons. Ensuring that nuclear capabilities remain limited helps mitigate the dangers associated with proliferation and supports disarmament efforts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is crucial to prevent the proliferation of nuclear weapons to ensure global security and avoid increased tensions that can lead to conflicts. Allowing countries to develop nuclear arsenals can destabilize international relations and escalate arms races, ultimately putting entire populations at risk. International agreements and strict controls are essential tools to maintain peace and prevent nuclear proliferation. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that preventing countries without nuclear weapons from developing them is important for maintaining global peace and security. The proliferation of nuclear arms increases the risk of accidental use, escalation, and potential conflicts, which could have devastating consequences for humanity. International agreements and diplomatic efforts should continue to control the spread of these weapons to ensure stability and prevent nuclear catastrophe.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that countries without nuclear weapons should be stopped from developing them because nuclear proliferation increases the risk of conflict, accidental use, and global instability. Maintaining strict controls and international agreements helps prevent potential arms races and ensures a safer world for all. Allowing unchecked development could escalate tensions and threaten peace, so preventative measures are necessary to uphold international security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that preventing countries without nuclear weapons from developing them is crucial for maintaining global peace and stability. The spread of nuclear arms can increase the risks of conflicts, accidents, and potential misuse, which threaten humanity as a whole. International agreements, diplomatic efforts, and strict controls are necessary to limit proliferation and reduce the likelihood of nuclear catastrophe. Allowing new states to pursue nuclear arsenals could undermine existing efforts for disarmament and lead to an unstable security environment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe countries that currently do not have nuclear weapons should be prevented from developing them. The spread of nuclear arms increases the risk of accidental launches, escalation of conflicts, and global instability. International agreements and strict controls are necessary to contain proliferation and promote peace. Limiting nuclear capabilities to existing arsenals helps prevent potential arms races and reduces the threat of nuclear conflict, ultimately supporting long-term global security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

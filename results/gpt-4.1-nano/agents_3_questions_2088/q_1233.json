@@ -1,0 +1,62 @@
+{
+  "question": "How important is it to you to live in a country where the military is under the control of civilian leaders?  Is it very important, somewhat important, not too important or not important at all?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is very important for a country to have its military under civilian control because this ensures democratic accountability, prevents abuses of power, and maintains the separation between military and political institutions. When civilians make military decisions, it helps uphold democratic values and reduces the risk of military interference in governance. Therefore, I consider it very important to live in a country where the military is under the control of civilian leaders.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to have civilian control over the military because it helps ensure that military power is used in accordance with democratic values and civilian oversight. This arrangement helps prevent the military from becoming a political force that could undermine democracy or misuse authority. Maintaining civilian leadership is crucial for accountability, transparency, and the preservation of democratic institutions that protect individual rights and freedoms.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the military is under the control of civilian leaders because such a structure helps ensure democratic governance, prevents military overreach, and maintains civilian oversight over armed forces. This separation of military power supports political stability and protects individual rights, which are foundational to a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the military is under the control of civilian leaders because this ensures democratic accountability, prevents military interference in politics, and safeguards individual rights and freedoms. Civilian oversight helps maintain political stability and aligns military actions with democratic values, which is essential for a healthy and functioning democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the military is under civilian control because this structure safeguards democratic principles, helps prevent military overreach, and ensures that civilian leaders remain accountable to the people they serve. Such control preserves the balance of power and maintains political stability, which is vital for a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the military is under civilian control because this ensures democratic accountability, prevents abuses of power, and maintains the separation between military and political institutions. Civilian oversight helps uphold democratic values and reduces the risk of military interference in governance, which is essential for protecting rights and ensuring stability. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the military is under civilian control because such oversight is fundamental to safeguarding democratic principles. It helps prevent military overreach, ensures accountability of leaders to the people, and maintains the separation of military and political powers. These factors collectively promote political stability, protect individual rights, and uphold the rule of law, which are crucial for a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the military is under civilian control because this supports democratic integrity, prevents potential military overreach, and ensures that military actions are aligned with civilian-led policies. Civilian oversight acts as a safeguard against authoritarianism and helps maintain political stability and individual freedoms, which are essential qualities of a healthy democracy. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the military is under civilian control because such oversight helps prevent military overreach and ensures that democratic principles are upheld. Civilian control maintains the balance of power, promotes political stability, and protects individual rights and freedoms, which are essential for a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

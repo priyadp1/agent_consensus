@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Lack of jobs",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a significant issue that directly affects people's livelihoods and economic stability. In many countries, high unemployment leads to increased poverty, reduced quality of life, and social problems. It can also hinder overall development and create long-term economic challenges. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a significant concern as it directly affects individuals' livelihoods, economic stability, and social well-being. When many people struggle to find employment, it can lead to increased poverty, reduced consumer spending, and social unrest. Therefore, I believe this issue is a very big problem because addressing employment opportunities is crucial for the overall health and development of the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a significant issue in many countries, often leading to economic hardship, increased poverty, and social instability. When unemployment rates are high, it affects a large portion of the population and hampers overall development. While some may see it as a moderate concern depending on the local context, for most, it remains a pressing and serious problem that requires urgent attention. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a fundamental issue that directly impacts individuals and the economy. High unemployment can lead to increased poverty, social unrest, and hinder overall development. Given its significant effects on the well-being of the population and the country's progress, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a fundamental issue that impacts individuals' ability to support themselves and their families, leading to broader social and economic problems. High unemployment can cause increased poverty, social unrest, and hinder overall development. Given its substantial impact on people's livelihoods and the country's progress, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a critical issue because it directly impacts people's ability to earn a livelihood, affects economic stability, and can lead to increased poverty and social unrest. Without sufficient employment opportunities, broader social and economic development suffer, making it a very big problem for the country's well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a fundamental issue that directly affects people's livelihoods, economic stability, and social cohesion. It leads to increased poverty and social unrest, which can hinder national development everything considered, it is a very big problem that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a fundamental issue that directly affects individuals and the overall economic health of the country. Without sufficient employment opportunities, many people may face poverty, social instability, and limited access to resources, which can hinder national development. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of jobs is a critical issue that affects not only individual livelihoods but also the overall stability and development of the country. Unemployment can lead to poverty, increased social unrest, and hinder economic growth, making it a pressing concern that requires significant attention. Considering its profound impact, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

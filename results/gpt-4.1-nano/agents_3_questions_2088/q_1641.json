@@ -1,0 +1,63 @@
+{
+  "question": "Does this statement describe your country very well, somewhat well, not too well, or not well at all? e. No matter who wins an election, things do not change very much",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The statement suggests a perception that political changes in elections do not significantly alter policies or the direction of the country, reflecting a sense of continuity or lack of responsiveness in the political system. Depending on the country in question, this could vary; however, in many contexts where political shifts are perceived as superficial or ineffective, people might agree strongly. If I were to reflect a general attitude shared in some countries with perceived political stagnation, I would lean towards it describing the country well. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In many countries, political systems and leadership often remain relatively stable, and significant policy or systemic changes are not always evident regardless of election outcomes. This can lead some citizens to perceive that election results do not significantly alter the country's direction or day-to-day life. However, this perception varies based on the country's political environment and recent history. I believe this statement may resonate somewhat but not necessarily perfectly, as some countries experience noticeable change, while others do not. Therefore, \"somewhat well\" seems an appropriate choice.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe this statement describes my country somewhat well, as in many political systems, especially when there are political cycles or ideological differences, the overall direction of policies and change can remain quite stable regardless of election outcomes. While some elections bring noticeable shifts, overall, the system tends to maintain a certain consistency that aligns with the idea that things do not change very much no matter who wins. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe this statement describes my country somewhat well. In my context, elections often lead to some policy shifts, but the overall trajectory and key issues tend to remain consistent over time, reflecting a degree of stability regardless of who wins. This pattern suggests that while there are changes, they are not always very significant or perceived as transformative. Therefore, \"somewhat well\" best captures this experience.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In considering whether this statement applies to my country, I reflect on the perceived responsiveness of the political system. If elections tend to produce little change in policy or direction, and political continuity is common regardless of who wins, then the statement would describe my country well. Conversely, if elections often lead to significant shifts, then it would not align so well. Based on observations of political stability and limited change following elections in my country, I believe the statement describes it somewhat well.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The statement reflects a perception that political change does not significantly occur regardless of election outcomes, indicating a sense of political inertia or limited responsiveness in the country. Based on the provided context and common experiences in various nations with perceived political stagnation, I believe this description aligns best with a moderate level of agreement. While some countries do experience noticeable change, many others may feel that elections mainly produce superficial or minimal shifts rather than transformative change. Therefore, \"somewhat well\" captures this nuanced perspective appropriately.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The statement suggests a perception of political stability or limited change regardless of election outcomes. Given my country's history of consistent policies and minimal shifts after elections, it seems that the political system tends to maintain the status quo despite electoral changes. This perception aligns best with a \"somewhat well\" description, indicating that while there may be some variation, overall change remains limited and incremental rather than profound. Therefore, my choice reflects this moderate experience of limited responsiveness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The statement suggests that regardless of who wins elections, little change occurs in the country. Given the previous responses indicating a perception of minimal or superficial change and political inertia, I also see this as aligning most closely with a moderate level of agreement, reflecting a perception that elections do not lead to significant transformation. Therefore, \"somewhat well\" best captures this view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "This statement resonates with my perception of my country, where regardless of electoral outcomes, the general direction of policies and governance remains largely consistent, indicating limited change or reform. While there may be some minor adjustments, the overall political landscape maintains stability, and fundamental issues tend to persist across administrations. Based on this, I believe \"somewhat well\" accurately reflects my country's situation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

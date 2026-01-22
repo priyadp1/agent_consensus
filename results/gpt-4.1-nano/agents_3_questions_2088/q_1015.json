@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Ennahdha party?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Ennahdha party because I believe that they play a significant role in promoting democratic processes and represent a portion of the population interested in Islamic-based politics. However, I also recognize that they face criticism related to their policies and influence, leading to some reservations about their overall impact. Therefore, I lean toward a somewhat favorable stance but remain cautious about their broader implications for governance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Ennahdha party because I see it as an influential political organization with significant support, but I also recognize that it faces criticism and controversy that affects its reputation. Therefore, I lean toward a moderate view rather than a very positive or negative one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Ennahdha party because I recognize its significance in shaping political discourse and its influence within the country. However, I also have reservations about some of its policies and its approach to governance, which prevents me from viewing it very favorably. This nuanced perspective leads me to choose a middle ground, reflecting a mix of positive and cautious opinions. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the information and the examples provided, I recognize that Ennahdha is an influential party with both support and criticism. My view is cautiously optimistic, acknowledging its role but also being aware of some concerns. Based on this nuance, I lean toward a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Ennahdha party because I recognize their role in promoting democratic processes and representing a segment of the population interested in Islamic-based politics. However, I also acknowledge criticisms related to their policies and influence, which causes me to be cautious in my overall assessment. I lean toward a middle ground that appreciates their contributions but remains mindful of potential concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally cautious or moderate view of the Ennahdha party. They are an influential organization that promotes democratic processes and represents a segment of the population interested in Islamic-based politics. While they play an important role in the political landscape, they also face criticism and controversy, which makes me somewhat favorable but not strongly supportive. Therefore, I would choose a moderate level of opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that the Ennahdha party has played a significant role in promoting democratic processes and representing a segment of the population interested in Islamic-based politics, which gives me some level of favorable opinion. However, I am also aware of criticisms and controversies surrounding them, which prevents me from being strongly supportive. Overall, my view is moderate, leaning towards cautious approval. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the diverse perspectives on Ennahdha, I recognize its significant influence in the political landscape and its representation of a segment of the population interested in Islamic-based politics. While I appreciate its role in promoting democratic processes, I am also aware of the criticisms and controversies surrounding it. My opinion is somewhat favorable, reflecting a cautious appreciation of its contributions and challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that Ennahdha plays a significant role in Tunisia's political landscape, balancing between promoting democratic participation and facing criticism regarding its influence and policies. My view is cautiously optimistic, appreciating its contributions to political pluralism while remaining aware of potential concerns. Therefore, I lean toward a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

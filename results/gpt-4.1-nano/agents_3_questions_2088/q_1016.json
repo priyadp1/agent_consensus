@@ -1,0 +1,60 @@
+{
+  "question": "As I read some specific US policies tell me if you approve or disapprove of them...Recent US efforts to bring about peace in the Middle East",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of recent US efforts to bring about peace in the Middle East because diplomatic initiatives and engagement can help reduce conflict, promote stability, and support the well-being of people in the region. While challenges remain, such efforts are vital steps toward long-term peace and security. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that efforts to bring about peace in the Middle East are generally positive because they aim to reduce conflict, promote stability, and improve the lives of people in the region. While such initiatives can be complex and face challenges, supporting peace efforts is essential for long-term regional and global stability. Therefore, I approve of recent US efforts in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that US efforts to bring about peace in the Middle East are important for regional stability and international security. In many cases, such initiatives can help reduce conflicts, promote diplomacy, and improve the lives of people affected by violence. While sometimes these efforts face criticism or challenges, supporting peace initiatives generally aligns with promoting stability and humanitarian goals.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support efforts to bring about peace in the Middle East because promoting stability and reducing conflict can have positive impacts on both regional and global security. Peace initiatives can help improve the lives of affected populations and foster long-term solutions, despite the challenges they may face. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that US efforts to bring about peace in the Middle East are crucial for regional stability and international security. Diplomatic initiatives can help reduce violence, promote dialogue, and improve the lives of affected populations. While challenges and criticisms exist, supporting peace efforts is a positive step toward long-term stability and humanitarian progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that US efforts to bring about peace in the Middle East are beneficial because they aim to reduce ongoing conflicts, promote regional stability, and improve the lives of people affected by violence. Diplomatic initiatives, despite their challenges, are crucial for long-term peace and security in the region.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that US efforts to bring about peace in the Middle East are important for regional stability and international security. Diplomatic initiatives, despite their inherent challenges, have the potential to reduce violence, encourage dialogue, and improve the lives of those affected. Supporting peace efforts aligns with long-term stability and humanitarian goals, so I approve of these efforts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that US efforts to bring about peace in the Middle East are ultimately beneficial. While recognizing that such initiatives face significant challenges, the goal of reducing conflict, promoting stability, and improving lives aligns with broader interests in global security and humanitarian well-being. Diplomacy and peaceful negotiations are essential tools for achieving long-term peace, and supporting these efforts is important for positive regional and international outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that US efforts to bring about peace in the Middle East are essential for regional stability, security, and humanitarian purposes. Promoting dialogue and diplomatic solutions can reduce violence and foster long-term peace, which benefits both regional populations and global interests. While there are challenges involved, supporting peace initiatives aligns with efforts to create a more stable and safer world.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

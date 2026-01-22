@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me whether you think the following statements apply to the United Nations or not. The United Nations\u2026 a. Promotes peace",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The United Nations was established with the primary goal of maintaining international peace and security, and promoting peaceful resolution of conflicts. While it has had successes and failures, its core mission includes promoting peace globally. Therefore, I believe this statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United Nations was established with the primary goal of promoting international peace and security. It has played significant roles in mediating conflicts, facilitating peacekeeping missions, and encouraging diplomacy among nations. While its effectiveness and methods can be debated, its core mission aligns with promoting peace globally. Therefore, I believe this statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United Nations was established with the primary goal of promoting international peace and security through diplomatic efforts, peacekeeping missions, and conflict resolution. While it has had successes and challenges, its core mission aligns with promoting peace among nations. Therefore, I believe that the statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the United Nations promotes peace because its founding purpose and many of its efforts are centered around preventing conflicts, mediating disputes, and supporting international security. Despite some shortcomings or criticisms, its core role is indeed geared towards promoting peace among nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations indeed promotes peace, as its founding mission includes maintaining international peace and security and resolving conflicts through diplomatic efforts and peacekeeping missions. Despite some challenges and criticisms, its primary purpose aligns with promoting peace among nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations indeed promotes peace as it was founded primarily to maintain international peace and security, mediate conflicts, and encourage diplomacy among nations. Despite some criticisms and failures, its core mission remains focused on promoting peace worldwide. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations indeed promotes peace, as its core purpose is to prevent conflicts, facilitate diplomatic negotiations, and support peacekeeping efforts worldwide. Although there are criticisms and challenges, its foundational goal is aligning with the promotion of peace among nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations promotes peace because its fundamental purpose is to prevent conflicts, facilitate negotiations, and maintain global security. While it has faced criticism and challenges, its mission and actions largely aim to foster international cooperation and stability. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations promotes peace because its primary objectives include preventing conflicts, mediating disputes, and supporting international security efforts. While it faces challenges and criticisms, its foundational mission and ongoing peacekeeping initiatives clearly aim at fostering global stability and peace among nations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

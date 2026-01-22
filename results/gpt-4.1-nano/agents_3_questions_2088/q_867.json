@@ -1,0 +1,62 @@
+{
+  "question": "How concerned, if at all, are you about the rise of Islamic extremism around the WORLD these days? Are you very concerned, somewhat concerned, not too concerned or not at all concerned?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the rise of Islamic extremism around the world because such issues can lead to increased violence, instability, and global security threats. While I recognize that many individuals and communities are not involved in extremism, the potential for harm and the importance of addressing these challenges make it a matter of concern for me. Therefore, I would choose this middle level of concern to reflect a balanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the rise of Islamic extremism around the world because it poses security threats and can contribute to violence and instability in various regions. While I recognize that many individuals within these communities are peaceful and not involved in extremism, the potential dangers associated with extremism warrant awareness and cautious concern. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am very concerned about the rise of Islamic extremism around the world because it poses significant threats to global security, peace, and stability. Such extremism can lead to violent conflicts, undermine diplomatic efforts, and threaten the safety of innocent civilians everywhere. Given its potential impact, I believe it is a serious issue that requires ongoing attention and action. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am quite concerned about the rise of Islamic extremism around the world because it poses serious threats to global security, peace, and stability. The potential for violence and destabilization in various regions makes it a pressing issue that requires vigilance and proactive measures. While not all individuals within these communities are involved in extremism, the threat it represents cannot be ignored, and it is important to remain attentive to its developments. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the rise of Islamic extremism around the world is a cause for significant concern because it can lead to violence, terrorism, and instability that affect global peace and safety. The potential impact on innocent civilians and international security makes it a serious matter that warrants vigilance and proactive measures. While not everyone may be involved in extremism, the threat it poses should not be underestimated. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I acknowledge the serious implications of religious extremism including violence, instability, and security threats. While many individuals and communities involved are peaceful, the potential dangers and global impact lead me to feel concerned about this issue. Given this, I consider my concern to be moderate but significant, aligning with a somewhat concerned perspective. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the rise of Islamic extremism around the world is a serious concern due to its potential to cause violence, terrorism, and regional destabilization. Although many individuals may not be involved in extremism, the threat it poses to global security and innocent civilians necessitates vigilance and proactive responses. Given the significant implications, I feel quite concerned but not at the highest level of alarm. Therefore, I would choose somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that the rise of Islamic extremism poses significant security threats and destabilizes regions around the world. While most individuals involved are peaceful, the potential for violence and instability makes it a concern that warrants vigilance. Considering the serious implications, I would categorize my concern as moderate but significant, which aligns with somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am quite concerned about the rise of Islamic extremism globally because it threatens international security, causes violence, and destabilizes regions. The potential for terrorism and harm to innocent civilians makes it a serious issue that demands ongoing vigilance and proactive efforts. Given the severity of its impact and the dangers it poses, I believe a high level of concern is warranted. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

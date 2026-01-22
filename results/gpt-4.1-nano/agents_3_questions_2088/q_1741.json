@@ -1,0 +1,61 @@
+{
+  "question": "Do you support or oppose President Enrique Pena Nieto's plan to put all local police units under federal control?",
+  "options": [
+    "Support",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose the plan because consolidating police authority under federal control might undermine local autonomy and could lead to increased centralization of power. Without local input, the specific needs and concerns of communities may be overlooked, potentially affecting effectiveness and trust in law enforcement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that placing all local police units under federal control could improve coordination and consistency in law enforcement efforts across the country, potentially leading to better public safety and reduced corruption. Centralizing authority might also prevent local political influences from undermining police integrity. However, I also recognize concerns about reduced local accountability and the risk of diminished responsiveness to community needs. Overall, I tend to support the plan as it has the potential to strengthen law enforcement if implemented carefully and with adequate oversight.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that placing local police units under federal control could enhance coordination and reduce corruption at the local level, leading to improved security and trust in law enforcement. However, there are concerns about the loss of local autonomy and the adequacy of federal oversight. Given these considerations, I lean towards supporting the plan as a way to strengthen national security, provided safeguards are in place to maintain local accountability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support the plan because centralizing police authority under federal control could improve coordination, reduce corruption, and enhance overall security. While concerns about local accountability are valid, with proper oversight and safeguards, the benefits of a unified and more effective law enforcement system outweigh the potential drawbacks.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support the plan because centralizing police authority under federal control could improve coordination across regions and help combat corruption more effectively. While concerns about local autonomy are valid, establishing proper oversight and accountability measures could mitigate these issues, leading to a more unified and efficient law enforcement system that enhances overall security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am cautious about centralizing police authority under federal control because it risks undermining local community input and autonomy, which are essential for effective law enforcement tailored to specific needs. While coordination and anti-corruption efforts are important, they should not come at the expense of responsiveness and accountability at the local level. Therefore, I oppose the plan to centralize local police units under federal control.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that centralizing police authority under federal control could be beneficial for improving coordination and fighting corruption, as it may lead to a more unified approach to security. However, safeguarding local autonomy and community engagement is also crucial for effective law enforcement. Considering these factors, I support the plan to ensure improved security while implementing oversight measures to protect local interests.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I see the potential benefits of centralizing police authority, such as improved coordination, reduced corruption, and enhanced security, which could lead to a more effective law enforcement system. However, I am also concerned about the risk of undermining local community input and accountability, which are crucial for addressing specific local needs and maintaining trust. Balancing these factors, I lean towards opposing the plan to prioritize local autonomy and accountability. Therefore, my stance is cautious, leaning towards opposition.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support President Enrique Pena Nieto's plan to centralize police units under federal control because it could lead to improved coordination, reduce corruption, and create a more efficient law enforcement system. Proper oversight and safeguards are essential to address concerns about local accountability, but with effective measures in place, the potential benefits seem to outweigh the risks. Centralizing authority could strengthen security and stability across regions, making it a positive step forward.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

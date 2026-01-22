@@ -1,0 +1,61 @@
+{
+  "question": "Which comes closer to describing your view?...China will eventually replace the U.S. as the world's leading superpower; China has already replaced the U.S. as the world's leading superpower; or China will never replace the U.S. as the world's leading superpower?",
+  "options": [
+    "Will eventually replace US",
+    "Has already replaced US",
+    "Will never replace US"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that China is a rising global power with significant economic growth and increasing influence, but it has not yet surpassed the United States in overall global dominance. While some argue that China may eventually become the leading superpower, the U.S. still maintains substantial military, technological, and cultural advantages. Given the current state of global power dynamics, it seems more accurate to say that China has not yet replaced the U.S., but it may in the future. Therefore, I think China will eventually replace the U.S. as the world's leading superpower, but that has not yet happened.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the best description of my view is that China is on the path to eventually replacing the U.S. as the world's leading superpower, but has not fully done so yet. While China has gained significant influence economically, militarily, and politically, the U.S. still maintains a dominant position globally. The dynamics suggest a gradual shift rather than an immediate or already completed transition. Therefore, I lean toward the idea that China will eventually replace the U.S.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that China will eventually replace the U.S. as the world's leading superpower. China's rapid economic growth, expanding technological influence, and increasing military capabilities suggest that, over time, it is likely to surpass the U.S. in global dominance. While China has not yet fully replaced the U.S., current trends indicate that a shift in superpower status may occur in the foreseeable future. Therefore, I do not think China has already taken over, nor do I believe it will never do so. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that China is on a trajectory to eventually surpass the U.S. as the world's leading superpower, given its rapid economic growth, technological advancements, and expanding military influence. Although China has not yet fully replaced the U.S., current trends suggest that a significant shift could occur in the future. I do not think China has already taken over, nor do I believe it will never do so. Therefore, I choose option A. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that China's rise presents a significant challenge to the current global power structure, with strong economic, technological, and military growth illustrating its increasing influence. While it has not yet surpassed the U.S. in overall power, the trend suggests that China may eventually become the leading superpower. Given this, I think it is more accurate to say that China will eventually replace the U.S., rather than having already done so or never doing so.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that China is a rising power with significant economic and strategic influence, and it appears possible that China could someday surpass the U.S. as the leading global superpower. However, as of now, the U.S. still holds a dominant position in military, technological, and cultural domains. Given this, I think it is more accurate to say that China has not yet replaced the U.S., but it may do so in the future. Therefore, I choose A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that China is a rapidly rising global power with significant economic, military, and technological growth. While it has not yet surpassed the U.S. in overall influence, the increasing trends suggest that it may eventually become the world's leading superpower. Given the current situation, I think it is more accurate to say that China will eventually replace the U.S. rather than having already done so or never doing so. Therefore, I choose A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that China is currently a rising superpower with substantial economic, military, and geopolitical influence. While China has not yet overtaken the United States, its rapid growth and strategic development suggest that it is on a trajectory to eventually become the dominant global superpower. Given the current state of affairs, I do not think China has already replaced the U.S., nor do I believe the U.S. will never be replaced. Therefore, I choose A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that China is currently in a position where it is rapidly closing the gap with the U.S. in terms of economic, technological, and military strength. While it has not yet fully overtaken the U.S., the ongoing trends indicate that it is likely to do so in the future. The belief that China has already replaced the U.S. seems premature, given the current global influence of the United States. Conversely, the idea that China will never replace the U.S. does not align with the observable growth and strategic developments indicating a potential for such a shift. Given these considerations, I think China will eventually replace the U.S. as the world's leading superpower.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

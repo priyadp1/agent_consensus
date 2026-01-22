@@ -1,0 +1,61 @@
+{
+  "question": "Right now, is China having a positive or negative impact on economic conditions in your country?",
+  "options": [
+    "Positive",
+    "Negative",
+    "Neither/both (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe China\u2019s economic influence in my country remains largely positive because of ongoing trade relationships and investments that support local industries and employment. While there are concerns about competition, the overall economic interaction tends to benefit growth and development. However, some may see it as negative if they feel it undermines local businesses or causes dependency. On balance, I view the impact as more positive than negative considering the current economic landscape.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Currently, China's impact on my country's economic conditions appears mixed. On one hand, China is a major trading partner, providing affordable goods and contributing to supply chains that benefit local industries. On the other hand, concerns about economic competition and trade imbalances suggest some negative effects. Overall, I would say the impact is more neutral than strongly positive or negative, as both aspects are present and influence the economy in various ways.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "China's influence on my country's economic conditions is complex. On one hand, China is a major trading partner, providing affordable goods and investing in infrastructure projects, which benefits economic growth. On the other hand, concerns about market competition, trade imbalances, and reliance on Chinese manufacturing can have negative effects. Overall, the impact seems to be mixed, with some positive contributions but also notable drawbacks.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe China's impact on my country's economic conditions is mixed because it provides significant benefits through trade, investment, and affordable goods, yet also poses challenges like trade imbalances and increased competition that can harm certain sectors. Therefore, the overall influence cannot be categorized solely as positive or negative but is indeed complex.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe China's influence on my country's economic conditions is mixed but leans towards positive. While Chinese trade and investments contribute to economic growth and job creation, there are concerns about market competition and reliance that could pose challenges. Overall, the benefits seem to outweigh the drawbacks at this moment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe China's economic influence in my country currently has both positive and negative aspects. On the positive side, China provides important trade opportunities, investments, and affordable goods that help support local industries and employment. However, there are also concerns about economic competition, trade imbalances, and potential dependency that can negatively impact local businesses. Overall, the impact feels balanced but leaning slightly towards more positive, as the benefits of engagement seem to outweigh the drawbacks at this moment.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe China's current impact on my country's economy is mixed, with benefits such as trade opportunities and investments, but also concerns about dependency and market competition. Overall, the positives seem to outweigh the negatives, leaning towards a slightly positive influence. Therefore, I choose a balanced view, but given the options, I see more positive aspects despite the cautions.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe China's impact on my country's economic conditions is mixed, because it brings benefits such as trade, investments, and affordable goods, but also presents challenges like trade imbalances and increased competition that can negatively affect certain sectors. Therefore, I see the overall impact as a complex combination of both positive and negative effects.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe China's impact on my country's economic conditions is somewhat mixed. While Chinese trade, investments, and affordable goods support economic activity and consumer choices, there are also concerns about trade deficits, increased foreign competition, and economic dependence that can create vulnerabilities. These factors make the overall impact complex, making it hard to classify strictly as positive or negative.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

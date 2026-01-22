@@ -1,0 +1,60 @@
+{
+  "question": "Do you think tensions between Sunnis and Shias are limited to Iraq, or is it a growing problem in the Muslim world more generally?",
+  "options": [
+    "Limited to Iraq",
+    "More general problem"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Tensions between Sunnis and Shias are not confined solely to Iraq; they reflect broader sectarian divides present in the wider Muslim world. Countries like Bahrain, Lebanon, Syria, and Yemen have experienced conflicts or tensions influenced by Sunni-Shia divisions, often exacerbated by political, regional, and ideological factors. These divides are rooted in historical, theological, and political differences that have been exploited or intensified in various contexts, making the issue more widespread than just Iraq. Therefore, the tensions are a growing problem that affects multiple countries across the Muslim world, not only Iraq.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias are not confined to Iraq; they reflect deep-seated historical, political, and theological divisions that manifest across various countries in the Muslim world. In countries like Bahrain, Lebanon, Syria, Yemen, and Pakistan, sectarian conflicts often align along Sunni-Shia lines and contribute to regional instability. These divisions are exacerbated by geopolitical rivalries and external influences, making the issue more widespread than a single national context. Therefore, while Iraq is a notable hotspot, the Sunnis and Shias' tensions represent a broader challenge affecting the broader Muslim world.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias are not confined solely to Iraq; they reflect deeper historical, political, and sectarian divisions that can be observed across many parts of the Muslim world, including countries like Lebanon, Bahrain, Pakistan, and Yemen. These conflicts often influence regional stability and are fostered by geopolitical rivalries, external influences, and local grievances. While some areas experience more acute conflicts, the underlying issues are more widespread, indicating that the problem is not limited to Iraq but is a broader challenge within the Muslim community.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias are rooted in historical, theological, and political differences that extend beyond Iraq. Given the conflicts and divisions observed in multiple countries across the Muslim world such as Lebanon, Bahrain, Yemen, Pakistan, and Syria, it is evident that these sectarian issues are not confined to a single national context but are part of a broader regional and global challenge. External influences and geopolitical rivalries further amplify these tensions, making it clear that this is a growing problem within the Muslim community at large.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias are rooted in deep historical, theological, and political differences that extend beyond Iraq. Various countries such as Lebanon, Bahrain, Syria, Yemen, Pakistan, and others have experienced sectarian conflicts or tensions influenced by Sunni-Shia divides. These conflicts are often intertwined with regional power struggles, external influences, and internal grievances, suggesting that the issue is widespread across the Muslim world. While Iraq has certainly been a significant flashpoint, the broader pattern indicates that this is a growing and more general problem affecting many Muslim-majority countries.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias extend beyond Iraq, affecting multiple countries in the Muslim world. Historical, theological, and political differences have contributed to regional conflicts and instability in places like Bahrain, Lebanon, Syria, Yemen, and Pakistan. External influences and geopolitical rivalries further exacerbate these divisions. Therefore, it is accurate to see this as a broader regional issue rather than one confined solely to Iraq.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias are deeply rooted in historical, theological, and political factors that are not limited to Iraq. Several countries across the Muslim world, such as Lebanon, Bahrain, Syria, Yemen, and Pakistan, have experienced conflicts or significant tensions influenced by these sectarian divisions. External regional powers and internal political struggles often exacerbate these issues, pointing to a broader, more widespread problem rather than a localized one. As these tensions impact multiple countries and are intertwined with regional geopolitics, it is clear that this is a growing concern beyond Iraq alone.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias are rooted in historical, theological, and political differences that are not limited to Iraq but are present in various countries across the Muslim world, such as Lebanon, Bahrain, Yemen, Pakistan, and Syria. External regional influences and geopolitics have also played a role in exacerbating these divisions, indicating that this is a broader and growing regional issue rather than one confined solely within Iraq. Therefore, it is more accurate to see it as a larger problem affecting the Muslim world contextually and dynamically.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The tensions between Sunnis and Shias have deep historical, theological, and political roots that have played out in various countries beyond Iraq. Multiple instances of sectarian conflict or tension, such as in Lebanon, Bahrain, Yemen, Pakistan, and Syria, indicate that these issues are not confined to a single national context. Moreover, regional power struggles and external influences have further exacerbated these divisions, contributing to a broader and more persistent challenge within the Muslim world. Therefore, it is evident that this is a growing problem across many Muslim-majority countries, not just Iraq.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

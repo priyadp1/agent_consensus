@@ -1,0 +1,62 @@
+{
+  "question": "Generally speaking, how much do you think your country can trust\u2026Australia...a great deal, a fair amount, not too much or not at all?",
+  "options": [
+    "A great deal",
+    "A fair amount",
+    "Not too much",
+    "Not at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B because Australia has a relatively stable government, transparent institutions, and a reputation for fairness and social cohesion. While there are occasional issues and debates that may cause some skepticism, overall trust in Australian institutions remains moderate to high among the population, reflecting a general confidence in the country's systems and societal values.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose B because Australia generally has a reputation for stable governance, strong institutions, and effective leadership, which fosters a fair amount of trust among its citizens. While no country is perfect, Australia's transparency and community-oriented policies tend to inspire confidence in its government and societal systems. Thus, I believe people tend to trust their country quite reasonably but not necessarily to the highest degree possible.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Australia is generally a trustworthy country due to its strong democratic institutions, commitment to fairness, and generally transparent governance. While there may be some issues or instances of mistrust at times, overall, the country maintains a positive reputation that inspires confidence in its societal structures and leaders. Therefore, I would select a confidence level that reflects a substantial amount of trust in Australia's institutions and society.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Australia generally maintains strong democratic institutions, transparent governance, and community-oriented policies that foster a significant level of trust among its citizens. While no country can be considered perfectly trustworthy in every aspect, Australia's reputation for stability and fair policies suggests that its people tend to trust their institutions quite reasonably. Therefore, I would choose a fair amount of trust, reflecting confidence without absolute certainty.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Australia is a nation with generally strong democratic institutions, transparency, and social cohesion, which foster a high level of trust among its citizens. While minor issues may exist, the overall reputation and governance suggest that there is a substantial amount of trust. Therefore, I would choose a-level B, reflecting a fair amount of confidence in the country\u2019s systems and societal values.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Australia's reputation for stable governance, transparent institutions, and social cohesion leads to a generally moderate level of public trust. While there are issues and debates that may cause some skepticism, overall confidence remains relatively high but not at the very top. Therefore, I would select a fair amount of trust, reflecting the balanced perspective present in Australian society.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the general perception of Australia\u2019s governance, social cohesion, and institutions, it appears that there is a significant level of trust among its citizens, though not at the absolute highest level. The country\u2019s reputation for stability and transparency supports a moderate to high confidence, but some skepticism remains, preventing a designation of \"a great deal\" of trust. Therefore, I believe that Australia can generally be trusted to a fair amount.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Australia has built a reputation for robust democratic institutions, transparency, and social cohesion, which foster a generally high level of trust among its citizens. While there are challenges and areas for improvement, the overall environment suggests that Australians tend to trust their institutions quite reasonably. Therefore, I would choose a fair amount of trust.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Australia generally maintains strong democratic institutions, transparent governance, and community-oriented policies that foster a significant level of trust among its citizens. While no country can be considered perfectly trustworthy in every aspect, Australia's reputation for stability and fair policies suggests that its people tend to trust their institutions quite reasonably. Therefore, I would choose a fair amount of trust, reflecting confidence without absolute certainty.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

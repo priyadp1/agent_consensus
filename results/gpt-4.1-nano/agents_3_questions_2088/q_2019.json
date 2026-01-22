@@ -1,0 +1,62 @@
+{
+  "question": "Do you think ____ plays a more important role in the world today compared to 10 years ago, a less important role or about as important a role in the world as it did 10 years ago? a. your country",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the role of my country has become more important in the world today compared to 10 years ago. This is due to the increasing influence of my country in global politics, economy, and regional stability. The rise of new economic powers and shifting alliances have also heightened the significance of my country\u2019s actions and policies in shaping international affairs. Therefore, my country's importance has grown over the past decade, reflecting its expanding role on the world stage. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that my country plays a more important role in the world today compared to 10 years ago. Over the past decade, many nations have increased their diplomatic influence, participate more actively in global issues such as climate change and economic stability, and have strengthened their international alliances. Additionally, some countries have become more prominent in global technology and innovation, which amplifies their importance on the world stage. These developments suggest that the role of my country has grown rather than diminished or stayed the same.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my opinion, the role of my country has become more important in the world today compared to 10 years ago. This is due to factors such as increased economic influence, participation in international organizations, and the country's strategic position on global issues. As global events and challenges grow more interconnected, the significance of my country\u2019s contributions and stance has also amplified, making its role more prominent than a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that my country plays a more important role in the world today compared to 10 years ago. Over the past decade, nations have increased their diplomatic influence, engaged more actively in global issues like climate change and economic stability, and strengthened international alliances. Additionally, some countries have gained prominence in technology and innovation, further amplifying their importance on the global stage. These developments suggest that my country\u2019s role has grown rather than diminished or remained the same.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that my country's role has become more important in the world today compared to 10 years ago. This is because many nations are gaining influence economically and politically, and my country\u2019s actions can significantly impact regional and global stability. As global interconnectedness increases, the importance of my country's position on international matters has also grown, making it more central to worldwide developments.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that my country plays a more important role in the world today compared to 10 years ago. The increased global influence in areas such as diplomacy, economic contributions, regional stability, and participation in addressing global challenges like climate change indicates a significant rise in my country's importance on the international stage. These factors suggest that my country\u2019s role has expanded over the past decade.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that my country plays a more important role in the world today compared to 10 years ago. As nations continue to gain influence through economic growth, diplomatic initiatives, and participation in global issues such as climate change and security, my country's impact on international affairs has increased. This growing involvement makes its role more significant now than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that my country plays a more important role in the world today compared to 10 years ago. In recent years, many countries have increased their diplomatic engagement, participated actively in global issues such as climate change and economic stability, and formed stronger international alliances. Additionally, technological advancements and innovation have elevated some nations' prominence on the international stage. These developments suggest that my country\u2019s influence and significance have grown over the past decade.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that my country plays a more important role in the world today compared to 10 years ago. In recent years, countries have increased their diplomatic efforts, expanded their influence through international organizations, and taken more active roles in addressing global challenges such as climate change, security threats, and economic development. These factors have likely elevated the importance of my country on the global stage, making its role more prominent than before.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

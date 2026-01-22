@@ -1,0 +1,60 @@
+{
+  "question": "For each of the following statements about the missile strikes from pilotless aircraft called drones, please tell me whether you agree or disagree...they kill too many innocent people.",
+  "options": [
+    "Agree",
+    "Disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that drone strikes are a complex issue. On the one hand, they can be an effective tool for targeted military action against threats. On the other hand, there is a significant concern about their tendency to cause civilian casualties, which can undermine moral and ethical standards, as well as public support. Therefore, I think that the risk of killing innocent people is too high and should be minimized through stricter controls and accountability measures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that drone strikes pose a significant risk of causing harm to innocent civilians, which raises serious ethical and humanitarian concerns. While national security is important, the potential for collateral damage suggests that these strikes often kill too many innocent people, making them problematic from a moral standpoint. Therefore, I tend to disagree with the statement that they do not kill many innocent people.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that drone strikes can sometimes lead to the unintended killing of innocent people, which raises serious ethical and moral concerns. While the primary aim might be to target militants or terrorists, the risk to civilians often makes these operations controversial. Protecting innocent lives should always be a priority, and if drone strikes cause excessive collateral damage, they are problematic. Therefore, I tend to agree with the statement that they kill too many innocent people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that drone strikes often result in unintended civilian casualties, which raises serious ethical concerns. While national security interests are important, the risk that innocent people are killed suggests that these strikes frequently cause excessive collateral damage. Therefore, I agree that they kill too many innocent people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that drone strikes often result in the unintended killing of innocent people, which raises serious ethical and moral issues. While the goal may be to target militants, the collateral damage can be significant and undermine moral standards as well as public support. Ensuring the safety of civilians should be a top priority, and if drone strikes cause too many innocent casualties, they are problematic and should be reconsidered or better controlled.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I agree that drone strikes tend to cause too many innocent casualties, which raises significant ethical concerns. While they can be an effective military tool, the high risk of collateral damage suggests that they often kill more civilians than acceptable, and efforts should be made to reduce this harm through stricter oversight and accountability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I agree that drone strikes tend to cause too many innocent casualties, which raises significant ethical concerns. The potential for collateral damage to harm civilians can undermine moral standards and erode public trust, making it important to reconsider or improve oversight of such operations to minimize these unintended deaths.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that drone strikes often result in civilian casualties, which is a serious ethical concern. Despite their strategic benefits, the potential for excessive harm to innocent people suggests that current practices may cause too many unintended deaths. Therefore, I agree that they kill too many innocent people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I agree that drone strikes often result in the killing of innocent people, which raises serious ethical concerns and can undermine moral standards and public support. The risk of excessive collateral damage suggests that current practices may be causing too many unintended civilian casualties, and efforts should be made to minimize such harm. Protecting civilians should be a priority, and if these strikes cause significant harm to innocent individuals, their use should be carefully reevaluated.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

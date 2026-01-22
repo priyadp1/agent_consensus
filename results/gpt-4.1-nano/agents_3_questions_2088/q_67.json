@@ -1,0 +1,62 @@
+{
+  "question": "As I read another list of statements, for each one, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with it...The state controls too much of our daily lives.",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the extent of government control varies depending on the country and context. In some places, the government plays a significant role in regulating daily activities, services, and economic matters, which I see as necessary for societal stability. In others, there seems to be less involvement, allowing individuals more freedom. Overall, I think the government does have considerable influence, but I also value personal autonomy. Therefore, I would choose mostly agree because I see a notable, but not overwhelming, level of control.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the level of government control varies depending on the country and context, but in many modern societies, the government does play a significant role in regulating daily life through laws, policies, and public services. This can range from transportation and education to healthcare and business regulations. While some people may feel that this is necessary for social order and progress, others might see it as overreach and infringements on personal freedoms. Personally, I think that although government involvement is essential in certain areas, an excessive amount of control can limit individual liberty and innovation. Therefore, I lean towards the view that the state controls too much of our daily lives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the government's role in daily life should be balanced. While some regulation is necessary to ensure safety, fairness, and public welfare, excessive control can limit individual freedoms and personal responsibility. Therefore, I lean towards the view that the state might have too much influence in our lives, but I understand there are areas where government involvement is beneficial. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that government involvement in our daily lives can be necessary for maintaining order, safety, and public welfare. However, when the government\u2019s control becomes excessive and limits personal freedoms or personal responsibility, it can be detrimental. Based on this perspective, I feel that the state controls too much of our daily lives, as there is often a fine line between beneficial regulation and overreach. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the government plays a significant role in regulating aspects of daily life, but there should be a balance to ensure individual freedoms are maintained. Excessive control can hinder personal autonomy and responsibility, but some government involvement is necessary for safety and societal order. Therefore, I think the statement that the state controls too much of our daily lives aligns more closely with my perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that in many societies, the government has a substantial role in regulating aspects of daily life, such as public services, safety, education, and health. While this involvement can be necessary for the functioning and stability of society, it can also lead to overreach if it restricts personal freedoms too much. Given this balance, I see the government as having a significant but not overwhelming influence on our daily lives, making \"mostly agree\" the most appropriate choice.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the government has an important role in regulating aspects of our daily lives to ensure safety, public health, and societal order. However, I also think there should be limits to avoid excessive interference that can restrict personal freedoms and autonomy. Overall, I see the involvement as necessary but not to an excessive degree. Therefore, I align most closely with \"mostly agree.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that government involvement in daily life plays an important role in ensuring safety, public health, and social order. However, when this control becomes excessive and limits individual freedoms or autonomy, it can be problematic. Based on this view, I think the government does hold a significant level of influence, but it is not overly oppressive or overreaching. Therefore, I lean towards mostly agree as the most appropriate response.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that government involvement in our daily lives can be necessary for maintaining order, safety, and public welfare. However, when the government\u2019s control becomes excessive and limits personal freedoms or personal responsibility, it can be detrimental. Based on this perspective, I feel that the state controls too much of our daily lives, as there is often a fine line between beneficial regulation and overreach. Therefore, I choose the option that reflects a belief that the level of government control is excessive.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

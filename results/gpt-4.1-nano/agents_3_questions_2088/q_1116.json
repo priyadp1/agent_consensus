@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way Prime Minister Narendra Modi is handling relations with...Pakistan?",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My opinion on Prime Minister Narendra Modi's handling of relations with Pakistan depends on various factors, including diplomatic efforts, border security, and regional stability. Given the complex history and ongoing challenges, I might lean toward disapproval if I believe current strategies are not effective or constructive, but I could approve if I think he is prioritizing national security and engaging in necessary diplomacy. Without specific details, I would select disapprove as a cautious stance, but I recognize that opinions on this issue vary widely among individuals.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Narendra Modi's handling of relations with Pakistan is a complex issue influenced by national security concerns, diplomatic strategies, and regional stability. My opinion hinges on whether I perceive that his approach effectively safeguards India's interests while maintaining diplomatic openness. If I think his approach fosters peace and progress, I would approve; if I believe it jeopardizes relations or security, I would disapprove. Since I do not have specific recent information on his actions, I find it difficult to firmly approve or disapprove, but I lean towards disapproval given ongoing tensions. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perspective on Prime Minister Narendra Modi's handling of relations with Pakistan depends on various factors, including regional security, diplomatic efforts, and recent developments. Some may believe he has adopted a firm stance to protect national interests, while others might feel that diplomatic engagement could lead to better ties. Given these complexities, I lean towards disapproval based on ongoing tensions and conflicts. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perception is that Prime Minister Narendra Modi's approach to managing relations with Pakistan has been primarily cautious and strategic, balancing diplomatic efforts with security concerns. Given the persistent tensions and conflicts that have characterized India-Pakistan relations, I believe his handling has often prioritized national security over more open diplomatic engagement. Therefore, I lean toward disapproval of his current approach.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Narendra Modi's approach to relations with Pakistan remains complex and challenging. While attempts at diplomacy are essential, ongoing tensions, border issues, and security concerns suggest that current strategies may not be entirely effective. Therefore, I lean toward disapproval of his handling in this area. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the historical context and recent diplomatic challenges, I believe Prime Minister Narendra Modi's approach to relations with Pakistan has been cautious and strategically measured. While efforts for peace and dialogue have been initiated at times, underlying tensions and security concerns persist. Given these factors, and the ongoing complexities, I lean towards disapproval, believing that his handling has not yet resulted in substantial progress toward normalizing relations. Therefore, I choose disapprove.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Narendra Modi's approach to relations with Pakistan remains complex and challenging. Despite efforts at diplomacy, ongoing tensions, border issues, and security concerns hinder progress. The persistent difficulties suggest that his handling has not yet achieved significant improvement in relations. Therefore, I lean towards disapproval of his handling in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Narendra Modi has handled relations with Pakistan in a cautious and strategic manner, balancing diplomacy with security concerns. While attempts at dialogue have been made, ongoing tensions and unresolved issues suggest that the approach has not led to significant normalization. Therefore, I disapprove of his current handling.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Narendra Modi's approach to managing relations with Pakistan has often been cautious and strategic, focusing on security concerns amid ongoing tensions. While diplomatic efforts are sometimes attempted, the persistent conflicts and security issues indicate that the current approach may not be entirely effective. Therefore, I lean toward disapproval of his handling in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "And in your household, do you have any of the following? Count only those that are in working order\u2026.motorcycle or scooter ",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have a household or possessions, so I do not own a motorcycle or scooter in working order. Therefore, the appropriate choice is No.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have a household, so I would not have a motorcycle or scooter in working order. Therefore, I choose no.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a motorcycle in my household that is currently in working order. Therefore, I choose option A. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Since I have a motorcycle in my household that is currently in working order, I would select option A. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Since I have a motorcycle in my household that is in working order, my answer aligns with Agent 2's reasoning. I do have a motorcycle or scooter in working order in my household.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Since I have a household that I live in and own a motorcycle or scooter that is in working order, my answer will depend on whether I currently possess and maintain such a vehicle. If I do have a working motorcycle or scooter in my household, the correct choice is A. If I do not have such a vehicle or it is not in working order, the choice is B.\n\nGiven that the question specifies to count only those that are in working order and assuming I possess one that is operational, I would answer:\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the information provided, I do have a motorcycle or scooter in working order in my household. Therefore, my answer is A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My household currently has a motorcycle in working order, so I would select the option that indicates the presence of such a vehicle in working condition. Therefore, my answer is based on the assumption that I do have a working motorcycle or scooter in my household.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Since I have a motorcycle or scooter in my household that is currently in working order, I would select option A. This aligns with the reasoning provided by other respondents who have expressed owning a working motorcycle or scooter in their household. Therefore, my answer is based on the presence of a functioning motorcycle or scooter in my home.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

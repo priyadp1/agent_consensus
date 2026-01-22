@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, for each, please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of self-defense forces very good, somewhat good, somewhat bad or very bad in your country? ",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces is somewhat good in my country because they play an important role in maintaining national security and stability. Their efforts help protect citizens from external threats and contribute to overall safety, which I see as a positive influence. However, there may still be concerns about their actions or the extent of their power, preventing me from rating their influence as very good. Overall, I think they have a generally beneficial impact but not without some issues that need addressing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The influence of self-defense forces in my country tends to be viewed as positive because they contribute to maintaining national security and protecting citizens from external threats. Their role helps ensure stability and peace, which are fundamental for overall societal well-being. Given this, I believe their influence is more beneficial than harmful.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces in my country is somewhat good because they play a crucial role in maintaining security and stability, which are vital for societal progress. However, their actions may sometimes lead to tension or conflicts, preventing them from being viewed as entirely positive. Overall, their presence contributes positively, but there is room for improvement to ensure their influence is consistently beneficial.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces in my country leans more toward the positive side, because they are essential for national security and maintaining stability. While there may be some concerns about tensions or conflicts, their overall contribution helps protect citizens and uphold peace, which I see as a benefit to society. Therefore, I would rate their influence as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces in my country is somewhat good because they are essential in maintaining national security and stability. Their role helps protect citizens from external threats and contributes positively to overall safety. While there may be concerns or issues that need to be addressed, their contribution is generally beneficial, and their influence seems to be more positive than negative.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces is somewhat good in my country because they play a crucial role in maintaining national security and protecting citizens from external threats. Their efforts contribute to stability and peace, which benefit society overall. While there may be concerns about their actions or scope, their positive impact seems more significant than any negatives. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces is somewhat good in my country because they are essential in maintaining national security and stability. Their role helps protect citizens from external threats and contributes positively to overall safety. While there may be concerns or issues that need to be addressed, their contribution is generally beneficial, and their influence seems to be more positive than negative.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces in my country is somewhat good because they are fundamental for maintaining national security and ensuring the safety of citizens. Their efforts help promote stability and peace, which benefits society as a whole. While there are some concerns about their scope or actions, overall, their positive contributions seem to outweigh any negatives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the influence of self-defense forces in my country is somewhat good because they play a crucial role in safeguarding national security and maintaining stability. Their efforts help protect citizens from external threats and contribute positively to societal safety. While there may be some concerns or challenges associated with their role, overall their influence is beneficial and supports the country's well-being.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

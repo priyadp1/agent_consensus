@@ -1,0 +1,61 @@
+{
+  "question": "Overall, would you say U.S. economic aid to Pakistan is having a mostly positive impact, a mostly negative impact, or no impact on the way things are going in Pakistan? ",
+  "options": [
+    "Mostly positive",
+    "Mostly negative",
+    "No impact"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "U.S. economic aid to Pakistan has historically aimed to promote development, stability, and economic growth. While there have been positive impacts such as infrastructure development and humanitarian assistance, challenges persist including dependency, corruption, and sporadic policy effectiveness. Overall, the aid has contributed to some progress but often falls short of transformative change, leading me to think its impact is more nuanced and not overwhelmingly positive or negative. Therefore, I believe the impact is largely neutral, with some benefits but also significant limitations.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My assessment is that U.S. economic aid to Pakistan has had mixed results, but overall it tends to support development efforts and stability, which can be viewed as having a positive impact. It often helps fund infrastructure, health, and education projects, contributing to long-term growth. However, some critics argue that aid sometimes fosters dependency or doesn't lead to sustainable change. Given the overall benefits observed, I believe the impact is mostly positive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The impact of U.S. economic aid to Pakistan is complex and can be viewed from multiple perspectives. While aid can help improve infrastructure, health, and education, there are also concerns that it may not address underlying political or economic challenges effectively. Overall, the aid seems to have a somewhat mixed record, but many would argue that it leans towards a positive influence given the potential benefits and ongoing support. Therefore, I believe it has a mostly positive impact.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given the information from the other respondents, it's clear that U.S. economic aid to Pakistan has generally been perceived as having a predominantly positive impact, despite some critique about potential dependency or limited effectiveness. The overall consensus leans toward recognizing the benefits in terms of development and stability. Therefore, I also believe that the impact is mostly positive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the varied opinions and the evidence provided, U.S. economic aid to Pakistan appears to have mixed effects. While there are tangible benefits such as infrastructure, health, and education improvements, there are also concerns about dependency, corruption, and limited long-term effectiveness. The opinions suggest that, overall, the impact leans toward positive but remains complex and not entirely transformative. Therefore, I believe the impact is mostly positive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the diverse perspectives, I recognize that U.S. economic aid to Pakistan has led to some positive developments, particularly in infrastructure, health, and education, contributing to development and stability. However, it also faces significant challenges such as dependency, corruption, and limited sustainable impact, which suggests the overall effect is not overwhelmingly positive. Given these complexities and the presence of both benefits and limitations, I believe the impact is more neutral, with no clear overall positive or negative dominance.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the nuanced perspectives, it is evident that U.S. economic aid to Pakistan produces both positive and negative effects. While it has contributed to improvements in infrastructure, health, and education sectors, these benefits are offset by issues such as dependency, corruption, and limited sustainable impact. The overall influence appears to be more balanced and complex rather than predominantly positive or negative, and the evidence does not clearly favor one side. Therefore, I believe the most accurate assessment is that the impact is no impact, as the developments are equal to the drawbacks and cancel each other out to some extent.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the differing perspectives, I believe that U.S. economic aid to Pakistan primarily fosters positive development through improvements in infrastructure, health, and education. While there are concerns about dependency and corruption, the overall contribution seems to tilt toward positive influence. Therefore, I think the impact is mostly positive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the perspectives of other respondents, it appears that U.S. economic aid to Pakistan is generally viewed as having predominantly positive effects, with some acknowledging complexities and criticisms. While there are concerns about dependency and effectiveness, the overall consensus suggests that the aid contributes to development and stability, making the impact more positive than negative. Therefore, I believe the overall impact is mostly positive.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

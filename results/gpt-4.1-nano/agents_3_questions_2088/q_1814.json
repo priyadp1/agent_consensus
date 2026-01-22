@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, are India's laws too tough, not tough enough, or about right when it comes to punishing the crime of rape?",
+  "options": [
+    "Too tough",
+    "Not tough enough",
+    "About right"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that India's laws should strike a balance between being stringent enough to serve as a deterrent and ensuring that justice is served fairly. While recent legal reforms aim to speed up trials and impose harsher punishments, there is still a perception that enforcement may not always be consistent, and some cases may not result in proportionate consequences. Therefore, it appears that the laws are not yet as tough as they need to be to effectively deter and punish such crimes, but they are moving in the right direction. Given this, I think the laws are not tough enough to address the severity and prevalence of rape adequately.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while India's laws regarding rape are stringent on paper, their implementation often falls short due to delays, corruption, and societal factors. To truly deter such crimes and ensure justice, the laws need not only to be tough but also to be effectively enforced. Therefore, I think they are not tough enough in practice, even if the legal framework exists. Strengthening enforcement mechanisms and ensuring swift justice is crucial.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "India's laws regarding the punishment for rape have historically been a subject of debate. While there have been significant legal reforms to strengthen penalties and close gaps in the justice system, there are still concerns about the implementation and effectiveness of these laws. Some believe that the laws may be too lenient or not sufficiently enforced, leading to frustration among victims and advocates. Others argue that the laws are already stringent and that issues lie more with social attitudes and judicial processes. Overall, I believe the legal framework requires ongoing review and improvement to ensure justice is effectively delivered, but current laws are generally not too lenient. Therefore, I think they are about right, though real change depends on enforcement and societal attitudes.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my opinion, while India's laws regarding rape are legally stringent, their effectiveness is hindered by issues such as delayed justice, societal attitudes, and enforcement gaps. This suggests that the laws are not enforced as rigorously as they should be, allowing some offenders to evade strict punishment. Therefore, I believe the laws are not tough enough in practice, even if the written statutes are stringent. Strengthening enforcement and ensuring swift justice are essential steps to address this gap.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while India has made legal reforms to strengthen penalties for rape, enforcement and societal attitudes still pose significant challenges. Given that some laws are perceived as insufficiently enforced or not stringent enough to serve as effective deterrents, I think the laws are not tough enough to address the severity and prevalence of rape adequately. Ensuring justice requires both robust laws and proper implementation; currently, the legal framework should be tougher to prevent such crimes effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that India's laws regarding rape are not tough enough. While the legal framework may exist, enforcement challenges such as delays, corruption, and societal factors hinder justice and reduce the deterrent effect. Strengthening enforcement and ensuring swift, fair trials are essential steps to make the laws truly effective. Therefore, I think the laws are not tough enough to adequately address and deter these crimes.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that India's laws regarding rape are not tough enough. Despite the existence of legal provisions, enforcement issues such as delays, corruption, and societal attitudes undermine the effectiveness of these laws. Strengthening enforcement, ensuring swift justice, and increasing the severity of punishments would better serve as deterrents and help address the high prevalence of such crimes. Therefore, I think the laws are not tough enough to adequately address and deter these crimes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that India's laws regarding rape are not tough enough. Although legal provisions exist, enforcement issues such as delays in trials, societal attitudes, and corruption undermine the deterrent effect of the laws. Strengthening enforcement mechanisms and ensuring swift, fair justice are crucial to making these laws more effective in punishing and deterring rape. Therefore, I think the laws are not tough enough to adequately address these crimes.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while India has implemented laws to address rape, there are still significant issues with enforcement and societal attitudes that hinder their effectiveness. Laws alone are not enough; swift justice and societal change are necessary to truly deter such crimes. Given these challenges, I think the current legal measures are not tough enough to effectively combat and prevent rape.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...Egyptian President Hosni Mubarak",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Hosni Mubarak was a long-standing leader of Egypt who maintained a relatively stable relationship with international partners for many years. However, his administration was also marked by authoritarian practices, limited political freedoms, and internal unrest culminating in his resignation in 2011 following widespread protests. Given this complex history, confidence in his ability to make the right decisions regarding world affairs is difficult to fully endorse. Many might have viewed him as maintaining stability, but concerns about his governance cast doubt on whether he could truly prioritize the broader interest of world affairs. Therefore, I would lean towards a cautious perspective regarding his effectiveness in this area.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Hosni Mubarak was a long-serving leader of Egypt who maintained a close alliance with Western countries and played a significant role in regional politics. However, during his later years in power, there was widespread criticism of political repression and lack of democratic freedoms, which cast doubt on his ability to prioritize broader international concerns over domestic control. Given his authoritarian style and the eventual upheaval during the Arab Spring, confidence in his judgment regarding world affairs would likely be low among many international observers. Therefore, I would choose not too much confidence, reflecting skepticism about his capacity to act in the global interest.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the historical context, Hosni Mubarak's long tenure as Egypt's president was marked by a focus on maintaining Egypt's stability and sovereignty. While he was viewed as a key regional ally, his leadership was often criticized for authoritarian practices and lack of democratic reforms. His approach to world affairs was primarily centered on Egypt's national interests, and during his rule, Egypt maintained close relations with Western countries, especially the United States, which indicates a pragmatic approach to international relations. However, due to concerns about governance and human rights issues, confidence in his leadership on the global stage might be limited for some people. Therefore, I would choose a moderate level of confidence, acknowledging his influence but also considering the criticisms and limitations of his leadership.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering Mubarak\u2019s long tenure and his pragmatic approach to international relations\u2014maintaining alliances with Western countries and handling regional issues\u2014it appears that he was generally perceived as a leader who prioritized stability and national interests. Although his leadership faced significant criticism for authoritarian practices and human rights abuses, his influence on world affairs was marked by a direct engagement with global powers. Given that some people might have trusted his experience and strategic approach despite concerns, I believe that a moderate level of confidence aligns best with his record. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering Mubarak\u2019s long rule was characterized by stability and pragmatic foreign policy, but also by authoritarianism and internal repression, public confidence in his ability to handle world affairs would likely be cautious. Many would recognize his influence and the stability he provided, yet concerns about his governance and human rights issues would temper full confidence. Given this balance, I believe a moderate level of confidence best reflects this nuanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering Hosni Mubarak's long tenure and the mixed record of maintaining international stability versus internal repression, my confidence in his ability to do the right thing regarding world affairs is limited. While he historically played a significant role in regional politics and maintained alliances, his authoritarian practices and the eventual loss of support during the Arab Spring suggest he was not focused on broader international interests. Therefore, I would select not too much confidence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering Mubarak's long tenure as Egypt's leader, he was known for maintaining regional stability and engaging in pragmatic foreign policy. However, his authoritarian rule, internal repression, and the downfall during the Arab Spring reveal significant concerns about his leadership and priorities. While he managed international relations effectively at times, questions about his commitment to broader global interests and human rights diminish confidence in his judgment regarding world affairs. Therefore, I believe that some confidence accurately reflects this nuanced view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering Mubarak\u2019s long tenure and his pragmatic approach to international relations\u2014maintaining alliances with Western countries and handling regional issues\u2014it appears that he was generally perceived as a leader who prioritized stability and national interests. Although his leadership faced significant criticism for authoritarian practices and human rights abuses, his influence on world affairs was marked by a direct engagement with global powers. Given that some people might have trusted his experience and strategic approach despite concerns, I believe that a moderate level of confidence aligns best with his record. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering Mubarak\u2019s long tenure marked by pragmatic foreign relations and regional stability, along with the criticism over authoritarian practices and human rights abuses, public confidence in his ability to handle world affairs would likely be moderate. While he maintained influential ties with global powers, internal repression could cause skepticism. Therefore, I believe a moderate level of confidence best reflects this nuanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

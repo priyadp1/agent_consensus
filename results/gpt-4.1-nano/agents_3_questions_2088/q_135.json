@@ -1,0 +1,62 @@
+{
+  "question": "Do you strongly approve, approve, disapprove or strongly disapprove of the way...(name of survey country leader)...is handling her/his job as President/Prime Minister/Chancellor?",
+  "options": [
+    "Strongly approve",
+    "Approve",
+    "Disapprove",
+    "Strongly disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that leadership can be complex, but based on recent events and policies, I tend to lean toward disapproval because there have been noticeable issues with decision-making and communication strategies that could have been handled better, impacting public trust and international relations. Therefore, I choose disapprove.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the leader's handling of the job has been generally effective, demonstrating strong leadership qualities and making decisions that are largely beneficial for the country. While some criticism exists, overall approval seems justified based on recent policies and outcomes. Therefore, I would choose approval as the most appropriate response.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the leader's handling of their duties has been generally effective, maintaining stability and pushing forward key policies, although there may be areas needing improvement. Given this, I lean towards a positive assessment, but I am not entirely convinced to choose the highest approval level. Therefore, I select approval as an appropriate stance reflecting moderate confidence in their performance.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the leader's handling of her/his duties has been generally effective and has contributed positively to the country's stability and policy progress. While there may be some criticisms or areas for improvement, overall confidence in their performance remains high. Based on this assessment, I would choose approval as the most fitting option.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that leadership can be nuanced, and my impression considers both recent policies and their broader impact. While I see some effective efforts in maintaining stability and advancing key initiatives, I also notice issues with communication and decision-making that may affect public confidence and international relations. Therefore, I tend to lean toward disapproval, as I believe there is room for improvement in leadership performance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that leadership effectiveness depends on a balance of decision-making and communication, and while there are concerns about recent issues, the overall direction appears to be positive. The leader has demonstrated some strong qualities and has made decisions beneficial for the country, though there is room for improvement. On reflection, I lean toward approval as it recognizes the strengths while acknowledging some existing criticisms.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize that leadership involves balancing various priorities and navigating complex situations. While there are positive aspects to her leadership, such as progress on certain initiatives, there are also ongoing concerns related to communication and decision-making that impact public trust and international relations. Given these considerations, I lean toward disapproval as there is notable room for improvement in her performance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the positive assessments and recognition of the leader's effectiveness and contributions towards stability and policy progress, I believe that approving of her/his performance captures the overall sentiment. While acknowledging there are some criticisms, the general confidence remains high, which aligns with choosing approval.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the overall feedback, I acknowledge the leader's effective efforts in maintaining stability and progressing policies, but also recognize areas such as communication and decision-making that could be improved. The mixed nature of these assessments leads me to lean towards a cautious approval, balancing the positive achievements with the noted concerns. Therefore, I choose approve as the most fitting option.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

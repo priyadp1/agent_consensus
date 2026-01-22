@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Public transportation",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe public transportation is a very important aspect of daily life for many people, especially in urban areas. Good public transportation reduces traffic congestion, pollution, and provides accessibility to those who do not own cars. If public transportation is inadequate or unreliable, it can significantly impact people's daily routines and the overall efficiency of a city. Therefore, I consider it a very big problem if the public transportation system is poor or struggling. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Public transportation is a crucial part of everyday life for many people, especially in urban areas. When it functions well, it can greatly reduce traffic congestion, pollution, and commuting times. However, in many parts of the country, public transportation systems face issues such as limited coverage, unreliability, or safety concerns, which can hinder their effectiveness. Depending on the region, perceptions may vary, but overall, public transportation often remains a significant concern for many citizens as it impacts access, mobility, and quality of life. Considering these factors, I believe it is a moderately big problem, as improvements are needed in many places but it may not always be the top-tier most pressing issue compared to others like healthcare or the economy.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Public transportation is often a crucial part of daily life for many people, especially in urban areas where it can reduce traffic congestion and pollution. If public transportation is poorly developed, unreliable, or inaccessible, it can significantly impact people's ability to commute efficiently, affecting their work and personal commitments. In many countries, public transportation issues are regarded as a substantial problem due to these reasons. Therefore, I see it as a moderately big problem that requires attention and improvement. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Public transportation is essential for many people's daily commute and plays a significant role in reducing traffic and pollution. While it can be very effective in well-developed areas, in many regions it suffers from unreliability, limited coverage, or safety concerns, making it a challenge for a large portion of the population. Given its impact on mobility and quality of life, and the ongoing need for improvements, I believe it represents a moderately big problem that deserves attention but might not always be the top priority compared to other issues like healthcare or economic stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe public transportation is an essential component of urban infrastructure that directly affects daily life, environmental sustainability, and economic productivity. When public transportation systems are inadequate or inaccessible, they can cause significant disruptions to commuting, increase traffic congestion, and contribute to pollution. Given these impacts, I consider issues with public transportation to be a very big problem that warrants serious attention and improvement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe public transportation is a fundamental aspect of urban life that greatly affects daily routines, environmental impact, and accessibility. Poor public transportation systems can cause congestion, pollution, and social inequities. While in some areas it may not be the most immediate concern compared to issues like healthcare or the economy, overall, it remains a significant challenge that influences many aspects of life. Therefore, I consider it a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe public transportation is a vital aspect of urban infrastructure that significantly impacts daily life, environmental sustainability, and social equity. When it functions poorly or is inaccessible, it can lead to increased traffic congestion, pollution, and social disparities, affecting many people's routines and well-being. Given these considerations, I see it as a very big problem that needs urgent attention and improvement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Public transportation is a vital component of urban infrastructure that significantly impacts daily life, environmental sustainability, and social equity. While many cities have made improvements, challenges such as unreliability, limited coverage, and safety issues still persist in various regions. These problems can hinder mobility and quality of life for large segments of the population. Although it may not be the most urgent issue compared to healthcare or economic stability, it remains a substantial concern that warrants attention and investment. Considering its widespread importance and existing limitations, I believe it is a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that public transportation is a critical service that directly impacts many people's daily lives, especially in urban areas. When it functions well, it facilitates mobility, reduces traffic congestion, and lowers pollution levels. However, in many regions, its reliability, coverage, and safety are still problematic, causing significant inconveniences for users. Given these issues, I consider public transportation to be a moderately big problem that needs ongoing improvements, but may not always be the most immediate or severe issue overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

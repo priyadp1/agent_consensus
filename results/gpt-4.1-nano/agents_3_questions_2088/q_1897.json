@@ -1,0 +1,61 @@
+{
+  "question": "As I read some policies of U.S. President Donald Trump, please tell me if you approve or disapprove of each one. c. U.S. withdrawal from the Iran nuclear weapons agreement",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The U.S. withdrawal from the Iran nuclear weapons agreement was a controversial decision. Supporters argued it was necessary to prevent Iran from developing nuclear weapons and to pressure Iran into renegotiating a more favorable deal. Critics believed it undermined diplomatic efforts and increased the risk of conflict in the region. My opinion aligns more with concern over its potential to escalate tensions and reduce diplomatic options, leading to disapproval of the withdrawal.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it removed a diplomatic framework aimed at preventing nuclear proliferation through multilateral negotiations. This move potentially increased tensions and instability in the region, undermining longstanding international efforts to curb Iran's nuclear capabilities through diplomacy rather than military action. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it risked escalating tensions and potentially undermined diplomatic efforts to prevent Iran from developing nuclear weapons. Maintaining the agreement was seen by many as a way to support stability and international negotiations. Therefore, I disapprove of this action.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it disrupted diplomatic efforts aimed at preventing nuclear proliferation and could increase regional tensions. Maintaining the agreement appeared to promote stability and international cooperation, so withdrawing from it undermined these objectives. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it increased the risk of tension and undermined diplomatic efforts to prevent Iran from developing nuclear weapons. Maintaining the agreement was viewed as a means to support regional stability and international negotiations. The decision was highly controversial and is generally seen as potentially destabilizing.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it disrupted a diplomatic effort aimed at preventing nuclear proliferation through multilateral negotiation. This decision increased regional tensions and undermined international efforts to manage Iran's nuclear program peacefully. The move risked escalating conflicts rather than promoting stability and diplomacy.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it disrupted diplomatic efforts aimed at preventing nuclear proliferation and increased regional tensions. This move risked destabilizing international negotiations and potentially escalating conflicts instead of promoting peace and stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it disrupted diplomatic efforts aimed at preventing nuclear proliferation and increased regional tensions. Maintaining the agreement appeared to promote stability and international cooperation, so withdrawing from it undermined these objectives. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from the Iran nuclear weapons agreement because it disrupted diplomatic efforts aimed at preventing nuclear proliferation and could increase regional tensions. Maintaining the agreement appeared to promote stability and international cooperation, so withdrawing from it undermined these objectives.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

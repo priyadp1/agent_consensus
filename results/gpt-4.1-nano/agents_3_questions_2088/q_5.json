@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Rachid Ghannouchi?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am unable to provide a personal opinion about Rachid Ghannouchi, as I do not possess personal feelings or opinions. However, based on the available information, some individuals view him positively due to his role in Tunisian politics and his advocacy for democracy, while others criticize him for his political stance and past associations. Given the mixed perceptions, a neutral or moderately favorable opinion might be common among those who appreciate his efforts for change, but there are also those who view him with skepticism. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rachid Ghannouchi. He is a significant political figure in Tunisia, known for his role in the Ennahda Movement and his influence on the country's democratic transition. While I recognize his contributions to political discourse and efforts toward democracy, I also acknowledge that his policies and political stance have been subject to debate and varying opinions. Therefore, my view is moderately positive but not entirely favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rachid Ghannouchi because he is a prominent political figure in Tunisia known for his role in the Ennahda Movement, which has played a significant part in the country\u2019s transition to democracy. While I may not agree with all of his political stances or consider him entirely uncontroversial, I recognize his influence and contributions toward shaping Tunisia\u2019s political landscape. Therefore, I lean toward a somewhat favorable view based on his importance and activism.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rachid Ghannouchi because he is a prominent figure in Tunisia's political landscape, known for his leadership in the Ennahda Movement and his role in steering the country\u2019s transition to democracy. While I recognize his influence and contributions to political discourse, I also acknowledge that opinions about him vary, and some policies or stances he has taken may be controversial. Overall, I view his role positively but with some reservations based on differing perspectives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rachid Ghannouchi because he is a significant figure in Tunisian politics, known for his leadership in the Ennahda Movement and his role in the country\u2019s democratic transition. Despite some controversies and disagreements with his political stances, I recognize his influence and contributions toward shaping Tunisia\u2019s political landscape. This nuanced view leads me to choose a somewhat favorable opinion.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize Rachid Ghannouchi as a prominent figure in Tunisian politics, known for his role in advocating for democracy and his leadership in the Ennahda Movement. While I appreciate his contributions to Tunisia's democratic transition, I am also aware of the controversies and debates surrounding his political stance and past associations. This nuanced view leads me to a somewhat positive opinion, acknowledging his influence and efforts but also remaining cautious about some criticisms.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rachid Ghannouchi because he is recognized as a key figure in Tunisian politics and has played an important role in advocating for democracy and leading the Ennahda Movement. While I acknowledge his contributions and influence in Tunisia's democratic transition, I am also aware of the controversies and criticisms surrounding his political stance and past actions. This balanced perspective leads me to select a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rachid Ghannouchi because he is recognized as a significant figure in Tunisia's democratic transition and has contributed to the country's political development. While I appreciate his leadership and advocacy for democracy, I am also aware of the controversies and differing opinions surrounding his political stances and past associations. This balanced perspective leads me to assign him a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rachid Ghannouchi because he has played a significant role in Tunisia's political transition and promoting democratic values. While I appreciate his contributions and leadership within the Ennahda Movement, I am also aware of controversies and differing opinions about his policies and influence. This balanced perspective aligns with a somewhat favorable view.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

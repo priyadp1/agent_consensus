@@ -1,0 +1,62 @@
+{
+  "question": "And thinking specifically about our country, to what extent are you concerned that the violence in Syria will spread to your country - very concerned, somewhat concerned, not too concerned or not at all concerned?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the potential spread of violence from Syria to my country because conflicts in the Middle East can often have regional repercussions, and there is always a risk that such instability could impact neighboring countries or lead to increased refugee flows, terrorism threats, or economic disruptions. While I recognize the resilience and preparedness of my country, I believe that the situation warrants a degree of vigilance and concern.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am moderately concerned about the potential for violence from Syria to spread to my country. Although I recognize that conflicts in Syria are largely contained within its borders, I am aware that regional instability and refugee movements could impact neighboring countries or resonate domestically. However, I do not feel an intense level of worry that the violence will significantly escalate or directly affect my country. Therefore, I select a middle-ground response reflecting cautious awareness without immediate alarm.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am moderately concerned about the potential spillover of violence from Syria to my country. While I recognize that regional instability can increase the risk of violence crossing borders, I also believe that various diplomatic and security measures are in place to prevent such escalation. Therefore, I would categorize my concern as somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the threat of violence spreading from Syria to my country is a concern that warrants attention, but I do not perceive it as an imminent or dire threat. Given the regional instability and the possibility of spillover effects, I feel somewhat concerned but also recognize that diplomatic efforts and security measures reduce the likelihood of significant escalation. Therefore, I am somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the existing responses and the context of regional instability, I recognize that while there are precautions in place, the potential for violence to spread remains a concern due to the interconnected nature of Middle Eastern conflicts. The possibility of spillover and its implications warrants a moderate level of concern, but not at the highest level since measures are likely in place to mitigate this risk. Therefore, I am somewhat concerned about the possibility of violence spreading to my country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while the conflict in Syria is primarily contained within its borders, regional instability can always pose some risk of spillover effects, such as increased refugee flows or security concerns. However, my country has developed measures to mitigate these risks, so I do not feel an intense concern. Therefore, I am somewhat concerned about the potential spread of violence from Syria to my country, but not to a critical degree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the regional instability and potential spillover effects, I recognize that my country has taken measures to mitigate these risks. While the threat of violence spreading from Syria cannot be entirely dismissed, these precautions seem to reduce the immediate concern. Therefore, I feel somewhat concerned about the possibility but not gravely so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the considerations about regional instability and the potential for spillover effects, as well as the measures my country has in place to address such risks, I feel somewhat concerned but do not see it as an imminent or severe threat. The responses from other individuals suggest a balanced level of concern, viewing it as a noteworthy issue but not an urgent danger. Therefore, I believe my own perspective aligns with a moderate level of concern, which is best reflected by choosing \"somewhat concerned.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while the threat of violence spreading from Syria to my country exists, it is not currently an immediate or severe danger. The regional instability increases the concern, but diplomatic efforts and security measures likely mitigate the risk to some extent. Therefore, I am somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

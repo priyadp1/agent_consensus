@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...The situation in Kashmir",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir is a long-standing and complex issue that has led to significant instability, violence, and concern both locally and internationally. Many people perceive it as a substantial threat to peace and security in the region, and it often makes headlines due to its geopolitical implications. Given these considerations, I believe it is a very big problem that requires careful attention and resolution.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir is a highly sensitive and longstanding issue that has significant implications for national stability, security, and regional relations. Many people view it as a major problem because it involves conflict, human rights concerns, and political tensions. While some might see it as less urgent compared to immediate economic or social concerns, for many citizens, it remains a critical concern that impacts national security and peace. Therefore, I would consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir has been a long-standing source of tension and conflict, leading many to view it as a significant issue affecting stability, security, and international relations within the country. Given its complex political, social, and security implications, I would classify it as a very big problem, as it has widespread effects and remains unresolved despite ongoing efforts. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir involves longstanding conflict, security concerns, and political tensions that significantly impact national stability and peace. Given its complexity and the serious implications it carries for the country, I believe it remains a very big problem. It continues to be a critical issue that influences numerous aspects of national life and security. Therefore, I would classify it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir is a deeply complex and sensitive issue that has persisted for many years. It has led to ongoing conflict, violence, and regional instability, affecting the security and well-being of those directly involved as well as broader national and international relations. Given its long-standing nature and significant impact on peace and stability, I consider it a very big problem that requires serious and sustained efforts for resolution.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir has been a source of ongoing conflict, violence, and geopolitical tension for many years. It affects regional stability, human rights, and security, which are concerns shared by many citizens and governments. Given its long history, complexity, and impact, I believe it is a very big problem that requires dedicated efforts for resolution.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir is a longstanding and complex issue involving conflict, violence, and regional tensions that have significant implications for security, human rights, and stability. Its persistent nature and the widespread impact make it a very serious concern that requires ongoing attention and resolution efforts. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir involves ongoing conflict, security concerns, and political tensions that have serious and lasting impact on national stability, peace, and human rights. These factors contribute to it being a significant and persistent issue that requires comprehensive attention. Given the history and current implications, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The situation in Kashmir remains a highly sensitive and complex issue, with ongoing conflict, security challenges, and political tensions that affect national stability and peace. Given these persistent problems and their significant implications, I believe it continues to be a very big problem that requires urgent attention and resolution.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

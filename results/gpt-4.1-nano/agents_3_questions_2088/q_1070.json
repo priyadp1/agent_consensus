@@ -1,0 +1,60 @@
+{
+  "question": "Now I'm going to read you some statements about what President Barack Obama might do in the future. Do you think he will get the United States to take significant measures to control global climate change or don't you think so?",
+  "options": [
+    "Will",
+    "Will not"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given President Obama's past commitments to environmental issues and international climate agreements, it is reasonable to believe that he would continue to prioritize taking significant measures to control global climate change. He has historically shown leadership in advancing policies aimed at reducing greenhouse gas emissions and promoting renewable energy sources. Therefore, it seems likely he would succeed in enacting meaningful climate policies in the future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has shown a willingness to prioritize environmental issues and advance policies aimed at addressing climate change. Given his administration's initiatives and international commitments, it is reasonable to expect that he will continue to push for significant measures to control global climate change in the future. Therefore, I think he will get the United States to take such actions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Barack Obama has shown a strong commitment to addressing climate change through policies and international agreements during his presidency. Given his prior efforts and continued emphasis on environmental issues, it is reasonable to expect that he will work towards achieving significant measures to control global climate change. However, political and economic challenges could impede the full realization of these measures, making it uncertain whether he will succeed entirely. Overall, based on his past actions and priorities, I lean toward the expectation that he will pursue substantial efforts toward this goal.\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has demonstrated a strong commitment to environmental issues through various policies and international agreements during his tenure. His administration\u2019s initiatives suggest that he is inclined to pursue significant measures to address global climate change. While political and economic factors could influence the extent of progress, his past actions indicate a continued effort in this direction. Therefore, I think he will get the United States to take such actions.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on President Obama's previous commitments and actions related to environmental policies and international climate agreements, it appears he would likely continue to prioritize efforts aimed at controlling global climate change. His history of leadership in this area suggests a strong likelihood that he aims to enact significant measures in the future, despite potential political or economic challenges. Therefore, I believe he will succeed in taking meaningful action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on previous responses indicating that President Obama has demonstrated commitment and leadership in environmental and climate issues, and considering his administration's initiatives and international efforts to address climate change, it is reasonable to believe that he will continue to prioritize and implement significant measures to control global climate change in the future. Therefore, I think he will get the United States to take such actions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given President Obama's past actions, commitments, and leadership in environmental policies and international climate agreements, it is reasonable to believe that he will continue to prioritize and implement significant measures to address global climate change. His history indicates a strong likelihood of successful efforts in this area despite potential challenges.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the information provided, President Barack Obama has demonstrated a strong commitment to environmental issues through policies and international agreements. His efforts suggest that he is likely to continue pursuing significant measures to address global climate change. Therefore, I believe he will get the United States to take such actions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Given President Barack Obama's demonstrated commitment to environmental issues through legislation and international agreements during his tenure, it is reasonable to believe he would continue to pursue significant measures to combat global climate change. His past actions and leadership in this area suggest a strong likelihood of success in implementing such measures in the future, despite potential challenges.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

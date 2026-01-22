@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of groups and organizations.) Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...Aam Aadmi Party (AAP)?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I do not hold a very favorable opinion of Aam Aadmi Party because I perceive that while they promote certain populist policies and anti-corruption measures, their effectiveness and long-term governance capabilities remain uncertain. Some people find their approach refreshing, but others remain cautious about their political stability and policy implementation. Therefore, I think my opinion leans toward a somewhat unfavorable view. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Aam Aadmi Party because I appreciate their focus on anti-corruption measures and efforts to improve education and healthcare in Delhi. However, I am cautious about their overall effectiveness and political stability, which prevents me from rating my opinion as very favorable. Therefore, I lean toward a somewhat favorable view but remain somewhat cautious about their broader national implications.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B, as the Aam Aadmi Party has gained significant popularity among certain segments of the population due to its focus on anti-corruption measures and its efforts at governance. However, opinions are mixed, with some people still skeptical about its long-term effectiveness or governance style, leading to a somewhat favorable rather than very favorable view. Therefore, I feel a somewhat favorable opinion best reflects my perspective. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that the respondent's views reflect a cautious positive impression of the Aam Aadmi Party, appreciating their anti-corruption efforts and governance achievements but also noting some skepticism about their effectiveness and stability. Based on this balanced perspective, a somewhat favorable opinion aligns best with their sentiment and reasoning.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Aam Aadmi Party because I appreciate their focus on anti-corruption initiatives and their efforts in governance. While I recognize that some people are still skeptical about their long-term effectiveness, I find their approach relatively positive and promising, leading me to lean toward a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Aam Aadmi Party because I appreciate their focus on anti-corruption efforts and social programs like education and healthcare. While I find their policies promising, I remain cautious about their long-term governance effectiveness and potential challenges, which tempers my enthusiasm. Therefore, I lean toward a somewhat favorable view but remain somewhat cautious about their broader national implications.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Aam Aadmi Party because I appreciate their focus on anti-corruption efforts and social programs like education and healthcare. While I find their policies promising, I remain cautious about their long-term effectiveness and potential challenges, which tempers my enthusiasm. Therefore, I lean toward a somewhat favorable view but remain somewhat cautious about their broader national implications.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Aam Aadmi Party because I appreciate their efforts in anti-corruption and social programs. While I see potential in their policies and governance initiatives, I remain somewhat cautious about their long-term effectiveness and challenges they may face, which tempers my enthusiasm.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the Aam Aadmi Party due to their anti-corruption efforts and governance initiatives. While I remain cautious about their long-term effectiveness, their overall approach appears promising, and I hold a somewhat favorable opinion. Therefore, my choice reflects that cautious optimism.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

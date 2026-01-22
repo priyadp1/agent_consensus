@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Access to drinking water",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe access to drinking water is a very significant issue because many communities around the world still face shortages or contaminated sources, affecting health and development. Ensuring reliable and clean drinking water is fundamental for public well-being and economic progress. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is essential for daily life and health. In many countries, it remains a significant problem, especially in underserved or rural areas where infrastructure may be lacking. If the country I am thinking about faces issues with clean, reliable water access, I would consider this a very big problem because it directly affects health, hygiene, and quality of life. Even where access is better, disparities can make it a moderate problem for some populations. Overall, due to its fundamental importance and widespread impact, I see it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is a fundamental necessity for health, sanitation, and daily living. In many developing and underdeveloped regions, lack of reliable access remains a critical issue, leading to health problems, economic hardship, and social inequality. Even in more developed nations, occasional shortages or contamination issues can occur. Considering this, access to clean drinking water is generally regarded as a very big problem in many parts of the world, though it varies by country and region. Overall, it\u2019s a pressing concern that warrants significant attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is a crucial aspect of public health and daily life. Without reliable access, communities face serious health risks, sanitation issues, and inequality. Since it is fundamental for well-being and is a widespread concern in various regions around the world, I believe it constitutes a very big problem, especially considering the disparities and severe consequences when access is limited. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is a crucial issue because many communities worldwide still struggle with access to clean and reliable sources. Contaminated water and shortages directly impact health, sanitation, and economic development. While the severity varies by region, it remains a significant concern globally, especially in developing countries. Given the importance of water access for well-being and the persistent challenges faced, I believe it is a very big problem. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is a critical issue because it directly impacts health, sanitation, and overall quality of life. Even in countries with good infrastructure, disparities and contamination remain significant challenges. As access to clean water is fundamental for survival and public health, it is a very big problem in many parts of the world. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is an essential human need and a foundation for health, sanitation, and economic development. Globally, many communities still face considerable challenges in accessing clean and reliable water sources, which can lead to health crises, hinder development, and contribute to inequality. Given the widespread nature of these issues and the critical importance of water access, I believe it constitutes a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is fundamental to public health, well-being, and daily life. Lack of reliable access leads to severe health risks, disease, and inequality, affecting large communities and regions. Given its critical importance and the widespread issues surrounding it globally, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Access to drinking water is fundamental for health, sanitation, and daily life. Lack of reliable access can lead to serious health issues and social inequalities, especially affecting vulnerable communities. Given the global prevalence of water access challenges and the critical importance of clean drinking water, I consider this a very big problem that requires urgent attention and solutions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

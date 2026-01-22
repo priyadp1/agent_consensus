@@ -1,0 +1,61 @@
+{
+  "question": "Which of these characteristics do you associate with [JAPAN: the American people/ U.S.: the Japanese people]? Do you associate this with [JAPAN: the American people/ U.S.: the Japanese people] people or not?...Honest",
+  "options": [
+    "Yes, associate",
+    "No, do not associate",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I associate honesty with Japanese people because many perceive Japan as a society that values integrity and sincerity, reflected in their business practices and social interactions. Conversely, the American reputation for honesty can be seen as more variable, influenced by the diverse and competitive nature of the society. Therefore, I associate honesty more strongly with Japanese people.  \nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a characteristic often attributed to both Japanese and American people, though the perception may vary depending on cultural stereotypes. Some might see Japanese people as more traditionally honest due to cultural emphasis on integrity, while others might perceive American people as honest in a more individualistic context. Since the question asks whether I associate honesty with the specific group, and considering common stereotypes tend to positively associate honesty with Japanese people, I would say I do associate honesty with Japanese people. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is often considered a valued trait in Japanese culture, where integrity and truthfulness are emphasized in social interactions and business practices. Conversely, American stereotypes may sometimes include perceptions of directness or openness, which can also be associated with honesty. Therefore, I associate honesty with the Japanese people, as cultural norms often highlight sincerity and moral uprightness. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a widely valued trait in Japanese culture, often emphasized through social norms and traditions that promote sincerity and moral integrity. While American perceptions can also associate honesty with directness and openness, the cultural ideals in Japan consistently highlight honesty as a positive characteristic. Therefore, I associate honesty more strongly with the Japanese people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I associate honesty more strongly with the Japanese people because Japanese culture is often perceived as emphasizing integrity, sincerity, and moral uprightness in social and business contexts. While American society values openness, its reputation for honesty can be seen as more variable due to diversity and individual differences. Therefore, I believe honesty is more closely associated with Japanese people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a characteristic often attributed to Japanese people due to cultural emphasis on integrity, sincerity, and social harmony. While American people are also perceived as honest by some, the stereotype of Japanese society valuing honesty is more prominent and consistent. Therefore, I associate honesty with Japanese people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is more strongly associated with Japanese people because Japanese culture places a high value on integrity, sincerity, and social harmony. While American society also values honesty, the cultural emphasis and consistent portrayal of Japanese people as honest seem more prominent in stereotypes. Therefore, I associate honesty with Japanese people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a universally valued trait and is often emphasized positively in Japanese culture through social norms and traditions that promote sincerity and moral integrity. While American perceptions also associate honesty with directness and openness, the stereotype of Japanese society consistently highlighting honesty as a key characteristic suggests a stronger association with the Japanese people. Therefore, I associate honesty more strongly with the Japanese people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate honesty more strongly with the Japanese people because Japanese culture places a significant emphasis on sincerity, moral integrity, and social harmony, which are consistently valued traits. While American culture also appreciates honesty, it tends to be associated more with individual openness and directness, which can vary widely among individuals. Therefore, I think honesty is more closely linked to Japanese people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Do you think that the Philippine government is making progress in its campaign against illegal drugs, losing ground or are things about the same as they have been in the past?",
+  "options": [
+    "Making progress",
+    "Losing ground",
+    "Same as they have been in the past",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "In my view, the progress of the Philippine government's campaign against illegal drugs is difficult to assess definitively. While there have been efforts and some measures taken, reports of ongoing violence, extrajudicial actions, and concerns about human rights violations suggest that substantial challenges remain. It seems that the campaign has not significantly improved the situation and might be losing ground in terms of public trust and efficacy. Therefore, I believe things are roughly the same as they have been in the past, with no clear sign of progress or regression that could be firmly established.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the Philippine government is losing ground in its campaign against illegal drugs because despite efforts and some notable operations, the problem persists with high levels of drug-related crimes, ongoing supply, and enforcement challenges. The complexity of the issue and reports of continued drug activities suggest that progress is limited and the situation has not significantly improved compared to the past.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The Philippine government's efforts against illegal drugs have seen some initial successes, such as increased police operations and societal awareness. However, concerns about human rights violations, unsteady progress, and persistent illegal drug activities suggest that while there may be some advancements, overall the situation remains challenging and not clearly better than before. Therefore, I believe that the campaign is probably losing ground or at best, has remained about the same, but not substantially improved.\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the consistent reports of ongoing drug-related crimes, enforcement challenges, and limited visible progress despite efforts, it appears that the campaign against illegal drugs has not significantly improved and may even be losing ground. The complex nature of the issue and reports of persistent illegal activities suggest the situation remains difficult and improvements are limited. Therefore, I believe the campaign is probably losing ground or at best, has remained about the same, but not substantially improved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the progress has been minimal and inconsistent, with ongoing challenges related to human rights concerns and persistent illegal drug activities. Although there have been efforts and some initial successes, the overall situation seems not to have improved significantly. Given this, I think that things are roughly the same as they have been in the past, with no clear evidence of substantial progress. Therefore, I choose:\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that while the government has made some efforts, the persistent issues related to illegal drugs, including ongoing drug-related crimes, supply chains, and enforcement difficulties, suggest that they are not showing significant progress. Reports of continued drug activity and challenges faced indicate that the situation remains largely unchanged from previous years. Therefore, I think things are about the same as they have been in the past.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the efforts made by the Philippine government in its campaign against illegal drugs have not resulted in significant or consistent progress. Despite some initiatives, the ongoing presence of drug-related activities, enforcement challenges, and human rights concerns suggest that the situation remains largely unchanged from previous years. Therefore, I think things are about the same as they have been in the past.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the information from other respondents, there is a consensus that the campaign has not shown significant improvement and may be stagnating or even losing ground, based on ongoing illegal activities and enforcement challenges. While efforts have been made, the persistent issues indicate limited progress. Therefore, I believe that the situation is largely unchanged from previous years, and the campaign's effectiveness remains questionable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the reports of persistent illegal activities, enforcement difficulties, and limited visible improvements, the campaign appears to be losing ground. While there may have been some efforts, the overall situation hasn't significantly changed, and illegal drug problems remain prevalent. Therefore, I believe the government is making progress but not enough to substantially alter the situation. However, given the choices, the most fitting is that things are about the same as they've been in the past, as progress seems minimal and inconsistent.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

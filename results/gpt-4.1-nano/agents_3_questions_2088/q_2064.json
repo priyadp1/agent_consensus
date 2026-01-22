@@ -1,0 +1,62 @@
+{
+  "question": "Do you think the formal education system in your country provides people with the skills and training they need\n\nTo perform their jobs well",
+  "options": [
+    "Yes",
+    "No",
+    "Don't know",
+    "No answer"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The effectiveness of the formal education system varies significantly across different countries and regions. In many cases, education provides a strong foundation of knowledge, but it may not always align with the rapidly changing demands of the job market. Skills such as critical thinking, problem-solving, digital literacy, and practical training are sometimes underemphasized, leading to a gap between what is taught and what is needed in the workplace. Therefore, while some systems do a good job, many fall short in adequately preparing people for their jobs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the formal education system in many countries sometimes falls short in providing all the necessary skills and training for the modern workforce. While it offers foundational knowledge, practical skills relevant to current job markets are often lacking, and additional on-the-job training or specialized programs are frequently required. Therefore, I think it does not fully equip individuals with everything they need for their careers.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In my view, while the formal education system provides a foundation of knowledge and skills, it often falls short in equipping individuals with the practical skills and training needed to excel in specific jobs. Many employers report a gap between the skills taught in schools and those required in the workplace, highlighting the need for more hands-on experience and vocational training. Therefore, I believe it does not fully meet the demands of the modern job market.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the formal education system in many countries often doesn't provide all the necessary skills and practical training that individuals need to perform their jobs well, especially in rapidly changing industries. While foundational knowledge is important, the gap between classroom learning and real-world job requirements remains significant. Additional on-the-job training and vocational programs are frequently necessary for workers to be fully prepared. Therefore, I think it does not fully equip individuals with everything they need for their careers.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the formal education system in many countries often emphasizes theoretical knowledge over practical skills and real-world training. As a result, individuals may find themselves well-versed in academic concepts but lacking the specific skills required to perform effectively in their jobs. This gap can hinder job performance and hinder economic growth. While some systems are improving, overall, the education provided does not always fully prepare people to meet the evolving demands of the workplace.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while the formal education system in my country provides a solid foundation of knowledge, it often does not fully develop the practical skills and training needed for specific jobs. The rapidly evolving job market requires more emphasis on digital skills, critical thinking, and real-world experience, which are sometimes lacking in traditional curricula. As a result, many individuals need additional training or education beyond formal schooling to perform their jobs effectively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the formal education system in many countries, including my own, often focuses heavily on theoretical knowledge and academic concepts, while neglecting the development of practical skills and real-world training. As a result, individuals may graduate with good theoretical understanding but may lack the specific skills necessary to excel in their jobs. This gap can lead to a need for additional training and ongoing skill development after formal education. Therefore, I think the system does not fully equip people with the skills needed for their jobs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while the formal education system provides a foundational knowledge base, it often falls short in equipping individuals with the practical skills and specific training needed for successful job performance. As industries evolve rapidly, especially in digital and technical fields, additional on-the-job training and vocational programs become necessary for many workers. Therefore, the system in its current form does not fully prepare people with the skills they need for their careers.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the formal education system in many countries tends to prioritize theoretical knowledge over practical skills, leaving individuals potentially ill-prepared for the specific demands of their jobs. This disconnect often necessitates additional training or vocational programs after formal education to ensure competency in the workplace. Given these considerations, I think that the system does not fully equip individuals with the skills needed to perform their jobs well.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

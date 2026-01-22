@@ -1,0 +1,63 @@
+{
+  "question": "How important is it to have the following things in our country? Is it very important, somewhat important, not too important or not important at all? c. women have the same rights as men",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Ensuring women have the same rights as men is fundamental for achieving equality, justice, and social progress in any country. It promotes fairness, helps reduce discrimination, and contributes to economic development and societal well-being. Therefore, it is very important to uphold women's rights equally to men's rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having equal rights for women and men is fundamental to ensuring fairness, justice, and social progress in a country. When women have the same rights as men, it promotes equality, reduces discrimination, and helps create a more inclusive society where everyone has the opportunity to contribute and succeed. Therefore, I believe it is very important to uphold and prioritize this issue for the overall well-being and development of the nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having equal rights for women and men is fundamental for fairness and social progress. It ensures that everyone has the same opportunities, rights, and protections regardless of gender, which can lead to a more just and equitable society. Without such rights, discrimination and inequality persist, hindering the development of inclusive communities. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that women having the same rights as men is very important because it promotes fairness, justice, and equality in society. Ensuring equal rights helps eliminate discrimination and creates opportunities for everyone, contributing to social progress and development. Upholding gender equality is essential for building an inclusive and just nation where every individual can thrive. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having equal rights for women and men is essential for promoting fairness, equality, and social progress. It ensures that everyone has the same opportunities and protections, which benefits the overall development of society. Recognizing the importance of gender equality helps reduce discrimination and fosters a more just and inclusive nation. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having equal rights for women and men is essential for promoting fairness, justice, and social progress in any society. Ensuring women have the same rights as men helps to reduce discrimination, foster equality, and create a more inclusive environment where everyone has the opportunity to succeed. This is fundamental for building a just and progressive country. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that ensuring women have the same rights as men is very important because it promotes fairness, equality, and social progress. Gender equality helps to reduce discrimination and creates a more inclusive society where everyone has equal opportunities to succeed. Achieving this is fundamental for building a just and progressive country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having equal rights for women and men is fundamental for ensuring fairness, justice, and social progress. It promotes equality, reduces discrimination, and fosters an inclusive society where everyone can succeed. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important for women to have the same rights as men because it promotes fairness, justice, and equality in society. Ensuring equal rights helps eliminate discrimination and creates opportunities for everyone, contributing to social progress and development. Upholding gender equality is essential for building an inclusive and just nation where every individual can thrive.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

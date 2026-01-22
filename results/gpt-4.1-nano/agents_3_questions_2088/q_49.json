@@ -1,0 +1,62 @@
+{
+  "question": "Do you personally believe that getting a divorce is morally acceptable, morally unacceptable, or is it not a moral issue? ",
+  "options": [
+    "Morally acceptable",
+    "Morally unacceptable",
+    "Not a moral issue",
+    "Depends on the situation (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that getting a divorce can be morally acceptable, especially in situations where relationships are unhealthy, abusive, or incompatible, and staying together would cause more harm than good. Morality often depends on context, and the well-being and autonomy of individuals should be prioritized. While some may view divorce as morally unacceptable based on certain cultural or religious beliefs, I think that personal circumstances and the potential for a better life make it acceptable in many cases. Ultimately, whether divorce is moral can vary, but I personally see it as an acceptable choice when it contributes to a person's overall well-being and fulfillment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that getting a divorce is not inherently a moral issue because the morality of divorce depends on individual circumstances, cultural context, and reasons behind the decision. In many cases, divorce can be a necessary and morally justified choice for the well-being of the individuals involved, especially if the marriage is harmful or irreparably broken. Therefore, I see it as a nuanced issue rather than a solely moral judgment. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that getting a divorce is generally not a moral issue because it pertains to personal circumstances, values, and the wellbeing of individuals involved. While some might consider it morally unacceptable in certain contexts, overall, it often serves as a means for individuals to find happiness or escape toxic situations. Therefore, I see it as a decision that is more about personal morality and societal understanding rather than an outright moral right or wrong.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that getting a divorce can be viewed as a situation-dependent issue. While it often involves personal considerations and societal values, the moral acceptability of divorce can vary based on specific circumstances such as mutual consent, reasons for separation, and the impact on those involved. For some, it may be morally justified, especially when it promotes well-being and personal happiness, while for others, it may be seen as morally unacceptable in particular contexts. However, overall, I think it is not strictly a moral issue but one that depends on individual situations.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that getting a divorce is morally acceptable because it often serves as a necessary step for individuals to escape harmful, unhealthy, or incompatible situations, and prioritizes personal well-being and autonomy. Morality surrounding divorce can vary based on cultural or religious beliefs, but I think in many cases it is a justified and compassionate choice. Therefore, I see it as morally acceptable when it contributes to a person's overall happiness and health.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that getting a divorce is a personal decision that hinges on the circumstances and well-being of those involved. While some cultural or religious perspectives might see it as morally unacceptable, I think that the morality of divorce varies depending on individual situations and reasons, making it more of a nuanced issue rather than a strictly moral one. Therefore, I see it as dependent on context and personal judgment.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that getting a divorce is a personal decision that depends heavily on the individual circumstances, the wellbeing of those involved, and cultural or personal values. Since the morality of divorce can vary greatly based on context, reasons, and individual beliefs, it is not strictly a moral issue in all cases but rather one that can be judged differently depending on the specific situation. Therefore, I think it is best understood as context-dependent rather than a universally moral or immoral action.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that getting a divorce is a situation-dependent issue, as its moral acceptability can vary based on personal, cultural, and circumstances-specific factors. Sometimes divorce can be justified to promote well-being or resolve harmful situations, while in other contexts it might be viewed as morally unacceptable. Therefore, I think it is not strictly a moral issue but one that depends on individual situations.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that getting a divorce can be a situation-dependent issue, as its moral acceptability often hinges on specific circumstances such as reasons for separation, the impact on all involved parties, and cultural or personal values. While some situations may justify divorce morally, others may not, making it a nuanced moral issue rather than a strictly acceptable or unacceptable action. Therefore, I think it falls under the category of being situation-dependent.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

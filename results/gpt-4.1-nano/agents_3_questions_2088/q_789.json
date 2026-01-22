@@ -1,0 +1,63 @@
+{
+  "question": "Do you think countries around the world, including ours should act as part of a global community that works together to solve problems OR independent nations that compete with other countries and pursue their own interests?",
+  "options": [
+    "Part of a global community that works together to solve problems",
+    "Independent nations that compete with other countries and pursue their own interests",
+    "Both (DO NOT READ)",
+    "Neither (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that countries around the world should act as part of a global community working together to solve problems because many global challenges such as climate change, pandemics, and security threats require coordinated efforts and shared resources. While national interests are important, collaboration offers more effective and sustainable solutions that benefit all. Therefore, working together as a global community is essential for addressing these complex issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that global challenges such as climate change, health crises, and security threats require international cooperation. Working together as a global community enables pooling resources, sharing knowledge, and coordinating efforts to address problems that transcend borders. While individual nations need to prioritize their interests, collaboration often leads to more effective and sustainable solutions for everyone. Therefore, I favor acting as part of a global community to solve common problems.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that countries should work together as part of a global community because many of the world's biggest challenges, such as climate change, pandemics, and security threats, require coordinated international efforts. While national interests are important, collaboration can lead to more effective and sustainable solutions that benefit all. Therefore, prioritizing collective action over pure competition seems essential for addressing complex global problems effectively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that global challenges such as climate change, health emergencies, and security threats are interconnected issues that require international collaboration. Working together as a global community allows countries to pool resources, share expertise, and coordinate strategies to develop more effective and sustainable solutions. While pursuing national interests is important, addressing problems that cross borders ultimately benefits everyone, making collective action essential for tackling these complex issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that countries around the world should act as part of a global community working together to solve problems because many of the significant challenges we face, such as climate change, pandemics, and security threats, cannot be effectively addressed by individual nations alone. Collaborative efforts enable shared resources, knowledge, and coordinated actions that are more likely to result in sustainable solutions benefiting all. While pursuing national interests is important, working together globally is essential for tackling these complex issues effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that countries should act as part of a global community working together to solve problems because many global challenges like climate change, pandemics, and security threats require coordinated efforts and shared resources. Collaboration enhances the effectiveness and sustainability of solutions that benefit everyone, rather than pursuing narrow national interests alone. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that countries around the world should act as part of a global community working together to solve problems because many pressing issues like climate change and pandemics require collective action beyond individual national efforts. Collaboration allows for shared resources, expertise, and coordinated strategies that are more effective in creating sustainable solutions for all. In a interconnected world facing common threats, working together offers the best path forward to address complex global challenges.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that global problems such as climate change, health crises, and security threats transcend national borders and require collective solutions. Countries working together as part of a global community can pool resources, share knowledge, and coordinate efforts more effectively than acting alone, ultimately leading to better outcomes for all. While pursuing national interests is important, the interconnected nature of these issues makes international collaboration essential for sustainable progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that working together as a global community is essential to effectively address pressing worldwide challenges such as climate change, health crises, and security threats. These issues are interconnected and cannot be managed effectively by individual nations pursuing their own interests alone. International cooperation allows for the pooling of resources and knowledge, leading to more sustainable and equitable solutions that benefit everyone. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

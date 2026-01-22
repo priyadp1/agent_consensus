@@ -1,0 +1,60 @@
+{
+  "question": "For each of the following statements about the missile strikes from pilotless aircraft called drones, please tell me whether you agree or disagree\u2026they are being done without the approval of the Pakistani government.",
+  "options": [
+    "Agree",
+    "Disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that drone missile strikes are not being conducted without the approval of the Pakistani government, as evidence suggests that the government has at times been aware of or involved in such operations, even if not publicly endorsing every strike. Therefore, I disagree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that drone missile strikes are a complex issue that may not always be officially authorized by the Pakistani government. There have been reports suggesting that some strikes are conducted without explicit approval, raising concerns about sovereignty and transparency. Therefore, I tend to agree that these strikes are sometimes carried out without the government's approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that drone missile strikes are being carried out with some level of government approval, as such operations often involve intelligence sharing, military coordination, and political decision-making. In Pakistan's case, there has been significant controversy over these strikes, with many believing they are conducted under the authority or knowledge of Pakistani authorities. Therefore, I disagree that these strikes are done entirely without the approval of the Pakistani government.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that drone missile strikes in Pakistan are a complex issue, and there are instances where they may be carried out without the explicit approval of the Pakistani government. Reports and analyses have indicated that some strikes happen without formal authorization, which raises concerns about sovereignty and transparency. While the government may sometimes be aware or involved, the lack of clear, consistent approval suggests that at least some strikes are conducted independently. Therefore, I agree that these strikes are sometimes carried out without the government's approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the information and arguments provided, there is significant evidence suggesting that while there may be some level of involvement or awareness by the Pakistani government, it is not clear that the strikes are conducted entirely without their approval. The respondents imply that the Pakistani government is at least partially aware or involved, which means the statement that the strikes are done \"without the approval\" may be inaccurate or an oversimplification. Therefore, I believe that the strikes are not conducted entirely without the government's approval. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the conflicting perspectives, the evidence suggests that drone strikes may not always have the explicit approval of the Pakistani government, and there are concerns about sovereignty and transparency. Given that some reports indicate strikes are conducted unilaterally, I believe it is more accurate to agree that these strikes are sometimes carried out without government approval.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the varying perspectives, the key issue is whether drone strikes are conducted with or without the Pakistani government's approval. Agent 1 suggests that there is significant involvement or at least awareness by the government, implying the strikes are not entirely without approval. Agent 2 points to evidence that some strikes may occur without explicit approval, highlighting concerns about sovereignty and transparency. Given that there is ambiguity and some credible indications that strikes are sometimes carried out without formal approval, I lean towards believing that not all strikes are authorized by the Pakistani government. Therefore, I agree that these strikes are sometimes conducted without government approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the information provided, there is evidence and reports suggesting that drone missile strikes in Pakistan are sometimes carried out without the explicit approval of the Pakistani government. This indicates that while some strikes may be authorized or known by the government, there are instances where strikes occur independently, raising concerns about sovereignty and transparency. Given this, I lean towards agreeing that these strikes are being done sometimes without government approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I understand that drone missile strikes in Pakistan have a complex and sometimes covert nature. There are reports indicating that some of these strikes may occur without the explicit approval or knowledge of the Pakistani government, raising concerns about sovereignty and transparency. While it is also possible that in some cases the government might be aware or have some involvement, the uncertainty surrounding their approval makes it plausible that not all strikes are conducted with official consent. Given the question's specific focus on whether the strikes are done without the government's approval, and considering credible reports of unauthorized actions, I believe that some strikes are carried out without formal approval. Therefore, I choose to agree that they are being done without the approval of the Pakistani government.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

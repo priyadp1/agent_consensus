@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way Prime Minister Tayyip Erdogan is handling each of the following areas\u2026the economy",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My opinion on Prime Minister Tayyip Erdogan's handling of the economy is mixed. While he has implemented policies that promote growth and development, there are concerns about inflation, unemployment, and economic stability in recent years. The Turkish economy has experienced significant fluctuations, which makes it difficult to fully endorse his approach without reservations. However, some may see his efforts as necessary for national progress. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the economy has been mixed. While he has initiated numerous development projects and promoted economic growth at certain periods, there have also been challenges such as inflation and currency fluctuations that have affected public confidence. Considering both positive efforts and ongoing economic issues, I lean toward disapproval as current economic conditions seem to have not fully stabilized. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the economy has been a mixed bag. While he has implemented policies aimed at boosting growth and infrastructure development, there have also been concerns about inflation, currency depreciation, and economic stability. Given the complexity of the economic situation and the mixed outcomes, I lean towards disapproval, as the economic challenges continue to affect many citizens negatively. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the economy has been characterized by significant achievements in infrastructure and development projects, which have contributed to economic growth at certain times. However, ongoing issues such as high inflation, currency devaluation, and economic instability have undermined public confidence and created challenges for many citizens. Considering both the efforts made and the persistent economic problems, I lean towards disapproval because the current economic conditions are concerning and indicate that more effective management is needed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the economy has both positive and negative aspects, but given the ongoing issues with inflation, currency depreciation, and economic stability that continue to impact many Turkish citizens, I lean towards disapproval. While some policies may have promoted growth, the overall economic challenges suggest that his approach has not been entirely effective in ensuring sustainable economic well-being.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that Prime Minister Erdogan has implemented policies aimed at economic growth, but recent economic challenges such as inflation, currency fluctuations, and unemployment suggest that his handling of the economy has not been entirely effective. These issues have impacted public confidence and indicate ongoing difficulties in stabilizing the economy. Therefore, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that Prime Minister Erdogan has taken measures to support economic growth, but ongoing issues such as high inflation, currency depreciation, and unemployment continue to negatively affect the economy. These persistent challenges suggest that his handling of the economy has not been entirely effective in ensuring stability and public confidence. Therefore, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that Prime Minister Tayyip Erdogan has made efforts towards economic growth through various policies and development initiatives. However, the persistent issues such as high inflation, a declining currency, and unemployment continue to pose serious challenges and undermine confidence in his economic management. These ongoing difficulties suggest that his handling of the economy has not been entirely effective, and more needs to be done to address these problems. Therefore, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the economy has been characterized by notable achievements in infrastructure and growth initiatives. However, persistent issues like high inflation, currency devaluation, and economic instability continue to affect many citizens negatively. These ongoing challenges indicate that his approach has not been entirely effective in ensuring long-term economic stability and well-being. Therefore, I lean towards disapproval.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

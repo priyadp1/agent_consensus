@@ -1,0 +1,62 @@
+{
+  "question": "I\u2019d like your opinion about some possible international concerns. Do you think that ____ is a major threat, a minor threat or not a threat to your country? \ne. the Islamic militant group in Iraq and Syria known as ISIS",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The Islamic militant group known as ISIS has been involved in numerous terrorist activities and has aimed to establish a caliphate region, which has had significant regional and global implications. While its direct influence within my country is limited, its actions can inspire or incite extremists elsewhere, posing a security concern. Therefore, I consider ISIS a significant threat, though perhaps not an outright major threat to national safety compared to other pressing issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe ISIS remains a significant security concern due to its history of terrorism, regional instability, and ideological influence. While some countries have contained its activity, the threat persists through ongoing attacks, recruitment, and regional conflicts. Therefore, I consider ISIS a major threat to our country\u2019s safety and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people consider ISIS a significant threat because of their past attacks, influence in the region, and the potential for terrorist activities to impact global security. While their operational strength has diminished over time, the danger remains due to their continued propaganda, recruitment efforts, and regional instability they promote. Therefore, I believe ISIS poses a major threat to my country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that ISIS continues to pose a significant threat due to their history of terrorist activities, ongoing recruitment efforts, and regional instability they contribute to. Although their operational strength may have reduced, the ideological influence and potential for attacks still make them a serious concern for national security. Therefore, I consider ISIS a major threat to our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that ISIS is a major threat because of their history of terrorist activities, ongoing influence in the region, and potential to inspire or coordinate attacks elsewhere. Their ability to recruit and spread propaganda raises concerns about its impact on national security, even if their direct control within my country is limited. Thus, I see ISIS as a significant threat that requires serious attention and response.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe ISIS remains a serious concern due to its history of terrorism, ongoing recruitment efforts, regional instability, and ideological influence that can inspire attacks beyond the Middle East. While the direct threat within my country might be limited, the potential for their actions to escalate or inspire others makes it a significant security issue. Therefore, I consider ISIS a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that ISIS continues to pose a significant threat due to its history of terrorist activities, persistent recruitment efforts, regional instability, and ideological influence that can inspire attacks beyond the Middle East. While their direct presence within my country may be limited, the potential for their actions or inspired attacks remains a serious concern for national security. Therefore, I consider ISIS a major threat.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe ISIS remains a serious concern due to its history of terrorism, ongoing recruitment efforts, regional instability, and ideological influence that can inspire attacks beyond the Middle East. While the direct threat within my country might be limited, the potential for their actions to escalate or inspire others makes it a significant security issue. Therefore, I consider ISIS a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe ISIS continues to pose a significant threat due to their history of terrorist activities, ongoing recruitment efforts, and regional instability they contribute to. Although their operational strength may have reduced, the ideological influence and potential for attacks still make them a serious concern for national security. Therefore, I consider ISIS a major threat to our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

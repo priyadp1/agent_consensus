@@ -1,0 +1,61 @@
+{
+  "question": "What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it:\n\nVote for a demobilized as a congressman",
+  "options": [
+    "Have done",
+    "Might do",
+    "Would never do"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I would select option C because voting for a demobilized person as a congressman seems counterintuitive; typically, active and qualified candidates are preferred to ensure effective representation and governance. Supporting someone who is demobilized might undermine the integrity of the electoral process and the community's interests. Therefore, I would never do this under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I would choose C because voting for someone who is no longer active or engaged in politics seems ineffective for influencing current policies or leadership. Supporting candidates who are actively involved and aligned with my values feels more impactful to drive change. Therefore, I would never do it under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I would choose option C because voting for a candidate who is no longer active (\"demobilized\") in politics doesn't contribute to making an impact or expressing support for current political issues. Engaging in political action usually involves supporting active candidates or participating in ongoing campaigns, so voting for a demobilized individual would generally go against the purpose of political engagement. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe voting for a demobilized candidate would generally be ineffective because they are no longer actively involved in politics and may not represent current issues or have influence. Supporting active and engaged candidates seems more meaningful for social activism and political change. Therefore, I would never do it under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe voting for a demobilized candidate would typically not be a productive or meaningful action because it involves supporting someone who is no longer active or engaged in current political processes. This may not effectively contribute to current governance or representation, and it might be seen as supporting an outdated or inactive figure. Therefore, I would choose to never do this under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that voting for a demobilized congressman would not be an effective or meaningful act, as such a candidate is no longer active or engaged in politics, which diminishes their ability to influence current policies or represent constituents effectively. Supporting a candidate who is no longer active might also be seen as futile or contrary to the goal of promoting current political engagement and accountability. Therefore, I would never do it under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that voting for a demobilized congressman would not be an effective or meaningful act because such a candidate is no longer active or engaged in politics, which diminishes their ability to influence current policies or represent constituents effectively. Supporting a candidate who is no longer active might also be seen as futile or contrary to the goal of promoting current political engagement and accountability. Therefore, I would never do it under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that voting for a demobilized congressman is unlikely to be an effective way to promote meaningful political change because such a candidate is no longer actively involved or engaged in current political processes. Since the hope is to support individuals who can influence and contribute actively to ongoing developments, I would never do it under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that voting for a candidate who is no longer active or engaged in current political processes would not be an effective way to promote meaningful change or representation. It could be seen as supporting outdated or inactive figures, which might not contribute positively to the current political landscape. Therefore, I would never do it under any circumstances.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "On another topic, had you heard that President Barack Obama's mother once worked in Pakistan, or hadn't you heard this?",
+  "options": [
+    "Had heard",
+    "Had not heard"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have not come across any credible information indicating that President Barack Obama's mother ever worked in Pakistan. While there are many myths and rumors circulating about public figures, this particular claim does not appear to be supported by reliable sources or documented evidence. Therefore, I haven't heard this information before.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recall that Barack Obama's mother, Ann Dunham, did not work in Pakistan as part of her career. Her work primarily involved anthropological research and development projects in Southeast Asia and the United States. There is no publicly available information indicating that she worked in Pakistan. Therefore, I have not heard that she once worked there.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not come across any credible information suggesting that President Barack Obama's mother worked in Pakistan. Most records indicate her background was primarily in the United States. Therefore, I would select that I haven't heard this claim.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have not encountered credible information indicating that President Barack Obama's mother, Ann Dunham, worked in Pakistan. Her documented career involved anthropological research and development projects primarily in Southeast Asia and the United States. Based on my knowledge and the responses provided, I have not heard that she once worked in Pakistan.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have not encountered any credible or well-documented information indicating that President Barack Obama's mother worked in Pakistan. Given the lack of reliable sources supporting this claim, I would select that I haven't heard this information before.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on my knowledge, there is no credible evidence indicating that President Barack Obama's mother, Ann Dunham, ever worked in Pakistan. Her professional work was primarily focused on anthropology and development projects in Southeast Asia and the US. Given that reputable sources do not support the claim, I have not heard this information before.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have not come across any credible or well-documented information suggesting that President Barack Obama's mother, Ann Dunham, worked in Pakistan. Her documented professional work was primarily focused in Southeast Asia and the United States, and there is no reputable source supporting the claim that she worked in Pakistan. Therefore, I would select that I haven't heard this information before.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the information available and the responses from other knowledgeable agents, there is no credible evidence to suggest that President Barack Obama's mother, Ann Dunham, worked in Pakistan. Her documented work has been primarily in Southeast Asia and the United States, and there has been no confirmation from reputable sources supporting the claim that she worked in Pakistan. Therefore, I have not heard this information before.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not come across any credible information suggesting that President Barack Obama's mother, Ann Dunham, worked in Pakistan. Her documented professional activities mainly involved work in Southeast Asia and the United States, and there is no reliable evidence supporting a connection to Pakistan. Therefore, I would select that I have not heard this claim.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

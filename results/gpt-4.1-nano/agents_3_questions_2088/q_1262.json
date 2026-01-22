@@ -1,0 +1,62 @@
+{
+  "question": "For each statement, please tell me whether you completely agree with it, mostly agree with it, mostly disagree with it or completely disagree with it...Today it's really true that the rich just get richer while the poor get poorer.",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the statement reflects a common perception supported by economic data and social discourse. Wealth distribution disparities tend to widen over time in many societies, with existing economic advantages often compounding, making it increasingly difficult for those at the lower end to catch up. While there are policies and efforts aimed at addressing inequality, the overall trend in many regions points toward a persistent gap between the wealthy and the poor. Therefore, I mostly agree with the statement, acknowledging that this perspective might not hold universally or in every context but is valid in many situations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that economic inequality has been increasing over time, with wealth accumulating among the very rich, while the economic situation of the poor tends to decline or remain stagnant. This perception is influenced by observed disparities in income, access to resources, and opportunities, which suggest that the gap between the rich and the poor continues to widen. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that in many economies, economic inequality has increased over time, with the wealthiest individuals often experiencing significant gains while those at the lower end of the income spectrum struggle to improve their financial situation. This perception is supported by data showing growing income gaps and the accumulation of wealth among the rich, leading to a feeling that the wealth gap is widening. Consequently, I mostly agree that the rich just get richer while the poor get poorer, acknowledging that this may not be universally true in all contexts but reflects a broad trend in many regions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that economic inequality is a significant issue and that, based on observable data and societal trends, the rich tend to accumulate more wealth while the economic standing of the poor often stagnates or worsens. This pattern suggests a widening gap, which aligns with the statement that the rich just get richer while the poor get poorer. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that economic disparities have been widening over time, with the rich experiencing significant wealth accumulation while those at the lower end of the spectrum face increasing financial challenges. This trend, supported by numerous studies and social commentaries, suggests that the statement captures a real and ongoing issue in many societies. Although there are policies aimed at reducing inequality, the overall pattern indicates that the rich continue to get richer and the poor tend to get poorer. Therefore, I mostly agree with the statement.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the trend of wealth accumulating at the top while those at the bottom struggle to improve their economic situation is a persistent issue supported by various economic and social data. Although there are efforts to address inequality, the overall pattern suggests that the rich tend to get richer, and the poor tend to get poorer over time. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that economic inequality remains a significant issue in many societies. Data and social observations indicate that wealth continues to concentrate at the top, and those at the lower end face increasing financial struggles. Despite efforts to address this imbalance, the pattern of the rich getting richer and the poor getting poorer persists. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that economic inequality continues to be a pressing issue, with evidence showing that wealth concentration favors the already rich, while many poor individuals face stagnation or decline in their economic situation. This trend reflects a persistent and widening disparity, which aligns with the statement that the rich just get richer while the poor get poorer. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I generally agree with the statement that the rich just get richer while the poor get poorer. Empirical evidence and numerous studies indicate that wealth concentration among the wealthy continues to grow, often outpacing income growth for lower-income groups. Economic inequality seems to be a persistent and increasing issue in many societies, making this statement reflect a widely observed trend rather than an oversimplification. While some policies aim to address this imbalance, the overall pattern remains that the wealth gap is widening. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

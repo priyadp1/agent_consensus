@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Europeans",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am an AI language model and do not have personal opinions. However, based on general knowledge and that many people view Europeans positively due to rich cultural history, contributions to arts, science, and shared democratic values, I would lean toward a favorable perception. Still, individual opinions vary widely based on personal experiences and biases.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Europeans because I appreciate the rich cultural diversity, historical contributions, and emphasis on social welfare seen in many European countries. At the same time, I recognize that individual experiences and perspectives vary, and I remain open to learning more about the complexities of European societies. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not possess personal opinions, but I can provide an understanding that many people harbor a range of views about Europeans, depending on various factors such as cultural exchanges, international relations, and perceptions of European countries. Generally, many tend to have a positive view due to cultural, historical, and diplomatic ties. Based on this, someone might reasonably have a favorable opinion. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Europeans because I appreciate the diverse cultures, historical achievements, and social advancements found across European countries. While I recognize there are complexities and variations in individual experiences, overall, I view Europeans positively and with openness to learning more. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on general perceptions and positive associations with European cultural contributions, history, and international relations, I believe that many people tend to view Europeans favorably. While opinions can vary individually, the overall impression tends to lean towards a positive outlook. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Europeans are generally viewed positively due to their rich cultural history, contributions to arts, science, and shared democratic values. While opinions can differ based on personal experiences and perspectives, my overall view aligns more with a favorable perception. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the positive associations with European culture, history, contributions to arts and sciences, and shared democratic values, I believe that Europeans are generally viewed favorably by many people. While individual opinions differ, the overall perception tends to lean towards a favorable outlook. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Europeans because I appreciate their rich cultural heritage, contributions to arts and sciences, and commitment to democratic values. While I recognize there are complexities and diversity within European societies, my overall perception is positive and open to further understanding.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Europeans, appreciating their rich cultural diversity, historical contributions, and social advancements. While I recognize that individual experiences and perceptions can differ, my overall attitude is favorable. Therefore, I would select a somewhat favorable opinion, as I tend to see Europeans positively but acknowledge there is room for varied perspectives.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

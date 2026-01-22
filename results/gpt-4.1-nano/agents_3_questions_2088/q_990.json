@@ -1,0 +1,62 @@
+{
+  "question": "I\u2019d like your opinion about some possible international concerns. Do you think that ____ is a major threat, a minor threat or not a threat to your country? \nb. the United States\u2019 power and influence",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the United States' power and influence is a major threat because its dominant global position can lead to increased geopolitical tensions, interfere with other countries' sovereignty, and foster an imbalance of power that may destabilize international relations. Although its influence can also promote stability and economic growth, the potential for overreach and unilateral actions makes it a significant concern. Therefore, I see it as a major threat to my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States\u2019 power and influence can be seen as a minor threat depending on the context. While the U.S. is a dominant global power with significant influence over international affairs, its actions do not necessarily threaten my country directly or universally. Instead, its influence often shapes alliances and policy decisions that can have mixed effects, making it not inherently a threat but something to monitor carefully.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States\u2019 power and influence can be seen as a minor threat at times, especially when its actions or policies conflict with the interests or values of other nations. While the U.S. is a major global power that promotes stability and economic growth, its interventions or leadership decisions sometimes lead to tensions or uncertainties in international relations. Therefore, I see its influence as something to monitor carefully but not necessarily as a major threat to my country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United States\u2019 power and influence is a minor threat. While it remains a dominant global player, its actions and policies do sometimes create tensions or uncertainties internationally. These effects can impact my country\u2019s interests, but they do not necessarily pose an immediate or severe danger. Therefore, I see it as something to observe and consider carefully, but not as a major threat.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States' power and influence is a minor threat because, although it has a significant global presence that can sometimes lead to conflicts or tension, it also plays a crucial role in promoting stability, economic growth, and international cooperation. Its actions are sometimes controversial, but overall, its influence is more a source of global stability than a direct threat to my country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States\u2019 power and influence is a minor threat because, while its dominance can sometimes lead to tensions or imbalance in global power dynamics, it also often promotes stability, economic cooperation, and diplomatic solutions. Its influence is complex, and its impact on my country is not necessarily harmful or threatening in an outright sense but warrants careful observation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United States' power and influence is a minor threat because, although its global dominance can sometimes lead to tensions and than influence the international order, it also often encourages stability, economic development, and diplomatic engagement. Its actions may sometimes cause concern, but overall, its influence tends to be more constructive than harmful, requiring careful monitoring rather than outright opposition.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States\u2019 power and influence is a minor threat because, while its dominance can sometimes lead to tensions or imbalance in global power dynamics, it also often promotes stability, economic cooperation, and diplomatic solutions. Its influence is complex, and its impact on my country is not necessarily harmful or threatening in an outright sense but warrants careful observation.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States\u2019 power and influence is a minor threat because, although its actions and policies can sometimes lead to tensions or conflicts at the international level, it also contributes significantly to global stability, economic growth, and cooperation. Its influence is not primarily harmful to my country, and its role can be seen as both beneficial and problematic depending on the context. Therefore, I consider it a minor threat rather than a major one or not a threat at all.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

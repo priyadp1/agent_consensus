@@ -1,0 +1,61 @@
+{
+  "question": "From what you know, is U.S. aid to Pakistan increasing, decreasing or staying about the same?",
+  "options": [
+    "Increasing",
+    "Decreasing",
+    "Staying the same"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and governmental policies, U.S. aid to Pakistan has been decreasing over the past few years. The U.S. has reduced military and economic assistance to Pakistan due to concerns over regional stability, counterterrorism efforts, and the country's political developments. Although some aid programs continue, the overall trend suggests a decline rather than growth or stability. Therefore, the most accurate choice is that aid to Pakistan is decreasing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and trends, U.S. aid to Pakistan has generally been decreasing over the past few years. geopolitical considerations, shifts in foreign policy priorities, and discussions around aid effectiveness have contributed to this decline. While there may still be ongoing assistance, the overall trajectory appears to be downward rather than increasing or remaining stable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and analyses, U.S. aid to Pakistan has generally decreased over the past few years. There have been reductions in military and economic assistance, partly due to evolving diplomatic relations and strategic priorities. While some aid programs continue, the overall trend indicates a decline rather than an increase or stability. Therefore, I believe aid is decreasing.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and analysis, U.S. aid to Pakistan has generally been decreasing over the past few years due to shifting strategic priorities and diplomatic considerations. While some assistance persists, the overall trend suggests a decline rather than stability or increase. Therefore, I believe aid is decreasing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and analysis, U.S. aid to Pakistan has been decreasing over the past few years. There have been notable reductions in both military and economic assistance, influenced by shifting diplomatic priorities and concerns over regional stability. While some aid programs may still be ongoing, the overall trend shows a decline rather than growth or stabilization. Therefore, I believe aid is decreasing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and policy trends, U.S. aid to Pakistan has been notably decreasing over the past few years due to concerns over regional stability, counterterrorism, and shifting foreign policy priorities. While some assistance persists, the overall pattern indicates a decline rather than stabilization or growth.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on recent reports, diplomatic analyses, and policy trends, U.S. aid to Pakistan has been decreasing over the past few years. The overall pattern indicates a decline in both military and economic assistance, influenced by shifting priorities and regional concerns. While some aid continues, the general trend points toward a reduction rather than stability or increase. Therefore, I believe aid is decreasing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and trend analyses, U.S. aid to Pakistan has been generally decreasing over the past few years. This decline is attributed to shifting strategic priorities, concerns over regional stability, and diplomatic considerations. While some aid still continues, the overall pattern indicates a downward trend rather than stability or growth. Therefore, I believe aid is decreasing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on recent reports and trends, U.S. aid to Pakistan has mostly been declining in recent years due to changing strategic priorities and diplomatic considerations. While some assistance remains, the overall pattern indicates a reduction rather than stability or increase. Therefore, I believe aid is decreasing.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

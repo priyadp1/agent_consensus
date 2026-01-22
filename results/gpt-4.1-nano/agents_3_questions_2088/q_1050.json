@@ -1,0 +1,61 @@
+{
+  "question": "Which of these characteristics do you associate with Americans? Do you associate ____ with Americans or not? c. greedy",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that associating greed with Americans can reflect a stereotype that has been influenced by media portrayals and cultural narratives. While some may view this as a negative stereotype, it is also sometimes linked to America's emphasis on capitalism and individual success. However, not all Americans are greedy, and this characteristic cannot be generalized to the entire population. Given the nature of the question and the potential for stereotypes, I choose to respond with \"No\" to indicate that greed is not an inherent or defining trait of Americans overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that associating greed with Americans can be a general stereotype that some people hold, often influenced by perceptions of capitalism and consumerism prevalent in the United States. However, it is a broad and negative generalization that doesn't accurately reflect individuals, but it is a common stereotype. Since the question asks if I associate greed with Americans or not, and considering the widespread perception, I choose to answer affirmatively, acknowledging that this is a stereotype often linked in popular opinion.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people tend to stereotype Americans as being greedy due to the association with consumerism, material wealth, and the competitive economic environment prevalent in the United States. While this is a broad generalization and not true of all individuals, cultural perceptions often link Americans to greed. Therefore, I would associate greed with Americans.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I recognize that associating greed with Americans is rooted in a common stereotype linked to perceptions of capitalism, consumerism, and material wealth often associated with the United States. While I understand that this is a broad generalization and does not accurately describe individuals, it is a stereotype that persists in popular perceptions. Therefore, I will select the option that reflects this association.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that associating greed with Americans can stem from cultural stereotypes and media portrayals that emphasize material wealth and consumerism. While some may see this as a negative stereotype, it is important to acknowledge that such traits are not representative of all Americans and are often overgeneralized. Therefore, I do not consider greed to be an inherent characteristic of Americans as a whole.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I recognize that associating greed with Americans can be influenced by stereotypes rooted in perceptions of capitalism and consumerism, which are prominent in media narratives. While I understand that such a stereotype is a broad generalization and does not accurately describe all Americans, I also acknowledge that these associations are common in popular perceptions. Considering the potential for negative stereotypes but also the pervasiveness of this perception, I lean towards acknowledging it as a stereotype rather than an inherent trait.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I recognize that associating greed with Americans can be influenced by stereotypes and media portrayals that emphasize materialism and consumerism. While these stereotypes are broad and do not reflect all Americans, they are common in perceptions. Given the prevalence of this stereotype but also acknowledging its generalization, I lean toward identifying it as a stereotype rather than an inherent trait.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I recognize that associating greed with Americans stems from widespread stereotypes related to capitalism, consumerism, and material wealth often depicted in the media. While I understand these are broad generalizations and do not apply to all individuals, they are common perceptions held by many. Therefore, I believe this stereotype has some basis in popular perception, even if it does not reflect reality for every person.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I recognize that associating greed with Americans is a common stereotype influenced by perceptions of capitalism, consumerism, and material wealth often linked to the United States. While I understand that this generalization does not describe individuals and is an overstatement, it persists in popular perceptions. Therefore, I will select the option that reflects this association.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

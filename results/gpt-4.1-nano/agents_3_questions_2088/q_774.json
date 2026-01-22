@@ -1,0 +1,62 @@
+{
+  "question": "How important is it to you to live in a country where the media can report the news without state censorship?  Is it very important, somewhat important, not too important or not important at all?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to have a free and independent media that can report news without state censorship because it ensures transparency, accountability, and the public's right to be informed. When the media can operate freely, society benefits from diverse perspectives, accurate information, and a healthier democracy. Censorship can hinder these processes and lead to a less informed and less empowered populace. Therefore, I consider it very important to uphold press freedom in any country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the media can report the news without state censorship because free and independent journalism is essential for an informed citizenry and a healthy democracy. When the press is free, diverse viewpoints can be shared, accountability is maintained, and citizens can make better decisions. Censorship can restrict access to truthful information and suppress critical voices, which undermines democratic principles and individual freedoms. Therefore, maintaining a free press is crucial for transparency, accountability, and the protection of rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it's very important to live in a country where the media can report the news without state censorship because free and independent journalism is essential for an informed society. It allows citizens to access accurate information, hold authorities accountable, and make well-informed decisions. Without such freedom, the risk of propaganda and misinformation increases, undermining democracy and personal freedoms. Therefore, protecting press freedom is crucial for a healthy society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that living in a country where the media can report the news without state censorship is very important. An uninhibited press ensures transparency, promotes accountability among public officials, and allows citizens access to truthful and diverse information. Without freedom of the press, there is a higher risk of propaganda, misinformation, and suppression of dissent, all of which undermine democracy and individual rights. A free and independent media is fundamental to an informed and functioning society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important because a free media ensures transparency, accountability, and an informed public. Without independence in reporting, there's a higher risk of misinformation, propaganda, and the erosion of democracy. A free press allows society to operate more fairly and openly, which I consider essential for a healthy and functioning democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the media can report the news without state censorship because a free press is fundamental to a transparent and accountable society. It allows for diverse perspectives, supports an informed citizenry, and safeguards democratic principles. Without media freedom, misinformation can flourish and critical voices may be silenced, undermining individual rights and the health of democracy. Therefore, I choose to prioritize the importance of press independence.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the media can report the news without state censorship because a free and independent press is essential for transparency, accountability, and the functioning of a healthy democracy. It allows citizens to make informed decisions, supports diverse viewpoints, and helps prevent the spread of misinformation and propaganda. Without media freedom, critical voices may be silenced, and the public's trust in information can be compromised, ultimately undermining democratic principles and individual rights. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that living in a country where the media can report the news without state censorship is very important because a free press fosters transparency, accountability, and democracy. It provides citizens with truthful, diverse information necessary for making informed decisions and holding leaders accountable. Without media freedom, misinformation, propaganda, and suppression of dissent can thrive, threatening individual rights and the functioning of a healthy society. Therefore, it is crucial to prioritize media independence for the well-being of democracy and informed civic participation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important to live in a country where the media can report the news without state censorship because a free press is essential for transparency, accountability, and the protection of democracy. When the press is free, citizens can access truthful and diverse information, enabling informed decision-making and safeguarding individual rights. Without this freedom, there is a high risk of misinformation, propaganda, and suppression of dissent, which undermines a healthy society and democratic governance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

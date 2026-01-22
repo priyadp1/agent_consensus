@@ -1,0 +1,62 @@
+{
+  "question": "Would you say that the economic situation for most your nationality people today is better, worse, or about the same as it was under communism?",
+  "options": [
+    "Better",
+    "Worse",
+    "About the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "My perspective on this question depends heavily on the specific country and the individual's personal experiences. Generally, many people feel that the economic situation has improved since the end of communism due to increased opportunities for private enterprise and personal wealth accumulation. However, some may feel that economic inequalities have widened or that they have lost certain social protections, leading others to believe... Overall, I think that for many, the economic conditions today are better than under communism, but this may not apply universally. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My opinion is that the economic situation for most people of my nationality is worse than it was under communism. During that era, many basic needs like healthcare, education, and employment were more secure and accessible, even if the economy was centrally planned and less efficient. Since the transition to a market economy, there has generally been increased inequality, unemployment, and economic instability for many citizens, which has negatively impacted their livelihoods compared to the stability and guarantees of the previous system.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My perspective on this question is influenced by the general economic improvements many countries have experienced since the end of communism, such as increased access to consumer goods, personal services, and urban development. However, I also recognize that economic disparities and challenges like inflation, unemployment, or lack of social safety nets may have worsened for some segments of the population. Overall, I believe that for most people, the economic situation has become better compared to the communist era, due to greater economic freedom and opportunity, even if disparities remain. Therefore, I choose the option that reflects this general improvement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic situation for most my nationality people today is worse than it was under communism. While the transition to a market economy has brought some improvements in certain areas, it has also resulted in increased inequality, unemployment, and lack of social safety nets for many individuals. The stability and access to basic needs that many experienced under communism have often deteriorated, leading to greater economic insecurity for a significant portion of the population.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that for most people in my nationality, the economic situation today is better than it was under communism. Since the end of communism, there have been significant improvements in personal economic opportunities, consumer choices, and overall standards of living for many. Although disparities and social safety nets are still concerns, the overall economic growth and increased individual freedom make me think that conditions have improved for the majority.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that, for most people of my nationality, the economic situation today is worse than it was under communism. Although there may have been issues with efficiency and shortages during the communist era, the social safety nets, job security, and universal access to basic services generally provided a sense of stability and fairness. Post-transition, increased inequality, unemployment, and economic insecurity have negatively affected many individuals' livelihoods, making the overall economic situation less equitable and predictable than before. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic situation for most people of my nationality today is worse than it was under communism. While there may have been limitations and shortages during the communist era, the social safety nets, job security, and universal access to essential services provided stability and fairness. Post-communism, economic inequality, insecurity, and unemployment have created hardships for many, making the overall economic conditions less predictable and less secure for the majority.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that, for most people of my nationality, the economic situation today is worse than it was under communism. While the communist period offered certain protections and stability, it often lacked efficiency, variety, and opportunities for personal advancement. The transition to a market economy has improved some aspects, such as innovation and consumer choice, but it has also led to increased inequality, unemployment, and erosion of social safety nets that many relied on. These changes have made economic security and fairness less attainable for a large portion of the population, making the overall situation worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the economic situation for most my nationality people today is worse than it was under communism. While there have been some improvements in certain sectors, many people face increased inequality, unemployment, and social insecurity. The loss of social safety nets and stability during the transition period has negatively impacted the well-being of a significant portion of the population, making their economic circumstances more precarious overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

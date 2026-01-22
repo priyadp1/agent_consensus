@@ -1,0 +1,63 @@
+{
+  "question": "Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Public morality?",
+  "options": [
+    "Very good influence",
+    "Good influence",
+    "Bad influence",
+    "Very bad influence",
+    "No influence (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The changes since 1991 in my country have been complex, impacting public morality both positively and negatively. On one hand, increased modernization, education, and technological advancements have promoted greater awareness and openness, which can be seen as a good influence. On the other hand, rapid social and economic transformations have often led to moral ambiguity, corruption, and decay in social values, which point to a bad influence. Overall, I believe the negative aspects outweigh the positive, and these changes have contributed more to moral decline than improvement. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Since 1991, many countries have undergone significant social, political, and economic changes that have influenced public morality in complex ways. In some cases, modernization and globalization have led to more liberal attitudes and increased individual freedoms, which can sometimes challenge traditional moral values. Conversely, efforts to promote education, anti-corruption measures, and legal reforms have also aimed to improve societal standards and integrity. Overall, the influence of these changes on public morality is mixed, with some positive developments but also challenges and setbacks. Considering the overall impact, I believe the changes have mostly facilitated progress, though they haven't eradicated moral issues entirely.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the changes since 1991 have had a mixed impact on public morality. While some reforms and modernization efforts have improved transparency, education, and civic engagement, there have also been instances of increased corruption, scandals, and moral decay influenced by rapid globalization and technological changes. Overall, I think the influence has been more negative than positive, leading to erosion in traditional values and ethical standards in certain sectors. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my view, the overall impact of changes since 1991 on public morality has been predominantly positive, despite some setbacks. Modernization, improvements in education, anti-corruption efforts, and increased civic engagement have contributed to a more transparent and ethically aware society. While challenges such as globalization and technological advancements have introduced new moral dilemmas and sometimes eroded traditional values, the progress made tends to outweigh these issues, fostering a society that gradually adopts more ethical standards and social responsibilities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The changes in my country since 1991 have introduced both positive and negative influences on public morality. While modernization and improvements in education and civic engagement have fostered greater awareness and openness, these benefits have been accompanied by increased corruption, social decay, and a decline in traditional values. Overall, the negative repercussions seem to have had a more significant impact on moral standards, leading to perceptions of moral erosion. Therefore, I believe the influence has been more negative than positive. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My perspective is that the changes since 1991 have had predominantly negative effects on public morality, with increased modernization and globalization often leading to a decline in traditional values, moral ambiguity, and social decay. While some positive aspects such as improved education and legal reforms exist, they have not been sufficient to offset the overall decline in moral standards. Therefore, I believe the influence has been more bad than good.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the changes since 1991 have had a mixed impact on public morality. While advancements in education, legal reforms, and increased civic awareness have contributed positively, the overall social landscape has also faced challenges such as rising corruption, social decay, and erosion of traditional values. These negative developments seem to have had a more pronounced effect, leading to perceptions of a decline in moral standards. Therefore, I think the influence has been more bad than good.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In my view, the changes since 1991 have generally contributed to a more progressive and ethically conscious society. Advances in education, transparency, and civic participation have strengthened social morals, even if some challenges remain in traditional value systems. Although globalization and technological shifts pose new moral questions, overall, I believe the influence has been positive in promoting greater social responsibility and moral standards.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the various changes since 1991, I believe that advancements in education, increased civic participation, and efforts for greater transparency have generally contributed positively to public morality. Although there are challenges like corruption and erosion of traditional values, the overall trend appears to have fostered a more ethically aware society and better social responsibilities. Thus, I see the influence as more good than bad.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

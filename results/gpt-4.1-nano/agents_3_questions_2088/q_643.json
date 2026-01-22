@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Corrupt business people",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt business people undermine trust in the economy, distort fair competition, and can lead to inefficient resource allocation. Given the widespread concerns about corruption and its impact on societal well-being, I believe this issue is quite significant in our country. Therefore, I see it as a very big problem that requires urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt business people can undermine economic stability, trust in institutions, and fair competition. Their influence can lead to increased inequality and societal disillusionment. While the level of concern may vary depending on personal experiences and the country's specific context, in general, corruption among business leaders is widely perceived as a significant problem that affects many aspects of national life. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that corrupt business people are a very big problem because corruption undermines trust in institutions, hampers economic growth, and can lead to unfair practices that harm consumers and honest entrepreneurs. Such corruption can also weaken government accountability and reduce overall development in the country, making it a serious concern that affects multiple aspects of society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt business people can seriously undermine trust in economic and political institutions, distort fair competition, and lead to increased inequality. Such corruption often hampers overall development and public confidence, making it a significant obstacle to progress. Given these widespread negative effects, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt business people directly undermine economic stability, fair competition, and trust in institutions. Their presence can lead to increased inequality, reduced foreign investment, and diminished public confidence in government and business sectors. Given the widespread negative impacts associated with corruption, I believe this is a very big problem that needs urgent addressing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Corrupt business people can seriously harm the economy and trust within society, leading to unfair practices and inequality. Given the widespread concerns about corruption and its negative effects, I believe this issue is a very big problem that needs immediate attention. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt business people undermine economic stability, fairness, and trust, leading to increased inequality and discouraging investment. Given these significant negative impacts, I believe this is a very big problem that requires urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt business people can severely undermine trust in institutions, distort fair competition, and contribute to inequality and economic instability. These issues can hinder development and erode public confidence, making corruption a critical obstacle for progress. Given its broad and serious impact, I believe it is a very big problem. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Corrupt business people undermine trust in institutions, distort competition, and contribute to inequality, which can hinder economic growth and development. Their negative influence affects the fairness and integrity of the economic system, making it a significant obstacle to the country's progress. Considering these widespread and serious effects, I believe it is a very big problem.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

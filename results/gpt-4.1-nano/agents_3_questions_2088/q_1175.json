@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Terrorism.",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Terrorism remains a significant concern for many people worldwide, as it can threaten safety, security, and stability. While some may view it as a very big problem due to its potential for mass harm and disruption, others might see it as less immediate if they live in regions less affected by such events. Overall, given its serious implications and the constant threat in many parts of the world, terrorism is generally regarded as a major issue that warrants significant attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Terrorism remains a significant concern in today's global landscape, as it can lead to loss of life, economic disruption, and ongoing threat to safety and security. Many people view it as a very big problem because of its potential for widespread harm and the difficulty in completely preventing such acts. While some may see it as less urgent compared to more immediate local issues, the pervasive nature and potential for catastrophic consequences elevate its perceived severity. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Terrorism is generally viewed as a significant threat to safety and security globally. While the level of concern may vary depending on recent events or specific regions, it is widely considered a serious issue that can have devastating effects on societies and economies. Therefore, I would categorize it as a very big problem, given its potential to cause widespread harm and destabilization.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Terrorism poses a serious threat to safety, security, and stability worldwide. Its potential to cause mass casualties, economic disruptions, and psychological trauma makes it a significant concern for societies everywhere. While efforts are ongoing to prevent and counteract terrorism, it remains a pressing issue that can have catastrophic consequences. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe terrorism is a very big problem because it poses significant threats to safety, security, and stability worldwide. Its potential for causing mass harm and disrupting societies makes it a concern that requires serious attention, regardless of regional differences. Given these considerations, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe terrorism is a very big problem because it poses a serious threat to the safety and stability of societies worldwide. Its potential for causing mass harm and disrupting daily life makes it something that demands significant attention and preventive measures. Given its severe implications, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider terrorism a very big problem because it creates widespread fear, threatens safety, and can cause massive harm to societies and individuals. Its potential to disrupt peace and stability makes it a serious concern that requires ongoing attention and preventative efforts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Terrorism is a significant threat because it can cause widespread harm, loss of life, and destabilize societies. Its capacity to lead to mass casualties and economic disruption makes it a very serious concern that demands ongoing vigilance and preventative measures. Given this, I believe it should be categorized as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Terrorism has consistently been viewed as a very big problem because it threatens the safety and stability of societies worldwide. Its capacity to cause mass casualties, economic damage, and psychological trauma makes it a significant concern that requires ongoing attention and preventative measures. Given its potential for catastrophic impact, I believe it remains a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

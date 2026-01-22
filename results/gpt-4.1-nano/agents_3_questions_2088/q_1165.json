@@ -1,0 +1,61 @@
+{
+  "question": "If you had to choose, which would you rather have?...Higher taxes in our country so the government can provide more services, lower taxes, even if it means the government will provide fewer services",
+  "options": [
+    "Higher taxes, more services",
+    "Lower taxes, fewer services",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that higher taxes can be justified if they lead to improved services that benefit society as a whole, such as healthcare, education, and infrastructure. Providing essential services can enhance quality of life and create a stronger, more equitable community. On the other hand, lower taxes might leave some services underfunded, potentially harming vulnerable populations or reducing overall public welfare. Therefore, I lean toward supporting higher taxes if they result in better societal outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having higher taxes to fund more government services can be beneficial for societal well-being, as it allows for better public resources such as healthcare, education, and infrastructure. While lower taxes might leave individuals with more disposable income in the short term, the trade-off may result in fewer essential services that support the broader community. Balancing taxes and services depends on the societal priorities, but generally, I lean toward preferring the government to have sufficient resources to provide vital services to all citizens.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having higher taxes to fund additional government services can lead to a better quality of life and improved social safety nets, which benefits society as a whole. While lower taxes might leave more money in individuals' pockets initially, the reduction in public services could negatively impact essential areas like healthcare, education, and infrastructure. Therefore, I prefer higher taxes if it means there will be more services that support community well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that investing in public services through higher taxes can promote a fairer and healthier society by providing essential resources like healthcare, education, and infrastructure. While lower taxes might offer immediate financial relief, they could lead to cuts in critical services that benefit everyone, especially those in need. Therefore, I prefer higher taxes if it means the government can provide more services that improve societal well-being.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that investing in government services through higher taxes can lead to a stronger society with better healthcare, education, and infrastructure, ultimately benefiting everyone. While lower taxes might provide short-term financial relief, they could result in underfunded public programs that are essential for a fair and healthy community. Therefore, I support the option that emphasizes higher taxes for more services.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a balanced approach is important, but if I had to choose, I would prioritize government services that support the well-being of all citizens. Higher taxes can fund essential programs like healthcare, education, and infrastructure, which are crucial for a functioning and equitable society. While lower taxes may leave individuals with more disposable income in the short term, it could also lead to underfunded public services that many people rely on. Ensuring adequate funding for vital services ultimately benefits the community as a whole.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that investing in government services through higher taxes can lead to a stronger society with better healthcare, education, and infrastructure, ultimately benefiting everyone. While lower taxes might provide short-term financial relief, they could result in underfunded public programs that are essential for a fair and healthy community. Therefore, I support the option that emphasizes higher taxes for more services.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe investing in public services through higher taxes can promote a fairer and healthier society by providing essential resources like healthcare, education, and infrastructure. While lower taxes might offer immediate financial relief, they could lead to cuts in critical services that benefit everyone, especially those in need. Therefore, I prefer higher taxes if it means the government can provide more services that improve societal well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that higher taxes to fund more public services help create a fairer and healthier society by ensuring access to essential resources like healthcare, education, and infrastructure. While lower taxes might provide immediate financial relief, they could lead to underfunded programs that disproportionately affect vulnerable populations. Therefore, I prefer higher taxes if it means more services that benefit everyone.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

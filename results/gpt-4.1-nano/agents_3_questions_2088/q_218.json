@@ -1,0 +1,62 @@
+{
+  "question": "Do you personally believe that homosexuality is morally acceptable, morally unacceptable, or is it not a moral issue? ",
+  "options": [
+    "Morally acceptable",
+    "Morally unacceptable",
+    "Not a moral issue",
+    "Depends on the situation (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults, which should be respected as a matter of personal freedom and human rights. Moral judgments about personal identities and orientations should not be based on prejudice or societal norms that have historically stigmatized such orientations, but rather on principles of equality, dignity, and acceptance. Therefore, I see it as a moral acceptability rather than an issue of morality or a matter that depends on specific circumstances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults. Most ethical perspectives emphasize respect, consent, and personal freedom, which align with viewing homosexuality as morally acceptable. While some may see it as a moral issue based on cultural or religious beliefs, from a broad ethical standpoint, it should be regarded as acceptable. However, recognizing that moral perspectives vary depending on cultural and individual values, some might see it as situational, but personally, I see no moral issue with it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it is a natural variation of human sexuality that ought to be respected and appreciated as part of the diverse spectrum of human experiences. Moral judgments should be based on principles of equality, dignity, and non-harm, which support acceptance rather than condemnation. Therefore, I consider it morally acceptable rather than morally unacceptable or irrelevant as a moral issue.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults. Ethical principles such as respect, consent, and individual freedom support viewing it positively, and it reflects natural human diversity. Given these considerations, I see no moral issue with homosexuality, and it aligns with principles of equality and dignity. Therefore, I select: A\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults, which should be respected as a matter of personal freedom and human rights. Moral judgments about personal identities and orientations should not be based on prejudice or societal norms that have historically stigmatized such orientations, but rather on principles of equality, dignity, and acceptance. Therefore, I see it as a moral acceptability rather than an issue of morality or a matter that depends on specific circumstances. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults, which should be respected as a matter of personal freedom and human rights. Moral judgments about personal identities and orientations should not be based on prejudice or societal norms that have historically stigmatized such orientations, but rather on principles of equality, dignity, and acceptance. Therefore, I see it as a moral acceptability rather than an issue of morality or a matter that depends on specific circumstances.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults, which should be respected as a matter of personal freedom and human rights. Moral judgments about personal identities and orientations should not be based on prejudice or societal norms that have historically stigmatized such orientations, but rather on principles of equality, dignity, and acceptance. Therefore, I see it as morally acceptable rather than a moral issue or something that depends on specific circumstances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults, which should be respected as a matter of personal freedom and human rights. Moral judgments about personal identities and orientations should not be based on prejudice or societal norms that have historically stigmatized such orientations, but rather on principles of equality, dignity, and acceptance. Therefore, I see it as a moral acceptability rather than an issue of morality or a matter that depends on specific circumstances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that homosexuality is morally acceptable because it involves consensual love and relationships between adults, respecting individual freedom, dignity, and equality. Ethical principles such as respect and consent support recognizing it as morally acceptable, and societal norms should not unjustly stigmatize personal identities or orientations. Therefore, I see it as a moral acceptability rather than an issue that depends on specific circumstances.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

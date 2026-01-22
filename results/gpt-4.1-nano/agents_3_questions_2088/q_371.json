@@ -1,0 +1,60 @@
+{
+  "question": "Which of these comes closer to your view?...Our traditional way of life is getting lost, OR our traditional way of life remains strong",
+  "options": [
+    "Our traditional way of life is getting lost",
+    "Our traditional way of life remains strong"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that our traditional way of life is still quite resilient and continues to hold strong in many communities. While there may be some changes and influences from modern society, the core values and customs persist and are still celebrated and maintained by a significant portion of the population. Therefore, I see more evidence that our traditional way of life remains strong rather than being lost.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that our traditional way of life is increasingly under threat due to modernization, globalization, and changing social values. These forces tend to erode longstanding customs, cultural practices, and community bonds that once defined our way of living. While some traditions are preserved and celebrated, overall, they seem to be diminishing in influence and visibility, leading me to see our traditional way of life as getting lost.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that our traditional way of life remains strong because many communities continue to uphold their customs, values, and cultural practices despite modern influences. While some aspects may be changing, the core elements of tradition are still present and resilient in many areas. This gives me hope that our cultural identity will endure over time.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that our traditional way of life is increasingly under threat due to modernization, globalization, and changing social values. These forces tend to erode longstanding customs, cultural practices, and community bonds that once defined our way of living. While some traditions are preserved and celebrated, overall, they seem to be diminishing in influence and visibility, leading me to see our traditional way of life as getting lost. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that our traditional way of life remains strong because, despite some modern changes, many communities still actively practice and celebrate their cultural customs, values, and traditions. This resilience suggests that the core elements of our cultural identity are stable and enduring over time, reflecting a continued sense of cultural continuity and strength.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that our traditional way of life is increasingly under threat due to modernization, globalization, and changing social values. These forces tend to erode longstanding customs, cultural practices, and community bonds that once defined our way of living. While some traditions are preserved and celebrated, overall, they seem to be diminishing in influence and visibility, leading me to see our traditional way of life as getting lost.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that our traditional way of life remains strong because I see evidence of cultural practices, community bonds, and values being actively maintained and celebrated despite modern influences. This ongoing resilience suggests that the core aspects of our traditions continue to persist and adapt, rather than being lost. While there are challenges, I think the strength of our cultural identity endures and remains a vital part of our society.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that modernization, globalization, and shifting social values are progressively eroding traditional customs, cultural practices, and community bonds that once defined our way of living. While some traditions are still valued and upheld, their influence and visibility seem to be diminishing overall. This suggests that our traditional way of life is gradually getting lost rather than remaining strong. Therefore, I see more evidence and feeling towards the idea that our traditional way of life is getting lost.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that our traditional way of life is increasingly under threat due to rapid modernization, globalization, and social change. These forces tend to weaken and diminish longstanding customs and cultural practices, making it difficult for traditions to remain as strong and visible as they once were. While some traditions persist, the overall trend appears to be one of erosion rather than resilience. Therefore, I see our traditional way of life as getting lost.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

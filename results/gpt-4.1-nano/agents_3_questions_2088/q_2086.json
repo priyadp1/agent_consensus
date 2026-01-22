@@ -1,0 +1,63 @@
+{
+  "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?\n\nDrug addicts",
+  "options": [
+    "Mentioned",
+    "Not mentioned",
+    "Don't know",
+    "No answer",
+    "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because their presence could potentially create safety concerns, disturbances, or negative influences on the community environment. A peaceful and safe neighborhood is important for well-being and quality of life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because substance abuse issues can lead to unsafe environments, disturbances, and a higher likelihood of criminal activity, which could negatively impact the community's safety and well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because their situation might involve issues such as instability, potential criminal behavior, or harmful environments that could impact safety and quality of life for residents nearby. Having responsible and stable neighbors contributes to a safer and more harmonious community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having drug addicts as neighbors could pose safety risks, disrupt community harmony, and potentially lead to disturbances or criminal activity. Therefore, I would prefer not to have drug addicts as neighbors.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because their presence could potentially create safety concerns, disturbances, or negative influences on the community environment. A peaceful and safe neighborhood is important for well-being and quality of life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because their presence can raise concerns about safety, disturbances, and potential negative influences on the community environment. Maintaining a safe and peaceful neighborhood is important for everyone's well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because their presence can raise concerns about safety, disturbances, and potential negative influences on the community environment. Maintaining a safe and peaceful neighborhood is important for everyone's well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because their presence can raise concerns about safety, disturbances, and potential negative influences on the community environment. Maintaining a safe and peaceful neighborhood is important for everyone's well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have drug addicts as neighbors because their presence can pose safety risks, create disturbances, and negatively impact community harmony and quality of life. Ensuring a safe and peaceful environment is important for everyone's well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

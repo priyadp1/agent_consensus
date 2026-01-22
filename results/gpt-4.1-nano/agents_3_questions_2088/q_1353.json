@@ -1,0 +1,61 @@
+{
+  "question": "(Please tell me if you approve or disapprove of the way President Pena Nieto is handling each of the following areas.)...Relations with the US",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because during his tenure, there were significant tensions and complications in diplomatic and trade relations. The approach appeared inconsistent at times, which may have impacted Mexico's strategic interests. Maintaining a balanced and firm stance would have been preferable to protect Mexico's sovereignty and economic well-being.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because during his administration, there were frequent tensions and disagreements, such as on trade issues and immigration policies, which seemed to undermine a cooperative relationship. This suggests his approach did not effectively foster positive ties with the US.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that during President Pena Nieto's tenure, relations with the US were complex, marked by both cooperation and tension. While efforts were made to strengthen diplomatic and economic ties, there were also challenges due to policy differences and regional issues. Given this nuanced situation, I lean toward disapproval, considering some concerns about the effectiveness and consistency of the approach. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because, despite efforts at cooperation, the frequent tensions and disagreements during his administration indicate that his approach did not successfully foster a positive and stable relationship. The issues surrounding trade and immigration, along with the overall perception of strained ties, suggest a lack of effective diplomacy in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because, despite efforts to improve ties, the period was characterized by notable tensions and inconsistent policies that may have undermined Mexico's strategic interests. Stronger, more coherent diplomacy could have better protected Mexico's economic and sovereignty concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because there were notable tensions and disagreements during his tenure, especially on trade and immigration issues, which hindered a cooperative relationship and potentially affected Mexico's strategic interests. His approach seemed inconsistent at times, and a more balanced stance might have helped strengthen diplomatic ties.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because his tenure was marked by tensions and inconsistent policies, which may have weakened Mexico's strategic interests and diplomatic strength. A more coherent and balanced approach could have fostered stronger cooperation and better protected Mexico's sovereignty and economic concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because, despite efforts at diplomacy, the frequent tensions and disagreements during his administration, particularly on trade and immigration issues, suggest that his approach did not successfully foster a positive and cooperative relationship. The overall perception of strained ties indicates that his strategy may have been ineffective in maintaining strong diplomatic relations with the US.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of relations with the US because the period was marked by tensions and inconsistent policies that seemed to diminish Mexico's diplomatic leverage. Despite efforts to cooperate, the overall perception was of strained ties, which indicates a less effective approach in maintaining a strong and stable relationship with the US.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

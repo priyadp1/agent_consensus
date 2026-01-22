@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Venezuela",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela due to its ongoing political and economic challenges, including inflation, shortages, and human rights issues. While I recognize some cultural richness and resilience among the people, overall the situation influences my view negatively.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela due to its ongoing political and economic challenges, including inflation, social issues, and governance concerns. While I acknowledge the country's rich history and cultural contributions, the current circumstances lead me to view it with caution and concern.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela due to its ongoing political and economic challenges, including hyperinflation, political instability, and human rights concerns. These issues impact the country's reputation and international relations, leading to a cautious or negative perspective.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela, primarily because of its ongoing political and economic challenges such as hyperinflation, political instability, and social difficulties. While I recognize the country's rich cultural heritage, these current issues lead to a cautious and critical view.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela, mainly because of its ongoing political and economic difficulties such as hyperinflation, shortages, and human rights concerns. While I acknowledge the resilience and cultural richness of the Venezuelan people, these issues tend to overshadow positive aspects and contribute to a cautious or negative view. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela due to its ongoing political and economic challenges, including inflation, shortages, and governance issues. While I recognize the resilience and cultural richness of the people, the current situation significantly impacts my view negatively.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela due to its ongoing political and economic challenges, such as hyperinflation, shortages, and governance issues. Despite recognizing the resilience and cultural richness of the Venezuelan people, these issues significantly impact my view negatively, leading to a cautious and somewhat negative overall impression.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Venezuela. While I appreciate its rich cultural heritage and people's resilience, the ongoing political and economic challenges such as hyperinflation, shortages, and instability significantly influence my view negatively. These issues impact daily life and overall stability, leading me to a cautious but not entirely unfavorable stance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I hold a somewhat unfavorable opinion of Venezuela due to its ongoing economic struggles, political instability, and social issues, which have led to hardships for many citizens. Although I recognize the country's cultural richness and resilience, these current challenges overshadow other positive aspects, making my view cautious and somewhat negative.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

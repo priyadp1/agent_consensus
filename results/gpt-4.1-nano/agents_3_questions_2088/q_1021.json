@@ -1,0 +1,62 @@
+{
+  "question": "What's your impression, does the Church play too great a role in the life of this country today, too small a role in its life or about the right role?",
+  "options": [
+    "Too great",
+    "Too small",
+    "About right",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the role of the Church in this country is about right. The Church provides moral guidance, community support, and fosters social cohesion without overwhelming government or societal functions. It balances religious influence with individual freedoms and secular institutions, contributing positively without dominating public life.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the role of the Church in the country today is about right. It provides important moral guidance and community support without overtaking the functions of government or other secular institutions. While some might argue the Church's influence should be greater or lesser, maintaining a balanced role allows for respect of religious traditions while ensuring separation of church and state. Therefore, I think its current involvement strikes an appropriate balance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the Church's influence should be balanced in society. While the Church provides important moral guidance and community support, an overly dominant role could undermine secular institutions and inclusivity. Conversely, too little presence might reduce the moral and social cohesion that religious organizations often foster. Therefore, I think the role of the Church is about right, contributing positively without overwhelming other societal structures.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the Church's role in the country today is about right. It provides moral guidance, community support, and traditions that many value, yet does not dominate government or public policy. This balanced involvement respects religious influence while maintaining secular governance, which I think is appropriate for a diverse society. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the Church's role in this country strikes a balance that benefits society. It provides moral guidance and community support without overpowering governmental or secular institutions. While its influence is important for social cohesion, it doesn't dominate public life, allowing for individual freedoms and diverse perspectives. This balanced presence helps maintain social harmony without interference or neglect of other societal roles.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the Church's influence in this country currently strikes a reasonable balance. It provides vital moral and community support while respecting the separation of church and state, without overshadowing secular institutions or government functions. Its role seems neither overly dominant nor insufficient, fostering social cohesion without infringing on individual freedoms.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the role of the Church in our country today is about right. It provides important moral guidance and community support, contributing positively to society without overshadowing secular institutions or government. Its influence seems balanced, fostering social cohesion while respecting individual freedoms and diversity of perspectives.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the Church's role in the country today is about right. It offers moral guidance, social support, and cultural traditions that enrich society, but it does not interfere excessively in governance or public policy. This balance allows for religious influence to be meaningful without compromising secular principles or individual freedoms.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the Church's role in the country today is about right. It provides moral guidance and community support that many value, without dominating government or public policy. This balanced involvement respects religious influence while maintaining secular governance, which I think is suitable for a diverse society.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

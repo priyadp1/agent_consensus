@@ -1,0 +1,61 @@
+{
+  "question": "How much, if anything, have you heard about...North Korea's nuclear program? A lot, a little or nothing at all?",
+  "options": [
+    "A lot",
+    "A little",
+    "Nothing at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have moderate knowledge about North Korea's nuclear program through news reports, international discussions, and some historical context, but I do not have detailed or in-depth information. Therefore, I would say I have heard about it a little. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have heard some general information about North Korea's nuclear program through news reports and discussions, but I do not have detailed or in-depth knowledge about its specifics or recent developments. Therefore, I would choose to say I have heard a little about it.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have heard a moderate amount about North Korea's nuclear program through news reports and international discussions, but I do not have in-depth knowledge. Therefore, I would choose B. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have followed the news and reports about North Korea's nuclear activities, but my knowledge is limited to general information and does not include detailed or recent developments. Therefore, I would say I have heard a little about it.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have heard about North Korea's nuclear program primarily through news reports and international discussions, which gives me a general awareness but not detailed or in-depth knowledge. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am aware of North Korea's nuclear program primarily through news reports, international discussions, and some historical context. While I know about its existence and general background, I do not possess detailed or current information about recent developments. Based on this, I have heard about it to a limited extent but not extensively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a general awareness of North Korea's nuclear program through news reports and international discussions, but I do not possess detailed or current information about its latest developments. This suggests I have heard about it to a limited extent but not extensively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some awareness of North Korea's nuclear activities through news reports and international discussions, but my knowledge is fairly limited and does not include detailed or recent developments. Therefore, I would categorize my familiarity as limited, corresponding to a small but existing level of awareness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have heard about North Korea's nuclear program mainly through news reports and international discussions, which gives me a general awareness but I do not possess detailed or recent knowledge about it. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

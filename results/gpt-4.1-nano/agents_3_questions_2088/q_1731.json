@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me how worried you are about each of the following issues related to Muslims living in your country...Muslim women taking modern roles in society...Are you very worried, somewhat worried, not too worried, or not at all worried about Muslim women taking modern roles in society?",
+  "options": [
+    "Very worried",
+    "Somewhat worried",
+    "Not too worried",
+    "Not at all worried"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that Muslim women taking modern roles in society is a positive development that reflects progress towards gender equality and individual freedom. Such roles can empower women, improve societal inclusivity, and showcase the diverse contributions of Muslims in various fields. While I understand that some may have concerns, overall, I am not worried about this change and see it as a natural evolution in a pluralistic society.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Muslim women taking modern roles in society is an important aspect of social progress and equality. While I understand that some people may feel worried about changes in traditional roles, I think these shifts reflect increased opportunities and personal freedom for women everywhere. Therefore, I am somewhat worried but also optimistic about the positive outcomes of greater inclusion and equal participation. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe it is important to support inclusivity and gender equality. Muslim women taking modern roles in society reflects progress toward equal rights and opportunities for all individuals, regardless of their background or faith. There is no reason to be worried about this development; instead, it should be viewed as a positive step toward a more diverse and equitable society.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Muslim women taking modern roles in society represents a positive movement towards gender equality and social progress. While some individuals might feel unsure about these changes, I see them as an opportunity for greater inclusion and empowerment. Therefore, I am somewhat worried but primarily optimistic about this development.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that women taking modern roles in society, including Muslim women, is a positive development that promotes equality, individual freedom, and societal progress. Such changes help foster inclusivity and showcase the diverse contributions individuals can make regardless of their background or faith. Therefore, I am not worried about this shift and see it as a natural and beneficial evolution in our society.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that Muslim women taking modern roles in society is a positive and necessary step toward gender equality and social progress. Such developments empower women, promote inclusivity, and reflect societal evolution. While I recognize that some may have concerns, I personally am not worried about this change and see it as a natural and beneficial progression in a diverse society.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that Muslim women taking modern roles in society is a positive development that promotes equality, individual freedom, and societal progress. Such changes contribute to inclusivity and help create a more diverse and equitable society, reflecting ongoing social evolution. Therefore, I am not worried about this shift and see it as beneficial rather than problematic.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I am personally supportive of Muslim women taking modern roles in society as it fosters progress, equality, and inclusivity. I believe such changes reflect positive social evolution and empower women to contribute fully to their communities. While some may feel concerned about cultural or social adjustments, my perspective is that this shift is beneficial and natural in a diverse society.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that Muslim women taking modern roles in society is a positive development that promotes equality, individual freedom, and societal progress. Such changes help foster inclusivity and showcase the diverse contributions individuals can make regardless of their background or faith. While some may still feel hesitant or worried about the cultural shifts, overall, this change aligns with values of empowerment and social evolution. Therefore, I am not worried about this shift and see it as a natural and beneficial evolution in our society. \n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

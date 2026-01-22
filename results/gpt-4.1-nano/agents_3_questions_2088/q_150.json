@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Osama bin Laden",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of Osama bin Laden due to his involvement in acts of terrorism that caused widespread harm and suffering. His actions have been widely condemned around the world, and I believe he is responsible for significant violence and loss of innocent lives. Given this, I would select the option that reflects a very unfavorable view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the widespread negative perception of Osama bin Laden due to his association with terrorism and violence, most people tend to view him unfavorably. While some individuals or groups might have sympathetic or nuanced views, the general consensus in many societies is that of strong disapproval. Therefore, the most appropriate choice reflects this unfavorable perception.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I hold a very unfavorable opinion of Osama bin Laden due to his association with acts of terrorism that caused widespread suffering and loss of innocent lives. His actions have been widely condemned around the world, and I believe they represent extreme violence and hatred. Therefore, I would choose the option indicating a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the widespread condemnation of Osama bin Laden for his role in terrorism and violence that caused immense suffering and loss of innocent lives, most people tend to hold a very unfavorable opinion of him. His actions have been globally condemned, and societal consensus generally reflects strong disapproval. Therefore, I would also choose the option indicating a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I hold a very unfavorable opinion of Osama bin Laden due to his involvement in acts of terrorism that caused widespread harm and suffering. His actions have been widely condemned worldwide, and he is responsible for significant violence and loss of innocent lives. Therefore, I would choose the option indicating a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I hold a very unfavorable opinion of Osama bin Laden due to his role in orchestrating acts of terrorism that resulted in significant loss of innocent lives and widespread suffering. His actions have been internationally condemned, and he is widely viewed as responsible for violence and chaos. Therefore, my choice aligns with a very unfavorable assessment.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I hold a very unfavorable opinion of Osama bin Laden because of his role in orchestrating terrorist acts that caused extensive loss of innocent lives and widespread suffering. His actions have been globally condemned, and he is widely associated with violence and chaos. Given this, I strongly view him unfavorably.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the widespread global condemnation of Osama bin Laden for his involvement in terrorism, resulting in the death and suffering of many innocent people, the majority of public opinion perceives him very unfavorably. His actions are viewed as morally reprehensible and responsible for immense violence, leading most to hold a very unfavorable view. Therefore, I choose the option indicating a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of Osama bin Laden because of his involvement in terrorism and violence that caused immense suffering and loss of innocent lives. His actions have been widely condemned globally, and societal consensus generally reflects strong disapproval of him. Therefore, I would choose the option indicating a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

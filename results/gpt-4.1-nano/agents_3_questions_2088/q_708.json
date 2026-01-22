@@ -1,0 +1,62 @@
+{
+  "question": "Now thinking about U.S. trade with particular countries. Do you think increased trade with Brazil would be a very good thing, somewhat good, somewhat bad or a very bad thing for our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Increased trade with Brazil could offer economic opportunities through the expansion of exports and imports, potentially creating jobs and fostering stronger diplomatic relations. However, there are concerns about trade imbalances, environmental impacts, and effect on domestic industries. Overall, if managed well, it could be beneficial, but it also requires careful consideration of the potential downsides.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Increased trade with Brazil could bring several benefits to the United States, such as access to new markets, opportunities for American businesses, and stronger diplomatic ties. Brazil is a major economy with abundant natural resources and a growing consumer market, which can help stimulate U.S. exports and create jobs. However, there might also be concerns about trade imbalances, environmental standards, or economic competition. Overall, the advantages of stronger economic relations with Brazil tend to outweigh the drawbacks, making increased trade a positive development for the country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Increasing trade with Brazil could have both positive and negative implications. On one hand, expanded trade might lead to economic growth, job opportunities, and stronger diplomatic ties with Brazil, which could benefit U.S. businesses and consumers. On the other hand, it could pose challenges such as increased competition for American workers and industries, or concerns about environmental standards and labor practices. Balancing these factors, I believe that increased trade with Brazil would generally be somewhat good for our country, as the potential benefits outweigh the drawbacks, especially if accompanied by appropriate policies to address concerns.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that increased trade with Brazil would be somewhat good for our country. Brazil's large and growing economy offers opportunities for U.S. exports, job creation, and stronger international relationships, which can boost economic growth. While there are valid concerns about competition and environmental standards, these issues can be managed with appropriate policies. Overall, the potential benefits seem to outweigh the drawbacks, making it a positive development.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that increased trade with Brazil would be somewhat good for the United States because it could boost economic growth, create new opportunities for American businesses, and strengthen diplomatic relations. While there are legitimate concerns about environmental and labor standards, with appropriate policies and safeguards, the potential benefits seem to outweigh the drawbacks. Therefore, I see this as a positive development overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe increased trade with Brazil would be somewhat good for the United States because it could lead to new markets for American businesses, create jobs, and strengthen diplomatic and economic ties. While there are concerns about trade imbalances and environmental standards, overall, the potential benefits of expanded trade relations seem to outweigh the drawbacks if managed properly.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe increased trade with Brazil would be somewhat good for the United States. Engaging more deeply with Brazil could open new markets for American companies, potentially create jobs, and foster stronger diplomatic and economic relations. While there are valid concerns about environmental standards and trade balance issues, careful management and cooperation could help maximize benefits and mitigate drawbacks. Overall, I see this as a positive development that could promote economic growth and international partnerships.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that increased trade with Brazil would be somewhat good for our country because it can create new opportunities for American businesses, generate jobs, and help build stronger international relationships. Although there are concerns related to trade imbalance and environmental issues, with proper management, the overall benefits of expanded trade seem to outweigh the potential negatives. Therefore, I see this as a positive development that could benefit the U.S. economy and global standing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that increased trade with Brazil would be somewhat good for the United States because it has the potential to support economic growth, create new opportunities for American businesses, and enhance diplomatic ties. While there are valid concerns about environmental and labor standards, with proper policies in place, the benefits could outweigh the negatives. Overall, I see it as a positive development that could benefit the country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

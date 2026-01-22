@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem, or not a problem at all...conflict between ethnic groups.",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups can significantly affect social stability, safety, and national unity. When these conflicts are intense or persistent, they can lead to violence, displacement, and deepen social divisions. Even when less severe, underlying ethnic tensions can undermine progress and cohesion. Therefore, I believe it is at least a moderately significant problem and possibly a very big one, depending on the context. Given the importance of social harmony, I would assess it as a very big problem in general.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups can have a significant impact on social stability, safety, and national unity. In countries where ethnic tensions are high or unresolved, such conflicts can escalate into violence, disrupt everyday life, and hamper development efforts. While some countries manage to maintain relatively peaceful coexistence among different groups, in many others, ethnic conflict remains a substantial issue requiring ongoing attention and effort to resolve. Given these factors, I believe that conflict between ethnic groups is a very big problem in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups can be a significant issue depending on the country\u2019s history, social cohesion, and current political climate. In some nations, ethnic conflict leads to violence, displacement, and deep societal divisions, making it a very big problem. In others, it might be less prominent or manageable. Given the potential for serious consequences, I believe it is generally a very big problem that needs active addressing to promote peace and stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups can severely undermine social cohesion, lead to violence, and threaten national stability. Such tensions often require substantial resources and long-term efforts to manage or resolve, and their escalation can have devastating consequences for a country's well-being and development. Given these considerations, I believe it is a very big problem in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups can pose serious challenges to a nation's stability, social harmony, and development. When such conflicts are intense or prolonged, they often lead to violence, displacement, and deepen divisions within society. Given these potential consequences and the importance of social cohesion for a country's progress, I believe this is a very big problem that warrants significant attention and efforts to manage and resolve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups can lead to violence, social division, and long-term instability. Given its potential to severely threaten social cohesion and safety, I believe it is a very big problem in our country. Addressing ethnic tensions is crucial for national unity and peace.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that conflict between ethnic groups is a very big problem because such conflicts can cause violence, social unrest, and long-term divisions within society. They threaten national stability and peace, making it essential to focus on resolving these issues to ensure social cohesion and security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups poses a serious threat to social harmony, safety, and stability. When such tensions escalate, they can lead to violence and long-lasting divisions that hinder the country's progress. Given the potential for significant harm and the importance of unity, I believe it is a very big problem in our country.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Conflict between ethnic groups can significantly threaten societal stability and harmony, often leading to violence and long-term divisions. Such issues can undermine progress and require substantial resources to address. Considering these impacts, I believe it is a very big problem that needs urgent attention to promote peace and cohesion.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

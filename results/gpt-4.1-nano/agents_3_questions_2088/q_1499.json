@@ -1,0 +1,60 @@
+{
+  "question": "(Did you hear about the death of Tehrik-i-Taliban leader Baitullah Mehsud, who was killed a few months ago by a drone attack?) If heard about it, ask: Is this a good thing or a bad thing?",
+  "options": [
+    "Good",
+    "Bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard about the death of Baitullah Mehsud, which was caused by a drone attack. Such a death might be viewed as a positive development by some, as it could disrupt the operations of a militant leader and possibly reduce violence or threats he was involved in. However, others might see it as a tragic loss of life or as potentially escalating violence if it leads to retaliation. Overall, considering the potential security benefits and the removal of a known militant figure, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Yes, I heard about Baitullah Mehsud's death. Considering he was a leader associated with militant activities and associated violence, his death could be viewed as a positive development because it may weaken the group and potentially reduce violence. However, some might argue that the loss of a leader can sometimes lead to increased instability or violence as new leaders emerge. Overall, many would see his death as a step towards peace and security in the region. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard about the death of Baitullah Mehsud. Considering his role as a leader of a militant group involved in violence and terrorism, his death could be seen as a positive development in terms of reducing violence and instability in the region. It might also be a step toward peace and peace-building efforts. However, such events can also have complex implications, and perspectives may differ based on political views. Overall, I see this as a good thing because it potentially curtails further militant activity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having considered the implications of Baitullah Mehsud's death, which is associated with militant activities and violence, I believe that his death could be seen as a positive development. It might help weaken the militant group and contribute to reducing violence and instability in the region. Although there are complex factors involved, overall, this event seems to advance efforts toward peace and security. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "INVALID",
+        "raw_output": "",
+        "model_failed": true
+      },
+      "2": {
+        "answer": "INVALID",
+        "raw_output": "",
+        "model_failed": true
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I heard about Baitullah Mehsud's death. Considering that he was a leader of a militant group involved in violence, his death could be seen as a step towards reducing terrorism and instability. Therefore, I believe it is a good thing because it may lead to improved security and peace in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "INVALID",
+        "raw_output": "",
+        "model_failed": true
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having considered the context of Baitullah Mehsud's death, which was associated with militant violence and instability, I believe that his killing could be viewed as a positive step towards reducing terrorism and promoting peace. While there are always complexities in such situations, the removal of a key militant leader typically weakens the group's operations and can lead to increased stability. Therefore, I see this event as a good development overall.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

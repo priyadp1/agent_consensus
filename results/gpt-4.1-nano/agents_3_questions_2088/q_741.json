@@ -1,0 +1,63 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...U.S. Presidential candidate Hillary Clinton",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Hillary Clinton's ability to do the right thing regarding world affairs, based on her extensive experience in government and diplomacy. However, her past policy positions and public controversies cause some doubt, so I hesitate to have a lot of confidence. Therefore, I would choose \"some confidence.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Hillary Clinton's ability to do the right thing regarding world affairs based on her extensive experience in foreign policy as Secretary of State. However, opinions about her are polarized, and some may have reservations about her motivations or decision-making style. Therefore, I would choose \"some confidence\" as a balanced assessment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Hillary Clinton's ability to do the right thing regarding world affairs based on her extensive experience as Secretary of State and her involvement in international diplomacy. However, opinions about her vary, and some people may doubt her decision-making or policy alignment. Given these considerations, I would choose \"some confidence\" to reflect a cautious but generally positive view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Hillary Clinton has significant experience in foreign policy from her time as Secretary of State, which positions her to handle world affairs competently. While some people have doubts about her motivations or decision-making, her extensive diplomatic background suggests she could be relied upon to do the right thing in international matters. Therefore, I have some confidence in her leadership regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize Hillary Clinton's extensive experience in government and international diplomacy, which suggests she is knowledgeable about world affairs. However, public opinion is divided due to various controversies and differing policy views, leading me to feel cautiously optimistic rather than highly confident. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that Hillary Clinton's extensive experience in government and foreign policy suggests she has a significant understanding of global affairs. Her past roles as Secretary of State indicate a capacity to make informed decisions regarding international issues. However, public opinion remains somewhat divided due to various controversies and political perceptions, which may temper full confidence. Considering these factors, I would select some confidence as it reflects her expertise while acknowledging potential reservations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize Hillary Clinton's extensive experience in government and foreign policy, including her role as Secretary of State, which indicates she has substantial knowledge and understanding of international affairs. Her background suggests she has the competence to do the right thing regarding world issues. However, some controversies and differing public opinions may cause some reservations about full confidence. Considering this, I feel that \"some confidence\" best reflects my opinion, acknowledging her expertise but also the divisions in public perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given her extensive experience in government and foreign policy, including her role as Secretary of State, I believe she has a solid foundation to handle international affairs. While there are some public reservations due to controversies and political perceptions, her expertise suggests she could be trusted to do the right thing. Therefore, I choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Hillary Clinton's extensive experience in government and international diplomacy provides her with a solid understanding of global issues. Despite some public controversies and differing opinions, her diplomatic background suggests she could be relied upon to handle international affairs competently. However, given the divided public opinion and uncertainties, I am cautious in my confidence. Therefore, I select some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

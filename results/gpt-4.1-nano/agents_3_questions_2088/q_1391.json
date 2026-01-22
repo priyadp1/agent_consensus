@@ -1,0 +1,62 @@
+{
+  "question": "As you may know, national parliamentary elections are scheduled for next year. What party would you like to lead the next government - the Bharatiya Janata Party (BJP), the Indian National Congress (INC) party, another party or none of the above?",
+  "options": [
+    "Bharatiya Janata Party (BJP)",
+    "Indian National Congress (INC) party",
+    "Other (VOL)",
+    "None"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a government led by the Bharatiya Janata Party (BJP) would be best suited to continue implementing policies aimed at economic growth and national development. The party's focus on stability, development, and national security aligns with my aspirations for the country's future. While I acknowledge the importance of other parties and diverse political opinions, my preference leans toward the BJP's leadership for the upcoming elections.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I prefer a government led by the Indian National Congress because I believe it emphasizes social welfare, inclusive development, and policies that aim to address economic disparities. While the BJP has its strengths in development initiatives, I feel the INC's approach aligns more with promoting social justice and unity across diverse communities. A leadership reflecting these values is essential for the country's long-term stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I prefer a government led by the Bharatiya Janata Party (BJP) because of their focus on economic development, infrastructure, and national security. I believe their policies can contribute to India\u2019s progress and global standing. However, I also value the importance of diverse political perspectives to ensure balanced governance. My choice reflects a desire for stability and growth aligned with BJP\u2019s vision.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that effective governance should balance development with social justice. While the BJP focuses on economic growth and national security, the INC emphasizes inclusive development and social welfare. Considering the importance of addressing economic disparities and fostering social cohesion, I lean towards supporting the Indian National Congress for leading the next government. Therefore, I prefer a leadership that prioritizes social justice and equitable progress.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a government led by the Bharatiya Janata Party (BJP) would be best suited to continue implementing policies aimed at economic growth and national development. The party's focus on stability, development, and national security aligns with my aspirations for the country's future. While I acknowledge the importance of other parties and diverse political opinions, my preference leans toward the BJP's leadership for the upcoming elections.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that leadership in the next government should prioritize social justice, inclusive development, and policies that address economic disparities. Given these considerations, I prefer a government led by the Indian National Congress. Their focus on social welfare and unity aligns with my vision for a more equitable and inclusive future for the country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a government led by the Bharatiya Janata Party (BJP) would be most suitable to continue focusing on economic development, national security, and stability, which are important for the country's progress. While I value social justice and inclusive policies, I feel that the BJP's approach aligns more closely with my priorities for the country's future at this time.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe effective governance should prioritize social justice, inclusive development, and addressing economic disparities. Given my concerns for social welfare and equitable progress, I support a government led by the Indian National Congress. Their focus on social cohesion and inclusive policies aligns with my vision for the country's future. Therefore, I favor the INC leading the next government.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the importance of balanced development, social justice, and inclusive progress for the nation, I believe that leadership which prioritizes social welfare and equitable growth is essential. While I acknowledge the focus on economic development by the BJP, I also see value in a government that emphasizes social cohesion and comprehensive development strategies. Therefore, I would prefer a leadership that aims to address economic disparities and promote social justice to ensure a more equitable future for all citizens.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

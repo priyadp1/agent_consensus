@@ -1,0 +1,63 @@
+{
+  "question": "How much, if at all, do you think the U.S. benefits from being a member of each of the following organizations? b. The United Nations",
+  "options": [
+    "A great deal",
+    "A fair amount",
+    "Not too much",
+    "Not at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. benefits from being a member of the United Nations to a fair amount because it provides a platform for international diplomacy and conflict resolution, helps address global issues like climate change and health crises, and enhances the country's influence on the world stage. While it is not without challenges or criticisms, overall participation in the UN seems to support U.S. interests and global stability to a significant extent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations offers significant benefits to the U.S. because it provides a platform for diplomacy, helps coordinate international efforts on issues like peacekeeping and humanitarian aid, and enhances global influence. While there are disagreements and critiques about its effectiveness, the overall shape of international cooperation and the opportunity to shape global norms makes it valuable for U.S. interests. Thus, I think the U.S. benefits from being a member a fair amount. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United Nations provides some benefits to the U.S., particularly in terms of promoting international cooperation, addressing global issues like climate change and security, and supporting peacekeeping efforts. While the U.S. may sometimes have disagreements or question the effectiveness of the UN, overall, it seems to contribute positively to U.S. interests in maintaining global stability and influence. Therefore, I think the U.S. benefits a fair amount from its membership.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations offers some benefits to the U.S., primarily in fostering international cooperation, addressing global challenges, and supporting peacekeeping efforts. While there are criticisms regarding its effectiveness and the U.S. sometimes questions its role, the overall advantages in promoting global stability and influence suggest that the U.S. benefits a fair amount from its membership. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. benefits from being a member of the United Nations a fair amount because it provides an essential platform for international diplomacy, helps address critical global issues like climate change and health crises, and supports U.S. influence and leadership on the world stage. Although there are criticisms and challenges, the overall benefits in terms of promoting stability, cooperation, and global impact are significant for the U.S.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. benefits from being a member of the United Nations a fair amount because it provides a vital platform for diplomacy and international cooperation, helps address pressing global issues such as health crises and climate change, and enhances the country's influence and leadership on the world stage. While there are criticisms and limitations, the benefits for advancing U.S. interests and promoting global stability are significant enough to warrant a fair amount of benefit.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. benefits from being a member of the United Nations a fair amount because it serves as an important platform for international diplomacy, helps address critical issues such as climate change and health crises, and supports U.S. leadership and influence globally. Despite some criticisms, the overall advantages for U.S. interests and global stability are significant enough to justify this benefit.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. benefits from being a member of the United Nations a fair amount because it provides a crucial platform for diplomacy, helps address global issues that can impact national security and economic interests, and enhances the country's influence on the international stage. Although there are criticisms of the UN's effectiveness, the benefits related to promoting stability, cooperation, and U.S. leadership outweigh the drawbacks. Therefore, my answer is:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the U.S. benefits from being a member of the United Nations a fair amount because it provides an important platform for diplomacy, helps address global issues that can affect national security and economic interests, and supports U.S. influence on the world stage. While there are criticisms of the UN's effectiveness, the overall benefits in promoting international stability and cooperation justify the perception of significant advantage.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

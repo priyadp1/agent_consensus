@@ -1,0 +1,61 @@
+{
+  "question": "Overall, do you approve or disapprove of the United States re-establishing diplomatic relations with Cuba?",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe re-establishing diplomatic relations with Cuba is a positive step because it can promote better communication, potentially improve economic opportunities, and help address longstanding issues through dialogue rather than isolation. Restoring diplomatic ties often lays the foundation for progress in human rights, trade, and regional stability. Therefore, I approve. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that re-establishing diplomatic relations with Cuba can be beneficial for fostering better communication, easing economic and cultural exchanges, and potentially improving the overall relationship between the two nations. As such, I lean towards approval, considering that engagement rather than isolation might lead to positive outcomes. However, I also recognize that there are differing opinions and complexities involved in this policy decision. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe re-establishing diplomatic relations with Cuba can be beneficial for fostering better communication, easing economic restrictions, and promoting stability in the region. Engaging diplomatically can help address longstanding issues and create opportunities for improved cooperation. Therefore, I approve of the move. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that re-establishing diplomatic relations with Cuba can promote better communication, economic cooperation, and regional stability, which could lead to positive long-term outcomes. Engaging diplomatically tends to foster understanding and address longstanding issues more effectively than continued isolation. Therefore, I approve of the move.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that re-establishing diplomatic relations with Cuba is a positive step because it encourages better communication, economic development, and regional stability. Engaging diplomatically can help resolve longstanding issues more effectively than isolation. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that re-establishing diplomatic relations with Cuba is a positive step because it can promote better communication, potentially improve economic opportunities, and help address longstanding issues through dialogue rather than isolation. Restoring diplomatic ties often lays the foundation for progress in human rights, trade, and regional stability. Therefore, I approve. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that re-establishing diplomatic relations with Cuba is a constructive move because it fosters open communication, can help stimulate economic growth, and provides a platform to address long-standing issues through dialogue instead of isolation. Engaging diplomatically often leads to progress in areas like human rights, trade, and regional stability. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that re-establishing diplomatic relations with Cuba can foster better communication and cooperation, which may lead to positive developments in regional stability, economic opportunities, and human rights. Engaging diplomatically allows for dialogue and problem-solving rather than continued isolation, potentially creating a foundation for constructive progress. Therefore, I approve.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that re-establishing diplomatic relations with Cuba can promote improved communication, economic cooperation, and regional stability. Engaging diplomatically tends to foster understanding and can lead to more effective resolution of longstanding issues, rather than continued isolation which may hinder progress. Given these considerations, I approve of the move.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

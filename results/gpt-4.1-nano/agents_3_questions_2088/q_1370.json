@@ -1,0 +1,62 @@
+{
+  "question": "I'd like your opinion about the effectiveness of different ways of trying to influence what the government does. How effective is it to...be an active member of a political organization...very effective, somewhat effective, not too effective, or not at all effective?",
+  "options": [
+    "Very effective",
+    "Somewhat effective",
+    "Not too effective",
+    "Not at all effective"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Being an active member of a political organization can be quite impactful because it allows individuals to directly communicate their views, mobilize others, and influence decision-making processes within that organization. While the overall effect on broader government policies may vary, active participation often leads to tangible change, especially when coordinated with other efforts. Therefore, I believe it is quite effective. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Being an active member of a political organization can be quite effective because it allows individuals to directly contribute to shaping policies, mobilize support, and communicate their concerns to decision-makers. While individual influence may vary depending on the organization\u2019s reach and structure, active participation generally provides more avenues for influence than passive actions. Therefore, I believe it is often an effective way to impact government actions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Being an active member of a political organization can be quite influential because it allows individuals to directly participate in discussions, mobilize support, and advocate for specific policies. While the overall impact can vary depending on the organization\u2019s reach and the political context, on the whole, active participation can contribute meaningfully to shaping government decisions. Therefore, I believe it is quite effective but perhaps not the only or guaranteed way to influence government actions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that being an active member of a political organization can be quite effective because it provides opportunities for direct participation, advocacy, and mobilization, which can influence government decisions. While individual impact may depend on various factors such as the organization\u2019s reach and the political climate, active involvement generally enhances one's ability to make a difference compared to passive approaches. Therefore, I consider it to be quite effective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Being an active member of a political organization can be quite impactful because it provides a direct platform for individuals to voice their opinions, influence others, and participate in decision-making processes that may eventually affect government policies. While its influence on broader government actions can sometimes be limited, especially if the organization has a small or niche reach, coordinated efforts and sustained engagement can lead to meaningful change. Considering these factors, I believe this method is quite effective, though it may not always guarantee results.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Being an active member of a political organization can be quite effective because it provides a direct avenue for individuals to influence decisions, mobilize supporters, and communicate concerns directly to policymakers. Such involvement often leads to tangible impacts, especially when coordinated with broader efforts. While the degree of influence can vary, active participation generally enhances the likelihood of affecting government actions more than passive or sporadic engagement. Therefore, I believe it is very effective.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that being an active member of a political organization can have a significant impact because it allows individuals to directly influence decision-making, mobilize supporters, and communicate concerns to policymakers. While the influence may vary depending on the organization's reach and the context, sustained and coordinated efforts can lead to meaningful change in government actions. Given these factors, I consider this method to be very effective.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that being an active member of a political organization can be quite effective because it offers a direct avenue for influence through participation, advocacy, and mobilization. Such engagement can lead to tangible impacts on government decisions, especially when coordinated with other efforts. While the level of influence may vary depending on the organization and context, active involvement generally enhances one's ability to effect change compared to passive approaches. Therefore, I consider it to be very effective.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that being an active member of a political organization can be quite impactful because it provides a direct platform to voice opinions, influence others, and engage in decision-making processes that can lead to policy changes. While the influence on broader government actions isn't guaranteed and may depend on factors such as the organization\u2019s reach and the political climate, sustained and coordinated efforts generally enhance the likelihood of influencing government decisions. Therefore, I consider it to be quite effective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

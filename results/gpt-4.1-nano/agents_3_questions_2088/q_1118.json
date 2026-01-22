@@ -1,0 +1,63 @@
+{
+  "question": "In your opinion, should we allow more immigrants to move to our country, fewer immigrants, or about the same as we do now? ",
+  "options": [
+    "More",
+    "Fewer",
+    "About the same",
+    "DK/Refused",
+    "No immigrants at all (DO NOT READ)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that we should maintain our current level of immigration to ensure a balanced approach that benefits both our economy and social cohesion. Allowing more immigrants could boost diversity and fill labor shortages, but it might also strain resources if not managed properly. Conversely, reducing immigration could impact growth and cultural richness. Therefore, staying with the current level seems most prudent to manage these factors effectively.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that we should maintain the current level of immigration, as it allows us to benefit from cultural diversity and economic growth while managing social integration. Changing the levels significantly could either risk labor shortages or overstress social services, so keeping it about the same seems balanced. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that immigration policies should be balanced to support economic growth and cultural diversity, so I think we should allow more immigrants to move to our country. By welcoming additional immigrants, we can fill labor shortages, foster innovation, and enrich our society's cultural fabric, provided that proper integration measures are in place. It is important, however, to manage the process responsibly and ensure that infrastructure and social services can accommodate the increase. Therefore, I support allowing more immigrants rather than maintaining the current level or reducing it significantly.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing more immigrants can bring valuable cultural diversity and support economic growth, especially if proper integration measures are in place. However, it is important to ensure that infrastructure and social services are prepared to accommodate a larger influx. Balancing these factors, I think increasing the level of immigration is beneficial for the country\u2019s long-term development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that maintaining a balance is essential; therefore, I think we should continue with about the same level of immigration as we do now. This approach allows us to support economic growth and cultural diversity without overwhelming social services or infrastructure. It provides stability while still welcoming newcomers who can contribute positively to society. Given the considerations, staying at the current level seems most reasonable to manage resources effectively and promote social cohesion.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe maintaining the current level of immigration strikes a good balance, supporting economic growth and cultural diversity while managing social resources effectively. Increasing immigration might bring more benefits but also potential challenges, whereas reducing it could hinder growth. Therefore, I think it\u2019s best to keep it about the same. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that maintaining the current level of immigration is appropriate. It allows for economic growth and cultural diversity while managing social resources effectively, ensuring stability and social cohesion. Therefore, I think it\u2019s best to keep it about the same.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that we should allow more immigrants to move to our country. I think increasing immigration can enhance cultural diversity and contribute positively to economic growth, provided that proper integration and infrastructure are in place to handle the larger population. I see the benefits of welcoming more newcomers and believe that, with appropriate policies, the country can support and benefit from increased immigration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that maintaining a steady level of immigration is important to ensure the country benefits from cultural diversity and economic contributions while avoiding potential strain on social services and infrastructure. Managing the current level effectively can promote social cohesion and sustainable growth. Therefore, I think about the same as now is the best approach.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

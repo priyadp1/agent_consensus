@@ -1,0 +1,61 @@
+{
+  "question": "In general, do you think the dissolution of the Soviet Union has been a good thing or a bad thing for Russia?",
+  "options": [
+    "Good thing",
+    "Bad thing",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union marked the end of a major superpower, leading to significant political, economic, and social upheavals in Russia. While it opened doors for greater independence and integration into the global economy, it also resulted in economic hardships, loss of power on the world stage, and internal chaos for many citizens. The mixed outcomes suggest that, overall, the impact has been more detrimental than beneficial for Russia, especially in the short to medium term. However, opinions may vary depending on individual perspectives and priorities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The dissolution of the Soviet Union is a complex event with both positive and negative consequences for Russia. On the one hand, it allowed for greater political freedom, democratization, and integration with global markets, which many see as beneficial for Russia's development. On the other hand, it also led to economic instability, loss of superpower status, and regional conflicts, which have had negative impacts on many Russians\u2019 lives. Personally, many believe that despite the challenges, the dissolution ultimately opened doors for reforms and better prospects, making it a positive development in the long term.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union can be viewed as both positive and negative, depending on perspective. On one hand, it ended a repressive authoritarian regime, allowed for greater political freedom, and opened opportunities for economic liberalization and integration with the global community. On the other hand, it led to significant economic hardship, political instability, and the loss of superpower status, which adversely affected many Russians' lives. Many believe that the transition was tumultuous and that the country faced substantial challenges post-1991, which complicates the assessment of whether it was fundamentally good or bad. Given these complexities, and considering the mixed outcomes, I think the negative consequences outweigh the positives in the long term.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union was a pivotal event that brought significant change to Russia. While it ended an era of authoritarian rule and opened opportunities for democratic reforms and integration with the global economy, it also resulted in economic hardship, political instability, and the loss of superpower status. The long-term effects are nuanced, and opinions differ based on perspectives. Considering the economic and political challenges that followed, I believe the negative consequences had a more profound impact on many Russians' lives, making it a largely negative development in retrospect.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union brought both significant opportunities and serious challenges for Russia. On the positive side, it ended an authoritarian system and opened the country to political freedom, economic reform, and integration with the world. However, the transition also resulted in economic hardship, social upheaval, and a loss of superpower influence that many Russians felt deeply. Given the widespread difficulties faced during the transition and the long-term impact of instability, I believe that, on balance, it has been more harmful than beneficial for Russia.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union brought about significant changes for Russia, including new opportunities for political freedom and economic reforms, but also resulted in economic hardships, loss of global status, and internal instability. These mixed outcomes suggest that, on balance, the dissolution had more negative consequences for the country, especially in the immediate aftermath. While some view it as opening a path to modernization and democracy, the overall impact has been challenging for many Russian citizens. Therefore, I believe it has been more detrimental than beneficial for Russia.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union marked a pivotal moment for Russia, ending a centralized, authoritarian regime and opening the door to political and economic reforms. While these changes created opportunities for democracy and a more open society, they also led to severe economic hardship, social upheaval, and a decline in Russia's global influence for many years. Considering both the positive and negative outcomes, the transition appears to have caused more harm than good overall, especially in the immediate and mid-term periods. Therefore, I believe that, on balance, the dissolution has been a bad thing for Russia.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union marked a major turning point for Russia, ending its status as a superpower and leading to significant economic and political upheaval. While it created opportunities for greater political freedom and market reforms, it also caused economic hardship, instability, and a loss of international influence that many Russians continue to feel the effects of. Given the substantial challenges that followed, I believe that overall, it has been more harmful than beneficial for Russia.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The dissolution of the Soviet Union marked a significant turning point for Russia, leading to both opportunities and hardships. While it ended authoritarian rule and allowed for greater political and economic freedoms, it also caused economic downturns, social instability, and a loss of superpower status, which had profound negative effects on many Russians' lives. Considering these factors, I believe that overall, it has been more harmful than beneficial for Russia.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

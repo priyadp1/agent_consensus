@@ -1,0 +1,63 @@
+{
+  "question": "How likely are you personally to take political action on __ , such as contact an elected official or participate in a demonstration? b. government corruption",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not too likely",
+    "Not at all likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B because I generally feel motivated to engage in political action when it involves issues like government corruption, but I may not do so frequently. While I recognize the importance of standing up against corruption and might consider reaching out to officials or participating in demonstrations, I probably do so only if I see the issue as urgent or compelling enough. My involvement would depend on my personal capacity, the level of perceived impact, and whether I see collective action making a difference. This makes me somewhat likely to take action rather than very likely, but still indicates a possibility of involvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat likely to take political action on government corruption because it is a significant issue that I care about, but I may not always have the time or resources to participate actively. This middle-ground response reflects an awareness of the importance of the issue without implying full commitment or certainty. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I personally feel a moderate level of motivation to take political action regarding government corruption. While I recognize its importance, I may not always be motivated to actively contact officials or participate in demonstrations unless I feel strongly or see a significant issue. Therefore, I would choose \"Somewhat likely\" as it reflects a willingness to engage but not a strong certainty.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B because I feel moderately motivated to take political action on government corruption. I acknowledge its importance and am willing to engage, but I may not be driven to act unless the issue becomes particularly urgent or personally relevant. This aligns with a willingness to participate without full certainty or commitment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat motivated to take political action on government corruption because I recognize its significance and potential impact. While I may not always pursue contact with officials or participate in demonstrations unless I perceive the issue as urgent or compelling, I remain open to engagement if I believe it can make a difference. This indicates a moderate willingness rather than a high level of certainty or complete disinterest.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat likely to take political action on government corruption because I believe it is a critical issue that impacts the integrity of governance. While I care about addressing corruption, I may not always have the time, resources, or motivation to engage actively through actions like contacting officials or demonstrations. My willingness depends on the perceived seriousness of the situation and my available capacity to participate effectively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I feel somewhat motivated to take political action on government corruption because I recognize its significance and potential impact. While I may not always pursue contact with officials or participate in demonstrations unless I perceive the issue as urgent or compelling, I remain open to engagement if I believe it can make a difference. This reflects a moderate willingness rather than a high level of certainty or complete disinterest.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would consider myself somewhat likely to take political action on government corruption. I believe it is a significant issue that affects trust in institutions, but my willingness to act depends on how severe or urgent the situation feels and my personal capacity at the time. I may not always follow through with actions like contacting officials or participating in demonstrations unless I perceive the circumstances as particularly critical or compelling.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat motivated to take political action on government corruption because I recognize its significance and potential impact. While I may not always pursue contact with officials or participate in demonstrations unless I perceive the issue as urgent or compelling, I remain open to engagement if I believe it can make a difference. This indicates a moderate willingness rather than a high level of certainty or complete disinterest.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

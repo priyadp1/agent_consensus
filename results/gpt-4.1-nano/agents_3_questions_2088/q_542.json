@@ -1,0 +1,62 @@
+{
+  "question": "How much do you personally worry about global warming - a great deal, a fair amount, only a little, or not at all?",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Only a little",
+    "Not at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that global warming is a significant concern that warrants attention, but I do not feel overwhelmed by it in my daily life. I consider it a serious but manageable issue, so I would choose a moderate level of worry. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I personally worry about global warming to a fair amount because I recognize the significant impact it has on the environment and future generations, but I also understand that there are ongoing efforts and technological advancements aimed at mitigation. My concern is substantial but not overwhelming. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I personally worry about global warming only a little because I believe that while it is an important issue, some solutions are complex and take time to implement effectively. I stay informed about potential impacts but do not feel overwhelmed by it. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I personally worry about global warming only a little because while I recognize its seriousness and potential impacts, I also believe that solutions are being developed and implemented gradually. I feel informed but do not find myself overwhelmed by concerns, trusting that progress will continue. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I personally worry about global warming somewhat, recognizing its seriousness but also understanding that solutions can be complex and take time to implement. This moderate level of concern aligns with a fair amount of worry, as I believe it's an important issue but not something that completely dominates my thoughts daily. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I personally worry about global warming only a little because I recognize the importance of the issue and support efforts to address it, but I don\u2019t feel overwhelmed or deeply anxious about it in my daily life. I believe that technological advancements and policy measures can help mitigate the problem over time, so my concern is moderate but not intense.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I personally worry about global warming only a little because I recognize its importance and support efforts to address it, but I don\u2019t feel overwhelmed or deeply anxious about it in my daily life. I believe that technological advancements and policy measures can help mitigate the problem over time, so my concern is moderate but not intense.  \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I personally worry about global warming only a little because while I recognize the seriousness of the issue, I believe that advancements in technology and ongoing policy efforts will help address the problem over time. I remain informed but do not feel overwhelmed or deeply anxious about it in my daily life.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I personally worry about global warming a fair amount. I recognize its seriousness and potential impacts, and I feel it requires ongoing attention and action. While I am concerned, I don't feel overwhelmed or overly anxious about it, but I believe it is an important issue that deserves steady concern and effort.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

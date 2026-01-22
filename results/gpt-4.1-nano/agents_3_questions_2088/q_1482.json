@@ -1,0 +1,62 @@
+{
+  "question": "Now thinking about German trade with particular countries. Do you think increased trade with Japan would be a very good thing, somewhat good, somewhat bad or a very bad thing for our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Increasing trade with Japan could be beneficial for Germany as it might lead to stronger economic growth through expanded markets, technological exchange, and investment opportunities. Japan is a significant global economy with advanced technology and manufacturing sectors, which could complement Germany\u2019s industries and promote innovation. However, there could also be concerns about market dominance, impacts on local industries, or trade imbalances. Overall, the potential economic benefits seem to outweigh the drawbacks, making increased trade with Japan a positive development for Germany.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Increased trade with Japan could be beneficial for Germany because it might lead to economic growth, access to innovative technologies, and strengthened diplomatic relations. Japan is a highly developed economy with advanced industries, and expanding trade could create jobs and improve consumer choices. However, some concerns could arise regarding trade imbalances or competition affecting local industries. Overall, the positive aspects seem to outweigh the negatives, making it a largely advantageous development for the country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Increasing trade with Japan could be very beneficial for Germany because Japan is a leading technological innovator and exporter of high-quality products. This could boost economic growth, create jobs, and strengthen Germany's global trade relationships. However, some might worry about increased competition impacting domestic industries or environmental concerns. Overall, the potential economic benefits seem to outweigh the drawbacks, making increased trade with Japan a positive development for the country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe increased trade with Japan would be very beneficial for Germany. Japan is a highly advanced economy known for its innovation, high-quality exports, and technological leadership. Strengthening trade relations could lead to economic growth, create new jobs, and enhance Germany\u2019s competitiveness on the global stage. While there are some concerns about competition and trade imbalances, the overall positive impact on Germany\u2019s economy seems more significant. Therefore, I think this development would be very good for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe increasing trade with Japan would be a very good thing for Germany because Japan's advanced technology and high-quality exports could significantly boost Germany's economic growth, create new jobs, and strengthen international trade relationships. While there are potential concerns about competition and impact on local industries, the overall economic benefits seem to outweigh these issues. Therefore, I view it as a highly positive development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that increased trade with Japan would generally be a positive development for Germany. Japan is a major global economy known for its technological innovation and advanced industries, which could complement Germany\u2019s strengths and promote economic growth. While there are potential concerns about trade imbalances or competition, the benefits such as access to new technologies, expanded markets, and strengthened diplomatic ties seem to outweigh these issues. Therefore, I consider the move to be somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe increased trade with Japan would be somewhat good for Germany. Japan's technological prowess and innovative industries offer advantages that could enhance Germany's economic growth and competitiveness. At the same time, there are valid concerns about increased competition that could impact domestic industries. Overall, the benefits seem to outweigh the drawbacks, making it a positive but cautious development.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that increased trade with Japan would be beneficial for Germany because Japan is a leading innovator with advanced technology and high-quality exports. Strengthening economic ties could boost growth, create jobs, and help Germany stay competitive globally. While there are some concerns about trade balance and competition, the opportunities for technological exchange and market expansion seem to outweigh these challenges. Overall, I think this development would be somewhat good for our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe increased trade with Japan would be very beneficial for Germany. Japan's technological innovation, high-quality exports, and strong economic position could lead to increased growth, job creation, and a boost in Germany\u2019s global competitiveness. While there are some concerns about competition, the overall positive impacts seem to outweigh potential drawbacks. Therefore, I think this development would be very good for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Now I'm going to read you some statements about President Barack Obama.  For each one, please tell me whether you think this is something Obama has done or has not done since he became president.  Do you think he has been fair in dealing with the Israelis and the Palestinians or don't you think so?",
+  "options": [
+    "Has",
+    "Has not"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has made efforts to be fair in dealing with the Israelis and the Palestinians, aiming to facilitate peace negotiations and encourage dialogue between the parties. His approach included attempting to balance support for Israel's security with advocacy for Palestinian rights, though opinions on his fairness vary among different observers. Given his active engagement and initiatives during his presidency, I think he has been fair in dealing with both sides.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has been fair in dealing with the Israelis and the Palestinians because he sought to facilitate negotiations and supported a two-state solution, emphasizing diplomacy and dialogue. While there were disagreements and challenges, his efforts appeared to aim at fairness and balance, even if not always perfect in practice.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has been fairly engaged in trying to promote peace and negotiations between Israel and the Palestinians, often advocating for a two-state solution and maintaining a consistent policy aimed at fairness. However, perspectives vary depending on one's view of his diplomatic efforts and the outcomes of his policies. Some critics argue that he did not do enough to challenge either side or push forward a lasting resolution, while supporters see his administration's actions as fair and balanced given the complex geopolitics involved.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has been fair in dealing with the Israelis and the Palestinians because he emphasized diplomacy, support for a two-state solution, and sought to promote negotiations. Despite challenges and criticisms, his approach aimed at fairness and balance in the complex geopolitics of the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Obama made genuine efforts to be fair in dealing with the Israelis and Palestinians by promoting dialogue and attempting to balance support for Israeli security with Palestinian rights. His administration\u2019s push for a two-state solution and ongoing diplomatic engagement suggest an intention to be equitable, even if opinions on his fairness vary. Therefore, I think he has been fair in his dealings.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has been fair in dealing with the Israelis and the Palestinians because he sought to facilitate negotiations and supported a two-state solution, emphasizing diplomacy and dialogue. While there were disagreements and challenges, his efforts appeared to aim at fairness and balance, even if not always perfect in practice.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Obama made genuine efforts to be fair in dealing with the Israelis and Palestinians by promoting dialogue and attempting to balance support for Israeli security with Palestinian rights. His administration\u2019s push for a two-state solution and ongoing diplomatic engagement suggest an intention to be equitable, even if opinions on his fairness vary. Therefore, I think he has been fair in his dealings.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has been fair in dealing with the Israelis and the Palestinians because he prioritized diplomatic efforts, supported a two-state solution, and aimed to promote negotiations and dialogue between the parties. Although there have been challenges and criticisms, his approach generally sought fairness and balance in such a complex geopolitical issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has been fair in dealing with the Israelis and the Palestinians because he emphasized diplomacy, support for a two-state solution, and sought to promote negotiations. Despite challenges and criticisms, his approach aimed at fairness and balance in the complex geopolitics of the region.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

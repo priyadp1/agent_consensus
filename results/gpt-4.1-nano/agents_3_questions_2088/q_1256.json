@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, do higher income people have too much influence in our political system, not enough influence, or about the right amount?",
+  "options": [
+    "Too much",
+    "Not enough",
+    "Right amount"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people believe that higher income individuals have excessive influence in our political system because they often have more resources to fund campaigns, lobby, and sway policy decisions. This can lead to a disproportionate voice that outweighs the concerns of the average citizen, potentially undermining the principles of equal representation. While some argue that their influence is necessary for economic growth and development, the perception that wealth translates directly to political power raises concerns about fairness and democracy. Therefore, I think they have too much influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that higher income people tend to have too much influence in our political system. This is because they often have greater resources to donate to campaigns, lobby for policies that benefit their interests, and access to policymakers, which can lead to an imbalance where their priorities overshadow those of the broader population. This disproportionate influence can undermine democratic fairness and make it harder for the voices of average citizens to be heard and represented effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my opinion, higher income people tend to have too much influence in our political system. This is because wealthier individuals often have greater access to politicians, funding for campaigns, and sway over policy decisions, which can skew the democratic process in favor of their interests. While their contributions can support political activity and civic engagement, the disproportionate influence they wield can diminish the representation of average citizens and those with less economic power. Ideally, the influence in our political system should be more balanced to ensure a fairer voice for all socioeconomic groups.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that higher income people tend to have too much influence in our political system. Their greater financial resources and access to policymakers often enable them to sway policies and decisions in their favor, which can undermine the principle of equal representation. This disproportionate influence can lead to a democracy where the voices of the wealthy outweigh those of the average citizen, reducing fairness and inclusiveness. Therefore, I think the current level of influence it too high and should be more balanced to ensure all groups have a fair say.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that higher income people do have too much influence in our political system. Their greater resources and access enable them to sway policies and political outcomes more effectively than average citizens, often leading to an imbalance that favors their interests over those of the broader population. This can undermine the fairness and equality that are foundational to democracy. A more equitable system would ensure that all socioeconomic groups have a fairer voice in decision-making processes. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that higher income people tend to have too much influence in our political system because their greater resources enable them to fund campaigns, lobby effectively, and gain access to policymakers, which often results in their interests being prioritized over those of the broader population. This disproportionate influence can undermine democratic fairness and dilute the voices of average citizens. Therefore, I think they have too much influence.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that higher income people have too much influence in our political system. Their greater financial resources and access allow them to sway policies, fund campaigns, and lobby policymakers more effectively than most citizens. This often results in their interests being prioritized, which can undermine the fairness and equality that are essential to a healthy democracy. To ensure a more balanced system, it\u2019s important to implement measures that limit disproportionate influence and promote wider citizen engagement. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that higher income people tend to have too much influence in our political system because their financial resources allow them to dominate campaign funding and lobbying efforts, which can result in their interests being prioritized over those of the general population. This disproportionate influence can undermine democratic fairness and equal representation, making it harder for average citizens to have their voices heard. Therefore, I think they have too much influence.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that higher income people tend to have too much influence in our political system. Their resources and connections often allow them to significantly sway policies and decisions, which can lead to a disproportionate representation that favors the wealthy over the general public. This imbalance can undermine the democratic principle of equal influence for all citizens. A more equitable system would ensure that all socioeconomic groups have a fairer voice in decision-making processes.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

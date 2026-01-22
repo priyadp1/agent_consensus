@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Lashkar-e-Taiba",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Lashkar-e-Taiba is widely recognized as a terrorist organization involved in violent activities, particularly in India and neighboring regions. Given its designation and the negative impact associated with its actions, most people would likely hold an unfavorable opinion of the group. It is unlikely that someone would have a very favorable or somewhat favorable view of an entity linked to terrorism and violence. Therefore, the most appropriate choice reflecting public sentiment is very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Lashkar-e-Taiba is widely regarded internationally as a terrorist organization responsible for numerous attacks, especially in India. Given its association with violence and terrorism, most individuals would likely have an unfavorable opinion of it. Therefore, I would choose very unfavorable as my stance based on its negative global reputation and actions.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Lashkar-e-Taiba is widely recognized as a terrorist organization involved in violent attacks and criminal activities. Given its reputation and the negative implications associated with its actions, most people would likely view it unfavorably. Since the survey asks for an opinion, and considering the general public sentiment towards such groups, I would select a very unfavorable opinion. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given Lashkar-e-Taiba's widespread designation as a terrorist organization responsible for violent attacks and its negative reputation internationally, most people would likely hold a very unfavorable view of it. The organization\u2019s association with violence and terrorism strongly influences public perception, making a very unfavorable opinion the most appropriate choice.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Lashkar-e-Taiba is widely recognized as a terrorist organization involved in violent attacks and criminal activities. Due to its association with terrorism, violence, and negative impacts on regional stability, public opinion is overwhelmingly unfavorable. Given this context, most individuals would hold a very unfavorable view of the group.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Lashkar-e-Taiba is widely recognized as a militant group designated as a terrorist organization by numerous countries and international bodies. Its involvement in violent attacks, particularly in India, and its association with terrorism contribute to a highly negative perception internationally. Given this information, the most appropriate response reflects a very unfavorable opinion due to its reputation and actions.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Lashkar-e-Taiba is widely recognized as a terrorist organization responsible for attacks that have caused significant violence and instability in the region. Due to its involvement in terrorism and the negative perception associated with its actions, public opinion tends to be very unfavorable towards it. Given this context, the most appropriate choice is D.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Lashkar-e-Taiba is widely recognized as a militant and terrorist organization responsible for numerous violent attacks, especially in India, and has a strongly negative international reputation. Given this context, public opinion towards it would likely be very unfavorable. Therefore, my answer is D.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given Lashkar-e-Taiba's designation as a terrorist group responsible for violent attacks and its negative reputation globally, most people would likely view it very unfavorably due to its association with violence and terrorism. This perception aligns with the overwhelming consensus on the group's harmful activities and the international community's condemnation.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

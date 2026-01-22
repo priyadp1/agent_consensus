@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Egypt",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Egypt, considering its rich history, cultural heritage, and contributions to civilization. While there may be various current issues or challenges faced by the country, overall, I hold a somewhat favorable opinion based on its historical significance and cultural influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a generally positive outlook on Egypt, considering its rich history, cultural significance, and recent developments in tourism and infrastructure. While there might be some concerns regarding political stability or economic challenges, I tend to view Egypt favorably overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because Egypt has a rich cultural history and contributes to regional stability, but some concerns about political issues and socio-economic challenges temper my overall opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Egypt because I appreciate its incredible historical and cultural significance, as well as ongoing positive developments in tourism and infrastructure. However, I recognize there are some political and economic challenges that influence my overall view, preventing me from feeling very favorable. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize Egypt's remarkable historical and cultural contributions, which inspire admiration. While acknowledging current political and socio-economic challenges, I still maintain an overall positive view of the country, considering its significance and resilience. Therefore, I would choose a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Egypt, recognizing its rich historical and cultural contributions, as well as recent positive developments in tourism and infrastructure. Although there are current political and economic challenges, these do not substantially alter my overall favorable perception of the country. Therefore, I believe my opinion aligns with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize Egypt's significant historical and cultural legacy, which garners admiration worldwide. Despite ongoing political and socio-economic challenges, the country's resilience and ongoing contributions continue to inspire a sense of respect and appreciation. Given this, I lean towards a somewhat favorable opinion, acknowledging both the positives and the current difficulties.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Egypt because I appreciate its incredible historical and cultural significance, as well as ongoing positive developments in tourism and infrastructure. While I acknowledge there are political and economic challenges, they do not significantly diminish my overall positive view of the country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a generally positive view of Egypt, appreciating its rich history, cultural legacy, and recent developments in tourism and infrastructure. While I am aware of the political and economic challenges the country faces, these do not significantly diminish my overall admiration for Egypt's contributions and resilience. Therefore, I would choose a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

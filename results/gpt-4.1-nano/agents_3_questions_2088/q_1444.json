@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me whether you support or oppose each of the following for our country....Joining NATO",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Supporting NATO can enhance national security through collective defense and foster strong international alliances. It also provides a platform for cooperation on security challenges and promotes stability in the region. Opposing NATO might stem from concerns over loss of autonomy, the financial burden of membership, or disagreement with certain policies or actions taken by NATO. Ultimately, support depends on one's perspective on international cooperation versus national sovereignty and defense strategies.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Supporting NATO can enhance national security through collective defense, strengthen international alliances, and promote political stability. It also allows for participation in global security initiatives and access to shared military resources. Opposing NATO might stem from concerns about potential military entanglements, loss of sovereignty, or financial costs. Considering the importance of security and international collaboration, I believe support for NATO aligns best with protecting our country's interests and fostering peaceful international relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Supporting NATO can enhance national security through collective defense, promote international cooperation, and strengthen diplomatic ties with allied countries. However, opposition might stem from concerns about loss of sovereignty, potential involvement in conflicts, or adverse political implications. Ultimately, my support hinges on the belief that NATO membership aligns with our country's strategic interests and promotes peace and stability globally. Considering these factors, I believe that supporting NATO is in our best interest. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support joining NATO because it offers collective security benefits that can help protect our country from external threats. It also provides opportunities for international cooperation and diplomatic support, which are important for maintaining stability and peace. While there are concerns about sovereignty and potential involvement in conflicts, these can be managed through careful policy decisions and alliances. Overall, supporting NATO aligns with our national interests in enhancing security and fostering international partnerships.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Supporting NATO can strengthen our country's security through collective defense and foster international cooperation. It also helps build strong diplomatic relationships and regional stability. While concerns about sovereignty and financial costs are valid, the benefits of aligning with allies on security issues outweigh these concerns for many. Therefore, supporting NATO aligns with the goal of maintaining national safety and global stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Supporting NATO is beneficial for our country as it enhances national security through collective defense, strengthens international alliances, and promotes regional stability. The benefits of shared security initiatives and participation in global security efforts outweigh concerns about sovereignty or financial costs, especially when these collaborations contribute to peace and security. Therefore, support for NATO aligns with the goal of protecting our country's interests and fostering international cooperation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support joining NATO because it significantly enhances our country's security through collective defense, promotes international cooperation, and contributes to regional stability. Being part of such an alliance helps protect national interests and fosters diplomatic relationships that can deter potential threats. While concerns about sovereignty and costs are understandable, the overall benefits for our security and global standing outweigh these issues. Strengthening our international partnerships is crucial for long-term peace and safety.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support joining NATO because it provides our country with collective security, helps deter potential threats, and promotes international cooperation and stability. Engaging in alliances like NATO can bolster our national security and contribute to peace efforts globally. While concerns about sovereignty are valid, the strategic benefits and protections offered by NATO outweigh these issues when managed carefully through policy. Therefore, I believe that supporting NATO is in our country's best interest.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support joining NATO because it provides collective security, allowing our country to better defend itself against external threats. It also fosters international cooperation and diplomatic relationships, which are essential for maintaining stability and peace. While there are concerns about sovereignty and costs, these can be managed through careful policy decisions. Overall, the security benefits and opportunities for international partnership make supporting NATO a favorable choice.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

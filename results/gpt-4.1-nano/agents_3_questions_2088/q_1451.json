@@ -1,0 +1,63 @@
+{
+  "question": "(Please tell me how well each of the following describes foreign companies in the mining industry in our country.)...They contribute to our country's economic growth",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Foreign companies in the mining industry can positively impact the country's economic growth by investing in infrastructure, creating jobs, and boosting revenues from mineral exports. Their contributions often lead to increased foreign direct investment, technology transfer, and development of related sectors. However, some may argue that their focus on profit and resource extraction could lead to less benefit for the local economy or environmental concerns, which might temper perceptions of their overall contribution. Still, many people recognize that foreign mining companies do contribute significantly to economic growth, though perhaps not as much as domestic companies or government initiatives might.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Foreign companies in the mining industry often bring investment, technology, and job opportunities, which can positively impact the country's economic growth. However, some people may feel that their contributions are limited or that profits are not always reinvested locally, leading to mixed perceptions. Overall, many might see their role as significant but not necessarily overwhelming, making \"Somewhat well\" a reasonable choice. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Foreign companies in the mining industry often bring in investment, create jobs, and contribute to infrastructure development, which can significantly boost the country's economic growth. However, some people may also worry about the potential negative impacts such as environmental degradation or economic dependency on foreign entities. Overall, given the contributions, most would see them as somewhat or very helpful to economic growth, but opinions might vary depending on individual perspectives. Considering this, I believe many feel they contribute at least somewhat positively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies in the mining industry do contribute positively to our country's economic growth through investments, job creation, and infrastructure development. While there are concerns about environmental and economic dependency issues, the overall perception seems to acknowledge their role as beneficial, albeit not overwhelmingly so. Therefore, \"Somewhat well\" accurately captures this balanced view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Foreign companies in the mining industry do contribute to our country's economic growth through investments, job creation, and infrastructure development. While there are concerns about environmental impacts and economic dependency, the overall contribution is generally recognized as positive. Given this, most people's perceptions would likely be that they contribute somewhat well or very well. Based on the options, I feel that \"somewhat well\" captures the general cautious optimism reflected in the previous responses.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies in the mining industry do contribute to our country's economic growth by bringing in investments, creating jobs, and increasing mineral exports. While some concerns about environmental impact and profit distribution exist, overall their involvement tends to support economic development. Considering these factors, I think their contribution is significant but not necessarily overwhelming, which aligns with a \"Somewhat well\" perspective. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies in the mining industry do contribute positively to our country's economic growth by bringing investments, creating jobs, and supporting infrastructure development. Although there are concerns related to environmental impacts and economic dependency, their overall contribution appears to be beneficial and generally appreciated. Based on these considerations, I think \"somewhat well\" best reflects the balanced perception of their role. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the viewpoints expressed by other respondents, there is a consensus that foreign mining companies do contribute positively to the country's economic growth through investments, job creation, and infrastructure development. However, this contribution is viewed as moderate rather than overwhelming, with some concerns about environmental and economic dependency issues. I agree that their role is beneficial but not entirely unproblematic, which aligns with a \"Somewhat well\" assessment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the responses and the general acknowledgment that foreign companies in the mining industry do contribute positively to economic growth through investments, job creation, and infrastructure development, but with some concerns that prevent an enthusiastic rating, I believe \"Somewhat well\" best reflects the balanced perception. The respondents recognize their contributions but are also cautious about possible negative impacts, which aligns with the \"somewhat well\" option.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

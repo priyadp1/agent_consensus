@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Crime",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Crime is generally considered a significant issue because it directly affects personal safety, community wellbeing, and overall quality of life. In many areas, high crime rates can lead to fear, economic decline, and social instability, making it a serious concern for residents and policymakers alike. While the severity and prevalence of crime can vary depending on the location, it is often viewed as a substantial problem that requires ongoing attention and resources. Therefore, I would categorize it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Crime is often considered a significant concern in many communities because it affects personal safety, property, and overall quality of life. Many people view it as a serious issue that needs to be addressed by law enforcement and policymakers. Therefore, I would categorize crime as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Crime is often perceived as a significant issue in many communities, impacting residents' safety and sense of security. Depending on the specific context or location, some people might see it as a very big problem due to frequent incidents or high crime rates. Others might view it as a moderate or smaller concern if crime levels are lower or manageable. Overall, crime remains a concern for many because it affects daily life and community well-being. Given these considerations, I believe it is a very big problem in many contexts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe crime is a very big problem because it directly impacts people's safety, property, and the overall stability of communities. High crime rates can cause fear, reduce quality of life, and strain law enforcement resources, making it a serious concern that requires attention from policymakers and community leaders. Therefore, I consider crime to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe crime is a very big problem because it directly impacts personal safety and community stability. High levels of crime can lead to fear among residents, economic decline, and social unrest, which suggests that it is a significant issue requiring attention. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Crime is a pervasive issue that directly impacts individuals, communities, and societal stability. It can cause fear, economic hardship, and diminish quality of life, especially in areas with high crime rates. Given its broad and serious implications, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Crime is a significant issue that affects many aspects of society, including safety, economic stability, and community well-being. Given its serious consequences and widespread impact, I believe it is a very big problem. Addressing crime effectively is essential for maintaining social order and improving quality of life for everyone.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe crime is a very big problem because it directly affects people's safety and well-being. High crime levels can lead to fear, diminish community cohesion, and place a heavy burden on law enforcement and social services. Its widespread impact makes it a serious issue that needs urgent attention from policymakers and communities alike.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe crime is a very big problem because it affects everyone\u2019s sense of safety, causes economic and social disruptions, and puts a strain on law enforcement and public resources. When crime rates are high, communities often experience fear, decreased quality of life, and long-term negative consequences. Therefore, I consider it a very big problem.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

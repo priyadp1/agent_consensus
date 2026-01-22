@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of four dangers in the world today.  In your opinion, which one of these poses the greatest threat to the world?",
+  "options": [
+    "Spread of nuclear weapons",
+    "AIDS and other infectious diseases",
+    "Pollution and other environmental problems",
+    "Growing gap between the rich and poor"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and other environmental problems pose the greatest threat to the world because they have the potential to cause widespread health issues, damage ecosystems, and contribute to climate change, which could lead to long-term destabilization of societies. While other dangers are serious, environmental degradation impacts everyone directly and indirectly, making it a pressing global concern that requires urgent attention and coordinated action.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and other environmental problems pose the greatest threat to the world because they have the potential to cause widespread health issues, threaten the sustainability of ecosystems, and accelerate other problems such as climate change. Environmental degradation can lead to long-term damage that is difficult to reverse, impacting food security, clean water availability, and overall quality of life for future generations. Addressing this issue is crucial to ensuring a livable planet for all.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and other environmental problems pose the greatest threat to the world because they have widespread and long-term impacts on ecosystems, human health, and the climate. Environmental issues can exacerbate other problems, such as poverty and disease, and may lead to irreversible damage if not addressed promptly. The effects of pollution are global in scope, affecting air, water, and soil quality, and can contribute to natural disasters and resource depletion, which threaten the sustainability of life on Earth.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and other environmental problems pose the greatest threat to the world because they have the potential to cause widespread health issues, threaten ecosystems, and accelerate climate change. These problems are interconnected and can lead to long-term, irreversible damage that affects the sustainability of life on Earth, impacting future generations' access to clean water, air, and food. Addressing environmental degradation is essential to ensuring a healthy, livable planet for all.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and environmental problems pose the greatest threat to the world because their impacts are extensive, affecting not only ecosystems but also human health and the climate. These issues can accelerate other global problems like poverty and disease, and if left unaddressed, they risk causing irreversible damage to our planet's sustainability. Addressing environmental concerns is crucial for ensuring a stable and healthy future for all. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and other environmental problems pose the greatest threat to the world because they have the potential to cause widespread health issues, damage ecosystems, and contribute to climate change. Environmental degradation impacts everyone directly and indirectly, leading to long-term consequences that are difficult to reverse. Addressing this issue is essential to securing a sustainable future for all.  \nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and environmental problems pose the greatest threat to the world because their impacts are broad and interconnected, affecting ecosystems, human health, and climate stability. If these issues are not addressed, they can accelerate other problems like poverty and disease, leading to irreversible damage on a planetary scale. Ensuring environmental sustainability is essential to mitigate a cascade of global crises and secure a healthier future for all.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that pollution and other environmental problems pose the greatest threat to the world because they have the potential to cause widespread health issues, threaten ecosystems, and accelerate climate change. These interconnected issues can lead to long-lasting, irreversible damage that threatens the sustainability of life on Earth. Addressing environmental degradation is essential to ensure a healthy and livable planet for current and future generations.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of nuclear weapons poses the greatest threat to the world because their use could result in catastrophic loss of life, long-term environmental damage, and global instability. The potential for accidental or intentional nuclear conflict remains a serious risk that could have devastating consequences beyond mitigation or reversal. While other issues are also critical, the destructive power and irreversible effects of nuclear weapons make them the most immediate and severe threat. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

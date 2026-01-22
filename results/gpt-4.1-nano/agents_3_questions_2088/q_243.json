@@ -1,0 +1,61 @@
+{
+  "question": "Has each of the following gotten better or worse over the last five years in our country: the availability of modern medicines and treatments.",
+  "options": [
+    "Better",
+    "Worse",
+    "Has not changed"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my view, the availability of modern medicines and treatments has generally improved over the last five years. Advances in medical technology, increased research funding, and global collaboration have led to the development and distribution of new therapies and medications. Despite some challenges such as supply chain disruptions or regulatory hurdles, overall access has expanded, benefiting a larger portion of the population and improving health outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past five years, the availability of modern medicines and treatments has generally improved in many countries, driven by advancements in medical research, increased healthcare funding, and global efforts to address health challenges. New therapies, improved drug development, and expanded distribution channels have made it easier for people to access cutting-edge treatments. However, in some regions, factors like economic constraints, regulatory hurdles, or supply chain issues have limited access, leading to disparities. Overall, the trend remains positive with continuous progress, but not universally uniform.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past five years, there has been significant progress in the development and distribution of modern medicines and treatments, especially with advancements related to biotechnology, personalized medicine, and global health initiatives. Many countries have improved access to innovative therapies, although disparities still exist. Overall, considering the rapid technological advancements and increased availability in many regions, it seems that the availability of modern medicines and treatments has generally improved.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Over the last five years, advancements in medical research, technology, and global health initiatives have led to improved access to modern medicines and treatments in many countries. While disparities remain in certain regions, the overall trend indicates progress in availability and innovation, making it easier for people to access cutting-edge healthcare options. Based on this understanding, I believe the availability of modern medicines and treatments has generally improved.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past five years, there have been notable advancements in medical research, technology, and global health initiatives. These developments have generally increased the availability of modern medicines and treatments, though some disparities and challenges remain. Overall, the evidence suggests that access has improved for many, leading to better health outcomes. Therefore, I believe the availability has gotten better.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the availability of modern medicines and treatments has generally improved over the past five years. Advances in technology, increased investment in healthcare research, and global cooperation have contributed to the development and wider distribution of new therapies, making treatments more accessible to many people. While there are still disparities and some regions face challenges, the overall trend appears positive. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the availability of modern medicines and treatments has improved over the past five years due to significant advancements in medical research, technology, and increased global collaboration. These factors have contributed to the development of new therapies and expanded access in many regions, despite ongoing challenges such as disparities and regional inequalities. Overall, the trend indicates progress in making modern healthcare more accessible to more people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past five years, there has been significant progress in the development and distribution of modern medicines and treatments globally. Advances in medical research, innovative technologies, and increased investment have made many treatments more accessible to a broader population. Although disparities remain in certain regions, the overall trend indicates an improvement in availability and innovation in healthcare options.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the last five years, there have been significant advancements in medical research, technology, and global health initiatives that have improved the availability of modern medicines and treatments in many parts of the world. While access still varies regionally and disparities exist, the overall trend points toward increased availability and innovation, making modern healthcare more accessible for many people. Therefore, I believe the availability of modern medicines and treatments has generally improved. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Overall, do you think that\u2026Japan...has apologized sufficiently for its actions during World War II, that\u2026Japan...has not apologized sufficiently or do you think no apology is necessary?",
+  "options": [
+    "Yes, has apologized sufficiently",
+    "No, has not apologized sufficiently",
+    "No apology necessary"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Many people believe that Japan has made significant efforts to apologize for its actions during World War II, including formal apologies and expressions of remorse. However, some feel that these apologies have been insufficient or inconsistent over time, leading to ongoing tensions and perceptions of a lack of genuine remorse. Others argue that as time has passed, further apologies may not be necessary, especially if current governments are progressing in reconciliation and relations. Considering these perspectives, I believe that Japan has not apologized sufficiently, as lingering distrust and unresolved issues indicate that more meaningful action or acknowledgment might still be needed to fully address past actions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has made significant efforts to acknowledge its past actions, particularly through official apologies and statements, but in the context of ongoing regional sensitivities and differing perceptions among affected countries, there remains a sense that these apologies may not have fully addressed or satisfied the concerns of all parties. Therefore, I feel Japan has not apologized sufficiently. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has made significant efforts to apologize and acknowledge past actions during World War II, such as issuing official apologies and statements. While some argue that these gestures are sufficient, others feel that more can be done, especially in terms of addressing lingering issues and ensuring full accountability. Ultimately, I think that Japan has not apologized sufficiently to fully reconcile and foster trust with its neighbors, particularly among countries that were directly affected. Continued steps toward sincere and comprehensive apologies would help improve relations and promote healing.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has made some gestures of apology and acknowledgment for its actions during World War II, but these efforts have not fully satisfied all affected parties or addressed ongoing regional sensitivities. Given the persistent tensions and differing perceptions, I feel that Japan has not apologized sufficiently to foster genuine reconciliation and trust. Therefore, I think more comprehensive, heartfelt, and consistent apologies are needed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has not apologized sufficiently for its actions during World War II. While Japan has issued formal apologies in the past, many victims and neighboring countries still feel that these gestures have not been enough to acknowledge the full extent of the suffering caused. The lingering distrust and unresolved historical issues suggest that additional sincere and comprehensive efforts are necessary to foster genuine reconciliation and trust. Therefore, I think more meaningful acknowledgment is needed to address past actions adequately.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has made some efforts to apologize for its actions during World War II, including formal statements and expressions of remorse. However, given ongoing tensions, differing perceptions among affected countries, and continued issues related to acknowledgment and reconciliation, I feel that these apologies may not have been sufficient to fully address the past or to ease regional sensitivities. Therefore, I think Japan has not apologized sufficiently.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has not apologized sufficiently for its actions during World War II. Despite formal apologies issued in the past, many victims and neighboring countries continue to feel that the gestures have been inadequate to fully acknowledge the suffering and wrongdoings. Persistent tensions, differing perceptions, and unresolved historical issues indicate that more sincere and comprehensive efforts are needed to promote genuine reconciliation and trust in the region.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has made some gestures of apology and acknowledgment for its actions during World War II, but these efforts have not fully satisfied all affected parties or addressed ongoing regional sensitivities. Given the persistent tensions and differing perceptions, I feel that Japan has not apologized sufficiently to foster genuine reconciliation and trust. Therefore, I think more comprehensive, heartfelt, and consistent apologies are needed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Japan has issued formal apologies and taken steps to acknowledge its actions during World War II. However, these efforts are often seen as insufficient by many victims and neighboring countries, who feel that past gestures have not fully addressed the pain and ongoing regional tensions. The lingering distrust and unresolved historical issues indicate that more sincere, comprehensive, and consistent apologies are still needed to foster genuine reconciliation and trust. Therefore, I think more meaningful acknowledgment is needed to address past actions adequately.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

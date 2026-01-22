@@ -1,0 +1,63 @@
+{
+  "question": "How important is it to have the following things in our country? Is it very important, somewhat important, not too important or not important at all? a. there is a judicial system that treats everyone in the same way",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having a judicial system that treats everyone equally is fundamental for a fair and just society. It ensures that all individuals have equal protection under the law, builds trust in institutions, and helps prevent corruption and discrimination. Without a fair judicial system, social stability and development can be compromised, making this issue very important for the country's well-being and citizens' rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having a judicial system that treats everyone fairly and equally is fundamental to a just society. It ensures that laws are applied consistently, protects citizens' rights, and upholds the rule of law. Without impartiality in the judicial process, trust in government and social stability can erode, leading to injustices and dissatisfaction among the populace. Therefore, I believe it is very important to have such a judicial system.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "A fair and impartial judicial system is fundamental to a just society. It ensures that everyone receives equal protection under the law, upholds citizens' rights, and maintains social stability. Without such a system, inequality and injustice could flourish, undermining trust in institutions and potentially leading to chaos or oppression. Therefore, I believe it is very important for our country to have a judicial system that treats everyone in the same way.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having a judicial system that treats everyone fairly and equally is essential for ensuring justice, protecting individual rights, and maintaining social order. When the justice system is impartial, it fosters trust among citizens, promotes equality, and upholds the rule of law, which are crucial for a stable and fair society. Therefore, I believe it is very important for our country to have such a judicial system.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "A fair and just judicial system that treats everyone equally is essential for maintaining social stability, protecting individual rights, and ensuring trust in the government and legal institutions. Without such a system, inequalities and injustice could grow, leading to social unrest and undermining the foundations of a democratic society. Therefore, I believe it is very important for the wellbeing of the country and its citizens.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having a judicial system that treats everyone equally is crucial for ensuring justice, fairness, and trust in the country's institutions. It guarantees that laws are enforced impartially, protecting citizens' rights and promoting social stability. Without such a system, injustice and inequality could thrive, undermining the rule of law and the foundation of a just society. Therefore, it is very important for the country to have a judicial system that treats everyone the same way.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having a judicial system that treats everyone equally is fundamental to ensuring justice, fairness, and social stability within a country. Such a system promotes trust in legal institutions, safeguards individual rights, and helps maintain the rule of law. Without it, inequality and injustice could increase, leading to social unrest and weakening democratic foundations. Therefore, I believe it is very important for our country to have this in place.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "A judicial system that treats everyone equally is fundamental for ensuring justice and fairness in society. It helps maintain trust in government institutions, protects individual rights, and promotes social harmony. When the legal system is impartial, people are more likely to abide by the law and feel secure in their rights. Given the importance of fairness and equality in fostering a stable and just society, I believe it is very important for our country to have such a judicial system.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having an impartial judicial system is fundamental for ensuring justice, protecting citizens' rights, and maintaining social harmony. When the system treats everyone equally, it builds public trust and supports the rule of law, which are vital for a stable and just society. Therefore, I believe it is very important for our country to have such a judicial system.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

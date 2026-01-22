@@ -1,0 +1,63 @@
+{
+  "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?\n\nHeavy drinkers",
+  "options": [
+    "Mentioned",
+    "Not mentioned",
+    "Don't know",
+    "No answer",
+    "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would prefer not to have heavy drinkers as neighbors because excessive alcohol consumption can sometimes lead to loud behavior, disturbances, or other issues that might affect the peace and safety of the community. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I might prefer not to have heavy drinkers as neighbors because excessive drinking can sometimes lead to disorderly behavior, disturbances, or safety concerns, which could negatively impact the peacefulness and comfort of my living environment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have heavy drinkers as neighbors because excessive alcohol consumption can sometimes lead to noise, disturbances, or other behaviors that could impact the peacefulness and safety of my living environment. Living close to individuals who engage heavily in drinking might also raise concerns about safety or community harmony. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have heavy drinkers as neighbors because their excessive alcohol consumption can sometimes lead to disruptive behavior, noise, and safety concerns, which could negatively affect the peaceful environment of my living space.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe heavy drinkers can sometimes cause disturbances or safety concerns that might affect the quality of neighborhood life. Therefore, I prefer not to have heavy drinkers as neighbors to maintain a peaceful and safe environment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have heavy drinkers as neighbors because excessive alcohol consumption can sometimes lead to loud behavior, disturbances, or other issues that might affect the peace and safety of the community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have heavy drinkers as neighbors because their behavior can sometimes lead to disturbances or safety concerns that may affect the peace of the community. Ensuring a safe and tranquil environment is important to me.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have heavy drinkers as neighbors because their excessive alcohol consumption can sometimes lead to disruptive behavior, noise, and safety concerns, which could negatively affect the peaceful environment of my living space.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would not prefer to have heavy drinkers as neighbors because their potential for disruptive behavior and safety concerns could negatively impact the peace and safety of the community. I value a quiet and secure living environment and believe avoiding neighbors who might cause disturbances aligns with this preference.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

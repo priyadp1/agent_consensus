@@ -1,0 +1,63 @@
+{
+  "question": "I'd like you to rate some different groups of people in your country according to how you feel about them. Please tell me whether your opinion of them is very favorable, mostly favorable, mostly unfavorable or very unfavorable. b. Roma",
+  "options": [
+    "Very favorable",
+    "Mostly favorable",
+    "Mostly unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I am aware that Roma communities often face discrimination and prejudice in many countries, leading to stereotypes and negative perceptions. Given this context, I do not hold a favorable opinion of them. Based on these considerations, my view is mostly unfavorable. However, I recognize that individual opinions can vary widely and that some people may have positive perceptions or be unsure, but overall, the prevailing sentiment tends to be less favorable due to societal biases. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that opinions about the Roma community are often influenced by stereotypes and social attitudes that tend to be unfavorable due to historical discrimination and social exclusion. Many people may hold mostly unfavorable views because of negative media portrayals or biases, even if they are not personally discriminatory. Therefore, I would choose mostly unfavorable as a general assessment. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of the Roma varies, but generally, I recognize that they are a marginalized group often facing discrimination and social exclusion. I believe that many Roma have rich cultural traditions and histories, though they often suffer from societal prejudice. Given the complex nature of my views and the prevalent negative stereotypes, I would say my overall impression tends to be more unfavorable than favorable. Therefore, I would select a mostly unfavorable rating, acknowledging that my opinion is not entirely negative but not positive either.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the information, my opinion of the Roma is influenced by awareness of societal discrimination and negative stereotypes, though I also recognize their rich cultural traditions. The overall impression seems to lean toward the unfavorable side due to these biases and social challenges. Therefore, I would choose mostly unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that the Roma are frequently subject to societal prejudice and discrimination, which influences public perceptions adversely. While some may have positive views of their cultural heritage, the overall tendency, given common stereotypes and social biases, leans toward unfavorable opinions. Based on this understanding, I would rate my opinion as mostly unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the responses provided, both agents indicate that societal attitudes toward the Roma community tend to be largely unfavorable due to stereotypes, discrimination, and social exclusion. The prevailing sentiment appears to be mostly unfavorable, reflecting general negative perceptions influenced by societal biases. Therefore, I would also select mostly unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on the information provided, societal perceptions of the Roma community are generally negative due to prevalent stereotypes, discrimination, and social exclusion, which contribute to unfavorable opinions. While there may be some positive cultural recognition, the overall attitude appears to lean toward mainly unfavorable. Therefore, I would choose mostly unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My opinion of the Roma in my country is mostly unfavorable. While I acknowledge their cultural richness and the challenges they face, societal attitudes and stereotypes tend to be more negative, often leading to discrimination and social exclusion. These biases influence public perception, making the overall sentiment less favorable. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of the Roma is influenced by societal stereotypes and discrimination, which tend to foster negative perceptions. While I acknowledge their cultural traditions and recognize individual differences, the prevalent social biases contribute to an overall unfavorable view. Therefore, I would rate my opinion as mostly unfavorable.  \nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

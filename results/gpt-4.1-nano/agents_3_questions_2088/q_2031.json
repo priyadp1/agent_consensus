@@ -1,0 +1,63 @@
+{
+  "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nFeeling of responsibility",
+  "options": [
+    "Important",
+    "Not mentioned",
+    "Don't know",
+    "No answer",
+    "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe a feeling of responsibility is crucial for children as it helps them understand the importance of their actions, develop self-discipline, and contribute positively to their families and communities. Fostering responsibility at home lays a strong foundation for moral and social development, which is essential for their future growth and success.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Feeling of responsibility is a fundamental value that helps children develop accountability, self-discipline, and motivation to contribute positively to their families and communities. Cultivating this sense early at home can foster better decision-making and social behavior as they grow. Therefore, I consider it especially important for children to learn this quality at home.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Feeling of responsibility is a fundamental quality that helps children develop self-discipline, accountability, and a sense of contributing to their community. Instilling this at home can foster independence and ethical behavior, which are essential for personal growth and social harmony. Therefore, I believe it is especially important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that instilling a feeling of responsibility in children is crucial because it promotes accountability, self-discipline, and ethical behavior, which are fundamental for their personal development and positive social interactions. Developing this quality at home provides a strong foundation for children to become responsible and contributing members of society. Therefore, I consider it especially important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that fostering a feeling of responsibility in children is especially important because it helps them develop essential life skills such as self-discipline, accountability, and a sense of contributing to others. These qualities are foundational for moral development and positive social interactions, which are crucial for their ongoing growth and success in society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that fostering a feeling of responsibility in children is especially important because it helps them understand the significance of their actions, develop important traits like accountability and self-discipline, and contribute positively to their families and communities. This foundational value supports their moral and social development, which is vital for their overall growth and future success.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I consider feeling of responsibility to be especially important because it lays the foundation for a child's moral development, helps them build essential life skills such as accountability and self-discipline, and encourages positive contributions to their family and community. Cultivating responsibility at home can foster a sense of duty and integrity that benefits them throughout their life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that developing a feeling of responsibility in children is especially important because it encourages accountability, self-discipline, and ethical behavior, which are essential for their personal growth and positive social interactions. Instilling this quality at home helps children understand the importance of their actions and prepares them to be responsible members of society. Therefore, I consider it especially important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that fostering a feeling of responsibility in children is especially important because it helps them develop essential life skills such as self-discipline, accountability, and a sense of contributing to others. These qualities are foundational for moral development and positive social interactions, which are crucial for their ongoing growth and success in society. By encouraging responsibility at home, children learn to be dependable and ethical individuals, which benefits both their personal and social development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

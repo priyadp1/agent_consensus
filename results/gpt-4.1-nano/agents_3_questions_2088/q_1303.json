@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Energy shortages, such as electricity blackouts or fuel scarcity",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Energy shortages can significantly disrupt daily life and economic activities, especially if they lead to frequent blackouts or fuel shortages that limit transportation and industrial production. Such issues can cause widespread inconvenience, affect public safety, and hinder development efforts, making them a serious concern for many citizens. Given these impacts, I would consider energy shortages a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Energy shortages, such as electricity blackouts or fuel scarcity, can significantly affect daily life, economic stability, and public safety. When energy supplies are unreliable, businesses may halt operations, families may lose access to essential services, and transportation can become disrupted. Given these impacts, I believe most people would see energy shortages as a serious concern, especially if they happen frequently or persist over time. Therefore, I consider this issue to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Energy shortages, such as electricity blackouts or fuel scarcity, can have a significant impact on daily life, economic activities, and overall productivity. When such shortages occur frequently or severely, they disrupt businesses, hinder access to essential services, and cause hardship for households. Given these factors, I consider energy shortages to be a very big problem because they directly affect the country's functioning and people's wellbeing on a large scale.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Energy shortages can severely disrupt daily life, create economic instability, and pose risks to public safety. When blackouts and fuel shortages happen often or last a long time, they can undermine overall well-being and hinder progress. Given these impacts, I view this as a very big problem because it affects multiple aspects of the country's functioning and people's lives.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Energy shortages, such as electricity blackouts or fuel scarcity, can severely disrupt daily life, hinder economic activities, and compromise public safety. Given their potential to cause widespread inconvenience and impact overall wellbeing, I believe they are a very big problem for the country. Addressing energy issues is crucial for sustainable development and improving citizens' quality of life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Energy shortages directly impact everyday life and the economy, causing inconvenience, disruptions, and safety concerns. Given their potential to affect many aspects of society and the severity of their consequences, I believe they are a very big problem. Addressing energy issues is crucial for stability and development, which further emphasizes their importance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Energy shortages can severely disrupt daily routines, affect economic stability, and pose safety risks to the public. Considering the widespread inconveniences and potential long-term consequences, they are a significant challenge for the country. Therefore, I believe they are a very big problem that requires urgent attention and effective solutions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Energy shortages such as electricity blackouts or fuel scarcity can cause widespread inconvenience and pose serious safety risks. They can hinder economic growth and disrupt daily activities, especially if they are frequent or prolonged. Given these significant impacts on people's well-being and the country's stability, I believe this is a very big problem. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Energy shortages can seriously affect people's daily lives, disrupt economic activities, and pose safety risks. When blackouts and fuel shortages occur frequently or last long, they can hinder overall progress and well-being. Because of their significant impact on the country's functioning and citizens' safety, I believe this is a very big problem that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

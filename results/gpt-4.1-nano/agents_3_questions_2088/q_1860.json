@@ -1,0 +1,63 @@
+{
+  "question": "(Now thinking about foreign aid programs. Please tell me how well each of the following describes programs in your country funded by foreign aid organizations. Does it describe these programs very well, somewhat well, not too well or not well at all?)...Corrupt",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that foreign aid programs in my country are often associated with corruption, as there are concerns about mismanagement and misuse of funds by some officials or organizations involved. This perception leads me to think that the description of these programs as corrupt aligns fairly well with reality, although I acknowledge that not all programs are corrupt. Therefore, I would choose \"somewhat well\" to reflect that perception but also recognize there may be honest and effective programs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that foreign aid programs in my country are often compromised by corruption, making them less effective and sometimes misused for personal gain. This perception leads me to think that these programs do not operate as intended and are not well managed, which makes the issue of corruption seem to describe these programs quite well. Therefore, I would select the option that best reflects this view.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that some foreign aid programs are associated with corruption, which can undermine their effectiveness and public trust. While not all programs are corrupt, the perception and instances of misuse of funds lead me to think that corruption describes these programs fairly well. Therefore, I would choose \"Somewhat well\" as it acknowledges the presence of corruption without suggesting it is universal.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the perceptions shared, corruption appears to be a significant issue affecting foreign aid programs in my country. Many believe that corruption undermines the effectiveness and proper management of these programs, which suggests that corruption describes them quite well. Although some acknowledge that not all programs are corrupt, the overall sentiment is that corruption is a notable problem. Therefore, I would select the option that best reflects this view.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that some foreign aid programs in my country are associated with corruption, which can undermine their effectiveness and public trust. While not all programs are corrupt, the perception and instances of misuse of funds lead me to think that corruption describes these programs fairly well. Therefore, I would choose \"Somewhat well\" as it acknowledges the presence of corruption without suggesting it is universal.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the perception of corruption in foreign aid programs in my country is significant, but not universal. While some programs may experience issues with mismanagement or misuse of funds, not all are necessarily corrupt. The option that best captures this nuanced view is \"somewhat well,\" indicating that corruption is a relevant aspect but not an overarching description of all programs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that corruption can be associated with foreign aid programs in my country, but it is not pervasive in all of them. While some programs may experience issues with mismanagement or misuse of funds, others operate transparently and effectively. Given this nuanced view, \"somewhat well\" best captures my perception that corruption exists but is not a defining feature of all foreign aid initiatives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the varied perceptions from other respondents, it seems that corruption is commonly viewed as a significant issue that affects foreign aid programs, but not necessarily in all cases. The strong sentiments suggest that corruption describes these programs quite well, although some acknowledge exceptions. Given this, selecting \"very well\" best captures the general perception that corruption is a notable and prevalent issue in these programs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Given the context and the previous responses indicating that corruption significantly affects foreign aid programs in the country, and considering that corruption is described as a prominent issue that undermines these programs, I believe it describes them quite well. Although some believe that not all programs are corrupt, the perception that corruption is a notable problem outweighs any notion that it is only somewhat true. Therefore, I select the option that reflects a strong association between corruption and these programs.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

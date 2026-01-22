@@ -1,0 +1,60 @@
+{
+  "question": "Have you actually stopped buying French or German products or haven't you actually stopped buying French or German products?",
+  "options": [
+    "Stopped buying French or German products",
+    "Haven't stopped buying French or German products"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have continued purchasing French and German products and have not stopped doing so. My decision is based on my ongoing need and preference for these products, and I have not consciously initiated a halt in buying them. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have not made a conscious effort to stop purchasing French or German products; I continue to buy them as I have in the past. Therefore, I haven't stopped buying these products.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not consciously stopped buying French or German products, as I tend to purchase items based on quality and necessity rather than country of origin. Therefore, I haven't made a deliberate effort to cease buying these products. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have not made a deliberate choice to stop buying French or German products; my purchasing habits are primarily driven by factors such as quality and necessity rather than nationality. As such, I continue to buy these products without any conscious intention to cease doing so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have not consciously stopped buying French or German products; my purchasing habits are based on quality, necessity, and availability rather than country of origin. Since I have not made a deliberate decision to cease buying these products, I fit with the description of someone who has not actually stopped. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not consciously stopped purchasing French or German products; my ongoing buying habits remain unchanged, and I continue to purchase these products as I did before. Since I have not intentionally ceased buying these products, my behavior aligns with not having stopped.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have continued purchasing French and German products as I have not consciously decided to stop doing so. My buying habits are based on factors like quality and necessity rather than country of origin, and I have not made a deliberate effort to cease buying these products. Therefore, I have not actually stopped purchasing them.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My purchasing habits have not changed intentionally or consciously. I continue to buy French and German products as I did before, based on factors like quality, necessity, or preference rather than a decision to stop. Therefore, I haven't actually stopped buying these products.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not made a deliberate decision to stop buying French or German products, and my purchasing habits are influenced by factors such as quality, necessity, and availability rather than country of origin. Therefore, I am still buying these products and have not actually stopped. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

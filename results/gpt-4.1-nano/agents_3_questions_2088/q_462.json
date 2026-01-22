@@ -1,0 +1,63 @@
+{
+  "question": "Which concerns you more about the United States \u2013 its economic strength or its military strength?",
+  "options": [
+    "Its economic strength",
+    "Its military strength",
+    "Both (VOL)",
+    "Neither (VOL)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am more concerned about the economic strength of the United States because a robust economy underpins many aspects of national stability, such as job security, social services, and the country's ability to lead globally through financial influence. While military power is important for security, economic resilience often determines long-term sustainability and the nation's overall well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am most concerned about the United States' economic strength because it underpins the country's overall global influence, stability, and capacity to respond to various challenges. A strong economy supports not only military capabilities but also social programs, technological innovation, and international leadership. While military strength is important, economic resilience and growth are fundamental to ensuring long-term national security and prosperity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am more concerned about the United States' economic strength because a strong economy underpins many aspects of national stability, including healthcare, education, infrastructure, and social programs. Economic weakness could lead to long-term decline, increased inequality, and diminished influence globally, which can have more immediate and widespread repercussions than military power alone. While military strength is important for national security, without a robust economy, sustaining a powerful military becomes difficult. Therefore, I prioritize concerns about economic strength. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the United States' economic strength concerns me more because a robust economy is the foundation for sustainable growth in other areas, including military capability. A strong economy provides the resources necessary for technological innovation, social services, and international influence. Without economic stability and growth, maintaining military strength and global leadership becomes more challenging, and long-term national security could be at risk. Therefore, safeguarding economic resilience is essential for overall national prosperity and influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am more concerned about the United States' economic strength because a strong economy provides the foundation for many aspects of national stability and long-term prosperity. While military power is crucial for security, without a robust economy, sustaining and enhancing military capabilities becomes difficult, and the country\u2019s overall well-being and global influence could be compromised. Therefore, economic strength matters more to me. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the economic strength of the United States concerns me more because a strong economy forms the foundation for sustainable growth, social stability, and the country's influence on the global stage. While military power is crucial for security, without a resilient economy, long-term prosperity and the ability to respond to various challenges may be compromised. Economic resilience ensures that the nation can maintain and enhance its overall power and stability over time.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am more concerned about the United States' economic strength because a strong economy underpins overall national stability, supports long-term growth, and enhances global influence. Without a resilient economy, maintaining and expanding military capabilities, as well as ensuring social well-being, becomes more challenging. Economic health provides the foundation for sustaining power and addressing future challenges effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the United States' economic strength concerns me more because a strong economy underpins the country's ability to sustain military capabilities, invest in innovation, and promote social stability. Without economic resilience, long-term security and influence could be compromised, making it a foundational concern for the nation's overall well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the United States' economic strength concerns me more because a strong economy forms the foundation for sustainable growth across various sectors, including military capabilities. A robust economy ensures the country has the necessary resources for technological innovation, social programs, and maintaining international influence. Without economic stability, it becomes challenging to sustain military power and global leadership, putting long-term national security at risk and threatening overall prosperity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

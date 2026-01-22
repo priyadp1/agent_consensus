@@ -1,0 +1,61 @@
+{
+  "question": "In general, when American companies build factories in our country, does that mostly help or mostly hurt our economy? ",
+  "options": [
+    "Mostly help",
+    "Mostly hurt",
+    "No effect (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally helps our economy because it can create jobs, increase investment, and promote technological advancement. These benefits tend to outweigh any negative impacts, such as potential negative effects on local businesses or environmental concerns. Overall, the infusion of capital and resources from international companies often stimulates economic growth and development, which is beneficial for our country\u2019s prosperity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally helps our economy because it can create jobs, increase investment, and boost local industries. When foreign companies invest locally, it can also lead to technological advancements and integration into global supply chains, which can be beneficial for economic growth. While there can be concerns about competition or profit repatriation, the overall impact tends to be positive for economic development. Therefore, most would view these investments as mostly helping our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally helps our economy. Such investments can create jobs, boost local businesses, and bring in technology and expertise that can enhance productivity and growth. While there might be concerns about competition and environmental impact, the overall economic benefits tend to outweigh the negatives, especially if policies are in place to ensure fair labor practices and sustainability. Therefore, on balance, these foreign investments typically contribute positively to our economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Building new factories by American companies in our country generally provides economic benefits. These investments tend to create jobs, stimulate local industries, and introduce new technology and expertise that support growth. While there are some concerns about environmental impact or competition, the overall effect is typically positive for the economy because of increased investment and productivity. Given these considerations, I believe that such investments mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally helps our economy because such investments create jobs, stimulate local businesses, and bring in new technology and expertise that can boost productivity and growth. While there are potential concerns about environmental impact and competition, the overall benefits tend to outweigh these negatives, especially when appropriate policies are in place to address issues and ensure fair practices. Therefore, the economic contributions of foreign investment in manufacturing are mostly positive for our country\u2019s economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally helps our economy because it can create jobs, increase investment, and promote technological advancement. These benefits tend to outweigh any negative impacts, such as potential negative effects on local businesses or environmental concerns. Overall, the infusion of capital and resources from international companies often stimulates economic growth and development, which is beneficial for our country\u2019s prosperity. Therefore, I believe these actions mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally helps our economy because such investments create jobs, stimulate local businesses, and bring in new technology and expertise that can boost productivity and growth. These benefits tend to outweigh potential negatives like environmental concerns or increased competition. Overall, foreign investment helps strengthen the economy and promotes economic development. Therefore, I believe these actions mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally benefits the economy because it creates jobs, attracts investment, and fosters technological growth, all of which contribute to economic development. While there may be some concerns related to environmental impact or competition, these are often outweighed by the positive effects of increased economic activity and resource infusion. Overall, such investments tend to help the economy more than hurt it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Building factories in our country by American companies generally benefits our economy. These investments often lead to job creation, support local businesses, and introduce new technology and skills that can enhance productivity and growth. Although there may be some environmental or competitive concerns, the overall positive economic impact seems to outweigh these negatives, especially when proper policies are in place to manage potential issues. Therefore, I believe that such investments mostly help our economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

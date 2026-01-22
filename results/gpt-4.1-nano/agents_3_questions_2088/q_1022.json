@@ -1,0 +1,61 @@
+{
+  "question": "Do you think the government of ____ respects the personal freedoms of its people or don\u2019t you think so? a. China",
+  "options": [
+    "Yes, respects personal freedoms",
+    "No, does not respect personal freedoms",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "China has been widely criticized for its strict control over citizens' personal freedoms, including restrictions on speech, assembly, and privacy. The government often prioritizes state stability and social order over individual rights, leading many to believe that personal freedoms are limited under its rule. While there might be some acknowledgment of development progress, the overall perception tends to lean toward a lack of respect for personal freedoms.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "China is often criticized for its strict government control and limited individual freedoms, especially in areas such as free speech, political expression, and assembly. While the government emphasizes stability and economic development, many reports and international assessments suggest that personal freedoms are restricted, and citizens have limited rights to express dissent or participate freely in political processes. Therefore, it is generally believed that the government does not fully respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Many people perceive that the Chinese government places significant control over its citizens' personal freedoms, including restrictions on free speech, assembly, and internet use. These measures often lead to the belief that personal freedoms are limited under its governance. While some might argue that stability and economic development are prioritized, the overall perception tends to see these actions as constraints rather than respects for personal liberty. Therefore, I believe the government of China does not respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the information provided and the widespread perceptions of restrictions on free speech, political participation, and internet use in China, it appears that the government prioritizes stability and economic growth over personal freedoms. The testimonies and reports cited indicate that citizens generally do not experience full respect for their personal freedoms under the current governance. Therefore, I believe that the government of China does not respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the information provided and the pervasive criticism concerning restrictions on speech, assembly, privacy, and other personal freedoms in China, I believe that the government does not respect the personal freedoms of its people. Although there may be development achievements, the overall perception appears to favor limitations on individual rights. Therefore, I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the extensive international criticism and reports indicating that China's government imposes significant restrictions on speech, assembly, political expression, and privacy, it is evident that personal freedoms are limited under its rule. Despite economic progress and stability efforts, these restrictions have led many to conclude that the government does not respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the extensive international criticism and reports highlighting restrictions on speech, assembly, privacy, and political expression in China, it appears that the government imposes significant limitations on personal freedoms. Despite economic progress, these restrictions suggest that the government does not respect the personal freedoms of its people. Therefore, I believe the correct choice is B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the widespread reports and international perspectives on restrictions related to speech, political participation, and internet freedoms in China, it appears that the government does not fully respect the personal freedoms of its people. These limitations suggest that individual rights are often constrained in favor of stability and control. Therefore, I believe the government of China does not respect the personal freedoms of its people. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on available reports and perceptions that the Chinese government enforces strict controls over speech, assembly, and internet freedoms, and that citizens often face restrictions that limit personal liberties, I believe that the government of China does not respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

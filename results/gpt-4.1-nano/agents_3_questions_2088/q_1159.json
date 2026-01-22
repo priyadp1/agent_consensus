@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all. m. lack of availability of cash for daily transactions",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Lack of availability of cash can significantly disrupt daily life, especially in areas where digital payments are not widely adopted or accessible. It can make simple transactions difficult and may force people to rely on alternative, sometimes less convenient or more costly means of payment. Therefore, it poses a substantial challenge, though the severity might vary depending on the local context. Considering this, it seems to be a very significant issue for many individuals.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of availability of cash can significantly impact daily transactions, especially in areas or situations where digital payments are not fully accessible or trusted. For many people, cash is the primary means of payment, so difficulties in obtaining cash can cause considerable inconvenience and financial hardship. Therefore, I view this as a very big problem because it hampers daily life and economic activity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of availability of cash for daily transactions can significantly affect people's ability to pay for essentials like food, transportation, and other basic needs, especially in economies where cash is still the primary medium of exchange. If cash is scarce, it can cause inconvenience, delays, and economic hardship for individuals, particularly those who do not have access to digital payment methods or banking services. Given the importance of cash in everyday transactions in many communities, this issue would likely be viewed as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the lack of availability of cash for daily transactions is a very significant issue because many people still rely heavily on cash for their everyday payments. When cash is scarce, it can cause considerable inconvenience, especially for those without access to digital or banking services, and can hinder their ability to meet basic needs promptly. This disruption can have a substantial impact on daily life and economic well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the lack of availability of cash for daily transactions is a very big problem because cash remains essential in many communities for basic needs, especially where digital payments are not widely accessible. When cash is scarce, it hampers people's ability to purchase necessities, causes delays, and can lead to economic hardship, making it a significant issue that affects daily life substantially.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of availability of cash for daily transactions can create significant disruptions, especially in communities where cash is the primary or most trusted form of payment. When cash is scarce, people may struggle to buy essentials, which can lead to financial hardship and hinder daily life. Given the importance of cash in many contexts and the problems described, I consider this a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The lack of availability of cash for daily transactions can significantly impact people's ability to access essential goods and services, especially in areas where digital payment options are limited. Cash remains a critical component of daily economic activities for many communities, and its scarcity can lead to economic hardship and inconvenience. Based on this, it seems to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the lack of availability of cash for daily transactions is a very big problem because many individuals rely heavily on cash to meet their everyday needs. When cash is scarce, it disrupts daily activities, causes inconvenience, and can lead to financial hardship, especially for those who do not have access to digital payment options or banking services. This issue can significantly impact economic stability and personal well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the lack of availability of cash for daily transactions is a very big problem because many individuals still depend heavily on cash for their everyday purchases. When cash is difficult to access, it can cause significant inconvenience, disrupt daily activities, and affect economic stability for those without easy access to digital banking. Given the importance of cash in many communities, this issue can substantially impact daily life.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

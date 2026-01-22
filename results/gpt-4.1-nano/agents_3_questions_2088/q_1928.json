@@ -1,0 +1,63 @@
+{
+  "question": "Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Family values?",
+  "options": [
+    "Very good influence",
+    "Good influence",
+    "Bad influence",
+    "Very bad influence",
+    "No influence (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The changes since 1991, including social, economic, and cultural shifts, have had a mixed impact on family values. On one hand, increased individualism and globalization may have challenged traditional family structures and values, potentially weakening them. On the other hand, some positive developments such as greater gender equality and awareness of family health and well-being might have strengthened certain aspects of family life. Overall, the influence seems more negative than positive, as traditional values have faced significant erosion in many places. Therefore, I believe the changes have had a bad influence on family values.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The changes in my country since 1991 have been complex and multifaceted. While some developments, such as increased individual freedoms and modernization, have positively contributed to certain aspects of family life, others, like social and economic upheavals, have led to weakening traditional family structures and values. Overall, I believe these changes have predominantly had a bad influence on family values because they often undermine the stability and cohesion that are essential for strong family units.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Since 1991, my country has experienced rapid social and economic changes, which have significantly impacted family values. Some positive developments like increased individual freedoms and improved living standards have strengthened family bonds in certain contexts. However, these changes have also introduced challenges such as rising divorce rates, shifting gender roles, and changing cultural norms, which in some cases have weakened traditional family structures. Overall, I believe the influence has been mixed but leans toward being detrimental to traditional family values, as they seem to have become more flexible and less anchored in age-old norms. Therefore, I consider the overall influence to be somewhat negative. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the mixed impacts of social and economic changes since 1991, with some improvements in individual freedoms and standards of living, but also challenges like rising divorce rates and shifting cultural norms that weaken traditional family structures, I believe the overall influence has been more negative than positive. These changes tend to undermine the stability and cohesion of family values, which are essential for societal well-being.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the widespread social, economic, and cultural changes in my country since 1991, traditional family values have faced significant challenges. Increased individualism, changing gender roles, and evolving cultural norms have often led to the erosion of traditional family structures. While some positive aspects like greater gender equality have emerged, the overall trend appears to weaken core family bonds and values. Therefore, I believe these changes have mostly had a negative influence on family values.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Since 1991, my country has experienced significant social, economic, and cultural changes. While some of these, such as increased individual freedoms and gender equality, have positively impacted family life, many others\u2014including economic instability, urbanization, and changing social norms\u2014have challenged traditional family structures and values. Overall, the erosion of conventional family roles and increased individualism have weakened the cohesion and stability of family units. Therefore, I believe these changes have had a bad influence on family values.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the various social, economic, and cultural transformations since 1991, there have been both positive and negative effects on family values. While increased gender equality and individual freedoms have improved certain aspects of family life, the overall trend of rising individualism, urbanization, and changing social norms has posed significant challenges to traditional family structures and cohesion. These complex influences tend to undermine core family bonds, leading to a perception that the changes have had a negative impact on family values overall. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Since 1991, the social and economic transformations have brought both positive and negative effects on family values. On one hand, increased personal freedoms and gender equality have supported individual choice and women's rights; on the other hand, rising divorce rates, urbanization, and shifting cultural norms have challenged traditional family structures and stability. These changes seem to have created more individualistic and less cohesive family environments, weakening long-standing family values. Considering the mixed impacts, I believe these changes have predominantly had a negative influence on family values.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Since the changes since 1991 have brought both improvements and challenges to family life, but overall, the erosion of traditional family structures, increased individualism, and shifting cultural norms seem to have weakened core family values more than strengthened them. Despite some positive developments, the overarching impact appears to be negative, undermining societal stability in terms of family cohesion.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

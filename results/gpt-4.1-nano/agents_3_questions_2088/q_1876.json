@@ -1,0 +1,60 @@
+{
+  "question": "Do you support or oppose the recent agreement between the US and India accepting India's status as a country with nuclear weapons?",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because recognizing India's status as a nuclear-armed country can promote stability, enhance strategic partnerships, and contribute to regional security. By formalizing this status, it may also encourage responsible handling of nuclear arsenals and foster international cooperation on non-proliferation efforts, ultimately benefiting global peace and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because it recognizes India's status as a nuclear-armed nation, which can contribute to regional stability and strategic balance. This acknowledgment can also foster better diplomatic relations and promote non-proliferation efforts through engagement. Establishing clear understanding and verification can reduce tensions and build trust between the US and India, ultimately benefiting global security. Therefore, I support the agreement as a step towards constructive international cooperation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because acknowledging India's status as a nuclear-armed country can promote strategic stability and foster international cooperation in non-proliferation efforts. Recognizing established nuclear capabilities can also help in enhancing diplomatic relations and ensuring better oversight and safety measures. Opposing such an agreement might hinder diplomatic progress and overlook the importance of clear international standards. Therefore, I believe this recognition is a positive step toward strengthened international relations and stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because recognizing India's status as a nuclear-armed nation can promote strategic stability, enhance diplomatic relations, and contribute to international security efforts. Acknowledgment of India's nuclear capabilities may also facilitate better oversight and safety measures, reducing uncertainties and fostering trust between nations. Opposing such an agreement might hinder diplomatic progress and overlook the benefits of clarity and cooperation in non-proliferation. Therefore, I believe this recognition is a positive step toward strengthening international cooperation and regional stability.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because formal recognition of India's nuclear capabilities can promote regional stability and strengthen strategic partnerships. Acknowledging India's status may encourage responsible handling of nuclear arsenals, improve international cooperation, and promote transparency in nuclear security. Engaging diplomatically on such issues can help prevent misunderstandings and foster global peace efforts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because recognizing India's status as a nuclear-armed nation can promote stability, encourage responsible nuclear handling, and strengthen strategic and diplomatic relations. Such formal acknowledgment may reduce regional tensions and foster international cooperation on security issues, ultimately contributing to global peace and stability. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because recognizing India's nuclear capabilities can promote regional stability and strengthen strategic partnerships. Formal acknowledgment may encourage responsible handling of nuclear arsenals, reduce tensions, and foster international cooperation, ultimately contributing to global peace and security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because recognizing India's status as a nuclear-armed nation can promote regional stability, foster responsible nuclear handling, and improve diplomatic relations. Such acknowledgment can contribute to international security efforts, reduce uncertainties, and promote trust between countries, ultimately supporting global peace and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support the recent agreement because recognizing India's nuclear status can contribute to regional stability, promote responsible handling of nuclear arsenals, and foster international trust and cooperation. Such recognition may also reduce uncertainties and promote diplomatic progress in non-proliferation efforts, ultimately enhancing global security.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

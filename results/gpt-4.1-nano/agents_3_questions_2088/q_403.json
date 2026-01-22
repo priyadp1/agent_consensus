@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \nb. promoting free speech and freedom of the press",
+  "options": [
+    "Top priority",
+    "Important but lower priority",
+    "Not too important",
+    "Should not work on this issue",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Promoting free speech and freedom of the press is fundamental for a functioning democracy and the protection of other human rights. Ensuring these rights are prioritized helps maintain open dialogue, accountability, and transparency within society. Without free speech, other rights and issues may be suppressed or go unnoticed. Therefore, this issue should be considered a top priority for human rights organizations to safeguard democratic values and empower citizens to participate freely in societal discourse.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Promoting free speech and freedom of the press is fundamental to a healthy democracy, allowing citizens to express their opinions, hold authorities accountable, and access diverse information. Ensuring these rights helps foster transparency, prevents censorship, and encourages open debate on societal issues. Given their importance for a functioning democracy and civil society, I believe they should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Promoting free speech and freedom of the press is fundamental to a healthy democracy, as it allows for open expression, accountability, and the sharing of ideas. Ensuring these rights are protected should be a top priority for human rights organizations, since they underpin the ability of citizens to participate actively in societal issues and safeguard other rights. Without free press and speech, other human rights concerns can be difficult to identify or address effectively. Therefore, I believe this issue warrants top priority status to uphold transparency and uphold democratic principles.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe promoting free speech and freedom of the press is essential for maintaining democratic governance, accountability, and open dialogue within society. Protecting these rights enables citizens to participate actively in social and political life, helps prevent censorship, and ensures transparency. Given their fundamental role in fostering a healthy democracy, I consider this issue a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe promoting free speech and freedom of the press is essential for ensuring accountability, transparency, and the overall health of a democracy. Protecting these rights enables open dialogue, citizen participation, and the safeguarding of other human rights. Given their foundational importance, this issue should be considered a top priority for human rights organizations to support democratic integrity and societal progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Promoting free speech and freedom of the press is essential for safeguarding democracy, holding authorities accountable, and ensuring citizens can freely access information and express their opinions. Without these rights, other issues may be obscured or suppressed, undermining the overall protection of human rights. Therefore, I believe this should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe promoting free speech and freedom of the press is fundamental to a healthy democracy. These rights support accountability, transparency, and open dialogue, which are essential for protecting other human rights and ensuring societal progress. Therefore, I think it should be a top priority for human rights organizations to work on this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Promoting free speech and freedom of the press is fundamental to maintaining transparency, accountability, and democratic participation in society. Without these rights, other human rights issues may be hidden or suppressed, making it difficult to address them effectively. Protecting free speech ensures that citizens can openly express their opinions, access diverse information, and advocate for change, which are crucial for a healthy democracy and human rights environment. Therefore, I believe this should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting free speech and freedom of the press is fundamental to democracy and societal well-being. It ensures transparency, accountability, and enables citizens to participate fully in political and social life. Protecting these rights helps prevent censorship and promotes open dialogue, which are vital for the healthy functioning of society. Therefore, I consider this issue a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

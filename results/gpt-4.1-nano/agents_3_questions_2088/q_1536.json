@@ -1,0 +1,62 @@
+{
+  "question": "How concerned are you, if at all, that al Qaeda or other extremist groups could take control of Syria?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned because Syria has experienced prolonged conflict and power struggles, creating a fertile environment for extremist groups like al Qaeda to gain influence or control territory. While I trust the current efforts by international and local authorities to prevent this, the risk remains significant enough to warrant concern. Therefore, I feel a moderate level of worry about the potential for extremist groups to take control.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned because Syria's ongoing instability and presence of extremist groups increase the risk of such groups gaining control. While I believe international efforts and local resistance are in place to prevent this, the volatility in the region still poses a significant threat. Therefore, I am unsure whether the threat has been fully contained, which makes me cautiously worried but not overly panicked.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned because Syria has experienced ongoing conflict and instability, which could potentially create opportunities for extremist groups like al Qaeda to gain influence or control. While the international community and Syrian government have taken measures to prevent this, the complex and fragile nature of the situation still leaves room for concern. Therefore, I am somewhat concerned about the possibility of extremist groups gaining control.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the ongoing instability, the presence of extremist groups, and the international community's efforts to prevent takeover, I feel somewhat concerned but recognize that there are measures in place to mitigate this risk. The situation's complexity makes it hard to be fully confident, but I am not completely unconcerned either. Therefore, I choose to be cautiously worried but not overly panicked.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the ongoing conflict and instability in Syria, combined with international and local efforts to prevent extremist control, I recognize there is some level of concern. The situation remains fragile, and the potential for extremist groups to seize control cannot be entirely dismissed. However, recent efforts have mitigated some of the risks, leading to a moderate level of worry. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned because Syria's ongoing instability and the presence of various extremist groups create conditions that could allow entities like al Qaeda to gain control. Although international and local efforts are in place to prevent this, the volatility and history of conflict in the region suggest that the threat remains real. Therefore, I feel a moderate level of worry about the potential for extremist groups to take control.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given the ongoing instability and history of conflict in Syria, coupled with ongoing efforts to prevent extremist control, I believe that the threat remains significant enough to warrant a high level of concern. While there are measures in place, the volatile nature of the region means the risk cannot be overlooked. Therefore, I feel quite worried about the possibility of extremist groups gaining control.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the ongoing conflict, the presence of multiple extremist factions, and the persistent instability in Syria, I am moderately concerned about the possibility of groups like al Qaeda gaining control. While international efforts are underway to prevent such an outcome, history and current regional dynamics suggest that the risk remains significant. Therefore, I feel somewhat concerned but not overly alarmed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the possibility of extremist groups taking control of Syria. Although there are ongoing efforts by international and local actors to prevent such a takeover, the persistent instability and presence of extremist groups suggest that the risk cannot be entirely eliminated. My level of concern aligns with a cautious awareness of the ongoing challenges. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

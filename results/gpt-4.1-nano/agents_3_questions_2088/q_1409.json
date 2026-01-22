@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way Prime Minister Tayyip Erdogan handled the anti-government protests, such as those in Gezi Park?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose disapprove because the handling of the protests was widely viewed as repressive and dismissive, leading to increased tensions and criticism both domestically and internationally. Many believed that dialogue and moderation could have been more effective in addressing the concerns of protesters. Therefore, I do not support the way the protests were managed, and disapproval seems appropriate. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the Gezi Park protests was controversial. Many viewed his response as authoritative and dismissive, which may have intensified the protests and led to broader unrest. others might see his actions as necessary to maintain order. Given the complexities, my perspective leans towards disapproval, as the approach arguably exacerbated tensions rather than resolving them constructively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the anti-government protests, such as those in Gezi Park, was characterized by a firm response that aimed to maintain order but also faced criticism for being overly harsh and dismissive of the protesters' grievances. The protests were a significant moment in Turkey's political landscape, and opinions on the government's approach vary widely. Considering the complexity and the context, I lean toward disapproval due to concerns about excessive use of force and suppression of civil dissent.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the Gezi Park protests was overly authoritative and dismissive, which appears to have heightened tensions and hindered constructive resolution. His approach seems to have prioritized maintaining order over addressing protesters' concerns, leading to increased unrest and civil frustration. Given these considerations, I lean toward disapproval of his response.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of Prime Minister Tayyip Erdogan's handling of the anti-government protests. The response was viewed by many as overly harsh and dismissive of protesters' grievances, which contributed to increased tensions and criticism. A more moderate approach emphasizing dialogue could have potentially addressed the concerns more effectively and prevented escalation. Therefore, I believe that the way the protests were managed was problematic and warrants disapproval.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the protests was overly forceful and dismissive of the protesters' concerns. This approach likely escalated tensions and hindered constructive dialogue, undermining democratic principles and public trust. A more open and empathetic response might have allowed for better conflict resolution and reduced unrest. Therefore, I disapprove of his management of the protests.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's response to the protests was too forceful and dismissive of the protesters' concerns. Such an approach likely escalated tensions and reduced opportunities for constructive dialogue, ultimately undermining democratic principles and public trust. A more measured and empathetic response could have helped in addressing the grievances more effectively and prevent further unrest.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the Gezi Park protests was overly forceful and dismissive of the protesters' concerns. This approach likely escalated tensions and hindered constructive dialogue, undermining democratic principles and public trust. A more open and empathetic response might have allowed for better conflict resolution and reduced unrest. Therefore, I disapprove of his management of the protests.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of the Gezi Park protests was characterized by a strict and dismissive approach. His response appeared to prioritize controlling the situation over engaging with protesters' concerns, which escalated tensions and led to greater unrest. In situations involving peaceful demonstrations and civil dissent, a more open and conciliatory approach could have fostered understanding and possibly prevented some of the violence and frustration that ensued. Considering these factors, I disapprove of his response.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

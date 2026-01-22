@@ -1,0 +1,61 @@
+{
+  "question": "Now, thinking about some possible economic concerns for the country. Do you think that the power that Germany and other European Union countries have over our economy pose(s) a major threat, a minor threat, or no threat to the economic well being of your country? ",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "No threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic influence of Germany and other European Union countries poses a minor threat to our country's economic well-being. While their policies and economic decisions can impact us, especially considering trade relationships and investments, the threat is not severe enough to jeopardize our economy significantly. We remain resilient and capable of adapting to external economic pressures, making the influence manageable rather than a major concern.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the economic influence of Germany and other European Union countries poses a minor threat to our country's economic well-being. While their policies and economic health can affect our exports, investments, and overall economic stability, we also have some resilience and alternative trading partnerships. Therefore, their influence is significant but not overwhelmingly threatening to our economy as a whole.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the economic influence of Germany and other European Union countries can impact my country, but the extent of this influence likely depends on specific policies and economic ties. While their significant economic power can shape trade, investment, and regulatory standards, it may not necessarily pose a major threat if managed properly through collaborations and negotiations. Therefore, I see it as a potential concern, but not a serious enough issue to threaten our economic stability severely. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic influence of Germany and other European Union countries presents a minor threat to my country's economic well-being. While their economic power can influence trade policies, investments, and regulatory standards, our country also has resilience through diverse trading partners and economic policies that mitigate excessive dependence. Therefore, their influence is noteworthy but not overwhelmingly threatening. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives shared, the influence of Germany and other EU countries is seen as a potential concern but not an immediate or severe threat. Their economic power can impact my country through trade and investments, but with proper management and cooperation, the threat remains manageable. Therefore, I align with a view that it is a minor threat rather than a major one or no threat at all.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the influence of Germany and other EU countries on our economy is a minor threat. While their economic policies, trade practices, and financial stability can impact our country's economic health, we are somewhat resilient and have alternative partnerships that lessen their overall influence. Therefore, the threat they pose is noticeable but not overwhelmingly damaging.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the influence of Germany and other EU countries on our economy is a minor threat. While their economic policies, trade practices, and financial stability can impact our country's economic health, we are somewhat resilient and have alternative partnerships that lessen their overall influence. Therefore, the threat they pose is noticeable but not overwhelmingly damaging. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the influence of Germany and other EU countries on our economy is a minor threat. While their economic policies and trade practices can have some impact, we have diversified partnerships and economic strategies that help us manage and reduce potential risks. Their influence is significant enough to warrant attention, but it does not pose an overwhelming threat to our economic well-being. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the influence of Germany and other EU countries on our economy poses a minor threat. While their economic power can impact our trade, investments, and regulatory environment, our country has multiple channels of economic resilience and diversification that can mitigate the potential risks. Therefore, I see their influence as something to be cautious about but not a major or imminent threat.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

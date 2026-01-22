@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. b. Labour Party (PvdA)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Labour Party (PvdA) because I appreciate its focus on social equality and its historic role in advocating for workers' rights. However, I am somewhat cautious about its current policies and leadership direction, which makes my opinion not entirely favorable but still generally positive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I regard the Labour Party (PvdA) with a somewhat favorable opinion because it has historically played a significant role in Dutch politics, advocating for social equality and workers' rights. While I appreciate its contributions, I am also aware of some criticisms regarding its recent policies and electoral performance, which prevents me from having a very favorable view. Therefore, I would choose a moderate positive stance. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the Labour Party (PvdA). I appreciate their focus on social justice and worker rights, but I may have reservations about certain policy positions or their recent performance, leading to moderate support rather than strong enthusiasm. Therefore, I choose a middle-ground response reflecting cautious support.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the Labour Party (PvdA) due to its long history of advocating for social equality and workers' rights, which aligns with my values. However, I recognize that the party has faced criticism over recent policies and electoral challenges, making my opinion somewhat cautious rather than strongly enthusiastic. Based on this, I would select a somewhat favorable stance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Labour Party (PvdA) because I appreciate its emphasis on social equality and its historical role in advocating for workers' rights. While I recognize its contributions, I am somewhat cautious about its current policies and leadership, which stops short of full support. Therefore, I would select a middle-ground response that reflects cautious support.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Labour Party (PvdA) because I recognize its historical importance and its focus on social issues. However, I am also aware of some criticisms of its recent policies and leadership, which makes my opinion cautiously positive rather than very favorable. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Labour Party (PvdA) because I appreciate its focus on social equality and its historical role in advocating for workers' rights. Although I recognize its contributions, I am somewhat cautious about its current policies and leadership, which leads me to a moderate positive stance rather than a very favorable or unfavorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the Labour Party (PvdA) because of its long-standing commitment to social equality and workers' rights, which I value. While I acknowledge some criticisms related to recent policies and leadership, these do not significantly diminish my overall favorable opinion. Therefore, I would choose a somewhat favorable stance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the Labour Party (PvdA) because I appreciate its long-standing commitment to social equality and workers' rights. However, I am cautious about its recent policies and political direction, which makes my opinion somewhere in the middle. Therefore, I would select a somewhat favorable stance.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

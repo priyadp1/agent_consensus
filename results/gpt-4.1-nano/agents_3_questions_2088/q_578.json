@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about your country's future, how important is it that: i. law and order be maintained? Is it very important, somewhat important, not too important or not important at all?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental for ensuring safety, stability, and progress in a country. Without it, social harmony and economic development could be severely compromised, leading to chaos and insecurity. Therefore, it is crucial that law and order are maintained to foster a secure environment for all citizens. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental to a country's stability, safety, and development. Without a secure environment, it becomes difficult for citizens to pursue opportunities, for businesses to thrive, and for social cohesion to be preserved. Given these considerations, I believe it is very important to uphold law and order to ensure a sustainable and prosperous future for the nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental to ensuring stability, safety, and a functioning society. When people feel secure and laws are upheld, it fosters economic growth, trust in institutions, and social harmony. Without it, chaos and insecurity could undermine progress and weaken community bonds. Therefore, I believe it is very important for the future of my country to prioritize law and order.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is crucial for ensuring stability, safety, and social cohesion in the country. A secure environment allows citizens to pursue opportunities, supports economic growth, and fosters trust in institutions. Without it, chaos and insecurity could threaten progress and the well-being of society. Therefore, I believe it is very important for the future of my country to uphold law and order.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is essential for ensuring societal stability, safety, and economic development. A secure environment allows citizens to live without fear and provides a foundation for progress and social cohesion. Without it, chaos and insecurity could threaten the well-being and prosperity of the nation. Therefore, I believe it is very important for the future of my country to prioritize law and order. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is essential for ensuring the safety, stability, and overall well-being of a country. It helps protect citizens, supports economic growth, and preserves social harmony. Without it, societies risk descending into chaos, which can hinder development and security. Given these reasons, it is very important for the country's future.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental for ensuring societal stability, safety, and economic development. A secure environment allows citizens to live without fear, fosters social cohesion, and creates a foundation for progress. Without it, chaos and insecurity could undermine the well-being and prosperity of the nation. Therefore, I believe it is very important for the future of my country to prioritize law and order.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental for sustaining a stable society where individuals feel safe and secure. It underpins economic development, social trust, and overall harmony. Without it, chaos and insecurity could destabilize the nation, impeding progress and well-being. Therefore, it is very important for the future of the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental to creating a safe, stable, and functioning society where individuals can thrive, and economic activities can progress smoothly. A stable environment reduces crime and conflict, fostering trust in institutions and supporting social and economic development. Given the importance of security for the well-being and future prosperity of the country, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

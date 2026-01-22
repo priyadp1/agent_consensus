@@ -1,0 +1,62 @@
+{
+  "question": "As I read another list of statements, for each one, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with it...Our way of life needs to be protected against foreign influence.",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our cultural identity, values, and autonomy. While openness can bring benefits like progress and collaboration, unchecked foreign influence might undermine our traditions, social cohesion, and national sovereignty. Therefore, I lean towards agreeing that it is necessary to safeguard our society against external pressures to maintain our unique way of life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to maintain cultural identity, social stability, and security. While openness to collaboration and ideas from other countries can be beneficial, unchecked foreign influence might undermine local values, traditions, and sovereignty. Therefore, I lean toward the view that measures should be taken to safeguard our society against foreign interference, but it should be balanced and cautious. This perspective leads me to mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to maintain cultural identity and national sovereignty. It is essential to be cautious about excessive external interference that could undermine local traditions, values, and independence. Therefore, I lean towards the view that our way of life needs to be protected against foreign influence.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve cultural identity, social stability, and national sovereignty. While being open to beneficial ideas from other countries can be helpful, unchecked foreign influence may threaten local traditions and independence. Therefore, I lean toward the view that our way of life needs to be protected against foreign influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our cultural identity, values, and sovereignty. While openness and collaboration can be beneficial, unchecked external influences could threaten our traditions and independence. Therefore, I lean towards the view that our way of life needs to be protected against foreign influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our cultural identity, values, and autonomy. While openness can bring benefits like progress and collaboration, unchecked foreign influence might undermine our traditions, social cohesion, and national sovereignty. Therefore, I lean towards agreeing that it is necessary to safeguard our society against external pressures to maintain our unique way of life.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our cultural identity, values, and sovereignty. While openness and collaboration can be beneficial, unchecked external influences could threaten our traditions, social cohesion, and independence. I lean toward the view that our way of life needs to be safeguarded against foreign influence to ensure stability and preserve our unique societal characteristics.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve cultural identity, social stability, and national sovereignty. While some openness to beneficial ideas from other countries can be helpful, unchecked foreign influence carries the risk of undermining local traditions and independence. Therefore, I lean toward the view that our way of life needs to be protected against foreign influence. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve cultural identity, social stability, and national sovereignty. While being open to beneficial ideas from other countries can be helpful, unchecked foreign influence may threaten local traditions and independence. Therefore, I lean toward the view that our way of life needs to be protected against foreign influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Thinking about conditions in our country today, for each of the following please tell me whether it is getting better, worse, or staying about the same, compared with the past?...Morality",
+  "options": [
+    "Better",
+    "Worse",
+    "About the same"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my view, the state of morality in our country today seems to be declining, as many people observe increasing cases of dishonesty, corruption, and unethical behavior across various sectors. This trend suggests that morality is worsening compared to the past, reflecting broader social and cultural shifts that often challenge traditional values and norms.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Many people feel that morality is declining due to various social issues, increased polarization, and controversial behaviors becoming more normalized in society. This perception suggests that moral standards are deteriorating rather than improving, which can erode trust and social cohesion. However, some argue that there are ongoing efforts to uphold moral values and promote positive change. Overall, based on current social trends and general public sentiment, it seems that morality is perceived to be worsening.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe morality is currently worse compared to the past because many people see a decline in ethical standards, increased dishonesty, and a lack of respect for social norms. This perception is influenced by media reports of corruption, unethical behavior, and societal divisions, which suggest that moral values are deteriorating. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe morality in our country is currently worse compared to the past. The increase in social issues, unethical behaviors, and societal divisions contribute to a perception that moral standards are declining. Media reports often highlight corruption and dishonesty, reinforcing this view and leading many to see a deterioration in moral values.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In my view, the general decline in moral standards, increased dishonesty, corruption, and erosion of ethical behavior observed across various sectors suggest that morality in our country today is worse compared to the past. The perception that societal values are deteriorating is reinforced by media reports and personal observations of unethical conduct, which collectively point to a decline rather than stability or improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the overall moral standards in our country are facing challenges due to increasing dishonesty, corruption, and unethical behaviors observed in various sectors. While efforts are being made to uphold values, the general perception is that morality is declining and becoming worse compared to the past. This trend can negatively impact social trust and cohesion. Therefore, my view aligns with the idea that morality is worsening.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the increasing reports of dishonesty, corruption, and ethical lapses across various sectors, it appears that societal moral standards are deteriorating. Personal observations and media narratives suggest this decline is a significant concern, indicating that morality in our country is worse compared to the past. While some efforts may aim to uphold moral values, the prevailing perception points toward a decline rather than stability or improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that morality in our country is facing challenges and overall declining compared to the past. Issues such as corruption, dishonesty, and unethical behaviors seem to be more prevalent, leading to a perception that moral standards are deteriorating. Social trust and cohesion can be negatively affected by these trends, which contributes to the view that morality is worsening.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that morality in our country today is worse compared to the past. Many social issues, unethical behaviors, and societal divisions seem to have increased, which suggest a decline in moral standards. Media reports often highlight corruption and dishonesty, reinforcing this perception and contributing to the view that moral values are deteriorating over time.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

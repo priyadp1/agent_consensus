@@ -1,0 +1,62 @@
+{
+  "question": "(For each of the following problems, please tell me if you think it will get better, get worse or stay the same in the next five years.)...Water pollution",
+  "options": [
+    "Better",
+    "Worse",
+    "Stay the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "There is reason to believe that water pollution may worsen over the next five years due to ongoing industrialization, population growth, and climate change impacts that can increase contamination and strain water management systems. Although efforts to improve water quality are ongoing, the pace of technological advances and policy implementation may not be fast enough to prevent deterioration, especially in less regulated regions. Therefore, I think water pollution will get worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe water pollution may get worse in the next five years because of ongoing industrial activity, population growth, and climate change impacts, which tend to increase pollutants in water sources. Although there are efforts to improve water quality, progress can be slow and inconsistent, so I think the overall situation might deteriorate before it improves. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe water pollution may get worse in the next five years because industrial activities, urban development, and climate change continue to put stress on water sources. Without significant policy changes and enforcement, efforts to reduce pollution might not keep pace with the increase in contamination sources. Therefore, I think the situation is more likely to deteriorate rather than improve or stay the same.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe water pollution may get worse in the next five years because industrial activities, urban development, and climate change continue to put stress on water sources. Without significant policy changes and enforcement, efforts to reduce pollution might not keep pace with the increase in contamination sources. Therefore, I think the situation is more likely to deteriorate rather than improve or stay the same.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe water pollution will get worse because industrialization, urban growth, and climate change are continuously putting pressure on water sources. Without stronger policies and enforcement, efforts to improve water quality may not keep pace with increasing contamination, leading to further deterioration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe water pollution will get worse in the next five years because ongoing industrial activities, population growth, and climate change are likely to increase pollutants in water sources. Despite efforts to improve water quality, progress is often slow and inconsistent, and these factors may lead to further contamination and strain on water management systems. Therefore, I think the overall situation might deteriorate before it gets better.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe water pollution will get worse in the next five years because ongoing industrial activities, population growth, and climate change are likely to increase pollutants in water sources. Despite efforts to improve water quality, progress is often slow and inconsistent, and these factors may lead to further contamination and strain on water management systems.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe water pollution will get worse in the next five years because ongoing industrial activities, population growth, and climate change are likely to increase pollutants in water sources. Despite efforts to improve water quality, progress is often slow and inconsistent, and these factors may lead to further contamination and strain on water management systems. Therefore, I think the overall situation might deteriorate before it gets better.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe water pollution will get worse in the next five years. Ongoing industrial activities, urban development, and climate change continue to put increasing stress on water sources. Without significant policy changes and enforcement, efforts to reduce pollution are unlikely to keep pace with the growth in contamination, leading to further deterioration of water quality.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

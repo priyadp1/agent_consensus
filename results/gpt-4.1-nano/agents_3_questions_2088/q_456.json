@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about your country's future, how important is it that: c. there is a judicial system that treats everyone in the same way? Is it very important, somewhat important, not too important or not important at all?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "A fair and impartial judicial system is fundamental for ensuring justice, equality, and stability in a country\u2019s future. When everyone is treated the same under the law, it promotes trust in institutions, discourages corruption, and helps protect individual rights. Without such fairness, social divisions can deepen, and confidence in government and legal processes can erode, ultimately hindering development and social cohesion. Therefore, it is crucial that we prioritize and uphold a judicial system that treats everyone equally to secure a just and equitable future for all citizens.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having a judicial system that treats everyone equally is fundamental for ensuring justice, fairness, and social stability in any country. When the law applies consistently regardless of a person's background or status, it fosters trust in the legal system, promotes equality, and helps prevent corruption and discrimination. Without such impartiality, people may lose faith in their institutions, which can lead to social unrest and undermine the legitimacy of the government. Therefore, it is very important for the future of my country that the judicial system treats everyone in the same way.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "A fair and impartial judicial system is fundamental for maintaining trust, ensuring justice, and promoting equality within a country. When the judiciary treats everyone the same, it prevents discrimination and bias, fostering social harmony and the rule of law. Without such a system, inequality can deepen, leading to social unrest and undermining the stability and progress of the nation. Therefore, I believe it is very important for the future of my country to have a judicial system that treats everyone in the same way.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having a judicial system that treats everyone equally is crucial for a nation's future. Such fairness ensures justice, builds trust among citizens, and discourages corruption and discrimination. An impartial judiciary helps maintain social stability and promotes equality, which are essential for long-term progress. Without it, social divisions can deepen, and people's faith in institutions may weaken, leading to unrest and a lack of social cohesion. Therefore, I consider it very important for my country's future that the judicial system treats everyone in the same way.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "A fair and impartial judicial system is essential for ensuring justice, equality, and trust within a country. When the legal system treats everyone equally, it helps prevent discrimination, reduce social tension, and uphold the rule of law, which are all vital for a stable and prosperous future. Without such fairness, social divisions and inequality can worsen, leading to unrest and loss of trust in institutions. Therefore, I believe it is very important for my country\u2019s future to have a judicial system that treats everyone in the same way.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important that there is a judicial system that treats everyone the same way because such fairness ensures justice, equality, and social stability. When the legal system is impartial, it builds trust among citizens, discourages corruption, and protects individual rights. These factors are essential for the sustainable development and cohesion of a country\u2019s future. A fair judicial system lays the foundation for a just society where all citizens are equally protected under the law, which ultimately fosters peace and trust in institutions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "A just and impartial judicial system is fundamental for maintaining fairness, trust, and social stability in a country. When everyone is treated equally under the law, it helps prevent discrimination and social division, fostering a peaceful and cohesive society. Given these benefits, it is crucial for a country's healthy development and future prosperity. Therefore, I believe it is very important to have a judicial system that treats everyone in the same way.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important that there is a judicial system that treats everyone in the same way because fairness and equality in the legal process are fundamental for justice and social trust. An impartial judiciary ensures that all individuals are protected under the law, which promotes social stability, reduces corruption, and fosters long-term development. Without such fairness, social divisions may increase, and faith in institutions may decline, undermining the country\u2019s future progress. Therefore, I consider it very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having a judicial system that treats everyone equally is fundamental for my country's future. An impartial judiciary fosters trust, fairness, and social stability, which are essential for long-term development and cohesion. When everyone is treated fairly under the law, it prevents discrimination and social divisions, ensuring that citizens feel confident in their institutions and society. Therefore, I consider it very important for my country's future that the judicial system treats everyone in the same way.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements. a. Most elected officials care what people like me think",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I would choose mostly disagree because many people feel that elected officials do not always listen or prioritize the concerns of ordinary citizens. There is often a perception that politicians are more responsive to special interests or partisanship than to the average voter's needs, leading to skepticism about whether their opinions truly matter to them.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that most elected officials are more focused on their own interests or special interests rather than genuinely caring about ordinary people's opinions. While some may try to listen, the general perception is that they are often disconnected from the concerns of the average citizen. Therefore, I mostly disagree with the statement that most elected officials care about what people like me think.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I am more inclined to select \"Mostly disagree\" or \"Completely disagree\" because, based on commonly observed public opinion and experiences, many people feel that elected officials do not always prioritize or genuinely consider the opinions of individuals like me. There can be a disconnect between representatives and their constituents, leading to skepticism about whether politicians truly care about what the average citizen thinks. Given the options, I would lean towards \"Mostly disagree\" as it reflects a cautious skepticism rather than outright dismissal.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that while some elected officials may occasionally show concern for their constituents' opinions, the general perception and numerous experiences suggest that many are more influenced by political agendas, special interests, or personal gains rather than genuinely caring about what the average person thinks. This creates a sense of disconnect and skepticism among the public regarding their representatives' concern for ordinary citizens. Therefore, I mostly disagree with the statement that most elected officials care what people like me think.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that many elected officials do care about what people like me think, but there is also a significant perception that they are often influenced by special interests and partisan considerations, which can make it seem like they do not always prioritize individual concerns. While I acknowledge that some officials genuinely care, the overall sentiment leans toward skepticism about their level of concern for ordinary citizens. Therefore, my answer is mostly disagree, reflecting this cautious view.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that, while there are some elected officials who care about the opinions of ordinary people, the general perception is that many do not prioritize or heed these concerns, often due to influence by special interests or political partisanship. Given this, I feel mostly disagree is an accurate reflection of my views, as I think most officials do not genuinely care what people like me think.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that, although some elected officials may care about what their constituents think, the overall perception is that many are influenced by special interests and political pressures, and may not genuinely prioritize individual concerns. This leads me to lean toward mostly disagree, as I think most officials do not fully care what people like me think.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the responses provided, both respondents express a view that most elected officials do not genuinely care about the opinions of ordinary people, citing influences like political agendas and special interests. Their answers are \"mostly disagree,\" indicating skepticism about the concern officials have for the average citizen. Since I share this perspective and align with their reasoning, I would also choose \"mostly disagree.\" This reflects a belief that while some officials might care, generally, they do not prioritize the opinions of people like me.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I recognize that while some elected officials may demonstrate genuine concern for their constituents, the prevalent perception and personal experiences suggest that many are more influenced by political agendas, special interests, or personal gains rather than truly caring about what ordinary citizens think. This leads to a sense of disconnect and skepticism among the public. Given this context, I mostly disagree with the statement that most elected officials care what people like me think.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Does trade with other countries lead to an increase in the wages of your nationality workers, a decrease in wages, or does it not make a difference? ",
+  "options": [
+    "Increase",
+    "Decrease",
+    "Does not make a difference"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Trade with other countries can influence wage levels for workers of a particular nationality depending on many factors such as the nature of the trade, the sectors involved, and the country's comparative advantages. Generally, increased trade can lead to higher wages if it opens up new markets for domestic goods, boosts productivity, and encourages investment. However, it can also lead to wage pressure downward if it results in increased competition with cheaper foreign labor or causes industries to relocate overseas. Overall, the net effect varies across different contexts, but in many cases, trade tends to promote higher wages through economic growth and efficiency gains.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Trade with other countries can influence wages for workers of a particular nationality depending on several factors. Increased trade often opens up new markets for goods and services, which can lead to higher demand for skilled or competitive workers, potentially increasing wages. Conversely, trade can also lead to increased competition from foreign workers or firms, which might suppress wages for certain groups, especially in less skilled sectors. Additionally, the overall impact depends on the nature of the trade, the sectors involved, and the comparative advantages of the country. While some workers might benefit from expanding exports and technology transfer, others could face job displacement or wage pressure. Therefore, the effect of trade on wages is complex and can vary across different contexts and industries.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Trade with other countries can influence wages in various ways depending on the industry and the level of international competition. Generally, increased trade may lead to higher wages for some workers by expanding market opportunities and encouraging productivity, especially if the country specializes in industries with comparative advantages. On the other hand, increased competition from cheaper foreign labor can put downward pressure on wages in certain sectors, potentially harming workers in domestic industries that cannot compete internationally. Overall, the impact is complex and context-dependent, but many studies suggest that trade tends to have a positive or neutral effect on wages for most workers, assuming the economy is well-integrated and policies support adjustment. Therefore, I believe trade tends to lead to an increase in wages for workers of my nationality.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Trade with other countries can have varied effects on wages depending on the specific industry, the level of competition, and the country's comparative advantages. While increased trade can open new markets and boost demand for certain skilled workers, it can also create downward pressure on wages in sectors competing with cheaper foreign labor. Overall, many factors influence whether wages rise, fall, or stay the same, and it often depends on how the trade impacts particular sectors and the country's ability to adapt. Considering the complexity and the mixed effects discussed, I believe the impact on wages is not straightforward and can vary in different contexts.  \nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Trade with other countries has a nuanced impact on wages. While increased trade can boost wages by expanding markets, improving productivity, and encouraging investment, it can also exert downward pressure on wages in certain industries due to competition from cheaper foreign labor or offshoring. The overall effect depends on the specific sector, the structure of the economy, and policies in place. Many studies and perspectives suggest that, on balance, trade tends to be more beneficial than harmful to workers' wages when appropriate adjustments are made, leading to potential wage increases for workers in sectors that benefit from international markets. Given this, I believe trade with other countries tends to lead to an increase in wages of my nationality workers.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Trade with other countries can have varying effects on wages depending on numerous factors, such as the types of industries involved, the country's comparative advantages, and the level of competition. In some cases, increased trade can boost wages by expanding markets, encouraging innovation, and increasing productivity. In other situations, it may put downward pressure on wages, especially for less competitive or low-skilled workers, due to import competition or offshoring. Given this complexity, the most accurate stance is that trade's impact on wages does not have a universal outcome and can differ based on specific circumstances.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Trade with other countries can have mixed effects on wages, depending on various factors such as industry, skill levels, and economic policies. While some sectors may see wage increases due to expanded markets and productivity gains, others might experience wage stagnation or decline because of increased import competition or offshoring. Overall, the impact is complex and context-dependent, but if I had to choose a general outcome, I believe that trade tends to lead to an increase in workers' wages in my country, especially when the economy adapts and takes advantage of new market opportunities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Trade with other countries can have complex and varied effects on wages for my nationality's workers. Depending on factors like industry characteristics, skill levels, and the nature of trade relationships, wages may either increase, decrease, or remain unchanged. While some sectors may benefit from expanded markets and innovation, others might face increased competition leading to downward wage pressure. Due to these differing outcomes, I believe that the impact of international trade on wages is not straightforward and can differ based on specific circumstances.  \nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Trade with other countries can have complex effects on workers' wages, depending on various factors such as industry competitiveness, worker skills, and economic policies. While some sectors may benefit from expanded markets and increased demand, others may face pressure from foreign competition, potentially lowering wages. Overall, the impact is mixed and context-dependent. Considering the nuanced perspectives and evidence, I believe trade tends to lead to an increase in wages of my nationality workers, especially when sectors are able to adapt and benefit from new opportunities.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

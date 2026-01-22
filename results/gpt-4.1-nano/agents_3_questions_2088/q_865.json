@@ -1,0 +1,60 @@
+{
+  "question": "Which is more important to you...That Egypt has a democratic government even if there is some risk of political instability, or that Egypt has a stable government, even if there is a risk it will not be fully democratic?",
+  "options": [
+    "That Egypt has a democratic government, even if there is some risk of political instability",
+    "That Egypt has a stable government, even if there is a risk it will not be fully democratic"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it ensures the protection of citizens' rights, representation, and participation in decision-making processes. While stability is valuable, sacrificing democracy for stability can lead to authoritarianism, repression, and the erosion of civil liberties. A democratic government, even if it involves some risks of instability, lays the foundation for long-term progress, accountability, and the respect of human rights. Therefore, prioritizing democracy aligns with the goal of fostering a just and inclusive society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe having a democratic government is more important because it ensures citizens' rights, representation, and accountability, which are essential for long-term development and social justice. Although political instability can be challenging, I think a nation committed to democracy is better positioned to address issues sustainably and respect human rights. Stability is valuable, but without democratic principles, it might come at the cost of personal freedoms and justice. Therefore, I prioritize democratic governance even if it involves some risks. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it ensures the protection of citizens' rights, promotes accountability, and fosters political participation. While stability is valuable, sacrificing democracy for stability can lead to authoritarian rule and potential abuses of power. A democratic government, despite some risks of instability, provides a foundation for long-term progress and individual freedoms that I prioritize highly.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it upholds citizens' rights, promotes accountability, and fosters inclusive political participation. While stability is crucial for development, sacrificing democratic principles in favor of stability can lead to authoritarianism and abuses of power, which may undermine long-term social justice and personal freedoms. Ensuring democracy, even with some risk of instability, helps build a foundation for sustainable progress and respect for human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it safeguards citizens' rights, encourages political participation, and promotes accountability. While stability is essential, sacrificing democracy can lead to authoritarianism and repression, undermining long-term progress and individual freedoms. Supporting democracy, even with some risks, aligns with building a just and inclusive society that respects human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it ensures the protection of citizens' rights, representation, and participation in decision-making processes. While stability provides security, sacrificing democracy risks leading to authoritarianism, repression, and the erosion of civil liberties. A democratic system, even with some instability, promotes accountability, long-term progress, and respect for human rights, which are foundational for a just and inclusive society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it ensures citizen participation, protects rights, and promotes accountability. While stability is valuable, sacrificing democracy can lead to authoritarianism and repression, undermining long-term development and individual freedoms. A democratic system, even with some risks, better supports justice, inclusivity, and respect for human rights in the long run. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it upholds citizens' rights, promotes accountability, and fosters inclusive political participation. While stability is essential for development, sacrificing democratic principles in favor of stability can lead to authoritarianism and abuses of power, which may undermine long-term social justice and personal freedoms. Ensuring democracy, even with some risk of instability, helps build a foundation for sustainable progress and respect for human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having a democratic government is more important because it ensures that citizens' rights are protected, promotes accountability among leaders, and encourages inclusive participation in politics. While stability is undoubtedly important for long-term development, prioritizing it over democracy can risk authoritarian rule and suppression of freedoms, which may lead to inequality and social unrest later on. A democratic government provides the foundation for sustainable progress and respect for human rights, even if there is some short-term risk of instability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Do you think conditions in Cuba will improve, worsen, or not change much when Fidel Castro dies?",
+  "options": [
+    "Improve",
+    "Worsen",
+    "Not change much"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The future of Cuba after Fidel Castro's death is uncertain and depends on various factors, including political transitions, economic policies, and social changes. Historically, Fidel's leadership provided a strong, centralized control that maintained the status quo; his passing could lead to either significant reforms or increased instability. Given Cuba's lengthy history of economic and political challenges, it's plausible that substantial changes may take time, and the immediate impact might not drastically alter conditions. Therefore, it is likely that the overall situation will not change much in the short term.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The death of Fidel Castro could lead to significant changes in Cuba's political and economic landscape. While some believe that his passing might open opportunities for reforms and improved conditions, others think that systemic issues and the existing government structure may maintain the status quo, resulting in little change. Given the complex nature of Cuba's political system and the potential for both positive and negative adjustments, it is difficult to predict a drastic shift either way immediately after his death. Therefore, it seems most plausible that conditions might not change much in the short term.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Fidel Castro's death could lead to significant changes in Cuba's political and economic landscape, potentially resulting in improvements if his successors enact reforms or worsened conditions if the transition leads to instability. However, it is also possible that the status quo persists in the short term due to institutional continuity. Therefore, the most balanced expectation is that there will likely be some change, but not necessarily a drastic shift either way. Given the uncertainty and the complex nature of Cuba's system, it seems probable that conditions would not change much immediately after his passing.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the uncertainty surrounding Cuba's political and economic future after Fidel Castro's death, and considering that systemic factors and institutional continuity may act as stabilizing forces in the short term, it seems plausible that conditions will not change significantly immediately after his passing. While reform opportunities and potential for shifts exist in the longer term, the immediate impact is likely to be minimal, resulting in little change. Therefore, I believe the best answer is:\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that Fidel Castro's death will likely lead to some changes in Cuba's conditions, either positive or negative, but given the country's history of stability in certain institutions and the uncertainty surrounding the transition, it is probable that the overall situation will not change significantly in the short term. Therefore, I choose the option that best reflects this expectation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the historical context and the uncertainty surrounding Cuba's political and economic future, many experts believe that Fidel Castro's death might not lead to immediate drastic changes. The stability of the current system and the enduring influence of the existing leadership could mean that conditions remain relatively stable in the short term, though long-term shifts are possible depending on subsequent leadership and reforms. Therefore, I believe that the most reasonable expectation is that conditions will not change much upon his death. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Fidel Castro's death may mark a significant turning point, potentially leading to changes in Cuba's conditions as new leadership takes shape. While some stability might persist initially, the transition could open pathways for reforms or shifts\u2014positive or negative\u2014in the country's political, economic, and social landscape. Given the historical significance of Castro's leadership, his passing is likely to have substantial effects rather than leaving conditions largely unchanged. Therefore, I choose the option that suggests conditions could worsen or improve depending on the transition, but considering the uncertainty, it is more likely to cause notable change.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering Cuba\u2019s tightly controlled political system and the transitional dynamics seen in similar contexts, the death of Fidel Castro is unlikely to lead to immediate drastic changes in conditions. While his passing might open the door for some shifts over time, the current stability maintained by the established institutions suggests that, in the short term, conditions will remain largely unchanged. Therefore, I believe the best answer is:\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering Cuba's political history and the anticipated transitional phase after Fidel Castro's death, it's likely that the immediate conditions will remain relatively stable due to existing institutional structures and the cautious approach to reform. Although changes are possible in the longer term, the short-term impact is probably minimal. Therefore, I believe that conditions in Cuba will not change much when Fidel Castro dies.  \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

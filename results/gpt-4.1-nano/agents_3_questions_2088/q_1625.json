@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way President Dilma Rousseff is handling each of the following areas...Corruption?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My opinion on President Dilma Rousseff's handling of corruption is that I disapprove. During her tenure, multiple corruption scandals emerged within her administration and linked to the broader political environment, which many citizens and critics viewed as indicating insufficient measures to combat or prevent corruption effectively. This perception led to a loss of confidence in her leadership on this issue. Therefore, I believe her approach did not meet the expectations of transparency and accountability that are essential to address corruption adequately.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My view on Dilma Rousseff's handling of corruption is that it is generally disapproving. During her tenure, there were several high-profile corruption scandals that cast doubt on the effectiveness of her administration's efforts to combat corruption. While she took some steps to address issues, many critics and the public perceived that her approach was insufficient or lacked transparency. Public opinion tended to be critical of her handling of this area, reflecting broader concerns about governance and accountability. Therefore, I disapprove of her handling of corruption.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Many people have expressed concern about corruption scandals involving political figures during Dilma Rousseff's administration. Critics argue that her handling of corruption issues was insufficient or lacked transparency, which eroded public trust. Others believe that her efforts were hindered by complex political and economic challenges, making it difficult to address corruption effectively. Taking into account the widespread public opinion and the controversy surrounding this issue, I disapprove of her handling of corruption.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the information provided, my view aligns with the majority opinion indicating that Dilma Rousseff's handling of corruption was viewed negatively by the public. Critics have pointed out insufficient or opaque efforts to combat corruption, and public trust was reportedly eroded due to scandals and perceived lack of transparency. Therefore, I disapprove of her handling of this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Dilma Rousseff's handling of corruption was insufficient and lacked the transparency necessary to effectively address the issue. Considering the multiple scandals linked to her administration and the public perception of inadequate measures to combat corruption, I disapprove. The ongoing controversy and erosion of trust indicate that her approach did not meet the expectations for tackling corruption robustly.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of corruption because during her tenure, numerous high-profile scandals emerged, and many perceive her efforts to combat corruption as insufficient or lacking transparency. The widespread public criticism and perceptions of ineffective measures suggest her approach did not meet expectations for accountability in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of corruption because her administration faced multiple scandals, and many perceive her efforts to combat corruption as insufficient and lacking transparency. The perception that her measures were ineffective and the public's criticism suggest her approach did not meet expectations for accountability in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the widespread reports of corruption scandals during Dilma Rousseff's presidency and the perception that her efforts to address corruption were inadequate or lacked transparency, I disapprove of her handling of this area. Public trust was affected negatively as critics pointed out the presence of high-profile scandals and perceived insufficient action to combat corruption effectively. Therefore, I believe her approach did not meet the expectations for transparency and accountability that are necessary in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the context of public perception and reported scandals involving the administration, as well as the criticisms about transparency and effectiveness in combating corruption, I believe that Dilma Rousseff's handling of corruption was inadequate. The erosion of public trust and ongoing controversies suggest that her approach did not effectively address the issue. Therefore, I disapprove.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

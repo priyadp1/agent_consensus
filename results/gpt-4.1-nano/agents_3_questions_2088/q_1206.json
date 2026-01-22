@@ -1,0 +1,62 @@
+{
+  "question": "In general, do you strongly support, somewhat support, somewhat oppose, or strongly oppose the protests for fair elections that have occurred since the parliamentary elections in December?  ",
+  "options": [
+    "Strongly support",
+    "Somewhat support",
+    "Somewhat oppose",
+    "Strongly oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that people have the right to peacefully voice their concerns and demand transparency and fairness in the electoral process. Support for protests advocating for fair elections reflects a commitment to democracy and accountability. Therefore, I somewhat support these protests as an important part of civic engagement and democratic expression, but I may also recognize the need for these protests to remain peaceful and constructive. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe in the importance of fair elections and democratic processes. If protests are peaceful and aimed at ensuring transparency and accountability, I tend to support them, even if only somewhat, because they are a vital part of civic engagement. However, I recognize that the protests might also disrupt normal activities or stability, so I do not strongly support them. Therefore, I lean towards somewhat support.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe in the importance of fair and transparent elections as a cornerstone of democracy. Supporting protests that demand election integrity aligns with my values of accountability and ensuring that the voice of the people is respected. While I may have reservations about the methods used, I generally support the movement for fair elections.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I support the call for fair elections and believe that peaceful protests are an important way for citizens to express their concerns and demand accountability. While I acknowledge potential disruptions, the necessity of transparent electoral processes outweighs these concerns. Therefore, I lean towards somewhat support.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that ensuring free, fair, and transparent elections is fundamental to a healthy democracy. Supporting protests that advocate for electoral integrity demonstrates a commitment to democratic principles and holding authorities accountable. While I recognize the importance of peaceful and constructive protest, I lean towards supporting these efforts as a vital expression of civic rights.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that people's right to peaceful protest is an essential aspect of democracy, especially when it concerns ensuring fair and transparent elections. While I support the principle of civic engagement and the importance of addressing electoral issues, I also acknowledge the need for protests to remain peaceful and constructive to prevent instability. Given these considerations, I lean toward somewhat support as a balanced stance.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that fair elections are crucial for democracy and that peaceful protest is an important form of civic expression when electoral issues are at stake. Supporting such protests aligns with defending democratic principles and ensuring government accountability. While acknowledging the necessity of peaceful and constructive demonstrations, I lean toward supporting these efforts to promote electoral integrity and democratic accountability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that peaceful protests for fair elections are an important element of democratic participation. While I support the right to protest and value efforts to promote electoral transparency, I also recognize that protests should remain peaceful and constructive to avoid destabilizing the political environment. Given these considerations, I lean toward somewhat support.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I support the protests for fair elections because I believe that peaceful demonstrations are an essential way for citizens to voice their concerns and advocate for democratic accountability. Ensuring electoral transparency is fundamental, and supporting these efforts aligns with upholding democratic principles and civic rights.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

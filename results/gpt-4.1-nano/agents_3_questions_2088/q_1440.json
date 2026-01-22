@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...The spread of HIV/AIDS and other infectious diseases",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The spread of HIV/AIDS and other infectious diseases remains a significant public health concern in many countries. It can lead to high mortality rates, overwhelming healthcare systems, and social stigma. Given its potential impact on individuals and communities, it is widely regarded as a very big problem, especially in regions where access to prevention, education, and treatment is limited. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The spread of HIV/AIDS and other infectious diseases remains a significant public health concern, especially in regions where access to healthcare, education, and preventive measures may be limited. It can lead to high morbidity and mortality rates, burden healthcare systems, and affect the well-being of communities. Given these factors, I consider this a very big problem that warrants urgent attention and comprehensive strategies to control and prevent its spread.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The spread of HIV/AIDS and other infectious diseases remains a significant public health concern due to its impact on communities, healthcare systems, and economic stability. It often causes considerable morbidity and mortality, especially in regions with limited access to prevention and treatment. Given its serious health implications and the potential to affect many people, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The spread of HIV/AIDS and other infectious diseases continues to be a major public health challenge. It affects vulnerable populations disproportionately, leads to high rates of illness and death, and strains healthcare resources. Preventive measures like education, testing, and treatment are critical, but disparities in access still exist. Given the serious health, social, and economic impacts, I believe this remains a very big problem that requires urgent action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The spread of HIV/AIDS and other infectious diseases continues to pose serious health risks, causing significant illness, death, and strain on healthcare systems, especially in areas with limited access to prevention and treatment measures. Given its potential to affect large segments of the population and its impact on public health and social stability, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the spread of HIV/AIDS and other infectious diseases is a very big problem because it poses serious health risks, can overwhelm healthcare systems, and often affects vulnerable populations the most. The impact on public health and social stability makes it a critical issue that requires urgent attention and effective prevention measures. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The spread of HIV/AIDS and other infectious diseases remains a significant public health concern. It can lead to high mortality rates, place immense pressure on healthcare systems, and disproportionately affect vulnerable and marginalized groups. Given the serious health and social implications, it is crucial to prioritize prevention, treatment, and education efforts to control its spread. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The spread of HIV/AIDS and other infectious diseases has historically been a significant public health concern due to its impact on vulnerable populations, healthcare systems, and social stability. Given the ongoing challenges in prevention, treatment, and disparities in access to healthcare, I believe it remains a very big problem that needs continued attention and action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the spread of HIV/AIDS and other infectious diseases remains a very big problem because it continues to pose serious health risks, especially in vulnerable communities. It causes significant illness and death, strains healthcare resources, and impacts social stability. Despite efforts in prevention and treatment, disparities in access and awareness still make it a major challenge that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

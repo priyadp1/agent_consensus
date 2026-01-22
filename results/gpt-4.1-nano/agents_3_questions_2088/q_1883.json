@@ -1,0 +1,61 @@
+{
+  "question": "How much of a problem, if at all, is the growing number of older people in your country - is it a major problem, a minor problem, or not a problem for your country?",
+  "options": [
+    "Major problem",
+    "Minor problem",
+    "Not a problem"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The growing number of older people in the country is often seen as a minor problem. While it presents some challenges to social services and healthcare systems, many countries are also able to adapt through policy changes, healthcare innovations, and social programs. The demographic shift can be managed effectively with proper planning, making it less of a crisis than a manageable issue. Therefore, it is not viewed as a major problem, nor is it generally considered insignificant, but rather a situation that requires attention without being catastrophic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The growing number of older people in my country is a complex demographic change that can have both positive and negative implications. While an aging population may strain healthcare systems, social services, and pension funds, it also brings experience, wisdom, and stability. The impact largely depends on how effectively policies are implemented to support older adults and integrate them into society. Therefore, I see it as a minor problem, manageable with appropriate planning rather than an overwhelming crisis.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The growing number of older people in my country is primarily a demographic shift that presents both challenges and opportunities. While it can strain healthcare and pension systems, it also offers potential benefits such as experienced workforce participation and cultural richness. Overall, whether it is a major or minor problem depends on societal adaptability, but currently, it is more of a minor issue, as many policies are in place to manage aging populations effectively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The growing number of older people in my country poses significant challenges, particularly to healthcare, social services, and pension systems. While there can be benefits such as accumulated experience, the strain on resources and the need for substantial adjustments in policies make it a substantial issue that requires urgent attention. Without appropriate planning and reforms, it could become a major problem that affects the country's social and economic stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the growing number of older people is a significant challenge, but it can be managed with appropriate policies and social programs. While it may create pressures on healthcare and pension systems, many countries are already adapting to this demographic shift, making it more of a minor issue than a major crisis if properly addressed. Therefore, I see it as a minor problem rather than a major one or no problem at all.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The increasing number of older people in our country presents some challenges, particularly to healthcare and social support systems. However, with proper policy reforms, innovations, and social programs, these issues can be managed effectively. While it requires attention and planning, it does not constitute an overwhelming crisis nor is it entirely negligible. Therefore, I believe it is a minor problem that can be addressed proactively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the perspective that the growing number of older people creates some challenges but can generally be managed through policy adjustments and social programs, I view it as a concern that requires attention but is not overwhelmingly problematic. Given the ability of many countries to adapt and implement solutions, I believe it falls into the category of a minor problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The increasing number of older people in my country presents notable challenges, especially in sectors like healthcare, pensions, and social support systems. While these issues are manageable with appropriate reforms and policies, they can lead to significant strains if neglected. Considering the potential impact on social and economic stability, I believe it is more than a minor inconvenience but not an overwhelmingly major crisis if addressed properly. Therefore, I see it as a minor problem but one that requires diligent planning to prevent escalation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the growing number of older people in my country presents a significant challenge that cannot be ignored. As the population ages, there will likely be increased pressure on healthcare systems, pension schemes, and social support networks. If not managed proactively, these issues could escalate into a major problem affecting economic stability and social cohesion. While some adaptation is possible, the scale of this demographic shift warrants a serious level of concern and planning. Therefore, I consider it a major problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

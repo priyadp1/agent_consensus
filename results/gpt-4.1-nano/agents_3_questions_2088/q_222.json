@@ -1,0 +1,63 @@
+{
+  "question": "Who do you think is mostly to blame for this (that relations between Muslims and people in Western countries are generally bad), Muslims or people in Western countries?",
+  "options": [
+    "Muslims",
+    "People in Western countries/Christians",
+    "Jews (VOL)",
+    "Both (VOL)",
+    "Neither (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that the generally poor relations between Muslims and Western countries are the result of complex historical, political, and media-driven factors that involve both sides. Western countries have often engaged in policies that marginalize or stigmatize Muslim communities, while misunderstandings and negative stereotypes perpetuated in media and political discourse contribute to the divide. At the same time, actions or reactions from some individuals within Muslim communities can sometimes be misinterpreted or contribute to tensions. Given the shared responsibility and the multifaceted nature of the issue, I think blaming only one side oversimplifies the situation. Therefore, I choose both as the primary contributors to the strained relations.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that the strain in relations between Muslims and people in Western countries cannot be attributed solely to one side. Often, misunderstandings, media portrayals, political decisions, and lack of intercultural dialogue contribute to tensions. Both communities have responsibilities in building mutual understanding and respect. Therefore, blaming only one group oversimplifies a complex issue. It is more productive to recognize that multiple factors and parties play roles in shaping these relations.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "The difficulties in relations between Muslims and people in Western countries are complex and influenced by multiple factors. While some tensions may stem from misunderstandings, cultural differences, or political issues, it is often an oversimplification to attribute blame solely to one group. Both sides may contribute to misperceptions and conflicts, and focusing on mutual understanding and dialogue may be more constructive than assigning blame to a single group.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that assigning blame solely to one side overlooks the complexity of the issues involved. Relations between Muslims and Western countries are affected by a wide range of factors, including media portrayals, political decisions, cultural misunderstandings, and societal biases. Both communities share responsibilities in fostering better understanding and cooperation. Therefore, I think the most accurate choice is that both sides contribute to the tensions and misunderstandings.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that the strained relations between Muslims and people in Western countries are the result of a combination of factors involving both sides. Historical tensions, political conflicts, media narratives, and cultural misunderstandings contribute to the situation. Neither group is solely responsible, and assigning blame to one side oversimplifies the issue. Therefore, I think the most accurate view is that both groups bear some responsibility for the challenges in their relations.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that negative perceptions and tensions between Muslims and Western countries are influenced by a combination of historical, political, media, and social factors. Both sides have contributed to misunderstandings and misrepresentations, which exacerbate divisions. Recognizing that responsibility is shared helps promote a more nuanced understanding and encourages efforts toward dialogue and reconciliation. Therefore, I think it is unjust to assign blame solely to one side.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that the tensions and misunderstandings between Muslims and people in Western countries are multifaceted, involving historical conflicts, media portrayals, political narratives, and cultural differences. These factors have contributed to mutual distrust and negative perceptions. Given this complexity, it is unfair to place sole blame on either group. Instead, recognizing shared responsibility encourages efforts towards dialogue, understanding, and reconciliation. Therefore, I think both sides bear some responsibility for the state of their relations.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that the current state of relations between Muslims and people in Western countries is the result of a complex set of factors involving both sides. Media narratives, political influences, cultural misunderstandings, and historical contexts all play a role. Neither group is solely responsible; instead, shared efforts are needed to improve understanding and cooperation. Therefore, I choose D.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that improving relations between Muslims and people in Western countries requires mutual effort and understanding. Blaming one side alone overlooks the complex interplay of cultural, political, and societal factors that contribute to tensions. Media narratives, historical contexts, and societal biases all influence perceptions and interactions. Therefore, I think both sides share responsibility for the current state of relations.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

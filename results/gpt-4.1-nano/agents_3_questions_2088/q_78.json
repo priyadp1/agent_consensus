@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...People leaving our country for jobs in other countries",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries can be a significant concern. When skilled or young workers migrate abroad, it can lead to a shortage of talent and hamper economic growth. While some migration might be inevitable due to global job opportunities, if a large number of people are leaving consistently, this could weaken domestic industries and social structures. Therefore, I consider it a moderately big problem, as it impacts both the economy and social stability, but it might not be as urgent as other issues like healthcare or safety. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I think people leaving our country for jobs in other countries is a moderately big problem. While it can indicate economic issues or lack of opportunities locally, it doesn\u2019t necessarily threaten the country's stability or safety directly. It\u2019s significant enough to be a concern, but not typically considered an immediate or severe issue compared to national security or widespread economic collapse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe people leaving the country for jobs in other countries is a moderately big problem. While it can impact the economy and workforce availability, it might not be as critical as other issues like corruption or healthcare. However, a significant emigration of talent and labor can weaken the country\u2019s growth and stability over time. Therefore, it warrants concern but not the highest level of urgency. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries is a moderately big problem. While it can negatively affect the economy and diminish the available workforce, it does not usually threaten national security or cause widespread social issues. It\u2019s a concern that can have long-term economic implications but isn\u2019t immediate or catastrophic in nature.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries can be a significant concern. When a considerable number of talented and working-age individuals migrate abroad, it can lead to labor shortages, hinder economic growth, and cause demographic imbalances. While some level of emigration might be inevitable or even beneficial in terms of remittances and cultural exchange, a persistent and substantial outflow can weaken domestic industries and social systems. Therefore, I consider it a moderately big problem. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries can be a significant concern, as it can lead to a brain drain, weaken the economy, and reduce the available workforce. While not as urgent as issues like security or health, it still affects national development and social stability. Therefore, I see it as a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries is a moderately big problem. While it can contribute to economic challenges and demographic shifts, it is often driven by individual choices and economic opportunities elsewhere. Therefore, I consider it an issue of some significance but not an urgent or critical crisis.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries is a moderately big problem because it can lead to a loss of skilled workers, weaken economic growth, and create a sense of instability among the population. While it may not pose an immediate crisis, the long-term effects on national development make it a significant concern, but not the most urgent or severe issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries is a moderately big problem because it can lead to labor shortages, slow economic growth, and demographic imbalances. While some emigration might bring benefits like remittances, a significant outflow of working-age individuals can weaken our domestic workforce and impact overall development. It\u2019s a concern that warrants attention but doesn\u2019t necessarily threaten national security or cause immediate crises.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

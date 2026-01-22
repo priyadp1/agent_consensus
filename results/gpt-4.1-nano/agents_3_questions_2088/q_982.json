@@ -1,0 +1,63 @@
+{
+  "question": "Thinking about some countries around the world...Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of Iran?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My perception of Iran is generally unfavorable due to concerns over its political regime, human rights record, and regional activities that have influenced international stability. This results in a somewhat unfavorable view based on recent news and international relations. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My opinion of Iran is somewhat unfavorable due to concerns about its political regime, regional policies, and human rights record. While there are aspects that some may view positively, overall, the reputation is more negative than positive in my perspective. Therefore, I lean toward an unfavorable view but not the most extreme. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of Iran is somewhat unfavorable. I recognize that Iran has a complex history and geopolitical role, but recent tensions, restrictions on personal freedoms, and concerns about regional stability influence my view negatively. Given these factors, I lean toward viewing Iran unfavorably. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Iran due to concerns about its political regime, regional policies, and human rights issues. While I acknowledge some positive aspects and complexities, the overall impression leans toward caution and disappointment rather than favorability. Therefore, I choose C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Iran due to concerns over its political regime, human rights record, and regional activities that have influenced international stability. These factors lead me to view Iran negatively, but I do not feel strongly enough to choose very unfavorable. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Iran due to concerns over its political regime, human rights record, and regional activities that have impacted international stability. While I acknowledge some aspects may be viewed positively, the overall perception is more negative than positive. Therefore, I lean toward an unfavorable view but not the most extreme. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I hold a somewhat unfavorable opinion of Iran due to ongoing concerns about its political regime, human rights issues, and regional activities that affect international stability. While I acknowledge positive aspects, the negatives outweigh the positives in my view, leading me to choose a somewhat unfavorable stance rather than a more extreme one.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Iran because I am concerned about its political regime, human rights record, and regional policies that can impact stability. While I recognize there are complexities and some positive aspects, my overall view is more negative than positive. Therefore, I lean toward an unfavorable stance but not the most extreme. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Iran due to concerns about its political regime, human rights record, and regional policies. While I recognize that there are complexities and some positive aspects, my overall impression leans toward caution and disappointment rather than favorability. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

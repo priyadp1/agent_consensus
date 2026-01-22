@@ -1,0 +1,63 @@
+{
+  "question": "I am going to list some different political and social actions that people can take. Have you done this ...  f. given money to an organization that works on political or social issues",
+  "options": [
+    "Have done in the past year",
+    "Have done in the more distant past",
+    "Have not done, but might do",
+    "Have not done and would never, under any circumstances, do",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have donated money to organizations working on political or social issues in the past year, as I believe supporting causes I care about is important for making a positive impact and engaging in civic responsibility.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I would choose option C because I have donated to organizations working on political or social issues in the past, but I do not do it regularly and the possibility of donating again in the future depends on the circumstances. I am open to supporting such organizations if I find their work compelling, but I haven't committed to doing so recently. Therefore, I fall into the category of having not done it recently but being potentially willing to do so.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have previously donated money to organizations that focus on political and social issues, motivated by a desire to support causes I care about and influence positive change.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have donated to social and political organizations in the past, but not within the last year. While I am open to doing so again if the circumstances align with my values, I have not recently contributed. Therefore, I fall into the category of having done it in the more distant past but not recently.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have previously donated money to organizations that focus on political and social issues, motivated by a desire to support causes I care about and influence positive change. I believe that such actions can make a meaningful difference and align with my values of civic engagement.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have donated money to organizations working on political or social issues in the past year, demonstrating recent engagement and support for causes I care about. Therefore, I choose option A.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have donated money to organizations working on political or social issues within the past year, reflecting recent active support and engagement with causes I value.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the scenario, I have not donated money to organizations working on political or social issues in the past year, but I am open to doing so in the future if conditions are right. Given this, my answer aligns with having done it in the more distant past and not recently.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have previously donated money to organizations that work on political or social issues, but not within the last year. I am open to doing so again if the circumstances align with my values, but I have not recently contributed. Therefore, I fall into the category of having done it in the more distant past but not recently.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

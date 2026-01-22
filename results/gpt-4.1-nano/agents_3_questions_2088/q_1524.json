@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \nc. guaranteeing that women have the same rights as men",
+  "options": [
+    "Top priority",
+    "Important but lower priority",
+    "Not too important",
+    "Should not work on this issue",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Guaranteeing that women have the same rights as men is fundamental to achieving equality and justice in society. It addresses many issues related to gender discrimination, violence, and access to opportunities, which are central human rights concerns. Ensuring gender equality benefits everyone and is essential for the overall development and fairness within the country. Given its importance, it warrants being a top priority for human rights organizations to promote equality and protect women's rights effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Guaranteeing that women have the same rights as men is fundamental to promoting equality and justice in society. When women's rights are protected and advanced, it benefits the entire community by fostering social stability, economic growth, and human dignity. Since gender equality remains a critical issue in many countries, including mine, it should be treated as a top priority for human rights organizations to work on this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Guaranteeing that women have the same rights as men is a fundamental issue related to equality, fairness, and human dignity. Ensuring gender equality helps improve overall social development, reduce discrimination, and promote justice in society. Given its importance for social cohesion and human rights, I believe it should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Guaranteeing that women have the same rights as men is fundamental to ensuring equality, justice, and human dignity in society. When women\u2019s rights are protected, it benefits the entire community by promoting social stability, economic growth, and fairness. Given the importance of gender equality and its impact on societal well-being, I believe it should be a top priority for human rights organizations to work on this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Guaranteeing that women have the same rights as men is a fundamental aspect of equality and justice in society. Addressing gender discrimination and ensuring equal rights not only benefits women but also promotes overall social development, fairness, and human dignity. Given its central importance to human rights and social cohesion, it should be a top priority for human rights organizations to advocate for and protect women's rights effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Ensuring that women have the same rights as men is a fundamental aspect of human rights and social justice. Achieving gender equality not only promotes fairness but also contributes to broader societal development and stability. Given the importance of addressing gender disparities and protecting women's rights as a collective goal, I believe this issue should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Guaranteeing equal rights for women is a cornerstone of human rights and social equality. Addressing gender disparities helps create a fairer society and promotes human dignity. Given its fundamental importance, I believe this issue should be prioritized highly by human rights organizations to advance fairness and social justice.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for women and men is essential for achieving social justice, equality, and societal development. Addressing gender disparities helps to build a fairer society where everyone has the same opportunities and protections. Because of its fundamental importance for human rights and the well-being of the entire community, I think this should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Guaranteeing that women have the same rights as men is essential for achieving genuine equality and justice within society. Addressing gender disparities helps to create a more inclusive, fair, and stable environment that benefits everyone. Since this issue directly impacts fundamental human dignity and social progress, it should be prioritized as a top concern for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

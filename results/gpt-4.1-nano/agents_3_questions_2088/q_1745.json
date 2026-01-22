@@ -1,0 +1,61 @@
+{
+  "question": "(Do you approve or disapprove of the way Prime Minister Narendra Modi is handling each of the following areas?)...Communal relations",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My evaluation of Prime Minister Narendra Modi's handling of communal relations is complex. While some may view his efforts to promote national unity and development positively, critics argue that his approach has sometimes exacerbated communal tensions and divisions. Overall, I believe his tenure has seen both progress and setbacks in this sensitive area, making it difficult to give a straightforward approval or disapproval. Given these considerations, I lean towards disapproval, considering the importance of harmonious communal relations for a stable society.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My opinion on Prime Minister Narendra Modi's handling of communal relations is nuanced. While there are concerns regarding incidents and rhetoric that have raised tensions in some communities, it is also evident that his government has undertaken efforts to promote social harmony and address communal issues through various initiatives. Public sentiment on this topic often depends on individual experiences and regional contexts; some see progress and dialogue, while others perceive persistent divisions. Considering these factors, I remain cautiously optimistic but recognize ongoing challenges.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My opinion on Prime Minister Narendra Modi's handling of communal relations is complex. Many people see him as trying to foster national unity, but there have also been incidents and tensions that suggest challenges remain in ensuring harmonious communal relations. Given the varied perspectives and the ongoing efforts by the government to promote social cohesion, I might lean toward disapproval due to concerns about communal tensions. However, it's also important to acknowledge the complexities involved and the efforts made. Overall, I would choose disapprove, as communal harmony is essential for social stability. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My assessment of Prime Minister Narendra Modi's handling of communal relations is that while efforts have been made by his government to promote social harmony and address communal issues, there are still notable challenges and tensions that persist in various regions and communities. These ongoing concerns suggest that communal relations could be improved further, and the risks of divisiveness remain. Therefore, I disapprove of his handling in this area, as it is crucial for sustained social stability and harmony.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Narendra Modi's handling of communal relations is somewhat contentious. While he has made efforts to promote national unity and development, there have been instances that have heightened communal tensions and divisions. The complex nature of communal harmony, a critical aspect for social stability, suggests that there are ongoing challenges. Therefore, I lean toward disapproval, as ensuring harmonious communal relations requires more consistent and inclusive measures. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Narendra Modi's handling of communal relations has been marked by both initiatives aimed at promoting harmony and instances that have increased tensions. While efforts have been made to address communal issues and foster social cohesion, there have also been criticisms and concerns about rhetoric and actions that have occasionally deepened divisions. Given the complexity and mixed outcomes, I find it difficult to fully approve and also recognize the ongoing challenges. Therefore, I lean towards disapproval, acknowledging the need for more consistent progress in this sensitive area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that Prime Minister Narendra Modi has taken some initiatives aimed at promoting communal harmony; however, there have been notable concerns and instances where tensions and divisions have persisted or worsened. Given the complexity of the issue and the mixed outcomes, I believe there is still significant room for improvement in ensuring cohesive and inclusive communal relations. Therefore, I lean toward disapproval.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Narendra Modi's handling of communal relations has been characterized by efforts to promote social harmony, but at the same time, there have been ongoing issues and tensions that point to the need for further progress. While his administration has taken steps to address communal issues, challenges remain, and recent incidents suggest that divisiveness persists. Therefore, I disapprove of his handling in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Narendra Modi's handling of communal relations has room for improvement. While efforts have been made to promote harmony, there are still significant challenges and tensions across different regions and communities. These ongoing issues indicate that communal relations could benefit from more inclusive and consistent policies to ensure lasting social stability. Therefore, I disapprove of his handling in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "How much confidence do you have in U.S. President Barack Obama to do the right thing regarding world affairs \u2013 a lot of confidence, some confidence, not too much confidence or no confidence at all?",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe President Obama generally demonstrated a thoughtful approach to international issues and sought to balance diplomacy with strategic interests. While I didn't always agree with every decision, I had a fair amount of confidence in his judgment and intentions regarding world affairs. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President Obama generally projected a thoughtful and proactive approach to international issues, which gave me some confidence that he would attempt to do the right thing. However, I also recognize that foreign policy is complex and subject to various influences, which makes me cautious about having a lot of confidence. Therefore, I would select the option indicating a moderate level of trust, rather than complete confidence or none at all.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that President Obama generally demonstrated a thoughtful approach to international issues, focusing on diplomacy and multilateral cooperation. While I trusted his judgment in many cases, there were moments when I felt unsure about his decisions or their outcomes. Therefore, I would say I have some confidence in his ability to handle world affairs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President Obama demonstrated a thoughtful and diplomatic approach to international issues, which inspired a moderate degree of trust in his judgment and decisions. While I acknowledge his efforts and intentions, the complexities of foreign policy and some uncertainties about outcomes lead me to feel that I have some confidence rather than a lot or none at all.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President Obama demonstrated a generally thoughtful and diplomatic approach to international issues, aiming to balance strategic interests with cooperation and diplomacy. While I trusted his intentions overall, I also recognized that there were moments of uncertainty or disagreement about specific decisions and their outcomes. Given this balanced perspective, I would select some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I understand that President Obama showed a generally thoughtful and balanced approach to international issues, which is reassuring. While I appreciate his efforts and intentions, I also recognize the complexities involved in foreign policy, which makes me cautious about expressing a high level of confidence. Considering these points, I believe that some confidence best reflects my view of his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I feel somewhat confident in President Obama's ability to do the right thing regarding world affairs. While I appreciate his diplomatic approach and efforts to balance strategic interests, I also recognize the complexities and uncertainties inherent in international relations, which make me cautious about having a high level of trust. Therefore, I would select some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe President Obama has demonstrated a generally thoughtful and diplomatic approach to international issues, which inspires some trust in his judgment. While he shows good intentions, the complexity of foreign policy and uncertainties involved mean I do not feel confident enough to choose a lot of confidence. Therefore, I think I have some confidence in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that President Obama generally approached international issues with diplomacy and strategic thinking, which fosters a reasonable amount of trust in his judgment. However, foreign policy is inherently complex, and uncertainties about specific decisions and their outcomes can temper how much confidence I have. Given this nuanced perspective, I feel that I have some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Do you favor or oppose the following? The death penalty for people who leave the Muslim religion.",
+  "options": [
+    "Favor",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for people who leave the Muslim religion because it infringes on individual rights to religious freedom and personal choice. Such punishment conflicts with principles of human rights and justice, which advocate for respecting personal autonomy and religious liberty. Implementing or supporting such extreme measures can lead to persecution and violate ethical standards that protect freedom of belief.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for people who leave the Muslim religion because it infringes on individual freedom and human rights. Respect for personal autonomy in religious beliefs is fundamental to a fair and just society, and punishing someone for their spiritual choices can lead to severe human rights violations. While some may believe such measures are necessary to uphold religious teachings, most modern legal and ethical standards emphasize protecting freedom of religion and conscience. Therefore, I find it important to oppose such harsh penalties.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for people who leave the Muslim religion because such punishment violates fundamental human rights, including religious freedom and the right to change one's beliefs without fear of violence or death. Enforcing such a measure can lead to severe human rights violations and undermine principles of justice and individual liberty. Respecting diverse beliefs and allowing personal freedom of religion are essential for a fair and just society.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for leaving the Muslim religion because it infringes upon fundamental human rights, especially the right to freedom of belief and conscience. Punishing individuals for changing their religious beliefs violates personal autonomy and can lead to severe human rights abuses. Upholding religious freedom is essential for a just and equitable society.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for people who leave the Muslim religion because it infringes on individual rights to religious freedom and personal choice. Such punishment conflicts with principles of human rights and justice, which advocate for respecting personal autonomy and religious liberty. Supporting or implementing such measures can lead to persecution and violate ethical standards that protect freedom of belief.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for people who leave the Muslim religion because such punishment violates fundamental human rights, including freedom of religion and personal autonomy. Implementing or supporting such measures can lead to persecution and abuse, undermining ethical principles of justice and human dignity. Respecting individual choices in matters of faith is essential for a just and humane society.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for people who leave the Muslim religion because such punishment infringes on fundamental human rights, including freedom of religion and personal autonomy. Enforcing or supporting this measure can lead to persecution, abuse, and violations of ethical principles that uphold justice and human dignity. Respecting individual freedom to choose one's faith is essential for a just and humane society.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for leaving the Muslim religion because such punishment infringes upon fundamental human rights, particularly the rights to freedom of belief and conscience. Imposing death for religious change violates personal autonomy and can lead to severe human rights abuses, persecution, and injustice. Respecting individual freedom in religious matters is essential for a humane and ethical society.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose the death penalty for leaving the Muslim religion because it violates fundamental human rights, such as the right to freedom of belief and conscience. Punishing individuals for changing their religion undermines personal autonomy and can lead to severe human rights abuses. Respecting religious freedom is essential to uphold justice and individual rights in a fair society.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

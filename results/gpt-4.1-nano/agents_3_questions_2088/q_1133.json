@@ -1,0 +1,62 @@
+{
+  "question": "How closely have you been following news about the U.S. presidential race - very closely, somewhat closely, not too closely, or not at all?",
+  "options": [
+    "Very closely",
+    "Somewhat closely",
+    "Not too closely",
+    "Not at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have been following the news about the U.S. presidential race quite regularly, as I find it important to stay informed about the political developments and candidates\u2019 positions. Therefore, I would choose to follow it quite closely to ensure I am aware of the latest updates and analysis.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have been following the news about the U.S. presidential race fairly regularly, staying informed about major developments and candidate announcements. However, I haven't been obsessively checking every detail or constantly following every news update, so my level of engagement is moderate. Therefore, I would choose \"somewhat closely.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have been keeping a moderate level of attention to the news about the U.S. presidential race. I follow major headlines and key developments but do not monitor every detail or in-depth analysis regularly. Therefore, I would say I follow it somewhat closely. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have been paying attention to the news about the U.S. presidential race on a consistent basis, following major stories, candidate announcements, and key developments without obsessively monitoring every detail. My level of engagement is moderate, similar to what others have described as \"somewhat closely.\" Given this, my attention aligns most closely with the \"somewhat closely\" option.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have been paying attention to the news about the U.S. presidential race on a regular basis, actively following key updates and developments. I find this level of engagement important to stay informed and aware of the evolving political landscape. My coverage is consistent but not necessarily exhaustive or detailed day-to-day monitoring. This aligns most closely with \"somewhat closely\" as I follow major headlines and significant events without obsessively tracking every detail.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have been paying attention to the U.S. presidential race, but not constantly or obsessively. I check news regularly enough to stay informed about major developments and candidates' positions, but I do not follow every detail or update immediately. My engagement level is moderate, so I would classify my following as somewhat closely.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have been following the news about the U.S. presidential race somewhat consistently, focusing on major headlines, key developments, and candidate updates without obsessively tracking every detail or checking news constantly. My level of engagement aligns most closely with \"somewhat closely,\" similar to the other responses that emphasize regular but not exhaustive monitoring.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the descriptions, I have been following news about the U.S. presidential race regularly enough to stay informed about major developments, but I do not obsessively track every detail. My level of engagement aligns most closely with \"somewhat closely,\" as I keep up with key stories and candidate updates without constant monitoring.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My engagement with the news about the U.S. presidential race has been moderate; I stay informed about major stories and key developments but do not follow every detail or monitor constantly. This level of interest corresponds most closely with \"somewhat closely.\" \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

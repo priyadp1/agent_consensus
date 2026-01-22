@@ -1,0 +1,62 @@
+{
+  "question": "Thinking of Canada's relationship with the United States, in the future, would you like Canada to be closer, about as close or less close to the United States than it has been in recent years?",
+  "options": [
+    "Closer to the United States",
+    "About as close to the United States",
+    "Less close to the United States",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My reasoning is that Canada's relationship with the United States has historically been characterized by strong economic and security ties, but there is also value in maintaining a certain level of independence to preserve national sovereignty and cultural identity. If Canadians generally value a balanced approach, they might prefer to keep the relationship about as close as it has been, ensuring cooperation without over-reliance. Given the importance of a steady partnership, I would lean toward maintaining the current level of closeness to foster stability and mutual benefit. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Canada should maintain or even strengthen its relationship with the United States to ensure economic stability, security cooperation, and diplomatic alignment. Given the benefits of a close partnership, I would prefer Canada to be closer to the United States than in recent years. This approach could foster mutual growth and address shared challenges more effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would prefer that Canada maintains a balanced relationship with the United States, similar to the recent years, to ensure both strong cooperation and independence. Being more closely integrated might risk losing some sovereignty, while being less close could limit economic and security partnerships. Therefore, I lean toward Canada staying about as close as it has been recently.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe maintaining or strengthening our relationship with the United States is beneficial for Canada's economic stability, security, and diplomatic interests. Given the interconnectedness and shared values, I would prefer Canada to be closer to the United States than in recent years, ensuring ongoing cooperation and mutual growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe maintaining a balanced relationship with the United States is optimal for Canada. Based on historical patterns and current considerations, a relationship about as close as in recent years allows for cooperation on economic and security issues while preserving sovereignty and cultural identity. This balanced approach seems most beneficial for Canada's long-term interests, avoiding over-reliance or detachment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Canada should aim to strengthen its relationship with the United States to promote mutual economic growth, security, and international influence, while still maintaining enough independence to safeguard national interests and cultural identity. Given the potential benefits of closer cooperation, I would prefer Canada to be closer to the United States than in recent years. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining a balanced and cooperative relationship with the United States is most beneficial for Canada's long-term interests. Given the importance of economic stability, security, and cultural identity, I support the idea of being about as close to the United States as in recent years to foster collaboration without compromising sovereignty.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that strengthening Canada's relationship with the United States can bring significant economic and security benefits, fostering cooperation and mutual growth. While maintaining independence is important, a closer relationship aligns with Canada's interests in today\u2019s interconnected world. Therefore, I would prefer Canada to be closer to the United States than in recent years.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining a balanced relationship with the United States is the most advantageous for Canada. While a closer relationship could benefit economic and security interests, it might risk over-reliance or compromising Canada's sovereignty. Conversely, being less close could undermine beneficial cooperation. Therefore, I prefer the relationship to remain about the same as in recent years to preserve mutual interests while maintaining independence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

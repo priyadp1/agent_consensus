@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way President Pena Nieto is handling each of the following areas....The economy",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the handling of the economy by President Pena Nieto is generally disapproved because during his term, Mexico faced several economic challenges such as slow growth, income inequality, and concerns about economic stability. Public opinion appears to have been divided, but overall, there was significant concern about economic performance, leading to disapproval. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe President Pena Nieto's handling of the economy has been somewhat mixed. While some initiatives aimed at growth and modernization have been implemented, there are concerns about inequality, slowing growth, and economic instability during his tenure. Public perception varies, but overall, I feel disapproval might be more common due to these challenges and less robust economic performance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of the economy because during his tenure, Mexico faced slow economic growth, increasing inequality, and criticisms over structural reforms that many felt did not benefit all segments of society equally. These issues have led many to view his economic strategies unfavorably. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of the economy because during his tenure, Mexico faced slow economic growth, increasing inequality, and criticisms over structural reforms that many felt did not benefit all segments of society equally. These issues have led many to view his economic strategies unfavorably.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of the economy because during his tenure Mexico experienced slow growth, rising inequality, and public skepticism over the effectiveness of structural reforms. These economic challenges and public concerns have contributed to a generally unfavorable opinion of his economic management.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the diverse but largely critical opinions presented, it seems that public perception of President Pena Nieto's handling of the economy leans toward disapproval due to concerns about slow growth, inequality, and economic instability. While some initiatives may have been positive, the overall sentiment appears less favorable. Therefore, I choose disapprove.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the provided context and the general public sentiment expressed by the other respondents, it appears that there was significant dissatisfaction with President Pena Nieto's handling of the economy, citing slow growth and rising inequality as key concerns. Considering this trend and the critical opinions, my assessment aligns with disapproval as well, reflecting the overall negative perception of his economic management during his tenure.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the extensive critiques related to slow economic growth, rising inequality, and concerns over the effectiveness of structural reforms during Pena Nieto's presidency, the overall public perception appears to be negative regarding his handling of the economy. These issues suggest disapproval is the prevailing sentiment among respondents.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove because during President Pena Nieto's term, Mexico experienced slow economic growth and rising inequality, coupled with public skepticism about the effectiveness of structural reforms. These issues have led many to view his economic handling unfavorably.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

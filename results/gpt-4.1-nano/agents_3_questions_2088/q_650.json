@@ -1,0 +1,60 @@
+{
+  "question": "Now on a different subject, some people feel that democracy is a Western way of doing things that would not work in most Muslim countries, others think that democracy is not just for the West and can work well in most Muslim countries. Which comes closer to your opinion?",
+  "options": [
+    "Democracy would not work well in Muslim countries",
+    "Democracy would work well"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in most Muslim countries because the core principles of democracy\u2014such as representation, rule of law, and respect for individual rights\u2014are universal and can be adapted to different cultural and religious contexts. While cultural differences are important, they should not prevent the implementation of democratic systems that promote participation and fairness. Many Muslim-majority countries have successfully adopted democratic processes or are moving in that direction, demonstrating that democracy is not exclusive to the West and can be effective elsewhere when appropriately adapted.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in most Muslim countries because the principles of democratic governance\u2014such as representation, rule of law, and individual rights\u2014are universal and can be adapted to different cultural and social contexts. While implementing democracy may face challenges in certain regions due to historical, political, or religious factors, these do not make it inherently unsuitable. With appropriate reforms and respect for cultural differences, democracy has the potential to promote stability, development, and the protection of citizens' rights in Muslim countries.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in Muslim countries because political systems that promote participation, representation, and individual rights are not exclusive to the West. Many Muslim-majority countries have shown progress and stability through democratic practices, indicating that these principles can be adapted to different cultural contexts. The key is respecting local traditions while fostering inclusive governance. Therefore, I think democracy is not solely a Western concept and can function effectively in most Muslim nations if implemented thoughtfully.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in Muslim countries because the fundamental principles of democratic governance\u2014such as participation, representation, and protection of rights\u2014are universal and can be adapted across different cultural and religious contexts. Many Muslim-majority countries have demonstrated progress with democratic practices, suggesting that democracy is not solely a Western import but a flexible system that can be tailored to local traditions and values. Respecting cultural differences while promoting inclusive governance is crucial for its success.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in Muslim countries because its fundamental principles\u2014such as participation, representation, and respect for individual rights\u2014are universal and adaptable across cultures. Many Muslim-majority countries have demonstrated that democratic practices can promote stability and development when tailored to local traditions. Therefore, democracy is not solely a Western idea, and with appropriate context-sensitive implementation, it can be effective in most Muslim nations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in Muslim countries because its core principles\u2014such as representation, rule of law, and respect for individual rights\u2014are universal and adaptable across different cultural and religious contexts. While there may be challenges related to historical, political, or religious factors, these do not make democracy inherently incompatible with Muslim-majority societies. With appropriate reforms and sensitivity to local traditions, democratic systems can promote stability, development, and the protection of citizens' rights. Therefore, I support the view that democracy is not just a Western concept and can succeed in Muslim countries when properly implemented.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in Muslim countries because its core principles\u2014such as participation, representation, rule of law, and respect for individual rights\u2014are universal and can be adapted to different cultural and religious contexts. While there are unique challenges related to history, politics, or religion, these do not make democracy inherently incompatible with Muslim-majority societies. When implemented with reforms and cultural sensitivity, democratic systems have the potential to promote stability, development, and the protection of citizens' rights in these countries.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in Muslim countries because its core principles\u2014such as representation, rule of law, and respect for individual rights\u2014are universal and adaptable across different cultural and religious contexts. While there may be challenges related to historical, political, or religious factors, these do not make democracy inherently incompatible with Muslim-majority societies. With appropriate reforms and sensitivity to local traditions, democratic systems can promote stability, development, and the protection of citizens' rights. Therefore, I support the view that democracy is not just a Western concept and can succeed in Muslim countries when properly implemented.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that democracy can work well in Muslim countries because its core principles\u2014such as participation, representation, and respect for rights\u2014are universal and can be adapted to different cultural and religious contexts. Many Muslim-majority nations have made progress with democratic practices when these principles are integrated respectfully and thoughtfully, indicating that democracy is not exclusively Western. Tailoring democratic institutions to local traditions and values can foster stability and development, making democracy a viable system elsewhere.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

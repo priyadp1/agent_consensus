@@ -1,0 +1,12 @@
+{
+  "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?:\n\nThe government (in your municipality)",
+  "options": [
+    "A great deal",
+    "Quite a lot",
+    "Not very much",
+    "None at all"
+  ],
+  "answer": "B",
+  "raw_output": "My confidence in the government in my municipality depends on its effectiveness, transparency, and ability to address local issues. If I believe it performs well and earns my trust, I would choose A; if I think it generally manages well but has room for improvement, B; if I have doubts about its competence or integrity, C; or if I have no trust at all due to past issues or dissatisfaction, D. Since I generally trust my municipal government to handle local concerns adequately, I would lean towards quite a lot of confidence.\n\nANSWER: B",
+  "model_failed": false
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way President Nicolas Maduro is handling each of the following areas? g. energy policy",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Maduro's handling of energy policy has been mixed; while his government has attempted to stabilize and develop the sector, ongoing issues with infrastructure and electricity shortages remain. Therefore, I lean toward disapproval but recognize some efforts; this suggests disapproval is the most appropriate choice at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President Nicolas Maduro's handling of energy policy has faced significant challenges, including issues with infrastructure and dependency on oil exports, which have impacted the country's energy stability. While some actions may have been aimed at maintaining energy supplies, the overall effectiveness and long-term planning appear limited. Therefore, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would consider the complexities of Venezuela's energy sector, including its heavy reliance on oil and the challenges faced in diversifying energy sources. President Maduro's handling of energy policy has been marked by efforts to maintain oil production levels amid economic difficulties, but there have also been concerns about mismanagement and lack of investment in renewable energy initiatives. Given these factors, I might be inclined to disapprove due to ongoing issues and perceived missteps, but recognize some effort is being made. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President Nicolas Maduro's handling of energy policy has been problematic due to ongoing issues with infrastructure, over-reliance on oil exports, and lack of diversification into renewable energy sources. While efforts have been made to maintain oil production, the persistent mismanagement and insufficient investment have contributed to energy instability. Therefore, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President Maduro's handling of energy policy has been somewhat ineffective. While there have been efforts to stabilize the sector and maintain oil production, ongoing infrastructure issues, electricity shortages, and slow progress in renewable energy development indicate that efforts have fallen short. Consequently, I lean toward disapproval, although I acknowledge some attempts have been made.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe President Maduro's handling of energy policy has been challenged by ongoing infrastructure issues and electricity shortages, which suggest that efforts to stabilize and develop the sector have not fully succeeded. While some attempts have been made, the persistent problems indicate that his management is not effectively addressing the country's energy needs. Therefore, I disapprove of his handling of energy policy.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the ongoing infrastructure problems, electricity shortages, and slow development in renewable energy, it appears that President Maduro's management of energy policy has faced significant challenges and has not effectively addressed the country's needs. While some efforts are acknowledged, the persistent issues suggest disapproval. Therefore,\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President Maduro's handling of energy policy has been problematic due to ongoing infrastructure issues, over-reliance on oil exports, and lack of diversification into renewable energy sources. The persistent mismanagement and insufficient investment have contributed to energy instability. Given these factors, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Nicolas Maduro's handling of energy policy. Despite some efforts to maintain oil production, the country continues to face significant infrastructure challenges, electricity shortages, and a lack of diversification into renewable energy sources. These ongoing issues suggest that his management has not effectively addressed the sector's needs, leading to continued energy instability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

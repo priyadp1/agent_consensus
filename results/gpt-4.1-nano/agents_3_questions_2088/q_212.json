@@ -1,0 +1,61 @@
+{
+  "question": "Do you think ____ tries to influence the internal affairs of other countries or do you think ____ mostly stays out of the internal affairs of other countries? b. The United States",
+  "options": [
+    "Tries to influence the internal affairs of other countries",
+    "Mostly stays out of the internal affairs of other countries",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The United States historically has been involved in the internal affairs of many countries through diplomatic pressure, economic influence, military interventions, and support for certain political groups or leaders. While it sometimes asserts a policy of non-interference or claims to respect sovereignty, in practice, its actions suggest it often tries to influence internal political, economic, or social conditions in other nations. This pattern makes it more plausible that many people perceive the U.S. as an actor that actively attempts to influence other countries rather than remaining completely uninvolved.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United States has historically played an active role in influencing the internal affairs of other countries through diplomatic, economic, military, and covert means. While there are periods or administrations that may emphasize non-intervention, overall, the U.S. has a long-standing pattern of engaging in international influence efforts, whether to promote democracy, protect interests, or address security concerns. This involvement often includes supporting regime changes, intervening in conflicts, or exerting economic pressure. Therefore, I believe the U.S. tries to influence the internal affairs of other countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United States has a long history of engaging in international affairs, including interventions, diplomatic influence, and supporting proxy forces in various regions. While some may argue that it sometimes respects the sovereignty of other nations, there is considerable evidence that the U.S. actively attempts to shape events in other countries to align with its strategic, economic, or political interests. These actions suggest that the U.S. tries to influence the internal affairs of other nations more often than it stays completely out of them.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the United States predominantly tries to influence the internal affairs of other countries through diplomatic, economic, and sometimes military means, as evidenced by its long history of interventions, support for regime changes, and strategic pursuits. While there may be periods of non-intervention, overall, the pattern indicates active efforts to shape foreign events rather than staying out of them.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United States has a significant history of trying to influence the internal affairs of other countries through diplomatic, economic, and sometimes military means. While it may occasionally claim to respect sovereignty, its actions often suggest an active interest in shaping political and social outcomes elsewhere. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the United States generally tries to influence the internal affairs of other countries through various means such as diplomacy, economic pressure, and sometimes military intervention. While it may claim to respect sovereignty at times, its historical actions and policies suggest an active effort to shape political or social outcomes in other nations. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the United States tries to influence the internal affairs of other countries through various means such as diplomacy, economic pressure, and sometimes military intervention. While it may claim to respect sovereignty at times, its historical actions and policies suggest an active effort to shape political or social outcomes in other nations. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United States predominantly tries to influence the internal affairs of other countries through diplomatic, economic, and sometimes military means. Its long history of interventions, support for regime changes, and strategic pursuits indicate active efforts to shape foreign events rather than staying out of them. While there may be occasional periods of non-intervention, the overall pattern suggests a tendency toward involvement rather than neutrality.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the United States actively tries to influence the internal affairs of other countries through various means, including diplomatic initiatives, economic pressure, and military interventions when deemed necessary. Its history includes numerous efforts to shape political outcomes in other nations, which suggests a pattern of engagement rather than mere non-interference.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

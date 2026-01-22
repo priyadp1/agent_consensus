@@ -1,0 +1,61 @@
+{
+  "question": "Here are some pairs of statements. Please tell me whether the FIRST statement or the SECOND statement comes closer to your own views - even if neither is exactly right. The first pair is... My voice counts in the European Union, or My voice does not count in the European Union ",
+  "options": [
+    "My voice counts in the European Union",
+    "My voice does not count in the European Union",
+    "Neither/Both equally (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are mechanisms such as elections, consultations, and policies that influence decisions affecting member states. While some may feel their influence is limited, I think that participation in democratic processes at the EU level gives individuals a sense of having a say. However, I acknowledge that some people might feel their voice isn't heard enough, especially given complex bureaucratic structures and the distance between policymakers and citizens. Overall, I lean toward believing my voice does count.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are mechanisms like elections, public consultations, and opportunities to participate in policymaking that give individuals a sense of influence. However, I also recognize that decisions are often made by governments and institutions that may not always reflect the views of every citizen equally, which can make it feel like my voice does not fully count. Given this, I think my personal influence is somewhat limited but still present.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that my voice does count in the European Union because I feel that the democratic processes and the voting mechanisms allow citizens to influence policies and decisions that affect the member states. Although the EU involves multiple countries and complex institutions, I trust that collective participation and representation help ensure that individual opinions have an impact. Therefore, I lean towards feeling that my voice is heard within the EU framework.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are mechanisms such as elections, voting rights, and opportunities to participate in discussions and consultations that enable citizens to influence policies. While I acknowledge that the decision-making process can sometimes feel distant or complex, the presence of democratic procedures suggests that individual voices can have an impact, at least to some extent.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are democratic mechanisms such as elections, referendums, and consultations that enable citizens to influence policies and decisions affecting the member states. While I recognize that the complexity of EU institutions and the distance from everyday citizens can sometimes make this influence feel limited, the existence of such processes gives me confidence that my voice has an impact. Therefore, I lean towards feeling that my voice does count.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are mechanisms such as elections, consultations, and policies that influence decisions affecting member states. While some may feel their influence is limited, I think that participation in democratic processes at the EU level gives individuals a sense of having a say. However, I acknowledge that some people might feel their voice isn't heard enough, especially given complex bureaucratic structures and the distance between policymakers and citizens. Overall, I lean toward believing my voice does count.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are democratic mechanisms such as elections, referendums, and consultations that enable citizens to influence policies and decisions affecting the member states. While I recognize that the complexity of EU institutions and the distance from everyday citizens can sometimes make this influence feel limited, the existence of such processes gives me confidence that my voice has an impact. Therefore, I lean towards feeling that my voice does count.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are established mechanisms such as elections, voting procedures, and public consultations that allow citizens to influence policies. Although the decision-making process can seem complex and distant at times, the availability of democratic processes provides opportunities for individuals to have a say and affect outcomes. I acknowledge that some people may feel their influence is limited, but overall, I lean toward believing that my voice does count.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that my voice counts in the European Union because there are established democratic processes such as elections, referendums, and consultations that allow citizens to influence policy decisions. Although the decision-making process can sometimes feel distant or complex, these mechanisms suggest that individual voices can have an impact, at least to some extent. Therefore, I lean towards feeling that my voice does count.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Which of the following comes closer to your view?...I like the pace of modern life. I do not like the pace of modern life.",
+  "options": [
+    "Like pace of modern life",
+    "Do not like pace of modern life",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I personally find the fast pace of modern life stimulating and motivating, as it often means more opportunities, innovation, and progress. However, I recognize that for some people, this rapid rhythm can be stressful or overwhelming, so I understand why others might prefer a slower, more relaxed lifestyle. Given my own positive view of the speed of modern life, I choose the option that reflects liking it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I personally find the rapid pace of modern life somewhat overwhelming and stressful at times, and I prefer a slower, more manageable tempo that allows for reflection and relaxation. Therefore, I do not like the pace of modern life.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I personally find the fast pace of modern life to be overwhelming and stressful, often making it difficult to enjoy the present moment or maintain a sense of balance. I prefer a slower, more relaxed environment to feel more content and less hurried. Therefore, I do not like the pace of modern life.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I find that the rapid pace of modern life often feels overwhelming and stressful, making it difficult to enjoy the present or maintain a sense of balance. While some may appreciate the efficiency and opportunities of modern life, personally, I prefer a slower, more relaxed environment that allows for reflection and relaxation. Therefore, I do not like the pace of modern life.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I personally find the fast pace of modern life to be stimulating and motivating, as it offers more opportunities for innovation and progress. While I recognize that it can be stressful for some, I tend to appreciate the energy and dynamism that comes with a rapid rhythm. Therefore, I like the pace of modern life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I personally find the fast pace of modern life stimulating and motivating, seeing it as a source of opportunities and progress. While I recognize that it can be stressful for some, my own perspective aligns with enjoying and appreciating the rapid rhythm. Therefore, I like the pace of modern life.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I personally find the fast pace of modern life to be stimulating and motivating, as it provides numerous opportunities for innovation, progress, and personal growth. Although I acknowledge that it can be stressful for some people, I generally appreciate the energy and dynamism it brings, making life more exciting and engaging for me. Therefore, I like the pace of modern life.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I personally find the fast pace of modern life energizing and full of opportunities, which motivates me to stay active and engaged. While I understand that some find it stressful or overwhelming, for me, the benefits and sense of progress outweigh the negatives. Therefore, I like the pace of modern life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I tend to prefer a pace of modern life that is lively and energetic, as I find it motivating and full of opportunities for growth and innovation. While I acknowledge that it can sometimes be overwhelming, overall, I appreciate the dynamism and progress it offers. Therefore, I like the pace of modern life.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

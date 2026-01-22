@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...Boko Haram",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of Boko Haram due to its association with violent extremism, terrorism, and the widespread suffering it has caused in the regions it operates. Given its history of attacks on civilians, government institutions, and its challenge to stability and peace, most public opinion would likely regard it unfavorably. Therefore, I would choose very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of Boko Haram due to its involvement in violent terrorist activities, causing widespread suffering and instability in affected regions. Given their actions, I cannot hold a favorable opinion towards them.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Boko Haram is widely recognized as a terrorist organization responsible for violence, kidnappings, and destabilizing efforts in the regions where they operate. Due to their involvement in human rights abuses and the threat they pose to security and stability, public opinion tends to be very unfavorable. Most people would likely view them with strong disapproval rather than favorability. Therefore, I would select very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I perceive Boko Haram as a dangerous terrorist organization responsible for violence, kidnappings, and destabilization in the regions they operate. Their actions have caused significant suffering and security issues, leading me to hold a very unfavorable opinion of them.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Boko Haram is known for its violent extremism, including terrorist attacks, kidnappings, and efforts to destabilize regions. These actions have caused widespread suffering and threats to peace and security in affected areas. Given this context, public opinion is very likely to be very unfavorable towards Boko Haram. My opinion aligns with this assessment, and I would select very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given Boko Haram's history of violent extremism, terrorism, and the suffering it has caused in affected regions, the public opinion is likely to be very unfavorable. Based on the nature of its actions and the widespread negative perception, I would reaffirm that my opinion is very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Boko Haram is widely recognized for its violent extremism and terror activities, which have inflicted significant harm and suffering on affected communities. Given this context, public opinion is most likely to be very unfavorable, reflecting strong disapproval and condemnation of its actions. My assessment aligns with this, and I believe the most appropriate choice is very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given Boko Haram's history of violent extremism, terrorism, and the immense suffering they have caused in affected regions, public opinion is overwhelmingly negative. Such actions typically lead to a very unfavorable perception among the general population and international observers. Therefore, I also hold a very unfavorable opinion of Boko Haram.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given Boko Haram's history of violent extremism, terrorist attacks, kidnapping, and regional destabilization, public opinion is predominantly very unfavorable towards them. Their activities have led to widespread suffering, insecurity, and human rights abuses. Therefore, I would also hold a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

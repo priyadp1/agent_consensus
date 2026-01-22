@@ -1,0 +1,62 @@
+{
+  "question": "What's your impression, do the Churches play too great a role in the political life of this country today, too small a role in its political life or about the right role?",
+  "options": [
+    "Too great",
+    "Too small",
+    "About right",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the Churches currently play too great a role in the political life of the country. In many cases, religious institutions influence policies and political debates more than they should, potentially undermining the separation of church and state and affecting policies that should be based on secular considerations. While their moral guidance can be valuable, an excessive political influence can lead to biases and undermine democratic principles. Therefore, I think their role is too prominent at this point.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the Churches currently play a role in the political life of this country that is too great. Their influence often extends into policy debates and decision-making processes, which can blur the separation between church and state. While religious groups have a right to their opinions, an excessive role can undermine the principles of secular governance and marginalize alternative viewpoints. Therefore, I think the current influence of churches in politics may be disproportionately high.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the Churches currently play too significant a role in the political life of this country. Their influence often blurs the separation between religion and government, which can undermine democratic processes and diminish the focus on secular policies designed for the common good. While faith-based perspectives are important, their undue sway in political decisions can lead to policies that favor specific religious groups over others or over non-religious citizens, reducing overall fairness and inclusivity. Striking a balance where religion informs individual morals without overt political interference seems essential for a healthy, pluralistic society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the Churches currently play too significant a role in the political life of this country. Their influence in policy making can conflict with the principle of separation of church and state, potentially leading to policies that favor religious perspectives over secular or diverse viewpoints. While respecting religious beliefs is important, unchecked political influence can undermine democratic fairness and inclusivity. Maintaining a balance where religion informs personal morals but does not dominate political decision-making is vital for a healthy, pluralistic society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the Churches currently play too great a role in the political life of this country. When religious influences become too dominant in politics, it can compromise the separation between church and state, leading to policies that may favor certain religious groups over others and undermining fairness and inclusivity. While moral guidance from religious institutions has value, their excessive involvement in political decision-making can distort democratic processes and reduce secular concerns' prominence. Therefore, I think their role is too great.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the Churches currently play a role in the political life of this country that is too great. Their influence on policy decisions and public debates can sometimes overshadow secular considerations and undermine the principles of separation of church and state. While religious groups have the right to be involved, an excessive role may distort democratic processes and marginalize alternative viewpoints. Therefore, I think the current influence of churches in politics may be disproportionately high.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the Churches currently play too great a role in the political life of this country. When religious institutions exert significant influence over policy decisions and public debates, it can blur the line between religion and government, potentially undermining the principles of fairness, secularism, and pluralism. This can lead to policies that favor certain religious perspectives over others and may reduce the representation of diverse viewpoints in political processes. While religious groups have a right to be involved, an excessive role can distort democratic values and marginalize those of different or no faith. Therefore, I think their role is too great.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that churches currently influence politics too significantly, which can interfere with the principles of secular governance and may lead to policies that favor religious interests over broader societal needs. A balanced approach where religious voices are respected but do not dominate political decisions seems essential for a fair and inclusive democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the churches currently play too significant a role in the political life of this country. An excessive influence by religious institutions in policymaking can threaten the separation of church and state, potentially leading to biased policies that favor certain religious perspectives over others. While religious values can inform moral viewpoints, their prominent involvement in politics can undermine democratic principles of fairness and inclusivity. A balanced role that respects religious beliefs but maintains secular governance is essential for a healthy pluralistic society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

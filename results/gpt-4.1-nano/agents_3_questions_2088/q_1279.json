@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Hachmi Hamdi? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I do not have sufficient information or widespread public opinion data about Hachmi Hamdi to accurately gauge the general perception of him among the population. Without clear societal consensus or reliable indicators of public sentiment, it is difficult to assign a favorable or unfavorable rating confidently. Therefore, my choice reflects a neutral stance due to lack of data.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I don't have enough information about Hachmi Hamdi's actions, policies, or public reputation to form a clear opinion. Since I cannot evaluate or access specific details about this individual, I am unable to determine whether my view is favorable or unfavorable. Therefore, I am choosing a neutral stance by selecting the option that best reflects my lack of sufficient knowledge.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I do not have sufficient information about Hachmi Hamdi's actions, policies, or reputation to determine my opinion. Without context or familiarity with this individual, I cannot confidently choose a favorable or unfavorable opinion. Therefore, I find it difficult to rate my opinion positively or negatively. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Since I also lack sufficient information about Hachmi Hamdi's actions, policies, or reputation to form a clear opinion, I am unable to determine if my view would be favorable or unfavorable. I cannot confidently rate my opinion without more context or familiarity. Therefore, I will select the same option as the other respondents, acknowledging my lack of sufficient knowledge.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the lack of sufficient information or familiarity with Hachmi Hamdi, I cannot form a clear opinion about him. Since the previous respondents indicated difficulty in judging without context, and one mentioned an unfavorable stance due to the absence of data, I also find it challenging to rate positively. Therefore, I choose the option that reflects uncertainty or a lack of sufficient information.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the limited information available about Hachmi Hamdi's actions, policies, and public reputation, I do not feel able to form a clear or informed opinion about him. Without sufficient data to evaluate positively or negatively, I must choose an option that best reflects my lack of knowledge.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Since I also lack sufficient information or familiarity with Hachmi Hamdi to form a clear opinion, and based on the precedent set by other respondents choosing the unfavorable option due to limited data, I will select the same. This reflects the absence of enough knowledge to rate him favorably or unfavorably.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Since I also lack sufficient information about Hachmi Hamdi's actions, policies, or reputation to form a clear opinion, I am unable to determine if my view would be favorable or unfavorable. I cannot confidently rate my opinion without more context or familiarity. Therefore, I will select the same option as the other respondents, acknowledging my lack of sufficient knowledge.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Since I also lack sufficient information about Hachmi Hamdi\u2019s actions, policies, or reputation to form a clear opinion, I am unable to determine if my view would be favorable or unfavorable. I cannot confidently rate my opinion without more context or familiarity. Therefore, I will select the same option as the other respondents, acknowledging my lack of sufficient knowledge.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

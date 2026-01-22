@@ -1,0 +1,60 @@
+{
+  "question": "Do you think this change in the working conditions for ordinary workers is largely because of the way the world has become more connected or mostly for other reasons?",
+  "options": [
+    "Largely more connected",
+    "Other reasons"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the changes in working conditions for ordinary workers are primarily due to other reasons, such as shifts in economic policies, technological advancements, corporate restructuring, and globalization effects that are not solely explained by increased connectivity. While greater global interconnectedness has contributed to the dynamics, it is these specific factors that have had a more direct impact on how workers experience their roles and environment today. The complexities in economic systems and workplace reforms are more influential in shaping current conditions than just the level of global connectivity. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The change in working conditions for ordinary workers can often be attributed to multiple factors, but the increasing interconnectedness of the world through globalization, technology, and communication has played a significant role in shaping these conditions. This connectivity has led to the rapid dissemination of ideas, labor practices, and economic shifts, exerting pressure on local industries to adapt. However, other reasons such as changes in labor laws, economic policies, automation, and corporate strategies also contribute substantially. Despite these, the overarching influence of a more interconnected world remains a primary driver because it accelerates global competition, influences wages, working hours, and job security on a large scale. Therefore, the connectivity of the world is a major reason behind the recent shifts in working conditions.\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the changes in working conditions are primarily due to other reasons, such as technological advancements, shifts in labor laws, economic policies, and organizational changes within industries. While globalization and increased connectivity have played a role, they are part of a broader set of factors influencing workplace environments. These factors often directly impact employment practices, wages, and job security more substantially than connectivity alone.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the changes in working conditions are largely influenced by the way the world has become more connected. Globalization, technological advancements, and communication networks have accelerated the spread of economic practices and labor standards, often putting pressure on local industries to adapt quickly. While other factors like labor laws and economic policies are important, the overarching impact of increased connectivity creates a more immediate and widespread effect on workplace conditions. This interconnectedness facilitates rapid change and competition, which significantly shapes the environment for ordinary workers.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the changes in working conditions for ordinary workers are largely due to reasons other than increased global connectivity. While globalization and connectivity have facilitated the spread of practices and ideas, the more direct influencers are technological advancements, policy reforms, and organizational shifts that reshape labor markets and workplace environments more significantly. These factors have a tangible impact on employment practices, wages, and job security, making them the primary drivers behind current changes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the recent changes in working conditions for ordinary workers are largely driven by other reasons such as technological advancements, economic policies, automation, and corporate restructuring. While increased global connectivity has facilitated the dissemination of ideas and economic pressures, these factors are more directly responsible for shaping the current landscape. The complexity of economic systems and targeted reforms have a more immediate impact on workers' daily realities than just the interconnectedness of the world. Therefore, I see this change as primarily resulting from reasons beyond global connectedness.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the changes in working conditions for ordinary workers are driven more by technological advancements, policy reforms, and organizational shifts rather than global connectivity alone. While increased interconnectedness has played a role in spreading ideas and economic influence, the primary factors directly impacting workers\u2019 daily lives are technological developments such as automation and digital tools, as well as policies and corporate restructuring efforts. These elements have a more immediate and tangible effect on wages, job security, and workplace practices. Therefore, I choose reason B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the change in working conditions for ordinary workers is largely influenced by the way the world has become more connected. Increased globalization, technological innovations, and enhanced communication networks have created a rapid spread of economic practices and labor standards across borders. These interconnected systems often exert pressure on local industries to adapt quickly, leading to significant shifts in workplace conditions. While other factors like specific economic policies and corporate decisions play roles, the overarching influence of global interconnectedness seems to be the primary driver of these changes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the changing conditions for ordinary workers are primarily driven by increased global interconnectedness. This expanded connectivity accelerates economic integration, influences labor standards, and intensifies competition across countries, all of which shape workplace environments worldwide. While technological and policy factors are important, they are often facilitated or amplified by the broader process of globalization and connected networks, making the overall influence of a more connected world the most significant driver.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

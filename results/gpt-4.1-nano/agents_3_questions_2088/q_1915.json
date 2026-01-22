@@ -1,0 +1,60 @@
+{
+  "question": "(Now/And thinking about the American people...) Which of these characteristics do you associate with the American people?...Honest...Do you associate this with the American people or not?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a characteristic often associated with the American people because many perceive Americans as valuing truthfulness and integrity. While there are individuals who may not embody this trait, on a broader level, honesty is frequently seen as a core value in American culture. Therefore, I associate honesty with the American people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a characteristic often associated with the American people due to the cultural emphasis on individual integrity and values of trustworthiness. While there are diverse experiences across the population, overall, honesty tends to be seen as a core trait linked to Americans' national identity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people perceive Americans as generally honest, emphasizing values like integrity and trustworthiness. While individual experiences may vary, the common cultural narrative tends to portray the American people as honest and straightforward. Therefore, I associate honesty with the American people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a characteristic often associated with the American people because of the strong cultural values promoting integrity, trustworthiness, and transparency. While individual differences exist, the general perception aligns with Americans being honest and straightforward. Therefore, I associate honesty with the American people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the general perception and cultural narratives, honesty is often associated with the American people as a valued trait. While individual experiences may differ, the widespread view tends to see honesty as a positive and integral attribute linked to American culture. Therefore, I associate honesty with the American people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe honesty is often associated with the American people because it is widely regarded as a core value rooted in cultural ideals of integrity and trustworthiness. While individual experiences may vary, the general perception links honesty with Americans' national identity. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe honesty is often associated with the American people because it is widely regarded as a core value rooted in cultural ideals of integrity and trustworthiness. While individual experiences may vary, the general perception links honesty with Americans' national identity. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a characteristic often associated with the American people because of the cultural values emphasizing integrity, trustworthiness, and transparency. While individual differences exist, the general perception aligns with Americans being honest and straightforward, reinforcing the association between honesty and American identity. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that honesty is a characteristic often associated with the American people because of the cultural emphasis on integrity and trustworthiness that is frequently highlighted in societal narratives and values. While individual differences exist, the overall perception tends to view Americans as honest and straightforward. Therefore, I associate honesty with the American people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

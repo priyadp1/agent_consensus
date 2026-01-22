@@ -1,0 +1,63 @@
+{
+  "question": "How much, if at all, do you think the Chinese government\u2019s initial handling of the coronavirus outbreak in Wuhan is to blame for the global spread of the virus?",
+  "options": [
+    "A great deal",
+    "A fair amount",
+    "Not too much",
+    "Not at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The initial handling of the coronavirus outbreak in Wuhan involved delayed transparency, limited early information sharing, and initial underestimation of the virus's severity, which likely contributed to its spread beyond China's borders. However, once the severity was recognized, efforts increased globally to contain it. Therefore, the blame attributable to the Chinese government\u2019s initial response seems significant but not the sole factor in the global spread. Considering this, I believe the Chinese government\u2019s initial handling is to blame for a fair amount of the global spread of the virus.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the Chinese government\u2019s initial handling of the coronavirus outbreak in Wuhan contributed significantly to the global spread of the virus. There was some delay and lack of transparency in reporting the outbreak, which hindered early containment efforts and allowed the virus to spread internationally before effective measures were put in place. This initial response set back global efforts to control the outbreak, making it fair to say that it bears a substantial portion of the blame. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The initial handling of the coronavirus outbreak by the Chinese government has been widely scrutinized, especially regarding transparency and speed of response. Early delays and information suppression may have contributed to the virus spreading beyond Wuhan before global awareness and containment efforts were fully mobilized. While other factors also played a role, the initial response likely influenced the timing and extent of the global spread. Therefore, I believe it is appropriate to recognize a significant degree of blame attributable to the initial mishandling.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the Chinese government\u2019s initial handling of the coronavirus outbreak in Wuhan played a significant role in the global spread of the virus. The delays in reporting, lack of transparency, and slow response likely allowed the virus to establish a foothold within Wuhan and then spread internationally before effective containment measures could be implemented. While other factors contributed to the virus's spread, the initial response set back early containment efforts and probably amplified the initial dissemination. Therefore, I would choose A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The initial response of the Chinese government to the coronavirus outbreak involved delayed transparency, limited early information sharing, and some underestimation of the virus's severity. These factors likely contributed to the virus spreading beyond Wuhan before sufficient containment measures were implemented globally. While other factors also played roles in the pandemic's progression, the initial mishandling arguably set the stage for the widespread transmission. Considering these aspects, I believe the Chinese government's initial handling bears a significant portion of the blame for the global spread of the virus but not entirely. Therefore, I choose a moderate assessment of the blame allocation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the Chinese government\u2019s initial handling of the coronavirus outbreak in Wuhan played a significant role in the global spread of the virus. The delays in transparency and limited early information sharing created opportunities for the virus to propagate internationally before effective containment measures could be enacted. While subsequent efforts improved the situation, the initial response set back global containment efforts and contributed substantially to the widespread transmission. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the initial handling by the Chinese government contributed notably to the global spread of the virus. The delays in transparency and limited early information sharing likely allowed the virus to establish itself beyond Wuhan before many countries could respond effectively. While other factors influenced the pandemic\u2019s course, these early actions (or inactions) played a significant role in enabling widespread transmission. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the Chinese government\u2019s initial handling of the coronavirus outbreak in Wuhan played a significant role in the global spread of the virus. The delays in reporting, lack of transparency, and slow initial response allowed the virus to establish itself within Wuhan and begin spreading internationally before effective measures could be taken. While subsequent efforts to control the virus improved the situation, the early response likely contributed substantially to its rapid global dissemination. Therefore, I would choose A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the Chinese government\u2019s initial handling of the coronavirus outbreak had a considerable impact on the global spread. The delays in transparency, the slow response, and initial underreporting allowed the virus to establish itself within Wuhan and spread internationally before effective containment measures could be put in place. While other factors, such as global travel and preparedness, also contributed, the initial response arguably played a key role in setting the stage for the widespread transmission of the virus. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

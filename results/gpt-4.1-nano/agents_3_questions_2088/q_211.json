@@ -1,0 +1,61 @@
+{
+  "question": "Would you support or oppose holding a national referendum on your country\u2019s European Union membership?",
+  "options": [
+    "Support",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that holding a national referendum on the country\u2019s EU membership could enhance democratic legitimacy by directly involving the citizens in significant decisions. It allows the public to voice their own perspectives and ensures that policy reflects the popular will. However, some may oppose such a vote due to concerns about political instability or misinformation influencing the outcome. Overall, I support the idea as a means of fostering democratic participation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would support holding a national referendum on my country's EU membership to ensure that the decision reflects the popular will and democratic principles. This approach allows citizens to directly voice their opinions on such an important issue, fostering transparency and legitimacy in the decision-making process. Given the complexities and varying public sentiments about the EU, a referendum can help clarify the level of support or opposition, guiding policymakers accordingly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support holding a national referendum on the country's European Union membership because it allows the electorate to have a direct say on such a significant and potentially divisive issue, ensuring democratic legitimacy and public engagement in decision-making. Given the importance of EU membership to national sovereignty, economy, and policy, a referendum can help clarify public opinion and legitimize any future decisions regarding EU relations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe holding a national referendum on EU membership is important to uphold democratic principles and ensure that the decision truly reflects the will of the people. Given the significant implications of EU membership on sovereignty, economy, and policy, a referendum provides clarity, legitimacy, and public engagement in such a critical matter. It allows citizens to directly express their support or opposition, promoting transparency and trust in the decision-making process.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support holding a national referendum on the country\u2019s EU membership because it provides a direct democratic mechanism for citizens to voice their opinions on such a significant and potentially contentious issue. This can enhance democratic legitimacy, ensure that policy reflects public sentiment, and clarify public opinion on the country\u2019s EU relationship. Given the importance of EU membership to national sovereignty, economy, and policy, involving the public through a referendum seems appropriate to legitimize future decisions. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that holding a national referendum on EU membership is an important exercise of democratic sovereignty, allowing citizens to directly influence a significant national decision. It promotes transparency and ensures the government\u2019s actions reflect public opinion. Given the importance and potential impact of EU membership, I support involving the public through a referendum to legitimize the decision and address varying perspectives within society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support holding a national referendum on EU membership because it empowers citizens to directly participate in a major national decision that affects sovereignty, economy, and policy. Such a democratic process enhances legitimacy, transparency, and public trust, ensuring that the government\u2019s actions align with the will of the people. Given the significance of EU membership, involving the citizens through a referendum is an appropriate and respectful way to determine the country's future relationship with the EU.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support holding a national referendum on the country\u2019s European Union membership to uphold democratic principles and ensure that the decision truly represents the will of the people. Given the significant implications for sovereignty, economy, and policy, a referendum provides legitimacy, transparency, and public engagement, promoting trust in the decision-making process.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support holding a national referendum on EU membership because it ensures that the decision reflects the will of the people directly, strengthening democratic legitimacy and transparency. Given the significant implications for sovereignty, economy, and policy, involving citizens through a referendum promotes trust and legitimacy in such a critical issue.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Some people have considered not buying American products to protest U.S. policies.  Have you seriously considered not buying American products or haven't you given it serious thought?",
+  "options": [
+    "Thought seriously about",
+    "Haven't seriously thought about"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have considered the idea of not buying American products as a form of protest against U.S. policies, weighing the potential impact and personal implications. Therefore, I have thought seriously about it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have thought seriously about not buying American products as a way to protest U.S. policies, because I believe consumer choices can influence political and corporate behavior. I have considered the potential impact of my purchasing decisions and whether they align with my values.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have considered the idea of not purchasing American products as a form of protest against U.S. policies, recognizing it as a way to express my opinions through my consumer choices. This reflects a level of serious thought about the impact and implications of such an action. Therefore, I would choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have given this question some serious thought, as I have considered the implications and motivations behind not purchasing American products to protest U.S. policies. I have reflected on how consumer choices can serve as a form of political expression and the potential impact of such actions. Therefore, I would choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have considered the idea of not buying American products as a form of protest against U.S. policies and have thought about it seriously. I believe such consideration involves weighing personal values and the potential effects of the action, which indicates a level of serious thought.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have given the question careful thought, considering whether I have seriously reflected on the idea of not purchasing American products as a form of protest. I recognize that such actions could be meaningful in expressing my opinions about U.S. policies, and I have contemplated the potential personal and societal impacts of making such a choice. My introspection aligns with the notion of having taken this issue seriously.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have thought deeply about the issue and have given it serious consideration. Reflecting on the potential impact of not purchasing American products as a form of protest involves weighing personal beliefs, societal implications, and possible consequences. Therefore, I have taken this question seriously and have contemplated it thoroughly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have reflected on the idea of not purchasing American products as a form of protest and have considered the motivations, implications, and potential impact of such an action. This demonstrates that I have given the question serious thought and have engaged in meaningful reflection on the issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have considered the question carefully, reflecting on the implications and motivations behind the idea of not purchasing American products as a form of protest. I have thought about the potential effects of such actions and the personal and political significance involved, which indicates a serious level of consideration.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

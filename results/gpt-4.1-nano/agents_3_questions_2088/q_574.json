@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. c. Jobbik \u2014 Movement for a Better Hungary",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I do not hold a favorable opinion of Jobbik \u2014 Movement for a Better Hungary, as it has been associated with nationalist and extremist positions. Based on this, I would lean towards an unfavorable view. Therefore, I choose \"somewhat unfavorable\" as it suggests a mild disapproval without strong negativity.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Jobbik \u2014 Movement for a Better Hungary because while the party has made efforts to rebrand itself and distance from its earlier extremist reputation, it is still associated with nationalist and controversial policies that some consider divisive. Therefore, I would lean toward a somewhat unfavorable stance based on ongoing concerns about its political approach and history.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of Jobbik \u2014 Movement for a Better Hungary is somewhat unfavorable because, although it has historically been associated with nationalist and far-right policies, its recent efforts to reposition itself more moderates its image. However, some concerns about its past associations and policies still remain, leading to a cautiously unfavorable view. Therefore, I choose option C.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Jobbik \u2014 Movement for a Better Hungary because, although the party has attempted to reposition itself and reduce its extremist image, it still retains associations with nationalist and controversial policies that raise concerns for some members of the public. This cautious stance reflects ongoing doubts about its political direction and historical background.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the previous responses, both indicate a somewhat unfavorable opinion, citing concerns about nationalist associations and the group's historical reputation. While acknowledging some recent efforts to moderate its image, the overall perception remains cautious and somewhat negative. Therefore, I am inclined to align with this cautious stance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Jobbik \u2014 Movement for a Better Hungary. While the party has taken steps to rebrand itself and distance from its past extremist associations, concerns about its nationalist and controversial policies still linger. This indicates a mild disapproval rather than outright rejection, leading me to choose a somewhat unfavorable view.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize that Jobbik has historically been associated with nationalist and extremist views, which has influenced public perception. Although the party has made efforts at rebranding and moderating its image, concerns about its past and ongoing policies still cast a shadow over its reputation. Given these factors, I am inclined to assess my opinion as somewhat unfavorable, acknowledging some positive steps but remaining cautious about its overall stance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that while Jobbik has taken steps to rebrand and distance itself from its past extremism, lingering associations with nationalist and controversial policies still evoke some concerns. Given this nuanced position, I feel somewhat unfavorable about the party, acknowledging its efforts but remaining cautious. Therefore, my choice is based on a mild disapproval, aligning with the somewhat unfavorable sentiment expressed by others.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I recognize that Jobbik has historically been associated with nationalist and extremist positions, although in recent years it has attempted to rebrand and moderate its image. Despite these efforts, lingering concerns about its past and ideological ties contribute to a cautious or somewhat unfavorable perception among many people. Considering the responses and the context, I feel a somewhat unfavorable opinion best captures this assessment, balancing recognition of the party's attempts at change with ongoing reservations.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

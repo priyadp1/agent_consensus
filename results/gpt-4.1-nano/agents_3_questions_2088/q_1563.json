@@ -1,0 +1,62 @@
+{
+  "question": "What is most appealing to you about President Barack Obama, his personal qualities, his policies, both, or neither? ",
+  "options": [
+    "His personal qualities",
+    "His policies",
+    "Both",
+    "Neither"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I find President Barack Obama\u2019s personal qualities most appealing because of his calm demeanor, articulate communication, and ability to inspire hope and change. While I also appreciate some of his policies, it\u2019s his leadership style and character that resonate most strongly with me, making them the aspects I value the most.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I find Barack Obama's personal qualities most appealing, particularly his calm demeanor, eloquence, and ability to inspire hope. While I acknowledge his policy initiatives, it's his character and leadership style that resonate most with me. These qualities foster trust and commitment to progress, which I consider essential in a leader.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I find Barack Obama's personal qualities, such as his charisma, eloquence, and a sense of optimism, to be particularly appealing. These qualities contribute to a sense of hope and inspiration, which I believe are important in a leader. While his policies are also significant, I am most drawn to his demeanor and character, as they influence his approach to governance and connection with the public.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am most drawn to President Obama's personal qualities, such as his calm demeanor, eloquence, and ability to inspire hope. These traits foster trust and resonate deeply with my view of effective leadership. While his policies are important, I find his character and leadership style more compelling in shaping my positive perception of him.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I find President Barack Obama's personal qualities most appealing because of his calm demeanor, eloquence, and ability to inspire hope. These traits foster trust and a sense of connection, which I value highly in a leader. While I acknowledge the importance of his policies, it is his character and demeanor that resonate most with me and influence my overall impression of his leadership.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I appreciate President Obama\u2019s leadership qualities, such as his calm demeanor, eloquence, and ability to inspire hope, which demonstrate strong personal virtues that I find most appealing. While his policies are important, his character and personal qualities have a more lasting and emotional impact for me, shaping my overall perception of his leadership. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I find President Barack Obama's personal qualities most appealing because they create a sense of trust and inspire hope, which resonate deeply with me. His demeanor and ability to connect on a human level are what stand out the most, even when considering his policies. Personal qualities often have a lasting emotional impact that shapes my overall perception of his leadership.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I find President Obama's personal qualities most appealing because his calm demeanor, eloquence, and ability to inspire hope foster trust and create a positive emotional connection. While his policies are significant, I personally resonate more with his character and leadership style, which influence my overall perception of him.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I find President Obama's personal qualities most appealing because his demeanor, eloquence, and ability to inspire hope create a connection and foster trust. While his policies are significant, it is his character and leadership style that leave a lasting impression on me and influence how I view his overall leadership. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

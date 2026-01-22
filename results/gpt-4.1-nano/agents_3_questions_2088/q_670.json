@@ -1,0 +1,62 @@
+{
+  "question": "In general, do you think territorial disputes between your country and China are a very big problem, a big problem, a small problem, or not a problem for your country? ",
+  "options": [
+    "Very big problem",
+    "Big problem",
+    "Small problem",
+    "Not a problem"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My perception of the territorial disputes between my country and China depends on the specific context and recent developments. If these disputes threaten national sovereignty, security, or economic stability significantly, I might consider them a very big problem. If they are ongoing but manageable without major implications, they could be viewed as a big or small problem. However, if the disputes are largely resolved or do not affect daily life or national interests noticeably, I might see them as not a problem at all. Generally, unless the disputes have proven to be highly disruptive or contentious recently, I would lean toward considering them a manageable issue rather than a major crisis.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My view on this issue depends on the specific context and recent developments, but generally, territorial disputes with China tend to be considered a significant concern due to geopolitical tensions, economic implications, and national sovereignty issues. Such disputes often attract considerable attention from policymakers and the public, reflecting their importance in national security and stability. Therefore, I believe they are likely viewed as a big problem in many countries that have ongoing territorial disagreements with China.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perception of the territorial disputes between my country and China depends on the specific region and current geopolitical climate. In some areas, the disputes are a significant source of tension and could impact stability or economic relations, making them a very big problem. In other cases, they might be managed diplomatically or be of limited immediate concern, so they are seen as a smaller problem or not a problem at all. Overall, given the potential for escalation and broader implications, I tend to believe these disputes are at least a big problem but not necessarily the very biggest concern for my country. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that territorial disputes between my country and China are a significant concern due to their potential impact on national security, regional stability, and diplomatic relations. Although the severity may vary depending on the specific context or recent developments, I consider them a substantial issue that warrants attention from policymakers and the public. Therefore, I view these disputes as a big problem overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the varying perceptions expressed, I believe that the territorial disputes between my country and China pose a significant challenge but are not necessarily the most critical issue at the moment. They have the potential to escalate and impact national security and economic stability, which makes them a noteworthy concern. However, unless recent developments suggest an immediate threat, I would categorize them as a big problem rather than very big or not a problem. Therefore, I think they are a substantial but manageable issue currently.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the various perspectives, it seems that territorial disputes with China are viewed differently depending on context and national circumstances. Given that they often generate significant geopolitical tensions and can impact national security, many see them as a substantial issue. However, if the disputes are relatively contained or not affecting daily life, they might be considered less problematic. Overall, I believe they tend to be a concern of notable importance but not necessarily a crisis for most countries. Therefore, I see them as a big problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that territorial disputes with China are a significant concern due to their potential to escalate and affect national security and economic stability. While they might not be the most urgent or critical issue at the moment, they still pose notable challenges that require careful attention and management. Given this context, I would categorize them as a big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that territorial disputes with China pose a significant challenge to my country, as they can influence national security, diplomatic relations, and regional stability. These issues often generate geopolitical tensions that require careful attention from policymakers, and although they may not cause immediate crises, their long-term implications can be serious. Therefore, I consider them a big problem overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives shared, it appears that territorial disputes with China are viewed as a significant challenge that can affect national security and regional stability. While they may not always be seen as the most urgent issue, they nonetheless represent a noteworthy concern requiring attention. Based on this understanding, I believe these disputes are a big problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

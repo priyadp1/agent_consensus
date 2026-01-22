@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...North Korea",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of North Korea due to its ongoing human rights abuses, nuclear threats, and authoritarian government. These factors lead me to view it very unfavorably.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of North Korea due to its history of human rights abuses, nuclear threats, and authoritarian governance. These issues lead me to see the country negatively overall, reflecting a lack of trust and concern about its policies and actions on the global stage.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of North Korea due to its history of nuclear threats, human rights abuses, and lack of diplomatic transparency. My perception is shaped by international reports and news coverage that highlight the regime's oppressive policies and aggressive stance. Given these considerations, I lean towards the most unfavorable opinion. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of North Korea because of its persistent human rights abuses, nuclear threats, and aggressive stance towards other countries. These issues contribute to a negative perception of the regime and its policies, leading me to hold a very unfavorable view overall.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I hold a very unfavorable opinion of North Korea because of its ongoing human rights abuses, nuclear threats, and authoritarian government. These factors consistently shape global perceptions and justify viewing the regime very unfavorably. Therefore, my answer aligns with the previous respondents who chose the most negative option.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of North Korea due to its ongoing human rights abuses, nuclear threats, and authoritarian government. These issues lead me to view it very unfavorably.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of North Korea because of its human rights abuses, nuclear threats, and authoritarian government. These issues heavily influence global perceptions and lead me to view the regime very negatively. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of North Korea because it is known for human rights abuses, nuclear threats, and an authoritarian government, all of which contribute to a negative perception.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "My perception of North Korea remains very unfavorable due to its ongoing human rights violations, nuclear threats, and authoritarian governance. These serious concerns overshadow any other factors, leading me to hold a very unfavorable opinion overall.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

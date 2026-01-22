@@ -1,0 +1,62 @@
+{
+  "question": "Do you think Russia plays a more important role in the world today compared to 10 years ago, a less important role or about as important a role in the world as it did 10 years ago?",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Over the past decade, Russia's global influence has experienced significant shifts. While it has maintained strategic importance, recent years have seen increased tensions with Western countries, especially following conflicts and sanctions. Its role in regional conflicts, cybersecurity, and energy markets has grown, impacting global geopolitics. However, it hasn't necessarily become more influential overall compared to 10 years ago, given the mixed assessments of its power and influence. Therefore, it seems that Russia's importance on the world stage remains roughly consistent with a decade ago, despite some fluctuations.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Russia's role in the world has evolved significantly over the past decade. Ten years ago, Russia was primarily seen as a regional power with limited global influence, but in recent years, its actions\u2014such as interventions in Ukraine, Syria, and efforts to project military strength\u2014have increased its prominence on the global stage. These developments suggest that Russia now exerts a more influential role in international affairs than it did a decade ago. Therefore, I believe it plays a more important role today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In the past decade, Russia has actively expanded its influence through military interventions, political alliances, and economic strategies, making its role more prominent on the global stage. Its involvement in conflicts such as in Ukraine, Syria, and its assertive foreign policy moves suggest that Russia's significance in global affairs has increased. While some may argue that other powers like China and the US remain dominant, Russia's actions indicate it plays a more influential role now than it did ten years ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Russia plays a more important role in the world today compared to 10 years ago. Over the past decade, Russia has taken assertive actions such as military interventions in Ukraine and Syria, increased influence in global politics, and efforts to reshape international alignments. These developments have elevated Russia's prominence and impact on world affairs, leading me to conclude that it now has a more significant role than it did a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the recent developments and various assessments, Russia's role in global affairs seems to be more prominent than 10 years ago due to its active military interventions, assertive foreign policy, and strategic influence in regional conflicts. While some may see conflicting signals about its overall influence, the evidence of its increased assertiveness suggests that its importance has grown. Therefore, I believe Russia plays a more important role today than it did a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Russia's role in the world has become more prominent over the past decade, especially considering its military interventions, strategic moves in the energy sector, and actions that have challenged Western influence. These developments suggest that Russia has increased its influence globally rather than remaining static or declining. Therefore, I choose the option that reflects an increased importance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Russia's role in global affairs has increased over the past decade, as evidenced by its military interventions, strategic actions in regional conflicts, and efforts to assert influence on the world stage. Given these developments, it seems that Russia plays a more important role today than it did 10 years ago. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Russia plays a more important role in the world today compared to 10 years ago. Over the past decade, Russia has increased its military interventions, such as in Ukraine and Syria, and has taken strategic actions to expand its influence in global affairs. These moves suggest that Russia's role has grown in prominence and impact on the international stage, making it more significant now than a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Russia plays a more important role in the world today compared to 10 years ago. Over the past decade, Russia has demonstrated increased assertiveness through military interventions in Ukraine and Syria, expanded its influence in global politics, and challenged or reshaped international alignments. These actions suggest that Russia has gained relevance and influence on the world stage, making its role more significant now than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

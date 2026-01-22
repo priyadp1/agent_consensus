@@ -1,0 +1,62 @@
+{
+  "question": "In general, do you strongly support, somewhat support, somewhat oppose, or strongly oppose the anti-government protests, such as those in Gezi Park?",
+  "options": [
+    "Strongly support",
+    "Somewhat support",
+    "Somewhat oppose",
+    "Strongly oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that protests, especially those related to government policies or environmental concerns like those at Gezi Park, are important forms of civic expression. They reflect people's desire for change and hold governments accountable. Supporting such movements can be seen as supporting democratic engagement and the rights of citizens to voice their opinions. Therefore, I lean toward somewhat support, recognizing the importance of peaceful protest while also considering possible complexities involved. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that the protests at Gezi Park involved a wide range of public opinions, with some supporting demands for environmental preservation and social justice, while others viewed the protests as disruptive or opposing government stability. My perspective leans toward understanding the complexities of such movements but overall, I do not fully support protests that can lead to unrest and damage to public property. Therefore, I lean toward some opposition, although I acknowledge the legitimacy of certain grievances raised.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I do not support violent or disruptive protests that undermine social stability and public safety. While advocacy for change can be important, I believe such actions should be pursued through lawful and constructive means rather than through protests that may cause chaos or harm. Therefore, I lean toward opposing these protests.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize that protests like those in Gezi Park often stem from legitimate social issues and grievances, but I am concerned about the potential for such protests to turn disruptive or cause unrest. While I understand and acknowledge some of the motivations behind these demonstrations, I believe that peaceful and lawful methods should be prioritized to address concerns. Given the possible negative impacts associated with some protests, I lean toward opposing them, especially when they threaten social stability. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that protests like those in Gezi Park represent a form of civic expression that can promote democratic engagement and serve as a voice for citizens seeking change. While I acknowledge concerns about violence or disruption, I believe peaceful protests are an essential part of a healthy democracy. Therefore, I lean toward supporting such protests, appreciating their role in raising awareness and advocating for social or political issues. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that while protests like those at Gezi Park are an important expression of civic rights and democratic engagement, they can also create disturbances and conflicts that may hinder social stability. Given the importance of peaceful advocacy and the potential negative consequences of unrest, I lean toward somewhat oppose, recognizing the legitimacy of addressing grievances but remaining cautious about the methods used.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that peaceful protests, like those in Gezi Park, are vital expressions of democratic rights and can help bring attention to important social issues. While acknowledging potential disruptions, I think their overall value in promoting civic engagement outweighs the negatives, as long as they remain peaceful. Therefore, I lean toward somewhat support.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that protests like those in Gezi Park are expressions of civic rights and democratic engagement, which are important for societal progress. However, I also understand that such protests can sometimes lead to disturbances and unrest that threaten social stability. While peaceful advocacy is essential, the potential negative impacts of unrest suggest a cautious stance. Therefore, I lean toward somewhat oppose, acknowledging the legitimacy of grievances but emphasizing the importance of peaceful and lawful methods.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that peaceful protests, like those in Gezi Park, are important for democratic expression and social awareness. While acknowledging the concerns about potential unrest, I support the right of citizens to peacefully protest and voice their grievances, as long as the protests remain lawful and non-violent. Therefore, I lean toward somewhat support. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

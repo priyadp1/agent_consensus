@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of things that you can and cannot do in some countries, please tell me how important each is to you.  How important is it to you to live in a country where law and order is maintained ?  Is it very important, somewhat important, not too important or not important at all? ",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental to ensuring safety, stability, and the effective functioning of a society. Without it, daily life can become unpredictable and risky, which can severely impact personal well-being and quality of life. Therefore, it is very important to me to live in a country where law and order are maintained, as it provides a secure environment in which individuals can thrive and feel protected.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe maintaining law and order is fundamental for a stable and safe society. It ensures that people can go about their daily lives without fear of violence or chaos, supports economic growth, and preserves social harmony. Without a functioning legal system, basic rights and safety of citizens can be compromised, which makes it highly important to me to live in a country where law and order is maintained.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental for ensuring safety, stability, and the smooth functioning of society. Living in a country where laws are enforced and order is upheld allows individuals to feel secure, pursue their daily activities without fear, and trust that justice will be served. Without such stability, daily life can become uncertain and chaotic, potentially impacting personal well-being and economic development. Therefore, I consider it very important to live in a country where law and order is maintained.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that living in a country where law and order is maintained is crucial for my safety, stability, and overall well-being. Society functions most effectively when laws are enforced consistently, allowing individuals to go about their daily lives without fear of violence or chaos. This stability not only promotes personal security but also supports social harmony and economic growth. Therefore, it is very important to me to live in such a country.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having a maintained system of law and order is crucial for my personal safety, societal stability, and overall well-being. When laws are enforced consistently, it creates a secure environment where I can focus on my daily life without excessive fear or uncertainty. This foundation also supports economic activity and social trust, which are important for a healthy community. Therefore, it is very important for me to live in a country where law and order is maintained.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Living in a country where law and order are maintained is very important to me because it ensures safety, stability, and protection for all citizens. When laws are enforced properly, it fosters an environment where individuals can live without fear, pursue opportunities, and enjoy a sense of security. Without law and order, chaos and violence could disrupt daily life and hinder personal well-being. Therefore, I believe maintaining law and order is essential for a healthy society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that living in a country with maintained law and order is very important because it directly impacts my safety, personal freedom, and overall quality of life. A secure environment allows individuals to pursue their goals without constant fear of violence or chaos, and it helps foster trust within society. When laws are enforced effectively, it creates stability that benefits everyone and promotes social and economic development. For these reasons, I see it as a top priority for a healthy and functioning society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe maintaining law and order is fundamental for a safe, stable, and functional society. It allows individuals to live without fear and supports economic and social stability. Given these reasons, it is very important to me to live in a country where law and order is maintained.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Maintaining law and order is fundamental to my sense of security and daily well-being. A country with strong legal enforcement allows me to live without fear of violence or chaos, and it fosters a stable environment for communities to grow and thrive. I believe that without such order, social harmony and economic progress would be difficult to sustain. For these reasons, I consider it very important to live in a country where law and order is maintained.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

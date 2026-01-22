@@ -1,0 +1,60 @@
+{
+  "question": "All things considered, do you think that Muslim nations should be more economically prosperous than they are today, or don't you think so?",
+  "options": [
+    "Yes, should be more prosperous",
+    "No, should not be more prosperous"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because increased prosperity can lead to improved living standards, greater educational opportunities, and enhanced social stability. Economic growth can also help these nations better address issues such as poverty, healthcare, and infrastructure, ultimately benefiting their citizens and enabling them to contribute more significantly to the global economy. Promoting economic prosperity is a positive step toward overall development and improving the quality of life for the populations of these nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should strive for greater economic prosperity because economic development can lead to improved living standards, increased opportunities, and greater stability within these countries. Prosperity can also enable these nations to better serve their populations, invest in education and infrastructure, and contribute positively to the global community. However, this should be pursued ethically and sustainably, ensuring that growth benefits all citizens equally. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because increased prosperity can lead to improved living standards, better education, healthcare, and overall stability within these countries. Economic growth can also enable them to contribute more significantly to global development and foster social harmony. Addressing economic challenges and promoting sustainable development should be a priority for these nations to ensure a better future for their populations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because economic development can improve living standards, create opportunities, and promote stability. Prosperity can help these countries provide better education, healthcare, and infrastructure, ultimately benefiting their populations and enabling active contributions to the global community. Sustainable and ethical growth should be a priority to ensure that prosperity benefits everyone fairly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because increased prosperity can lead to improved living standards, better access to education and healthcare, and greater social stability. Economic growth can help address issues such as poverty and infrastructure deficits, ultimately benefiting both their citizens and their contributions to the global community. Promoting economic development is essential for ensuring a better quality of life and long-term stability in these countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because increased prosperity can lead to improved living standards, greater access to education and healthcare, and overall social stability. Economic growth can help these countries address challenges such as poverty and infrastructure deficits, enabling their populations to thrive and contribute more effectively to the global community. Promoting sustainable and inclusive development is essential for long-term progress and societal well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because increased prosperity can lead to improved living standards, better access to education and healthcare, and greater social stability. Economic growth can help address issues such as poverty and infrastructure deficits, ultimately benefiting their citizens and their contributions to the global community. Promoting sustainable and inclusive development is essential for long-term progress and societal well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because increased prosperity can lead to numerous positive outcomes, such as higher living standards, better access to education and healthcare, and strengthened social stability. Economic growth can also help address issues like poverty and infrastructure deficits, allowing populations to thrive and contribute meaningfully to the global community. Ensuring sustainable and inclusive development is essential for achieving long-term societal progress and ensuring that prosperity benefits everyone fairly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Muslim nations should be more economically prosperous because increased prosperity can lead to improved living standards, better access to education and healthcare, and greater social stability. Economic development can help address issues such as poverty and infrastructure deficits, ultimately benefiting both their citizens and their contributions to the global community. Promoting economic growth is essential for ensuring a better quality of life and long-term stability in these countries.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

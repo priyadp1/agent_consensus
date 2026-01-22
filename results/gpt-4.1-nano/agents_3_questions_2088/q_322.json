@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...Islamic Jihad",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I do not have personal opinions, but I understand that Islamic Jihad is a Palestinian militant organization considered a terrorist group by many countries. Public opinion towards such organizations often varies widely depending on regional, political, and cultural perspectives. Given the controversial and often negative perception associated with militant groups involved in violent conflicts, many people tend to view them unfavorably. However, some individuals or groups sympathetic to their cause may hold more favorable views. Based on general global perceptions and the contentious nature of the organization, the most common stance is likely to be unfavorable.\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I do not hold favorable opinions of Islamic Jihad as it is considered a militant organization involved in conflicts and acts that have caused harm and instability. This leads to an unfavorable viewpoint based on concerns about violence and the impact on peace and security. Therefore, I would choose very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I do not support or have a favorable opinion of Islamic Jihad due to its involvement in violent activities and conflicts that have led to loss of life and instability. My perspective is that of concern for peace and stability in the region. Therefore, I hold a very unfavorable opinion. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that Islamic Jihad is a militant organization involved in violent conflicts and activities that result in harm and instability in the region. Given its association with violence and threats to peace and security, I hold a very unfavorable opinion. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Considering the general global perceptions, the controversial and violent history associated with Islamic Jihad, and the tendency for many to view such militant organizations unfavorably, I believe the most appropriate response reflects a very unfavorable opinion. While acknowledging that some individuals or groups might hold different views, the predominant and widely accepted perspective is one of strong disapproval due to their involvement in violence and conflict.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Based on the information provided and considering the general global perception of Islamic Jihad as a militant organization involved in violent conflicts, most people tend to view it unfavorably. Given that, and the previous responses leaning towards negative opinions, my answer aligns with that common perspective. While some individuals may hold more favorable views, the prevailing perception is unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the widespread perception of Islamic Jihad as a militant group involved in violent activities and the general tendency for such organizations to be viewed negatively by the international community, I believe most people hold an unfavorable opinion of them. This perception is reinforced by concerns over violence and associated conflicts, leading to a consensus of disapproval.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the information provided and the general global perception of Islamic Jihad as a militant organization involved in violent conflicts and activities that threaten peace and security, my opinion aligns with an unfavorable view. The consensus among respondents also suggests that most people tend to hold a very unfavorable opinion due to its association with violence. Therefore, I would select very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the association of Islamic Jihad with violent activities and the widespread perception of such organizations as threats to peace and security, my opinion aligns with a very unfavorable view. The organization's involvement in conflicts and violence significantly influences this perspective, reflecting a majority global sentiment that views them negatively. \n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

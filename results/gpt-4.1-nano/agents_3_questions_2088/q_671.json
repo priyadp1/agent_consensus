@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...South Korea",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of South Korea. I appreciate its rich cultural heritage, technological advancement, and strong economic development. South Korea also plays an influential role in regional and global affairs, and I admire its innovation in sectors like technology and entertainment. Overall, my view is very positive based on these factors.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of South Korea due to its strong economic development, technological innovations, vibrant culture, and contributions to global entertainment such as K-pop and Korean dramas. These factors contribute positively to my overall perception of the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of South Korea because of its impressive economic development, technological advancements, and rich cultural influence worldwide. The country has demonstrated leadership in innovation and has a vibrant cultural scene that positively impacts global perceptions. Therefore, I am quite optimistic about South Korea's contributions and role on the international stage. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the positive sentiments expressed in the previous responses, emphasizing South Korea's economic development, technological progress, and cultural influence, it is clear that my opinion aligns with a very favorable view. These factors contribute to a strong, positive perception of the country\u2019s global contributions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of South Korea due to its impressive economic growth, technological innovations, and rich cultural influence, which contribute positively to its global reputation. I admire its advances in technology and entertainment industries, as well as its significant role in regional and international affairs. These factors lead me to hold a very positive view of the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My positive perception of South Korea is rooted in its impressive economic growth, technological innovation, vibrant culture, and global influence through entertainment like K-pop and Korean dramas. These factors contribute to a very favorable opinion of the country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I hold a very favorable opinion of South Korea because of its remarkable economic progress, technological advancements, vibrant cultural scene, and global influence through entertainment. These factors make me view the country positively and support its contributions to the world.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the positive sentiments expressed earlier regarding South Korea\u2019s economic achievements, technological advancements, and cultural influence, I feel similarly that my opinion is very favorable. These factors strongly contribute to a positive perception of South Korea\u2019s global role and its impact worldwide.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of South Korea because of its remarkable progress in technology and innovation, vibrant cultural exports like K-pop and Korean cinema, and its strong economy. These factors contribute to a positive global reputation and demonstrate its importance on the world stage.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

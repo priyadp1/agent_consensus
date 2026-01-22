@@ -1,0 +1,62 @@
+{
+  "question": "I'd like to ask your opinion about some international issues.  Please tell me how concerned you are, if at all, about each of them - are you very concerned, somewhat concerned, not too concerned or not at all concerned?...cyberattacks on governments, banks or corporations ",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Cyberattacks on governments, banks, and corporations are increasingly frequent and sophisticated, posing serious threats to national security, economic stability, and personal privacy. Given their potential to cause widespread disruption and harm, it is important to be quite concerned about these threats. While some individuals may feel less affected or powerless to prevent such attacks, the overall risk justifies a high level of concern for most people who are aware of these issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe cyberattacks on governments, banks, or corporations are a significant threat because they can disrupt essential services, compromise sensitive data, and undermine public trust. Given the increasing frequency and sophistication of such attacks, I am quite concerned about the potential consequences and the need for robust cybersecurity measures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am quite concerned about cyberattacks on governments, banks, and corporations because such threats can compromise national security, disrupt financial systems, and endanger personal data. The increasing sophistication of cybercriminals and state-sponsored hackers makes it important to stay vigilant and prepared to mitigate these risks. Therefore, I consider myself very concerned about this issue.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe cyberattacks on governments, banks, and corporations pose a serious and growing threat due to their potential to disrupt essential infrastructure, compromise sensitive data, and impact national security. The increasing frequency and sophistication of these attacks make me quite concerned about their consequences and the importance of strengthening cybersecurity measures. Therefore, I am very concerned about this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the increasing frequency and sophistication of cyberattacks on critical institutions, and the significant threats they pose to security, economy, and personal privacy, it\u2019s understandable to be quite concerned about this issue. The potential for widespread disruption and harm makes it a pressing concern that warrants a high level of awareness and vigilance. Therefore, I am very concerned about cyberattacks on governments, banks, and corporations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Cyberattacks on governments, banks, and corporations are a major concern because they threaten security, economic stability, and individual privacy. The increasing sophistication and frequency of these attacks make them a pressing issue that can cause widespread harm and disruption. Recognizing the significant risks involved, I believe it is important to be very concerned about this issue to stay alert and advocate for stronger cybersecurity measures.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given the increasing frequency and sophistication of cyberattacks targeting critical institutions such as governments, banks, and corporations, and their potential to cause significant disruption to security, economic stability, and personal privacy, it is realistic to feel quite concerned about this issue. The potential for widespread harm and the importance of vigilance suggest that a high level of concern is justified. Therefore, I believe I am very concerned about this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the significant potential risks and increasing sophistication of cyberattacks on critical institutions like governments, banks, and corporations, I believe it is important to be highly vigilant and proactive in addressing this threat. The impact of such attacks can be devastating, affecting national security, economic stability, and privacy. Consequently, I am very concerned about this issue.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Cyberattacks on governments, banks, and corporations can cause widespread disruption, threaten national security, and compromise sensitive information. Given their increasing sophistication and the potential for significant economic and societal damage, it is understandable to feel very concerned about this issue. Staying vigilant and supporting robust cybersecurity measures are crucial in addressing these threats. Therefore, I am very concerned about cyberattacks on governments, banks, and corporations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

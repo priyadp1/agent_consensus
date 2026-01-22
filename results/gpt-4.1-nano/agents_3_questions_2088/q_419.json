@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me how worried you are about each of the following issues related to Muslims living in your country...the influence of music, movies and television on Muslim youth...Are you very worried, somewhat worried, not too worried, or not at all worried about the influence of music, movies and television on Muslim youth?",
+  "options": [
+    "Very worried",
+    "Somewhat worried",
+    "Not too worried",
+    "Not at all worried"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that music, movies, and television are powerful cultural influences that can shape youth's perceptions and behaviors. While these media forms can offer positive representation and cultural exchange, they can also sometimes perpetuate stereotypes or promote values that might be at odds with traditional or community standards. Given this, I feel a moderate level of concern, recognizing both their potential benefits and risks, but also understanding that these influences are widespread and complex. Therefore, I am somewhat worried about their impact on Muslim youth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about the influence of music, movies, and television on Muslim youth because these cultural elements can significantly shape young people's perceptions and behaviors. While I recognize that such influences can be both positive and negative, I believe there is a potential for exposure to certain media to impact their understanding of religion, identity, and social values. It is important to monitor and guide media consumption to ensure it aligns with positive community and religious norms. Therefore, I feel some concern but not to the extent of being very worried.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about the influence of music, movies, and television on Muslim youth because media can significantly shape perceptions, attitudes, and behaviors. While I recognize the importance of cultural and religious values, I also believe that these forms of entertainment can have both positive and negative impacts, thus warranting some concern without excessive alarm.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while media such as music, movies, and television can influence Muslim youth, I am somewhat worried but not to a significant extent. I recognize that these entertainment forms can impact perceptions and behaviors, but I also understand that most media consumption is balanced and that communities can guide these influences positively. Therefore, I choose to be cautious but not overly alarmed about their influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that media such as music, movies, and television can have a significant influence on youth, shaping perceptions, attitudes, and behaviors. While these forms of entertainment can promote positive cultural exchange and representation, they may also sometimes perpetuate stereotypes or introduce values that conflict with traditional or community standards. Given this nuanced impact, I feel somewhat worried about their influence on Muslim youth, as I recognize both potential benefits and risks involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that music, movies, and television are influential cultural forces that can shape youth perceptions and identities. While these media offer positive opportunities for cultural exchange and representation, they also have the potential to perpetuate stereotypes or introduce values that may conflict with traditional community standards. Given the mixed potential for both positive and negative impacts, I am somewhat worried about their influence on Muslim youth, as it is important to monitor and guide media consumption to foster understanding and uphold community values.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that media such as music, movies, and television can have a powerful influence on youth, shaping their perceptions and attitudes. While these forms of entertainment can promote positive cultural exchange and representation, they can also lead to the perpetuation of stereotypes or introduce conflicting values. Given this balanced perspective, I am somewhat worried about their influence on Muslim youth, as I think it is important to remain vigilant and ensure media consumption aligns with community values.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that media like music, movies, and television can influence Muslim youth by shaping perceptions and cultural identity. While I see the positive potential for representation and engagement, I also understand the risks of stereotyping or conflicting values being introduced through entertainment. Since these influences can have both beneficial and detrimental effects, I am somewhat worried about their impact and believe it's important to carefully monitor and guide media consumption to support healthy development and community cohesion. Therefore, I choose to be somewhat worried but not overly concerned.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that media such as music, movies, and television can influence Muslim youth, shaping perceptions and attitudes. While these forms of entertainment have the potential to promote positive cultural exchange and representation, they can also sometimes perpetuate stereotypes or introduce values that may conflict with traditional or community standards. Given this nuanced impact, I feel somewhat worried about their influence on Muslim youth, as I recognize both benefits and risks involved.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

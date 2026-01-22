@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...Pakistani President Pervez Musharraf",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Pervez Musharraf's leadership during his time in Pakistan was marked by a focus on internal stability and military influence. While he engaged in some international relations, his tenure was also characterized by political controversy and questions about democratic processes. Given these complexities, my confidence in his ability to consistently act in the best interest of global affairs is moderate. I believe he might prioritize national interests, but his decisions could sometimes be influenced by internal political considerations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Pervez Musharraf, during his tenure as Pakistan's leader, was known for his military background and focus on national security issues. His policies often reflected a pragmatic approach to security and regional stability, though they were sometimes viewed with skepticism internationally, especially regarding democracy and human rights. Since his departure from power, perceptions of his leadership have been mixed, and concerns about political motives and stability have persisted. Given this context, my confidence in his ability to effectively handle world affairs is moderate; he has shown capability but also significant limitations and controversies that could impact his judgment on the global stage.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Pervez Musharraf, during his tenure, was known for his complex and often controversial foreign policies, especially relating to India, the United States, and neighboring Afghanistan. While he demonstrated some strategic engagement and efforts to maintain stability, his governance was also marked by internal political turmoil and questions about consistency in policymaking. Given this, my confidence in his ability to consistently do the right thing regarding world affairs would likely be moderate. I would say I have some confidence, acknowledging his attempt to navigate international issues but recognizing the limitations and uncertainties associated with his leadership.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given Pervez Musharraf's mixed record of military leadership, pragmatic security policies, and internal political controversies, I recognize that he has demonstrated some capacity to manage international relations but also had limitations and contested actions that could undermine full trust. Therefore, I would place confidence at a moderate level, acknowledging both his efforts and the challenges he faced.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given Pervez Musharraf's complex tenure, marked by internal political issues and some international engagement, I believe his ability to consistently act in the best interest of global affairs is uncertain. While he may have had strategies and efforts to engage with world leaders, the controversies and internal turmoil suggest that his decisions might not always prioritize wider global considerations. Therefore, I would choose some confidence as his overall international leadership showed both engagement and inconsistency.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering Pervez Musharraf's background as a military leader and his attempts at engaging with international issues, I believe he demonstrated some capacity to handle global affairs, though his actions were often influenced by internal political considerations and controversy. His pragmatic approach suggests a moderate level of confidence but with notable limitations. Therefore, I am somewhat confident in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given Pervez Musharraf's tenure, which was characterized by a mix of military authority and political controversy, as well as his engagement with international issues, I believe his ability to consistently act in the best interest of global affairs was limited and uncertain. His policies often appeared influenced by internal political pressures and strategic considerations rather than a clear commitment to global good. Therefore, I would choose not too much confidence.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given Pervez Musharraf's history as a military leader who made efforts to engage internationally but also faced internal political controversies and limitations, I believe that while he showed some capacity for handling world affairs, his actions were often influenced by internal factors and did not consistently inspire full confidence. Therefore, I would select the middle-ground option reflecting moderate confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering Musharraf's tenure, he demonstrated both efforts at international engagement and some internal political and military controversies. While he took steps to participate in global affairs, his internal challenges and mixed record make it difficult to have complete trust in his consistent judgment on world issues. Therefore, I believe a moderate level of confidence best reflects his overall record.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

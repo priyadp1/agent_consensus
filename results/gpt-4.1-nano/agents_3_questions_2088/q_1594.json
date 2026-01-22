@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____? c. Henrique Capriles Radonski",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Henrique Capriles Radonski is a prominent Venezuelan politician who has been a leading figure in opposition to the current government for many years. People's opinions about him tend to vary based on their political views and perspectives on Venezuelan politics. Those who support democratic reforms and opposition movements may view him favorably, while supporters of the current government or those critical of his policies may view him unfavorably. Given this context, I would place my opinion as somewhat favorable, recognizing his importance in Venezuelan politics but acknowledging that opinions are divided.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "E",
+        "raw_output": "I do not have personal opinions or feelings, but Henrique Capriles Radonski is a prominent Venezuelan politician known for his opposition to the current government. Public opinion about him varies widely, with some viewing him favorably due to his political stance and leadership, while others may view him unfavorably depending on their political perspectives. Given this, I cannot choose a specific option on personal grounds, but I acknowledge that public sentiment can be diverse.\n\nANSWER: E",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Henrique Capriles Radonski is a well-known Venezuelan politician, recognized for his leadership and moderate opposition stance. Based on general public opinion trends, many people view him favorably because he has been a prominent figure advocating for democratic change, although opinions may vary depending on political alignment. Considering this, I lean toward a somewhat favorable opinion, reflecting respect for his role without necessarily indicating strong admiration. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering Henrique Capriles Radonski's prominent role as a Venezuelan opposition leader known for advocating democratic change, public opinion about him tends to be generally respectful or favorable among those who support democratic reforms. However, views can differ widely depending on political perspectives, with some viewing him skeptically or unfavorably. Given the information and the tendency for a positive outlook among supporters of democratic opposition figures, I believe a somewhat favorable opinion accurately reflects the general sentiment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Henrique Capriles Radonski because he is recognized as a moderate opposition leader advocating for democratic reforms in Venezuela. While I appreciate his efforts and leadership, my opinion is cautious, reflecting respect without strong admiration. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Henrique Capriles Radonski because I recognize his significance as an opposition leader in Venezuela and value his democratic stance, though I am aware that opinions about him are divided among different groups.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Henrique Capriles Radonski because I acknowledge his role as a prominent opposition leader advocating for democratic principles in Venezuela. While I respect his efforts to promote change, I remain cautious about full admiration due to ongoing political tensions and differing public perceptions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize Henrique Capriles Radonski as a prominent Venezuelan opposition leader who has consistently advocated for democratic reforms and political change. His role in Venezuelan politics has garnered support from those who favor democratic principles, but opinions about him are diverse across different segments of the population. Based on the provided context and the general sentiment among supporters of democratic opposition figures, my view aligns with a somewhat favorable opinion. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Henrique Capriles Radonski because he is recognized as a moderate opposition leader advocating for democratic reforms in Venezuela. While I appreciate his efforts and leadership, my opinion is cautious, reflecting respect without strong admiration.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "How much, if anything, have you heard about...Territorial disputes between China and neighboring countries? A lot, a little or nothing at all?",
+  "options": [
+    "A lot",
+    "A little",
+    "Nothing at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have some general awareness of the territorial disputes involving China and neighboring countries, especially because these issues are often covered in international news and political discussions. While I may not have in-depth knowledge of all the details, I have heard about these disputes to a certain extent. Therefore, I would select option A based on my familiarity with the topic.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have heard about territorial disputes between China and neighboring countries, mostly through news reports and discussions on international affairs. While I am aware of some ongoing issues, my knowledge is not very detailed. Therefore, I would say I have heard a little about these disputes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a general awareness of territorial disputes involving China and its neighboring countries, as these issues are often covered in international news and political discussions. However, my knowledge is not in-depth, so I would say I have heard a little about these disputes. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have heard about territorial disputes between China and neighboring countries mainly through news and media coverage. My knowledge of the specifics is limited; I am somewhat aware of ongoing tensions but do not have detailed understanding. Therefore, I would categorize my awareness as a little.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a general awareness of the territorial disputes between China and its neighboring countries, mostly because these issues are frequently covered in international news and discussions about regional geopolitics. While I do not possess detailed knowledge, I am familiar enough with the topic to say I have heard about these disputes to some extent. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have heard about territorial disputes between China and neighboring countries, primarily through international news and media coverage. While I am aware of the general issues involved, I do not possess detailed knowledge about the specifics of these disputes. Based on this, I would classify my familiarity as limited but present. Therefore, I would select option B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have heard about the territorial disputes between China and neighboring countries. The topic is often discussed in news and media, but I do not possess detailed knowledge of the specifics. My understanding is limited but present, making me somewhat familiar with the general issues involved. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have heard about territorial disputes between China and neighboring countries through news and media coverage. My understanding of these issues is limited, and I do not have detailed knowledge about the specifics. Considering my level of awareness, I would choose the \"a little\" option. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have heard about the territorial disputes between China and neighboring countries mainly through news and media coverage. My knowledge of the specifics is limited; I am somewhat aware of ongoing tensions but do not have detailed understanding. Therefore, I would categorize my awareness as a little.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

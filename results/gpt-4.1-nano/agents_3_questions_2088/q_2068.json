@@ -1,0 +1,63 @@
+{
+  "question": "How have your perceptions about social welfare changed from the experience of Hurricane Maria?",
+  "options": [
+    "A lot",
+    "Fairly",
+    "Little",
+    "Nothing",
+    "No answer"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Experiencing Hurricane Maria deeply affected my perspective on social welfare. Before the hurricane, I had a basic awareness of the importance of social support systems, but witnessing the struggles of those affected and the response from various agencies made me realize how critical and sometimes insufficient these services are. The disaster highlighted the gaps in emergency preparedness and support networks, leading me to believe that social welfare plays an even more vital role in communities' resilience and recovery. This experience has made me more empathetic and supportive of policies aimed at strengthening social safety nets.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My perceptions about social welfare have changed significantly due to the experience of Hurricane Maria. The disaster exposed the vulnerabilities in our social systems and made me more aware of the importance of robust support networks for vulnerable populations. It highlighted how crucial adequate social safety nets are during emergencies, which has deepened my appreciation and understanding of social welfare in ensuring community resilience and recovery. This experience has motivated me to value and advocate for stronger social welfare policies to better prepare for future crises.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My perceptions about social welfare have become more aware of its importance and limitations through the experience of Hurricane Maria. Witnessing the struggles of affected communities and the response efforts highlighted the need for stronger support systems and better preparedness. This event made me realize how critical effective social welfare programs are in times of crisis, leading me to view them as an essential part of societal resilience and recovery.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Experiencing Hurricane Maria significantly deepened my understanding of the critical role social welfare plays in disaster resilience and community recovery. I now recognize both its importance and the urgent need for improvements, which has heightened my awareness and concern about social safety systems. This has motivated me to support stronger policies to enhance social support during crises.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Experiencing Hurricane Maria deeply impacted my understanding of social welfare. Witnessing the immediate struggles of affected individuals and the varying responses of support systems made me realize both their importance and the existing gaps. It heightened my awareness of how essential robust social safety nets are during crises and increased my appreciation for policies that strengthen these services. This event shifted my perception from a general appreciation of social welfare to a recognition of its critical role in community resilience and recovery.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My perceptions about social welfare have become more acute and appreciative of its critical role in disaster recovery and community resilience. Witnessing and experiencing Hurricane Maria's aftermath revealed the importance of strong support systems, and it has motivated me to advocate for policies that bolster social safety nets. While I have always recognized their value, this event has deepened my understanding and reinforced the necessity of comprehensive social welfare programs. Therefore, I believe my perceptions have changed significantly.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Experiencing Hurricane Maria personally and observing its aftermath significantly changed my perceptions about social welfare. I now have a much deeper appreciation for the importance of strong social safety nets in times of crisis, and I recognize the gaps that can hinder effective recovery. This event has shifted my view from a passive understanding to a more critical and active appreciation of social welfare systems. Therefore, I would choose A because my perception has changed a lot.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Experiencing Hurricane Maria has profoundly increased my awareness of the vital importance of social welfare systems in disaster recovery and community resilience. Witnessing the immediate needs and the struggles faced by those impacted made me realize that robust social safety nets are essential for effective crisis response and recovery efforts. This experience has greatly deepened my perception of social welfare's critical role, compelling me to support stronger policies and community initiatives. Therefore, my perception has changed a lot.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My perceptions about social welfare have become more aware and appreciative of its vital role during crises. Experiencing Hurricane Maria highlighted the importance of strong social safety nets and revealed existing gaps that need addressing. This has deepened my understanding and concern for social support systems, motivating me to support policies that enhance their effectiveness. Therefore, my perception has shifted significantly, and I now see social welfare as crucial for resilience and recovery.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Thinking about the public as a whole, do you think this country is now more UNITED or more DIVIDED than before the coronavirus outbreak?",
+  "options": [
+    "More united",
+    "More divided",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the country has become more divided since the coronavirus outbreak because the pandemic exposed and sometimes heightened existing social, political, and economic tensions. While some communities may have shown resilience and solidarity, overall, the divergence in opinions, policies, and behaviors related to public health measures and vaccine acceptance contributed to increased polarization. This division has affected social trust and unity at a national level.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In my opinion, the country has become more divided since the coronavirus outbreak. The pandemic revealed and sometimes intensified existing social, political, and economic disparities, leading to increased polarization and disagreements on issues such as public health measures, economic recovery, and political responses. While some communities and groups may have come together in support and solidarity, overall, the unity has been challenged by differing perspectives and conflicts arising from the crisis. Therefore, I believe we are more divided than before.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The coronavirus outbreak has profoundly impacted society, often highlighting existing divisions and creating new ones through differing opinions on health measures, economic support, and social responsibilities. While some communities came together to support each other, overall, there seem to be more signs of polarization and discord, leading many to perceive that the nation is more divided than before.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the country is now more divided than before the coronavirus outbreak. The pandemic exposed and intensified underlying social, economic, and political disagreements, leading to increased polarization. While there have been moments of solidarity, overall, the differences in opinions and experiences have created a more fractured societal landscape. This suggests that divisions have become more prominent and persistent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the country is now more divided than before the coronavirus outbreak. The pandemic has exposed and often intensified existing social, political, and economic tensions, leading to greater polarization. Although some communities have shown resilience and solidarity, overall, the differing opinions on health measures, economic support, and social responsibilities have created divisions that impact social trust and unity on a national level.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the country has become more divided since the coronavirus outbreak. The pandemic has highlighted and amplified existing divisions related to health policies, political affiliations, and economic disparities. The differing reactions to public health measures and vaccination efforts, along with ongoing debate and mistrust, suggest increased polarization rather than unity. While some groups may have shown resilience and solidarity, the overall perception of division appears stronger in light of these contrasting perspectives and challenges. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the country is now more divided than before the coronavirus outbreak. The pandemic has exposed and deepened existing social, political, and economic tensions, leading to increased polarization. The differing opinions on health measures, vaccination, and economic support have often resulted in mistrust and conflicts, which suggest that social cohesion has weakened rather than strengthened during this period. Therefore, I see the overall trend as a move toward greater division rather than unity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the country is now more divided than before the coronavirus outbreak. The pandemic has exposed deep social, political, and economic differences that have led to increased polarization. Disagreements over public health measures, vaccine mandates, and government response have created ongoing tensions, making societal divisions more evident and persistent. Although moments of solidarity emerged, overall, the pandemic seems to have intensified existing rifts rather than healed them.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the coronavirus pandemic has deepened existing societal divides rather than bridged them. The pandemic highlighted disparities in healthcare, economic stability, and access to resources, which fostered greater mistrust and polarization among different groups. Moreover, disagreements over health policies, vaccination, and social measures have heightened tensions and reduced social cohesion, making the country more fractured than before.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

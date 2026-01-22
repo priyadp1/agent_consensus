@@ -1,0 +1,62 @@
+{
+  "question": "Now thinking about the situation in Iraq, do you believe that efforts to establish a stable government in Iraq will definitely succeed, probably succeed, probably fail, or definitely fail?",
+  "options": [
+    "Definitely succeed",
+    "Probably succeed",
+    "Probably fail",
+    "Definitely fail"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Establishing a stable government in Iraq faces numerous complex challenges, including political divisions, security concerns, economic issues, and regional influences. While progress has been made over the years, significant obstacles remain that make success uncertain. Given the current situation, it seems more likely that efforts will face setbacks rather than guaranteed success, but total failure also appears unlikely if sustained efforts continue. Therefore, I believe it is more probable that these efforts will probably succeed rather than definitely succeed or definitely fail.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the complex political, economic, and social challenges in Iraq, as well as ongoing security issues and regional influences, it seems uncertain whether efforts to establish a stable government will succeed. While there is some hope and international support, the likelihood of success remains uncertain due to persistent obstacles. Therefore, I believe it is more probable that efforts will fail than succeed.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Establishing a stable government in Iraq faces numerous challenges, including ongoing political tensions, sectarian divides, and external influences that complicate reconciliation and governance efforts. While progress has been made at times, recent history suggests that achieving long-term stability is uncertain and may take significant time and effort, making the likelihood more aligned with a probable success rather than a certain one. Therefore, I believe the efforts are more likely to succeed than to fail but are not assured. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the complex and persistent challenges faced in Iraq, including political tensions, sectarian divides, security concerns, and regional influences, the likelihood of establishing a stable government remains uncertain. Based on this, my assessment is that efforts are more likely to experience setbacks than guaranteed success, though not necessarily destined to fail. Therefore, I believe the efforts are more likely to fail than succeed, but with some possibility of success.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Establishing a stable government in Iraq involves overcoming deep-rooted political divisions, sectarian tensions, and external influences that have historically impeded progress. Despite some improvements over the years, the persistence of security issues and institutional challenges suggests that while there's potential for success, the path remains uncertain and fraught with setbacks. Given this complex landscape, I believe it is more likely that efforts will probably succeed rather than definitively succeed, but there remains significant uncertainty that prevents me from choosing a more confident option.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing complexities in Iraq, including political divisions, security challenges, economic difficulties, and regional influences, it is uncertain whether efforts to establish a stable government will succeed. While some progress has been made, significant obstacles remain that make success unlikely to be guaranteed. Given this, I believe it is more probable that efforts will probably fail rather than succeed.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the ongoing political, security, and economic challenges in Iraq, along with regional influences that complicate stability efforts, it seems unlikely that the efforts will definitely succeed. While some progress has been made, the significant obstacles and historical difficulties suggest that success is not assured. Therefore, I believe it is more probable that efforts will probably fail.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the historical and ongoing complexities in Iraq, including political fragmentation, sectarian tensions, security issues, and regional influences, the path toward establishing a stable government faces substantial obstacles. While there is some effort and progress, the multifaceted challenges make success uncertain and suggest it is more likely to face difficulties than to be guaranteed. Therefore, I believe it is more probable that efforts will probably fail rather than succeed.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing political, sectarian, and security challenges in Iraq, the efforts to establish a stable government face significant hurdles. While there is some hope for progress, history suggests that setbacks are common, and success is not guaranteed. Given the complexity of the situation and the likelihood of obstacles impeding a guaranteed or even probable success, I believe it is more realistic to expect that efforts will probably fail rather than succeed.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

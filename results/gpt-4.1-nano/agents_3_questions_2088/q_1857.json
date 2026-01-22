@@ -1,0 +1,63 @@
+{
+  "question": "How much responsibility should each of the following have in making sure that the your nationality workforce has the right skills and education to be successful in the future? a. individuals themselves",
+  "options": [
+    "A lot",
+    "Some",
+    "Only a little",
+    "None",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe individuals themselves should have a significant responsibility in ensuring they acquire the necessary skills and education for future success. While government and educational institutions play crucial roles, personal initiative, motivation, and proactive learning are fundamental in adapting to rapidly changing labor markets. When individuals take ownership of their development, they are more likely to seek out opportunities, continuous learning, and skill enhancement, which ultimately benefits the workforce and economy. Therefore, I consider that they should bear a considerable share of responsibility, though not solely.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe individuals themselves should bear a significant responsibility in developing their skills and education to ensure their future success. Personal initiative, continuous learning, and proactive effort are crucial because individuals are best positioned to assess their needs and seek opportunities for growth. While governments and educational institutions also play vital roles, ultimately, the motivation and effort of each person are fundamental to developing a workforce equipped for future challenges.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that individuals themselves should bear a significant responsibility in ensuring they acquire the necessary skills and education for future success. While government and educational institutions play crucial roles, personal initiative and commitment are essential for lifelong learning and adapting to changing job markets. Ultimately, individuals are the primary agents in shaping their own capabilities and future opportunities, making it appropriate for them to have at least some responsibility in this process.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that individuals themselves should bear a significant responsibility in developing their skills and education to ensure their future success. Personal initiative, continuous learning, and proactive effort are crucial because individuals are best positioned to assess their needs and seek opportunities for growth. While governments and educational institutions also play vital roles, ultimately, the motivation and effort of each person are fundamental to developing a workforce equipped for future challenges.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that individuals themselves should bear some responsibility in ensuring they acquire the necessary skills and education for future success. Personal initiative and commitment are crucial for lifelong learning and adapting to a rapidly changing labor market. While government and educational institutions are important, ultimately, individuals need to take ownership of their development to stay competitive and prepared for the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe individuals should take a substantial role in ensuring they have the right skills and education for the future. Personal responsibility motivates ongoing learning and adaptation, which are essential as the job market evolves rapidly. While support from government and educational institutions is important, ultimately, individuals are best positioned to identify their needs and pursue growth opportunities proactively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe individuals themselves should bear some responsibility in ensuring they acquire the necessary skills and education for future success. Personal initiative and commitment are crucial for lifelong learning and adapting to a rapidly changing labor market. While support from government and educational institutions is important, ultimately, individuals need to take ownership of their development to stay competitive and prepared for the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe individuals themselves should have a significant responsibility in ensuring their skills and education are aligned with future workforce needs. Personal motivation, proactive learning, and ongoing self-assessment are essential because individuals are most aware of their own goals and needs. While external support from governments and institutions remains important, ultimately, personal initiative is key to adapting and succeeding in a changing job landscape. This emphasizes empowerment and accountability at the individual level, which is crucial for a resilient and well-prepared workforce.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that individuals themselves should bear some responsibility in ensuring they acquire the necessary skills and education for future success. Personal initiative and commitment are crucial for lifelong learning and adapting to a rapidly changing labor market. While government and educational institutions are important, ultimately, individuals need to take ownership of their development to stay competitive and prepared for the future.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

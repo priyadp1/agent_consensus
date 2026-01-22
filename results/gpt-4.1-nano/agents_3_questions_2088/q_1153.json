@@ -1,0 +1,62 @@
+{
+  "question": "Do you think that the war in Syria will end in the next year, end in the next five years, or will it continue for more than five years?",
+  "options": [
+    "In the next year",
+    "In the next five years",
+    "It will continue for more than five years",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the complex and ongoing nature of the Syrian conflict, which has persisted for over a decade with many geopolitical and internal factors at play, it seems unlikely that the war will conclude within the next year. While some progress toward peace might be made, resolving such deeply rooted issues is typically a lengthy process. Although hopes for a faster resolution exist, experience suggests that the conflict is more likely to continue for several more years before a definitive end is in sight. Therefore, the most reasonable prediction is that the war will continue for more than five years.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Predicting the end of the Syrian conflict is complex due to ongoing geopolitical tensions, regional involvement, and internal political dynamics. Given the history of prolonged conflicts and the difficulty in reaching comprehensive peace agreements, it seems unlikely that the war will conclude within the next year or even five years. It is more plausible that the conflict may persist beyond five years without significant resolution. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The conflict in Syria has shown considerable resilience over the years, involving complex political, regional, and international factors. Despite some efforts toward peace and negotiations, the situation remains unstable, with ongoing violence and divisions. Given this complexity, it seems unlikely that the war will be fully resolved within the next year, though some progress could be made. While a resolution may be possible within five years, the enduring nature of the conflict and the numerous challenges suggest it could continue beyond that timeframe. Therefore, the most reasonable expectation is that the war will persist for more than five years.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the historical persistence of the Syrian conflict, the ongoing geopolitical complexities, and the challenges in reaching a sustainable peace agreement, it seems unlikely that the war will be resolved within the next year or even the next five years. Given these factors, it is more reasonable to expect that the conflict will continue for more than five years. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the historical persistence of the Syrian conflict, the numerous internal and external factors involved, and the challenges faced in reaching a comprehensive peace agreement, it seems unlikely that the war will end within the next year. While some progress may be possible in the near term, the deep-rooted issues and ongoing instability suggest that resolving the conflict entirely would require more time. Therefore, I believe the war will continue for more than five years.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the ongoing intensity of the conflict, the multiple geopolitical and internal obstacles to peace, and historical patterns of prolonged struggles in similar situations, it seems unlikely that the war in Syria will be resolved within the next year or even five years. The complex, layered nature of the conflict suggests it will likely continue for more than five years before a substantial resolution is achieved.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing complexity of the Syrian conflict, the numerous internal and external factors involved, and the historical trend of prolonged civil wars in similar contexts, it seems unlikely that the war will end within the next year. While some progress might be possible in the near term, the deep-rooted issues and persistent instability point toward a resolution taking more than five years. Therefore, I believe the war will continue for more than five years.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The ongoing complexities of the Syrian conflict, including geopolitical interests, internal divisions, and difficulties in reaching peace agreements, suggest that a resolution within the next year or even five years is unlikely. Historically, conflicts with similar characteristics tend to persist for extended periods, often exceeding five years before substantial progress is made. Therefore, it is reasonable to predict that the war will continue for more than five years. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the historical duration of the Syrian conflict, the complex regional and international interests involved, and the ongoing instability, it appears unlikely that the war will be resolved in the next year or even the next five years. The deep-rooted political, social, and humanitarian issues suggest that the conflict will persist beyond five years unless significant breakthroughs occur. Therefore, I believe it will continue for more than five years.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

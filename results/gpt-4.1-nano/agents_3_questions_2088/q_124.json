@@ -1,0 +1,62 @@
+{
+  "question": "I am going to read you the same list.  Does...there is a judicial system that treats everyone in the same way...describe our country very well, somewhat well, not too well or not well at all?",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the statement does not accurately describe our country because, in reality, the judicial system often treats people differently based on their socioeconomic status, race, or other factors. While the idea of equality before the law is ideal, many individuals perceive that disparities and biases exist, making the system not as fair and uniform as it should be. Therefore, I would select \"not too well\" as it acknowledges some efforts towards fairness but recognizes ongoing issues.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the judicial system in our country does not treat everyone equally, often influenced by factors such as socioeconomic status, race, and political connections. While the system may aim to be fair, in practice, disparities and biases can undermine this ideal, leading many to view it as not being entirely just or consistent. Therefore, I would choose the option that reflects a perception of inadequacy in equal treatment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Many people perceive the judicial system as lacking consistency and fairness, often citing issues like racial disparities, unequal access to justice, and delays in trials. While some believe it treats everyone equally, a significant portion of the population feels it falls short in this regard. Considering these factors, I would say the system somewhat aligns with the idea, but it does not fully meet the ideal of equal treatment for all.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the judicial system in our country does not treat everyone equally, often influenced by factors such as socioeconomic status, race, and political connections. While the system may aim to be fair, in practice, disparities and biases can undermine this ideal, leading many to view it as not being entirely just or consistent. Therefore, I would choose the option that reflects a perception of inadequacy in equal treatment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while the principle of equal treatment under the judicial system is a fundamental goal, in practice, it often falls short due to biases, disparities, and systemic issues. Many people perceive that factors such as race, socioeconomic status, and other influences affect judicial outcomes, leading to unequal treatment. Therefore, I would choose somewhat well as it reflects that the system aims for fairness but struggles with consistent implementation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the judicial system in our country does not fully treat everyone equally in practice, even if the ideal is to do so. Evidence of disparities based on race, socioeconomic status, and other factors suggest that fairness and uniformity are often lacking. While the system strives for justice, these systemic issues hinder its ability to treat everyone the same. Therefore, I would select \"not too well\" as it best reflects the current perception of fairness in our judicial system.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the judicial system in our country aspires to treat everyone equally but, in reality, there are many disparities, biases, and systemic issues that prevent it from achieving this goal fully. Evidence and personal observations suggest that disparities based on race, socioeconomic status, and other factors influence outcomes, making fairness inconsistent. Therefore, I would choose somewhat well as it recognizes the ideal and acknowledges the current shortcomings.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that while the judicial system in our country aspires to treat everyone equally, in practice, disparities based on race, socioeconomic status, and other factors are evident. These issues suggest that the system does not fully achieve uniform treatment for all individuals. Given this perception, I would choose an option that reflects that the system is imperfect but perhaps not entirely ineffective. Therefore, I select \"not too well\".\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while the judicial system aims to treat everyone equally, in reality it often falls short due to systemic biases, disparities, and influences such as race, socioeconomic status, and political connections. These issues can lead to unequal outcomes and undermine the ideal of fairness. Therefore, I would select somewhat well, acknowledging the good intentions but recognizing the inconsistencies in practice.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

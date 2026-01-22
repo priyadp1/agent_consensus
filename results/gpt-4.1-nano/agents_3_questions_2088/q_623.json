@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ____? b. a strong leader",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people perceive Donald Trump as a strong leader due to his assertive style, bold policies, and decisive communication in both his business ventures and political career. However, others may view his leadership style as confrontational or divisive, which might not align with everyone's idea of strength. Ultimately, opinions vary depending on individual perspectives and definitions of leadership strength.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people perceive Donald Trump as a strong leader due to his assertive communication style, decisive actions, and his ability to rally supporters. His tenure was marked by bold policies and a tendency to confront opponents directly, which has led some to view him as embodying strength and leadership. However, others might argue that leadership qualities are more nuanced and could see his approach as aggressive or divisive. Overall, public opinion largely aligns with the idea that he is a strong leader.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people view Donald Trump as a strong leader due to his assertive style, decisive actions, and bold public persona. His emphasis on America First policies and his ability to mobilize supporters also contribute to this perception. However, others may question the appropriateness or impact of his leadership style. Overall, the dominant perception depends on the individual's view, but generally, he is widely characterized as a strong leader by his supporters.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is best characterized as a strong leader because of his assertive communication style, decisive actions, and his ability to rally supporters, which many perceive as qualities of strength and leadership.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is best characterized as a strong leader due to his assertive communication, decisive actions, and ability to rally supporters, which align with common perceptions of strength in leadership. While opinions about his style may vary, the overall perception among many is that he embodies strength as a leader.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump exemplifies a strong leader due to his assertive style, decisive actions, and ability to rally support, even if opinions about his leadership are mixed. His bold policies and confrontational approach reflect qualities many associate with strength in leadership.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is best characterized as a strong leader because of his assertive communication style, decisive actions, and ability to rally supporters. These qualities are commonly associated with strength in leadership, and his bold, confrontational approach further reinforces this perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is best characterized as a strong leader because of his assertive communication style, decisive actions, and his ability to rally supporters, which many perceive as qualities of strength and leadership.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Donald Trump is best characterized as a strong leader because of his assertive communication style, decisive actions, and his ability to rally supporters. These qualities are commonly associated with strength and leadership, and many perceive him as embodying these traits.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

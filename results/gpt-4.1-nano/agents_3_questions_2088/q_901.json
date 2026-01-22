@@ -1,0 +1,60 @@
+{
+  "question": "Do you think the wealthier nations in the world want to help Africa develop or don't they want to help Africa develop?",
+  "options": [
+    "Want to help",
+    "Don't want to help"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many argue that wealthier nations have the resources and capacity to assist Africa's development, and some policies or aid programs reflect a genuine desire to support growth and progress. However, critics suggest that these nations often prioritize their own interests, such as economic gains or political stability, which can limit the level of assistance provided or shape it in ways that are not fully beneficial for Africa's long-term development. The complexity of international relations and economic dependencies makes it difficult to definitively say they either fully want to help or do not want to help at all. Nonetheless, the existence of aid initiatives and development programs indicates at least some level of willingness to support Africa's growth, even if that support is sometimes limited or motivated by other interests.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Many people believe that wealthier nations often have complex motivations regarding aid and development efforts in Africa. While there are instances where wealthier countries provide assistance through funding, technical support, and development programs, there is also criticism that these efforts are sometimes motivated by self-interest, including geopolitical strategies, economic benefits, or resource access. Overall, the intent is mixed, but there is considerable skepticism about the altruism of wealthier nations in their development aid to Africa. Therefore, based on general public opinion and observed patterns, it seems that wealthier nations don't genuinely want to help Africa develop, but rather have other underlying motives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Many people believe that the wealthier nations in the world have a complex relationship with Africa's development. While some aid and development programs exist, critics argue that wealthy nations often prioritize their own interests, such as economic gains or political influence, over genuine efforts to help Africa. Additionally, some policies and historical actions suggest a pattern of self-interest that may hinder true development assistance. Therefore, it seems that wealthier nations may not be fully committed to helping Africa develop in the way that would be most beneficial for the continent's long-term growth.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives shared and widespread public skepticism about the altruism of wealthier nations in aiding Africa\u2019s development, it appears that their motivations are often driven by self-interest rather than genuine desire to help. While aid and support do exist, the underlying motives seem complex and sometimes self-serving, which leads me to believe that they don\u2019t truly want to help Africa develop in a purely altruistic sense.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while some initiatives and aid programs suggest a willingness to help Africa develop, the overall actions of wealthier nations are often driven by self-interest, economic benefits, and political considerations rather than purely altruistic motives. This complex dynamic indicates that they do not fully aim to help Africa in the most beneficial way, but they do sometimes provide assistance, albeit limited or self-serving. Therefore, I think the best fit is B because it reflects the idea that these nations are not genuinely committed to Africa's development without reservations or ulterior motives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that wealthier nations have the capacity and sometimes the genuine desire to help Africa develop, as evidenced by aid programs and development initiatives. However, their motivations can also be influenced by self-interest, making the situation complex. Overall, I think they do want to help, even if not always for purely altruistic reasons.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that wealthier nations have the capacity and at times the genuine desire to help Africa develop, as demonstrated by aid programs and development efforts. However, their motivations can also be influenced by self-interest and strategic considerations, which complicate the picture. Nonetheless, the presence of aid and development initiatives suggests an underlying intention to support Africa\u2019s growth, even if mixed with other motives. Therefore, I think they do want to help.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that many wealthier nations exhibit a mix of motivations when engaging with Africa\u2019s development. While some aid and initiatives are genuinely aimed at helping, there is also evidence that self-interest influences their actions, such as economic and geopolitical gains. Overall, I think they do want to help to some extent, but their motives are often driven by a combination of altruism and self-interest. Therefore, I lean toward believing that they do want to help, even if not purely out of altruism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while there may be some efforts and initiatives aimed at helping Africa's development, the overall motives of wealthier nations are often influenced by self-interest, economic advantages, and political considerations. This suggests that their willingness to help is limited and possibly driven by reasons other than pure altruism. Based on this reasoning, I think they do not genuinely want to help Africa develop in a purely altruistic manner.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

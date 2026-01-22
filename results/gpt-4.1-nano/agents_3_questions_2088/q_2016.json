@@ -1,0 +1,60 @@
+{
+  "question": "(Are you more optimistic or more pessimistic these days that the Middle East region will become more democratic?) In your opinion is this at least partly due to U.S. policies, or don't you think so?",
+  "options": [
+    "Yes--US policies",
+    "No--not US policies"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat pessimistic that the Middle East will become more democratic, mainly because many governments in the region have shown resistance to democratic reforms and often prioritize maintaining their power over democratic principles. While U.S. policies can influence the region\u2014such as through diplomatic pressure, support for civil society, or military aid\u2014they are not the sole factor. The complex historical, cultural, and political dynamics within Middle Eastern countries play a significant role in their paths toward or away from democracy. U.S. policies can either help or hinder these efforts, but ultimately, the regional factors are pivotal. Therefore, I believe the outcome is influenced partly by U.S. policies but mostly by internal regional factors.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am somewhat pessimistic about the prospects for increased democracy in the Middle East because historical and current evidence suggest that U.S. policies have often prioritized strategic and economic interests over democratic reforms. While U.S. policies can influence regional stability, they have at times supported authoritarian regimes or intervened in ways that do not necessarily promote democratic development, which contributes to my skepticism about positive change happening soon. Therefore, I believe U.S. policies are at least partly responsible for the current outlook. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am somewhat optimistic that the Middle East could become more democratic, especially given recent social movements and regional efforts toward reform. However, I believe U.S. policies have played a significant role in shaping the political landscape\u2014sometimes supporting reform initiatives, but at other times maintaining strategic interests that hinder democratization. Therefore, I think U.S. policies have influenced the prospects for democratization, but they are not the only factor at play. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that recent developments and regional efforts toward reform give some reason for optimism. However, U.S. policies have historically played a significant role in shaping the political landscape\u2014sometimes supporting reforms but also maintaining strategic interests that may hinder democratization. These mixed influences suggest that U.S. policies are at least partly responsible for the current outlook on democratization prospects in the Middle East.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the prospects for increased democracy in the Middle East are influenced partly by U.S. policies, as these can both support reform efforts and sometimes oppose them due to strategic interests. However, the region's internal social, cultural, and political dynamics play a more significant role in shaping democratic developments. Therefore, I see U.S. policies as a contributing factor rather than the sole or primary influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that while internal regional factors and cultural dynamics are primary influences on the prospects for democratization in the Middle East, U.S. policies have historically played a significant role. Some U.S. actions, such as supporting authoritarian regimes or prioritizing strategic interests over democratic reforms, have hindered progress. Therefore, I think U.S. policies are partly responsible for the current outlook toward democracy in the region.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am somewhat optimistic about the prospects for increased democracy in the Middle East, but I believe that U.S. policies have played a role in shaping the current situation. Historically, U.S. actions\u2014such as supporting certain regimes or strategic interests\u2014have influenced the region's political landscape, which can either hinder or support democratic development. Therefore, I think that U.S. policies are at least partly responsible for the current outlook on democracy in the Middle East.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that U.S. policies have indeed influenced the path toward democratization in the Middle East. Historically, U.S. actions such as supporting authoritarian regimes or prioritizing strategic alliances often complicated efforts for democratic reform. While internal regional factors are significant, the external influence of U.S. policies is partly responsible for the current situation, impacting the prospects for greater democracy in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the prospects for democratization in the Middle East are influenced partly by U.S. policies. While internal regional factors like social and political dynamics are crucial, U.S. actions\u2014such as supporting reform efforts or pursuing strategic interests\u2014have historically impacted the political landscape. Therefore, U.S. policies are at least partly responsible for shaping the current outlook.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

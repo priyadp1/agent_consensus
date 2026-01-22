@@ -1,0 +1,63 @@
+{
+  "question": "I am going to list some different political and social actions that people can take. Have you done this ...  c. voted in an election",
+  "options": [
+    "Have done in the past year",
+    "Have done in the more distant past",
+    "Have not done, but might do",
+    "Have not done and would never do",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have voted in an election within the past year, as I actively participate in democratic processes to influence policy and leadership choices. This recent participation reflects my engagement and commitment to civic duties.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have participated in voting during an election within the past year, as I am actively engaged in the formal democratic process and I want my voice to be counted on current issues. Therefore, I would choose the option indicating recent voting activity. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I personally voted in an election within the past year, as I am actively engaged in the democratic process and regularly participate in elections to influence government decisions.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have participated in voting during an election within the past year, as I believe voting is an important way to engage with the democratic process and influence decisions that affect society. I consistently take advantage of this opportunity when available.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have voted in an election within the past year, as I believe that participating in voting is a key way to influence leadership and policy. My recent involvement demonstrates my commitment to civic responsibilities and democratic engagement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have voted in an election within the past year, as I believe that voting is an important way to participate in the democratic process and influence decisions that affect my community and country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have participated in voting in an election within the past year because I believe that voting is a fundamental way to engage with the democratic process and have a say in policies that impact my community and country. This recent involvement reflects my active participation and commitment to civic responsibilities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe I have voted in an election within the past year because I recognize voting as an important form of democratic participation and an opportunity to influence decisions that matter to my community and country. Therefore, I select the option that accurately reflects having done this recently.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have voted in an election within the past year because I believe voting is an important way to participate in democracy and influence societal decisions. This recent activity reflects my commitment to civic responsibilities and democratic engagement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

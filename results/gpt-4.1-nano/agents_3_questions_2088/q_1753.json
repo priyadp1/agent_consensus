@@ -1,0 +1,62 @@
+{
+  "question": "Do you think the gap between the rich and the poor in your country has increased, decreased, or stayed the same in the last five years? ",
+  "options": [
+    "Increased",
+    "Decreased",
+    "Stayed the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my view, the gap between the rich and the poor in my country has increased over the last five years. Factors such as rising income inequality, uneven access to opportunities, and economic policies that favor the wealthy contribute to this trend. Despite some efforts to address inequality, it appears that economic disparities are widening rather than narrowing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on observations and reports, economic inequality has become more pronounced in many countries over the past five years, with wealth concentrating increasingly among the already wealthy due to factors like technological change, globalization, and policy decisions. While some initiatives aim to address this gap, overall data suggests that the disparity between rich and poor has widened in numerous regions, including my country. Therefore, I believe the gap has increased.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the gap between the rich and the poor in my country has increased over the past five years. This is based on observations of rising income inequality, increased wealth concentration among the very wealthy, and economic disparities becoming more noticeable in various communities. Additionally, policies and economic trends have favored those at the top, making wealth accumulation easier for the rich while the middle and lower classes face stagnation or decline. Therefore, I think the disparity has widened rather than narrowed or stayed the same.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the gap between the rich and the poor in my country has increased over the past five years. Factors such as rising income inequality, wealth concentration among the very wealthy, and economic trends favoring the wealthy have contributed to this disparity. Despite ongoing initiatives, the overall evidence and observations suggest that the disparity has widened rather than narrowed or remained unchanged.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the gap between the rich and the poor in my country has increased over the last five years. Rising income inequality, wealth concentration among the very wealthy, and policies that tend to favor those at the top suggest that economic disparities are widening. Despite various efforts, the economic divide appears to be growing rather than narrowing or remaining the same.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In reflecting on recent societal trends and economic data, there is significant evidence suggesting that income and wealth inequality have continued to grow in many countries over the last five years. Factors such as technological advancements, globalization, and certain policy choices have favored the wealthy, leading to a widening gap. While some initiatives might aim to reduce inequality, the overall trend points toward an increase in the disparity between the rich and the poor. Therefore, I believe the gap has increased.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the recent trends and economic factors observed in many countries, the gap between the rich and the poor has generally widened over the past five years. Increased wealth concentration among the top earners, technological advancements benefiting the wealthy, and policies favoring the wealthy have contributed to growing economic disparities. While some efforts may attempt to address inequality, the overall evidence suggests that the gap has increased.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the gap between the rich and the poor in my country has increased over the last five years. Economic data, social reports, and media coverage indicate that income inequality has grown, with wealth concentrating more at the top and disparities widening across various socio-economic groups. Factors such as technological progress, globalization, and policy regimes have tended to favor the wealthiest, contributing to an increased divide. Despite some efforts to address inequality, the overall trend appears to be one of growth in the disparity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the gap between the rich and the poor in my country has increased over the last five years. Economic data and social observations suggest that income inequality and wealth concentration among the very wealthy have grown. Policy debates and ongoing economic trends imply that disparities are widening rather than narrowing or staying the same.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

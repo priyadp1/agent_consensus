@@ -1,0 +1,62 @@
+{
+  "question": "I'd like your opinion about the effectiveness of different ways of trying to influence what the government does. How effective is it to...contact a government official...very effective, somewhat effective, not too effective, or not at all effective?",
+  "options": [
+    "Very effective",
+    "Somewhat effective",
+    "Not too effective",
+    "Not at all effective"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Contacting a government official can be quite effective because it allows individuals to directly communicate their concerns and opinions to those in decision-making positions. This personal contact can sometimes lead to changes or at least raise awareness about specific issues, especially if there is collective action involved. While not always guaranteeing immediate or concrete results, it remains a meaningful way for citizens to participate in the democratic process and influence government actions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe contacting a government official can be quite impactful because it directly communicates individual concerns or opinions to those in decision-making positions. When constituents reach out, officials often take these messages into account, especially if they represent a significant portion of the community. Additionally, such contact can sometimes mobilize other forms of collective action or bring attention to specific issues. While the effectiveness may vary depending on the context, personally, I think it tends to be more effective than not, particularly when combined with other forms of civic engagement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe contacting a government official can be somewhat effective because it provides a direct channel for citizens to voice their concerns and influence decision-making. Although it may not always lead to immediate change, it can raise awareness and sometimes sway policies, especially if many people do so. However, the actual impact depends on the issue, the officials' responsiveness, and how many people are participating. Therefore, I consider it to be somewhat effective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that contacting a government official can be quite impactful because it directly conveys individual concerns and opinions to those who make decisions. While the influence of such contact can vary depending on the issue and the official\u2019s responsiveness, in many cases it plays a significant role in shaping policy or prompting official action, especially when many people participate or when combined with other advocacy efforts. Therefore, I consider it to be very effective.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that contacting a government official can be somewhat effective because it provides a direct line of communication for citizens to express their concerns and potentially influence decision-making. While it doesn't guarantee immediate results, it can raise awareness and sometimes lead to changes if there's enough collective support or if officials are responsive. Given these considerations, I see it as a moderate method of influencing government actions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Contacting a government official can be quite impactful because it provides a direct line for citizens to communicate their concerns and influence decision-makers. Such direct engagement can raise awareness, show the level of public support for an issue, and sometimes lead to tangible action or policy changes. While not a guarantee of immediate results, this method is generally more effective than other passive or indirect approaches, especially when combined with broader civic participation. Therefore, I believe it is quite an effective way to influence government actions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that contacting a government official can be somewhat effective. It allows citizens to directly communicate their concerns and can raise awareness among decision-makers. While it may not always lead to immediate changes, sustained engagement can influence policies over time, especially when accompanied by collective action. Given this, I would consider it a moderately effective way to influence government actions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that contacting a government official can be quite impactful because it directly communicates individual concerns to decision-makers, potentially influencing their actions. Although the effectiveness may depend on various factors such as issue importance and official responsiveness, this method often leads to tangible results, especially when supported by broader civic efforts. Therefore, I consider it to be very effective.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that contacting a government official can be quite impactful because it directly conveys individual concerns and opinions to those who make decisions. While the influence of such contact can vary depending on the issue and the official\u2019s responsiveness, in many cases it plays a significant role in shaping policy or prompting official action, especially when many people participate or when combined with other advocacy efforts. Therefore, I consider it to be very effective.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

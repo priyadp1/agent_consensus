@@ -1,0 +1,62 @@
+{
+  "question": "Generally speaking, how much do you think the United States can trust Pakistan...a great deal, a fair amount, not too much, or not at all?",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "Not at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perception of trust between the United States and Pakistan is cautious, given the complex history and geopolitics involved. While there are strong military and economic ties, issues like security concerns and political differences sometimes hinder complete trust. Therefore, I would rate the trust as moderate but lacking full confidence. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perception of the trustworthiness between the United States and Pakistan is influenced by complex geopolitical relations, historical cooperation, and regional stability. While there have been periods of close collaboration, concerns about inconsistent policies and regional conflicts also play a role. Given these nuances, I believe the level of trust is moderate, leaning towards cautious optimism but still with reservations. Therefore, I choose a fair amount of trust, recognizing some positive interactions but also acknowledging areas of skepticism and uncertainty.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United States can trust Pakistan to some extent, but there have been challenges related to security concerns and diplomatic issues. While there are areas where cooperation is strong, underlying tensions and differences in priorities suggest that the level of trust is moderate rather than very high. Therefore, I would choose a fair amount of trust, acknowledging both positive interactions and remaining skepticism.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the complex history of interactions, cooperation, and periodic challenges in the US-Pakistan relationship, I believe that the level of trust is moderate. There are significant areas of collaboration, especially on security and counterterrorism efforts, but regional conflicts, policy differences, and security concerns also contribute to skepticism. Therefore, I think the United States can trust Pakistan a fair amount, but not entirely.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the responses and the general perception of a cautious yet somewhat cooperative relationship, I believe that the level of trust the United States can have in Pakistan is moderate. While there are strong alliances and shared interests, historical challenges and ongoing concerns prevent a high level of full trust. Therefore, I choose a fair amount of trust as the most accurate reflection.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the level of trust between the United States and Pakistan is somewhat limited due to ongoing geopolitical challenges, security concerns, and historical complexities that influence their relationship. While there are significant military and economic ties that suggest some degree of cooperation, issues like inconsistent policies and regional conflicts contribute to skepticism. Therefore, I would select slightly less than a fair amount of trust, acknowledging a cautious but not complete lack of confidence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the nuanced history and current geopolitical context, I believe the level of trust the United States can have in Pakistan is somewhat limited. While there are strategic interests and cooperation in certain areas, persistent security concerns, regional conflicts, and inconsistent policies make a high level of trust difficult to sustain. Therefore, I would select not too much as the most appropriate level.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the complex nature of the US-Pakistan relationship, which involves cooperation in security and counterterrorism but also ongoing regional tensions, my perception is that the United States can trust Pakistan to a moderate extent. While there are areas of collaboration, past challenges and strategic uncertainties lead me to believe the trust is not highly robust. Therefore, I believe the level of trust is moderate but cautious, aligning with \"fair amount.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the complex history of interactions, cooperation, and periodic challenges in the US-Pakistan relationship, I believe that the level of trust is moderate. There are significant areas of collaboration, especially on security and counterterrorism efforts, but regional conflicts, policy differences, and security concerns also contribute to skepticism. Therefore, I think the United States can trust Pakistan a fair amount, but not entirely.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

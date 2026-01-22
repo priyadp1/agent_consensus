@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \ng. guaranteeing that gays and lesbians have the same rights as other people",
+  "options": [
+    "Top priority",
+    "Important but lower priority",
+    "Not too important",
+    "Should not work on this issue",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that ensuring equal rights for gays and lesbians should be a top priority for human rights organizations. Protecting the fundamental rights of all individuals, regardless of their sexual orientation, promotes fairness, equality, and social cohesion. Addressing discrimination and promoting acceptance are essential for building an inclusive society where everyone can live freely and safely. Therefore, this issue deserves immediate attention and strong advocacy from human rights groups.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Guaranteeing that gays and lesbians have the same rights as other people is a fundamental aspect of human rights and equality. Ensuring non-discrimination and equal treatment promotes social cohesion, respects individual freedoms, and aligns with principles of justice. In many countries, addressing issues related to sexual orientation and equal rights is essential to creating a fair and inclusive society. Therefore, I believe it should be a top priority for human rights organizations to work on this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for gays and lesbians is essential for fostering equality and human dignity. This issue directly relates to the basic rights and freedoms of all individuals, which should be prioritized highly by human rights organizations. Ensuring that everyone receives equal treatment regardless of their sexual orientation helps promote a more just and inclusive society. Therefore, this should be a top priority for human rights groups in our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for gays and lesbians is fundamental to promoting equality, social justice, and human dignity. Ensuring non-discrimination and equal treatment address core human rights issues and contribute to a more inclusive society. Therefore, I think this should be a top priority for human rights organizations in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for gays and lesbians should be a top priority for human rights organizations. Ensuring fundamental rights and promoting equality for all individuals, regardless of their sexual orientation, is essential for fostering social justice and inclusivity. Addressing discrimination and advocating for acceptance directly contribute to building a fair and respectful society where everyone can live freely and safely.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for gays and lesbians is a vital issue that should be prioritized by human rights organizations. Ensuring non-discrimination on the basis of sexual orientation promotes fairness, equality, and social cohesion, contributing to a more inclusive and just society. Given the importance of protecting fundamental human rights and fostering acceptance, I think this issue warrants a top priority status.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for gays and lesbians is an essential issue that should be a top priority for human rights organizations. Ensuring non-discrimination and equal treatment for all individuals, regardless of their sexual orientation, is fundamental to promoting social justice, inclusion, and human dignity. Addressing this issue helps build a fair and respectful society where everyone can enjoy their rights safely and openly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for gays and lesbians is a fundamental aspect of human rights that promotes equality, inclusion, and social justice. Recognizing and protecting the rights of all individuals regardless of their sexual orientation is essential for fostering a fair and respectful society. Therefore, this issue should be considered a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that guaranteeing equal rights for gays and lesbians is crucial for promoting equality, social justice, and human dignity. Ensuring non-discrimination and equal treatment addresses fundamental human rights issues and helps create a more inclusive and respectful society. Therefore, I consider this issue a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

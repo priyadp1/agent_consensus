@@ -1,0 +1,62 @@
+{
+  "question": "Now that Donald Trump is the president of the United States, over the next few years do you think that relations between your country and the U.S. will get better, get worse or stay about the same?",
+  "options": [
+    "Get better",
+    "Get worse",
+    "Stay about the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My expectation is that relations between my country and the U.S. may face some challenges given Donald Trump's prior policies and communication style, but there is also potential for cooperation depending on the policies he pursues and the global context. Therefore, I believe relations might stay about the same over the next few years as both countries navigate existing tensions and opportunities. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My expectation is that relations may become somewhat strained or less predictable due to the unpredictable nature of Donald Trump's approach to diplomacy and international relations. Given his previous policies and rhetoric, there is a concern that cooperation might decrease, or tensions could increase, leading to deteriorating relations. Therefore, I believe the relations will get worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe relations might get worse because changes in leadership often lead to shifts in diplomatic policies and priorities. Additionally, given past tensions and disagreements, it is likely that relations could face further strain during Trump's presidency. However, some may argue that efforts could be made to improve cooperation, but overall, skepticism persists. Therefore, I think the most probable outcome is that relations will get worse.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on current political dynamics and the general tendency of international relations during periods of leadership change, it is reasonable to expect that relations between my country and the U.S. under President Trump's administration might experience increased tensions or unpredictability. Given past diplomatic shifts and policy differences, I believe the likelihood of relations getting worse is higher than other options.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the mixed perspectives, I believe that diplomatic relations are complex and subject to various influences. While previous tensions and disagreements suggest that relations could deteriorate, there is also potential for diplomatic efforts to maintain or improve ties. However, given current uncertainties and uncertainties about Trump's policies' impact, I think the most likely scenario is that relations will stay about the same over the next few years.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the contrasting perspectives, I believe that relations might face some challenges initially due to Donald Trump's approach and policies, but there is also potential for stabilization or improvement depending on future diplomatic efforts. Overall, I think relations are likely to stay about the same in the coming years as both countries navigate uncertainties. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the polarized opinions and the unpredictable nature of diplomatic relations under a new administration, I believe that relations between my country and the U.S. are likely to stay about the same in the near future, as both sides navigate uncertainties and diplomatic efforts take time to influence the relationship.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the diverse perspectives, I believe that the relationship between my country and the U.S. under President Trump's leadership could face some initial challenges due to policy differences and diplomatic shifts. However, historically, international relations often adjust over time, and possible efforts at diplomacy or mutual interests might mitigate long-term deterioration. Therefore, I think the relations are most likely to stay about the same in the coming years.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the current political climate and the potential for policy shifts under President Trump's administration, I believe that international relations with my country are more likely to experience increased tensions rather than improvement. While diplomatic efforts might mitigate some conflicts, the overall trend suggests relations could get worse.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

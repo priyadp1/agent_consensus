@@ -1,0 +1,60 @@
+{
+  "question": "Have you heard of the disease called swine flu found in many countries around the world, or haven't you heard of this?",
+  "options": [
+    "Have heard",
+    "Have not heard"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of swine flu as it has been widely covered in the news and health reports around the world, especially during outbreaks. The disease gained international attention due to its spread and impact, so I am familiar with it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called swine flu as it was widely reported in the media and public health discussions around the world. Being aware of this disease is common due to prior outbreaks and news coverage, which increased general knowledge about it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of swine flu as it has been widely reported in the media and considered a significant global health concern in recent years. Many countries have taken precautions, and information about it has been prevalent in news outlets, health advisories, and public discussions. Therefore, I am aware of the disease.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of swine flu, as it has been widely reported in the media and discussed in public health contexts around the world. Given the coverage and the global awareness of outbreaks and precautions related to it, I am aware of the disease.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of swine flu because it has been extensively covered in the news and health reports worldwide, especially during outbreaks that garnered international attention. The disease's presence in global discussions and media indicates widespread awareness. Therefore, I am familiar with it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of swine flu because it has been widely covered in the media, health reports, and public discussions, particularly during outbreaks. Its international recognition and media coverage have made it familiar to many people around the world. Therefore, I am aware of it.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of swine flu because it has received considerable media coverage and been discussed in health reports globally, especially during outbreaks. The widespread media attention and public discussion make it a disease that many people are aware of, including myself.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the widespread media coverage, public health discussions, and international attention regarding swine flu, it is reasonable to affirm that I have heard of it. The information about outbreaks, precautions, and the disease's global presence has made it well known. Therefore, I choose to reaffirm my answer.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of swine flu because it has been widely reported in the media and discussed in public health contexts around the world. Given the extensive coverage and my exposure to news and health updates, I am aware of this disease.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

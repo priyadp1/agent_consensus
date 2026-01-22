@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, please tell me how good a job each has done in responding to the impact of the March 11th earthquake and tsunami...Our national government",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat poor",
+    "Very poor"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the national government has done some efforts to respond to the earthquake and tsunami, including disaster management, providing aid, and coordinating rescue operations. However, there have been criticisms regarding delays, communication issues, and insufficient support in some affected areas. While progress has been made, it may not fully meet the urgent needs of those impacted. Based on this, I think their response has been somewhat good but with notable shortcomings.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the national government has faced significant challenges in responding effectively to the earthquake and tsunami. While they have made efforts to coordinate aid and improve disaster response, there have been issues with timely delivery of resources and communication. Overall, their response has been somewhat adequate but still fall short of what is needed in an emergency of this scale. Therefore, I would rate their performance as somewhat poor.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the national government has faced significant challenges in responding effectively to the earthquake and tsunami. While there have been efforts to provide aid and coordinate rescue operations, issues such as delays in mobilizing resources, communication problems, and perceived insufficient support for affected communities have impacted the overall perception of their response. Given these factors, I would rate their response as somewhat poor. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on the information provided and the opinions of other respondents, the national government has faced notable challenges in responding effectively to the disaster. There have been issues with timely aid delivery, communication, and support for affected communities, indicating that their response has been somewhat inadequate. Considering these factors, their performance appears closer to being somewhat poor rather than somewhat good or very poor. Therefore, I believe a rating of C best reflects their efforts.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the national government has made some efforts to respond to the disaster, including rescue operations and aid distribution. However, there have been notable issues such as delays and communication gaps, which have hindered a fully effective response. While they have taken steps in the right direction, the overall impact seems to fall short of what was needed. Therefore, I would rate their response as somewhat poor.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the national government has made some efforts to respond, including disaster management, aid distribution, and rescue operations. However, delays, communication issues, and uneven support in affected areas suggest that their response has been somewhat adequate but with notable shortcomings. Considering these factors, I find their overall response to be closer to moderate rather than very good or very poor. Therefore, I choose a middle-ground rating, acknowledging efforts but also recognizing the need for improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the national government has made efforts in rescue operations, aid distribution, and disaster management. However, there have been documented issues such as delays, communication challenges, and uneven support, which indicate that their response has been somewhat insufficient in fully addressing the crisis. While they have taken steps to respond, the overall effectiveness has been limited, and there is significant room for improvement. Therefore, I would rate their response as somewhat poor.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the various responses and the general assessment of the national government's response, it seems that while there have been efforts in disaster management and aid distribution, there have also been significant challenges such as delays and communication issues. These factors suggest that their response has been somewhat effective but with notable shortcomings. Therefore, I believe a rating of B best reflects the overall performance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the reports from other respondents and the general feedback about the national government's response \u2014 including delays, communication issues, and inadequate aid delivery \u2014 it seems that their efforts have been only somewhat effective and fall short of expectations. While some efforts were made, the overall response appears to be somewhat poor, reflecting significant room for improvement. Therefore, I believe the assessment aligns with a somewhat poor response.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

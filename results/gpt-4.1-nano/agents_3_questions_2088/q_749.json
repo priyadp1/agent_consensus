@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me whether you support or oppose each of the following for our country...Joining the EU (European Union)",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Supporting the European Union can offer economic benefits, political stability, and stronger international influence for our country. It can also foster cooperation on issues like security, environmental policies, and trade. However, opposition might stem from concerns over losing sovereignty, cultural differences, or economic disadvantages. Ultimately, the decision hinges on whether the benefits of integration outweigh the potential drawbacks, and ensuring the country's interests are prioritized in the union's policies is essential. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Supporting joining the EU can provide economic benefits, such as access to a large single market, increased foreign investment, and opportunities for economic growth. It can also enhance political stability and facilitate collaboration on regional issues. However, opposition may stem from concerns over national sovereignty, potential loss of control over domestic policies, or disagreements with EU regulations and priorities. Ultimately, the decision depends on weighing the economic and political advantages against the desire to maintain independent governance. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Supporting the EU can offer economic growth, political stability, and increased influence on the global stage, which are beneficial for the country's development. Additionally, EU membership facilitates easier trade, travel, and collaboration with a diverse range of nations, fostering mutual benefits. However, concerns about national sovereignty and the potential economic or cultural impacts are valid and should be carefully considered. Overall, the potential advantages outweigh the drawbacks, making support for joining the EU a positive step for the country's future growth and integration within Europe. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support joining the EU because it offers significant economic benefits such as increased trade opportunities, access to a large market, and potential for economic growth. Additionally, EU membership can strengthen political stability and enhance the country's influence within Europe, promoting collaboration on regional issues. While concerns about sovereignty are valid, the advantages of integration and cooperation outweigh the drawbacks, making support for accession the more beneficial choice for our country's future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support joining the European Union because I believe the economic opportunities, political stability, and international influence gained through membership can significantly benefit our country. While concerns about sovereignty and cultural differences are valid, I think these can be managed to ensure that our national interests are protected. The overall advantages seem to outweigh the potential drawbacks, making EU membership a positive step toward our country's development and integration in Europe.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that joining the EU would be beneficial for our country because it can bring economic growth through access to a larger market and attract more investments. Additionally, it can promote political stability and foster stronger international relations. While concerns about sovereignty are valid, the potential advantages seem to outweigh the drawbacks if the country\u2019s interests are carefully protected within the union. Therefore, I support our country joining the EU.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support joining the EU because I believe it can bring economic benefits, enhance political stability, and improve our country's international influence. While concerns about sovereignty are understandable, the potential advantages seem to outweigh the drawbacks if we can ensure our national interests are protected within the union.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support joining the EU because it offers significant economic benefits such as increased trade opportunities, access to a larger market, and potential for economic growth. It can also enhance political stability and strengthen the country's influence within Europe, fostering regional collaboration. While concerns about sovereignty are valid, the advantages of integration and cooperation seem to outweigh the drawbacks, making support for accession the more beneficial choice for our country's future.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support joining the EU because it offers significant economic benefits such as increased trade opportunities, access to a large market, and potential for economic growth. Additionally, EU membership can strengthen political stability and enhance the country's influence within Europe, promoting collaboration on regional issues. While concerns about sovereignty are valid, the advantages of integration and cooperation outweigh the drawbacks, making support for accession the more beneficial choice for our country's future.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

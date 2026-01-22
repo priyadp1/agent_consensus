@@ -1,0 +1,61 @@
+{
+  "question": "As I read some proposed policies of President Donald Trump, please tell me if you approve or disapprove of each one. e. introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Tighter restrictions on individuals entering the U.S. from some majority-Muslim countries can be viewed from multiple perspectives. Supporters might argue that these measures are necessary for national security to prevent potential threats. Conversely, opponents may see such restrictions as discriminatory or unjustified, potentially harming America's values of openness and religious freedom. Considering these factors, I might disapprove due to concerns about discrimination and the impact on civil liberties.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of introducing tighter restrictions on those entering the U.S. from some majority-Muslim countries because such policies can be discriminatory and may unfairly target specific communities, potentially undermining principles of fairness and inclusion. Additionally, they might harm diplomatic relations and reduce the country's reputation for welcoming diversity. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Implementing tighter restrictions on those entering the U.S. from some majority-Muslim countries can be viewed from different perspectives. Supporters might argue that such measures are necessary for national security to prevent potential threats. Critics, however, often see this as discriminatory and harmful to America's values of inclusion and fairness, fostering fear and intolerance. Personal opinions on existing policies and broader views on immigration and security influence individual responses. Given the complexity and potential for controversy, some might choose to withhold judgment or need more information before approving or disapproving. Considering all these factors, I lean toward disapproval due to concerns about discrimination and fairness.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of introducing tighter restrictions on those entering the U.S. from some majority-Muslim countries because such policies can be discriminatory and may unfairly target specific communities, potentially undermining principles of fairness and inclusion. Additionally, they might harm diplomatic relations and reduce the country's reputation for welcoming diversity. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that introducing tighter restrictions on individuals entering the U.S. from some majority-Muslim countries raises concerns about discrimination and civil liberties. While national security is important, policies perceived as targeting specific religions or groups can undermine principles of inclusion and fairness. Therefore, I am inclined to disapprove of such restrictions to uphold values of equality and non-discrimination.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of introducing tighter restrictions on those entering the U.S. from some majority-Muslim countries because such policies can be discriminatory and may unfairly target specific communities, potentially undermining principles of fairness, inclusion, and civil liberties. These measures might also negatively impact the country's reputation and diplomatic relations. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of introducing tighter restrictions on those entering the U.S. from some majority-Muslim countries because such policies can be discriminatory and may unfairly target specific communities. They risk undermining principles of fairness, inclusion, and civil liberties, and could harm the country's reputation and diplomatic relations. Promoting policies that are inclusive and non-discriminatory aligns better with values of equality and human rights.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of introducing tighter restrictions on those entering the U.S. from some majority-Muslim countries because such policies can be discriminatory and may unfairly target specific communities, potentially undermining principles of fairness, inclusion, and civil liberties. These measures might also harm diplomatic relations and the country's reputation for welcoming diversity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of introducing tighter restrictions on those entering the U.S. from some majority-Muslim countries because such policies can be discriminatory and may unfairly target specific communities, undermining principles of fairness, inclusion, and civil liberties. They can also harm diplomatic relations and damage the country's reputation as a welcoming and diverse society. Therefore, I believe these restrictions are unjustified and problematic.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

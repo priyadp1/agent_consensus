@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way Prime Minister Tayyip Erdogan is handling each of the following areas...crime",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I think Prime Minister Tayyip Erdogan's approach to crime has been a mix of efforts and challenges. While there have been initiatives aimed at strengthening law enforcement and reducing crime rates, there have also been concerns about the fairness and transparency of certain enforcement actions. Given the complexities involved and the perceptions of political influence in the justice system, I lean toward disapproval, especially considering ongoing issues related to civil liberties and perceived suppression of dissent. Therefore, I disapprove of his handling of crime. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My opinion on Prime Minister Tayyip Erdogan's handling of crime is that disapproval is warranted. While he has implemented some security measures, critics argue that overall crime rates and issues related to justice and law enforcement remain concerns under his leadership. This suggests that the approach may not be sufficiently effective in addressing the root causes or ensuring safety for all citizens.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My opinion on Prime Minister Tayyip Erdogan's handling of crime is mixed. While some may appreciate the government's efforts to maintain law and order, others might criticize perceived shortcomings in ensuring safety and justice. Overall, I believe there is room for improvement, but I recognize ongoing initiatives to address crime. Based on this, I lean towards disapproval, considering public concerns about crime levels and justice.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of crime has not been sufficiently effective in addressing safety and justice concerns. Despite some efforts, issues related to crime rates and law enforcement remain problematic, leading to a general sense of disapproval. Therefore, I disapprove of his approach in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that Prime Minister Tayyip Erdogan's approach to crime has been a subject of debate. While there have been efforts to improve law enforcement, concerns persist regarding transparency, fairness, and civil liberties. The mixed opinions and ongoing challenges make it difficult to fully approve of his handling of crime. Based on these considerations, I lean toward disapproval.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Tayyip Erdogan's handling of crime has faced significant challenges, including concerns about the fairness and transparency of law enforcement. While there have been efforts to improve security, ongoing issues surrounding civil liberties and perceived politicization of justice systems suggest that his approach may not be fully effective or equitable. Therefore, I lean toward disapproval of his management of crime.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Tayyip Erdogan's handling of crime has faced persistent concerns regarding transparency, fairness, and civil liberties, despite ongoing efforts to improve law enforcement. The perception that issues such as politicization and civil rights violations continue to undermine the effectiveness and fairness of the justice system leads me to disapprove of his approach in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of crime has faced significant challenges, including concerns about the fairness and transparency of law enforcement. While there have been ongoing efforts to improve security, issues such as civil liberties and the politicization of justice systems suggest that his approach may not be fully effective or equitable. Based on these considerations, I disapprove of his management of crime.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Tayyip Erdogan's handling of crime has been somewhat mixed. While there have been efforts to improve law enforcement and public safety, concerns about transparency, fairness, and the effectiveness of these measures remain. Given these ongoing issues and public debate, I lean towards disapproval. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

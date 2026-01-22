@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...Most people are better off in a free market economy, even though some people are rich and some are poor",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy generally offers opportunities for individuals to improve their circumstances through innovation and hard work, which often leads to overall prosperity. While acknowledging that income inequality exists, the benefits of economic freedom tend to promote growth and individual choice. Therefore, I mostly agree with the statement, recognizing that some economic disparities are inevitable but that the system's overall advantages outweigh the drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe a free market economy generally promotes individual freedom, innovation, and economic growth, which can lead to overall improvements in living standards. While it may result in disparities in wealth, these differences can motivate people to work harder and improve their situations. Therefore, I mostly agree with the statement that most people are better off in a free market economy despite income inequalities. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy generally provides individuals with opportunities for innovation, entrepreneurship, and economic growth. It tends to promote efficiency and incentivizes people to work hard, which can lead to overall societal benefits. While I acknowledge that income disparities exist, I think that such a system offers the best chance for most people to improve their standard of living compared to alternative economic models that can be more restrictive or less dynamic. Therefore, I lean towards agreeing that most people are better off in a free market economy, even though some will inevitably be rich and some poor.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy tends to foster innovation, efficiency, and economic growth, which can improve overall living standards for most people. Although income disparities are an inevitable consequence, the opportunities it provides often benefit a broad segment of society. Therefore, I mostly agree with the statement that most people are better off in a free market economy despite some being rich and others poor.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy generally encourages innovation, entrepreneurship, and economic growth, which can lead to improved living standards for many people. While it does result in income disparities, these differences are often viewed as a natural outcome of individual effort and risk-taking. Overall, the benefits of economic freedom and opportunities for most individuals seem to outweigh the drawbacks of inequality. Therefore, I mostly agree with the statement that most people are better off in a free market economy, even though some will be rich and some poor.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy generally provides opportunities for individuals to improve their lives through innovation and effort, leading to overall prosperity. While income disparities exist, these are often a natural result of economic freedom and can serve as motivation for growth and productivity. Therefore, I mostly agree with the statement that most people are better off in a free market economy despite some being rich and some being poor.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy can promote economic growth, innovation, and opportunities that benefit many individuals. While income inequality is a concern, the potential for upward mobility and improved living standards for most outweighs these issues. Therefore, I mostly agree with the statement that most people are better off in a free market economy, despite some being rich and some being poor.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy can promote innovation, efficiency, and economic growth, which benefits many people, even though income disparities exist. While some may be rich and others poor, the overall improvements in living standards tend to favor most individuals. Therefore, I find that I mostly agree with the statement that most people are better off in a free market economy despite some being rich and others poor.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that a free market economy promotes innovation, efficiency, and economic growth, which can raise living standards for many people. Although income inequality exists, the opportunities created tend to benefit a broad segment of society. Therefore, I mostly agree with the statement that most people are better off in a free market economy, even though some are rich and some are poor.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

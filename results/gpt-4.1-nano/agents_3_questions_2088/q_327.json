@@ -1,0 +1,61 @@
+{
+  "question": "As I read some policies of U.S. President Donald Trump, please tell me if you approve or disapprove of each one. e. U.S. increasing tariffs or fees on imported goods from other countries",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Increasing tariffs or fees on imported goods can be seen as a way to protect domestic industries and create leverage in trade negotiations; however, it can also lead to higher prices for consumers and potential retaliation from other countries, which may harm the economy. My own perspective may depend on the broader context and how these policies are implemented. Generally, I might be cautious about such measures due to potential negative economic impacts.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Increasing tariffs or fees on imported goods can protect domestic industries from foreign competition, potentially boosting local employment and manufacturing. However, it can also lead to higher prices for consumers, potential trade wars, and retaliation from other countries, which might hurt the economy overall. My view depends on balancing these effects; generally, I might lean toward disapproval if I believe the negative consequences outweigh the benefits, but support if I see it as a strategic move to strengthen the economy. Given the complexity, I tend to disapprove because such measures can harm global trade relations and lead to higher costs for everyday consumers.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Increasing tariffs on imported goods can protect domestic industries and possibly lead to better trade terms, but it can also raise prices for consumers and risk trade wars. My stance depends on the context and specific conditions, but generally, I might see value in using tariffs as a bargaining tool or protective measure. However, without detailed context, I lean towards caution. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe increasing tariffs can serve as a strategic tool to protect domestic industries and improve trade negotiations. While it may cause some higher prices for consumers and potentially lead to retaliatory measures, if used judiciously, it can strengthen the economy and safeguard jobs. Therefore, I approve of policies that increase tariffs on imported goods as long as they are part of a balanced economic strategy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe increasing tariffs can serve as a strategic tool to protect domestic industries and strengthen bargaining positions in trade negotiations. However, it must be approached cautiously because it can also lead to higher consumer prices and potential retaliation from other countries, which could harm the overall economy. Considering these factors, I lean towards disapproval due to the potential negative economic impacts if not managed carefully. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I lean towards disapproval of increasing tariffs or fees on imported goods because, while they may protect certain domestic industries, they tend to raise prices for consumers and can provoke retaliatory actions from other countries. This often leads to trade tensions and can negatively impact the broader economy. Considering these potential drawbacks, I believe such policies might do more harm than good in the long run.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of increasing tariffs or fees on imported goods from other countries because, while they may protect certain domestic industries, they tend to raise prices for consumers and can provoke retaliatory actions from other countries. This often leads to trade tensions and can negatively impact the broader economy. Considering these potential drawbacks, I believe such policies might do more harm than good in the long run.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe increasing tariffs or fees on imported goods can be a useful tool to protect domestic industries and support economic interests, especially if implemented thoughtfully to avoid harming consumers or provoking damaging trade conflicts. Therefore, I approve of such policies when used strategically.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that increasing tariffs can be a useful strategy to protect domestic industries and strengthen trade negotiations, but it carries risks such as higher consumer costs and retaliation that could harm the economy if not carefully managed. Given these considerations, I lean towards disapproval to avoid potential negative impacts.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

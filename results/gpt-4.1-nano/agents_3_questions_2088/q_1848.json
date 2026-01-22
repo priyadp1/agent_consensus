@@ -1,0 +1,60 @@
+{
+  "question": "For each of the following statements about the drone attacks, please tell me whether you agree or disagree...they kill too many innocent people.",
+  "options": [
+    "Agree",
+    "Disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that drone attacks often result in unintended civilian casualties, which raises serious ethical and humanitarian concerns. While security is important, the loss of innocent lives can undermine public support and moral standing. Therefore, I disagree with the idea that these attacks effectively target only militants and do not harm innocent people.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that drone attacks that result in the death of innocent people are problematic because they cause unnecessary harm and can undermine moral and ethical standards. Additionally, killing innocent civilians can lead to increased resentment and hostility, potentially fueling more conflict rather than resolving it. Therefore, I disagree with the idea that drone attacks can be justified despite civilian casualties.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that drone attacks handling is a complex issue. On one hand, they can be an effective counter-terrorism tool, potentially saving lives in the long run. On the other hand, the risk of causing civilian casualties raises serious ethical and humanitarian concerns. While security is important, I think ensuring the safety of innocent people should be a top priority, and therefore I believe measures should be taken to minimize these unintended deaths. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that while drone attacks can be a useful security measure, the loss of innocent lives is a serious issue that cannot be overlooked. Innocent casualties not only cause moral and ethical concerns but can also lead to greater hostility and conflict, undermining long-term peace efforts. Therefore, I agree that they kill too many innocent people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I agree that drone attacks kill too many innocent people because, despite their tactical advantages, reports and investigations have shown repeated instances of civilian casualties. This often leads to humanitarian concerns and questions about the morality of such operations. Protecting innocent lives should be a priority, and if drone strikes cause significant unintended harm, their use needs to be critically reassessed and improved to prevent unnecessary suffering.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that drone attacks often result in unintended civilian casualties, which raises serious ethical and humanitarian concerns. While security is important, the loss of innocent lives can undermine public support and moral standing. Therefore, I disagree with the idea that these attacks effectively target only militants and do not harm innocent people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that drone attacks result in significant unintended civilian casualties, which raises serious ethical and humanitarian issues. Protecting innocent lives should always be a priority, and if these operations cause excessive harm to civilians, it indicates a need for reevaluation and stricter safeguards. Therefore, I agree that they kill too many innocent people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that drone attacks pose significant risks of civilian casualties, which raises serious moral and ethical concerns. While they may be aimed at combating threats, the unintended deaths of innocent people can cause moral dilemmas, undermine public support, and potentially escalate conflicts. Therefore, I agree that they kill too many innocent people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that drone attacks can be effective for security, but the deaths of innocent people raise serious moral and ethical concerns. Civilian casualties often lead to increased hostility and can undermine broader peace efforts, making it crucial to minimize such harm. Given these considerations, I agree that they kill too many innocent people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

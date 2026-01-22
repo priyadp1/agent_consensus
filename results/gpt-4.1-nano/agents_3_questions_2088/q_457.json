@@ -1,0 +1,61 @@
+{
+  "question": "(Do you approve or disapprove of the way Prime Minister Narendra Modi is handling each of the following areas?)...Helping the poor",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi's efforts to help the poor have been commendable, particularly through initiatives like the Jan Dhan Yojana, Swachh Bharat Abhiyan, and various social welfare programs aimed at improving living conditions and promoting financial inclusion. However, opinions may vary depending on individual experiences and perspectives. Therefore, I might reasonably either approve or disapprove, but given the positive impact of many policies, I lean towards approval. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has made significant efforts to address poverty and improve conditions for the underprivileged through various social welfare schemes, financial inclusion initiatives, and outreach programs. These efforts have garnered both praise and criticism, but overall, I tend to approve of his approach in helping the poor due to the tangible initiatives he's launched. However, I acknowledge there may be differing opinions and room for improvement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has made significant efforts to help the poor through various programs and initiatives such as the Jan Dhan Yojana, Swachh Bharat Abhiyan, and various health schemes. These efforts indicate a focus on poverty alleviation and improving living conditions for marginalized communities. However, opinions may vary based on regional impacts and the perception of how effectively these programs reach the intended beneficiaries. Overall, I lean towards approving his handling of this area. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has taken several initiatives aimed at helping the poor, such as financial inclusion schemes, health programs, and sanitation drives. While these efforts demonstrate a commitment to poverty alleviation, the effectiveness of reach and implementation varies, and some areas still face significant challenges. Nonetheless, his approach appears largely focused on addressing poverty through concrete policies and programs, which I find commendable.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has taken tangible steps to help the poor through initiatives like Jan Dhan Yojana, Swachh Bharat Abhiyan, and various social welfare programs. These efforts demonstrate a focus on poverty reduction and improving living standards for disadvantaged communities. While there may be some concerns about the reach and implementation, overall, the intention and impact of these programs seem positive. Therefore, I approve of his handling in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has taken considerable steps to help the poor through various initiatives like financial inclusion schemes, social welfare programs, and sanitation drives. While there is room for improvement, the efforts seem largely positive and aimed at addressing poverty and improving living conditions for the underprivileged. Therefore, I lean towards approving of his handling of this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has implemented several initiatives aimed at helping the poor, such as financial inclusion schemes, social welfare programs, and sanitation drives, which demonstrate a focus on poverty alleviation and improving living conditions for disadvantaged populations. While there are areas for further improvement, the overall efforts appear to be positive and deliberate. Therefore, I approve of his handling in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has undertaken significant initiatives aimed at helping the poor, such as financial inclusion schemes, health programs, and sanitation drives. These efforts reflect a focus on poverty alleviation, though their impact varies across regions. Overall, his approach appears largely constructive and positive toward addressing poverty alleviation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Prime Minister Narendra Modi has shown genuine commitment to helping the poor through various initiatives like financial inclusion schemes, sanitation drives, and social welfare programs. While implementation challenges exist, these efforts reflect a focused approach toward poverty alleviation and improving living standards for disadvantaged communities. Therefore, I approve of his handling in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

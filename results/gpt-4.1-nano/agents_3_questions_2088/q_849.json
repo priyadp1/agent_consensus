@@ -1,0 +1,61 @@
+{
+  "question": "Now, thinking about some possible economic concerns for the country. Do you think that the power of financial institutions and banks pose(s) a major threat, a minor threat, or no threat to the economic well being of your country? ",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "No threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks poses a minor threat to the country's economic well-being. While they play an essential role in providing funding and managing financial transactions, their influence can sometimes lead to risks like market volatility or economic crises if not properly regulated. However, with effective oversight, their role remains manageable, and they are generally beneficial to the economy. Therefore, I see their threat level as minor rather than major or nonexistent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks can pose a minor threat to the economic well-being of the country. While they play a crucial role in providing access to credit, facilitating transactions, and supporting economic growth, their influence can sometimes lead to risky practices, such as excessive lending or speculative investments, which may contribute to economic instability. However, with proper regulation and oversight, their threats can be mitigated, preventing a major crisis. Therefore, I consider their threat level to be minor rather than major or nonexistent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks can pose a minor threat to the country's economic well-being. While they play a crucial role in funding growth and facilitating transactions, their influence can sometimes lead to risky lending practices or financial crises if not properly regulated. However, with adequate oversight and regulations, their impact remains manageable, making it more of a concern that needs attention rather than an outright major threat. Therefore, I view their potential negative influence as significant enough to warrant caution but not as an imminent or major danger at this time.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks poses a minor threat to the country\u2019s economic well-being. While these institutions are essential for economic activity and growth, their potential to cause instability through risky lending or speculative behaviors cannot be ignored. Nonetheless, with effective regulation and oversight, their threat level can be kept manageable, preventing it from escalating into a major crisis. Therefore, I consider their threat level to be minor rather than major or nonexistent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks poses a minor threat to the country's economic well-being. While they are essential for facilitating economic activity, their influence can sometimes lead to risky behaviors or financial instability if not carefully regulated. However, with proper oversight and regulation, their negative impact can be minimized, making the threat level more manageable and not as severe as a major threat. Therefore, I see their threat as minor rather than major or nonexistent.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks poses a minor threat to the country's economic well-being. While they are essential for providing credit, facilitating transactions, and supporting growth, their influence can sometimes lead to risky practices like excessive lending or speculative investments, which may contribute to economic instability. With proper regulation and oversight, these threats can be managed effectively, making their impact more manageable and less likely to cause a major crisis. Therefore, I consider their threat level to be minor rather than major or nonexistent.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks poses a minor threat to the country's economic well-being. While they play a vital role in supporting economic activity, their influence can sometimes lead to risky behaviors such as excessive lending and speculative investments, which could cause instability if not properly regulated. However, with effective oversight and regulation, these risks can be controlled, making their threat level manageable and not as severe as a major threat. Therefore, I see their threat as minor rather than major or nonexistent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the power of financial institutions and banks poses a minor threat to the country's economic well-being. While these institutions are crucial for supporting economic activity through credit and transactions, their potential to cause instability through risky practices such as excessive lending or speculative investments cannot be ignored. However, with effective regulation and oversight, these risks can be managed, making their threat level manageable and less likely to escalate into a major crisis. Therefore, I consider their threat level to be minor rather than major or nonexistent.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that financial institutions and banks pose a minor threat to the country's economic well-being. While they play a crucial role in economic growth and stability, their potential to cause financial crises through risky behaviors or overly leveraged activities can pose risks. However, with effective regulation and oversight, these dangers can be controlled and minimized, preventing them from escalating into a major threat. Therefore, I consider their threat level to be minor rather than major or nonexistent.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

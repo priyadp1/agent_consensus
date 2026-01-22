@@ -1,0 +1,60 @@
+{
+  "question": "Some say that most people who don't succeed in life fail because of society's failures. Others say that most people who don't succeed do so because of their own individual failures.  Which comes closer to your point of view?",
+  "options": [
+    "Society's failures",
+    "Individual failures"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that individual failures play a more significant role in personal success or failure. While societal factors such as economic conditions or access to resources can influence opportunities, ultimately, personal qualities like determination, skills, and decisions often determine outcomes. People have varying degrees of control over their actions, and personal responsibility is crucial in achieving success. Society can provide a framework, but individual effort and choices tend to be decisive factors.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that individual failures play a more significant role in personal success or failure because each person\u2019s choices, efforts, and determination greatly influence their outcomes. While society can create obstacles, ultimately, individual attributes such as perseverance, skills, and motivation often determine whether someone overcomes challenges or falls short. Personal accountability and proactive behavior tend to have a direct impact on success, making individual failures a more compelling explanation in my view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that both society's failures and individual failures play a role in a person's success or lack thereof. However, I tend to lean more towards individual failures because personal motivation, skills, and choices significantly influence outcomes. While societal factors can create barriers, ultimately, personal responsibility and effort often determine success. Recognizing individual agency encourages people to work towards their goals despite societal challenges, although improvements in societal structures can certainly help support success for more people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that individual failures are the primary reason for personal lack of success because personal effort, choices, and resilience play a crucial role in overcoming obstacles and achieving goals. While societal factors can influence opportunities, ultimately, individuals have the capacity to make decisions that impact their outcomes. Personal responsibility and determined effort often make the difference in success or failure, making individual failures the more compelling explanation in my view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that individual failures play a more significant role in personal success or failure. While societal factors such as economic conditions, access to resources, and systemic barriers can influence opportunities, the ultimate determinants of success often come down to personal qualities like determination, skills, decisions, and effort. People have varying degrees of control over their actions, and personal responsibility can be a key factor in achievement. Recognizing the importance of individual agency can motivate people to take proactive steps toward their goals, even in challenging circumstances. Therefore, I lean more toward individual failures as the primary reason for success or failure.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that individual failures are the primary factor in personal success or failure. While societal conditions can create barriers or opportunities, ultimately, a person\u2019s choices, effort, and resilience have a more direct impact on their outcomes. Personal responsibility and determination often determine whether someone overcomes challenges or falls short, making the role of personal accountability more significant in my view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that individual failures are more directly responsible for personal success or failure because personal choices, effort, and resilience tend to have a more immediate impact on outcomes. While societal factors can influence opportunities, ultimately, an individual\u2019s actions and determination often determine their path. Recognizing personal responsibility encourages proactive behavior and accountability, which are crucial for overcoming obstacles and achieving goals.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that individual failures play a more significant role in personal success or failure because personal effort, decisions, and resilience are vital in overcoming obstacles and achieving goals. While societal factors may influence opportunities, ultimately, an individual's choices and determination are key drivers of their outcomes. Personal responsibility tends to have a more direct impact on success or failure.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that both societal and individual factors play significant roles in a person's success or failure. However, I think that ultimately, personal effort, decisions, and resilience are the key determinants because individuals have the capacity to shape their own paths through their actions, even within societal constraints. Recognizing personal responsibility empowers individuals to overcome challenges and pursue their goals actively. Therefore, I lean more towards individual failures as the primary reason for success or failure.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

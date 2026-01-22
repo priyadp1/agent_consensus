@@ -1,0 +1,62 @@
+{
+  "question": "What about the way movies, TV and music from different parts of the world are now available in your country - do you think this is a very good thing, somewhat good, somewhat bad or a very bad thing for our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of movies, TV shows, and music from different parts of the world is a very good thing for our country. It promotes cultural understanding, broadens people's perspectives, and encourages diversity. Access to a wide range of international content can inspire local artists and creators, leading to a richer cultural landscape. While there might be concerns about cultural dilution, overall, the benefits of cultural exchange and exposure outweigh the negatives, making this a positive development for our society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The availability of movies, TV shows, and music from different parts of the world in my country is generally a positive development. It promotes cultural exchange, broadens people's perspectives, and fosters creativity by exposing audiences to diverse stories and artistic expressions. While there might be some concerns about cultural dilution or competition with local creators, the overall benefits of increased access to global content seem to outweigh the negatives. This diversity enriches our cultural landscape and encourages mutual understanding among different cultures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the widespread availability of movies, TV shows, and music from different parts of the world in our country is a very good thing because it promotes cultural understanding and diversity. It allows people to experience different perspectives, traditions, and artistic expressions, which can enrich our society and broaden our horizons. Such access also encourages the domestic entertainment industry to improve and innovate in response to global competition. While there may be concerns about cultural homogenization or the impact on local industries, overall, the global exchange of cultural products fosters greater appreciation and connectivity among different communities. Therefore, I see this trend as a positive development for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of international movies, TV shows, and music in our country is a very positive development. It promotes cultural exchange, enhances diversity, and provides audiences with a wider range of artistic expressions and perspectives. While there are potential concerns about cultural dilution or competition, the overall benefits of global access\u2014such as fostering understanding, creativity, and innovation\u2014seem to outweigh the negatives. This exposure can also encourage our local industries to improve and adapt, which is beneficial for the cultural landscape as a whole.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of movies, TV shows, and music from different parts of the world is a very good thing for our country. It promotes cultural understanding, diversity, and helps broaden people's perspectives. Exposure to international content can inspire local artists and contribute to a richer cultural scene. While there are some concerns about cultural dilution, the overall benefits of cultural exchange and increased global connectivity outweigh the negatives. Therefore, I see this as a positive development for our society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of movies, TV shows, and music from different parts of the world is a very good thing for our country. It helps us understand and appreciate different cultures, inspires local artists, and makes our cultural landscape more vibrant. While there are some concerns about cultural dilution, the overall benefits of cultural exchange and diversity are more significant. This exposure fosters mutual understanding and enriches our society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of movies, TV shows, and music from different parts of the world is a very good thing for our country. It promotes cultural understanding, diversity, and helps broaden people's perspectives. Exposure to international content can inspire local artists and contribute to a richer cultural scene. While there are some concerns about cultural dilution, the overall benefits of cultural exchange and increased global connectivity outweigh the negatives. Therefore, I see this as a positive development for our society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of international movies, TV shows, and music in our country is a very good thing. It promotes cultural exchange, broadens our perspectives, and encourages creativity both locally and globally. While some may worry about cultural dilution, the overall benefits of diversity and mutual understanding outweigh the negatives, and this trend helps enrich our cultural landscape. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of international movies, TV shows, and music in our country is a very positive development. It promotes cultural exchange, enhances diversity, and provides audiences with a wider range of artistic expressions and perspectives. While there are potential concerns about cultural dilution or competition, the overall benefits of global access\u2014such as fostering understanding, creativity, and innovation\u2014seem to outweigh the negatives. This exposure can also encourage our local industries to improve and adapt, which is beneficial for the cultural landscape as a whole. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

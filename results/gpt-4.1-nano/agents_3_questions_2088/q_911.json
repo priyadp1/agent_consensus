@@ -1,0 +1,62 @@
+{
+  "question": "How important is it that the dispute over Kashmir be resolved, very important, somewhat important, not too important, or not at all important?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe resolving the Kashmir dispute is very important because it affects regional stability, peace, and the well-being of millions of people on both sides. An unresolved dispute can lead to ongoing tensions, conflict, and human suffering, making its resolution crucial for long-term peace in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The dispute over Kashmir has significant implications for regional stability, international relations, and the lives of millions of people. Resolving this long-standing issue could lead to improved peace and security in the region, which is why I believe it is very important to resolve. Given the potential benefits of a peaceful resolution, addressing this conflict should be a top priority for relevant governments and international organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The dispute over Kashmir involves complex geopolitical issues, regional stability, and human rights concerns that significantly impact millions of lives. Resolving this dispute is crucial for peace and development in the region, and its importance extends beyond local interests to global stability. Therefore, I believe it is very important to find a resolution.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The Kashmir dispute involves longstanding geopolitical tensions, regional stability concerns, and human rights issues affecting millions of people. Resolving this conflict could lead to significant improvements in peace, security, and development not only for the region but also for international stability. Given these considerations, its importance cannot be overstated, and addressing it should be prioritized by relevant authorities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe resolving the Kashmir dispute is very important because it significantly impacts regional stability, peace, and the well-being of millions of people. An unresolved conflict can perpetuate tensions and violence, making its resolution essential for long-term peace and development in the region. Given its broader implications for regional and global stability, addressing this issue is crucial. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe resolving the Kashmir dispute is very important because it directly impacts regional peace, stability, and the well-being of millions. An unresolved conflict continues to incite tensions and violence, hindering progress and human security. Addressing this issue can foster long-term peace and improve relations in the region, benefiting many lives. Therefore, I consider it very important to resolve the dispute.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that resolving the Kashmir dispute is very important. The conflict has significant implications for regional stability, peace, and the well-being of millions of people. An ongoing dispute fuels tensions and violence, which hampers development and security in the area. Achieving a resolution can lead to long-term peace, improved regional relations, and better quality of life for those affected. Given these considerations, I see it as a critical issue that deserves priority.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe resolving the Kashmir dispute is very important because it is a longstanding conflict that has significant implications for regional peace, stability, and human rights. Its resolution could lead to improved security, economic development, and better relations among involved parties, ultimately benefiting millions of people and contributing to global stability. Given these factors, the importance of resolving this issue cannot be overstated.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The Kashmir dispute has significant geopolitical, regional, and humanitarian implications that affect stability and peace in South Asia and beyond. Resolving this conflict would not only improve the lives of millions directly affected but also contribute to regional security and international stability. Given the broad and profound impact, it is very important to address this issue promptly and effectively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

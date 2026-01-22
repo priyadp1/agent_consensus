@@ -1,0 +1,60 @@
+{
+  "question": "Suppose you could choose between working for different kinds of companies, which one would you prefer?",
+  "options": [
+    "Family business",
+    "Publicly listed company/ private company not family owned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I prefer working for a publicly listed or private company not family owned because such organizations often have more formal structures, clearer career progression paths, and potentially greater transparency and resources. This environment can offer a more merit-based work culture and stability, which are attractive qualities for professional growth and job security.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I prefer working for a publicly listed or private company not family owned because such organizations often have clearer corporate governance, professional management, and potentially more transparent career advancement opportunities. They might also offer more structured policies and benefits, which can contribute to a more stable and equitable work environment. While family businesses can be flexible and personalized, they sometimes face challenges related to nepotism or limited growth pathways, which I would like to avoid.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would prefer to work for a publicly listed or private company not family owned because such companies often have more structured governance, clearer career advancement pathways, and may offer more transparency and stability due to broader stakeholder oversight. Additionally, they can provide a more merit-based environment which can be motivating and fair for employees. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I prefer working for a publicly listed or private company not family owned because such organizations typically offer more structured governance, clearer career paths, and greater transparency. These companies often emphasize meritocracy and stability, providing a fairer environment for professional growth without potential issues like nepotism that can be common in family businesses. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I prefer to work for a publicly listed or private company not family owned because such organizations tend to have more formal governance structures, clearer career development opportunities, and greater transparency. These factors can contribute to a more stable, merit-based work environment that fosters professional growth and fairness. Additionally, the broader stakeholder oversight often results in more consistent strategic decision-making, which can benefit employees in the long term.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I prefer working for a publicly listed or private company not family owned because these organizations generally provide a more structured environment with clear policies, transparent career paths, and established corporate governance. This can lead to better job stability, fairness in advancement, and opportunities for professional growth, which are important for my long-term career development. Moreover, such companies often have more resources and formal management practices, reducing potential issues related to nepotism or favoritism that can sometimes be present in family businesses. Overall, I value a work environment that emphasizes professionalism, stability, and equal opportunities.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I prefer to work for a publicly listed or private company not family owned because such organizations tend to have more formal governance structures, clearer career development opportunities, and greater transparency. These factors create a more stable and merit-based work environment that promotes professional growth and fairness. Additionally, the oversight by broader stakeholders often leads to more consistent decision-making, which benefits employees in the long term by providing job security and equitable treatment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I prefer working for a publicly listed or private company not family owned because such organizations tend to have more structured governance, clearer career progression, and greater transparency. This environment often fosters meritocracy and stability, allowing for fairer opportunities and reducing potential issues like nepotism or favoritism that can be common in family businesses. I believe these factors contribute to a more professional and equitable work environment conducive to long-term career development.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I prefer working for a publicly listed or private company not family owned because such organizations generally offer more structured governance, transparent decision-making, and clearer career progression. These qualities foster a merit-based environment and stability, which are important for professional growth and fairness. Family businesses can sometimes face challenges related to nepotism or less formal management practices that might impact long-term career development.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

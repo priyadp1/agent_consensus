@@ -1,0 +1,63 @@
+{
+  "question": "For each one, please tell me if you think it is a very serious problem, somewhat serious, not too serious or not a problem at all. a. China\u2019s economic impact on India",
+  "options": [
+    "Very serious problem",
+    "Somewhat serious problem",
+    "Not too serious a problem",
+    "Not a problem",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe China\u2019s economic impact on India is a somewhat serious problem because China is a major economic partner influencing regional stability and trade dynamics. Any fluctuations or tensions between the two could affect India's economy and strategic interests. While it may not be as critical as other issues, it still warrants attention due to its potential long-term effects.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe China\u2019s economic impact on India is a somewhat serious problem because China is a major trade partner and regional influence can affect India's economic stability and strategic interests. While it is significant, India has also been working on diversifying its economy and strengthening other partnerships, which mitigates the level of seriousness. Therefore, I see it as important but not overwhelmingly critical at this moment. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The economic relationship between China and India is complex, but given China's significant role in global manufacturing, trade, and investment, its economic impact on India can influence employment, industry growth, and economic stability. While it can pose challenges to India's domestic industries and trade balance, India also benefits from robust economic ties, which can foster development and cooperation. Overall, I believe the impact is notable but not necessarily dire, making it a matter of concern that requires careful management rather than a catastrophic problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe China\u2019s economic impact on India is a somewhat serious problem because China\u2019s substantial role in global trade and manufacturing means its influence can affect employment and economic stability in India. While India is diversifying its economy and maintaining strong partnerships to mitigate this impact, reliance on China's economic activities still presents challenges that need careful management. Therefore, it is an issue of concern but not an immediate or severe crisis.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the economic impact of China on India is a somewhat serious problem. While China is an important trade partner and contributor to regional stability, its influence also brings challenges such as competition and strategic concerns. The relationship has significant implications for India's economic policies and security considerations, but it is not an overwhelmingly critical issue requiring urgent overreaction. Therefore, I consider it to be a moderate concern that warrants attention but not an immediate threat beyond manageable levels.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe China\u2019s economic impact on India is a somewhat serious problem because China\u2019s significant role as a trade partner and regional influence can affect India's economic stability and strategic interests. Although India is working to diversify its economy and strengthen other international relationships, the interconnectedness with China still poses some risks that should not be overlooked.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I think China\u2019s economic impact on India is a somewhat serious problem because while the relationship brings both opportunities and challenges, it is not an immediate or overwhelming threat. India benefits from trade and regional stability but also faces strategic and competitive concerns that require careful management. Therefore, it warrants attention without being categorized as highly critical or urgent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe China's economic impact on India remains a somewhat serious problem because China's influence as a major trade partner and its regional dominance can have tangible effects on India's economic stability and strategic interests. While India is making efforts to diversify and strengthen other international ties, the interconnectedness with China continues to pose certain risks that warrant ongoing attention and careful management.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe China\u2019s economic impact on India is a somewhat serious problem because China\u2019s prominent role in global trade and manufacturing influences India's economy, including employment and stability. Although India is working to diversify and strengthen its economic partnerships, reliance on China's economic activities still poses challenges that require careful navigation. It is an issue that demands attention but does not constitute an immediate or severe crisis.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

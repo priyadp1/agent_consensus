@@ -1,0 +1,62 @@
+{
+  "question": "your country is negotiating a free-trade agreement with [U.S.: countries in the Asian-Pacific region / All others: the United States and other Asian-Pacific countries] called the Trans-Pacific Partnership. Do you think this trade agreement would be a good thing for our country or a bad thing?",
+  "options": [
+    "Good",
+    "Bad",
+    "Haven't heard enough (VOL)",
+    "Neither (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the Trans-Pacific Partnership could be beneficial for our country because it may promote economic growth, create jobs, and strengthen international relations with Asian-Pacific countries. However, I also recognize that such agreements can have downsides, such as potential impacts on local industries and labor standards. Overall, if the agreement includes fair provisions that protect workers and promote sustainable development, it would likely be a good thing. Therefore, I think it could be positive, but I need to see more details to be fully confident. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the Trans-Pacific Partnership could be beneficial for our country because it may create new trade opportunities, boost economic growth, and promote international cooperation with key Asian-Pacific economies. However, I also recognize that such agreements can have downsides, such as potential negative impacts on local industries or concerns about labor standards. Overall, if well-structured, it could be a positive step forward, but I would need more detailed information on its specific provisions to fully assess its impact. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The Trans-Pacific Partnership has potential benefits such as boosting economic growth, increasing exports, and strengthening diplomatic ties with Asian-Pacific countries. However, concerns also exist regarding the possible negative impacts on local industries, workers, and environmental standards. Without more detailed information, it's difficult to fully assess whether this agreement would be overall beneficial or harmful. Personally, I think I need to learn more about the specifics before forming a firm opinion.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the Trans-Pacific Partnership could have positive effects by opening up new markets, encouraging economic growth, and fostering stronger relationships with Asian-Pacific nations. However, I am also aware that there could be negative consequences for local industries and workers, and I feel I need more detailed information about the specific provisions to make a fully informed judgment. Given that, I think I haven't heard enough to confidently say it would be good or bad, but I lean toward the potential benefits outweighing the risks if carefully managed.  \nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that a free-trade agreement like the Trans-Pacific Partnership could bring economic benefits such as increased trade opportunities, job creation, and stronger regional cooperation. However, I am also aware of potential risks to local industries, labor standards, and environmental protections. Since I do not have enough detailed information about the specific terms of the agreement, I cannot fully determine if it would be a positive or negative impact for our country. Therefore, I think it is important to learn more before forming a definitive opinion. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the Trans-Pacific Partnership could be beneficial for our country because it has the potential to open new markets, increase economic growth, and foster stronger international relations with Asian-Pacific nations. While I acknowledge concerns about potential impacts on local industries and labor standards, I think that with well-structured provisions, these issues can be mitigated. Overall, the possible economic and diplomatic gains make it seem like a good thing, provided that the details are carefully managed.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that engaging in a free-trade agreement like the Trans-Pacific Partnership could be advantageous for our country, as it may open new markets, boost economic growth, and strengthen diplomatic ties with Asian-Pacific nations. While I recognize concerns about possible impacts on local industries and standards, I think that with proper safeguards and careful management, these risks can be mitigated. Therefore, I see potential benefits outweighing the drawbacks if the agreement is well-structured.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that participating in the Trans-Pacific Partnership could bring significant economic and diplomatic benefits for our country by expanding markets and strengthening international relationships. However, I also recognize potential risks to local industries and workers, and I think that a careful, well-structured agreement could help address these concerns. Since I need more detailed information about the specific provisions to fully assess its impact, I am not entirely certain it would be a good or bad thing yet. Therefore, I would choose that I haven't heard enough to form a definitive opinion, but I see potential benefits if managed properly.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I recognize that the Trans-Pacific Partnership has potential economic benefits such as boosting trade and fostering regional cooperation. However, I am also aware of the concerns regarding impacts on local industries, workers, labor standards, and environmental protections. Since I do not have enough detailed information about the specific provisions of the agreement, I believe it is important to learn more before forming a definitive opinion. Therefore, I think I haven't heard enough to confidently say it would be good or bad, but I lean toward the potential benefits outweighing the risks if carefully managed.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Would you say that each of the following is doing a very good, somewhat good, somewhat bad, or very bad job dealing with global climate change? c. the United Nations",
+  "options": [
+    "Very good job",
+    "Somewhat good job",
+    "Somewhat bad job",
+    "Very bad job",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is doing a somewhat good job dealing with global climate change. The UN has played a significant role in facilitating international agreements, such as the Paris Agreement, and fostering cooperation among countries. While it has achieved some progress, critics argue that its efforts are often hampered by political disagreements and the limited enforceability of its initiatives. Therefore, I see its performance as positive but not exemplary.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United Nations has made some important efforts to coordinate global climate action through agreements like the Paris Agreement and by providing platforms for international cooperation. However, its effectiveness often depends on member countries' commitment and enforcement, which can vary. While the UN plays a vital role in raising awareness and facilitating dialogue, many people feel it does not enforce strong enough measures or ensure concrete actions from nations. Therefore, I would rate its performance as somewhat good but with room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is doing a somewhat good job addressing global climate change. While the organization has played a crucial role in fostering international cooperation and creating frameworks like the Paris Agreement, effectiveness often depends on the commitments and actions of individual member countries. There are also critiques regarding the enforcement and accountability mechanisms, which sometimes limit the impact. Overall, the UN provides a valuable platform and some leadership, but its success largely hinges on member states' willingness to act. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the responses and the overall assessment of the United Nations' role in climate change efforts, it seems that the general perception is that the UN is doing a somewhat good job. It plays a crucial role in international cooperation and raising awareness, but its impact is limited by factors like member countries' commitment and enforcement challenges. Therefore, I believe the UN's efforts are best characterized as somewhat good, acknowledging both its contributions and its limitations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is doing a somewhat good job dealing with global climate change. It has played an important role in facilitating international cooperation and establishing frameworks like the Paris Agreement, which are essential steps in addressing the crisis. However, its effectiveness is often limited by the willingness of individual countries to follow through on commitments and by the challenges in enforcing these agreements. While it has made progress, there is still significant room for improvement in its overall impact. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is doing a somewhat good job dealing with global climate change. It has played a crucial role in facilitating international agreements like the Paris Agreement and providing a platform for dialogue among countries. While its efforts have led to some progress, enforcement relies heavily on individual nations' commitments, and political disagreements often hinder more effective action. Overall, its performance is positive but has significant room for improvement. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the detailed responses emphasizing the UN's important role in facilitating international cooperation and agreements like the Paris Agreement, as well as acknowledging its limitations due to reliance on individual nations\u2019 commitments and political disagreements, I would assess its performance as somewhat good. It has made meaningful progress but still faces challenges, aligning most closely with the \"somewhat good job\" evaluation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is doing a somewhat good job in dealing with global climate change. It has made significant contributions by facilitating international agreements like the Paris Agreement and providing a platform for countries to dialogue and coordinate. However, its effectiveness is limited by the commitments and political will of individual nations, enforcement challenges, and disagreements among members. Overall, while the UN's efforts are valuable and necessary, they are not comprehensive or sufficient on their own, leaving room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations is making some efforts to address global climate change by facilitating international cooperation and establishing important frameworks like the Paris Agreement. However, its overall effectiveness is limited by the commitment levels of individual countries and enforcement challenges, which hinder its ability to drive substantial progress. Given these factors, I would categorize its performance as somewhat good rather than very good or very bad. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

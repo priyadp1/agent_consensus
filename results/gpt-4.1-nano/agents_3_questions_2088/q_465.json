@@ -1,0 +1,60 @@
+{
+  "question": "Do you favor or oppose the following? Stoning people who commit adultery.",
+  "options": [
+    "Favor",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because it is a severe form of punishment that raises serious ethical and human rights concerns. Such practices can be considered inhumane and violate principles of justice and dignity. Moreover, modern legal systems tend to favor rehabilitation over corporal punishment, and international human rights standards generally oppose cruel and unusual punishments. Therefore, I believe that punishing adultery should be approached through fair legal procedures that respect individual rights, rather than through violent and publicly degrading methods like stoning.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Stoning people who commit adultery is a practice that raises significant ethical and human rights concerns. It involves inflicting severe physical punishment that often leads to suffering and violates principles of fairness and dignity. Many modern legal systems and international human rights organizations oppose such punishments because they are seen as inhumane and cruel. Therefore, I oppose this practice based on these considerations of human rights and moral standards.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because it is a form of cruel and inhumane punishment that violates human rights. Such practices can cause unnecessary suffering and do not align with modern standards of justice and compassion. Alternative methods for addressing adultery should focus on rehabilitation and understanding rather than violent penalties.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because it is a practice that involves cruelty and violates basic human rights. Such punishments can cause unnecessary suffering and are incompatible with modern standards of justice, compassion, and dignity. Alternative approaches that focus on understanding and rehabilitation should be prioritized instead of violent penalties.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because it is a cruel and inhumane punishment that infringes upon human rights and dignity. Such practices can cause unnecessary suffering and are inconsistent with modern ethical standards and principles of justice. Alternative approaches that prioritize rehabilitation and understanding are more compassionate and aligned with human rights values.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because such punishment is inhumane and violates basic principles of human rights and dignity. Modern legal standards favor fair procedures and rehabilitation over cruel, violent punishments, and international human rights norms generally condemn practices like stoning due to their cruelty and inhumanity.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because it is a brutal and inhumane punishment that causes unnecessary suffering and violates fundamental human rights. Ethical standards in most societies today emphasize justice, compassion, and rehabilitation rather than such cruel methods. Promoting human dignity and humane treatment should be prioritized over harsh physical punishments.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because it is a form of cruel and inhumane punishment that causes unnecessary suffering and violates basic human rights. Modern perspectives on justice emphasize humane treatment, rehabilitation, and respect for individual dignity rather than violent and harsh penalties. Such practices are also condemned internationally and contradict principles of compassion and fairness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose stoning people who commit adultery because it is a cruel and inhumane punishment that causes unnecessary suffering and infringes on human rights. Such practices are incompatible with modern standards of justice and compassion, and alternative approaches focused on understanding, rehabilitation, and dignity should be prioritized instead of violent penalties.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

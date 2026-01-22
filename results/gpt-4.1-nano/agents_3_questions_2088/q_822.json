@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...Japanese Prime Minister Junichiro Koizumi",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Junichiro Koizumi was known for his charismatic leadership and efforts to reform Japan's political and economic systems during his tenure. He took active roles in international diplomacy, notably in the US-led alliance and global economic issues. His strong personality and bold policies earned him respect, though opinions about his effectiveness in maintaining consistent foreign policy varied. Overall, I believe he demonstrated a commendable level of confidence and initiative in world affairs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Japanese Prime Minister Junichiro Koizumi was known for his charismatic leadership and willingness to pursue reforms, both domestically and in foreign policy. During his tenure, he took notable steps to strengthen Japan's international relations and supported efforts to improve regional stability. While some people appreciated his assertiveness and initiative, others may have been cautious about his approach to foreign affairs and the impact of certain policies. Overall, he was generally viewed positively in terms of confidence in his ability to handle world affairs, though opinions varied.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Junichiro Koizumi was quite charismatic and known for his reformist approach during his time as Prime Minister. He made efforts to strengthen Japan's diplomatic relationships and took assertive stances on certain international issues, which earned him respect in some global circles. However, perspectives on his overall effectiveness and influence on world affairs varied, and some critics questioned whether his policies had a lasting positive impact internationally. Considering this, I would say I have some confidence in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering Koizumi's leadership style \u2014 characterized by assertiveness and efforts to bolster Japan's international relations \u2014 I believe he demonstrated a solid commitment to engaging with world affairs. While some may have viewed his actions as insufficient or too cautious in certain areas, overall, he appeared capable of making decisions that aimed to positively influence Japan's global standing. Therefore, I confidently select a high level of trust in his ability to do the right thing regarding international issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given Koizumi's active engagement in international diplomacy, his charismatic leadership style, and his efforts to reinforce Japan's global standing, I believe he demonstrated a notable level of confidence in handling world affairs. While opinions on his long-term impact may vary, his proactive approach suggests he was reasonably capable of doing the right thing on world issues. Therefore, I am confident in his international leadership.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Junichiro Koizumi demonstrated a significant level of confidence in handling world affairs through his active engagement in international diplomacy, support for regional stability, and bold reforms. His leadership style and initiatives suggest he was capable of making strong decisions on the global stage, earning him a generally positive reputation in this regard. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Junichiro Koizumi demonstrated a notable level of confidence in handling world affairs through his proactive engagement in international diplomacy and support for regional stability. His leadership style and efforts to influence global issues suggest he was reasonably capable of doing the right thing on world issues. Therefore, I am confident in his international leadership.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Junichiro Koizumi demonstrated a strong commitment to engaging with world affairs through his active diplomacy and efforts to support regional stability. His leadership reflected confidence in making decisions on the international stage, which suggests I have a good level of trust in his ability to do the right thing regarding global issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Prime Minister Junichiro Koizumi demonstrated a proactive and assertive approach to international relations, showing commitment to strengthening Japan's global position. His efforts in diplomacy and international engagement suggest a reasonable level of confidence in his ability to act responsibly regarding world affairs. Therefore, I select:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

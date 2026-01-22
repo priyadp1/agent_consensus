@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. b. Civic Platform (PO)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but based on general public perceptions, Civic Platform (PO) has historically been viewed positively by many people due to its efforts in governance and policy reforms. However, opinions vary depending on political perspectives and recent developments. Given this, I might lean towards a somewhat favorable opinion, reflecting a generally positive view but acknowledging that there are mixed feelings among different groups. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Civic Platform (PO) because I believe the party has made positive contributions to Poland's economy and social policies. However, I also recognize that there are criticisms and disagreements about some of their decisions, leading me to not view them as either strongly supportive or opposed. This nuanced stance aligns best with a somewhat favorable view, reflecting cautious optimism while acknowledging room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Civic Platform (PO) because I recognize it as an influential political party in Poland that has contributed to the country's development and democratic processes. However, I do not have a very strong positive view, nor do I hold significant negative feelings toward it. Therefore, I choose a middle-ground option that reflects a mildly positive attitude.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Civic Platform (PO) because I believe the party has played an important role in Poland's democratic development and has contributed positively to some social and economic policies. While I may have reservations about certain decisions or policies, overall, I see their influence as generally positive but not overwhelmingly so. This balanced perspective aligns best with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the provided descriptions and the tendency of responses, I recognize Civic Platform (PO) is generally viewed in a positive light due to its influence and contributions to democracy, but perceptions vary among different groups. Since I do not personally hold strong opinions but acknowledge its significance, I lean towards a somewhat favorable view. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the information provided and considering the general perceptions and nuanced opinions about Civic Platform (PO), I identify a cautiously positive stance that aligns with a somewhat favorable view. The respondents recognize the party's contributions but also acknowledge criticisms, which suggests a moderate level of support rather than strong or negative opinions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the general perception of Civic Platform (PO) as being positively regarded but with nuanced opinions acknowledging both its influence and criticisms, I am inclined to select a somewhat favorable view. The logical choice reflects a moderate, cautiously optimistic stance, aligning with the consensus in the provided responses. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Civic Platform (PO) because I believe the party has played an important role in Poland's democratic development and has contributed positively to some social and economic policies. While I may have reservations about certain decisions or policies, overall, I see their influence as generally positive but not overwhelmingly so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Civic Platform (PO) because I believe it has played a significant role in Poland's democratic development and has contributed positively to social and economic policies. While I may have reservations about some decisions or policies, overall, I see their influence as generally positive. This balanced perspective aligns best with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

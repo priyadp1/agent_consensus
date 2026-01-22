@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to read you a list of issues that human rights organizations in your country might work on. As I read each one, please tell me how much of a priority you think it should be for these organizations - a top priority, important but lower priority, not too important or should human rights organizations in your country not work on this issue. \nj. holding government accountable on human rights issues",
+  "options": [
+    "Top priority",
+    "Important but lower priority",
+    "Not too important",
+    "Should not work on this issue",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Holding the government accountable on human rights issues is fundamental for ensuring justice, transparency, and respect for citizens' rights. When authorities are held answerable for their actions, it helps prevent abuses and promotes good governance. Given the importance of a fair and just society, I believe that this should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Holding government accountable on human rights issues is fundamental to ensuring justice and protecting citizens' rights. Without accountability, other rights can be easily ignored or violated with impunity. While some may argue that other issues could be more urgent, overall, holding governments responsible is crucial for a fair and just society, making it a top priority. Therefore, it should be a primary focus of human rights organizations to promote transparency, justice, and accountability in government actions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Holding government accountable on human rights issues is crucial for ensuring justice, transparency, and accountability within a country. When governments are held responsible for their actions, it can lead to better protection of citizens' rights, prevent abuses, and promote reforms. Ignoring this issue could allow rights violations to persist without consequence, undermining the overall human rights environment. Therefore, given its fundamental role in safeguarding rights and fostering good governance, I believe it should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Holding government accountable on human rights issues is essential because it directly impacts the ability to protect individual rights and enforce justice. Without accountability, abuses may go unchecked, and other human rights efforts could be undermined. Ensuring transparency and responsibility in government actions helps create a fairer society and supports the overall mission of human rights organizations. Given its fundamental importance, I believe it should be a top priority.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Holding government accountable on human rights issues is essential for ensuring justice, transparency, and the protection of citizens' rights. Without accountability, abuses can continue unchecked, and trust in institutions may erode. Human rights organizations play a key role in advocating for responsible governance and safeguarding fundamental freedoms. Therefore, I believe this should be a top priority for these organizations.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Holding government accountable is essential for safeguarding citizens' rights, promoting transparency, and ensuring justice. Without accountability, other human rights issues may be neglected or ineffective. Prioritizing this can lead to systemic change and better governance. Therefore, I believe it should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Holding government accountable on human rights issues is crucial because it addresses systemic problems, promotes justice, and helps prevent abuse. Ensuring accountability strengthens the overall human rights environment and builds trust in institutions. Given its importance in creating systemic change, I believe it should be a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe holding government accountable on human rights issues should be a top priority because it directly influences the effectiveness of all other human rights efforts, ensures justice, and helps prevent abuses by promoting transparency and responsibility within the government. Without accountability, other initiatives may be undermined or rendered ineffective. Therefore, I think it deserves the highest level of attention from human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe holding government accountable on human rights issues is critically important because it ensures that abuses are addressed and justice is served. Without accountability, efforts to protect rights may be ineffective, and violations could persist unchecked. It is essential for fostering trust, transparency, and responsible governance, which are foundational for upholding human rights overall. Therefore, I consider this a top priority for human rights organizations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

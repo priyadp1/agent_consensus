@@ -1,0 +1,60 @@
+{
+  "question": "Do you support or oppose Russia's support of the Syrian government?",
+  "options": [
+    "Support",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My reasoning is that Russia's support of the Syrian government has contributed to the continuation of the civil conflict, resulting in significant humanitarian crises and suffering for the Syrian people. While some argue it helps stabilize the region or geopolitical interests, the negative humanitarian impact and the prolongation of violence lead me to oppose this support. I believe that international efforts should prioritize peace and the well-being of the civilians affected rather than supporting a regime involved in ongoing conflict. Therefore, I oppose Russia's support of the Syrian government.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but I can analyze the situation. Russia's support of the Syrian government has been a contentious issue. Proponents argue that Russia has helped stabilize the Syrian government and fight extremist groups, which can be viewed as supporting regional stability. Opponents, however, criticize Russia's involvement for potentially prolonging the conflict, humanitarian issues, and undermining efforts for a political solution. Given the complexity, individuals' support or opposition may depend on their perspective on international intervention and the impact on civilians. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Russia's support of the Syrian government is a complex issue. On one hand, some argue that Russia helps stabilize the Syrian regime and counter terrorism, which could be seen as supporting international security. On the other hand, this support has contributed to prolonging conflict and humanitarian suffering, raising ethical concerns. Given the importance of prioritizing human rights and the well-being of civilians, I oppose this support. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose Russia's support of the Syrian government because, despite arguments about regional stability, this intervention has contributed to ongoing conflict and humanitarian suffering. Supporting a government believed to be responsible for civilian casualties and prolonged violence raises serious ethical concerns. Promoting a peaceful political solution and protecting human rights should take precedence over strategic interests. Therefore, I believe that opposition is justified in this context.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose Russia's support of the Syrian government because, despite certain geopolitical arguments about stability and security, the support has contributed to prolonged conflict, widespread humanitarian suffering, and the suppression of the Syrian people's rights. I believe the focus should be on ending violence and prioritizing human rights rather than backing a regime involved in ongoing conflict. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose Russia's support of the Syrian government because it has contributed to prolonging the civil conflict and increasing humanitarian suffering. While some argue it stabilizes the regime or fights extremism, the negative humanitarian impacts and ongoing violence suggest that such support undermines efforts for peace and the well-being of the Syrian people. Prioritizing a peaceful resolution should be the focus rather than backing a regime involved in ongoing conflict.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I oppose Russia's support of the Syrian government because such involvement has contributed to prolonging the civil war, increasing humanitarian suffering, and suppressing the rights of the Syrian people. The focus should be on promoting peace, human rights, and ending violence rather than supporting a regime engaged in ongoing conflict. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I oppose Russia's support of the Syrian government because it has contributed to ongoing conflict and humanitarian suffering. Such support appears to prioritize strategic interests over the well-being of the Syrian people, thereby prolonging violence and impeding efforts toward a peaceful resolution. Promoting peace and protecting human rights should be the primary concerns in this context.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose Russia's support of the Syrian government because such support has perpetuated ongoing conflict, caused humanitarian suffering, and suppressed the rights of the Syrian people. Prioritizing human rights and a peaceful resolution should take precedence over strategic or geopolitical interests. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements....Our way of life needs to be protected against foreign influence",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that a strong national identity and cultural integrity are vital, and therefore protecting our way of life from foreign influence is necessary to safeguard our values and sovereignty. While openness and cooperation are important, I think there should be limits to external interference. As such, I mostly agree with the statement, recognizing the importance of safeguarding our traditions and way of life against potential negative impacts from outside sources.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the statement reflects a concern about maintaining cultural identity and national sovereignty in the face of global influences. Protecting our way of life from foreign influence can help safeguard traditions, values, and economic stability. However, it's also important to balance openness with caution, as international cooperation and cultural exchange can be beneficial. Overall, I tend to agree that our way of life should be protected against potentially harmful foreign influences to preserve our social fabric and sovereignty.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life against foreign influence is important because it helps maintain cultural identity, national security, and economic stability. Ensuring that outside forces do not undermine our values or sovereignty is a priority for preserving our society's integrity. Therefore, I mostly agree that our way of life needs to be protected against foreign influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life against foreign influence is crucial for maintaining cultural identity, societal stability, and national security. While openness and international cooperation can offer benefits, unchecked foreign influence might threaten our traditions and sovereignty. Therefore, I mostly agree that our way of life needs to be protected against foreign influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life against foreign influence is essential to preserve our cultural identity, values, and sovereignty. While engaging with the outside world can be beneficial, it is important to set boundaries to prevent negative impacts or erosion of our traditions. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to maintain our cultural identity, sovereignty, and social stability. While international cooperation can be beneficial, it is crucial to set boundaries to prevent negative impacts that could undermine our values and traditions. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life against foreign influence is important to preserve our cultural identity, values, and sovereignty. While engaging with the outside world can be beneficial, it is crucial to set boundaries to prevent negative impacts or erosion of our traditions. Therefore, I mostly agree with the statement.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is essential to preserve our cultural identity, sovereignty, and societal stability. While international cooperation has benefits, it is important to set boundaries to ensure that external influences do not undermine our values and traditions. Therefore, I mostly agree that our way of life needs to be protected against foreign influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life against foreign influence is important for preserving our cultural identity, societal stability, and sovereignty. While international engagement is valuable, it is necessary to set boundaries to prevent negative effects on our traditions and autonomy. Therefore, I mostly agree that our way of life needs to be protected against foreign influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

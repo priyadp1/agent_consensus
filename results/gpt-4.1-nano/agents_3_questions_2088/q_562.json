@@ -1,0 +1,62 @@
+{
+  "question": "I\u2019d like your opinion about some possible international concerns. Do you think that ____ is a major threat, a minor threat or not a threat to your country? \nh. global economic instability",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Global economic instability can significantly impact a country\u2019s stability, well-being, and security. When economies falter, unemployment rises, social services may be strained, and governments might face increased challenges. Given the interconnectedness of modern economies, instability often leads to ripple effects across borders, affecting trade, investment, and living standards. Therefore, I believe it poses at least a major threat to my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Global economic instability can have wide-reaching impacts, including job losses, inflation, and reduced public services, which directly affect the country's citizens. Given the interconnected nature of today\u2019s economies, instability elsewhere can quickly ripple into our own, leading to financial difficulties and social unrest. Therefore, I consider it a major threat to our country\u2019s stability and prosperity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Global economic instability can have widespread and severe consequences, affecting employment, public services, and overall national stability. Given the interconnected nature of modern economies, disruptions anywhere can quickly impact my country\u2019s economy. Therefore, I see this as a major threat because it has the potential to cause significant hardship domestically and influence other aspects of national security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability poses a significant risk because it can lead to job losses, inflation, and social unrest, which directly affect the well-being of citizens and the country's overall stability. Due to the interconnected nature of modern economies, disruptions in other regions can quickly impact my country\u2019s financial health and security. Therefore, I consider it a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a major threat because it can lead to widespread unemployment, strain social services, and undermine overall national security. As economies are highly interconnected, issues in one area can quickly have ripple effects, causing economic hardship and political instability domestically. This interconnectedness makes it difficult to contain the impact, making it a serious concern for my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a major threat to my country because it can lead to widespread unemployment, increased social tensions, and economic downturns that affect all aspects of national life. Given how interconnected economies are today, problems elsewhere can quickly impact our own, making this a significant concern.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a major threat because of its potential to cause widespread unemployment, increase social tensions, and weaken national security. The interconnectedness of economies means that issues faced elsewhere can quickly impact my country\u2019s stability, making it a significant concern that requires attention and mitigation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a major threat because it can have widespread repercussions on employment, public welfare, and social stability. The interconnectedness of today\u2019s economies means that disruptions in other regions can quickly affect my country\u2019s financial health and overall security, making it a significant concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a major threat because it can lead to widespread unemployment, inflation, and social unrest, which directly affect the well-being of citizens and the country's overall stability. Given the interconnected nature of modern economies, disruptions in other regions can quickly impact my country\u2019s financial health and security, making it a pressing concern.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

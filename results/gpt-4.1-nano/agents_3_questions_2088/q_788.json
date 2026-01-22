@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. a. Christian Democratic Union (CDU)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the Christian Democratic Union (CDU) is a major political party in Germany that has historically played a significant role in shaping the country's policies. Depending on current policies or leadership, individual opinions may vary. Given this, I lean toward a somewhat favorable opinion, recognizing its influence but also acknowledging that opinions about political parties can be mixed among different groups. Therefore, I select:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would select B because I have a generally positive view of the CDU, appreciating its policies and leadership, but I also recognize that there are some aspects I find less favorable or that I am somewhat cautious about. This places my opinion in the somewhat favorable category, showing support but with reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I chose \"Somewhat unfavorable\" because while I recognize the CDU as an established political party in Germany with a significant influence, I have some reservations about their policies and approach, which makes me less inclined to view them very favorably but not entirely unfavorable either.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the CDU, appreciating their influence and policies, but I also hold some reservations about certain approaches or decisions they have made, which prevents me from viewing them as very favorable. Therefore, my opinion is somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize the CDU as a prominent political party in Germany with a significant historical impact on the country\u2019s policies. While I appreciate its influence, I have some reservations about its current policies or leadership, which prevent me from feeling very favorable. At the same time, I do not feel strongly enough to view it as unfavorable. Therefore, my opinion falls in the middle range.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize the CDU as a prominent political party with a significant history in Germany. My view is generally positive because I appreciate its role in shaping policies and its influence in German politics. However, I may have some reservations or critiques about certain policies or leadership, which makes my opinion cautious rather than enthusiastic. Hence, I categorize my opinion as somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize the CDU as a major and influential political party in Germany with a significant historical impact on the country's policies. While I generally view it positively due to its role and influence, I have some reservations about certain policies or leadership aspects. This makes my opinion somewhat favorable, reflecting an overall cautious appreciation rather than strong enthusiasm or negativity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The respondent describes their view as generally positive and acknowledges the CDU's influence and role in shaping policies, but also mentions having reservations about certain approaches or decisions. They specify that these reservations prevent them from being very favorable, leading them to categorize their opinion as somewhat favorable. Based on this reasoning, the appropriate choice aligns with a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I see the respondents generally view the CDU positively but with some reservations, indicating a moderate level of support rather than strong enthusiasm or opposition. Based on this pattern, my opinion aligns with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

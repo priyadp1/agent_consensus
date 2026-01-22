@@ -1,0 +1,61 @@
+{
+  "question": "(Please tell me if you approve or disapprove of the way President Pena Nieto is handling each of the following areas.)...Education",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President Pena Nieto's handling of education has been somewhat mixed. While there have been efforts to reform and improve access, there have also been concerns about the implementation and impact of these policies on teachers and students. Overall, I think there is room for improvement and a need for more inclusive strategies that address the diverse needs of students across the country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President Pena Nieto's handling of education has been somewhat mixed. While he has implemented reforms intended to improve the quality of education and accountability within the system, there have been significant protests and opposition from educators and unions concerned about the impact on teachers' rights and job security. These issues suggest that, overall, his approach has not fully met the needs or expectations of stakeholders involved in education. Therefore, I disapprove of his management of this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe President Pena Nieto's approach to education has faced significant criticism due to issues such as inadequate implementation of reforms and concerns about inequality in access to quality education. As a result, I disapprove of his handling of this area. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of education due to the significant protests, opposition from educators and unions, and issues related to reform implementation and inequality in access. These factors indicate that his approach has not effectively addressed the needs and concerns within the education sector.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe President Pena Nieto's handling of education has been problematic due to issues related to the implementation of reforms and persistent inequalities in access and quality. While efforts have been made to improve the system, the challenges suggest that the approach has not been sufficiently effective or inclusive. Therefore, I disapprove of his management in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe President Pena Nieto's handling of education has been somewhat mixed. While there have been efforts to reform and improve access to education, there are concerns about how these reforms have affected teachers' rights, job security, and the experiences of students. The protests and opposition from educators indicate dissatisfaction with the approach. Given these mixed results and ongoing issues, I disapprove of his management of this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe President Pena Nieto's handling of education has faced significant challenges, especially concerning the implementation of reforms that have sometimes led to dissatisfaction among teachers and students, as well as persistent inequalities in access and quality. While efforts have been made, the overall perception appears to be that these actions have not fully addressed the issues, leading me to disapprove of his management in this area. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Pena Nieto's handling of education because the reforms have led to widespread protests, opposition from teachers and unions, and concerns over inequality and access. These issues suggest that his approach has not effectively addressed the needs of the education sector or gained adequate support. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Many stakeholders have expressed concerns about the handling of education, citing protests, opposition from unions, reform implementation issues, and persistent inequalities. These factors indicate dissatisfaction with progress and inclusiveness, leading me to disapprove of President Pena Nieto's approach in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

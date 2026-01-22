@@ -1,0 +1,61 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for your country. Do you think that political instability in Pakistan is a major threat, a minor threat or not a threat to your country? ",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe political instability in Pakistan could pose a minor threat to my country because while it might lead to regional tensions or disrupt diplomatic relations, it is unlikely to cause direct or severe harm on a national level unless it escalates significantly. Stability in neighboring countries is important for regional peace, but current circumstances suggest it is not an immediate or major threat. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe political instability in Pakistan could pose a concern for my country, especially if it leads to regional instability or affects international relations. Such instability might contribute to increased security risks, economic disruptions, or refugee flows, which could impact neighboring countries or the broader region. However, whether it constitutes a major threat depends on the current stability and international engagement with Pakistan. Overall, I would consider it a minor threat given the potential for localized issues but not immediate widespread danger.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that political instability in Pakistan could pose a minor threat to my country. Instability in neighboring or regional countries can sometimes lead to economic disruptions, migration issues, or security concerns, especially if conflicts escalate or spill over borders. However, as it is not a direct or immediate threat, I consider it to be minor rather than major or nonexistent. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that political instability in Pakistan could pose a minor threat to my country. While it may not cause immediate or widespread issues, the regional instability and potential for spill-over effects such as security concerns or economic impacts suggest it is something to monitor. Given that the threat is not immediate or directly affecting my country at present, I consider it a minor threat rather than a major one or no threat at all.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe political instability in Pakistan could pose a minor threat to my country because, similar to others' perspectives, instability in neighboring countries has the potential to affect regional stability, economic relations, and security concerns. However, without immediate or direct consequences, I see it as a minor threat rather than a major or nonexistent one. Therefore, I consider it a minor threat at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe political instability in Pakistan represents a minor threat to my country because, while it has the potential to influence regional stability and diplomatic relations, it is unlikely to cause immediate or substantial harm unless it escalates significantly. The current situation appears manageable and not an imminent danger to national security or economic stability. Therefore, I consider it a minor threat, acknowledging that ongoing regional dynamics could change this assessment in the future.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe political instability in Pakistan presents a minor threat to my country because, while it can influence regional relations and security, it is unlikely to cause immediate or severe harm unless it escalates significantly. Currently, the situation seems manageable and not an urgent danger, though ongoing regional developments could alter this assessment in the future.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe political instability in Pakistan poses a minor threat to my country. While it has the potential to affect regional stability and diplomatic relations, it is unlikely to cause immediate or widespread harm unless it escalates significantly. The current situation appears manageable and not an imminent danger to national security or economic stability. Therefore, I consider it a minor threat.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Political instability in Pakistan has the potential to affect regional security and economic relations, especially considering the interconnectedness of neighboring countries. While it may not currently cause immediate or severe disruptions to my country, the possibility of spill-over effects such as increased security concerns or economic instability makes it a concern worth monitoring. Therefore, I consider it a minor threat at this time.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

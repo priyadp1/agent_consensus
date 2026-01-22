@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me whether you think the following describes U.S. President Donald Trump. Do you think of Donald Trump as ____? g. arrogant",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people perceive Donald Trump as arrogant due to his self-promotion, bold statements, and confidence that often come across as dismissive of opposing viewpoints. His public demeanor and communication style have often reinforced this perception among critics and observers.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people perceive Donald Trump as confident and often assertive in his behavior, which can come across as arrogance. His self-promotion and repeated emphasis on achievements contribute to this perception. However, interpretations of arrogance can vary among individuals, and some might view his confidence differently. Based on general public opinion and media portrayal, I think many associate him with arrogance.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people perceive Donald Trump as arrogant due to his confident and self-assured public persona, frequent self-promotion, and sometimes contentious interactions with critics and the media. His outspoken style and tendency to dismiss opposing views can contribute to this perception. However, opinions on this vary among individuals, and some may see these traits differently or not at all.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Donald Trump's public persona, characterized by self-confidence, assertiveness, and frequent self-promotion, often leads many to perceive him as arrogant. While others may see these traits differently, the predominant public opinion and media portrayals suggest that arrogance is a common perception associated with him.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I perceive Donald Trump as arrogant due to his self-confidence, frequent self-promotion, and assertive communication style. His tendency to dismiss opposing viewpoints and his outspoken nature often reinforce this perception. While some may see these traits differently, based on the available information, I believe they exemplify arrogance.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Donald Trump is often perceived as arrogant, given his self-assured attitude, frequent self-promotion, and bold communication style that many interpret as dismissive or overbearing. These characteristics align with common perceptions of arrogance, making it a prevalent description of his demeanor in public discourse.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the perceptions shared by other respondents, Donald Trump is often characterized as arrogant due to his self-confidence, self-promotion, and assertive communication style, which many interpret as dismissive or overbearing. These traits are commonly associated with arrogance, and given the consistent perception, I believe describing him as arrogant is appropriate.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Donald Trump's confident and assertive demeanor, coupled with his frequent self-promotion and bold communication style, often lead people to perceive him as arrogant. Given the common public perception and media portrayals, I think \"arrogant\" accurately describes his persona, though interpretations may vary. Therefore, I choose \"Yes\" as the most appropriate response.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I perceive Donald Trump as arrogant because he displays a high level of self-confidence, often engages in self-promotion, and communicates in an assertive manner. These traits are frequently associated with arrogance, especially when they manifest as dismissiveness toward opposing viewpoints. Based on these observations, I believe he exemplifies arrogance.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

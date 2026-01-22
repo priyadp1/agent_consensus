@@ -1,0 +1,62 @@
+{
+  "question": "In terms of solving world problems, does the United States do too much, too little, or the right amount in helping solve world problems?",
+  "options": [
+    "United States does too much",
+    "United States does too little",
+    "United States does right amount",
+    "United States does nothing (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the United States currently does too much in helping solve world problems. While international aid and leadership are important, an excessive or inefficient level of intervention can sometimes lead to unintended consequences or dependencies. Striking a balance is crucial, and there is room for the U.S. to focus more on sustainable, collaborative solutions rather than overextending itself. Therefore, I think the U.S. might be doing too much at present and should reassess its approach to global issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United States does too much in helping solve world problems. While international aid and cooperation are important, there are instances where the U.S. intervenes excessively, sometimes leading to unintended consequences or overshadowing local solutions. Balancing aid with respect for sovereignty and promoting sustainable development could lead to more effective and equitable outcomes. Therefore, adjusting the level of involvement to better align with global needs and local capacities might be more beneficial than continuing with an overly interventionist approach.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United States does too much in helping solve world problems because excessive intervention can sometimes lead to unintended consequences, undermine local initiatives, or create dependency rather than sustainable solutions. While good intentions are often present, a more balanced approach that respects sovereignty and promotes self-sufficiency might be more effective in the long run.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the United States does too much in helping solve world problems. While international aid and intervention can be beneficial, excessive involvement often leads to unintended consequences such as dependency or undermining local efforts. A more balanced approach that respects sovereignty and promotes sustainable, locally-led solutions would likely be more effective and equitable in the long run.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the United States currently does too much in helping solve world problems. Although international aid and leadership are essential, excessive intervention can sometimes cause unintended negative consequences, such as dependency or undermining local initiatives. A more balanced approach that emphasizes sustainability, respect for sovereignty, and collaboration would likely be more effective. Therefore, I think the U.S. might be doing too much at present and should reassess its level of involvement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United States currently does too much in helping solve world problems. While its involvement can bring positive change, excessive intervention can sometimes lead to unintended consequences such as dependency or undermining local solutions. Finding a better balance by focusing on sustainable, collaborative efforts might improve global outcomes. Therefore, I think the U.S. might be doing too much at present and should reassess its approach to global issues.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the United States currently does too much in helping solve world problems. While international aid and leadership are important, excessive intervention can sometimes cause negative effects such as dependency or undermining local initiatives. A more balanced approach that emphasizes sustainability, respect for sovereignty, and collaboration would likely be more effective in creating lasting solutions. Therefore, I think the U.S. might be doing too much at present and should reassess its level of involvement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United States does too much in helping solve world problems. While international aid and intervention can be beneficial, excessive involvement risks creating dependencies and undermining local initiatives. A more measured approach that emphasizes sustainable, locally-led solutions would likely result in more effective and equitable outcomes globally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United States does too much in helping solve world problems. While international aid and intervention aim to address global issues, excessive involvement can sometimes result in negative outcomes like dependency or undermining local solutions. A more balanced approach that respects the sovereignty of nations and promotes sustainable, locally-led initiatives might lead to more effective and equitable results in the long term. Therefore, I think the U.S. is currently doing too much and should consider reassessing its level of involvement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

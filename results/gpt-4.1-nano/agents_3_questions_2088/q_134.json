@@ -1,0 +1,61 @@
+{
+  "question": "Thinking about immigration, would you support or oppose your country ____? b. deporting immigrants currently in the country illegally",
+  "options": [
+    "Support",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that deporting immigrants currently in the country illegally is a complex issue that involves considerations of fairness, humanitarian concerns, and societal impacts. Supporters might argue for enforcement of immigration laws to maintain order, while opponents could argue that such actions may separate families and harm communities. My personal stance leans towards supporting policies that ensure just and humane processes for handling illegal immigration, but without more context, I lean toward opposing outright deportation without due process. Therefore, I choose to oppose it. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My opinion on deporting immigrants currently in the country illegally depends on various factors, such as whether they have established roots, contributed to society, or are involved in criminal activities. Some may see deportation as necessary for maintaining lawful immigration processes, while others may oppose it due to humanitarian considerations or the potential negative impacts on communities. Personally, I tend to support policies that focus on humane and fair treatment, which may include pathways to legal status rather than immediate deportation, unless there are substantiated legal or safety concerns. Therefore, I lean more toward opposition, though I recognize that the issue is complex. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My personal stance on deporting immigrants currently in the country illegally hinges on balancing the enforcement of immigration laws with compassion and fairness. While I believe that illegal entry or stay should be addressed through appropriate legal channels, I also recognize that many immigrants contribute positively to society and face complex circumstances. Therefore, I lean toward opposing mass deportations without consideration of individual situations to promote humane policies and community stability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that deporting immigrants currently in the country illegally can have serious humanitarian and social implications. While upholding immigration laws is important, an approach that considers individual circumstances and promotes humane and fair treatment is crucial. Mass deportations may harm families and communities, and alternative solutions like pathways to legal status can be more effective and just. Therefore, I oppose immediate deportation without considering these factors.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that deporting immigrants currently in the country illegally should be handled with care, balancing law enforcement with compassion and fairness. Mass deportations without considering individual circumstances could cause harm to families and communities, and may not be the most equitable or humane approach. Therefore, I oppose outright deportation without due process and support policies that are just and humane. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that deporting immigrants currently in the country illegally raises important ethical and practical concerns. It involves considerations of fairness, humanitarian impact, and community stability. While enforcing immigration laws is necessary, doing so through mass deportations without due process can cause harm to families and communities. Policies should balance law enforcement with humane treatment and opportunities for legal pathways, rather than outright deportation. Therefore, I oppose deporting immigrants currently in the country illegally.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that deporting immigrants currently in the country illegally should be handled with care, balancing law enforcement with compassion and fairness. Mass deportations without considering individual circumstances could cause harm to families and communities, and may not be the most equitable or humane approach. Therefore, I oppose outright deportation without due process and support policies that are just and humane. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that enforcing immigration laws is important for maintaining legal standards. However, I also recognize the humanitarian and social implications of deporting individuals illegally present in the country. Mass deportations could harm families and community cohesion, and alternative approaches such as providing pathways to legal status might be more ethical and effective. Therefore, I oppose deporting immigrants currently in the country illegally.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I oppose immediate deportation of immigrants currently in the country illegally because such actions can cause significant harm to families and communities, especially if done without considering individual circumstances. A humane and fair approach that upholds the rule of law while respecting human rights and exploring pathways to legal status is preferable. This balance helps to create a more just and effective immigration policy.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

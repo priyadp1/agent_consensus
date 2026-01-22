@@ -1,0 +1,63 @@
+{
+  "question": "How important is it to have ____ in our country? Is it very important, somewhat important, not too important or not important at all? d. people can say what they want without <state or government> censorship",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having the ability for people to say what they want without censorship by the state or government is fundamental to a free and open society. It supports free expression, democracy, and individual rights, allowing diverse opinions and ideas to be shared without fear of repression. Ensuring this right helps maintain transparency and accountability in government and fosters social progress. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Freedom of speech is a fundamental aspect of a healthy democracy, allowing individuals to express their opinions and participate fully in civic life. Censorship can suppress diverse viewpoints and hinder societal progress, so protecting the ability to say what one wants without government interference is very important for maintaining an open and transparent society. Therefore, I believe this principle is very important for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having the ability for people to say what they want without censorship by the state or government is fundamental to a free and open society. It ensures freedom of expression, supports democratic participation, and protects individual rights. Without such freedom, the flow of ideas and information could be suppressed, leading to an erosion of other civil liberties. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having the ability to say what one wants without government censorship is crucial for safeguarding individual freedoms and maintaining an open society. It allows for the free exchange of ideas, supports democracy, and helps hold those in power accountable. Without such freedom, society risks stagnation, oppression, and the suppression of important voices. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Freedom of speech is a fundamental aspect of a healthy democracy and personal autonomy. Allowing individuals to express their opinions without fear of censorship promotes transparency, accountability, and social progress. It enables diverse voices to be heard and protects the rights of citizens to participate openly in public discourse. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having the ability for people to say what they want without censorship by the state or government is essential for a free society. It underpins democratic principles, protects individual rights, and encourages open debate and social progress. Without such freedom, diverse opinions may be silenced, leading to repression and decreased transparency. Therefore, I believe this is very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having the ability for people to say what they want without censorship by the state or government is fundamental to maintaining a democratic and open society. It ensures that citizens can freely express their opinions, hold authorities accountable, and contribute to social progress. Without such freedom, the risk of repression and suppression of diverse viewpoints increases, undermining transparency and individual rights. Therefore, I believe this is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having the ability for people to say what they want without government censorship is very important because it is fundamental to the protection of individual freedoms and the functioning of a democratic society. It ensures that diverse perspectives can be heard, fosters transparency, and holds those in power accountable. Without this freedom, society risks becoming repressive and stagnant, which can undermine democratic processes and human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people to say what they want without government censorship is very important because free speech is essential for a healthy democracy and individual liberty. It enables open dialogue, accountability, and progress in society, ensuring diverse voices are heard and rights are protected. Without such freedom, society risks censorship, oppression, and stagnation, which can undermine democratic principles and hinder social development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

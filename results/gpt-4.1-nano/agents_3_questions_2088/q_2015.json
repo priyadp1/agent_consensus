@@ -1,0 +1,62 @@
+{
+  "question": "I\u2019d like your opinion about some possible international concerns. Do you think that ____ is a major threat, a minor threat or not a threat to your country? \nc. tensions with Russia",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Tensions with Russia are a serious concern due to historical conflicts, recent geopolitical conflicts, and the potential for escalation into broader instability or military confrontation. While not necessarily an immediate or direct threat to everyone, the possibility of escalation can impact national security, economic stability, and international peace. Therefore, it is considered at least a minor threat, and for many, it is viewed as a significant concern given the geopolitical landscape.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Tensions with Russia are often perceived as a significant geopolitical concern due to historical conflicts, recent military activities, and the potential for escalation. Many people view these tensions as a serious threat to national security and stability, especially considering the implications for international peace and safety. Therefore, I believe they are a major threat to my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Tensions with Russia are often viewed as a significant international concern due to historical conflicts, geopolitical competition, and the potential for escalation into broader conflicts or regional instability. While some may consider it a minor or not a threat depending on their country's specific circumstances, overall, the prevailing perception is that tensions with Russia pose a considerable risk to national security and stability. Therefore, I believe it should be regarded as a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Tensions with Russia continue to be a significant concern for many countries due to historical conflicts, military posturing, and the potential for escalation into broader conflicts. Given recent geopolitical events and the ongoing risks associated with increased hostilities, I believe these tensions represent a major threat to my country\u2019s security and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe tensions with Russia represent a significant international concern due to the ongoing geopolitical conflicts, historical disputes, and the potential for escalation into broader conflicts. Such tensions can threaten national security, economic stability, and regional peace, making them a major threat to my country at this time.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Tensions with Russia remain a significant international concern due to ongoing geopolitical conflicts, military posturing, and the potential for escalation that could threaten national security, regional stability, and global peace. Given current global dynamics and historical context, it is appropriate to consider these tensions a major threat to my country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe tensions with Russia are a major threat to my country because ongoing conflicts, military posturing, and historical disputes create significant risks for security and stability. The potential for escalation into broader conflicts raises serious concerns about national security and regional peace, making this issue a major threat in my view.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the ongoing geopolitical tensions with Russia, including military posturing and risks of escalation, I believe that tensions with Russia pose a major threat to my country\u2019s security and stability. These concerns are rooted in historical conflicts and current international dynamics that could amplify or escalate into more serious conflicts. Therefore, I consider tensions with Russia a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe tensions with Russia are a serious concern given recent geopolitical developments, military posturing, and the potential for escalation into larger conflicts. Such tensions pose a significant threat to national security and stability, and should not be underestimated. Therefore, I consider them a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

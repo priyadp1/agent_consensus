@@ -1,0 +1,63 @@
+{
+  "question": "What kind of influence the group is having on the way things are going in your country. Is the influence of ____ very good, somewhat good, somewhat bad or very bad in your country? c. media - television, radio, newspapers, magazines",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The influence of media such as television, radio, newspapers, and magazines on the country's development can be quite complex. In many cases, media outlets provide essential information, promote awareness, and serve as a watchdog against corruption and injustice, which can be seen as a very good influence. However, in some contexts, media might spread misinformation, sensationalism, or biased narratives that could mislead the public or polarize society, leading to a somewhat bad influence. Overall, the impact largely depends on the media landscape's health, regulation, and the diversity of perspectives available. Given the importance of media as a tool for education, accountability, and civic engagement, I believe that in my country, the influence of media tends toward being somewhat good, as it generally contributes positively but is not without issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Media plays a crucial role in shaping public perception, disseminating information, and influencing cultural norms. The overall impact of media can be positive when it promotes awareness, education, and healthy discourse, but it can also be negative if it spreads misinformation, sensationalism, or bias. In many countries, media channels have been criticized for propagating certain political agendas or amplifying trivial content, which can distort public understanding and contribute to social divisions. Considering these factors, I believe the influence of media is somewhat bad in my country, as the negative effects often outweigh the positive, and the media landscape is riddled with issues that impact the society adversely.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The influence of media such as television, radio, newspapers, and magazines can greatly shape public opinion and cultural norms. In my country, the media often plays a significant role in informing citizens and promoting democratic values, which I perceive as largely positive. However, there are also concerns about sensationalism, bias, and the spread of misinformation, which can distort reality and polarize society. Overall, I believe the media's influence is somewhat good, as it has the potential to educate and unite people, even though there are challenges that diminish its benefits somewhat.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the diverse effects of media in my country, while it has the potential to inform and unite citizens, the prevalent issues of misinformation, sensationalism, and bias often undermine its positive impact. These negative aspects tend to overshadow the benefits, leading to social confusion and polarization. Therefore, I believe the influence of media is somewhat bad in my country.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the influence of media in my country tends to be somewhat good because, overall, it provides valuable information, promotes awareness, and supports democratic engagement. While there are issues related to bias, sensationalism, and misinformation, these challenges do not overshadow the media's positive contributions. The media's role in informing and uniting the populace is significant, and its influence is generally beneficial despite certain drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "In my view, media has a significant influence on the direction of my country. While it offers vital information and promotes awareness, there are concerns about misinformation, sensationalism, and biased narratives that can mislead the public and deepen divisions. The overall impact feels more negative than positive, especially when media outlets prioritize sensational content over responsible journalism. Therefore, I believe the influence of media in my country is somewhat bad because its negative effects tend to outweigh the positives at this time.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of media in my country is somewhat bad because, although it provides important information and supports democratic processes, there are significant issues with misinformation, bias, and sensationalism that often mislead the public and cause division. These negative aspects seem to outweigh the positive contributions at this time.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the mixed effects of media in my country, I recognize that while it can serve to inform and connect people, the widespread issues of misinformation, sensationalism, and bias often undermine its positive role. These negative influences tend to overshadow the benefits, leading to confusion and division among the population. Therefore, I believe the influence of media is somewhat bad in my country.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering both the positive potential of media to inform and unify citizens and the significant issues with misinformation, bias, and sensationalism that undermine its positive impact, I believe the influence of media in my country is somewhat bad. While it has meaningful roles in promoting awareness and democratic engagement, the negative aspects tend to diminish its overall beneficial effect, leading to confusion and polarization among the public.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

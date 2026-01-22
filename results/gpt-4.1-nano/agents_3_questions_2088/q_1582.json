@@ -1,0 +1,62 @@
+{
+  "question": "Now I'd like to ask your views about some additional political leaders. Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion: f. Hosni Mubarak",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Hosni Mubarak was the long-time President of Egypt who was widely criticized for his authoritarian rule, suppression of political dissent, and human rights abuses. While some may have viewed him more favorably during his time in power, especially among supporters or those who appreciated stability, the general global consensus after his resignation tends to be quite unfavorable due to the widespread protests and grievances that led to his ousting. Given this context, my opinion aligns more with a negative assessment, reflecting a recognition of his authoritarian legacy and the negative consequences of his leadership.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Hosni Mubarak was a prominent Egyptian leader who ruled for many years but was also associated with authoritarianism and corruption. Due to his complex legacy, many people have mixed or negative opinions about him. Over time, especially after his resignation and death, public perception has generally been more critical, viewing his leadership less favorably. Therefore, I would select somewhat unfavorable as an appropriate reflection of this complex sentiment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Hosni Mubarak was the long-time President of Egypt who was ousted during the Arab Spring protests in 2011. His leadership was marked by political stability but also accusations of authoritarianism, human rights abuses, and corruption. Public opinion about him tends to be highly divided: some may recall a period of relative stability and economic development, while others remember repression and lack of democratic freedoms. Considering this, I would say that his reputation among the general public is more likely to be viewed unfavorably, especially in recent years, due to the circumstances of his fall and subsequent legal issues. Therefore, I lean toward an unfavorable assessment.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given Hosni Mubarak's long tenure as Egyptian president, his leadership was characterized by a combination of economic development and political repression. While some may have appreciated the stability his rule provided, the widespread corruption, suppression of dissent, and eventual fall during the Arab Spring have significantly damaged his reputation. In recent years, public opinion has largely been negative due to his association with authoritarian practices and the circumstances surrounding his resignation and trial. Therefore, I believe that most people view him unfavorably, leaning toward a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Considering Hosni Mubarak's long tenure as President of Egypt, he was both seen by some as a stabilizing leader and criticized for authoritarian practices, suppression of dissent, and human rights abuses. After his fall during the Arab Spring, public opinion largely shifted against him, highlighting issues of repression and lack of democratic freedoms. Given the widespread criticism and his disgrace following his resignation, my view aligns more with a negative assessment of his leadership and legacy. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given Hosni Mubarak's long tenure as President of Egypt and the widespread criticism of his authoritarian rule, suppression of dissent, and human rights abuses, public opinion has largely been negative, especially after the protests that led to his resignation. While some supporters may have viewed his leadership more favorably during his time in power, the overall perception has shifted towards the unfavorable side due to his controversial legacy and the negative consequences of his rule. Thus, I would select somewhat unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Hosni Mubarak's long tenure as Egypt's leader was marked by a combination of stability and controversy. While some may have appreciated the order during his rule, widespread criticism of his authoritarian governance, human rights abuses, and suppression of dissent has overshadowed any positive perceptions. The popular movement that led to his resignation and subsequent negative reassessment in public opinion strongly influence my view. Therefore, I believe the most accurate reflection is somewhat unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Hosni Mubarak's long rule was marked by a mix of developmental efforts and serious allegations of corruption, authoritarianism, and human rights abuses. While some may have appreciated aspects of stability during his leadership, the widespread protests and his eventual resignation highlight the negative perception of his leadership legacy. Given the overall public sentiment following his fall and subsequent trials, I believe most people view him unfavorably. However, considering that some supporters may have held a somewhat more positive view during his tenure, I see merit in choosing a somewhat unfavorable opinion.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given Hosni Mubarak's long tenure as Egyptian president, his leadership was characterized by a mix of economic development and political repression. While some may have appreciated the stability his rule provided, the widespread corruption, suppression of dissent, and his eventual fall during the Arab Spring significantly damaged his reputation. In recent years, public opinion has largely been negative due to his association with authoritarian practices and the circumstances surrounding his resignation and trial. Therefore, I believe that most people view him unfavorably, leaning toward a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

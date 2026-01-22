@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about yourself, how confident are you that you will have an adequate standard of living in your old age - very confident, somewhat confident, not too confident, not confident at all?",
+  "options": [
+    "Very confident",
+    "Somewhat confident",
+    "Not too confident",
+    "Not confident at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe my confidence in having an adequate standard of living in old age depends on my current savings, future financial planning, and potential unforeseen circumstances. While I am actively working to secure my financial future, uncertainties such as inflation, healthcare costs, and economic changes make me cautious. Therefore, I feel somewhat confident but recognize there is room for improvement and potential risk.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat confident that I will have an adequate standard of living in my old age. I have been saving regularly and have some retirement benefits planned, but I am aware that future economic conditions or unexpected expenses could impact my financial security. Therefore, I am cautiously optimistic but not entirely certain about my long-term financial stability. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because I believe I am taking reasonable steps to secure my financial future, such as saving and planning, but uncertainties remain, making me somewhat confident rather than completely assured about maintaining an adequate standard of living in old age.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I feel somewhat confident that I will have an adequate standard of living in my old age because I am actively saving and planning for retirement, but I recognize that economic fluctuations and unforeseen expenses could still affect my financial security. While I have taken reasonable steps to prepare, the uncertainty about future conditions makes me cautious rather than entirely certain.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe I am reasonably prepared but remain cautious about potential economic and health uncertainties that could affect my financial stability in old age. While I am actively saving and planning, I recognize that unforeseen expenses or market fluctuations might impact my ability to maintain an adequate standard of living. Therefore, I feel somewhat confident but acknowledge there are risks involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel somewhat confident that I will have an adequate standard of living in my old age. I am actively saving and planning for retirement, but I am aware that economic fluctuations and unforeseen expenses could still pose risks. While I am making efforts to secure my financial future, I recognize that some uncertainties remain, leading me to be cautiously optimistic. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe I am doing what I can to prepare for my old age, including saving and planning. However, given the potential uncertainties in economic conditions and health, I remain somewhat cautious about my ability to ensure an adequate standard of living in the future. This cautious optimism makes me feel somewhat confident but aware of possible risks.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat confident that I will have an adequate standard of living in my old age because I am taking steps such as saving and planning ahead. However, I am mindful of possible economic fluctuations and unexpected expenses that could still impact my financial security, which makes me cautious rather than fully assured.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel somewhat confident that I will have an adequate standard of living in my old age because I am actively saving and planning for the future. However, I am also aware that unexpected expenses, economic fluctuations, or health issues could still impact my financial security. While I have taken reasonable steps to prepare, the uncertainty about future circumstances makes me cautious, but I remain hopeful that my efforts will be sufficient. Therefore, my confidence is moderate and reflects a balanced outlook on my preparedness.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

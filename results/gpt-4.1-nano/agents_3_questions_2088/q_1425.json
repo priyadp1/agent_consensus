@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Lack of employment opportunities",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities is a significant issue for many people because it affects their ability to earn income, support their families, and contribute to the economy. When unemployment is high, it often leads to increased poverty, social unrest, and frustration among the population. Given these considerations, I believe it is a very big problem for our country right now.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities is a significant concern because it directly affects people's livelihoods and economic stability. When many individuals struggle to find jobs, it can lead to increased poverty, social unrest, and reduced overall well-being in the country. While some may view it as a moderate issue depending on personal circumstances, overall, it is a major challenge that impacts the entire society. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities is a significant concern for many people because it affects individuals' ability to support themselves and their families, leads to economic instability, and can increase social problems like crime and poverty. Given these impacts, I believe this issue is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities is a major issue that significantly affects individuals and society. It leads to poverty, social unrest, and hinders economic development, which are serious problems for the country's well-being. Based on this, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities remains a critical issue as it directly impacts individuals' livelihoods and the overall economic health of the country. High unemployment can lead to poverty, social unrest, and a decline in living standards, which are serious problems affecting many people. Given the widespread effects and importance of employment for social stability, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities is a critical issue because it directly impacts people's ability to earn a living, support their families, and contribute to the economy. When many are unemployed, it can lead to increased poverty, social instability, and a general sense of insecurity in society. Given the significant negative effects on individuals and the broader societal implications, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that lack of employment opportunities is a very big problem because it directly affects people's livelihoods and the overall stability of society. When many individuals are unemployed, it can lead to increased poverty, social unrest, and a decline in living standards, which are serious issues for the country's well-being. Addressing employment is crucial for social and economic stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities is a fundamental issue that affects many aspects of society, including economic stability, social cohesion, and individual well-being. High unemployment can lead to increased poverty, social unrest, and hinder national development. Given its wide-ranging and serious impacts, I believe it constitutes a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Lack of employment opportunities is a fundamental issue that directly affects many individuals' ability to support themselves and their families. Without sufficient jobs, poverty and social instability tend to increase, slowing down economic growth and development. Given its wide-ranging impact on personal well-being and national stability, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

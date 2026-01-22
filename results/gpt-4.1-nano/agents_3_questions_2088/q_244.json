@@ -1,0 +1,62 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all. y. shortages of basic goods",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods can significantly impact daily life, especially when essential items like food, medicine, and hygiene products are scarce. Such shortages can cause distress, increase inequality, and hinder economic stability. While some people may adapt or find alternatives, the overall negative effects make this a substantial concern. Therefore, I see it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods can significantly impact people's daily lives, making it difficult to access essential items like food, medicine, and basic necessities. Such shortages often lead to increased prices, frustration, and unequal access, especially in vulnerable communities. While they may not be as catastrophic as other crises, they still represent a serious concern for societal stability and individual well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods can significantly impact people's daily lives, especially when essentials like food, medicine, or everyday supplies are scarce. This situation can lead to increased hardship, health risks, and social instability, making it a very serious concern. While the severity can vary depending on the context, generally, shortages of basic goods are considered a very big problem due to their direct effect on well-being and societal functioning.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods can severely disrupt daily life, leading to difficulty in accessing essential items such as food, medicine, and other necessities. These shortages can cause increased prices, health risks, and social instability, especially affecting vulnerable populations. Given their significant impact on well-being and societal stability, I believe they are a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods directly threaten everyday life by limiting access to essentials like food, medicine, and hygiene products. Such shortages can cause significant hardship, health risks, and social instability, impacting vulnerable populations the most. Given these serious consequences and the potential for widespread disruption, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods can severely disrupt daily life, causing hardship in accessing essential items necessary for health, hygiene, and well-being. When these shortages are widespread, they can lead to increased prices, social unrest, and inequalities, making it a critical and pressing issue for societal stability and individual security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods are fundamental to daily survival and well-being. When these essentials are unavailable or limited, it directly affects people's health, hygiene, and overall quality of life. Such shortages can also lead to social unrest, higher prices, and increased inequalities, threatening societal stability. Because of their widespread impact and potential for serious consequences, I believe shortages of basic goods constitute a very big problem.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods can significantly impact daily life by limiting access to essential items like food, medicine, and hygiene products. These shortages often lead to higher prices, social unrest, and increased inequality, which can threaten societal stability and cause widespread hardship. Given these serious consequences, I consider them a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Shortages of basic goods can have a profound impact on daily life, restricting access to essentials like food, medicine, and hygiene items. Such shortages can escalate prices, increase health risks, and provoke social unrest, especially affecting vulnerable populations. Considering these serious implications, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

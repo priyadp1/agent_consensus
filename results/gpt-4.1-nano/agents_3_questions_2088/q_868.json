@@ -1,0 +1,60 @@
+{
+  "question": "Do you think it's a good thing or a bad thing that people from former Soviet Bloc countries come to live and work in this country?",
+  "options": [
+    "Good",
+    "Bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "People from former Soviet Bloc countries often bring diverse skills, cultural perspectives, and contribute to the local economy. Their inclusion can foster multicultural understanding and help fill labor shortages in various sectors. While challenges may arise regarding cultural integration or social cohesion, these can typically be addressed through effective policies and community efforts. Overall, the presence of people from these countries tends to be a positive addition to society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the movement of people from former Soviet Bloc countries to live and work here can be viewed as a positive development. Such migration can bring diversity, new skills, and cultural enrichment to our society. While there may be challenges related to integration or resource allocation, these can be addressed through effective policies. Overall, opening to skilled and hardworking individuals fosters economic growth and cultural understanding, making it a beneficial phenomenon.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from former Soviet Bloc countries to live and work here can be a positive development, as it promotes cultural diversity, fills labor market gaps, and can lead to economic growth. It also offers opportunities for people to improve their lives and contribute to society. Of course, integration and mutual understanding are important to ensure benefits are shared equitably. Overall, I see this as a good thing.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from former Soviet Bloc countries to live and work here generally has positive implications. Such migration can bring cultural diversity, new skills, and economic benefits, which contribute to societal growth and enrichment. While it\u2019s important to address integration challenges, the overall potential for mutual benefit makes this a good development for our society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from former Soviet Bloc countries to live and work here is a positive development. They often bring valuable skills and cultural diversity that can benefit our economy and society. While integration may pose challenges, these can be managed with good policies and community efforts. Overall, their presence tends to enrich society and promote mutual understanding.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the arrival of people from former Soviet Bloc countries can be a positive development. They often bring valuable skills, cultural diversity, and contribute to economic growth. These benefits can enhance social and professional environments, especially when supported by effective integration policies. While challenges may exist, they are generally manageable and outweighed by the benefits of diversity and economic contribution.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from former Soviet Bloc countries to live and work here is a positive development because they often bring valuable skills and cultural diversity that can benefit our economy and society. Proper integration and support can help overcome challenges, ultimately enriching our community and fostering mutual understanding. Therefore, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from former Soviet Bloc countries to live and work here can be beneficial for society. They often bring diverse perspectives, valuable skills, and contribute positively to economic growth. While integration challenges are possible, the overall advantages and potential for cultural enrichment make this a good development. Embracing diversity can foster innovation and strengthen community resilience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that welcoming people from former Soviet Bloc countries to live and work here generally yields positive outcomes. Their skills, cultural diversity, and contributions can enhance our society and economy. While integration challenges may exist, they can be addressed through good policies and community support. Overall, their presence can foster mutual understanding and societal growth.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

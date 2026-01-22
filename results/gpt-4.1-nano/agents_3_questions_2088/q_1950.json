@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Abdel Moneim Aboul Fotouh? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions or feelings, but based on publicly available information, Abdel Moneim Aboul Fotouh is a prominent political figure in Egypt known for his progressive views and previous leadership roles in the Muslim Brotherhood before his departure. Public opinions about him are mixed, with some supporting his efforts for reform and others viewing him with skepticism. Given this context, a moderate stance of somewhat favorable or somewhat unfavorable might best capture the general sentiment. However, since the question asks for a single choice, I would lean towards a somewhat favorable opinion based on his influence and following.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Moneim Aboul Fotouh because I see him as a prominent figure who has advocated for political reform and social justice in Egypt. While I appreciate his efforts and views, I also recognize that his influence and policies might not align fully with all segments of the population, leading me to feel only somewhat favorable rather than very favorable. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I consider Abdel Moneim Aboul Fotouh to be a figure who has had a significant impact on Egypt's political landscape, especially given his history as a former Muslim Brotherhood leader and his subsequent efforts to position himself as a reformist. While some may admire his commitment to political change and social justice, others might view his political stance with skepticism or concern about his shifting alliances and ideologies. This nuanced perspective leads me to feel somewhat favorable about him, recognizing his importance but also acknowledging some reservations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Moneim Aboul Fotouh because I believe he is a prominent figure advocating for political reform and social justice in Egypt. However, I am cautious about his shifting alliances and the nuances in his political stance, which makes me feel only somewhat favorable rather than very favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering Abdel Moneim Aboul Fotouh's prominent role in Egypt's political scene, his history with the Muslim Brotherhood, and his efforts toward reform, public opinion appears divided but somewhat leaned toward cautious support. He has both supporters who see him as a reformist and critics who question his shifting alliances. Given this nuanced context, a moderate and somewhat positive stance seems appropriate. Therefore, I believe a somewhat favorable opinion best reflects his current perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe my opinion aligns with the view that Abdel Moneim Aboul Fotouh is a notable political figure advocating for reform in Egypt. Given the mixed public perceptions but recognizing his influence and efforts, I feel somewhat favorable towards him. I appreciate his role in promoting social justice and political change, even if I have some reservations. Therefore, I would choose a moderate positive stance.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering Abdel Moneim Aboul Fotouh's political background, his advocacy for reform, and his influence in Egypt's political landscape, public opinion appears mixed but tends toward cautious support. While some view him as a reformist and a figure promoting social justice, others remain skeptical regarding his alliances and policies. Given this nuanced situation, a somewhat favorable opinion best captures the balanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I view Abdel Moneim Aboul Fotouh as a significant political figure advocating for reform and social justice in Egypt. While I recognize his influence and efforts, I also have some reservations about certain aspects of his political stance and alliances, which prevents me from feeling very favorable. Therefore, I lean toward a somewhat favorable opinion, appreciating his contributions but acknowledging potential reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Moneim Aboul Fotouh because I recognize his role as a political reformist and social advocate in Egypt. While I appreciate his efforts and prominence, I am also aware of the complexities and shifting alliances in his political journey, which makes me feel only somewhat favorable rather than very favorable. His efforts for reform are notable, but some caution remains due to political nuances.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

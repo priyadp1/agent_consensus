@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about your country's future, how important is it that: b. honest elections are held regularly with a choice of at least two political parties? Is it very important, somewhat important, not too important or not important at all?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having honest elections with a choice of at least two political parties is fundamental for a healthy democracy. It ensures that power is transferred peacefully and that citizens' voices are genuinely represented. Without regular and fair elections, trust in government diminishes, and the legitimacy of leadership is challenged. Therefore, I believe it is very important for the future of my country to uphold these principles.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having honest elections with a choice of at least two political parties is fundamental to a healthy democracy. It ensures that citizens can freely express their preferences, holds leaders accountable, and promotes political stability and progress. Without regular, fair elections, a country risks losing legitimacy and the trust of its people. Therefore, I believe it is very important for the future of my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having honest elections with multiple political parties is fundamental to a healthy democracy. It ensures government accountability, provides citizens with meaningful choices, and helps prevent corruption and authoritarianism. Without regular, fair elections featuring a genuine choice among at least two parties, a country risks stagnation, disenfranchisement, and loss of public trust. Therefore, I believe it is very important for the future stability and well-being of the country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having honest elections with a choice of at least two political parties is a cornerstone of democracy. It guarantees that leaders are accountable to the people, allows citizens to make meaningful choices, and helps safeguard against corruption and authoritarian tendencies. Without regular, fair elections offering genuine options, the legitimacy of the government can be undermined, leading to disenfranchisement and instability, which can threaten the country's future development and trust in institutions. Therefore, I believe it is very important for the future of my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having honest elections with a choice of at least two political parties is crucial for maintaining a vibrant democracy. It allows citizens to hold their leaders accountable, ensures peaceful transfer of power, and provides meaningful options for governance. Without regular and fair elections, public trust declines, and authoritarian tendencies may arise, undermining stability and progress. Therefore, I believe it is very important for the future of my country to ensure these electoral principles are upheld.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having honest elections with a choice of at least two political parties is essential for maintaining democratic legitimacy, ensuring accountability, and fostering political stability. Without such elections, trust in the government erodes, and citizens lose confidence in the political system. This foundation allows for peaceful transfers of power and genuine representation of the people's will, which are crucial for the country's sustainable development and social cohesion. Therefore, I believe it is very important for the future of my country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that honest elections with a choice of at least two political parties are fundamental for sustaining a healthy democracy. They ensure that leaders are accountable to the people, enable peaceful and legitimate transfers of power, and give citizens meaningful options to influence government policies. Without these electoral principles, trust in the political system diminishes, and the risk of authoritarianism increases. Therefore, I consider it very important for my country's future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having honest elections regularly with a choice of at least two political parties is very important for the future of my country. Democratic elections ensure government accountability, protect citizens' rights, and promote political stability. They help prevent authoritarianism and build trust in institutions, which are essential for sustainable development and social cohesion. Without such elections, the legitimacy of the government could be compromised, leading to potential unrest or disenfranchisement, negatively impacting the country's progress. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that honest elections held regularly with a choice of at least two political parties are fundamental to a healthy democracy. They ensure accountability, legitimacy, and peaceful transitions of power, which are essential for long-term stability and progress. Without such electoral processes, a country's future can be compromised by corruption, authoritarianism, and public disillusionment. Therefore, it is very important for the future of my country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

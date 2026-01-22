@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Terrorism",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Terrorism remains a significant concern in many countries due to its potential to cause widespread harm and instill fear among the population. Given the severity of violence, the threat to public safety, and the impact on national security, I believe it is a very big problem that needs continuous attention and preventative measures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Terrorism remains a significant concern in many countries, and the threat can have serious implications for public safety, national security, and economic stability. Given its potential impact, I would consider it a very big problem because it affects everyday life and requires substantial government resources to prevent and respond to terrorist activities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Terrorism remains a significant concern for many people, especially given recent incidents and global security issues. It can have profound impacts on safety, economic stability, and overall national confidence. However, the perceived severity varies depending on current events and individual perspectives. While some may view it as a very big problem, others might see it as less immediate or pressing compared to other issues. Personally, I think it is a very big problem because it threatens the safety and stability of our society and requires ongoing vigilance and effort to counteract.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Terrorism poses a serious threat to national security, public safety, and economic stability. Its potential to cause widespread harm and instill fear in society makes it a very significant problem. Given the dangers associated with terrorism and the importance of addressing it comprehensively, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the serious threats posed by terrorism, its potential to cause widespread harm and fear makes it a significant concern for public safety and national security. While perceptions can vary depending on recent events or individual experiences, I believe it remains a very big problem that requires ongoing attention and preventative measures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe terrorism is a very big problem because it poses a serious threat to safety, security, and stability in the country. It can cause loss of lives, disrupt daily life, and require extensive governmental efforts to prevent and respond to such threats. Given its potential for widespread harm and the significant resources needed to combat it, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe terrorism is a very big problem because it poses a serious threat to the safety and security of people and the stability of the country. Its potential to cause loss of lives, disruption, and fear makes it a significant concern that requires constant vigilance and effort to prevent. Therefore, I would consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe terrorism is a very big problem because it directly threatens the safety and security of citizens, causes fear and instability within society, and requires significant resources and efforts from the government to prevent and respond to such threats. Its potential for widespread harm and disruption makes it a critical issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Terrorism continues to be a major concern for many people because it threatens the safety of citizens, can lead to tragic loss of life, and destabilizes societal stability. Its capacity to cause widespread harm and fear makes it a very significant issue that needs attention. Considering these factors, I believe it remains a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

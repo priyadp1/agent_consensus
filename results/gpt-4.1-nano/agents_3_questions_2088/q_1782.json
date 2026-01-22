@@ -1,0 +1,62 @@
+{
+  "question": " Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given? l. Promoting and defending human rights in other countries",
+  "options": [
+    "Top priority",
+    "Some priority",
+    "No priority",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Promoting and defending human rights in other countries is an important aspect of responsible international leadership, but it must often be balanced against national interests, economic considerations, and diplomatic relationships. Therefore, assigning it the highest priority may overlook practical constraints, while ignoring it altogether risks neglecting fundamental moral principles. A moderate approach that recognizes its importance but does not overshadow other long-term goals seems most reasonable. Hence, I believe it should be given some priority.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Promoting and defending human rights in other countries is an important goal that aligns with values of justice, moral responsibility, and the promotion of global stability. However, given limited resources and competing priorities in foreign policy, it might not always warrant the highest level of focus compared to other strategic interests such as security or economic development. Therefore, I believe it should be given some priority, enough to influence policies and aid, but not necessarily the topmost priority.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting and defending human rights in other countries should be a top priority because advancing human rights helps foster global stability, moral responsibility, and improves international relations. Prioritizing human rights demonstrates a commitment to justice and compassion, which can also contribute to long-term peace and security. While resources must be balanced with other foreign policy goals, making human rights a top priority reflects the importance of moral values in foreign affairs.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe promoting and defending human rights in other countries should be a top priority because upholding human rights advances global justice, moral responsibility, and can contribute to long-term peace and stability. Prioritizing this goal demonstrates a commitment to moral values in foreign policy and can positively influence international relations, making it essential in guiding our broader foreign policy objectives.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Promoting and defending human rights in other countries is a core component of ethical international conduct and can help build lasting goodwill and stability. While practical considerations and national interests are important, prioritizing human rights demonstrates a commitment to moral values and can contribute to long-term peace and global order. Given its significance in fostering justice, morality, and stability, I believe this should be given top priority.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting and defending human rights in other countries is an essential moral and ethical obligation that reflects a nation's commitment to justice and global well-being. While I recognize that practical constraints and other strategic interests exist, I think human rights should be given top priority because neglecting them can lead to long-term instability and moral failure. Ensuring the protection of fundamental rights abroad contributes to a more just and humane international community, and therefore, I think it warrants top priority.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that promoting and defending human rights in other countries should be given some priority. While it is important to uphold moral and ethical standards and to foster justice and stability internationally, practical considerations and strategic interests also play a significant role in foreign policy. Therefore, I think it should be regarded as an important but not topmost priority, balancing moral commitments with realistic constraints.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe promoting and defending human rights in other countries should be a top priority because upholding these rights promotes justice, moral responsibility, and long-term global stability. Focusing on human rights aligns with ethical principles and helps build a more just international community, which ultimately benefits national interests as well.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting and defending human rights in other countries should be given top priority because upholding human rights is fundamental to moral responsibility, enhances global justice, and contributes to long-term peace and stability. Prioritizing human rights aligns foreign policy with core ethical values and fosters positive international relations, which are essential for promoting a more just and stable world. Therefore, I think it deserves top priority in our long-range foreign policy goals.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

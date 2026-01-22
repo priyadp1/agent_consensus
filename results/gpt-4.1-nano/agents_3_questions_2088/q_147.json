@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Mahdi Jomaa?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa because he is recognized for his efforts to stabilize Tunisia's economy and improve governance during his tenure as Prime Minister. While I appreciate his initiatives, I also believe there are areas where he could have done more to address ongoing political and economic challenges. Therefore, I am inclined toward a moderate positive view rather than an extremely positive or negative one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa. He was known for his efforts to address economic and political challenges during his time as Prime Minister, and I appreciate his attempts to stabilize the country. However, I also recognize that his tenure faced criticism and didn't lead to comprehensive reforms, which affects my overall impression. Therefore, I lean towards a somewhat favorable view rather than a very favorable one, but I hold more positive opinions about him than negative ones.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa. As a former Prime Minister, he has shown commitment to reform and stability during challenging times. While I acknowledge some concerns about political practicality, his efforts have generally been viewed positively by many citizens interested in governance and progress.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa. Based on his efforts to address economic and political challenges during his tenure as Prime Minister, I appreciate his attempts to stabilize the country. Although his tenure faced criticism and didn't lead to comprehensive reforms, I believe his intentions and actions were generally positive, which aligns with a somewhat favorable view rather than very favorable or unfavorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa because he has demonstrated commitment to economic stabilization and governance reform during his tenure as Prime Minister. While he has made positive efforts, there are ongoing challenges that suggest his impact could be more substantial. Overall, my view is moderately positive, recognizing his contributions but also remaining aware of the complexities involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa because he demonstrated efforts to improve Tunisia\u2019s economic situation and governance during his time as Prime Minister. While his tenure faced criticism and he didn't achieve all the desired reforms, I recognize his attempts to address important challenges. My impression is generally positive but tempered by the acknowledged shortcomings. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa because he made efforts to address Tunisia\u2019s economic challenges and governance issues during his time as Prime Minister. While he faced criticism and did not fully accomplish all his goals, his attempt to improve the situation shows a level of commitment that I appreciate. Considering both his efforts and the difficulties he encountered, my overall impression remains moderately positive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa because he made efforts to improve Tunisia\u2019s economic and political situation during his tenure as Prime Minister. Although his efforts faced criticism and didn't lead to comprehensive reforms, I appreciate his intentions and attempts to address significant challenges. My feeling is generally positive but tempered by the acknowledged shortcomings.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Mahdi Jomaa because I think he made genuine efforts to address Tunisia's economic challenges during his time as Prime Minister. While he faced significant obstacles and his impact was limited, his intentions to stabilize the government and improve governance seem positive. Therefore, my view is moderately positive, though acknowledging that more progress could have been made.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

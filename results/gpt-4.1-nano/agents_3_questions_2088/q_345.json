@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way Prime Minister Viktor Orb\u00e1n is handling each of the following areas. g. media",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Viktor Orb\u00e1n's approach to media has been somewhat controversial. His government has taken steps to increase control over media outlets, which has raised concerns about media freedom and pluralism in Hungary. While some see these actions as necessary for national stability, many others worry they undermine democratic principles. Overall, I lean toward disapproval due to concerns about the impact on free press.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Viktor Orb\u00e1n's approach to the media has been broadly characterized by increased control and regulation, which has raised concerns about press freedom and diversity of viewpoints. While his supporters might argue that measures are necessary for national stability or sovereignty, many critics view these actions as undermining democratic principles and limiting free expression. Therefore, I lean towards disapproval due to the perceived negative impact on media independence and pluralism.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Prime Minister Viktor Orb\u00e1n has taken a controversial approach to media, often centralizing control and influence over the press, which many view as a threat to press freedom and independence. While some may argue that this creates a unified national message, the overall perception is that it undermines diverse viewpoints and journalistic integrity. Therefore, I disapprove of his handling of the media.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Viktor Orb\u00e1n's handling of the media has been characterized by increased control and regulation, which has raised concerns about press freedom and diversity of viewpoints. This approach seems to undermine media independence and restrict plurality, which is problematic for a healthy democracy. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Viktor Orb\u00e1n's approach to media has been problematic due to the increased government control over media outlets, which raises concerns about media freedom and pluralism. While some argue this may serve national interests, the overall impact appears to undermine democratic principles and independent journalism. Therefore, I disapprove of his handling of the media.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Viktor Orb\u00e1n's handling of the media has involved increasing government control over media outlets, which raises serious concerns about media freedom, diversity of viewpoints, and democratic principles. While some supporters may justify these actions for stability or sovereignty, the overall impact appears to undermine independent journalism and pluralism, leading me to disapprove.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Viktor Orb\u00e1n's handling of the media has involved increasing government control over media outlets, which raises serious concerns about media freedom and diversity of viewpoints. This approach appears to undermine independent journalism and democratic principles, leading me to disapprove.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of Prime Minister Viktor Orb\u00e1n's handling of the media because increasing government control and restrictions threaten press freedom and discourage diverse viewpoints, which undermines democratic values and media independence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Viktor Orb\u00e1n's management of the media has led to increased government control and restrictions on press freedom, which diminishes media diversity and independence. This approach appears to compromise democratic principles and limits pluralistic voices in the media landscape. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

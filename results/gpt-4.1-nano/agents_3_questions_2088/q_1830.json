@@ -1,0 +1,62 @@
+{
+  "question": "Generally speaking, how much do you think the United States can trust France...a great deal, a fair amount, not too much, or not at all?",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "Not at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States can trust France a fair amount due to longstanding alliances, shared values, and ongoing cooperation on global issues. While there have been moments of disagreement, the overall relationship remains strong, fostering mutual trust and collaboration on many fronts. Therefore, I think \"a fair amount\" best reflects the current state of trust. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United States can trust France a fair amount. Both countries have longstanding alliances, share many democratic values, and collaborate closely on international issues. While there may be occasional disagreements or differences in policy, the overall trust level remains relatively high due to their intertwined interests and history of cooperation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United States can trust France a fair amount because both countries are longstanding allies with shared interests in global security, economic cooperation, and cultural exchanges. While there might be occasional disagreements or differing policies, their historical partnership and ongoing diplomatic relations suggest a significant degree of mutual trust. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States can trust France a fair amount because both countries have a long history of alliance, shared democratic values, and ongoing collaborative efforts on international issues. While occasional disagreements exist, their strong diplomatic relations and mutual interests foster a significant degree of trust. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the longstanding alliances, shared values, and ongoing diplomatic cooperation between the United States and France, I believe there is a significant level of trust, though not absolute. While disagreements do exist, the overall relationship remains strong and collaborative. Therefore, I think a fair amount of trust is appropriate. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United States can generally trust France a fair amount. The longstanding alliances, shared values, and ongoing international cooperation suggest a solid level of mutual trust despite occasional disagreements. This indicates a relationship that is fundamentally strong and collaborative, but not at the highest level of trust. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the long-standing alliances, common values, and ongoing cooperation between the United States and France, I believe there is a solid level of trust. While occasional disagreements are natural, the overall relationship appears to be strong and collaborative. Therefore, I think a fair amount of trust is appropriate. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United States can trust France a fair amount because both nations have a history of strong alliance, shared democratic values, and cooperation on international issues. While there are occasional disagreements, their diplomatic relationship remains fundamentally positive and indicative of mutual trust. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States can generally trust France a fair amount because they share a long history of alliance, values, and strategic cooperation on international issues. Despite occasional disagreements, their diplomatic relationship remains strong, suggesting a significant level of mutual trust. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

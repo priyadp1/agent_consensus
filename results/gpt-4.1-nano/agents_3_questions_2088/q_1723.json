@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country.  Is the influence of our national government very good, somewhat good, somewhat bad or very bad in our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The influence of our national government on the way things are going in our country is somewhat bad. Many people feel that government policies and decisions often do not address the common needs of citizens, leading to frustration and a sense of disconnect. While there are efforts to improve the situation, overall, the impact seems more negative than positive, which suggests that the government\u2019s influence is not as beneficial as it could be and may even be hindering progress.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The national government\u2019s influence is somewhat bad because, while it provides essential services and enforces laws, it often faces criticism for inefficiency, corruption, and inability to address pressing issues effectively. Many citizens feel that the government\u2019s actions sometimes hinder progress rather than support it, leading to frustration and mistrust. This mixed reputation suggests that its influence leans more toward negative in shaping the country's direction. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of our national government is somewhat bad currently. While there are efforts to address important issues, there are also significant concerns regarding transparency, effectiveness, and fairness. These shortcomings can hinder progress and erode public trust, leading to a perception that the government's influence is not as positive as it could be. Overall, the balance leans towards a somewhat negative impact on the country's well-being and development.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of our national government currently falls into the somewhat bad category. While it plays an essential role in providing services and maintaining order, numerous issues such as inefficiency, corruption, and lack of transparency indicate that its impact is not as beneficial as it could be. These problems tend to hinder progress and reduce public trust, making its overall influence more negative than positive.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of our national government is somewhat bad. While there are efforts to improve and various policies in place, issues such as lack of transparency, inefficiency, and public dissatisfaction suggest that the overall impact is more negative than positive. The government\u2019s actions seem to hinder progress and do not fully meet the needs of the citizens, leading to a perception that its influence is somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of our national government is somewhat bad because, in my view, it often struggles to effectively address key issues facing the country. While it provides essential services, there are frequent concerns about inefficiency, corruption, and policies that may not benefit the majority. This leads to skepticism about whether the government\u2019s actions truly support progress, and many feel there is room for significant improvement in how it shapes our national direction. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the influence of our national government is somewhat bad because it often struggles to effectively address key issues facing the country. While it does provide essential services, there are frequent concerns about inefficiency, corruption, and policies that may not fully benefit the majority. This leads me to feel skeptical about whether the government's actions truly support progress, and I think there is significant room for improvement in how it shapes our national direction. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of our national government is somewhat bad because, despite its role in providing essential services, it often faces issues like inefficiency and corruption that hinder effective decision-making and progress. This leads to public disillusionment and a sense that the government\u2019s impact on our country's future is more negative than positive. Therefore, I would rate its influence as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of our national government is somewhat bad. While it has the potential to provide essential services and uphold order, ongoing issues such as inefficiency, corruption, lack of transparency, and public dissatisfaction suggest that its impact is more harmful than beneficial at this time. These problems tend to hinder progress, undermine public trust, and suggest that its overall influence is more negative than positive.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

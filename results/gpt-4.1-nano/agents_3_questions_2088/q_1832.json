@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to describe various types of political systems and ask what you think about each as a way of governing our country. For each one, would it be a very good, somewhat good, somewhat bad or very bad way of governing this country? e. the military rules the country",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that having the military rule the country would be a very bad way of governing. Military rule often concentrates power in the hands of a few, suppresses political freedoms and civil liberties, and can lead to repression or violence. Historic examples suggest that military regimes typically lack the democratic accountability necessary for addressing citizens' needs and maintaining stability in the long term. Therefore, I think this approach is not suitable for good governance.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that having the military rule the country would be a very bad way of governing. Military rule often involves authoritarian control, suppression of political freedoms, and a lack of accountability to the citizens. While it may bring stability in some cases, it generally undermines democracy and individual rights, which are essential for a healthy, functioning society.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that military rule as the governing system is generally not ideal for our country because it can lead to authoritarian practices, suppress political freedoms, and overlook the importance of democratic participation and human rights. While it might bring stability in some cases, it typically undermines individual liberties and democratic processes. Therefore, I view it as a very bad way to govern our country.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that military rule as a way of governing our country is very bad because it often leads to authoritarian control, suppression of political freedoms, and a lack of accountability. While it may sometimes bring stability, it generally undermines democratic principles and individual rights, which are essential for a healthy society. Therefore, I consider it a very bad way to govern.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that military rule as the governing system is generally not ideal for our country because it can lead to authoritarian practices, suppress political freedoms, and overlook the importance of democratic participation and human rights. While it might bring stability in some cases, it typically undermines individual liberties and democratic processes. Therefore, I view it as a very bad way to govern our country.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that having the military rule the country would be a very bad way of governing. Military rule tends to concentrate power and suppress political freedoms, which can lead to repression and violate civil liberties. Such regimes often lack democratic accountability and may undermine long-term stability and individual rights.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that having the military rule the country is a very bad way of governing because it often leads to authoritarianism, suppresses political freedoms, and undermines democratic institutions. Military rule can prioritize order over rights and tends to concentrate power, which may result in repression and a lack of accountability. Such a system usually doesn't promote long-term stability or individual liberties, making it an unsuitable form of governance for a democratic society.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that military rule as a way of governing our country is very bad because it often leads to authoritarian control, suppression of political freedoms, and a lack of accountability. While it may sometimes bring stability, it generally undermines democratic principles and individual rights, which are essential for a healthy society. Therefore, I consider it a very bad way to govern.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that when the military rules the country, it often leads to authoritarian control and suppression of political freedoms. Although it might provide stability in some situations, it generally undermines democratic principles and individual rights, which are crucial for a healthy and free society. Therefore, I think it is a very bad way of governing the country.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

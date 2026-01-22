@@ -1,0 +1,63 @@
+{
+  "question": "Which of the following concerns you most about Islamic extremism in our country today...it is violent, it will lead to people having fewer personal freedoms and choices, it will divide the country, or it will hurt the country's economy?",
+  "options": [
+    "It is violent",
+    "Will lead to people having fewer personal freedoms/choices",
+    "It will divide the country",
+    "It will hurt the country's economy",
+    "None of these (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "My primary concern is that Islamic extremism can lead to violence, affecting the safety and security of individuals and communities. Violence not only causes immediate harm but also fosters fear and instability, which can have long-lasting negative impacts on society. While other concerns like restrictions on personal freedoms, division, and economic consequences are important, the immediate threat posed by violence is the most pressing issue because it directly endangers lives and erodes the sense of security necessary for a stable society. Preventing violence is essential to addressing all other potential negative outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am most concerned about the violence associated with Islamic extremism because it directly endangers people's safety and lives. Violence not only causes immediate harm but also can foster fear and instability within society, potentially leading to the repression of personal freedoms and division. While the other concerns are valid, violence tends to be the most urgent and tangible threat that justifies immediate attention and action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Among the concerns listed, the most pressing is the violent aspect of extremism because violence directly threatens people's safety and lives. This immediate threat can also exacerbate other issues, such as restrictions on personal freedoms, societal division, and economic harm, but the core issue that demands urgent attention is violence itself. If violence is addressed, it can help mitigate other associated problems. Therefore, my main concern is the violent nature of extremism.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the most pressing concern about Islamic extremism in our country today is its potential to lead to violence. Violence directly threatens safety and lives, creating immediate danger and fear within society. While other concerns like restrictions on personal freedoms, societal division, and economic harm are serious, addressing the violence at its core is essential to preventing these broader issues. Therefore, prioritizing the violent aspect makes sense because it is the most urgent and tangible threat requiring immediate action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My primary concern is that Islamic extremism can lead to violence, as it poses an immediate threat to the safety and security of individuals and communities. Violence can cause direct harm and foster fear, destabilizing society and making effective responses more urgent. While other issues like restrictions on freedoms, societal division, and economic impacts are also important, preventing violence is essential to addressing these concerns and maintaining social stability. Therefore, I believe the most pressing issue is the violent aspect of extremism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the most pressing concern about Islamic extremism in our country today is that it is violent. Violence directly threatens people's safety and security, which are fundamental to a stable society. While other issues like restrictions on freedoms, social division, and economic impact are significant, preventing violence is the most immediate priority because it causes immediate harm and can serve as a catalyst for other negative consequences. Addressing violence first helps create a safer environment in which other concerns can be more effectively managed.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the most pressing concern about Islamic extremism in our country today is that it will lead to people having fewer personal freedoms and choices. Restrictions on personal freedoms can have long-term impacts on individual rights, social progress, and the open nature of society. While violence, societal division, and economic impacts are serious issues, limiting personal freedoms directly affects many aspects of daily life and can also contribute to other negative consequences. Ensuring people's rights to choose and express themselves is fundamental to a healthy and free society, and concerns about these freedoms seem most significant to me at this moment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the most pressing concern about Islamic extremism in our country today is its potential to lead to violence. Violence not only threatens lives and safety but can also incite fear and chaos within society. Addressing violence directly is crucial because it has immediate and tangible consequences that can exacerbate other problems such as social division, restrictions on freedoms, and economic decline if left unchecked. By prioritizing the violent aspect, we can work to prevent further harm and create a stable foundation for tackling other related issues more effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the most significant concern about Islamic extremism in our country today is its potential to lead to violence. Violence not only causes immediate harm to individuals and communities but also creates a pervasive atmosphere of fear and insecurity. Addressing violence is crucial because it is often the most direct and urgent threat, which, if unchecked, can also exacerbate other issues such as social division and economic instability. Focusing on preventing the violent acts can help mitigate broader societal harms and is essential for maintaining safety and stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

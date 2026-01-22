@@ -1,0 +1,63 @@
+{
+  "question": "Would you say that each of the following has done a very good, somewhat good, somewhat bad, or very bad job dealing with the coronavirus outbreak? a. The United States",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the United States has faced significant challenges in managing the coronavirus outbreak, including initial delays in response, inconsistent messaging, and evolving policies. While efforts have been made to control the spread and develop vaccines, the overall handling has been somewhat problematic, reflected in the high case numbers and political polarization. Therefore, I would rate their performance as somewhat bad.  \nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The United States faced significant challenges in managing the coronavirus outbreak, including initial delays in response, political disagreements, and uneven implementation of public health measures. While there were efforts to develop vaccines and promote safety guidelines, the overall handling was often criticized for being reactive and inconsistent, leading to widespread public confusion and health impacts. Given these factors, I would rate the job as somewhat bad, reflecting the mixed effectiveness and many shortcomings in the response.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The United States has faced significant challenges in managing the coronavirus outbreak, with initial delays in response and inconsistent policies across states. Despite efforts such as vaccine development and distribution, the overall handling has often been criticized for lack of coordination, communication gaps, and politicization, which affected public health outcomes negatively. Therefore, I would rate the job as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the United States has faced significant challenges and has struggled in managing the coronavirus outbreak, especially considering the initial delays, inconsistent policies, politicization, and communication issues. While efforts such as vaccine development were notable, the uneven response and public confusion impacted overall effectiveness. Therefore, I would rate the job as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the United States has faced significant challenges in managing the coronavirus outbreak, including initial delays, inconsistent messaging, and politicization that affected public health efforts. Although vaccines and other measures were developed, the overall response has been marked by coordination issues and varied state policies, leading to higher case numbers and public frustration. Considering these factors, I would rate their performance as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the United States faced significant challenges in handling the coronavirus outbreak, including initial delays, inconsistent policies, and political polarization. While there were efforts to develop vaccines and promote safety measures, the overall response was often reactive, leading to high case numbers and public confusion. Given these issues, I would rate their performance as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the United States has faced substantial challenges in managing the coronavirus outbreak, including initial delays, politicization, and inconsistent policies across states. While there were notable efforts like vaccine development, the overall response was often reactive and fragmented, resulting in high case counts and public confusion. Given these factors, I would rate their performance as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the United States faced significant challenges in managing the coronavirus outbreak, including initial delays, inconsistent policies, politicization, and communication issues. While there were notable efforts such as vaccine development, the overall response was marked by reactiveness and public confusion, which impacted effectiveness. Therefore, I would rate the job as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the United States has faced significant challenges and has struggled in managing the coronavirus outbreak, especially considering the initial delays, inconsistent policies, politicization, and communication issues. While efforts such as vaccine development were notable, the uneven response and public confusion impacted overall effectiveness. Therefore, I would rate the job as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

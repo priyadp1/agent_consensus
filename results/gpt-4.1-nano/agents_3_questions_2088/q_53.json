@@ -1,0 +1,62 @@
+{
+  "question": "How concerned, if at all, are you about Hindu extremism in our country these days? Are you very concerned, somewhat concerned, not too concerned or not at all concerned about Hindu extremism in our country these days? ",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about extremism are important to address, but I do not see Hindu extremism as a pressing issue currently impacting the country's overall safety and social harmony. While vigilance is necessary, it does not warrant high levels of concern at this moment. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I consider this a serious concern because any form of extremism, regardless of its origin, can threaten social harmony and national security. While I recognize that extremism is not representative of the majority, its presence and impact are alarming enough to warrant vigilance. Understanding the potential for division and violence, I feel quite apprehensive about this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because while I recognize that any form of extremism can be concerning, I believe the majority of the community and government efforts are aimed at addressing it. My concern is moderate because I see some incidents or rhetoric that act as warning signs, but I also believe they represent a small fraction of the larger society working towards peace and stability. I think it\u2019s important to remain vigilant but not overly alarmed by isolated incidents. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while concerns about extremism are valid and ongoing efforts help mitigate risks, the overall prevalence of Hindu extremism in the country remains relatively limited and not pervasive enough to cause widespread alarm. I feel somewhat concerned but understand that significant steps are being taken to address such issues, and extreme incidents are relatively isolated. Therefore, I am moderately concerned but not deeply alarmed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about extremism should be balanced with an understanding of the broader social context. While it is important to stay vigilant, I do not see Hindu extremism as a significant threat at this time, given the efforts to promote social harmony and the relative rarity of extremist incidents. Therefore, I am not too concerned about Hindu extremism in our country these days.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about extremism are important to address; however, I do not see Hindu extremism as a pressing issue currently impacting the country's overall safety and social harmony. While vigilance is necessary, it does not warrant high levels of concern at this moment. Therefore, I am somewhat concerned but not overly worried about Hindu extremism these days.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the responses of others, it seems that while there is some concern about Hindu extremism, it is generally not seen as an urgent or severe issue at present. The respondents' views suggest that vigilance is appropriate, but excessive worry may not be justified given the current social context and rarity of incidents. I align with a moderate stance, recognizing the importance of awareness without overestimation of threats.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that concerns about extremism are valid but tend to be limited in scope, with significant efforts in place to address potential issues. While vigilance is necessary, the overall prevalence of Hindu extremism currently does not seem to pose an immediate or widespread threat, and incidents appear relatively isolated. Therefore, I am somewhat concerned but not overly worried about Hindu extremism these days.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that concerns about extremism should be balanced with an understanding of the broader social context. While vigilance is necessary, the instances of Hindu extremism currently appear limited and do not pose a widespread threat. The efforts to promote social harmony and prevent extremism seem to be effective, leading me to feel somewhat concerned but not deeply alarmed. Therefore, I am somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

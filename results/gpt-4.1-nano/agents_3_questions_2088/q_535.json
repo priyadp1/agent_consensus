@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. c. The UK Independence Party (UKIP)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I do not have a personal opinion on UKIP, but based on public sentiment and recent political developments, many perceive the party as somewhat unfavorable due to associations with nationalism and controversial policies. However, some individuals view UKIP more favorably because of its stance on Brexit and immigration. Considering the general public opinion, I would select a neutral-to-slightly-unfavorable option to reflect mixed perceptions, leaning towards unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the UK Independence Party (UKIP) because I perceive it to have promoted nationalist and anti-immigration policies, which I find concerning and divisive. While I recognize that some support their stance on sovereignty, I do not feel positively about their overall approach or impact. Therefore, I would choose the option that reflects a moderate negative view.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of UKIP because while I acknowledge its role in shaping political debates around national sovereignty and immigration, I also see some of its policies as divisive and potentially harmful to social cohesion. Therefore, I would choose C.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I do not have a strong positive opinion of UKIP due to concerns about its promotion of nationalist and anti-immigration policies, which I find divisive and problematic. While I recognize its influence on political debates, I believe its approach can be harmful to social cohesion. Therefore, I would select a somewhat unfavorable view.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I hold a somewhat unfavorable opinion of UKIP because, while I appreciate its emphasis on national sovereignty and Brexit, I also recognize that the party has been associated with divisive rhetoric and controversial policies that can undermine social cohesion and promote intolerance. This nuanced view aligns with a somewhat unfavorable attitude rather than strongly unfavorable or favorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of UKIP because I perceive the party's focus on nationalism and anti-immigration policies as problematic and divisive. While I understand some support their stance on sovereignty, I personally do not view their overall impact positively. Therefore, I would select an option that reflects a moderate negative view.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of UKIP. While I acknowledge their emphasis on national sovereignty and Brexit, I am also aware of their association with divisive rhetoric and controversial policies that can undermine social cohesion and promote intolerance. This leads me to choose a moderate negative stance rather than a strongly unfavorable or favorable one.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of UKIP because I perceive the party's focus on nationalism and anti-immigration policies as problematic and divisive. While I understand some support their stance on sovereignty, I personally do not view their overall impact positively.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I recognize UKIP's influence on national debates, particularly on Brexit and immigration, but I also acknowledge concerns about its nationalist and anti-immigration stance, which some may perceive as divisive or promoting intolerance. Given this nuanced view, I believe I hold a somewhat unfavorable opinion of UKIP.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

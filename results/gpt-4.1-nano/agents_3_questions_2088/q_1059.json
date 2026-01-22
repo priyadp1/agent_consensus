@@ -1,0 +1,63 @@
+{
+  "question": "Which of the following concerns you most about Islamic extremism in our country today?  It is violent; It will lead to people having fewer personal freedoms and choices; It will divide the country; It will set back economic development.",
+  "options": [
+    "It is violent",
+    "Will lead to people having fewer personal freedoms/choices",
+    "It will divide the country",
+    "It will set back economic development",
+    "None of these (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the most concerning aspect of Islamic extremism in our country today is its potential for violence, which directly threatens the safety and lives of individuals. Violence not only causes immediate harm but also fosters fear and instability, making it difficult for communities to thrive. While other concerns such as restrictions on freedoms, societal division, and economic setbacks are also important, the immediate and tangible danger posed by violence makes it the most pressing issue for me.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am most concerned about the violence associated with extremism because it leads to harm, loss of life, and creates fear within communities. Violence directly affects safety and stability, which can also contribute indirectly to other issues like social division and economic setbacks. Therefore, the primary concern is that extremism's violent nature poses immediate and tangible threats to society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the primary concern is the violence associated with extremism, as it directly threatens safety and lives. While other issues are important, the immediate and tangible harm caused by violent acts makes it the most pressing concern in this context. Protecting safety and preventing harm should take precedence over other social or economic impacts. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the most pressing concern about Islamic extremism in our country today is that it is violent. The reason for this is that violence associated with extremism leads to immediate harm, loss of lives, and creates an atmosphere of fear and insecurity within communities. Such violence not only damages individuals and families directly affected but also undermines social stability and trust. While other concerns like social division or economic setbacks are significant, the tangible and immediate threat posed by violence makes it the primary issue to address. Ensuring safety and preventing harm should be the top priority in tackling extremism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My primary concern regarding Islamic extremism in our country today is the threat of violence, which poses immediate danger to individuals' safety and well-being. Violent incidents can cause harm, instill fear, and destabilize communities, making it the most pressing issue that demands urgent attention and action. While issues like restrictions on freedoms, societal division, and economic setbacks are significant, the direct and tangible harm from violence takes precedence in my view.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the most concerning aspect of Islamic extremism in our country today is its potential for violence. Violence directly threatens the safety and lives of individuals, causing immediate harm and fostering fear and instability within communities. While other issues like restrictions on freedoms, societal division, and economic setbacks are also serious, the immediate danger posed by violence makes it the most pressing concern for me.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the most pressing concern is the potential for violence associated with Islamic extremism. Violence has immediate and tangible impacts on safety, causing harm and instability within communities. While other concerns such as restrictions on freedoms, societal divisions, and economic setbacks are important, the immediate threat to individuals' safety makes violence the most urgent issue to address and prioritize.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the most pressing concern about Islamic extremism is its potential for violence. Violence causes immediate harm and creates fear, which directly impacts safety and social stability. While concerns about freedoms, societal division, and economic development are important, the tangible and urgent threat posed by violence makes it the top priority to address in order to protect citizens and maintain stability in the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am most concerned about the violence associated with Islamic extremism because it causes immediate harm, endangers lives, and fosters fear within communities. The destructive impact of violence directly threatens safety and social stability, making it the most urgent issue to address. While other effects like social division or economic setbacks are serious, the tangible danger posed by violence requires prioritization in response strategies.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

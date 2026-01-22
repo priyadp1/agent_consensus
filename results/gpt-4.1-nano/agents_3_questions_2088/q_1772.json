@@ -1,0 +1,62 @@
+{
+  "question": "As I read some pairs of phrases, please tell me which one best reflects your impression of Narendra Modi. Do you think Narendra Modi is ____? b. someone who is able to get things done OR someone who is not able to get things done",
+  "options": [
+    "Statement #1",
+    "Statement #2",
+    "Neither (VOL)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I perceive Narendra Modi as someone who is primarily focused on implementing his agenda and has demonstrated the ability to push through policies and initiatives effectively. His leadership style appears action-oriented, often characterized by decisive decision-making and efforts to achieve tangible results. Therefore, I believe he falls closer to being someone who is able to get things done.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Narendra Modi is someone who is able to get things done because he has a track record of implementing large-scale policies and projects in India, such as infrastructure development and economic reforms. His leadership style appears focused on decisive action, which aligns with the perception of being effective at accomplishing goals.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Narendra Modi is widely regarded as someone who is able to get things done. He has been known for his decisive actions, implementing policies, and pushing through reforms during his tenure as Prime Minister of India. His reputation for mobilizing efforts and delivering on certain projects supports this impression, although opinions about his effectiveness can vary.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I perceive Narendra Modi as someone who is able to get things done because he has demonstrated a capacity for implementing significant policies and projects, which suggests a focus on decisive action and effectiveness in leadership.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the available information and the perception that Narendra Modi has a track record of decisive actions, policy implementation, and delivering tangible results, I believe he is best described as someone who is able to get things done. Both respondent examples support this view, describing him as action-oriented and effective in mobilizing efforts. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the information provided, Narendra Modi is described as someone who is action-oriented, decisive, and effective in implementing policies and projects, indicating a strong capacity to get things done. Both respondent comments support this impression. Therefore, I choose the option that best reflects this perception.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the common perception that Narendra Modi is known for his decisive leadership, effective policy implementation, and tangible results, I believe he is best described as someone who is able to get things done. The descriptions provided in the examples emphasize his action-oriented approach and ability to mobilize efforts successfully. Therefore, I choose the option that aligns with this impression.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I perceive Narendra Modi as someone who is able to get things done because he has demonstrated a capacity for implementing significant policies and projects, which suggests a focus on decisive action and effectiveness in leadership. His actions indicate decisiveness and effectiveness in translating plans into tangible results, aligning with the statement that he is able to get things done.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Narendra Modi is someone who is able to get things done because he has a proven record of executing major policies and projects efficiently, indicating effective and decisive leadership. Based on this information, the best reflection of my impression aligns with the option that he is capable of achieving results through action.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

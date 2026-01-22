@@ -1,0 +1,60 @@
+{
+  "question": "In the past 12 months, have you used your cell phone to do any of the following things?...look for or apply for a job ",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I often use my cell phone to look for jobs and apply online, as it provides convenient access to job listings and application portals anytime and anywhere. Given this frequent usage over the past year, I would select \"Yes.\" \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have used my cell phone to look for or apply for a job in the past 12 months because many people utilize their smartphones for job searches, accessing online job portals, or submitting applications through mobile-friendly websites. This digital approach offers convenience and accessibility, making it a common activity in today's job market.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My reasoning is that many people have started using their cell phones for a variety of activities, including looking for or applying for jobs, especially given the convenience of mobile apps and online job portals. If I have engaged in this activity within the past year, I would select \"Yes.\" If I have not, then I would choose \"No.\" Since I personally use my phone for this purpose, I will select the affirmative option.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have used my cell phone to search for or apply for a job in the past 12 months because mobile devices have become a primary tool for job hunting. Many platforms and applications are optimized for mobile use, making it convenient to explore opportunities and submit applications anytime and anywhere. This activity is quite common in today's digital-driven job market.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I regularly use my cell phone to look for and apply to jobs, as it provides convenient access to job listings and application portals from anywhere. Given this frequent activity over the past year, I would select \"Yes.\"\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have used my cell phone to look for or apply for a job in the past 12 months because smartphones provide convenient access to job listings and application portals, making it easy to search for employment opportunities from anywhere at any time. This aligns with common digital practices and the examples provided.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I use my cell phone for various activities, including looking for or applying for jobs, as smartphones are widely used tools for accessing online job platforms and applications conveniently from anywhere. Given the accessibility and frequency of this activity over the past year, my answer aligns with the \"Yes\" response.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I frequently use my cell phone to search for and apply for jobs because mobile devices offer quick and easy access to job listings, application platforms, and company websites. The convenience of being able to do this from anywhere makes it a common practice in today's digital job market. Therefore, my answer is aligned with the previous responses, confirming that I have used my cell phone for this purpose in the past 12 months.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have used my cell phone to look for and apply for a job in the past 12 months. Mobile devices are widely used for job searches because they offer convenient access to listings and applications on the go, making it easier to find employment opportunities. Given that this activity is common and within the timeframe specified, I would choose \"Yes.\"\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

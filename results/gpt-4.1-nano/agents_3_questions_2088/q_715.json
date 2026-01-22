@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about the ethnic, religious, and racial makeup of your country, over the past 20 years do you think your country has become more diverse, less diverse, or do you think there has been no change?",
+  "options": [
+    "More diverse",
+    "Less diverse",
+    "No change",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, many countries have experienced increased immigration, globalization, and social changes that tend to make their populations more diverse in terms of ethnicity, religion, and race. These factors generally lead to greater diversity rather than less or no change, especially in multicultural societies. Therefore, I believe my country has become more diverse during this period.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, many countries have experienced increased immigration and globalization, which generally leads to greater ethnic, religious, and racial diversity. While some segments of the population might feel the makeup has remained stable or even become less diverse due to various social or political factors, the overall trend in many countries tends toward increased diversity. Therefore, I believe my country has become more diverse.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, many countries have experienced increased immigration and growing recognition of diverse cultural, religious, and ethnic identities, which often leads to a perception of greater diversity. In my view, this country has become more diverse as communities have become more interconnected and multicultural influences have expanded across society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering global trends over the past two decades, many countries have experienced increased immigration, cultural exchanges, and efforts to recognize and include diverse communities. These factors generally contribute to a rise in ethnic, religious, and racial diversity. While some may perceive little change due to social or political reasons, the overarching evidence suggests that diversity has increased in many nations, including my own. Therefore, I believe my country has become more diverse.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past two decades, global migration, increasing recognition of diverse identities, and social integration efforts have generally led to heightened awareness and actual changes in the composition of many countries' populations. These trends tend to result in greater visible diversity within society. Therefore, I believe my country has become more diverse during this period.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, numerous global trends such as increased immigration, globalization, and social integration efforts have contributed to greater ethnic, religious, and racial diversity in many countries. While some individuals may perceive stability or even a decrease in diversity due to social or political influences, the broader evidence suggests an overall increase. Therefore, I believe my country has become more diverse during this period.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, many countries have experienced increased migration, globalization, and social movements that emphasize diversity and inclusion. These factors tend to lead to greater ethnic, religious, and racial variation within societies. While perceptions of change can vary depending on political or social climates, the overall trend suggests that diversity has increased over this period. Therefore, I believe my country has become more diverse during this period.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering global migration patterns, increased intercultural exchange, and efforts to promote inclusion over the past two decades, overall data and observations indicate that many countries have experienced a rise in ethnic, religious, and racial diversity. While individual perceptions may vary, the broader evidence supports the view that diversity has increased during this period. Therefore, I believe my country has become more diverse.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, global migration patterns, increased recognition of different religious and ethnic identities, and societal efforts toward inclusion have contributed to a more visibly diverse population in many countries. While individual perceptions may vary, the overall trend suggests that diversity has expanded rather than diminished or remained unchanged. Therefore, I believe my country has become more diverse.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "And how good a job is French President Francois Hollande doing in dealing with the European economic crisis? Is French President Francois Hollande  doing a very good job, a somewhat good job, a somewhat bad job or a very bad job?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Francois Hollande faced significant challenges during the European economic crisis, including high unemployment, sluggish growth, and balancing austerity measures with social support. His efforts to stabilize France's economy and implement reforms received mixed reviews. While some appreciated his attempts to address structural issues, many critics felt his approach was insufficient or too modest given the severity of the crisis. Overall, his performance was seen as limited and somewhat ineffective in fully resolving the crisis's problems.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "During Fran\u00e7ois Hollande's presidency, France faced significant economic challenges, including high unemployment and sluggish growth, and his responses received mixed reviews. While some appreciated efforts to stimulate the economy and maintain social programs, others criticized perceived lack of decisive reforms and the persistence of economic difficulties. Overall, his handling of the European economic crisis was seen by many as insufficiently effective, leading to perceptions of underperformance in tackling these issues. Therefore, considering the overall public sentiment and economic context, his job performance is generally viewed as somewhat bad. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "During Francois Hollande's presidency, his handling of the European economic crisis was widely perceived as challenged by slow economic growth and ongoing austerity measures. While he engaged in efforts to stimulate growth and address unemployment, many critics viewed his approach as insufficient or ineffective, leading to mixed opinions among the public and analysts. Overall, his management is generally regarded as somewhat disappointing, with some acknowledging efforts made but ultimately facing difficulties in significantly improving the economic situation for France and the Eurozone during his term.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the mixed reviews and the consistent perception of insufficient effectiveness in addressing economic challenges during Hollande's tenure, I believe the most accurate assessment is that his performance was somewhat disappointing but not entirely ineffective. The recognition of efforts to stimulate growth and curb unemployment shows some positive action, but overall, the difficulties and criticisms suggest a performance that is better than very bad but not quite good. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the provided responses, it is clear that Francois Hollande's handling of the European economic crisis was viewed as challenged and somewhat ineffective. Despite efforts to stimulate growth and address unemployment, the overall perception was that his performance was limited, and the economic situation remained difficult. Considering these assessments, it aligns more with a somewhat bad evaluation rather than very bad, as critics acknowledged some efforts but ultimately found them insufficient or modest given the severity of the crisis.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the mixed assessments and the widespread perception that Hollande's measures were insufficient and did not fully resolve the economic difficulties France faced during the crisis, it appears that his performance was only somewhat effective and many viewed it as lacking decisive action. Therefore, I believe his handling of the crisis aligns with a somewhat bad job.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on the responses and assessments of Hollande's performance during the European economic crisis, it appears that his efforts were seen as limited and insufficient to fully address the economic challenges faced by France. Both agents believe his handling was only somewhat effective, indicating a moderate level of dissatisfaction but not total failure. Therefore, I conclude that his job was better described as somewhat bad rather than very bad, given the recognition of some efforts but overall perceived inadequacy.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the mixed evaluations and the perception that Hollande's efforts toward addressing the European economic crisis were somewhat limited in effectiveness, I believe his performance falls into the somewhat bad category. While there were some initiatives to stimulate growth, the overall impact was seen as insufficient, making his job appear only moderately effective at best. Therefore, I think his handling was closer to a somewhat bad performance rather than better or worse. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the responses from other respondents, both acknowledge that Hollande's efforts were limited and his performance was somewhat ineffective, though not entirely failing. The consensus leans toward a moderate level of dissatisfaction, indicating a performance that is better than very bad but not quite good. Therefore, based on these interpretations, I believe that Hollande's handling of the crisis was somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

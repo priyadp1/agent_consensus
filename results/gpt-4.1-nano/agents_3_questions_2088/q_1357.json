@@ -1,0 +1,62 @@
+{
+  "question": "I'd like you to rate some different groups of people in your country according to how you feel about them.  For each group, please tell me whether your opinion is very favorable, mostly favorable, mostly unfavorable or very unfavorable?...Poles",
+  "options": [
+    "Very favorable",
+    "Mostly favorable",
+    "Mostly unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a generally positive view of Poles, recognizing their rich cultural history and contributions to arts, sciences, and global development. While individual opinions may vary, overall, I consider them mostly favorable based on their community values and resilience.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose mostly favorable because Poles, like many groups, have a diverse population with a rich cultural heritage and a history of overcoming challenges. While I recognize there might be some stereotypes or misperceptions, overall, I tend to hold a generally positive view of Poles based on their contributions and resilience.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but based on general perceptions and previous survey data, Poles are often viewed positively due to their rich cultural heritage, contributions to arts and sciences, and friendly demeanor. However, some may have unfavorable opinions due to political or historical reasons. Overall, the sentiment tends to be mostly favorable with some variation. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but based on general perceptions and the positive contributions of Poles to culture, arts, and sciences, the overall sentiment tends to be mostly favorable. While there may be some negative stereotypes or historical issues that influence opinions for certain individuals, the majority view seems to be fairly positive. Therefore, I would choose the same as others have, which aligns with a mostly favorable perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the information provided and general perceptions, Poles are viewed positively due to their cultural heritage, contributions to arts and sciences, and overall community values. Although some may have unfavorable opinions due to political or historical reasons, the majority sentiment appears to be mostly favorable. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a mostly favorable view of Poles because I appreciate their rich cultural heritage, resilience, and contributions to arts and sciences. While acknowledging that individual opinions can differ, I tend to see Poles positively based on their community values and history of overcoming challenges.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a generally positive view of Poles, appreciating their rich cultural heritage, resilience, and contributions to arts and sciences. While awareness of diverse opinions exists, my overall impression aligns with a mostly favorable perception based on their community values and history of overcoming challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I agree with the general positive perceptions expressed by others, recognizing the contributions of Poles to culture, arts, and sciences. Their rich heritage and resilience foster a mostly favorable view. While acknowledging the existence of stereotypes or historical issues, I believe the overall sentiment remains predominantly positive, which aligns with a mostly favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the general perceptions and contributions of Poles to culture, arts, and sciences, along with the other respondents' favorable assessments, my opinion aligns with a mostly favorable view. Although individual opinions may vary, the overall sentiment seems to be positive rather than negative.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

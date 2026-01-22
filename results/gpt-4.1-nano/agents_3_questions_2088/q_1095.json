@@ -1,0 +1,62 @@
+{
+  "question": "For each item on this list, tell me if you think it is happening a lot more, somewhat more, only a little more or not more these days than five years ago: communication and travel between the people of your country and people in other countries.",
+  "options": [
+    "A lot more",
+    "Somewhat more",
+    "Only a little more",
+    "Not more"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Over the past five years, there has been a significant increase in communication and travel between people in my country and those in other countries, primarily driven by technological advancements like easier access to the internet, social media, and a globalized economy. While some regions or communities might experience more modest changes, overall, the trends show a noticeable rise in international interactions. Therefore, I believe these activities are happening a lot more now than five years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, there has been a noticeable increase in the ease and frequency of communication and travel between the citizens of different countries. Technological advances such as improved internet connectivity, social media platforms, and affordable international flights have made it more common and accessible for people to connect across borders. While the growth may not be uniform everywhere, overall, the trend suggests a significant uptick in cross-border interactions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past five years, advances in technology, globalization, and the increased prevalence of digital communication have significantly boosted international interactions. People are more regularly connecting through social media, messaging apps, and virtual meetings, making communication across borders much more frequent. Similarly, international travel has become more accessible and affordable for many, leading to a noticeable rise in travel between countries. Therefore, these changes contribute to a sense that both communication and travel between people of different countries are happening more than they did five years ago, with the increase being quite substantial.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the rapid advancements in technology, especially the widespread use of social media, messaging apps, and virtual communication platforms, alongside increased affordability and accessibility of international travel over the past five years, it seems that both communication and travel between people of different countries have experienced a substantial increase. While the change is significant, it may not be quite at the level of \"a lot more\" for everyone. Therefore, I believe the best fit is \"somewhat more,\" as these trends have clearly elevated cross-border interactions but might not be universally extreme. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe communication and travel between my country and other countries has increased quite a bit over the past five years, primarily due to technological developments like social media, internet accessibility, and more affordable international travel options. These factors have made staying connected and visiting other countries much easier and more common than before. While the extent may vary depending on specific regions or populations, overall, the trend points toward a significant rise in international interactions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the observations from other respondents highlighting significant technological improvements\u2014such as easier internet access, social media, and cheaper flights\u2014that have made communication and travel more accessible and frequent across countries, I believe these activities have increased quite notably over the past five years. While the extent of growth may vary by region, the overall trend suggests a considerable rise in international interactions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe communication and travel between my country and others has increased quite a bit over the past five years. Advances in technology, such as social media platforms, easier access to the internet, and more affordable international flights, have made it far simpler and more common for people to stay connected and visit other countries. These developments have significantly contributed to increasing international interactions, making them more frequent and accessible than before.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the evidence from other respondents emphasizing rapid technological advancements and increased affordability that have made international communication and travel more frequent and accessible, I believe these activities have experienced a significant increase over the past five years. While the extent of change may not be uniform everywhere, overall, there has been a notable rise in cross-border interactions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the significant technological advancements and greater accessibility to international travel over the past five years, it's reasonable to say that communication and travel between the people of my country and others have increased notably. While some may argue it's more than just somewhat, I don't believe it has reached the level of a lot more for everyone universally. Therefore, I feel that \"somewhat more\" accurately captures this trend.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

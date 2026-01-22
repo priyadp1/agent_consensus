@@ -1,0 +1,63 @@
+{
+  "question": "Please choose the statement that comes closer to your own views \u2013 even if neither is exactly right.",
+  "options": [
+    "In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",
+    "In foreign policy, the U.S. should follow its own national interests even when its allies strongly disagree",
+    "DK/Refused",
+    "It\u2019s best for the future of our country to be active in world affairs",
+    "We should pay less attention to problems overseas and concentrate on problems here at home"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I lean toward prioritizing active engagement in world affairs because global stability and international cooperation can benefit our country's security and economic interests in the long run. While considering allies\u2019 interests is important, maintaining a proactive presence internationally aligns with the idea that active participation can enhance national strength and influence, even if it requires some compromises. Focusing solely on domestic issues or disregarding international involvement might overlook the interconnected nature of today's world. Therefore, I believe being active globally is the best path forward for our country's future.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that in foreign policy, the U.S. should follow its own national interests even when its allies strongly disagree because sometimes maintaining sovereignty and pursuing objectives that benefit the country directly take precedence over coalition pressures. While working with allies is important, Americans often prioritize policies that serve their national well-being, especially when disagreements arise. Additionally, being active in world affairs is generally beneficial for the country's security and influence, but the core principle remains that national interests should guide foreign policy decisions.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while it is important for the U.S. to consider its allies' interests, ultimately the country's own national interests should guide foreign policy decisions, especially when disagreements arise. This balance ensures that the U.S. maintains strong alliances without compromising its core priorities and security. Therefore, I align most closely with the idea that the U.S. should follow its own national interests even if it means facing opposition from allies.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that strong alliances are important for maintaining global stability and advancing U.S. interests internationally. However, I also think that ultimately the U.S. should prioritize its own national interests when conflicts with allies arise, as safeguarding national security and sovereignty are fundamental. Being active in world affairs is crucial for the country's influence and security, but this should be balanced with protecting core national priorities. Therefore, I align most closely with the view that the U.S. should follow its own national interests even when its allies strongly disagree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while maintaining strong alliances and considering their interests is important, ultimately the United States should prioritize its own national interests, especially in cases of disagreement or conflicting priorities. This approach ensures that national security and core policies are not compromised for the sake of alliance harmony. Additionally, I support an active role in international affairs because engagement can promote global stability and benefit national security in the long run. Therefore, I align most closely with the idea that the U.S. should follow its own national interests even when allies disagree, and I also agree that being active internationally is beneficial for our country's future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that maintaining strong international engagement is essential for the security, economic prosperity, and global influence of the United States. Being active in world affairs allows the U.S. to shape international outcomes, foster alliances, and address global challenges proactively. While consideration of allies\u2019 interests is important, it should not come at the expense of an active role that benefits the country in the long term. Therefore, I align most closely with the view that being active globally is the best for our country's future.  \nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that maintaining strong international engagement is crucial for the security, economic prosperity, and global influence of the United States. Being active in world affairs allows the U.S. to shape international outcomes and foster important alliances. While considering allies' interests is important, it should not override the need to promote national interests and proactively address global challenges. Therefore, I align most closely with the view that being active globally is the best for our country's future.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that maintaining strong international engagement is essential for the security, economic prosperity, and global influence of the United States. Being active in world affairs allows the U.S. to shape international outcomes, foster alliances, and address global challenges proactively. While consideration of allies\u2019 interests is important, it should not come at the expense of an active role that benefits the country in the long term. Therefore, I align most closely with the view that being active globally is the best for our country's future.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while maintaining strong alliances and considering their interests is important, the U.S. should ultimately prioritize its own national interests, especially when there are disagreements. Protecting national security and sovereignty is fundamental, and international engagement should serve those priorities. Therefore, I align most closely with the view that the U.S. should follow its own national interests even when allies strongly disagree, and I also support active involvement in world affairs to support national security and global stability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

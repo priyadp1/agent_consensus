@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...APEC, that is, Asian-Pacific Economic Cooperation",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of APEC because it plays a significant role in fostering economic cooperation and trade among Pacific Rim countries, which can lead to mutual benefits and development. However, some may view it with skepticism due to concerns about its effectiveness or geopolitical interests, preventing a very favorable rating. Therefore, my stance leans towards a moderate positive view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I don't have personal opinions, but I can provide a general perspective based on public sentiment. APEChas been viewed positively by many for promoting economic cooperation and regional stability in the Asia-Pacific region. However, some critics argue that its effectiveness is limited and that it sometimes lacks transparency or concrete outcomes. Given this, the most balanced answer reflecting widespread moderate support but some skepticism would be \"somewhat favorable,\" as many people recognize its importance but also some shortcomings.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of APEC because I believe it plays a significant role in fostering economic collaboration among Asia-Pacific countries, which can promote stability and growth in the region. However, I also recognize that it sometimes faces criticism for not doing enough to address issues like economic inequality or trade disputes. Overall, my view is positive but cautious. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the general perception and the provided examples, APEC is viewed positively for its efforts in promoting economic cooperation and regional stability. However, there are criticisms regarding its effectiveness and transparency. The balance of support and skepticism suggests a somewhat favorable opinion. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe APEC plays an important role in fostering economic cooperation and trade among Asia-Pacific nations, which can lead to regional stability and growth. While there are criticisms regarding its effectiveness and whether it addresses broader issues sufficiently, I still see it as generally beneficial. Therefore, I hold a somewhat favorable opinion of APEC.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of APEC because it plays an important role in promoting economic cooperation and trade among Asia-Pacific nations, which can contribute to regional growth and stability. While I recognize its positive impact, I also acknowledge that there are critiques about its effectiveness and transparency, which prevent me from viewing it as highly favorable. Overall, my perspective is cautiously optimistic, leaning towards support but with reservation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe APEC plays a significant role in encouraging economic cooperation and trade among Asia-Pacific countries, which can foster regional stability and growth. While I recognize there are some criticisms regarding its effectiveness and scope, I still view it positively overall. Therefore, I hold a somewhat favorable opinion of APEC.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my opinion of APEC aligns with a somewhat favorable view. I recognize its efforts in promoting economic cooperation and stability in the Asia-Pacific region, which are beneficial. However, I am also aware of criticisms regarding its effectiveness and transparency, which temper my support. Overall, my perspective is cautiously optimistic and supportive, but not strongly so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that APEC is generally appreciated for its role in promoting economic cooperation and stability in the Asia-Pacific region. While there are some criticisms about its effectiveness and transparency, overall, the perception leans towards a positive view, though not overwhelmingly so. Therefore, I would say I have a somewhat favorable opinion of APEC.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

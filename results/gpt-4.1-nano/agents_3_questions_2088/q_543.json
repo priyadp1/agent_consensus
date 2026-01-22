@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Electricity shortages",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Electricity shortages can severely disrupt daily life, economic activities, and essential services. In many countries, they are a persistent issue that hampers development and causes widespread inconvenience. Given the importance of reliable electricity for nearly all aspects of modern living, I consider electricity shortages to be a very big problem that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Electricity shortages are a significant issue because they can disrupt daily life, hamper economic activities, and affect essential services. In many countries, especially where infrastructure is lacking or underdeveloped, this problem can be quite severe, impacting industries, healthcare, education, and household comfort. Although some regions might experience manageable shortages, overall, it remains a serious concern that needs attention and investment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Electricity shortages can significantly disrupt daily life, economic activities, and essential services. In many countries, especially those facing infrastructure challenges or unstable energy supplies, electricity shortages are a serious concern that affects a large portion of the population and hampers development efforts. They can lead to power outages, loss of productivity, and even safety issues. Therefore, I consider electricity shortages to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe electricity shortages are a very big problem because they can significantly disrupt daily life, hinder economic growth, and affect essential public services. When electricity is unreliable or unavailable, it impacts industries, healthcare, education, and household comfort, which are fundamental to a country's development and stability. Addressing this issue would likely require substantial infrastructure investments and policy changes to ensure a consistent power supply for all citizens. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Electricity shortages directly affect daily life, economic stability, and access to essential services. Persistent shortages can lead to blackouts, reduced productivity, and safety issues, which can significantly hinder development and livelihoods. Given their potential to cause widespread disruption and safety concerns, I believe electricity shortages are a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Electricity shortages are a critical issue that can severely impact daily life, economic growth, and essential services. Reliable electricity is fundamental for modern living, and shortages often indicate underlying infrastructure problems that need urgent solutions. Therefore, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Electricity shortages can severely disrupt daily routines, hinder economic activities, and compromise safety and essential services. Persistent shortages may also reflect underlying infrastructure issues that require urgent attention. Considering their widespread impact, I believe electricity shortages are a very big problem.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Electricity shortages are a major concern because they can lead to widespread disruptions in daily life, hamper economic activities, and compromise essential services like healthcare and education. Reliable electricity is fundamental to the country's overall development and stability, and addressing shortages typically requires significant infrastructure improvements and policy efforts. Given these impacts, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe electricity shortages are a very big problem because they severely disrupt daily life, hinder economic growth, and compromise public safety. Reliable electricity is fundamental for essential services such as healthcare, education, and industry; without it, development stalls and people's well-being is affected. Addressing this issue would require substantial infrastructure improvements and policy efforts to ensure consistent power supply nationwide.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

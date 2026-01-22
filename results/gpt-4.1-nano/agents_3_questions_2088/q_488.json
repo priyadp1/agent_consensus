@@ -1,0 +1,62 @@
+{
+  "question": "I'd like to ask your opinion about some international issues.  Please tell me how concerned you are, if at all, about each of them - are you very concerned, somewhat concerned, not too concerned or not at all concerned?...global economic instability",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a significant concern because it can lead to job losses, inflation, and financial hardship worldwide. It also affects other issues like poverty, health care, and education, making it a pressing matter that requires attention. While I am aware of other international issues, the ripple effects of economic instability make it a top priority in my opinion.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am very concerned about global economic instability because it can have widespread impacts on employment, savings, and overall financial security worldwide. Economic fluctuations can also lead to social unrest and affect vulnerable populations the most, making it a pressing issue that deserves significant attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a significant concern because it can have widespread effects on employment, stability, and standard of living across countries. The interconnectedness of economies means that instability in one part can ripple worldwide, affecting everyday life and international stability. Therefore, I would say I am very concerned about this issue.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a highly concerning issue because it has the potential to cause widespread negative effects on employment, financial security, and overall stability both locally and globally. Given the interconnected nature of modern economies, instability in one region can quickly spread and impact many people's lives, making it a pressing concern that requires serious attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a major concern because it has the potential to cause widespread hardship, including job losses, inflation, and increased poverty worldwide. Its ripple effects impact various aspects of society and other international issues, making it a top priority for me. Given this, I am very concerned about this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global economic instability is a major concern because it can cause widespread job losses, inflation, and economic hardship across nations. Its ripple effects can impact many other issues such as poverty and healthcare, affecting the stability and well-being of populations worldwide. Given its broad and significant consequences, I feel very concerned about it.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am very concerned about global economic instability because it has the potential to cause widespread hardship, including job losses, inflation, and increased poverty worldwide. Its ripple effects impact many aspects of society and other international issues, making it a significant threat that requires careful attention. Given these considerations, I feel very concerned about this issue.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am very concerned about global economic instability because it has widespread implications for employment, financial security, and overall stability around the world. Its interconnected nature means that issues in one region can rapidly affect many others, causing economic hardship and social disruptions. Given these serious potential impacts, I feel very concerned about it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I recognize that global economic instability can significantly disrupt individuals' livelihoods, lead to unemployment, inflation, and increase poverty levels, and potentially trigger broader social and political issues. Given its widespread impact and interconnected global effects, I am very concerned about this issue.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

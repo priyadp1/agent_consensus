@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the statement...I feel more solidarity these days with Islamic people living around the world",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I choose B because I feel a sense of increased solidarity with Islamic people worldwide, likely influenced by current global events and increased exposure through media and community interactions. This has fostered a greater sense of unity and empathy, though I may not feel it to the fullest extent that \"completely agree\" implies.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I personally feel that my sense of solidarity with Islamic people worldwide has grown recently, likely due to increased exposure to cultural exchanges and global issues affecting Muslim communities. This heightened awareness fosters a greater sense of connection and shared humanity, making me lean toward agreeing with the statement. Therefore, I choose mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that feelings of solidarity can be influenced by increased awareness, global interconnectedness, and shared challenges faced by different communities. Given recent global events and increased communication through social media, I tend to feel more connected and empathetic toward Islamic people worldwide. Therefore, I mostly agree with the statement, though I acknowledge that individual experiences and perspectives vary.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that my sense of solidarity with Islamic people worldwide has increased recently, as I have become more aware of their experiences and challenges through social and global issues. This heightened understanding has fostered a greater feeling of connection and empathy, making me lean toward feeling more solidarity. Therefore, I choose mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel that current global events, increased media coverage, and social media sharing have heightened awareness and empathy toward Islamic communities worldwide. While I do not feel this sentiment strongly enough to say I completely agree, I do believe my sense of solidarity has grown significantly in recent times. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I currently feel that my sense of solidarity with Islamic people around the world has increased recently. I believe that global events, increased media coverage, and ongoing conversations about social justice and human rights have heightened my awareness and empathy towards Muslim communities. While I may not feel a complete sense of unity, there is a noticeable shift toward more understanding and connection. Therefore, I choose mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that my awareness of global issues affecting Muslim communities has increased, and I feel a greater sense of empathy and solidarity as a result. While I do not feel completely united with Islamic people worldwide, my perspective has shifted positively recently. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel that my sense of solidarity with Islamic people around the world has increased recently due to greater awareness of their experiences and challenges through media coverage and global discussions on social justice and human rights. This has fostered a deeper sense of connection and empathy, leading me to mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe my awareness and empathy toward Islamic communities around the world have increased due to recent global events and media coverage, leading me to feel a stronger sense of solidarity. Although I do not feel it strongly enough to choose completely agree, I do feel that my sense of connection has grown quite a bit. Therefore, I choose mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Right now, is the American economy having a positive or negative impact on economic conditions in the rest of the world?",
+  "options": [
+    "Positive",
+    "Negative",
+    "Neither/both (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The impact of the American economy on the rest of the world can be complex and dual in nature. When the U.S. economy performs well, it often boosts global trade, increases demand for exports from other countries, and contributes positively to international markets. Conversely, periods of economic downturn or instability in the U.S. can lead to reduced investment, decreased global demand, and financial market volatility, negatively affecting other nations. Currently, depending on recent economic indicators and international market responses, the impact could lean toward either positive or negative. Without specific contemporary data, it's challenging to definitively categorize the overall effect, but given recent economic uncertainties and inflation challenges within the U.S., the impact may be leaning more negative at this time.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The impact of the American economy on the rest of the world currently appears mixed, but overall, it seems to lean towards a positive influence. The United States is a significant driver of global trade, investment, and financial markets, and a strong U.S. economy can boost demand for exports from other countries. However, recent economic uncertainties and policy shifts have introduced some risks, making the overall impact less clear-cut. Still, given the interconnectedness and the historical tendency for the U.S. to bolster global growth, the effects are more positive than negative at this moment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The impact of the American economy on the rest of the world currently appears mixed but tends to lean toward negative due to concerns about inflation, interest rate hikes, and financial market volatility stemming from U.S. monetary policies. While the U.S. still acts as a major consumer and investor globally, recent economic uncertainties and policy shifts have created turbulence for many economies dependent on trade and global capital flows, which could hinder their growth prospects. However, some developing countries may benefit from U.S. demand for exports or remain unaffected. Overall, considering the broad influence of economic uncertainties and policy tightening, the impact at this moment seems more negative than positive.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The current state of the American economy's impact on the rest of the world appears somewhat mixed, with recent economic policies and market volatility introducing uncertainties. While the U.S. continues to be a major driver of global trade and investment, recent concerns around inflation, interest rate hikes, and financial instability suggest that its influence might be more negative overall at this moment. Therefore, I lean toward the negative side of the impact, acknowledging some potential benefits but considering the overall picture more negative.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In my view, the American economy is currently having a negative impact on global economic conditions. Ongoing inflation concerns, interest rate hikes, and financial market volatility originating from U.S. monetary policies are creating turbulence for many countries dependent on trade and global capital flows. While the U.S. remains a significant consumer and investor, recent uncertainties suggest that its influence is more likely to hinder worldwide growth rather than boost it at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the recent economic data and global market reactions, the U.S. economy appears to be experiencing some uncertainty. On the one hand, it continues to drive global trade and investment, supporting growth in many countries. On the other hand, recent inflation concerns, interest rate hikes, and fiscal uncertainties within the U.S. seem to be creating some headwinds that could negatively impact international economic conditions. Overall, considering these mixed signals, the impact does not seem strongly positive nor outright negative but rather somewhat neutral or mixed at this point.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the American economy's current impact on global conditions is mixed. While it continues to be a major driver of trade and investment, recent issues such as inflation, interest rate hikes, and financial market volatility suggest that its influence is causing some headwinds for other countries. Therefore, I see the overall impact as neither clearly positive nor negative but rather a combination of both.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The American economy currently seems to have a mixed impact on global conditions. While it continues to be a significant driver of trade and investment, recent issues such as inflation, interest rate hikes, and financial market volatility introduce uncertainties that can hinder international economic stability. Considering this nuanced situation, the impact appears neither strongly positive nor entirely negative, but more balanced with both positive and negative elements influencing other countries. Therefore, I believe the best fit is the third option, reflecting a neutral or mixed impact.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The current state of the American economy appears to be exerting a predominantly negative influence on global economic conditions. Despite ongoing US economic activity, recent signs of inflation, interest rate hikes, and financial market volatility originating from the US have created uncertainties and turbulence in many other countries, particularly those dependent on trade and capital flows. These factors suggest that the overall impact is more likely to hinder than to help the worldwide economy at this time.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

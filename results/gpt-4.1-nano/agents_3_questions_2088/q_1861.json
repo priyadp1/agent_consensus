@@ -1,0 +1,61 @@
+{
+  "question": "In general, when American companies buy German companies, does that mostly help or mostly hurt our economy? ",
+  "options": [
+    "Mostly help",
+    "Mostly hurt",
+    "No effect (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "When American companies acquire German companies, the impact on the U.S. economy can vary depending on several factors such as the nature of the acquisition, the industries involved, and how the integration is managed. Generally, these cross-border investments can lead to positive effects like increased innovation, access to new markets, and global competitiveness, which can benefit the U.S. economy in the long run. However, concerns may also arise around job security, domestic investment, or the transfer of critical technologies. Overall, most analysts see such international acquisitions as having a net positive effect by fostering economic growth and global cooperation, although individual cases can differ. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "When American companies acquire German firms, the impact on the U.S. economy can vary depending on factors like how the acquisition is managed, whether it leads to innovations, job creation, or potential downsizing. Generally, such cross-border investments can bring in new technology, increase competitiveness, and open markets for American products, which tend to benefit the economic landscape. However, if it results in job losses or transfers of profits overseas without reinvestment, the benefits may be limited or even harmful. Overall, the positive effects often outweigh negatives, making these acquisitions more likely to help than hurt the American economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "When American companies invest in German companies, it can bring both economic benefits and drawbacks. Such investments often lead to increased innovation, improved management practices, and access to new markets, which can boost productivity and job creation in the U.S. economy. Additionally, these acquisitions can lead to stronger global competitiveness for American companies. However, there's also a concern that profits generated abroad and potential job shifts or reductions in certain sectors could negatively impact the American economy. Overall, many experts believe that these cross-border investments, on balance, tend to benefit the U.S. by fostering economic growth and competitiveness in the long term.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that when American companies acquire German companies, it generally helps our economy. These cross-border investments often lead to increased innovation, access to new markets, and improvements in management practices, which can enhance productivity and create more jobs domestically. While there are some concerns about profits leaving the country or job shifts, the overall trend appears to favor long-term economic growth and competitiveness for the U.S. economy. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that when American companies buy German companies, it mostly helps our economy because such cross-border investments tend to foster innovation, increase global competitiveness, and open new markets for U.S. businesses. While there are some concerns about job shifts or technology transfer, the overall long-term benefits such as economic growth and increased productivity make these acquisitions advantageous for the American economy. Therefore, my choice is A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my view, when American companies acquire German companies, the overall effect on the U.S. economy tends to be positive. These cross-border investments can lead to increased innovation, access to international markets, and enhanced competitiveness for American firms. Although there are potential concerns like job displacement or profit shifting, the net impact generally favors economic growth and technological advancement, which benefits the U.S. in the long term.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that when American companies buy German companies, it mostly helps our economy. Such acquisitions often enhance innovation, improve global competitiveness, and create new opportunities for U.S. businesses. Despite some concerns about job shifts or technological transfers, the long-term benefits like economic growth and increased productivity tend to outweigh these issues. Therefore, I choose A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my view, when American companies acquire German companies, the overall effect on our economy is generally positive. Such cross-border investments often foster innovation, open new markets, and improve management practices, which can boost productivity and support job creation domestically. While there are some potential downsides like profit repatriation or job shifts abroad, the long-term benefits of increased competitiveness and technological advancement tend to outweigh these concerns, contributing positively to the U.S. economy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that when American companies acquire German companies, it generally benefits our economy. Such cross-border investments can lead to increased innovation, access to new markets, and improved management practices, which boost productivity and can create jobs in the U.S.. Although there may be concerns about profits leaving the country or job shifts, the overall impact tends to support long-term economic growth and competitiveness for the American economy. Therefore, my choice is A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Here are some things that may be part of a free trade agreement with the European Union. Please tell me if you strongly support, somewhat support, somewhat oppose, or strongly oppose...Removing all duties that increase the price of goods imported from the [GERMANY: U.S. / U.S.: European Union]",
+  "options": [
+    "Strongly support",
+    "Somewhat support",
+    "Somewhat oppose",
+    "Strongly oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Removing all duties that increase the price of goods imported from Germany would likely make imported products cheaper for consumers and businesses, promoting trade and economic efficiency. This could benefit both countries by increasing competition, lowering costs, and fostering stronger economic ties. However, some industry sectors concerned about fair competition or national interests might oppose such liberalization. Overall, if the primary goal is economic growth and consumer savings, support seems justified, though balanced consideration of broader impacts is important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Removing all duties that increase the price of goods imported from the European Union would likely benefit consumers by lowering costs on a wide range of products. It could also foster stronger economic ties and promote mutual economic growth between the U.S. and the EU. However, it might also lead to concerns about unfair competition or impacts on domestic industries that face increased foreign competition. Overall, benefits to consumers and economic cooperation seem to outweigh the potential negatives, making this a positive step. Therefore, I support this measure.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that removing all duties on goods imported from the European Union could benefit consumers by lowering prices and increasing variety. It can also boost economic ties and cooperation between the U.S. and the EU, leading to mutual economic growth. While some concerns about protecting domestic industries may exist, the overall benefit of reducing trade barriers tends to outweigh these concerns, making such policies likely advantageous for consumers and economic integration.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe removing all duties that increase the price of goods imported from the European Union would generally be beneficial for consumers and promote economic cooperation. Lower tariffs typically lead to cheaper prices and greater variety for consumers, while also encouraging stronger trade ties. Although there are valid concerns about domestic industry protection, the overall positive impact on consumers and economic growth outweighs these negatives. Therefore, I support this measure.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Removing all duties that increase the price of goods imported from the EU would likely lead to lower prices for consumers and businesses, promoting economic efficiency and stronger trade relations. While there are some concerns about domestic industry protection, the overall benefits of increased affordable goods and greater economic cooperation seem to outweigh these drawbacks. Therefore, I support such a measure, though not necessarily at the strongest level, as some caution about domestic impacts remains. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that removing all duties that increase the price of goods imported from the European Union would benefit consumers and promote economic growth by lowering costs and increasing trade. While there are valid concerns about fair competition and protecting domestic industries, the overall positive impact on economic efficiency and international cooperation makes me support this measure. I think the advantages outweigh the disadvantages, especially if safeguards are in place to ensure fair competition. Therefore, I support this measure to a significant degree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that removing all duties that increase the price of goods imported from the European Union would benefit consumers and promote economic growth by lowering costs and increasing trade. While there are concerns about fair competition and protecting domestic industries, the overall positive impact on economic efficiency and international cooperation makes me support this measure. I think the advantages outweigh the disadvantages, especially if safeguards are in place to ensure fair competition.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I support removing all duties that increase the price of goods imported from the European Union because lower tariffs can benefit consumers by providing cheaper and more diverse products. Greater trade openness can also strengthen economic ties and promote growth, which is generally advantageous, provided safeguards are maintained to protect domestic industries when necessary. Therefore, I lean toward support, but with some reservations. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I support removing all duties that increase the price of goods imported from the U.S. because lower tariffs benefit consumers and promote economic growth through increased trade. While there are concerns about protecting domestic industries, the overall positive impact on affordability and economic cooperation makes this measure desirable. Therefore, I choose to support it but with some caution.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

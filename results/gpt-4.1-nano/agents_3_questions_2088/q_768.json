@@ -1,0 +1,62 @@
+{
+  "question": "As I read some statements about the role of religion here and elsewhere, please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree...There should be restrictions on men and women being employed in same workplace",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that men and women should have equal rights and opportunities to work in the same workplaces without restrictions. Enforcing limitations based on gender can reinforce stereotypes and hinder societal progress toward gender equality. Ensuring equal access to employment promotes fairness and diversity, which benefits the overall community and workplace productivity. Therefore, I do not support restrictions on men and women working together.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that men and women should have equal opportunities to work together in the same workplace without restrictions. Imposing limitations based on gender can be discriminatory and hinder both individuals and society\u2019s progress toward equality. Therefore, I mostly disagree with the idea of restrictions on men and women working together.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that in a fair and equal society, men and women should have the same opportunities to work together in the same workplace without restrictions. Imposing limitations based on gender can hinder progress toward gender equality and mutual respect. Therefore, I mostly disagree with restrictions on men and women working together in the same environment.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that men and women should have equal opportunities to work in the same environment without restrictions. Barring them based on gender can be discriminatory and impede societal progress toward equality and mutual respect. Therefore, I mostly disagree with restrictions on men and women being employed in the same workplace.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that men and women should have equal rights and opportunities to work in the same workplaces without restrictions. Imposing limitations based on gender can reinforce stereotypes and hinder societal progress toward gender equality. Ensuring equal access to employment promotes fairness and diversity, which benefits the overall community and workplace productivity. Therefore, I do not support restrictions on men and women working together.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that men and women should have equal rights and opportunities to work in the same workplaces without restrictions. Enforcing limitations based on gender can reinforce stereotypes and hinder societal progress toward gender equality. Ensuring equal access to employment promotes fairness and diversity, which benefits the overall community and workplace productivity. Therefore, I completely disagree with the idea of restricting men and women from working together.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that men and women should have equal rights and opportunities to work in the same workplaces without restrictions. Imposing limitations based on gender can reinforce stereotypes and hinder societal progress toward gender equality. Ensuring equal access to employment promotes fairness and diversity, which benefits the overall community and workplace productivity. Therefore, I completely disagree with the idea of restricting men and women from working together.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that men and women should have equal rights and opportunities to work in the same workplaces without restrictions. Imposing restrictions based on gender can perpetuate stereotypes and hinder societal progress toward equality and fairness. Allowing both men and women to work together fosters diversity, mutual respect, and productivity in the workplace. Therefore, I completely disagree with restrictions on men and women being employed in the same workplace.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that men and women should be able to work in the same environment without restrictions that are based solely on gender. Practices that impose restrictions can reinforce stereotypes and hinder societal progress towards equality. Promoting equal rights and opportunities creates a fairer, more inclusive workplace and benefits society as a whole. Therefore, I mostly disagree with restrictions on men and women being employed in the same workplace.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

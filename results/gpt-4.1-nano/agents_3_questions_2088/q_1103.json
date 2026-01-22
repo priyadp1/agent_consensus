@@ -1,0 +1,63 @@
+{
+  "question": "For each of the following issues, how likely are you personally to take political action on it, such as contact an elected official or participate in a demonstration? g. freedom of speech",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not too likely",
+    "Not at all likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that freedom of speech is a fundamental right that I personally value highly. If I saw it being threatened or challenged in a significant way, I would be inclined to take political action to support or defend it, such as contacting elected officials or participating in demonstrations. Therefore, I am quite likely to act on issues related to freedom of speech.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that freedom of speech is a fundamental right that I value highly. If I observed restrictions or threats to this freedom, I would feel compelled to take action such as contacting officials or participating in demonstrations to defend it. However, my personal likelihood might depend on the specific circumstances, but overall I feel somewhat inclined to act to support free speech.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel that freedom of speech is a fundamental right, but I am not always motivated to take direct political action such as contacting officials or protesting over this issue unless there are specific circumstances that strongly affect me or the broader society. Therefore, I would say I am somewhat likely to take action on it. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I value freedom of speech highly and believe it should be protected. However, I am not always motivated to take political action over this issue unless certain circumstances make it particularly urgent or relevant to me personally or nationally. Therefore, I think I am somewhat likely to take action on this issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that freedom of speech is a fundamental right that I deeply value. While I may not always take immediate action, I feel strongly enough about defending it that I would be inclined to contact officials or participate in demonstrations if I saw it being threatened or challenged significantly. Therefore, I would say I am quite likely to take political action on this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that freedom of speech is a fundamental right that I highly value. While I would be willing to take political action if I saw significant threats or restrictions to this right, my personal likelihood might depend on the specific situation. Overall, I feel somewhat inclined to act in defense of free speech.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I value freedom of speech deeply and consider it a fundamental right that is essential for a functioning democracy. While I may not always take immediate action, I believe I would be inclined to contact officials or participate in demonstrations if I saw significant threats, restrictions, or challenges to this right. However, my likelihood of action might vary depending on the situation and how directly it affects me. Overall, I am somewhat likely to take political action on this issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I consider freedom of speech to be a core principle that I strongly support and believe is essential for a healthy democracy. While I am generally inclined to support it, my motivation to take political action may depend on how threatened or restricted it feels in any given situation. Given this, I feel somewhat likely to take action when I perceive significant threats, but not necessarily in all circumstances. Therefore, I choose to indicate a moderate level of likelihood.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that freedom of speech is a fundamental and highly valued right. While I do not always take immediate action, I feel motivated to engage politically if I see this right being threatened or challenged. Given the importance I assign to it and my potential inclination to respond in urgent situations, I consider myself somewhat likely to take political action on this issue.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

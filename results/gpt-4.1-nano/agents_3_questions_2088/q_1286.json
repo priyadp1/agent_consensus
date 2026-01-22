@@ -1,0 +1,62 @@
+{
+  "question": "For each of the following problems, please tell me if you think it will get better, get worse or stay the same in the next five years....Corruption",
+  "options": [
+    "Better",
+    "DK/Refused",
+    "Worse",
+    "Stay the same"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe corruption may get worse in the next five years because in many regions, political and economic systems have challenges that make addressing corruption difficult. While efforts are underway for transparency and accountability, entrenched interests and systemic issues could hinder significant improvements. Without substantial reforms or global cooperation, corruption risks persisting or increasing. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe corruption may persist or even worsen over the next five years because in many places, corruption is deeply embedded in political and economic systems. Without significant reforms and increased transparency, these issues are likely to continue or deteriorate. However, there is also hope that increased public awareness and international pressure could lead to improvements, but the current trends do not strongly suggest this will happen imminently.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe corruption is likely to get worse in the next five years because many countries face ongoing issues with transparency and governance, and efforts to combat corruption often lag behind the scale of the problem. Additionally, political and economic instability in some regions can exacerbate corruption rather than diminish it, making it unlikely to see significant improvement without substantial reforms. Therefore, I expect corruption to worsen rather than improve or stay the same.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe corruption will get worse in the next five years because many regions continue to face challenges with transparency and effective governance. Without significant reforms or increased accountability measures, the entrenched nature of corruption makes improvement unlikely, especially amid ongoing political and economic instability. Therefore, I expect corruption to worsen rather than improve or stay the same.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe corruption will get worse in the next five years because many regions are still facing deep-rooted issues with transparency and governance. Although efforts are being made to address corruption, systemic obstacles, entrenched interests, and political instability in some areas suggest that progress may be slow or insufficient. Without significant reforms and international collaboration, it seems likely that corruption could persist or increase rather than improve or stay the same.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe corruption is likely to get worse in the next five years because many political and economic systems continue to face challenges that enable corruption to persist. Despite efforts for transparency and reforms, entrenched interests and systemic issues may prevent significant progress, and without substantial changes, corruption could remain or increase.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe corruption will get worse in the next five years because many regions still struggle with transparency, effective governance, and systemic issues that enable corruption to persist. Despite some efforts to combat it, entrenched interests and political challenges suggest that without significant reforms, corruption may remain or increase. Therefore, I think the situation is likely to deteriorate rather than improve or stay the same.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe corruption will get worse in the next five years due to persistent challenges in transparency and governance, and because systemic issues and entrenched interests are difficult to reform quickly. Without substantial efforts to improve accountability, it is likely to continue increasing.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe corruption will get worse in the next five years because ongoing issues with transparency, entrenched interests, and political instability suggest that significant reforms are unlikely in the near future. Without concerted international efforts and stronger governance measures, corruption may continue to deepen rather than improve or remain static.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

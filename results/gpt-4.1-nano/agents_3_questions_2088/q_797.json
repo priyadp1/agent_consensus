@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very important, somewhat important, not too important, or not at all important reason why people in your country move to other countries. a. To find better job opportunities",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people move to other countries in search of better job opportunities, which can be a very important reason for migration. Economic prospects often drive decisions to relocate, especially when local job markets are limited or unstable. Therefore, I believe this reason is very important.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people move to other countries in search of better job opportunities because they want to improve their living standards, find work that matches their skills, or escape economic hardship at home. This motivation is often a primary reason for migration, especially for those facing limited employment options or low wages locally. Therefore, I believe this reason is very important in understanding why people relocate internationally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people move to other countries in search of better job opportunities, especially when their home country has limited prospects or economic instability. This reason is often considered very important because employment is a primary motivation for migration and can significantly impact an individual's quality of life and future prospects. Therefore, I would categorize it as very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the pursuit of better job opportunities is a very important reason for people moving to other countries because employment prospects directly influence individuals' decisions to migrate. Economic stability and career advancement are crucial factors that can determine whether someone seeks to improve their living conditions elsewhere. Therefore, I consider this a very significant reason for international migration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that moving to find better job opportunities is a very important reason because economic factors and employment prospects are often the main drivers behind migration decisions for many individuals. People frequently relocate in pursuit of improved financial stability and career growth, which significantly impacts their quality of life. Therefore,\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the desire to find better job opportunities is a very important reason for people moving to other countries. Economic stability and improved employment prospects often serve as the main motivations for migration, as individuals seek better livelihoods and opportunities they cannot find locally. Given the evidence that such motivations are primary drivers, I select:\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that moving to find better job opportunities is a very important reason because economic factors and employment prospects are often the main drivers behind migration decisions for many individuals. People frequently relocate in pursuit of improved financial stability and career growth, which significantly impacts their quality of life. Therefore,\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the pursuit of better job opportunities is a very important reason for people moving to other countries because employment prospects directly influence individuals' decisions to migrate. Economic stability and career advancement are crucial factors that can determine whether someone seeks to improve their living conditions elsewhere. Therefore, I consider this a very significant reason for international migration.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the desire for better job opportunities is a very important reason for people moving to other countries because employment prospects often significantly influence migration decisions. Many individuals seek improved financial stability and career growth when considering relocating, making this a primary motivation for international movement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "I am going to read you a list of things that the government might do to improve public health and health care in our country.  As I read each one, please tell me how much of a priority you think it should be for the (state or government)--one of the most important priorities, a very important priority, a lower priority, or not a priority at all?...Making sure everyone has access to good quality drinking water",
+  "options": [
+    "One of the most important priorities",
+    "A very important priority",
+    "A lower priority",
+    "Not a priority at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Access to clean and safe drinking water is a fundamental component of public health. Without it, individuals are at risk of waterborne diseases and other health problems, which can have widespread societal impacts. Ensuring everyone has access to good quality drinking water should be a top priority for the government to promote overall health and prevent health crises related to unsafe water sources. Therefore, I believe this should be one of the most important priorities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to safe and clean drinking water is fundamental for public health. Without it, a wide range of health issues can arise, including waterborne diseases, dehydration, and overall impairment of well-being. Ensuring that everyone has access to good quality drinking water addresses basic human needs and can significantly reduce health disparities. Given these considerations, I believe making sure everyone has access to good quality drinking water should be one of the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Access to good quality drinking water is fundamental to public health, preventing waterborne diseases and promoting overall well-being. Ensuring safe drinking water directly impacts the health of all community members, especially vulnerable populations such as children, the elderly, and those with compromised immune systems. Given its importance for daily life and health outcomes, I believe making sure everyone has access to good quality drinking water should be a top priority for the government.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Access to safe and clean drinking water is a fundamental aspect of public health that impacts a wide range of health outcomes and reduces disparities among populations. Ensuring such access addresses basic human needs and prevents numerous health issues like waterborne diseases, making it essential for overall well-being. Given its critical importance for all community members, I believe this should be one of the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Ensuring access to good quality drinking water is a foundational aspect of public health. It prevents a wide range of waterborne diseases and supports overall well-being, especially for vulnerable populations. Given its critical importance for health, safety, and everyday life, I believe this should be one of the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Access to clean and safe drinking water is essential for preventing a variety of health problems and ensuring the well-being of the population. It is a basic human need and foundational to public health. Prioritizing access to quality drinking water can help reduce health disparities and prevent disease outbreaks. Given the importance of this issue for overall health and safety, I believe it should be considered one of the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Ensuring access to good quality drinking water is fundamental to public health as it directly impacts disease prevention, sanitation, and overall community well-being. Since access to clean water is a basic human right and essential for preventing numerous health problems, I believe it should be regarded as one of the most important priorities for the government to address.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to safe and clean drinking water is a fundamental public health issue because it directly affects everyone's health, prevents waterborne diseases, and reduces health disparities. Ensuring equitable access to good quality drinking water is essential for protecting community well-being and preventing outbreaks. Given its vital role in public health, I believe it should be among the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Ensuring access to good quality drinking water is a fundamental component of public health that affects everyone, especially vulnerable groups. It prevents numerous health issues and promotes overall well-being, which makes it an essential priority for the government to address. Given its importance for safe living conditions and health outcomes, I believe it should be one of the most important priorities.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

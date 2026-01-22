@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...Pakistan?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I recognize its rich history and cultural significance, but I also acknowledge ongoing challenges within the country. My view is generally positive but with some reservations. Therefore, I would choose a middle ground between very favorable and somewhat unfavorable, leaning towards somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I recognize that the country has a complex history and offers cultural richness, but I also acknowledge that there are challenges related to politics and development. My perception is somewhat positive but not strongly so, reflecting a cautious optimism rather than enthusiasm.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I recognize the country's rich cultural diversity and resilient people, but I also have some reservations due to ongoing political and economic challenges. My view is positive overall but tempered by concerns in certain areas.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I appreciate its rich cultural heritage and the resilience of its people, but I also recognize ongoing political and economic challenges that temper my overall view. My perception is cautiously optimistic rather than strongly positive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I appreciate its rich history, cultural diversity, and resilient population. However, I am aware of the ongoing political and economic challenges that the country faces, which temper my overall positive view. Therefore, I would choose a middle ground but leaning towards more positive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I recognize its rich cultural history and the significance it holds regionally, but I am also aware of the country's ongoing challenges related to political stability and development. My view is cautiously optimistic, acknowledging both positive aspects and areas of concern.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan due to its rich cultural history, diversity, and resilience. While I acknowledge the political and economic challenges the country faces, I see its positive aspects as outweighing the negatives, leading to a cautiously optimistic view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I appreciate its rich cultural heritage and the resilience of its people, but I also recognize ongoing political and economic challenges that temper my overall view. My perception is cautiously optimistic rather than strongly positive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Pakistan. I appreciate its cultural richness and resilient people, but I am also aware of ongoing political and economic issues that temper my overall view. My perception is cautiously optimistic rather than strongly positive.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

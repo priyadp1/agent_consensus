@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...(name of dominant country in region)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the dominant country in the region. I believe it plays a significant role in regional stability and economic development, but I am also aware of various political and social issues that sometimes create tensions. Overall, I view its influence positively but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the dominant country in the region. I believe that while there are positive aspects such as economic influence and cultural exchange, there are also concerns about political motivations and regional stability. This balanced view leads me to feel somewhat favorable overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose option B because I have a generally positive view of the dominant country in the region, appreciating its efforts in economic development and regional stability. However, I remain cautious about certain policies or actions that may cause concern, which prevents me from having a very favorable opinion. My perspective is balanced and recognizes both achievements and areas for improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the dominant country in the region. While I recognize its economic influence and efforts to promote stability, I am also cautious about its political motives and potential regional impacts. This mixture of positive attributes and concerns leads me to feel somewhat favorable overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the dominant country in the region. I recognize its contributions to economic growth and regional stability, but I am also aware of ongoing issues and challenges that prevent me from viewing it very favorably. My perspective is cautious and balanced, acknowledging positive aspects while remaining aware of concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion because I recognize the country's significant influence in the region and the positive contributions it makes to economic development and stability. However, I am also aware of certain political and social issues that sometimes create tensions, which tempers my overall view. Therefore, I lean towards a cautious appreciation rather than full enthusiasm.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the dominant country in the region because I recognize its economic influence and contributions to stability. However, I am also aware of certain political and social issues that create tensions and prevent me from feeling very favorable about it. My view is cautious and balanced, acknowledging positive aspects while remaining aware of concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my opinion is best described as somewhat favorable because I recognize the country\u2019s significant influence and contributions to regional stability and economic development. However, I remain cautious due to concerns about political motives and potential tensions that can arise from its actions. This balanced view aligns with a somewhat favorable perspective but does not extend to strong enthusiasm or negativity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the dominant country in the region. I appreciate its role in promoting economic growth and regional stability, but I remain cautious due to concerns about its political motives and regional impacts. This nuanced view leads me to choose a somewhat favorable stance.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

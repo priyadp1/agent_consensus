@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Pollution",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Pollution is a significant concern for many communities because it directly affects air quality, water safety, and overall health. It can lead to serious long-term health problems, environmental damage, and economic costs. Given these impacts, I consider pollution to be a very big problem that requires urgent attention and action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Pollution is a pressing issue because it directly affects health, the environment, and quality of life. Many cities and regions struggle with air and water pollution, which can lead to serious health problems and ecological damage. Given its widespread impact and the ongoing challenges in managing it effectively, I consider pollution a very big problem. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Pollution is a significant issue because it directly impacts air and water quality, health, and the environment. It can cause respiratory problems, contaminate natural resources, and harm wildlife, making it a serious concern for the well-being of the population and future generations. While some may see it as moderate or manageable, the widespread effects and long-term consequences elevate its importance. Therefore, I consider pollution a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe pollution is a very big problem because it affects many aspects of daily life, including health, environment, and safety. Its widespread presence and long-term consequences make it a critical issue that needs urgent attention and action to protect future generations and improve overall quality of life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Pollution is a critical issue because it affects health, the environment, and the economy. Its long-term impacts can be severe and widespread, threatening both current and future generations. Given the evidence of its serious effects, I believe pollution is a very big problem that needs urgent action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Pollution poses severe threats to public health, ecosystems, and the economy. Its pervasive presence in air, water, and soil results in long-term health issues and environmental degradation. Given the widespread and serious impacts associated with pollution, I believe it is a very big problem that warrants urgent and sustained action.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe pollution is a very big problem because it deeply affects public health, damages ecosystems, and causes significant economic costs. The widespread presence of pollutants in air, water, and soil leads to long-term health issues and environmental harm, which can have serious consequences for society as a whole. Given these impacts, it is clear that pollution requires urgent and comprehensive action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I consider pollution to be a very big problem because it has extensive and long-lasting effects on public health, the environment, and the economy. Its widespread presence in air, water, and soil can lead to serious health issues and environmental degradation, which require urgent attention. Given its severity and the broad impact it causes, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Pollution is a significant issue because it directly impacts public health, harms ecosystems, and can lead to long-term environmental degradation. Its pervasive nature influences many aspects of daily life and future sustainability, making it a critical problem that requires urgent attention from policymakers and citizens alike. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

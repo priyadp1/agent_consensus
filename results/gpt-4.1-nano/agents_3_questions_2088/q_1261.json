@@ -1,0 +1,61 @@
+{
+  "question": "Do you think the European Union is inefficient?",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The perception of the European Union's efficiency varies among individuals based on factors such as governance, economic policies, and effectiveness in addressing member states' needs. Some may see its decision-making process as slow and bureaucratic, leading to perceptions of inefficiency. Others might believe that its structure allows for broad cooperation, which is inherently complex but necessary for large-scale governance. Given these perspectives, I lean towards viewing the EU as having inefficiencies, though it may also be effective in certain areas. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union faces criticism for perceived bureaucratic delays and complexities that can hinder swift decision-making. While it has achieved significant achievements in peace, development, and cooperation, some processes remain slow and inefficient, especially when balancing diverse member interests. Therefore, I lean towards thinking it is inefficient.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the European Union has faced challenges related to bureaucratic processes and decision-making efficiency, which can sometimes hinder swift action or effective implementation of policies. While it strives to serve its member states collectively, these institutional complexities may lead some to perceive it as inefficient. However, it also achieves significant cooperation and progress on many issues, making opinions on its efficiency nuanced. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the European Union exhibits some inefficiencies primarily due to bureaucratic delays and complex decision-making processes that can slow down action and implementation. While it has achieved significant progress in various areas, these institutional hurdles often limit its efficiency, especially when managing diverse member interests. Therefore, I lean towards thinking it is inefficient.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union exhibits some inefficiencies due to bureaucratic processes and complex decision-making, which can sometimes slow down actions and policy implementation. While it achieves cooperation and progress, these institutional challenges contribute to perceptions of ineffectiveness. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union's decision-making process can be perceived as inefficient due to its bureaucratic nature and the need to accommodate diverse member interests, which often results in delays and complex negotiations. While it has achieved important goals in peace and cooperation, these challenges suggest that inefficiency exists within its structure. Hence, I lean towards viewing the EU as inefficient.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union does face some inefficiencies, particularly due to its bureaucratic processes and the need to balance the interests of multiple member states, which can cause delays and complex negotiations. While it has been successful in many areas, these institutional challenges suggest that inefficiency is a notable issue. Therefore, I lean towards viewing the EU as inefficient.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the European Union is somewhat inefficient primarily because of its bureaucratic decision-making processes and the need to reconcile diverse member interests, which can lead to delays and complex negotiations. While it has achieved notable successes, these institutional challenges often hinder swift and effective action. Therefore, I lean towards thinking it is inefficient.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union faces significant inefficiencies primarily due to bureaucratic delays and complex decision-making processes that often hinder swift action and implementation. While it has achieved important progress, these institutional hurdles can limit its effectiveness, especially when balancing the diverse interests of member states. Therefore, I lean towards thinking it is inefficient.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

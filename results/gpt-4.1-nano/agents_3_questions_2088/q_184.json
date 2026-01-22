@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, for each, please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of The Congress very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of The Congress is somewhat bad because, in my country, there is often a perception that political institutions, including Congress, are ineffective or influenced by interests that do not prioritize the general population's needs. This has led to a sense of frustration among citizens, and many feel that Congress could do more to address pressing issues. Although there are efforts at reform, progress seems limited, and its impact is generally viewed as not beneficial enough for the country's development.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The influence of The Congress in my country is somewhat bad because, while it is intended to represent the people's interests, it often gets entangled in political disputes, corruption, and inefficiency. This leads to delayed decision-making and policies that do not always serve the public effectively, causing frustration and setbacks for national progress.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The influence of The Congress can vary widely depending on the country's political climate and recent actions. If The Congress has been actively working towards positive reforms, supporting development, and listening to public needs, its influence might be seen as beneficial. Conversely, if it has been involved in corruption, inefficiency, or conflicts that hinder progress, the perception would be negative. Considering the common issues faced, I believe that The Congress's influence in my country is more harmful than helpful, leading to stagnation or setbacks. Therefore, I think its overall impact is somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "In my view, the influence of The Congress in my country tends to be somewhat bad. While there are occasions when it tries to serve the public interests, frequent issues like political gridlock, corruption, and lack of efficiency often hinder effective decision-making. This impedes progress and causes frustration among citizens, leading to stagnation rather than positive growth. Overall, its impact tends to do more harm than good, making it more harmful than helpful in shaping the country\u2019s future.  \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the perspectives shared, it seems that the influence of The Congress is generally perceived as problematic, with concerns about inefficiency, corruption, and a lack of beneficial impact on the country's progress. This aligns with a somewhat negative assessment of its influence. Therefore, I believe my answer is:\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of The Congress in my country is somewhat bad because it often appears ineffective, bogged down by political disputes and corruption. This leads to delays in passing necessary legislation and not always addressing the needs of the people, which hampers progress and erodes public trust.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the perspectives shared and my own observations, I believe that the influence of The Congress on my country tends to be negative. Many people perceive it as inefficient, plagued by corruption, and limited in its ability to effectively serve the public's needs, which hampers progress and undermines trust. While there may be some positive efforts, overall, the impact seems more harmful than beneficial. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of The Congress in my country is somewhat bad because it often appears ineffective, bogged down by political disputes and corruption. This leads to delays in passing necessary legislation and not always addressing the needs of the people, which hampers progress and erodes public trust. Therefore, I choose C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the sentiments expressed by the previous respondents, there is a clear perception that The Congress's influence is more harmful than beneficial. The concerns about corruption, inefficiency, and political gridlock suggest that its impact tends to be negative, but not necessarily entirely destructive or catastrophic. The descriptors used point towards a somewhat negative assessment rather than the worst. Therefore, I also believe that the influence of The Congress in my country is best characterized as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the job the government has done in dealing with the swine flu?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the government has done a reasonably good job in dealing with the swine flu, implementing vaccination programs and spreading awareness to control the spread. However, there might have been some delays or miscommunications that affected the overall response. Given this, I lean towards approval but recognize room for improvement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the government has handled the swine flu situation reasonably well, implementing necessary health measures and providing public information. While there may have been some shortcomings, overall efforts seem adequate in managing the crisis and communicating risks to the public. Therefore, I approve of their efforts. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the government has handled the swine flu situation with adequate measures, focusing on public health guidelines, vaccination efforts, and communication. While there may be room for improvement, overall, the response appears proactive and responsible, which warrants approval.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the perspectives shared, both respondents acknowledge that the government took reasonably effective and proactive measures in handling the swine flu, including implementing health measures, public communication, and vaccination efforts. They suggest that, while not perfect, the overall response was responsible and adequate. Given this consensus, I also believe that the government's approach was acceptable and deserving of approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the government has taken adequate and proactive measures to address the swine flu situation, including vaccination programs and public awareness campaigns. While there may have been some minor shortcomings, overall, their efforts seem responsible and effective in managing the health crisis. Therefore, I agree with the approach taken and approve of their handling.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the government has generally managed the swine flu situation reasonably well through vaccination efforts and public awareness campaigns. While there were some minor shortcomings, the overall response appears adequate in controlling and communicating about the crisis. Therefore, I approve of their efforts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the government has managed the swine flu situation reasonably well by implementing vaccination programs and increasing public awareness, despite some minor shortcomings. Their overall efforts appear responsible and effective in controlling the health crisis. Therefore, I approve of their handling.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the government\u2019s response to the swine flu was generally effective and proactive. The measures taken, such as vaccination campaigns and public communication efforts, contributed to controlling the situation. While there may have been minor issues, overall, the response was responsible and adequate, deserving approval.\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the positive assessments from the previous respondents, who agree that the government\u2019s response was proactive, responsible, and effective with only minor shortcomings, I also believe that the government's handling of the swine flu situation was adequate and deserving of approval.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

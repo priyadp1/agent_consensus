@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of the military very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The influence of the military in my country has historically been complex. While the military has often contributed to maintaining stability and national security, its involvement in political and civilian affairs has sometimes led to restrictions on democratic processes and human rights. Depending on recent developments, some people perceive the military's role as stabilizing, whereas others see it as a hindrance to progress and civil freedoms. Overall, the perception leans more toward a negative impact rather than a positive one, given concerns about authoritarian tendencies and limited civilian oversight.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "The influence of the military in my country is a complex issue. In some cases, the military has played a stabilizing role during times of crisis, helping to restore order and maintain national security. However, in many instances, their involvement has also led to increased repression, suppression of political freedoms, and undermining democratic institutions. Overall, the military's influence tends to cause more concern than reassurance, often contributing to instability rather than peace. Based on these considerations, I believe their impact is more damaging than beneficial.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the military in my country is somewhat bad. While the military can contribute to stability and security, in my context, their involvement has often led to political instability, suppression of dissent, and restrictions on civil liberties. This has hindered democratic development and affected the overall progress of the country negatively. Therefore, I see their influence as more harmful than helpful in shaping positive developments.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the military in my country is somewhat bad. Although there are occasions where the military provides necessary stability, their frequent involvement in political affairs, suppression of dissent, and actions that undermine democratic processes tend to cause more harm than good. This has often led to increased tensions and setbacks for democratic development, making their overall impact more negative than positive.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the previous responses and the context provided, the influence of the military appears to have a predominantly negative impact on the country's development. The concerns about political instability, suppression of dissent, and limitations on civil liberties suggest that their role is more harmful than beneficial. While there might be some stabilizing aspects, the overall perception is more toward a somewhat bad influence.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The influence of the military in my country seems to have a mixed impact. While it occasionally helps with stability and security during crises, there have been numerous instances where military involvement has led to repression and undermined democratic principles. The concerns about authoritarian tendencies and limited civilian oversight suggest that, overall, their influence tends to be more harmful than beneficial. Therefore, I believe their impact is somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on the information provided and considering the overall negative perception of the military's influence, including concerns about repression, undermining democracy, and limited civil liberties, I believe their impact is more harmful than beneficial. While they may provide some stability at times, the negative consequences seem to outweigh any positive effects. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the military in my country is somewhat bad. Although their involvement can sometimes restore order during crises, their frequent interference in politics, suppression of dissent, and weakening of democratic institutions have generally caused more harm than good. This pattern of behavior tends to undermine the progress towards democratic governance and civil liberties, leading to a negative overall impact.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The influence of the military in my country seems to be somewhat bad because, like in the responses provided, there are concerns about their involvement in political affairs, suppression of dissent, and undermining democratic processes. While some stability might be maintained, the negative impacts on democracy and civil liberties outweigh those benefits, leading me to perceive their overall influence as more harmful than helpful.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

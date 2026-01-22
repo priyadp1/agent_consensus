@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of groups and organizations. Tell me how much confidence you have in each group to do the right thing for India - a lot, some, not too much, or no confidence at all...Lok Sabha",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the Lok Sabha, as the directly elected legislative body, plays a crucial role in shaping policies and representing the people's interests. However, its effectiveness and integrity can sometimes be questioned due to political dynamics, corruption issues, or partisan conflicts. While there are dedicated members who genuinely aim to serve the nation, overall confidence may vary depending on current leadership, recent performance, and perceived transparency. Therefore, I would have some confidence in the Lok Sabha's ability to do the right thing for India, but with reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose B because the Lok Sabha, being the lower house of Parliament, comprises elected representatives who are accountable to the people. While they generally work towards national interests, there can be instances of political disagreements, corruption, or inefficiency that affect confidence. Overall, there is some trust in their ability to do the right thing, but it is not absolute due to various challenges and complexities in governance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the Lok Sabha, as the lower house of India's Parliament, plays a central role in shaping national policies and representing the people's interests. My confidence in the Lok Sabha to do the right thing for India is somewhat moderate because, while it has the potential to enact meaningful legislation and promote development, there are instances of political disagreements, corruption, and inefficiency that can undermine its effectiveness. Therefore, I would choose some confidence as a balanced view of its capabilities and limitations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the Lok Sabha, as the elected lower house of India's Parliament, plays a crucial role in shaping policies and representing the people's interests. However, like any democratic institution, it faces challenges such as political disagreements, corruption, and inefficiency, which can affect public confidence. While I recognize the importance of the Lok Sabha and trust in its intentions to do the right thing for India, these issues temper my confidence to some extent. Therefore, I would choose some confidence as it accurately reflects a cautious but somewhat positive outlook on its ability to serve the country's interests effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the Lok Sabha, as the directly elected legislative body responsible for representing the people and shaping policies, holds a significant role in India's governance. While it has the potential to do the right thing for the nation, its effectiveness can often be hindered by political conflicts, corruption, and partisan disagreements. These factors create reservations about its ability to always act in the best interest of India. Therefore, I would choose some confidence as a realistic assessment of its capabilities and limitations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the Lok Sabha, being the directly elected legislative body, plays a crucial role in shaping policies and representing the people's interests. However, its effectiveness and integrity can sometimes be questioned due to political dynamics, corruption issues, or partisan conflicts. While there are dedicated members who genuinely aim to serve the nation, overall confidence may vary depending on current leadership, recent performance, and perceived transparency. Therefore, I would have some confidence in the Lok Sabha's ability to do the right thing for India, but with reservations.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the Lok Sabha, as the elected legislative body responsible for shaping laws and policies, has the potential to do the right thing for India. However, its effectiveness is often compromised by political conflicts, corruption, and partisan disagreements, which can hinder its ability to always act in the best interest of the nation. Given these factors, I would have some confidence in its capacity to serve the country's needs, but with notable reservations about its consistency and integrity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the Lok Sabha is a vital institution in India's democracy, responsible for making laws and representing the people's will. While it has its flaws, such as political polarization and corruption challenges, it still functions as the primary legislative body that can enact meaningful change for the country. My confidence is tempered by these issues but remains supportive of its overall importance and potential to do the right thing for India. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that the Lok Sabha, as the elected lower house of Parliament, plays a vital role in India's governance by representing the people's interests and shaping laws. However, like many democratic institutions, it is often affected by political disagreements, corruption, and inefficiencies that can hinder its effectiveness and erode public trust. While I believe it has the potential to do the right thing for India, these challenges mean my confidence is cautious and moderate. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

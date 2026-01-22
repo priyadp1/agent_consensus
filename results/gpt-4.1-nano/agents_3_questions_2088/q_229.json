@@ -1,0 +1,62 @@
+{
+  "question": "Now I'd like to ask your views about some additional political leaders and organizations.  Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...the Taliban?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that the Taliban is a dangerous organization that has been responsible for numerous human rights violations, including oppressing women and minorities, and using violence to maintain power. Their actions have caused instability and suffering in the regions they influence, making it difficult for many people to view them in a favorable light. Based on this understanding, I would have an unfavorable opinion of them.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of the Taliban due to their history of human rights abuses, oppressive policies, and acts of violence. Their record on women\u2019s rights and freedom of expression has been especially troubling, and these issues raise serious concerns about their governance and impact on society. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I choose option D because the Taliban has been associated with actions and policies that have caused significant concern globally, including suppression of human rights, especially regarding women and minorities, and the use of violence to maintain control. These behaviors contribute to a very unfavorable perception of the organization. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe the Taliban's record of human rights abuses, oppressive policies, and violence has led me to have a very unfavorable opinion of them. Their actions, especially concerning women\u2019s rights and minorities, demonstrate a pattern of harm that I find deeply concerning and unacceptable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable view of the Taliban due to their history of human rights abuses, oppression of women and minorities, and use of violence to maintain their rule. These actions have caused widespread suffering and instability, which strongly influences my perception of them as a dangerous and untrustworthy organization.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of the Taliban because they have a long history of human rights violations, including oppressing women and minorities, using violence to maintain control, and causing instability in the regions they influence. Their record raises serious concerns about their governance and their impact on society overall.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe the Taliban's actions and record of human rights abuses, suppression of women and minorities, and ongoing violence and instability strongly undermine any chances of a positive perception. Their history of oppressive policies and violent tactics have caused significant suffering and concern about their governance. Therefore, I hold a very unfavorable view of the Taliban.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that the Taliban's persistent record of human rights abuses, suppression of women and minorities, and the use of violence to maintain power indicate a very unfavorable view. Their actions have caused widespread suffering and instability, which reinforces my negative perception of them.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable view of the Taliban due to their history of severe human rights abuses, oppressive policies especially against women and minorities, and their use of violence to maintain control. These actions contribute to widespread suffering and instability, making me distrustful and negative in my perception of them.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Do you think the European Union promotes peace?",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The European Union has historically played a significant role in promoting peace among its member states through economic integration, diplomatic cooperation, and shared political institutions. Its efforts have helped prevent conflicts within its borders and foster stability in Europe, which was once plagued by wars. While there are ongoing challenges, the overall impact of the EU in advancing peace is generally viewed positively. Therefore, I believe the EU indeed promotes peace.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes peace by fostering economic cooperation, political stability, and diplomatic dialogue among member states. Historically, the EU has contributed to reducing conflicts in Europe and creating a framework for peaceful dispute resolution. While there are ongoing challenges, the overall goal and actions of the EU suggest a strong commitment to maintaining peace in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes peace because its foundation was built on the idea of fostering economic and political cooperation among member states to prevent conflicts. By creating common institutions and encouraging dialogue, the EU has historically contributed to stability and peace within the region. Although challenges remain, the overall goal and actions of the EU point towards a commitment to maintaining peace among its members and neighboring countries.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union actively promotes peace by fostering economic cooperation, political stability, and diplomatic dialogue among member states. Its foundational goals and historical actions suggest a strong commitment to reducing conflicts and maintaining stability in Europe, despite ongoing challenges. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes peace because its core objectives include fostering economic stability, political cooperation, and diplomatic dialogue among its member states. Its history of preventing conflicts within Europe and encouraging collaboration indicates a strong commitment to peacebuilding. Although challenges exist, the EU's overall role in maintaining stability and preventing wars suggests it actively promotes peace in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes peace because its history of fostering economic cooperation, political stability, and diplomatic dialogue among member states has contributed to reducing conflicts and maintaining stability in Europe. Its institutions and policies aim to prevent wars and promote peaceful dispute resolution, which has generally been effective in creating a more peaceful and integrated continent. While challenges remain, the overall impact of the EU in promoting peace appears significant and positive.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes peace because it has played a significant role in fostering economic cooperation, political stability, and diplomatic dialogue among its member states. Its history of preventing conflicts and encouraging collaboration demonstrates a strong commitment to maintaining peace in Europe. Despite some ongoing challenges, the EU's overall impact in reducing conflict and promoting stability has been largely positive. Therefore, I think the EU actively supports peacebuilding efforts in the region.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes peace because its core principles of economic cooperation, political stability, and diplomatic dialogue among member states have played a significant role in reducing conflicts within Europe. Its institutions and policies are aimed at fostering collaboration and resolving disputes peacefully, which has contributed to a historically peaceful and stable continent. Although challenges remain, the overall effect appears positive in promoting peace.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union promotes peace because it was established with the primary goal of fostering economic and political stability among its member states. Its history of helping European countries avoid conflicts through cooperation, dialogue, and unified policies supports the idea that it plays a significant role in promoting peace in the region. Despite some ongoing challenges, the Union\u2019s foundational principles and actions have contributed to long-term stability and conflict prevention in Europe.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

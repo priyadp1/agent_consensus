@@ -1,0 +1,61 @@
+{
+  "question": "Do you support or oppose using the Mexican army to fight drug traffickers?",
+  "options": [
+    "Support",
+    "Oppose",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support using the Mexican army to fight drug traffickers because addressing drug-related violence and organized crime often requires strong, coordinated efforts that military forces are equipped to provide. A national security approach can help restore safety and order, which is essential for the well-being of citizens and the stability of the country. However, this must be accompanied by proper oversight and measures to prevent human rights abuses. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe using the Mexican army to fight drug traffickers can be an effective measure given the severity of drug-related violence and crime, but it also raises concerns about human rights violations and civilian safety. Therefore, I support this approach with the emphasis on strict oversight and clear objectives to ensure it is implemented responsibly and effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that using the Mexican army to fight drug traffickers can be a necessary measure to combat organized crime and improve public safety. Given the severity of drug-related violence and the challenges faced by civilian law enforcement, deploying the military could enhance security efforts and dissuade traffickers. However, it's important that this approach is accompanied by strict oversight to respect human rights and avoid escalating violence. Overall, I support this strategy as part of a comprehensive plan to tackle drug trafficking issues.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support the use of the Mexican army to fight drug traffickers because, despite potential risks, it can be an effective measure to combat organized crime and enhance public safety, especially when accompanied by strict oversight to protect human rights. I believe that a combined effort involving military enforcement is necessary given the severity of drug-related violence and the limitations faced by civilian law enforcement. Ensuring proper oversight and clear objectives can help mitigate potential abuses and help achieve the goal of reducing drug trafficking. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support using the Mexican army to fight drug traffickers because addressing drug-related violence and organized crime requires strong, coordinated efforts that military forces are equipped to provide. A national security approach can help restore safety and order, which is essential for the well-being of citizens and the stability of the country. However, proper oversight and measures to prevent human rights abuses are necessary to ensure ethical implementation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support using the Mexican army to fight drug traffickers because a strong, coordinated effort is necessary to combat organized crime and restore safety. While there are valid concerns about human rights, with proper oversight and accountability, the military can play a crucial role in dealing with this serious issue, helping to improve security and stability in the country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support using the Mexican army to fight drug traffickers because organized crime poses a significant threat to national security and public safety. Deploying the military can provide the necessary strength and coordination to combat drug cartels effectively. However, it is essential to ensure proper oversight to prevent human rights abuses and maintain ethical conduct during operations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support using the Mexican army to fight drug traffickers because a strong, coordinated effort is necessary to combat organized crime and restore safety. While concerns about human rights are valid, with proper oversight and accountability, the military's involvement can be crucial in addressing this serious threat and improving security. Effective measures and oversight can help balance security needs with human rights protections.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support the use of the Mexican army to fight drug traffickers because it can be an effective measure to combat organized crime and improve public safety when accompanied by strict oversight to prevent human rights abuses. Military involvement may be necessary given the severity of the problem and limitations of civilian law enforcement. Proper oversight and clear objectives are essential to ensure ethical implementation and to mitigate potential abuses.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

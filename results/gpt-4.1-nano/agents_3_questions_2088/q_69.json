@@ -1,0 +1,63 @@
+{
+  "question": "For each of the following issues, how likely are you personally to take political action on it, such as contact an elected official or participate in a demonstration? c. poor health care",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not too likely",
+    "Not at all likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B because I believe that poor health care is an important issue that could motivate me to take some action, but I may not feel strongly enough to do so frequently or intensely. I recognize its significance, but unless I feel particularly passionate or see urgent need, I might hesitate to engage actively.\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would consider myself somewhat likely to take political action regarding poor health care because I feel it is an important issue that affects many people, including myself or my loved ones. However, I might not go as far as contacting officials or protesting unless the situation significantly worsens or I become more personally affected. Therefore, I choose a moderate level of engagement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that poor health care is an important issue that many people feel strongly about. If I were personally affected or saw the issue affecting my community, I would consider taking some form of political action, such as contacting my representatives or participating in demonstrations to advocate for better health care. However, unless I am directly impacted or highly motivated, I might not be very likely to act, so I would choose a middle option reflecting a moderate likelihood. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that poor health care is a significant issue that impacts many people, including myself and my loved ones. While I may not actively participate in protests or contact officials unless the situation worsens or I feel more personally affected, I do consider it important enough to potentially take some political action if the circumstances motivate me. Therefore, I would choose a moderate likelihood but not the highest level of engagement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that poor health care is a significant issue that can inspire me to take political action if I feel strongly about it or if it personally affects someone I care about. However, in general, my likelihood to act on this issue is moderate because I may not always feel compelled or see immediate urgency unless circumstances prompt me. Therefore, I would choose a middle option reflecting a moderate likelihood.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that poor health care is an issue that can motivate me to take some political action, especially if the situation directly affects me or my loved ones. While I recognize its importance, I may not feel compelled to participate in protests or contact officials unless I perceive a pressing need or significant worsening of circumstances. Therefore, I would rate myself as somewhat likely to act on this issue.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that poor health care is a significant and emotionally compelling issue for many people, especially when it directly or personally affects them or their loved ones. While I personally feel that I might not frequently take political action on this issue unless circumstances become more urgent or pressing, I do feel a certain level of motivation to act when it has a direct impact. Considering the responses and the moderate likelihood expressed, I believe I am somewhat likely to engage in political actions related to poor health care when necessary, but not consistently or at the highest level of commitment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I personally believe that poor health care is an important issue that can motivate me to take political action if it directly affects my well-being or that of my loved ones. While I may not typically engage in protests or contact officials frequently, the severity or personal impact of the issue could influence me to become more active. Therefore, I would rate myself as somewhat likely to act on this issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that poor health care is a pressing issue that can motivate me to take political action, especially if I or someone close to me experience difficulties with health services. While I am not always inclined to act immediately, I recognize its importance and could be compelled to reach out or participate if circumstances move me to do so. Therefore, I would choose a moderate likelihood, indicating I might act if the situation feels urgent or personally relevant.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

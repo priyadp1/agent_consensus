@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of several statements about the role of religion here and elsewhere. For each statement, please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the statement...Our schools should focus more on practical subjects and less on religious education.",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that schools should prioritize practical subjects because they equip students with skills directly applicable to everyday life and future careers. While religious education can be meaningful for some students, it is not as essential for all and might be better served outside the core curriculum or in dedicated religious studies classes. Emphasizing practical subjects ensures that the entire student body gains valuable knowledge and competencies necessary for success. Therefore, I mostly agree that schools should focus more on practical subjects and less on religious education.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that schools should prioritize practical subjects because they equip students with skills directly applicable to everyday life and the job market. While religious education can be valuable for moral development and cultural understanding, I think practical subjects like mathematics, science, and technology are more essential at the core of a modern curriculum. Balancing education is important, but I support emphasizing practical knowledge to prepare students better for the future.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that focusing more on practical subjects in schools is important because it equips students with essential skills that are directly applicable to everyday life and future careers. While religious education can be valuable for moral and cultural understanding, it should not take precedence over practical subjects that prepare students for the challenges they will face outside of school. Therefore, I mostly agree that schools should prioritize practical subjects over religious education.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that schools should prioritize practical subjects because they provide students with skills that are directly applicable to their daily lives and future careers. While religious education has value for moral and cultural reasons, it should not overshadow the importance of practical knowledge necessary for navigating the modern world. Therefore, I mostly agree that practical subjects should receive more focus at the expense of religious education.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that schools should prioritize practical subjects because they provide students with skills that are directly relevant and applicable to their daily lives and future careers. While religious education has its own value for moral and cultural reasons, it should not overshadow essential practical knowledge needed for success outside of school. Ensuring a focus on practical skills benefits the entire student body and better prepares them for real-world challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while practical subjects are essential for equipping students with relevant skills, religious education also plays an important role in moral development and cultural literacy. Completely minimizing religious education might overlook its value in fostering understanding and respect for diverse beliefs. Therefore, I support a balanced approach but recognize the importance of prioritizing practical skills for real-world preparedness. Given the options, I lean towards emphasizing practical subjects but not entirely at the expense of religious education.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while practical skills are crucial for students' future success, religious education also offers important moral and cultural benefits that contribute to well-rounded development. Completely focusing on practical subjects without regard for religious education might neglect these aspects. However, I support giving more emphasis to practical subjects to better prepare students for real-world challenges, as their immediate applicability is very important. Therefore, I lean towards mostly agree, recognizing the need to balance both priorities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that education should primarily prepare students for the practical aspects of life and careers, as these are essential skills for today\u2019s society. While I recognize the cultural and moral value of religious education, I think its role should be supplementary rather than central in the school curriculum. Therefore, I completely agree that schools should focus more on practical subjects and less on religious education.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that education should balance practical skills with moral and cultural development. Religious education can play a significant role in fostering moral values and understanding cultural heritage, which are important for personal and societal growth. While practical subjects are essential for preparing students for careers and daily life, eliminating religious education entirely might overlook its contribution to moral development and cultural literacy. Therefore, I mostly disagree with reducing religious education in favor of practical subjects.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Have you heard about missile strikes from drone aircraft that target leaders of extremist groups, or haven't you heard of this?",
+  "options": [
+    "Have heard",
+    "Have not heard"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard about missile strikes from drone aircraft targeting leaders of extremist groups, as this topic has been widely covered in news reports and international security updates. The use of drones for targeted strikes has been a prominent aspect of counter-terrorism efforts in recent years, making it a topic I am familiar with.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard about missile strikes involving drone aircraft targeting leaders of extremist groups through various news reports and media coverage. These operations have been publicly discussed and reported over the years, making it likely that I am aware of such incidents.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard about missile strikes from drone aircraft targeting leaders of extremist groups through various news reports and media coverage. These operations have been publicly discussed and analyzed by experts and governments in recent years, making the information quite accessible. Therefore, I have heard of this.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have also come across multiple news reports and media coverage about drone missile strikes targeting leaders of extremist groups. Given the widespread reporting and public discussion on this topic, I believe I have heard about such missile strikes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard about missile strikes from drone aircraft targeting leaders of extremist groups. Given the extensive media coverage and discussions on counter-terrorism operations involving drones, this is a widely known topic. I am aware of it through news reports, analysis, and security updates. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard about missile strikes from drone aircraft targeting leaders of extremist groups because this topic has been widely covered in news reports and media discussions, making it a familiar subject for many people. Given the extensive media coverage and public discourse surrounding drone strikes in counter-terrorism efforts, it is reasonable to say I have heard of this.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard about missile strikes from drone aircraft targeting leaders of extremist groups. Given the extensive media coverage and public discussions on counter-terrorism operations involving drones, it is a well-known topic. I am familiar with this through news reports and security updates, which makes me aware of these drone strikes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have encountered numerous news reports and media coverage discussing drone missile strikes aimed at leaders of extremist groups. Given the extensive media attention and public discussion on this subject, I believe I have heard about such missile strikes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard about missile strikes from drone aircraft targeting leaders of extremist groups. The widespread media coverage, government reports, and public discussions I have encountered suggest that this topic is quite well-known and has been widely reported in various news outlets. Therefore, I am aware of such missile strikes.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

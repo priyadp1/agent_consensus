@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...Cuba?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba. I appreciate its rich culture, history, and the resilience of its people, but I also recognize ongoing political and economic challenges. Therefore, my opinion is moderate rather than very favorable or unfavorable. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba, recognizing its contributions to culture and history but also aware of the political and economic challenges it faces. My views are mixed, leaning slightly positive but not strongly so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba. I recognize its cultural and historical significance and acknowledge positive aspects such as its contributions to music, art, and history. However, I also have concerns about political issues and economic conditions, which influence my overall view. Given this, I believe my opinion aligns more closely with \"somewhat favorable,\" but I do not feel strongly enough to choose \"very favorable.\"\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba because I appreciate its rich cultural contributions and historical significance, but I am also aware of the ongoing political and economic issues that temper my overall view. While I recognize positive aspects, I do not feel strongly enough to choose very favorable, and I am not dissatisfied enough to choose unfavorable options. Therefore, my opinion aligns with somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba. While I appreciate its rich culture, history, and the resilience of its people, I am also aware of ongoing political and economic challenges that influence my view. I do not feel strongly enough to consider my opinion very favorable, nor do I see it as unfavorable enough to choose the opposite end of the spectrum. Therefore, my view is moderate, aligning most closely with \"somewhat favorable.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba. I appreciate its rich culture, history, and the resilience of its people, but I also recognize ongoing political and economic challenges. My views are mixed, leaning slightly positive but not strongly so.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba. While I appreciate its rich culture, history, and resilience, I am also aware of the ongoing political and economic challenges. My view is cautiously positive but not strongly so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Cuba because I value its rich cultural history and the resilience of its people. However, I am also aware of the political and economic issues that impact the country, which prevents me from feeling very favorable. My views are moderately positive but cautious.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I acknowledge Cuba's rich cultural heritage and historical significance, which I appreciate. However, I am also aware of and concerned about the ongoing political and economic issues that impact the country. These mixed perceptions lead me to hold a somewhat favorable opinion, but not strongly enough to select very favorable. Therefore, I choose the middle ground reflecting some positive regard but acknowledging challenges.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

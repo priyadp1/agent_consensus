@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____? e. Saudi King Salman",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "E",
+        "raw_output": "I do not have personal opinions or feelings, but I can provide general information. Saudi King Salman has been a prominent figure in Middle Eastern politics, overseeing significant changes and maintaining stability within Saudi Arabia. However, opinions about him vary widely depending on perspectives on regional policies, human rights, and geopolitical influence. Given this, I would select a neutral position to reflect the diverse views people may hold.  \nANSWER: E",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but based on general international assessments, opinions about King Salman vary globally. Many consider his leadership important for regional stability and economic reforms, which might lead some to view him favorably, while others may be more critical due to political issues or human rights concerns. Without a specific context or current polling data, it is difficult to assign a definitive opinion. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of King Salman because he has played a significant role in maintaining stability within Saudi Arabia and has engaged in diplomatic efforts regionally and globally. While opinions may vary depending on various factors like policies and human rights issues, I view his leadership positively overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of King Salman because he has played a significant role in maintaining stability within Saudi Arabia and has engaged in diplomatic efforts regionally and globally. While opinions may vary depending on policies and human rights concerns, I believe his leadership generally has positive aspects.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Saudi King Salman because, while I acknowledge his role in maintaining stability and engaging in diplomatic efforts, concerns about human rights issues and regional policies temper my overall perception. Therefore, I lean towards a moderate positive view but recognize the complexities involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the widespread mixed perceptions of King Salman\u2014highlighting his role in regional stability and reforms alongside concerns about human rights and political issues\u2014the general global opinion tends to be somewhat favorable but cautious. Therefore, I would select a somewhat favorable stance to reflect this nuanced view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Saudi King Salman. While I recognize his efforts to promote stability, economic reforms, and regional diplomacy, concerns about human rights issues and political freedoms influence my overall perception. Thus, I lean towards a moderate positive view but acknowledge the complexities involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of King Salman because I recognize his efforts in maintaining regional stability and engaging in diplomacy. While I acknowledge concerns about human rights and political issues, I believe his leadership has generally positive aspects that influence my view. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Saudi King Salman because he has played a significant role in maintaining stability within Saudi Arabia and has engaged in diplomatic efforts regionally and globally. While I recognize concerns about human rights issues and regional policies, his leadership's overall impact appears to be somewhat positive despite these complexities.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

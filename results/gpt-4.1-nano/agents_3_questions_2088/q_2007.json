@@ -1,0 +1,60 @@
+{
+  "question": "Do you think the government of Iran respects the personal freedoms of its people, or don't you think so?",
+  "options": [
+    "Yes, respects personal freedoms",
+    "No, does not respect personal freedoms"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the government of Iran does not fully respect the personal freedoms of its people. Reports and international observations have indicated restrictions on freedom of speech, assembly, and the press, along with limitations on women\u2019s rights and various personal choices. These measures suggest that personal freedoms are significantly constrained, leading me to conclude that the government\u2019s respect for individual liberties is limited.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the government of Iran does not fully respect the personal freedoms of its people. Reports indicate that there are significant restrictions on freedom of speech, assembly, and the press, with dissent often met with repression or punishment. Many individuals face limitations on their rights to express their opinions or participate freely in political activities, suggesting that personal freedoms are not fully upheld by the government.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on available information and reports from various human rights organizations, the government of Iran has been observed to impose significant restrictions on personal freedoms, including limits on freedom of speech, assembly, and expression, as well as strict controls over dress codes and personal behavior. These measures suggest that the government does not fully respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the extensive reports and observations about restrictions on speech, assembly, dress codes, and other personal freedoms, it appears that the government of Iran does not fully respect the personal freedoms of its people. The repression of dissent and strict controls indicate limited personal autonomy and rights. Therefore, I believe the government does not respect personal freedoms.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the reports and observations from multiple human rights organizations and international sources, there is substantial evidence indicating that the government of Iran imposes significant restrictions on personal freedoms. These restrictions include limitations on freedom of speech, assembly, dress codes, and personal choices, which suggest that personal liberties are not fully respected. Therefore, I believe the government does not respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the reviewed responses and available information, it appears that the government of Iran imposes significant restrictions on personal freedoms, including limits on free speech, assembly, press, and individual rights. Reports from international organizations and observers consistently highlight these concerns, indicating that personal liberties are notably constrained. Therefore, I believe the government does not fully respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the consistent reports from human rights organizations and international observers highlighting restrictions on speech, assembly, dress, and personal choices, it appears that the Iranian government has significant limitations on personal freedoms. These restrictions suggest that personal liberties are not fully respected. Therefore, I believe the government does not respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering multiple reports and observations about restrictions on speech, assembly, dress codes, and individual rights, as well as the persistent repression of dissent and strict controls, it is clear that the government of Iran does not fully respect the personal freedoms of its people. These significant limitations suggest that personal liberties are substantially constrained under the current authorities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the reports and observations from multiple human rights organizations and international sources, it is evident that the government of Iran enforces significant restrictions on personal freedoms, including limits on speech, assembly, dress, and personal choices. These measures suggest that personal liberties are not fully respected by the government. Therefore, I believe the government does not respect the personal freedoms of its people.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

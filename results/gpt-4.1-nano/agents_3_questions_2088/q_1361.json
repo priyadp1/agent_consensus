@@ -1,0 +1,60 @@
+{
+  "question": "As I read some specific US policies tell me if you approve or disapprove of them...President Bush calling Iraq, Iran and North Korea an Axis of Evil",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling can escalate tensions and justify aggressive policies that may lead to unnecessary conflicts. It can also hinder diplomatic efforts and promote polarization rather than constructive engagement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling can increase tensions and possibly justify aggressive policies. It oversimplifies complex geopolitical issues and may hinder diplomatic solutions rather than promote understanding and dialogue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because this label may contribute to increased tensions and hostility, potentially justifying aggressive policies or military actions. Such language could exacerbate international conflicts rather than promote diplomatic solutions, and it may unjustly vilify these nations without fostering constructive dialogue or understanding. Clear and diplomatic communication is generally more effective in resolving global issues.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling tends to escalate tensions and could lead to more aggressive actions. It simplifies complex geopolitical situations into a binary good-versus-evil narrative, which may hinder diplomatic efforts and foster hostility rather than understanding or constructive dialogue. Effective diplomacy often requires careful language that encourages cooperation rather than confrontation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling can escalate tensions and justify aggressive policies that may lead to unnecessary conflicts. It can also hinder diplomatic efforts and promote polarization rather than constructive engagement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling can escalate tensions and justify aggressive policies. It risks oversimplifying complex geopolitical issues, which may hinder diplomatic efforts and lead to unnecessary conflicts. Diplomatic engagement and nuanced understanding are more productive approaches to addressing international concerns.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling can escalate tensions and justify aggressive policies that may lead to unnecessary conflicts. It can also hinder diplomatic efforts and promote polarization rather than constructive engagement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling can escalate tensions and justify aggressive policies. Simplifying complex geopolitical issues into a binary narrative risks undermining diplomatic efforts and may lead to unnecessary conflicts. A more nuanced and diplomatic approach would be more effective in addressing international concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Bush calling Iraq, Iran, and North Korea an Axis of Evil because such labeling tends to escalate tensions and justify aggressive policies. It simplifies complex international situations into a binary framework that can hinder diplomacy and lead to unnecessary conflicts. Effective foreign policy should promote understanding and dialogue rather than polarizing rhetoric.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Government corruption",
+  "options": [
+    "Very big problem",
+    "Not a problem at all",
+    "Moderately big problem",
+    "DK/Refused",
+    "Small problem"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Government corruption is generally perceived as a significant issue because it undermines trust in public institutions, hampers economic development, and can lead to unfair practices and inequality. Many people see corruption at various levels of government as a serious problem that needs to be addressed to improve governance and societal well-being. While some may see it as not very problematic, on the whole, it's often regarded as a critical concern facing many countries today. Therefore, I consider it to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Government corruption is often viewed as a significant issue because it can undermine trust in public institutions, lead to misallocation of resources, and reduce government effectiveness. In many countries, corruption is perceived as a major obstacle to development and good governance, making it often regarded as a very big problem. While some people might see it as less severe or believe it is not a problem at all, the general consensus tends to lean towards recognizing it as a serious issue. Therefore, I believe many would rate it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe government corruption is a very big problem because it undermines trust in institutions, hampers economic development, and can lead to inefficient use of public resources. When corruption is prevalent, it affects everything from public services to political stability, making it a significant concern for the country's overall well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Government corruption is widely regarded as a major obstacle to effective governance, economic development, and public trust. When corruption is prevalent, it can severely undermine institutions and hinder progress, thus it is generally perceived as a very big problem. Given the strong consensus and the serious impacts associated with corruption, I believe it should be classified as such.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Government corruption erodes public trust, leads to unfair practices, and hampers economic and social development. Given its widespread impact on governance, fairness, and stability, I believe it is a very big problem that requires urgent attention and reform.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Government corruption is a significant problem because it severely damages public trust, hampers economic growth, and leads to inequality and unfair practices. Its pervasive nature in many countries makes it a critical concern that needs serious attention. Given these factors, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Government corruption undermines trust in institutions, leads to unfair treatment, and hampers progress across social and economic sectors. Its widespread impact and potential to cause instability make it a very serious issue that needs immediate attention and reform. Given these considerations, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe government corruption is a very big problem because it undermines trust in public institutions, hampers economic development, and promotes inequality and unfair practices. Its widespread presence can seriously weaken the effectiveness of government and impact citizens' daily lives, making it a critical issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Government corruption significantly undermines the functioning of government institutions, erodes public trust, and hampers economic and social development. Its widespread presence can lead to unfair practices and policy failures, which have profound and far-reaching negative impacts on the country's progress. Given these serious consequences and the recognition of corruption as a major obstacle by many, I believe it constitutes a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

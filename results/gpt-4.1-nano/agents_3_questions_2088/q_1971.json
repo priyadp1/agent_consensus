@@ -1,0 +1,62 @@
+{
+  "question": "Who do you think is launching these missile strikes, the Pakistani government, the United States government, or someone else?",
+  "options": [
+    "Pakistani government",
+    "U.S. government",
+    "Someone else",
+    "Both Pakistan and U.S. (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on the information available and recent developments, it is difficult to definitively assign responsibility for the missile strikes without concrete evidence. There are various regional actors and external parties who could be involved, and false flag or misattribution scenarios are also possible. Therefore, it is prudent to consider that these strikes could be the work of someone else entirely, perhaps a non-state actor or a third-party nation seeking to influence regional stability. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the missile strikes are most likely being launched by someone else because there have been multiple conflicting reports and speculations about the responsible parties. While the Pakistani and U.S. governments have both denied involvement or attributed the strikes to other sources, the true origin remains uncertain and is often attributed to non-state actors or covert operations. This complexity makes it difficult to assign blame solely to either government, and the ambiguity suggests an alternative actor or a shared, indirect involvement. Therefore, I think the most plausible answer is someone else.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the missile strikes are likely being launched by someone else because there have been no official confirmations from either the Pakistani or U.S. governments, and such incidents often involve unidentified or third-party actors operating in the region. The complexity of geopolitical tensions and possible covert operations suggest it could be a third party or insurgent group rather than an official government action. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the existing responses which emphasize the ambiguity and the likelihood of third-party or non-state actors behind the missile strikes, I also believe that the responsible party is not clearly identifiable as the Pakistani or U.S. governments. The lack of official confirmation and conflicting reports point towards the involvement of someone else, possibly insurgent groups or covert operators operating in the region. Therefore, I am choosing the option that best aligns with this reasoning.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the limited clear evidence and the complex geopolitical context, it seems most plausible that the responsibility lies with someone else, such as a third-party actor or non-state entity, rather than the official governments of Pakistan or the United States. The lack of official confirmation and the possibility of covert operations or false flag tactics support this conclusion.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the information from other respondents highlighting the conflicting reports, lack of concrete evidence, and the possibility of non-state actors or third-party involvement, it seems most appropriate to select someone else as the responsible party. The ambiguity and complexity of the situation make it unlikely that either the Pakistani or U.S. governments can be definitively credited without further evidence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the conflicting reports, the lack of concrete evidence, and the possibility that these strikes could be orchestrated by non-state actors, covert third-party entities, or even false flag operations, it seems most reasonable to conclude that the responsible party is someone else beyond the official governments of Pakistan or the United States. The ambiguity and complexities in the geopolitical context reinforce this assessment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the prevailing ambiguity, conflicting reports, and the possibility that non-state actors or covert third parties are behind the missile strikes, I believe the responsible party is most likely someone else. The lack of clear attribution to either the Pakistani or U.S. governments and the complex geopolitical context point toward third-party or clandestine involvement rather than a straightforward state actor. Therefore, I am selecting option C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the various reports and the absence of clear official attribution, it appears that the missile strikes' origin remains uncertain. Multiple sources suggest that the responsible party is likely a third-party or non-state actor, rather than the Pakistani or U.S. governments, especially considering the lack of confirmation and possible covert involvement. Therefore, I believe the responsible party is someone else.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

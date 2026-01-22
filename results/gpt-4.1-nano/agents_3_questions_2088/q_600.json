@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country.  Is the influence of (ethnic group-African Americans) very good, somewhat good, somewhat bad or very bad in our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The influence of African Americans in our country has been quite significant across various aspects like culture, economy, and social progress. Many have contributed positively through innovations, leadership, and community activism, helping to shape a more diverse and dynamic society. Of course, challenges and disparities remain, but overall, their impact tends to inspire progress and foster greater inclusion. Considering these factors, their influence is generally viewed as beneficial to the country's development.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The influence of African Americans in our country has been largely positive, contributing significantly to cultural, social, and economic development. They have played a vital role in advancing civil rights, fostering innovation, and enriching national identity. Despite challenges, their impact helps promote diversity, resilience, and progress in our society. Therefore, their influence is very good.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The influence of African Americans on our country is complex and multifaceted. Many African Americans have contributed positively to society through achievements in arts, sciences, politics, and community service, enriching the cultural and social fabric of the nation. Their activism has also helped advance civil rights, leading to greater equality and justice. While challenges and disparities still exist, the overall impact of African Americans has been largely constructive and beneficial to the nation's development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the influence of African Americans in our country has been largely positive, as they have made significant contributions to cultural, social, and economic development. Their efforts in civil rights, innovation, and enriching national identity have helped promote diversity and progress. While challenges remain, their overall impact continues to be beneficial for our society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the influence of African Americans in our country is largely positive, as they have made significant contributions to culture, innovation, civil rights advancements, and social progress. Their efforts have helped foster a more inclusive and dynamic society, despite ongoing challenges. Based on this understanding, I consider their influence to be more than somewhat good but not necessarily very good, reflecting a generally beneficial impact with recognition of existing issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the influence of African Americans in our country is very good because they have contributed significantly to cultural, economic, and social progress. Their efforts in civil rights, innovation, and community activism have helped foster diversity and inclusion, which are vital for the nation's growth. While challenges remain, the overall impact is positive and beneficial to our society's development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that African Americans have had a profoundly positive influence on our country, contributing meaningfully to cultural, social, and civil rights advancements that promote inclusivity and progress. Their efforts have helped shape a more diverse and dynamic society, and while challenges still exist, their overall impact is very beneficial. Therefore, I see their influence as very good.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the influence of African Americans in our country is very good because they have contributed significantly to cultural, social, and economic progress. Their efforts in civil rights, innovation, and community activism have helped foster diversity and inclusion, which are vital for the nation's growth. While challenges remain, the overall impact is positive and beneficial to our society's development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the influence of African Americans in our country has been largely positive, given their significant contributions to cultural, social, and economic development. Their efforts in civil rights, innovation, and enriching national identity have helped promote diversity and progress. While challenges remain, their overall impact continues to be beneficial for our society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

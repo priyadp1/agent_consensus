@@ -1,0 +1,61 @@
+{
+  "question": "Would you say that U.S. aid to Pakistan is mostly military aid, mostly aid to help Pakistan develop economically or both equally?",
+  "options": [
+    "Mostly military",
+    "Mostly to help Pakistan develop economically",
+    "Both equally"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Pakistan has historically been a combination of military assistance and economic development efforts. While military aid has often been prominent, especially during periods of strategic cooperation and regional security concerns, there has also been substantial financial support aimed at development projects, health, education, and economic stability. However, in recent years, military aid tends to be more emphasized relative to economic aid, reflecting the strategic interests of the U.S. government in the region. Therefore, I believe that U.S. aid to Pakistan leans more toward military assistance, although economic aid remains a significant component.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "U.S. aid to Pakistan has historically been a combination of military support and economic assistance. While military aid has often been a significant component, particularly during periods of strategic partnerships or regional security concerns, economic aid aimed at development, infrastructure, and poverty alleviation has also played an important role. Given the evolving nature of U.S.-Pakistan relations, the aid has not typically been predominantly one over the other, but rather a balance depending on the geopolitical context. Therefore, it is most accurate to say that the aid is roughly split between the two purposes.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Pakistan has historically been a mix of military assistance and economic development programs. However, in recent years, military aid has often taken a more prominent position due to strategic interests related to regional security and counterterrorism efforts. While economic aid remains important, especially in fostering long-term stability and development, it generally represents a smaller portion compared to military support. Therefore, it is reasonable to conclude that the aid is mostly military, with some economic assistance but not in equal measure.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the historical context and recent trends, U.S. aid to Pakistan has often been heavily influenced by strategic military interests, especially related to regional security and counterterrorism efforts. While economic development aid remains important, it generally constitutes a smaller proportion compared to military support in recent years. Therefore, it is reasonable to conclude that the aid is mostly military, though there is still a component of economic assistance. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Pakistan has been historically a mix of military and economic support, but over recent years, strategic interests have led to a greater emphasis on military aid. While economic development programs remain important for long-term stability, they tend to receive comparatively less funding than military assistance. Based on this, I believe that U.S. aid to Pakistan is mostly military aid.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "U.S. aid to Pakistan has historically served both strategic and developmental purposes. While military aid has often been prominent, especially during periods of heightened regional security concerns, economic aid has also played a significant role in supporting Pakistan\u2019s development and stability. The emphasis between the two has shifted over time depending on geopolitical needs, but overall, it has consistently been a combination rather than one sole focus. Given this nuanced history, it is more accurate to see the aid as a mix rather than predominantly one or the other.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the historical context and recent trends, U.S. aid to Pakistan has often been characterized by a significant military component aimed at strategic security interests, especially in recent years. Although economic development aid remains important for long-term stability, the predominant focus has shifted toward military assistance, reflecting current geopolitical priorities. Therefore, I believe that U.S. aid to Pakistan is mostly military.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the historical and ongoing trends, U.S. aid to Pakistan has frequently been a blend of military and economic assistance, with the military component often garnering more focus due to strategic regional interests. While economic aid is important for development, military aid has traditionally played a larger role, especially in recent years, to support security goals. Therefore, I believe the aid is mostly military, but not exclusively so.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the historical trends and recent focus of U.S. aid to Pakistan, it appears that military aid has been more prominent than economic aid. The strategic priorities related to regional security and counterterrorism have led to a greater emphasis on military assistance, although economic development aid still exists. Therefore, I believe that U.S. aid to Pakistan is mostly military.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

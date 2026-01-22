@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way Prime Minister Narendra Modi is handling each of the following areas?...Unemployment",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My assessment of Prime Minister Narendra Modi's handling of unemployment is mixed. While his government has launched various initiatives aimed at creating jobs and boosting the economy, challenges such as fluctuating unemployment rates and slow job creation persist. Public perception varies, with some seeing these efforts as positive steps, while others remain skeptical of their effectiveness. Given this, I am somewhat cautious but recognize the complexity of the issue.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My assessment of Prime Minister Narendra Modi's handling of unemployment is mixed; while some initiatives aimed at job creation and economic growth have shown promise, unemployment remains a significant concern for many citizens. The complexity of the global economic environment and domestic challenges contribute to this ongoing issue, and perceptions of success vary based on regional and sector-specific experiences. Therefore, I lean towards disapproval given the persistent unemployment rates and the need for more effective strategies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My assessment of Prime Minister Narendra Modi's handling of unemployment tends to be mixed. Although his government has introduced initiatives aimed at job creation and economic growth, many citizens continue to face high unemployment rates and job insecurity. The effectiveness of policies like Skill India and the Make in India campaign remains subject to debate, and challenges persist in translating economic policies into tangible employment opportunities for a large portion of the population. Given these factors, I disapprove of his current approach to tackling unemployment.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that despite various government initiatives aimed at reducing unemployment, the persistent high unemployment rates and ongoing challenges suggest that the current handling has not been sufficiently effective. The concerns and experiences of many citizens indicate dissatisfaction with the progress made in this area. Therefore, I disapprove of Prime Minister Narendra Modi's handling of unemployment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My assessment is that Prime Minister Narendra Modi's handling of unemployment has been somewhat ineffective in fully addressing the persistent joblessness and insecurity faced by many citizens. Despite various initiatives like Skill India and Make in India, the levels of unemployment and underemployment remain high, and the benefits of these policies are not being felt uniformly across the population. Therefore, I disapprove of his current approach to unemployment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the mixed assessments highlighting ongoing challenges with unemployment, the persistent rates, and the perception that efforts have not yet resulted in significantly improved employment conditions, I believe disapproval best reflects the current situation. While there are initiatives in place, their effectiveness appears limited, and unemployment remains a major concern. Therefore, I lean towards disapproval.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the ongoing challenges with unemployment, persistent joblessness, and the limited effectiveness of current policies despite initiatives like Skill India and Make in India, I find that disapproval best reflects the current situation. The policies seem not to have fully addressed the core issues faced by the population, and unemployment remains a significant concern. Therefore, I lean towards disapproval.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the feedback from other respondents highlighting ongoing high unemployment, perceived ineffectiveness of government initiatives, and continued concerns among citizens, I believe that the handling of unemployment by Prime Minister Narendra Modi currently warrants disapproval. The persistent challenges and limited improvement suggest that the measures taken have not yet achieved the desired outcomes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Prime Minister Narendra Modi's efforts to address unemployment have faced significant challenges, with persistent high unemployment rates despite various initiatives. While some measures have potential, the overall impact appears insufficient in effectively reducing joblessness and ensuring widespread employment security. Therefore, I disapprove of his handling of unemployment.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

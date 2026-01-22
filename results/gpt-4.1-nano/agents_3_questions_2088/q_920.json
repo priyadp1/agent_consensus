@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...The Haqqani network ?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "The Haqqani network is widely regarded as a militant group involved in insurgent activities, often linked to violence and instability in regions like Afghanistan and Pakistan. Given its designation as a terrorist organization by many countries and the general perception of its operations, most people tend to view it unfavorably. Therefore, my opinion aligns more with a very unfavorable assessment based on its history and actions.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "The Haqqani network is frequently associated with militant activities and has been responsible for numerous attacks in the region. Given its designation as a terrorist organization by many countries and international bodies, public opinion generally leans toward unfavorable views. While some individuals might see the group as a resistance or a political entity, the prominent perception remains negative due to its violent actions and destabilizing influence. Therefore, I would select the option indicating a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "The Haqqani network is widely regarded as a militant organization involved in insurgent activities and attacks, particularly in Afghanistan and neighboring regions. Given its association with violence and destabilization efforts, most people would likely view it unfavorably or very unfavorably. While some might have nuanced or sympathetic opinions due to geopolitical or ideological reasons, the general public perception tends to lean toward unfavorable ratings. Therefore, I lean towards selecting \"very unfavorable\" as the most representative opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Based on the information provided, the Haqqani network is widely perceived as a militant group responsible for violent activities and regional destabilization. The prominence of negative associations and the designation as a terrorist organization by many countries suggest that public opinion is largely unfavorable towards the group. Considering this, the most appropriate response is very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "The Haqqani network is widely recognized internationally as a militant group involved in insurgency, violence, and terror activities, particularly in Afghanistan and Pakistan. Due to its association with attacks, destabilization efforts, and its designation as a terrorist organization by various countries, public opinion generally tends to be very unfavorable. While some might hold nuanced or sympathetic views for geopolitical reasons, the overall perception remains negative. Therefore, I believe most people would view it very unfavorably.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "The Haqqani network is widely recognized as a militant group involved in insurgent activities, with numerous attacks and connections to violence that have destabilized regions like Afghanistan and Pakistan. Internationally, it is designated as a terrorist organization by many countries, and public opinion generally perceives it negatively due to its history and actions. Given this context, most people would likely have a very unfavorable opinion of the group.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "The Haqqani network is widely associated with militant activities, insurgency, and violence, and is designated as a terrorist organization by many countries. These factors contribute to a generally negative perception among the international public. Given the extensive reports of its involvement in destabilizing actions and attacks, most people would likely view it very unfavorably rather than favorably or neutrally. Therefore, I believe the most accurate choice is very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the widespread recognition of the Haqqani network as a militant organization involved in violent activities and its designation as a terrorist group by many countries, public opinion is overwhelmingly negative. Most people view it unfavorably due to its association with insurgency, destabilization, and violence in the region. Therefore, the most appropriate choice reflecting general public sentiment is very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the widespread international perception of the Haqqani network as a militant and terrorist organization responsible for violence and destabilization, public opinion is predominantly very unfavorable towards the group. The negative associations and designations by multiple countries further reinforce this view. While some may hold nuanced opinions, the overall sentiment remains strongly negative.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

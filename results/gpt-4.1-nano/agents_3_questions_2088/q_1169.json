@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. a. The Conservative Party",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I choose option B because I generally view the Conservative Party in a somewhat positive light, acknowledging their role in politics but also recognizing some aspects I might not agree with fully. My opinion is not extremely favorable, but I do see some value in their policies and leadership. Therefore, somewhat favorable best captures my current sentiment towards the party.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perception of the Conservative Party depends on various factors such as their policies, leadership, and actions. Given the current political climate and recent developments, I might feel cautiously optimistic about some of their initiatives but also remain critically aware of areas needing improvement. Therefore, I would categorize my opinion as somewhat favorable, reflecting a balanced view that recognizes potential while remaining cautious.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I need to express my personal opinion of the Conservative Party, considering their policies, leadership, and overall performance. If I generally support and believe in their agenda, I would choose very favorable. If I have more moderate support but not strong enthusiasm, I might select somewhat favorable. If I am critical and disapprove of their actions or platform, I would lean toward unfavorable options. If I lack enough information or prefer not to answer, I would choose DK/Refused.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on my evaluation, I hold a cautiously optimistic view of the Conservative Party, recognizing some positive aspects but also remaining aware of criticisms and areas for improvement. Therefore, I would choose somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the Conservative Party, acknowledging their role in shaping policy and leadership but also recognizing areas where I may not agree with every aspect of their platform. My impression aligns more with a moderate level of support rather than full enthusiasm. Therefore, I select somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Conservative Party. I appreciate some of their policies and leadership efforts, but I also have reservations and see room for improvement. Overall, I lean towards a cautious positive view rather than strong support or negativity.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the Conservative Party, as I believe they contribute positively to policy development and leadership. However, I also recognize there are aspects I don't fully agree with, and my support is cautious rather than enthusiastic. This aligns with a somewhat favorable opinion, as I see both strengths and reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the Conservative Party because I recognize their policy initiatives and leadership efforts but also acknowledge there are areas where they could improve and address ongoing criticisms. This balanced view aligns most closely with a cautious or moderate positive stance rather than strong support or outright negativity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of the Conservative Party because I recognize their role in leadership and policy-making, but I also see some criticisms and areas for improvement that prevent me from being fully supportive. Therefore, my opinion is somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

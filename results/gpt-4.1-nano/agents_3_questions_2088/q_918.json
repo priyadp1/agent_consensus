@@ -1,0 +1,63 @@
+{
+  "question": "Does this statement describe your country very well, somewhat well, not too well, or not well at all? d. Most people live in areas where it is dangerous to walk around at night",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The statement about most people living in areas where it is dangerous to walk around at night varies greatly depending on the country. In some countries with high crime rates or safety concerns, this may be very well true; in others with strong law enforcement and low crime, it would not be accurate. Without specific context, I believe this description aligns more closely with countries experiencing significant safety issues, but not necessarily universally across all regions. Therefore, I would choose a middle position, considering that safety can differ between urban and rural or affluent and impoverished areas. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The statement in question suggests that most people in the country face danger when walking at night, implying concerns about safety, crime, or violence in public spaces after dark. Based on general observations and available safety data, in many countries, especially those with higher crime rates, a significant portion of the population perceives walking at night as risky. However, the level of danger varies greatly depending on the country, urban vs. rural areas, and specific local conditions. If my country is known to have issues with crime or insufficient public safety measures, I would consider this statement to describe my country quite well. If it is safer overall, I might lean toward \"somewhat well\" or lower. Given a typical context of concerns about personal safety at night, I would choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The statement describes a concern about safety and crime levels in the country, specifically at night. If crime rates are high, neighborhoods are unsafe, and people often feel threatened walking at night. If the country has low crime rates, most people likely feel secure. Based on general knowledge, many countries struggle with safety issues in certain areas, but not necessarily across all parts. This makes it difficult to say it describes the country very well, but it might be somewhat true. Therefore, I would choose \"somewhat well\" as the most appropriate response, indicating a moderate level of safety concern without it being the dominant perception.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the context that many countries, especially those experiencing safety issues or higher crime rates, have areas where walking at night can be dangerous, this statement may accurately reflect the safety concerns in such countries. If my country has significant safety issues after dark, I would see this statement as describing it very well. Conversely, if my country is generally safe at night, I might consider it only somewhat true. Without knowing specific details about my country, I recognize that concerns about safety at night are common in many places, but not universally true. Given the typical safety concerns prevalent in many nations with urban challenges, I lean toward the statement being quite accurate for those contexts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the variability in safety across different countries and regions, and recognizing that in many places there are areas where walking at night can be dangerous due to crime or safety concerns, I believe the statement captures this reality reasonably well. While not universally true for every location within a country, it reflects a common concern in many nations. Therefore, I choose \"somewhat well\" to acknowledge this nuanced situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the general safety concerns related to walking at night in many countries with higher crime rates, I believe that in my country, a significant portion of people face danger in such situations. While safety can vary across different regions and urban versus rural areas, the statement captures a common perception in countries where crime and violence are notable issues. Therefore, I would select:\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the diversity of safety conditions across different areas within my country and recognizing that while some urban areas have significant safety concerns at night, others are quite safe, I think the statement broadly reflects the reality for many residents. Since the statement suggests a general trend rather than an absolute condition everywhere, I believe \"somewhat well\" best captures this nuanced situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my country, safety at night varies depending on the region and urban area. However, there are significant concerns about crime and violence that make walking around at night dangerous in many urban neighborhoods, especially in certain districts. While not universal everywhere, the perception that most people live in areas where it is dangerous to walk after dark is quite widespread, reflecting real safety issues faced by many residents. Therefore, I believe the statement describes my country very well.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In my country, safety concerns vary significantly between urban and rural areas. Many urban centers have neighborhoods where walking at night can be risky due to crime and other safety issues. While other parts of the country are safer, the widespread perception of danger in certain areas makes this statement somewhat representative. Therefore, I believe it describes my country somewhat well, acknowledging that the situation isn't uniform everywhere.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "How much, if anything, have you heard about relations between China and Taiwan?",
+  "options": [
+    "A lot",
+    "A little",
+    "Nothing at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am aware of the ongoing issues and discussions surrounding the relationship between China and Taiwan, given the extensive media coverage and political discourse on the topic. However, my knowledge may not be deeply detailed, as I have not extensively studied this subject. Therefore, I would say I have heard a little about this topic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard quite a bit about relations between China and Taiwan through news articles, discussions, and media coverage. Given the prominence of this topic in international affairs and media reports, I would say I have knowledge that aligns with \"a lot.\" \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have heard a fair amount about the topic through news outlets, discussions, and general media coverage, but I do not have in-depth knowledge or detailed understanding of the complex relations. Therefore, I would choose the option that reflects a moderate level of familiarity.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have heard about relations between China and Taiwan primarily through news reports, media coverage, and discussions, which suggests a moderate level of familiarity. I do not claim to have in-depth or detailed knowledge, but I am aware of the general issues involved. Therefore, I would select the option that reflects a \"little\" level of awareness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have heard some discussions about China and Taiwan, particularly in the context of international politics and media coverage, but I do not possess detailed knowledge or extensive background on the subject. My awareness is moderate, mainly through news and general discussions. Given this, I would choose the option that best reflects a moderate level of familiarity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some general awareness of the ongoing issues, political discussions, and media coverage related to the relationship between China and Taiwan. However, I do not follow the topic extensively or have in-depth knowledge. Based on the options, I believe \"a little\" best describes my level of hearing about it.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have heard some discussions about China and Taiwan, especially in the context of international politics and media coverage. My awareness is moderate, mainly through news and general discussions, but I do not possess detailed or extensive knowledge about the subject. Therefore, I would select option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have heard about relations between China and Taiwan mainly through news reports and media coverage. My awareness is moderate, and I do not have in-depth knowledge about the subject. Given this level of familiarity, I would choose \"a little.\"\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have come across news articles, media reports, and discussions related to the relationship between China and Taiwan, which provides me with a general understanding of the topic. However, I do not possess in-depth knowledge or detailed insights beyond what is publicly available through these sources. Therefore, I would select the option that indicates I have heard some discussions but possess only a basic level of awareness.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

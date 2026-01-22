@@ -1,0 +1,60 @@
+{
+  "question": "(Now/And thinking about the American people...) Which of these characteristics do you associate with the American people?...Tolerant...Do you associate this with the American people or not?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the American people are often associated with tolerance because of the country's history of embracing diverse cultures, religions, and lifestyles, although this can vary among individuals and communities. Many see tolerance as a core value that has contributed to the nation's development as a melting pot, despite ongoing challenges. Therefore, I associate the American people with being tolerant.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the American people are often associated with being tolerant because they come from diverse backgrounds, cultures, and beliefs, which can foster an environment of acceptance and openness. While there are instances of intolerance, the national ideals and societal values tend to emphasize tolerance and understanding. Therefore, I associate the American people with being tolerant.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the American people are often associated with tolerance because the United States is seen as a nation built on diversity, inclusion, and the value of free expression. Many Americans strive to accept and respect different cultures, beliefs, and lifestyles, reflecting a sense of tolerance. However, it is also important to recognize that tolerance varies among individuals and communities. Overall, the association of tolerance with the American people is generally positive and widely recognized.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the American people are often associated with tolerance because the country has a long history of diversity, welcoming people from various backgrounds and advocating for freedoms that promote acceptance. While individual experiences may vary, the national ideals and societal narratives tend to emphasize tolerance and inclusion. Therefore, I associate the American people with being tolerant.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "INVALID",
+        "raw_output": "I believe the American people are often associated with tolerance because the country has a long history of embracing diversity in cultures, religions, and lifestyles. While individual experiences may vary, tolerance is generally considered a core value that has contributed to the nation's identity as a melting pot. Therefore, I associate the American people with being tolerant.",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that, overall, the American people are associated with being tolerant because the country's history demonstrates a capacity for embracing diverse cultures, religions, and lifestyles. While individual and community differences exist, the national values and societal ideals promote tolerance and acceptance as foundational principles. Therefore, I associate the American people with being tolerant.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the American people are often associated with tolerance because the country has historically embraced diversity in cultures, religions, and lifestyles. Although individual experiences differ, tolerance is widely viewed as a core value linked to the nation's identity as a melting pot. This societal outlook promotes acceptance and openness, making it reasonable to associate the American people with being tolerant.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the American people are generally associated with being tolerant because the nation\u2019s history of embracing diverse cultures, religions, and lifestyles demonstrates a collective capacity for acceptance. While individual experiences may vary, societal ideals and national narratives often emphasize tolerance and inclusion as core values. Therefore, I associate the American people with being tolerant.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate the American people with tolerance because the country has a longstanding history of embracing diversity in cultures, religions, and lifestyles. While individual experiences may differ, tolerance is often viewed as a core value and a defining element of American identity, supported by national ideals of acceptance and inclusivity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

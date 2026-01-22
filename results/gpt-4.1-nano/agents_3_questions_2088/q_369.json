@@ -1,0 +1,63 @@
+{
+  "question": "Would you say that each of the following is doing a very good, somewhat good, somewhat bad, or very bad job dealing with global climate change? e. the European Union",
+  "options": [
+    "Very good job",
+    "Somewhat good job",
+    "Somewhat bad job",
+    "Very bad job",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The European Union has shown leadership in setting climate policies, investing in renewable energy, and aiming to be carbon-neutral by 2050. While there are ongoing challenges and criticisms regarding implementation and impact, their overall efforts are seen positively by many observers, indicating a genuine attempt to address the issue. Therefore, I would categorize their performance as somewhere between somewhat good and very good; given that the perception is generally favorable but not perfect, \"somewhat good\" seems appropriate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The European Union has shown leadership through policies aimed at reducing emissions, promoting renewable energy, and setting climate targets. While there are still challenges and ongoing debates about the effectiveness and implementation, overall the EU has taken significant steps in addressing global climate change and often advocates for stronger international cooperation. Therefore, I would say it is doing a somewhat good job in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the European Union is doing a somewhat good job dealing with global climate change. The EU has implemented several policies aimed at reducing emissions, promoting renewable energy, and setting ambitious climate targets. While there are still areas for improvement and challenges in enforcement and international cooperation, the EU's leadership and initiatives demonstrate a sincere effort to address the issue. Therefore, I would rate their performance as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the European Union is making a commendable effort to combat global climate change by implementing policies focused on reducing emissions and promoting renewable energy. While there are ongoing challenges, their leadership and commitment suggest they are doing a somewhat good job overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the European Union has made considerable efforts to combat global climate change through policies promoting renewable energy, emission reductions, and setting clear targets. While there are challenges and areas needing improvement, their leadership and initiatives demonstrate a genuine and ongoing commitment. Overall, I would rate their performance as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The European Union has demonstrated leadership by establishing ambitious climate policies, investing heavily in renewable energy, and committing to neutrality by 2050. While there are challenges in implementation and some criticisms, their overall efforts indicate a proactive approach toward addressing global climate change. Based on these considerations, I believe they are doing a somewhat good job, acknowledging both the progress made and the room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the European Union is doing a somewhat good job in dealing with global climate change. They have shown leadership through ambitious policies, investments in renewable energy, and goals for neutrality. While there are challenges in implementation and some criticisms, their proactive efforts indicate a genuine commitment. Therefore, I would rate their performance as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the European Union is making some efforts to address climate change through policies and investments, but there are still notable challenges and criticisms that suggest their actions are not entirely effective. While they show ambition and leadership, the overall impact so far seems moderate, reflecting a somewhat good job rather than a very good one. Therefore, I would choose:\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The European Union has demonstrated strong commitment through policies aimed at reducing emissions and promoting renewable energy. While challenges remain, their initiatives and leadership indicate they are making a genuine effort to address global climate change. Considering the overall progress and intent, I believe they are doing a somewhat good job.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

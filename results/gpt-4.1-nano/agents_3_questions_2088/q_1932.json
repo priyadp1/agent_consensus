@@ -1,0 +1,60 @@
+{
+  "question": "Do you think the Pakistani government authorized the military operation that killed Osama bin Laden, or don't you think so?",
+  "options": [
+    "Yes, authorized the operation",
+    "No, did not authorize the operation"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The operation to kill Osama bin Laden was carried out by the United States Navy SEALs in Abbottabad, Pakistan, in 2011. The Pakistani government officially stated that it was not informed about the specific operation beforehand, which suggests a lack of direct authorization. Some speculate that the Pakistani military and intelligence agencies might have had some knowledge or tacit approval, but there is no concrete public evidence confirming they officially authorized the raid. Given the information available, the most reasonable conclusion is that the Pakistani government did not officially authorize the operation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "There is considerable speculation and limited publicly available evidence regarding whether the Pakistani government explicitly authorized the operation that led to Osama bin Laden's death. While some reports suggest the military and intelligence agencies may have had prior knowledge or tacit approval, there is no definitive proof that the government officially authorized the raid. This ambiguity is often discussed in the context of complex political and security considerations within Pakistan. Given the lack of clear confirmation, I do not believe the government officially authorized the operation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The operation that led to the killing of Osama bin Laden was conducted by the US Navy SEALs on Pakistani soil. The Pakistani government publicly claimed that they were not aware of the operation beforehand and did not officially authorize it. While there have been accusations and suspicions about possible covert knowledge or tacit approval, there is no definitive publicly available evidence confirming that the Pakistani government explicitly authorized the military action. Therefore, I believe that the Pakistani government did not officially authorize the operation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on publicly available information and credible reports, the Pakistani government denied having prior knowledge or formally authorizing the operation that resulted in Osama bin Laden's death. While there are suspicions and allegations of tacit approval or covert complicity, there is no definitive evidence confirming official authorization. Therefore, I believe the Pakistani government did not authorize the military operation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the publicly available information and statements from the Pakistani government indicating they were not informed or did not authorize the operation, along with the lack of concrete evidence proving official authorization, I believe that the Pakistani government did not officially authorize the military operation that killed Osama bin Laden.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the publicly available information and official statements, the Pakistani government did not officially authorize the military operation that resulted in Osama bin Laden's death. The operation was carried out without prior public knowledge or consent, and Pakistani authorities claimed they were not informed beforehand. Although there is speculation about some level of tacit approval or knowledge, there is no definitive evidence that the government formally authorized the raid. This suggests that the most accurate conclusion is that they did not authorize it.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on publicly available information, including official statements from the Pakistani government and lack of concrete evidence indicating formal authorization, it appears that the Pakistani government did not officially authorize the military operation that resulted in Osama bin Laden's death. While there may be speculation about tacit knowledge or informal approval, the evidence suggests that the operation was carried out without official authorization.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the evidence from credible reports and official statements, the Pakistani government has not officially authorized the military operation that led to Osama bin Laden's death. While there might be suspicions or allegations of covert approval, there is no concrete proof of formal authorization. Therefore, I believe the government did not authorize the operation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the available information and credible sources, the Pakistani government officially denied prior knowledge or authorization of the operation that led to Osama bin Laden's death. While there are ongoing suspicions and allegations of covert approval, there is no conclusive evidence to confirm that they authorized or officially sanctioned the strike. Therefore, I believe that the Pakistani government did not authorize the military operation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

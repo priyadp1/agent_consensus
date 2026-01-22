@@ -1,0 +1,61 @@
+{
+  "question": "Which one of the following is the most important reason Islam is playing a greater role in politics these days?...Because of dissatisfaction with the current government, or because of growing immorality in our society, or because of concerns about Western influence in our country?",
+  "options": [
+    "Because of dissatisfaction with the current government OR",
+    "Because of growing immorality in our society OR",
+    "Because of concerns about Western influence in our country"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the most important reason is because of concerns about Western influence in our country. This is often a driving factor behind increased religious involvement in politics, as people seek to preserve their cultural identity and traditional values amidst external pressures. The perception that Western norms or policies threaten local customs can motivate communities to advocate for policies aligned with their religious principles. While dissatisfaction with the government and societal immorality are relevant, concerns about Western influence tend to have a more direct impact on the increased political role of Islam in many contexts. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the most important reason Islam is playing a greater role in politics these days is because of concerns about Western influence in our country. This reflects a desire to preserve cultural and religious identity amidst external pressures and perceived Westernization, which often motivates communities to seek reaffirmation of traditional values through political means. While dissatisfaction with the current government and societal immorality are also significant factors, concerns about Western influence directly relate to the ideological and identity-based motivations that often fuel increased religious political engagement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about Western influence in our country are driving the increased role of Islam in politics because many people perceive external cultural and political influences as threats to their values and traditions. They often see Islam as a way to reinforce national identity and resist what they view as undesirable foreign influences, especially in areas like education, media, and governance. While dissatisfaction with the government and societal morality also play roles, the concern about Western influence frequently acts as a unifying factor that prompts people to seek a stronger Islamic presence in politics to protect their cultural and religious identity. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that concern about Western influence in our country is the most important reason for the increasing role of Islam in politics. This motivation appears to be rooted in protecting national identity and cultural values from external pressures perceived as harmful or threatening, which often directly leads communities to seek political reinforcement of Islamic principles. While dissatisfaction with the government and social immorality are also factors, the emphasis on resisting foreign influence seems to be a primary catalyst in motivating political engagement based on Islamic values in this context.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about Western influence in our country are the main reason Islam is playing a greater role in politics these days. This is because many individuals see external cultural and political pressures as threats to their traditions and values. They often view Islam as a way to protect their identity and resist foreign influences, especially in areas like education, media, and governance. While dissatisfaction with the government and societal morality are also relevant, the perception of Western influence as an external threat seems to be a stronger motivator in mobilizing support for increased Islamic political involvement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the most significant reason is concerns about Western influence in our country. This factor often motivates communities to actively involve religion in politics to protect their cultural and religious identity against external pressures. While dissatisfaction with the government and societal immorality can contribute, the perception that Western norms threaten traditional values seems to be a more direct catalyst for religious political engagement in many contexts, highlighting a desire to resist external cultural influence. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about Western influence in our country are the most important reason Islam is playing a greater role in politics these days. External cultural and political pressures from Western countries often threaten traditional values and national identity, prompting communities to assert their religious and cultural identity through political means. While dissatisfaction with the government and societal immorality are relevant factors, the perception that Western norms pose an external threat seems to be a primary motivator for increased Islamic political participation in many contexts. This external influence can be viewed as a direct challenge to sovereignty and cultural integrity, motivating a collective push to defend Islamic principles publicly and politically.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about Western influence in our country are the most important reason for the increasing role of Islam in politics. This motivation often stems from a desire to protect cultural and religious identity from external pressures perceived as threats, leading communities to involve religion in political processes to safeguard their values. While dissatisfaction with the government and social immorality are factors, the emphasis on resisting external cultural influences appears to be the primary catalyst in this context.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that concerns about Western influence are the most significant factor driving the increased role of Islam in politics. Many individuals perceive external cultural and political pressures as threats to their traditions, values, and identity. They see Islam as a means of resisting this influence and safeguarding their societal integrity. While dissatisfaction with the government and societal immorality also play roles, the emphasis on resisting external Western influence appears to be the primary catalyst in motivating political support for Islamic principles in this context.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

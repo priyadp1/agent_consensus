@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about the future of your country, please tell me whether you feel generally optimistic or generally pessimistic about the following areas. c. The availability of well-paying jobs",
+  "options": [
+    "Optimistic",
+    "Pessimistic",
+    "Neither (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I feel somewhat uncertain about the future of well-paying jobs in my country due to economic volatility and changing industry demands. While there are some opportunities, I worry about whether they will be sustainable or accessible to most people. Therefore, I am leaning towards pessimism but acknowledge that there might be potential for improvement. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the availability of well-paying jobs in my country is uncertain due to economic fluctuations and changing industry demands. While there are some opportunities, I am concerned about job security and wage levels in the future. Therefore, I feel more pessimistic than optimistic about this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the future of well-paying jobs in my country depends on economic policies, education, and technological progress. Given recent economic developments and job market trends, I feel cautiously optimistic about the availability of well-paying jobs. There are initiatives and investments aimed at improving employment prospects, and while challenges remain, I think these efforts will pay off in the long run. Therefore, I feel generally optimistic about this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the varying perspectives, I recognize that there are both concerns about economic instability and optimism due to ongoing initiatives and investments aimed at improving job prospects. Overall, I lean towards a cautiously optimistic outlook, believing that efforts to enhance employment opportunities may lead to better outcomes in the future despite current uncertainties.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the current economic trends, technological advancements, and government initiatives aimed at job creation, I believe there is a cautiously optimistic outlook for well-paying jobs in the future. While challenges such as economic volatility and industry shifts exist, efforts to improve workforce skills and adapt to new industries inspire confidence that quality employment opportunities can increase over time. Therefore, I feel generally optimistic about this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the responses indicating concern about economic volatility, changing industry demands, job security, and wages, my perception aligns more with pessimism regarding the availability of well-paying jobs. While there is acknowledgment of potential opportunities, the overall sentiment reflects uncertainty and worry about future prospects, suggesting a generally pessimistic outlook.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering current economic conditions, technological changes, and government efforts to support employment, I believe the outlook for well-paying jobs is somewhat hopeful but uncertain. While initiatives and advancements suggest potential for positive developments, economic volatility and industry transitions create an environment of cautious optimism rather than full confidence. Therefore, I feel generally optimistic about this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the overall economic outlook and trends in the job market, there is a mix of challenges and initiatives aimed at improving employment opportunities. While some see potential for positive change, many remain uncertain about sustained access to well-paying jobs, especially given recent economic fluctuations and industry shifts. Therefore, I feel cautiously pessimistic about the future availability of well-paying jobs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the future prospects for well-paying jobs are cautiously positive due to ongoing government initiatives, technological advancements, and efforts to improve workforce skills. While economic challenges exist, these proactive measures inspire confidence that opportunities for quality employment may improve over time. Therefore, I feel generally optimistic about this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

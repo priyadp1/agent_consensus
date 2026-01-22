@@ -1,0 +1,60 @@
+{
+  "question": "(Now/And thinking about the American people...) Which of these characteristics do you associate with the American people?...Hardworking...Do you associate this with the American people or not?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people perceive Americans as generally hardworking, valuing effort and dedication in their pursuits. This perception is rooted in the cultural emphasis on the 'American Dream' and the stories of perseverance and achievement. While individual experiences may vary, the collective image often associates Americans with being industrious and committed to their goals. Therefore, I would associate this characteristic with the American people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that many American people are hardworking, as the country has a long history of industriousness and innovation. The nation's culture often emphasizes dedication and perseverance, which are qualities associated with hard work. Therefore, I associate the American people with being hardworking.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that many American people are hardworking, as the history and culture of the United States often emphasize values like perseverance, effort, and ambition. This characteristic is widely associated with the American identity, reflecting the nation's focus on innovation, entrepreneurship, and individual achievement. Therefore, I associate hardworking with the American people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the American people are generally associated with being hardworking due to the country's history of innovation, perseverance, and individual achievement. Cultural values often emphasize effort and ambition, which further reinforce this characterization. Therefore, I associate the American people with being hardworking.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the characteristic of being hardworking is often associated with the American people due to the cultural emphasis on the American Dream, perseverance, and achievement. These values are commonly promoted and celebrated within American society, shaping the collective perception of Americans as industrious and dedicated to their goals. While individual experiences may differ, the general stereotype and cultural narratives support this association. Therefore, I would affirm that this characteristic is associated with the American people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the perception of Americans as hardworking is quite common and supported by cultural narratives, historical achievements, and societal values that emphasize effort, perseverance, and the pursuit of success. While individual experiences may differ, the overall social perception tends to associate Americans with being hardworking, making this a reasonable stereotype rooted in both history and cultural attitudes.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the characteristic of being hardworking is commonly associated with the American people because of the cultural values surrounding the American Dream, perseverance, and achievement. These ideas are deeply ingrained in American society and often shape the perception of Americans as industrious and dedicated to their goals. Despite individual differences, the stereotype of Americans as hardworking remains prevalent in cultural narratives and societal expectations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the American people are generally associated with being hardworking because of the country's history of innovation, perseverance, and achievement. Cultural values often emphasize effort and ambition, which reinforce this perception. While individual experiences may vary, the societal stereotype tends to connect Americans with being hardworking.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the American people are generally associated with being hardworking because of the nation's history of innovation, perseverance, and achievement. Cultural values such as effort, ambition, and the pursuit of the American Dream promote the idea that Americans are industrious and dedicated to their goals. These narratives are deeply embedded in American identity and are reinforced through cultural symbols and stories, making the association quite strong. Therefore, I would affirm that this characteristic is associated with the American people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

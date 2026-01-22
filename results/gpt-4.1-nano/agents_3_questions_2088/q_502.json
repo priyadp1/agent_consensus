@@ -1,0 +1,60 @@
+{
+  "question": "Which side do you identify with more in this struggle, moderate Muslims or Islamic fundamentalists?",
+  "options": [
+    "Moderate Muslims",
+    "Islamic fundamentalists"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they generally promote peaceful coexistence, tolerance, and reform within their communities, which aligns with principles of dialogue and understanding that are essential for a harmonious society. Conversely, Islamic fundamentalists often advocate for strict adherence to traditional interpretations that can sometimes lead to conflict or intolerance. I believe that supporting moderation encourages dialogue, reform, and peaceful progress. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe in promoting peaceful coexistence, understanding, and respect among all religious groups. Moderate Muslims generally advocate for these principles and promote reforms that support human rights and social cohesion. Conversely, Islamic fundamentalists often pursue rigid interpretations that may lead to conflict or oppression. Therefore, I align more with those who emphasize moderation and dialogue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they generally advocate for peaceful coexistence, reform, and engagement with global society, fostering understanding and tolerance. Islamic fundamentalists often pursue strict interpretations that can lead to conflict and undermine social harmony. Supporting moderation aligns with promoting harmony and respect for diverse perspectives. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they promote peaceful coexistence, understanding, and respect among diverse communities. They often advocate for reform and engagement with global society, fostering tolerance and social cohesion. In contrast, Islamic fundamentalists tend to pursue rigid interpretations that may lead to conflict, oppression, and social instability. Supporting moderation aligns with values of dialogue, human rights, and peaceful living.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they generally promote peaceful coexistence, tolerance, and reform within their communities, which aligns with principles of dialogue and understanding that are essential for a harmonious society. Conversely, Islamic fundamentalists often advocate for strict adherence to traditional interpretations that can sometimes lead to conflict or intolerance. Supporting moderation encourages dialogue, reform, and peaceful progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they tend to promote peaceful coexistence, tolerance, and reform, which fosters dialogue and understanding in society. They are generally committed to reform and addressing issues through peaceful means. In contrast, Islamic fundamentalists often advocate for strict traditional interpretations that can sometimes lead to conflict or intolerance, which I find less aligned with principles of harmony and human rights.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they promote peaceful coexistence, tolerance, and reform, which are essential for a harmonious society. Their approach emphasizes dialogue and understanding, while Islamic fundamentalists often advocate for strict traditional interpretations that can lead to conflict or intolerance. Supporting moderation aligns with principles of dialogue, reform, and peace.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they promote peaceful coexistence, tolerance, and reform, which foster understanding and respect among diverse communities. They are committed to dialogue and human rights, whereas Islamic fundamentalists often pursue strict interpretations that can lead to conflict and social instability. Supporting moderation aligns with values of harmony and peaceful living.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I identify more with moderate Muslims because they promote peaceful coexistence, understanding, and respect among diverse communities. They often advocate for reform and engagement with global society, fostering tolerance and social cohesion. Supporting moderation aligns with values of dialogue, human rights, and peaceful living.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

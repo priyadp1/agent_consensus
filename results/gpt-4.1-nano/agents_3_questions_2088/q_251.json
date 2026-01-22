@@ -1,0 +1,60 @@
+{
+  "question": "Now I'm going to read you some statements about what President Barack Obama might do in the future. Do you think he will seek international approval before using military force or don't you think so?",
+  "options": [
+    "Will",
+    "Will not"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama would seek international approval before using military force because he has shown a tendency to favor multilateral diplomacy and working with international organizations such as the United Nations. His administration often emphasized the importance of building international consensus to legitimize military actions, suggesting he would prioritize seeking approval from the global community in future decisions regarding military force.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on President Obama's past foreign policy approach, he has emphasized the importance of international cooperation and multilateral approval before engaging in military actions. This suggests that he would likely seek international approval prior to using military force to ensure legitimacy and global support. Therefore, I believe he will seek international approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on President Obama's general approach during his time in office, he often emphasized diplomatic efforts and international collaboration when considering military actions. This suggests that he would likely seek international approval before using military force to ensure legitimacy and build global consensus. Therefore, I think he would seek international approval before acting militarily.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given President Obama's history of emphasizing diplomacy, international cooperation, and multilateral efforts in foreign policy, it is reasonable to believe he would seek international approval before using military force to ensure legitimacy and global consensus. This approach aligns with his known foreign policy stance during his presidency.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the information from other respondents, who both suggest that President Obama is inclined to seek international approval based on his emphasis on diplomacy and working through international organizations, I also believe that he would likely prioritize international approval before using military force. His administration's focus on multilateral diplomacy supports this view.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama would seek international approval before using military force because his historical emphasis on multilateral diplomacy and working with international organizations suggests he values international legitimacy and consensus in military decisions. His administration\u2019s approach to building global support indicates he is likely to seek international approval in future actions involving military force.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the previous responses, both agents suggest that President Obama tends to prioritize international approval before using military force, emphasizing diplomacy, multilateralism, and international consensus. Given this consistent perspective, I believe he is likely to seek international approval in future military actions to ensure legitimacy and global support.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on President Obama's historical emphasis on diplomacy and international cooperation, as well as the tendency to seek global consensus in military matters, it is reasonable to believe that he would seek international approval before using military force in the future to ensure legitimacy and multilateral support.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering President Obama's known foreign policy approach, which has emphasized diplomacy, multilateral cooperation, and working through international organizations, it is reasonable to think he would seek international approval before using military force to ensure legitimacy and garner global consensus. This aligns with the pattern observed in other respondents\u2019 answers and his administration's emphasis on international collaboration.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

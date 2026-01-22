@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, do middle income people have too much influence in our political system, not enough influence, or about the right amount?",
+  "options": [
+    "Too much",
+    "Not enough",
+    "Right amount"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe middle income people tend to have about the right amount of influence in our political system. They are often significant enough to contribute to shaping policies that affect the economy and daily life, yet they do not dominate the political landscape as the very wealthy might, nor are they so underrepresented that their voices are ignored. This balance allows for a reasonably fair representation, although ongoing discussions about equity and influence are always valuable. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe middle income people tend to have too much influence in our political system because they often have enough resources and time to participate actively in political discourse and advocacy, which can skew policies to their favor. Their engagement sometimes outweighs that of lower-income groups, leading to policies that may favor their interests over broader societal needs. Ensuring a more balanced influence from diverse income groups could promote more equitable representation. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that middle income people have about the right amount of influence in our political system. They represent a large portion of the population and have enough economic stability and civic engagement to make their voices heard without overwhelming the political landscape dominated by the very wealthy or the economically disadvantaged. This balance allows for a relatively fair representation of their interests without disproportionate sway by any single income group.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe middle income people tend to have enough influence in our political system to be adequately represented, but not so much that they dominate political decision-making. This middle ground allows for a balanced representation where their interests are considered alongside those of other income groups, promoting a fair and equitable political landscape. Excessive influence of middle income individuals could marginalize lower-income populations, while too little influence might ignore their specific needs. Therefore, I think the current level of influence is appropriate to maintain a healthy democracy.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe middle income people have an adequate level of influence in our political system because they constitute a substantial portion of the population and can effectively advocate for policies that impact their economic and social interests. However, there is always room for improvement to ensure their voices are neither overrepresented nor marginalized compared to other income groups. Maintaining this balance is essential for a fair and representative democracy.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe middle income people have a balanced level of influence in our political system. They are often able to participate actively and shape policies relevant to their interests, but they do not overpower or dominate the political landscape. While there is room for improvement in ensuring broader representation, the current influence seems fairly proportionate to their economic and social position in society. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe middle income people have a fair and proportional level of influence in our political system. They represent a significant portion of the population and have enough ability to advocate for their interests without dominating the political landscape. This balance is important for ensuring a healthy democracy where diverse voices are heard but no single group holds excessive power. While there's always room to improve representation and prevent undue influence, the current level seems appropriate given their social and economic position.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe middle income people have a fairly appropriate level of influence in our political system. They are actively involved and their interests are considered without overwhelming the political landscape. This balanced influence helps maintain fair representation and supports a healthy democracy. Under or over-representing this group could skew policy outcomes and marginalize other populations, so a moderate influence seems optimal.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe middle income people have a balanced level of influence in our political system. They represent a significant portion of the population and have enough power to advocate for their interests without overwhelmingly dominating the political landscape. Maintaining this balance is crucial for a healthy democracy where diverse voices are heard fairly. An overconcentration of influence among this group could overshadow lower-income populations, while too little influence might neglect their needs. Therefore, I think they currently have about the right amount of influence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "In dealing with the situation in Jammu and Kashmir, do you think the Indian government should use more military force than it is using now, less military force or about the same amount of military force as it is using now?",
+  "options": [
+    "More",
+    "Less",
+    "About the same",
+    "Should not be using force at all (VOL)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that reducing the use of military force could help address the underlying tensions and promote a more peaceful resolution in Jammu and Kashmir. Excessive military presence often exacerbates grievances and hampers efforts for dialogue. Therefore, I think the government should use less military force to encourage political solutions and build trust among the local population.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the Indian government should reduce the use of military force in Jammu and Kashmir to avoid further escalation and to promote peaceful dialogue. Excessive military presence can lead to increased resentment and hinder efforts toward stability and harmony in the region. A balanced approach focused on diplomacy and development could foster long-term peace more effectively than a reliance on force.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The situation in Jammu and Kashmir is complex, involving historical grievances, political aspirations, and security concerns. Increasing military force could potentially suppress violence but risks escalating tensions and further alienating the local population. Conversely, reducing force might lead to diminished security and stability. Maintaining the current level of military presence may strike a balance, but ultimately, diplomatic engagement and political solutions are more sustainable. Given the importance of fostering peace and addressing underlying issues holistically, I believe that the government should not escalate the use of force unnecessarily and should instead pursue more diplomatic avenues.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the government should reduce the use of military force to promote peace and stability through dialogue and development. An excess of military presence can deepen resentment and hinder efforts for a long-term solution. Balancing security needs with political and diplomatic strategies is essential for sustainable peace in Jammu and Kashmir. Therefore, I think less force would be more effective in fostering a peaceful environment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the use of military force should be carefully calibrated to avoid escalating tensions further. While some military presence is necessary to maintain security, increasing force might worsen grievances and hinder political dialogue. Therefore, I think the government should use less military force than it is currently using to foster trust and promote peaceful resolution through diplomatic means.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the use of military force should be carefully calibrated, leaning towards reducing it to prevent escalating tensions and to create space for political dialogue and peacebuilding. Excessive military presence often deepens mistrust and complicates efforts for sustainable resolution. A balanced approach prioritizing diplomacy over force seems more conducive to stability and long-term peace in Jammu and Kashmir.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the use of military force should be carefully calibrated to avoid escalating tensions further. While some military presence is necessary to maintain security, increasing force might worsen grievances and hinder political dialogue. Therefore, I think the government should use less military force than it is currently using to foster trust and promote peaceful resolution through diplomatic means.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that reducing the level of military force could help create a more conducive environment for dialogue and peacebuilding efforts. Excessive military presence tends to deepen mistrust and resentment among local populations, which can hinder long-term resolution of issues. A balanced approach focusing on diplomacy and development alongside security measures seems more likely to lead to sustainable peace and stability in Jammu and Kashmir. Therefore, I think less military force would be most effective in addressing the situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the use of military force should be carefully calibrated to avoid escalating tensions further. While some military presence is necessary to ensure security, increasing force might worsen grievances and hinder political dialogue. Therefore, I think the government should use less military force than it is currently using to foster trust and promote peaceful resolution through diplomatic means.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

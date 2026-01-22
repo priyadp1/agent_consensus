@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of Prime Minister Manmohan Singh very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Prime Minister Manmohan Singh has been recognized for his dedication to economic reforms and efforts to improve the country's development. However, his leadership has also faced criticism for perceived lack of decisiveness and challenges in addressing corruption and social issues. Overall, opinions are mixed, and the influence on the country's progress is viewed by some as positive, but others see it as somewhat limited or problematic. Considering these factors, I believe his influence has been closer to somewhat good, acknowledging the positive strides but also the ongoing challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Prime Minister Manmohan Singh's influence on the country's progress has been viewed quite critically by many people. Despite his reputation for integrity and economic expertise, some believe that his leadership has not effectively addressed pressing issues such as economic reforms, corruption, and social inequalities. The perception that his tenure has been characterized by stagnation or insufficient progress has led to the opinion that his influence is somewhat bad. While there are supporters who admire his dedication, overall, the sentiment leans towards dissatisfaction with his impact on the country's development during his time in office.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "During Manmohan Singh's tenure as Prime Minister, he was often praised for his integrity, economic reforms, and efforts to reduce corruption, which positively influenced the country's development. However, his government also faced criticism for bureaucratic inefficiencies, slow decision-making, and scandals that marred his administration. Overall, his influence can be seen as somewhat beneficial, helping to stabilize the economy and promote growth, despite some drawbacks. Considering these factors, his impact on the country's progress appears to be mostly positive but with limitations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the mixed reviews about Prime Minister Manmohan Singh's influence\u2014some acknowledging his support for economic reforms and integrity, but others criticizing inefficiencies, scandals, and limited progress\u2014I believe that his overall impact has been moderate with both positive and negative elements. The assessment leaning towards some benefits but also notable shortcomings suggests that his influence is somewhat beneficial but not strongly so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the provided context, Prime Minister Manmohan Singh's influence appears to be mostly positive, with recognition for economic reforms, integrity, and efforts to reduce corruption. While there are criticisms related to leadership decisiveness, bureaucratic inefficiencies, and scandals, the overall assessment seems to lean towards a somewhat beneficial impact on the country's progress. Therefore, I believe the influence is best described as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the perspectives provided, it seems that Prime Minister Manmohan Singh's influence is seen as mixed, with some positive contributions to economic reforms and development, but also significant criticisms regarding leadership decisiveness and handling of social issues. Considering this, I feel that the overall perception aligns more with a somewhat negative view, as there are notable concerns about stagnation and limited progress during his tenure, despite acknowledged efforts. Therefore, I choose the option that reflects a somewhat bad impact.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the mixed reviews, with recognition of some positive efforts in economic reforms and development but also notable criticisms regarding leadership decisiveness, social issues, and overall progress, I believe his influence has been more negative than positive. The concerns about stagnation and limited progress suggest a somewhat bad impact overall. Therefore, I choose C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the diverse opinions and the mixed assessments of Prime Minister Manmohan Singh's influence\u2014recognizing both contributions to economic reforms and development as well as criticisms of inefficiency and limited progress\u2014it seems that the overall impact is somewhat negative but not entirely detrimental. The perception of his influence leans more toward being somewhat bad due to the notable shortcomings and stagnation often highlighted. Therefore, I believe that the appropriate choice reflects a somewhat bad influence.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the overall assessments and the mixed reviews surrounding Prime Minister Manmohan Singh's influence, it appears that while there have been some positive efforts, such as economic reforms and attempts to reduce corruption, there have also been notable shortcomings like inefficiencies and scandals. These factors suggest his impact is somewhat beneficial but not strongly so. Therefore, I believe the influence is best described as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

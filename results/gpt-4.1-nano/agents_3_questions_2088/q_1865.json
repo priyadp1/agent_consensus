@@ -1,0 +1,63 @@
+{
+  "question": "Some people say that the following things are important for being truly your nationality. Others say they are not important. How important do you think each of the following is? a. to have been born in your country",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not very important",
+    "Not at all important",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "In my opinion, being truly one's nationality is more about cultural identity, language, and shared values rather than the place of birth. While I acknowledge that many consider birthplace as a defining factor, I believe that a person's sense of national belonging can develop through upbringing, cultural connection, and personal identification, regardless of where they were born. Therefore, I think it is not very important to have been born in your country to be considered truly your nationality.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that being born in a country can be an important factor in determining one's nationality, as it often reflects a person's origins and can carry cultural and legal significance. However, I also acknowledge that nationality can be legally and culturally assigned through other means, such as naturalization or descent. Therefore, while I consider birthplace to be quite significant, I do not think it is the sole factor that determines true nationality.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that being born in a country is not necessarily the only or most important factor in determining someone's true nationality. Citizenship and identity can also be based on shared culture, values, or legal status, which are not solely dependent on birthplace. Therefore, I would consider it somewhat important but not essential to being truly one's nationality.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that being born in a country has some significance in establishing one's nationality, as it often provides a legal and cultural basis for identity. However, I also recognize that nationality can be obtained through other means like naturalization or descent, which means birthplace alone doesn't fully determine true nationality. Therefore, I consider it somewhat important but not the most crucial factor.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that being born in your country is an important but not definitive factor in determining your true nationality. While birthplace can be a significant aspect of national identity, many people feel a strong sense of belonging and cultural connection without it. Personal identification, cultural upbringing, and shared values often play more crucial roles in defining one's true nationality than just the place of birth. Therefore, I consider it somewhat important but not essential.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that being born in your country can be an important factor in establishing one's nationality, as it often signifies legal and cultural roots, and a sense of belonging from the outset. While I recognize that other elements like cultural identity and personal connection also play roles, I think birthplace still holds significant importance in defining true nationality.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that being born in your country can be an important factor in establishing one's nationality, as it often signifies legal and cultural roots, and a sense of belonging from the outset. While I recognize that other elements like cultural identity and personal connection also play roles, I think birthplace still holds significant importance in defining true nationality.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that being born in a country is an important factor in establishing one's nationality because it often provides a clear legal and cultural connection to that country, which helps define true nationality. While I also acknowledge that naturalization or descent can contribute to national identity, birthplace remains a significant and foundational element.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that being born in a country can serve as a basis for establishing nationality, but it should not be the sole criterion. Many individuals identify strongly with a nation through cultural, social, and personal ties, even if they were not born there. Given these considerations, I think it is somewhat important but not the most crucial factor.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

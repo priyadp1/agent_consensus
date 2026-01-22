@@ -1,0 +1,62 @@
+{
+  "question": "Do you think ____ plays a more important role in the world today compared to 10 years ago, a less important role or about as important a role in the world as it did 10 years ago? b. the European Union",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The importance of the European Union in the world today has arguably increased compared to 10 years ago, due to its ongoing efforts in global trade, climate policy, and diplomatic influence, especially as geopolitical tensions with major powers like the US and China have escalated. Additionally, the EU's role in managing regional crises and its stance on global issues have made it a key player on the international stage, perhaps even more so than a decade ago. However, some might argue its influence has diminished due to internal challenges like Brexit and economic difficulties. On balance, I believe its overall significance has grown, reflecting its strengthened role in shaping international policy and cooperation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The European Union's role has evolved significantly over the past decade, particularly in areas such as managing migration crises, economic recovery efforts, and responses to geopolitical tensions. Its influence in shaping trade policies, maintaining regional stability, and acting as a political and economic bloc has likely increased, especially given the post-Brexit reconfiguration and its responses to various international challenges. While some may argue its importance has diminished or stayed the same, the EU remains a central actor in regional and global affairs, arguably more vital in coordinating efforts and responding to complex issues today than it was ten years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The European Union has become increasingly influential in global politics, trade, and regulatory standards over the past decade, especially with its efforts to shape economic policies, manage international conflicts, and address issues like climate change. While it still faces challenges such as internal disagreements and external pressures, its role as a significant actor in global affairs has arguably grown, making it more important than it was ten years ago. Therefore, I believe the EU plays a more important role in the world today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union continues to play a crucial role in shaping regional and global affairs, especially with ongoing challenges like integrating member states, responding to international conflicts, and addressing global issues such as climate change. Its influence has expanded in areas like trade policy, regulatory standards, and diplomatic coordination, making it more vital today than it was ten years ago. Given these factors, I would reaffirm that the EU plays a more important role now.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union plays a more important role in the world today compared to 10 years ago. Over the past decade, the EU has continued to expand its influence in global trade, climate policy, and diplomatic initiatives despite internal challenges like Brexit and economic struggles. Its active engagement in shaping international regulations, promoting stability within its sphere, and addressing global issues like climate change has increased its relevance on the world stage. While there are difficulties, its strategic importance and capacity to influence global affairs appear to have grown, making it more significant today than a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union plays a more important role in the world today compared to 10 years ago because it continues to be a significant actor in global trade, climate change initiatives, and diplomatic efforts. Despite internal challenges like Brexit and economic difficulties, the EU's role in shaping international policies and managing regional stability has strengthened, making it more influential in addressing today\u2019s complex global issues.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union plays a more important role in the world today compared to 10 years ago. Over the past decade, the EU has intensified its efforts in global trade negotiations, climate policy leadership, and diplomatic initiatives despite internal challenges such as Brexit and economic struggles. Its proactive engagement in shaping international regulations and maintaining regional stability has contributed to its increased influence on the global stage, indicating a growth in its strategic importance and capacity to impact world affairs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union plays a more important role in the world today compared to 10 years ago. Over the past decade, the EU has continued to influence global trade, environmental policy, and diplomatic relations, especially as it navigates complex issues like climate change agreements, international cooperation, and regional stability. Despite internal challenges such as Brexit and economic pressures, its leadership and regulatory standards have increased its global impact, affirming its growing importance in the international arena.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union plays a more important role in the world today compared to 10 years ago. The EU has increased its influence in global trade, climate policy, and diplomatic initiatives despite internal challenges such as Brexit and economic difficulties. Its active efforts in shaping international regulations and addressing global issues have enhanced its strategic importance and capacity to influence world affairs. Therefore, the EU's role has become more vital and impactful over the past decade.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

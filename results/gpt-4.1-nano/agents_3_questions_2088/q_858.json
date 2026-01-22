@@ -1,0 +1,63 @@
+{
+  "question": "Thinking about JOE BIDEN\u2019s ability to handle a number of things, how confident are you that Joe Biden can do each of the following? a. Make good decisions about international trade",
+  "options": [
+    "Very confident",
+    "Somewhat confident",
+    "Not too confident",
+    "Not at all confident",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My confidence in Joe Biden's ability to make good decisions about international trade depends on his experience and track record in handling complex economic negotiations and trade policies. Given his history as Vice President and President, I believe he has relevant experience, but there are also concerns about political divisions and global economic volatility that could impact his decision-making. Overall, I am somewhat confident that he can make good decisions in this area, but I acknowledge uncertainties that might affect his performance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My confidence in Joe Biden's ability to make good decisions about international trade depends on his track record and policies. If I believe he has experience and has demonstrated competence in negotiating trade agreements and handling international relationships, I might feel very or somewhat confident. If I am uncertain about his expertise or trust his decisions to be influenced by politics rather than expertise, I might feel not too confident, or not at all confident. Given the current political climate and ongoing debates about trade policies, I might lean toward some reservations. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat confident that Joe Biden can make good decisions about international trade. Based on his experience as Vice President and President, he has been involved in international negotiations and economic policies, which suggests some level of competence in this area. However, considering the complexities and varying opinions on trade policies, I remain cautious about full confidence. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Joe Biden has relevant experience and a history of involvement in international economic policies, which gives me some confidence in his ability to make good decisions about international trade. However, given the complexities and disagreements surrounding trade issues, I feel that a moderate level of confidence is appropriate. Therefore, I select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Joe Biden demonstrates a moderate level of competence in handling international trade matters, given his extensive experience as Vice President and President, which involved involvement in international negotiations and economic policies. While his background suggests he has relevant knowledge, the complexities of global trade and political divisions create some uncertainties about his full effectiveness. Therefore, I am somewhat confident in his ability to make good decisions in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Joe Biden has considerable experience and a track record that suggests he can make good decisions about international trade, but there are also some concerns about political divisions and the volatility in the global economy that could influence his effectiveness. Given these factors, I am somewhat confident that he can handle this area well, but I also recognize the uncertainties involved. Therefore, my confidence is moderate but not high enough to select very confident, and I do not feel unconfident enough to choose the lower options. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Joe Biden has substantial experience and has been involved in international negotiations and economic policies, which suggests he has the capability to make sound decisions on international trade. However, the complexities of global trade, political divisions, and economic volatility introduce uncertainties that could impact his effectiveness. Given his background and the current challenges, I am moderately confident in his ability, but I recognize there are limitations. Therefore, I select:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Joe Biden has significant experience and a history of involvement in international economic policies, which suggests he is capable of making good decisions in the area of international trade. While recognizing the complexities of global markets and political disagreements, my confidence remains moderate, as he has demonstrated some competence but there are inherent uncertainties and challenges. Therefore, I am somewhat confident in his ability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering Biden's extensive experience in international economic matters and negotiations, I believe he has a solid understanding of trade issues. While global trade is complex and often unpredictable, his background suggests he is capable of making informed decisions. However, political divisions and unforeseen economic shifts can impact his effectiveness, which makes me somewhat confident rather than very confident. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

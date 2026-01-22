@@ -1,0 +1,62 @@
+{
+  "question": "Compared with 20 years ago, do you think the financial situation of average people in your country is better, worse, or do you think there has been no change?",
+  "options": [
+    "Better",
+    "Worse",
+    "No change",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Over the past 20 years, many countries have experienced economic shifts, inflation, and changing job markets that can influence households' financial well-being. In some countries, there has been notable improvement due to technological advances, increased wages, and social programs, while in others, income disparity and cost of living increases have made it more difficult for the average person to maintain or improve their financial status. Without knowing specific national circumstances, it's challenging to definitively say that overall financial situations have universally improved or worsened. Generally, considering the broad global trends of rising living costs and economic pressures faced by many, it seems plausible that the typical household's financial situation has not seen significant improvement for many people over the past two decades. Therefore, I believe that there has been no significant change overall.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past two decades, many countries have experienced economic growth, technological advancements, and improved access to education and healthcare for some segments of the population. However, this growth has not always been evenly distributed, and in many cases, income inequality and rising costs of living have led to financial hardships for a significant portion of the population. As a result, while some individuals may be better off, a substantial number of people still face financial challenges, and overall, the average financial situation has not improved uniformly across the country. Considering these factors, it's reasonable to conclude that, on average, people's financial situations have worsened or remained stagnant rather than improved substantially for most.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, the financial situation of the average person in my country has generally improved due to economic growth, increased wages, and better access to financial services. Although there are still challenges such as income inequality and rising living costs, overall, many people today enjoy a higher standard of living compared to two decades ago. This trend suggests that most would perceive their financial situation as better than it was. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the evidence from different perspectives, the overall trend appears mixed. While economic growth and increased access to financial services suggest some improvement, issues like income inequality and rising costs mean many people may not have experienced better financial conditions. The divergence of opinions suggests the situation is complex, but if I weigh the evidence leaning toward positive change, I believe that, on average, people's financial situation has improved overall in recent years. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the mixed perspectives and the complexity of economic changes over the past 20 years, I believe that, on the whole, the financial situation of the average person in my country has remained relatively stable. While some individuals may have experienced improvements due to economic growth and technological advancements, others have faced challenges like rising costs and broader inequality. Overall, these opposing trends suggest that, for most people, there hasn't been a clear or consistent improvement or worsening in financial well-being. Therefore, I think there has been no significant change.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the various economic trends over the past 20 years, including technological progress and growth in some sectors alongside rising living costs and income inequality, the overall financial well-being of the average person varies. While there may have been improvements for certain groups, evidence suggests that in many countries, the typical household has not experienced significant progress, and economic pressures may have kept many in a stagnant or worsened financial situation. Given the broad consensus that the overall situation has not markedly improved for the majority, I believe the most accurate assessment is that the financial situation has stayed relatively the same overall for the average person.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the complex economic developments over the past two decades\u2014including periods of growth, technological advancements, rising costs, and increasing income inequality\u2014it appears that the financial situation of the average person has not experienced a universally positive or negative shift. While some individuals may have benefited, many others face stagnant or deteriorating circumstances. Overall, the evidence suggests that, for the majority, there has been no significant change in their financial well-being compared to 20 years ago.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Over the past 20 years, economic indicators and social data suggest a mixed picture. While some segments of the population have benefited from technological advancements and economic growth, many others face stagnation or worsening conditions due to income inequality and rising costs of living. The evidence points toward no clear, uniform improvement for the average person, with experiences varying significantly across different groups. Given the broad consensus that widespread improvement has not occurred, I believe the most accurate assessment is that the financial situation has stayed relatively the same overall for the average person.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the diverse experiences over the past two decades, the economic landscape has evolved unevenly. While some segments of the population have benefited from economic growth, technological progress, and increased financial access, others have faced rising costs, stagnation, or widening inequality. This suggests that the overall impact on the average person's financial situation may be more balanced or mixed. Given the evidence of both improvements and setbacks, I lean toward the view that, on the whole, there has been no significant change in the financial situation of the average person. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

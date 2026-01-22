@@ -1,0 +1,62 @@
+{
+  "question": "Here are some different political and social actions that people can take. Please indicate, for each type of action, whether: you have done this in the past year, you have done this in the more distant past, you have not done this but might do it, or you have not done this and would never, under any circumstances, do it...signed a petition about a political or social issue?",
+  "options": [
+    "Have done in the past year",
+    "Have done in the more distant past",
+    "Have not done, but might do",
+    "Have not done and would never do"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that signing a petition is a meaningful way to express my opinions and support causes I care about. I have recently signed petitions to advocate for social justice and environmental issues, which makes me feel involved and driven to contribute. While I have not signed petitions very frequently in the distant past, I remain open to doing so in the future if I find a cause that resonates with me. I do not consider myself opposed to signing petitions; rather, I see it as a simple and effective form of civic engagement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have signed a petition about a political or social issue in the past year because I believe that collective action can be effective in raising awareness and influencing change. I find it a straightforward way to participate in civic engagement and express my opinions. Given the importance of voicing concerns, I am consistent in my participation and see signing petitions as a meaningful form of activism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have signed a petition about a political or social issue in the past year because I am generally engaged with current issues and want to contribute to causes I believe in. I find signing petitions an accessible way to voice my opinions and support change without requiring significant time or resources. Therefore, I am confident that my experience aligns with recent activism. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have signed a petition about a political or social issue in the past year because I believe that collective action can be effective in raising awareness and influencing change. I find it a straightforward way to participate in civic engagement and express my opinions. Given the importance of voicing concerns, I am consistent in my participation and see signing petitions as a meaningful form of activism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have signed petitions in the past year because it is an accessible and effective way for me to support causes I care about without requiring significant time or effort. I believe that participating in petition signing allows me to contribute to social change and express my opinions on important issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have signed petitions about social and political issues in the past year because I believe that signing petitions is an effective way to support causes I care about and to participate in civic engagement. It allows me to voice my opinions and feel connected to the broader community efforts for change. Since I have recently engaged in this activity and see it as a meaningful action, I would choose the option indicating I have done this in the past year.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that signing petitions remains an activity I have recently engaged in, as I find it an accessible and effective way to support causes I care about and participate in civic engagement. Therefore, I would choose the option indicating I have done this in the past year.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have signed a petition about a political or social issue in the past year because I believe that collective action can be effective in raising awareness and influencing change. I find it a straightforward way to participate in civic engagement and express my opinions. Given the importance of voicing concerns, I am consistent in my participation and see signing petitions as a meaningful form of activism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have signed a petition about a political or social issue in the past year because I believe that collective action can be effective in raising awareness and influencing change. I find it a straightforward way to participate in civic engagement and express my opinions. Given the importance of voicing concerns, I am consistent in my participation and see signing petitions as a meaningful form of activism.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

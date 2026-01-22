@@ -1,0 +1,60 @@
+{
+  "question": "Let's start by thinking about the growing ties between the economies of your country and other countries.  Do you think the trend toward a global economy is a good thing or a bad thing for our country?",
+  "options": [
+    "Good",
+    "Bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the trend toward a global economy is a good thing for our country because it can lead to increased trade, investment, and innovation. By engaging more deeply with other nations, we have the opportunity to expand our markets, create jobs, and access new technologies. While there are challenges such as economic competition and the need to protect local industries, the overall benefits of being part of a connected global economy can strengthen our economy and improve our citizens' standards of living.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the trend toward a global economy is generally a good thing for our country. Increased economic integration can lead to more trade opportunities, access to new markets, and the sharing of innovative technologies. This can boost our industries, create jobs, and improve overall living standards. While there are challenges like increased competition and economic risks, the benefits of collaboration and growth typically outweigh these issues, making the global economy a positive development for our country's prosperity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the trend toward a global economy is a good thing because it can lead to increased trade, access to a wider variety of goods and services, and opportunities for businesses to grow internationally. This interconnectedness can also foster cultural understanding and cooperation among countries. However, it's important to manage this growth carefully to ensure that local industries are protected and that the benefits are shared broadly. Overall, the advantages of a more integrated global economy outweigh the potential downsides, making it a positive development for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the trend toward a global economy can bring significant benefits to our country, such as increased trade opportunities, access to innovative technologies, and economic growth. These factors can create jobs and improve living standards. While there are challenges to manage, the overall advantages of international cooperation and economic integration seem to outweigh the negatives. Therefore, I think this trend is a positive development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the trend toward a global economy is a good thing for our country. Engaging in global trade and investment can boost economic growth, create jobs, and provide access to a wider range of goods, services, and technologies. While it\u2019s important to address challenges like protecting local industries, the overall benefits of increased interconnectedness and opportunity make this trend positive for our nation\u2019s development. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the trend toward a global economy is beneficial for our country because it opens up more opportunities for trade, investment, and technological advancement. Engaging with other nations can help expand our markets, create jobs, and lift living standards, despite some challenges like increased competition. Overall, the positive effects of economic growth and collaboration make this trend advantageous.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the trend toward a global economy is generally beneficial for our country. Increased engagement in international trade and investment can stimulate economic growth, generate employment opportunities, and facilitate access to new technologies and innovations. Although there are challenges to manage, such as protecting local industries from unfair competition, the overall advantages of interconnectedness and expanded markets support the idea that this trend is positive for our nation's development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the trend toward a global economy is beneficial for our country because it offers increased opportunities for trade, investment, and technological progress. These interactions can help expand markets, create jobs, and boost living standards, contributing positively to our economic development despite some challenges such as increased international competition. Overall, the advantages seem to outweigh the negatives, making this a favorable trend for our nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the trend toward a global economy is beneficial for our country because it can lead to increased trade, technological advancements, and economic growth. These benefits can create jobs and improve living standards, making our nation more competitive and connected in the world. While there are challenges to address, such as protecting local industries, the overall positive impact outweighs the negatives. Embracing globalization can open new opportunities that support our country's development and prosperity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "As you may know, the United States and the European Union are negotiating a free trade agreement called the Transatlantic Trade and Investment Partnership, or TTIP. Do you think this trade agreement will be a good thing for our country or a bad thing?",
+  "options": [
+    "Good",
+    "Bad",
+    "Haven't heard enough (VOL)",
+    "Neither good or bad (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the TTIP could be a good thing for our country because it may promote economic growth, create jobs, and strengthen international relationships. However, I am also aware that free trade agreements can have complicated effects on local industries and regulations, so I am not completely certain about all potential impacts. Given that, I think I haven't heard enough to form a definite opinion, but I lean towards the positive aspects if managed well.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the TTIP could be beneficial because it has the potential to boost economic growth, create jobs, and strengthen international cooperation between the U.S. and the EU. A well-crafted trade agreement can open up markets, reduce tariffs, and promote fair trade practices, which ultimately can be good for the country's economy. However, I am aware that such agreements can also raise concerns about regulatory standards, job security, and environmental protections, so I think it's important to carefully consider the specifics of the deal. Overall, if negotiated transparently and inclusively, TTIP could be a positive development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the TTIP could be beneficial for our country because it has the potential to boost economic growth, create new jobs, and strengthen international relationships with the European Union. Greater market access and streamlined regulations might also lower costs for consumers and businesses. However, I am cautious about possible risks such as compromises on environmental and labor standards. Overall, I see the potential benefits as outweighing the risks, provided that proper safeguards are in place. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the TTIP has the potential to benefit the country by boosting economic growth, creating jobs, and strengthening international relationships with the EU. While there are concerns about certain standards and protections, with appropriate safeguards, the overall impact could be positive. Therefore, I think it would be a good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that the TTIP could bring significant economic benefits such as increased trade, job creation, and stronger international partnerships. However, I am also aware of concerns related to potential impacts on local industries, environmental standards, and labor protections. Since these issues are complex and involve many factors, I feel I haven't heard enough to form a fully informed opinion but lean towards it being a positive development if properly managed and safeguards are maintained.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that a free trade agreement like TTIP could have significant benefits for the country, such as promoting economic growth, creating jobs, and strengthening international relationships. At the same time, I recognize that there are complexities and potential downsides, particularly regarding regulatory standards and local industry impacts. Since I do not feel I have enough detailed information to fully assess all the implications, I think I haven't heard enough to make a definite judgment. Therefore, I lean toward having insufficient information to determine whether it is good or bad without further details.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that while the TTIP has the potential to bring economic benefits such as increased trade and stronger international partnerships, I am also aware of concerns related to environmental standards, labor protections, and impacts on local industries. Given the complexity of these issues and the lack of detailed information I currently have, I feel I haven't heard enough to make a fully informed judgment. I would need to learn more about the specific provisions and safeguards before forming an opinion. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that international trade agreements like TTIP can offer benefits such as economic growth, job creation, and stronger alliances with trading partners. However, I am also aware that such agreements can have complex implications, including concerns over standards, regulations, and impacts on local industries. Given the mixed considerations and the need for more detailed information on the specific provisions of TTIP, I feel I haven't heard enough to form a definitive opinion. Therefore, I choose to acknowledge my need for more information before making a judgment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the TTIP could have positive effects on our country by promoting economic growth, increasing trade opportunities, and fostering stronger international relationships with the EU. While I recognize there are valid concerns about standards and protections, I think with appropriate safeguards, the potential benefits outweigh the risks. Therefore, I consider it a good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Pride in our country?",
+  "options": [
+    "Very good influence",
+    "Good influence",
+    "Bad influence",
+    "Very bad influence",
+    "No influence (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Since 1991, my country has undergone significant political, social, and economic changes that have impacted national pride in complex ways. On one hand, advances in democracy, improved standards of living, and increased global presence may have boosted pride among many citizens. On the other hand, challenges such as economic inequality, political instability, or social divisions might have dampened patriotic feelings for some. Overall, I believe these changes have mostly had a positive influence, fostering a sense of progress and opportunity that enhances pride in our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The changes since 1991 have had a mixed impact on pride in our country. While some economic and social advancements have improved living standards and global perceptions, there have also been challenges such as political instability, corruption, and social divisions that have at times eroded national pride. Overall, I believe the influence leans towards the positive, as improvements and progress have generally fostered a sense of hope and achievement, even if not universally felt. Therefore, I would choose a good influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Since 1991, my country has experienced significant political, economic, and social changes, which have had diverse effects on national pride. For some, these transformations have fostered a sense of progress and development, boosting pride and optimism about the country's future. For others, these changes may have led to disillusionment, inequality, or instability, which could diminish pride. Overall, I believe that on balance, the changes have been more positive than negative, contributing to a good influence on pride in our country. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that since 1991, the changes in my country have generally had a positive impact on pride. While there have been challenges, the overall progress in economic development, social reforms, and increased international recognition have fostered a sense of hope and achievement among many people. These improvements tend to enhance national pride, even if not everyone benefits equally. Therefore, I choose a good influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Since 1991, my country has experienced profound political and social changes that have generally strengthened national identity and pride. These developments, including democratization, increased integration into the global community, and economic growth, have fostered a sense of progress and achievement among many citizens. While some challenges remain, the overall impact on pride has been positive, inspiring hope and a collective sense of success. Therefore, I believe the changes have had a good influence on pride in our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Since 1991, my country has experienced substantial changes that have influenced pride in a generally positive direction. Democratic reforms, economic growth, and increased international recognition have contributed to a sense of national progress and achievement. While there remain challenges such as social inequalities and political issues, the overall trend has been one of development that fosters pride. Therefore, I believe these changes have had a good influence on pride in our country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the substantial political, social, and economic changes in my country since 1991 that have generally fostered a sense of progress, increased international recognition, democratic reform, and economic growth, I believe these developments have positively influenced pride in our country. While challenges remain, the overall effect has been one of enhancement rather than deterioration of national pride. Therefore,\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The changes since 1991, including democratic reforms, economic growth, and increased international recognition, have generally fostered a sense of national progress and achievement. Despite ongoing challenges, these developments have contributed positively to national pride by enhancing how citizens view their country's progress and status globally. Therefore, I believe these changes have had a good influence on pride in our country.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Since 1991, my country has undergone significant political, economic, and social transformations. These changes, such as democratization, economic development, and increased global engagement, have generally contributed to a stronger sense of national pride. While challenges and inequalities still exist, the overall trend has been one of progress that inspires hope and collective achievement. Therefore, I believe these changes have had a good influence on pride in our country.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...U.S. President Barack Obama.",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have a generally positive view of Barack Obama\u2019s leadership regarding world affairs. During his tenure, he was perceived as a diplomatic and measured leader, often emphasizing multilateralism and diplomacy. While opinions varied, I personally had a fair amount of confidence in his ability to do the right thing on global issues, although I recognize there were moments of criticism and skepticism from others. Overall, I feel a good level of trust based on his international policies during that period.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose B, some confidence, because during Barack Obama's presidency, he demonstrated diplomatic efforts and engaged in global initiatives, but also faced challenges and criticisms regarding his foreign policy decisions. This mix of actions lends me some confidence that he generally aimed to do the right thing in world affairs, but perhaps not with unwavering certainty.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B, some confidence, because during his time in office, President Obama generally sought diplomatic solutions and showed an ability to work with international partners, which instilled a fair amount of confidence in his approach. However, there were also instances of criticism regarding certain foreign policy decisions, which prevents full confidence. Therefore, I believe he deserved some confidence rather than a lot or none at all.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Barack Obama demonstrated a balanced approach to foreign affairs, emphasizing diplomacy and international cooperation, which fosters some confidence in his intentions and actions. While he faced criticism at times, overall, he appeared committed to doing the right thing in world affairs, making me lean toward some confidence rather than a higher or lower level.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that during Barack Obama's presidency, he demonstrated diplomatic leadership and a focus on multilateral cooperation in international affairs. While he showed generally positive intentions and achieved notable successes, there were some controversial decisions and criticisms from various perspectives. Considering these factors, I feel that I have some confidence in his ability to do the right thing regarding world affairs, but I am not fully convinced enough to rate it as a lot of confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Barack Obama generally demonstrated a diplomatic and measured approach to global affairs, striving to promote diplomacy and multilateral solutions. While he faced some criticisms and challenges, his efforts to address international issues give me a fair sense of confidence that he intended to do the right thing in world affairs. Therefore, I would choose B.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Barack Obama showed diplomatic leadership and aimed for multilateral cooperation in international affairs, which suggests a generally positive approach. However, considering some criticisms and controversial decisions during his presidency, I do not feel fully confident in his ability to always do the right thing regarding world affairs. Therefore, I think that I have some confidence but not a lot.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Barack Obama generally demonstrated a diplomatic and measured approach to global affairs, striving to promote diplomacy and multilateral solutions. While he faced some criticisms and challenges, his efforts to address international issues give me a fair sense of confidence that he intended to do the right thing in world affairs. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Barack Obama demonstrated a focus on diplomacy, international cooperation, and multilateral efforts during his presidency. While he did face some criticism and controversial decisions, his overall approach suggested a genuine intent to do the right thing in world affairs. Given this, I feel that I have some confidence in his ability to handle global issues responsibly, although I do not see him as having a high level of confidence. Therefore, I select:\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

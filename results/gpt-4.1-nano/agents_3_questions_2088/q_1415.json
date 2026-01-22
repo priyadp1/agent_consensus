@@ -1,0 +1,62 @@
+{
+  "question": "Over the past 20 years, do you think family ties in your country have become stronger, weaker, or do you think there has been no change?",
+  "options": [
+    "Stronger",
+    "Weaker",
+    "No change",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, trends in many countries suggest a decline in the strength of family ties, largely due to factors like increased mobility, urbanization, and changing social norms. While in some communities familial bonds may remain strong, overall, the evidence points toward weakening family connections in many societies. Therefore, I believe family ties have become weaker over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, many societies have experienced shifts in family dynamics due to technological advances, globalization, and changing social norms. In some countries, these factors have led to weakening family ties as individuals become more socially and geographically dispersed, and traditional structures evolve. However, in other contexts, family bonds may have remained strong or even strengthened as families adapt to new challenges. Overall, considering global trends and societal changes, I believe family ties have generally become weaker in many parts of the country over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, many societies have experienced shifts due to globalization, urbanization, and changing social norms. In several countries, family ties might have weakened because of increased mobility, individualism, and differing values among younger generations. However, some communities continue to prioritize strong family bonds, cultural traditions, and collective support. Overall, considering global trends and social transformations, it seems that family ties have generally become weaker over this period. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, societal changes such as globalization, urbanization, and evolving social norms have significantly impacted family dynamics. These factors tend to promote individualism and mobility, which can lead to the weakening of family ties as people become more dispersed and autonomous. While some communities may still maintain strong familial bonds through cultural traditions, the overall trend appears to favor a decline in family cohesion. Therefore, I believe family ties have generally become weaker in my country over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the global and societal trends over the past two decades\u2014such as increased mobility, urbanization, individualism, and changing social norms\u2014it appears that family ties have generally weakened in many countries. While some communities and cultures maintain strong familial bonds, the overall evidence points toward a trend of diminishing family connections. Therefore, I believe family ties have become weaker over this period. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past two decades, societal changes such as increased mobility, urbanization, and evolving social norms have generally contributed to a weakening of family ties in many countries. While strong bonds may still exist within certain communities, the overall trend points toward diminished familial connections on a broad scale. This is supported by evidence of families becoming more geographically dispersed and traditional structures adapting to new social realities. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, societal trends such as increased mobility, urbanization, and shifting social norms have generally led to a weakening of family ties in many countries. These changes often result in families being more geographically dispersed and less tightly knit, although some communities may maintain stronger bonds. Overall, the evidence suggests that family connections have become weaker over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, many social and cultural shifts such as globalization, urbanization, and increased mobility have contributed to changes in family dynamics. These trends often lead to families becoming more geographically dispersed and individuals prioritizing personal independence, which can weaken family ties. While some communities may maintain strong bonds through tradition, the overall pattern suggests a decline in the strength of family connections. Therefore, I believe family ties have generally become weaker in my country over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, numerous societal changes such as globalization, urbanization, increased mobility, and shifting social norms have influenced family dynamics. These factors often lead to greater individualism and physical dispersion of family members, which can weaken familial bonds. While cultural traditions in some communities may sustain strong family ties, the overall trend globally and in many countries points toward a decline in family cohesion. Therefore, I believe family ties have generally become weaker in my country over this period.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of groups and organizations. Tell me how much confidence you have in each group to do the right thing for India - a lot, some, not too much, or no confidence at all...our national government",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that confidence in the national government can vary based on recent leadership, policies, and overall governance performance. If I think the government has demonstrated integrity, effective decision-making, and a genuine commitment to the country's welfare, I would have a lot of confidence. If I have doubts about transparency and efficacy, I might lean towards some confidence or less. Given the current context and the mixed perceptions many people have about governance, I might feel cautiously hopeful but still reserved. Therefore, I choose \"some confidence\" because I acknowledge efforts but remain aware of challenges and areas needing improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in our national government to do the right thing for India. While I believe they have the potential and some good intentions, I also recognize challenges such as bureaucratic hurdles, political disagreements, and issues of governance that can hinder consistent decision-making. Therefore, I trust them to an extent, but not entirely.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some confidence in our national government to do the right thing for India. While there are ongoing challenges and areas needing improvement, I believe that with proper leadership and a focus on the country's welfare, the government can make decisions that benefit the nation overall. However, I remain cautious and believe that trust should be earned through consistent positive actions. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while the national government has the potential to act in the country's best interest, there are significant hurdles such as political divisions, bureaucratic inefficiencies, and inconsistent policies that make it difficult to fully trust their capacity to always do the right thing for India. Therefore, I have some confidence but with reservations about their ability to consistently deliver positive outcomes. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the national government has the potential to do the right thing for India, but given the current political climate, challenges, and public perceptions, my confidence is moderate. While I acknowledge efforts towards development and reform, I remain cautious about issues like transparency and effective governance. Therefore, I have some confidence that the government can act in the country's best interest, but I also recognize the need for continuous accountability and improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the national government has the responsibility and potential to do what is best for India. While they may face challenges such as bureaucratic delays and political disagreements, I think they generally aim to serve the country's interests. Given the complexities involved in governance and the efforts made, I feel a moderate level of confidence but remain cautiously optimistic about their capacity to do the right thing.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have moderate confidence in the national government\u2019s ability to do the right thing for India. Based on the given descriptions, I recognize their potential and efforts toward development, but also observe challenges such as transparency issues and bureaucratic hurdles that create uncertainty. This cautious optimism leads me to select a middle ground, indicating some confidence but with reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the national government has the potential and responsibility to act in the country's best interest. While there are challenges such as political disagreements and bureaucratic delays, their efforts towards the country's development and stability indicate a general intention to do the right thing. Therefore, I have some confidence but remain aware of the obstacles they face.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the national government has the potential to act in India\u2019s best interests, but there are evident challenges such as political divisions, bureaucratic inefficiencies, and issues related to transparency and governance. These factors make me cautious, leading me to have some confidence overall, recognizing both efforts and limitations. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": " Thinking about long-range foreign policy goals, how much priority, if any, do you think each of the following should be given? r. Aiding refugees fleeing violence around the world",
+  "options": [
+    "Top priority",
+    "Some priority",
+    "No priority",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Aiding refugees fleeing violence globally is a moral imperative and reflects a compassionate approach to international responsibility. Prioritizing this helps stabilize regions, demonstrates leadership, and upholds human rights. Although other foreign policy issues are also critical, addressing humanitarian crises should be a top priority to promote peace and security worldwide.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe aiding refugees fleeing violence around the world should be given some priority in long-range foreign policy. Addressing humanitarian crises is important for moral reasons and can also promote stability in regions that could otherwise become sources of further conflict or migration issues. While it might not always be feasible to prioritize it above all other concerns, it warrants significant attention and resources. Therefore, I think it deserves some priority, but not necessarily the topmost level.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe aiding refugees fleeing violence should be considered a top priority because it aligns with humanitarian principles and promotes international stability. Addressing the plight of refugees can prevent regional conflicts from escalating further and upholding moral responsibilities to those in urgent need. While other foreign policy goals are important, the immediate care and protection of vulnerable populations should take precedence in shaping long-term commitments. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe aiding refugees fleeing violence should be given some priority in long-range foreign policy. Humanitarian concerns are vital, and supporting vulnerable populations can lead to regional stability and prevent future conflicts. While it may not always be the topmost issue, it remains an essential aspect that requires attention and resources.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe aiding refugees fleeing violence should be a top priority because addressing humanitarian crises is essential for promoting global stability, protecting vulnerable populations, and upholding moral responsibilities. Prioritizing this issue demonstrates compassion and leadership in international relations, helping to prevent further conflicts and human suffering.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Given the importance of addressing humanitarian crises and the potential for refugee aid to promote global stability and human rights, I believe aiding refugees fleeing violence should be given top priority. Prioritizing this goal aligns with moral responsibilities and can have long-term positive effects on international peace and security, making it essential to treat it as a primary focus of long-range foreign policy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe aiding refugees fleeing violence should be given some priority. While addressing global conflicts and human rights is important, there are also other critical long-term foreign policy goals that require attention, such as economic development and security strategies. Prioritizing aid to refugees is essential but should be balanced with other national and international interests, making it a significant but not necessarily top priority.\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe aiding refugees fleeing violence should be given some priority in long-range foreign policy. While addressing humanitarian crises is critically important for moral reasons and promoting stability, it may not always be feasible to prioritize it above all other strategic concerns; nonetheless, it remains an essential issue that warrants consistent attention and resources. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe aiding refugees fleeing violence should be given some priority in long-range foreign policy. While it is a critical humanitarian issue that contributes to regional stability and moral responsibility, it may not always be the highest priority compared to broader strategic or economic concerns. Prioritizing this issue appropriately balances compassion with practical policy considerations, ensuring resources are allocated effectively while maintaining international moral commitments.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

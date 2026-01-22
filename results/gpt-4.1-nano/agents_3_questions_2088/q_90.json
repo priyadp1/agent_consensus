@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. c. Democratic Coalition (PASOK & DIMAR)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Democratic Coalition (PASOK & DIMAR) because I see it as a coalition that attempts to represent centrist and social-democratic views, but I am uncertain about its effectiveness and current relevance in Greek politics. This makes me lean toward a moderate view rather than highly favorable or unfavorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Democratic Coalition, as I see it as a moderate political force that can bring some stability and represent a segment of voters who seek pragmatic solutions. However, I am not very enthusiastic about it, as I believe it may lack a strong enough platform to significantly influence policy changes. Therefore, I would choose B. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "E",
+        "raw_output": "I do not have a current opinion on the Democratic Coalition (PASOK & DIMAR) as my knowledge is limited to information available up to October 2023. Therefore, I cannot confidently categorize my view as very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable. Given this, I would select DK/Refused to reflect my lack of recent or specific insight on this political coalition.\n\nANSWER: E",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Democratic Coalition. I see it as a moderate force that could contribute to political stability and represent a specific segment of voters interested in pragmatic policies. While I recognize its potential, I also think it may not have enough influence or a strong enough platform to enact significant change. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "E",
+        "raw_output": "Given that the Democratic Coalition (PASOK & DIMAR) is currently less prominent in Greek politics, and my knowledge is limited on recent developments or public opinion, I do not have sufficient information to form a clear opinion. Therefore, I would select DK/Refused to acknowledge this lack of recent insight.\n\nANSWER: E",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Democratic Coalition because I see it as a centrist and social-democratic alliance that aims to represent moderate voters. While I recognize its potential to contribute to political stability, I am also aware of its limited influence and current challenges within Greek politics. This leads me to a moderate stance rather than a very favorable or unfavorable view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the limited information about the Democratic Coalition (PASOK & DIMAR) and its current political standing, along with both a lack of strong support and some recognition of its moderate, centrist policies, I find that I have a somewhat favorable impression. I acknowledge that it plays a role in representing moderate voters and fostering political stability, even if its influence is limited at present. Therefore, I would select a moderate position reflecting this view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Democratic Coalition. I view it as a moderate and centrist alliance with the potential to contribute to political stability by representing a specific segment of voters interested in pragmatic policies. While I recognize its value, I also believe it faces challenges and may not hold enough influence to bring about significant change.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "E",
+        "raw_output": "My knowledge of the Democratic Coalition (PASOK & DIMAR) is limited, and given current political dynamics and recent developments, I do not have enough information to form a well-informed opinion. Therefore, I choose to select DK/Refused.\n\nANSWER: E",
+        "model_failed": false
+      }
+    }
+  ]
+}

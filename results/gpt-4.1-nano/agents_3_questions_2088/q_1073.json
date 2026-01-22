@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____? g. Jordanian King Abdullah II",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose a \"somewhat favorable\" opinion because Jordanian King Abdullah II is generally viewed positively for his efforts in promoting stability and modernization in Jordan, though opinions may vary depending on political and regional factors. This indicates a moderate level of support without being extremely enthusiastic or critical.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "E",
+        "raw_output": "I do not have personal opinions, but I can provide an analysis based on publicly available information. King Abdullah II of Jordan has generally been viewed positively by much of the international community for his efforts to maintain stability and promote development in Jordan, especially considering regional challenges. However, opinions among different populations may vary depending on political, economic, and social factors. Since the question asks for a subjective opinion, and I do not hold personal views, I am unable to select an option that reflects a personal stance.\n\nANSWER: E",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I choose option B because many people view King Abdullah II generally favorably due to his efforts in maintaining stability and advocating for moderate reform in Jordan, though some may have reservations about political issues or regional stability. This reflects a somewhat positive but not overwhelmingly enthusiastic opinion. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the information provided and the general international perception of King Abdullah II as a stable and moderate leader, I would choose a somewhat favorable opinion. While acknowledging that opinions can vary among individuals and regions, the overall tone seems cautiously positive. Therefore, my choice reflects a moderate, appreciative view without strong enthusiasm or negativity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of King Abdullah II because he has actively worked towards maintaining stability and promoting modernization in Jordan, which are generally viewed positively. However, there are also regional and political complexities that temper overly enthusiastic support, making a moderate endorsement appropriate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on how many people view King Abdullah II positively for his efforts in stability and development, and considering the general favorable international perception, I would align with a somewhat favorable opinion. Although opinions can vary, the overall sentiment appears to lean towards support rather than negativity.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that King Abdullah II has played a significant role in maintaining stability and pursuing modernization in Jordan, which many view favorably. While there are regional and political complexities that influence opinions, overall, his leadership is generally perceived positively internationally. Given this context, I would consider my opinion to be somewhat favorable. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the international perception of King Abdullah II as a stable and moderate leader, and the common view that he is generally respected for his efforts in promoting stability and development in Jordan, I would classify my opinion as somewhat favorable. This reflects a positive outlook while recognizing that opinions about political leaders can vary and may not be strongly enthusiastic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that King Abdullah II is generally perceived as a stable and moderate leader who works towards maintaining regional stability and modernization efforts in Jordan. While there are regional challenges and complexities, these do not significantly diminish his overall image as a pragmatic and moderate ruler. Therefore, I have a somewhat favorable opinion, recognizing his positive contributions but also acknowledging regional political realities.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

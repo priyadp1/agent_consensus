@@ -1,0 +1,63 @@
+{
+  "question": "Now thinking about our economic situation, how would you describe the current economic situation in your country - is it very good, somewhat good, somewhat bad or very bad?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the economic situation in my country is somewhat bad because while there might be some positive signs such as job opportunities or economic growth in specific sectors, overall, many people are facing financial difficulties, inflation is impacting cost of living, and uncertainty remains about future stability. Therefore, I would categorize the current situation as not very bad, but definitely not good either, which aligns with somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the economic situation is somewhat bad because while some sectors show resilience, overall economic indicators like inflation rates and unemployment levels suggest ongoing challenges that impact everyday life negatively.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the economic situation is somewhat bad because while there are some signs of recovery, many people still face financial difficulties, high inflation, and uncertain employment prospects. The overall economic indicators suggest improvement but not enough to be considered very good yet.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the current economic situation in my country is somewhat bad because, despite some signs of recovery, many people still face financial difficulties, high inflation, and uncertain employment prospects, indicating that the overall economic condition is improving but not to a satisfactory or very good level yet. Therefore, I choose an option that reflects ongoing challenges rather than optimism.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the various reports of ongoing financial difficulties, high inflation, and uncertain employment prospects despite some signs of recovery, I would describe the current economic situation in the country as somewhat bad. The overall indicators suggest that while there are positive elements, they are not yet strong enough to classify the situation as good or very good. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the current economic indicators such as inflation, unemployment, and overall household financial stress, I feel the situation is more negative than positive. While there may be some signs of resilience or growth in specific sectors, the widespread difficulties and uncertainty suggest the economy is not performing well. Therefore, I would categorize it as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the overall reports of financial struggles, high inflation, and uncertain employment prospects, my perception aligns with a view that the economic situation is challenging. Despite some positive signs in certain sectors, the widespread difficulties indicate that the economy is not currently performing well, and therefore I would describe it as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the concerns raised about ongoing financial difficulties, high inflation, and uncertain employment prospects, along with signs of only partial recovery and persistent challenges, I believe the economic situation remains somewhat negative. While there are improvements in some areas, the overall picture suggests the economy is not yet good and continues to face significant issues.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the current economic conditions and the reports of ongoing financial difficulties, high inflation, and uncertain employment prospects, I believe the situation is still problematic but not entirely dire. There are some signs of recovery, but overall, the economic environment remains challenging. Therefore, I would describe it as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

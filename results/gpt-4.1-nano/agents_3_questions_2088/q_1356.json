@@ -1,0 +1,63 @@
+{
+  "question": "Now I'd like to ask your views about some political leaders in our country. Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...Rahul Gandhi?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Rahul Gandhi because, while I acknowledge his role in the political landscape, I perceive that he has limitations in leadership effectiveness and decision-making. This influences my view to be somewhat unfavorable rather than very unfavorable, but I do not hold a very favorable or completely unfavorable stance overall.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe my opinion of Rahul Gandhi is somewhat unfavorable because while he is a prominent figure in Indian politics and associated with the Congress party, his leadership and policies have received mixed reviews, and he has faced criticism for his political strategies and effectiveness. Given this mixed perception, I am leaning towards a somewhat unfavorable view rather than very unfavorable or very favorable. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose a somewhat favorable opinion of Rahul Gandhi because he is recognized as a prominent political figure in India and has a significant influence within his party and among his supporters. However, opinions about him are mixed due to varying perceptions of his leadership and policies, so a neutral or slightly positive stance seems appropriate. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rahul Gandhi because he is a prominent political leader with significant influence in the Indian political landscape. While he has faced criticism and mixed perceptions regarding his leadership and policies, I believe that his position and recognition within the party and among supporters suggest a generally positive view, though not strongly so. Therefore, I lean towards a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rahul Gandhi because I recognize his significance as a prominent political leader in India, but I also have reservations about his leadership effectiveness and the perceived decision-making capacity. This results in a moderately positive view overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe my opinion of Rahul Gandhi is somewhat unfavorable because, although he is a significant figure in Indian politics and associated with the Congress party, his leadership qualities and policies have received mixed reviews, and he has faced criticism for his political strategies and effectiveness. This leads me to an overall somewhat unfavorable view rather than very unfavorable or very favorable.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rahul Gandhi because I recognize his importance as a political figure in India, but I also have reservations about his leadership style and effectiveness, which makes my view moderately positive but not strongly so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rahul Gandhi because he is a prominent leader who plays an important role in Indian politics, especially within the Congress party. While I recognize that he has faced criticism and mixed reviews regarding his leadership and policies, overall his influence and recognition suggest that my view leans toward a somewhat positive assessment rather than negativity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Rahul Gandhi because I recognize his importance in Indian politics and his influence within the Congress party. However, I also have some reservations about his leadership effectiveness and decision-making skills, which prevent me from viewing him very positively. Therefore, I lean toward a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

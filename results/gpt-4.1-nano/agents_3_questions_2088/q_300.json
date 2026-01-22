@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of several statements about the role of religion here and elsewhere. For each statement, please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the statement...Religious leaders should play a larger role in politics",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that religious leaders should not play a larger role in politics because such involvement can blur the separation between church and state, potentially leading to policies that favor specific religious views over inclusive governance. Politics should be guided by secular principles to ensure fairness and representation for all citizens, regardless of their individual beliefs. An increased role for religious leaders might also undermine the neutrality necessary for effective and unbiased policymaking. Therefore, I mostly disagree with the idea of religious leaders playing a larger role in politics.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders should have a cautious yet meaningful role in politics. They can offer valuable moral guidance and reflect societal values, especially on ethical issues. However, it is important to maintain separation between religion and state to ensure that policies serve all citizens fairly, regardless of their faith. Therefore, I lean towards a moderate position, suggesting that while religious leaders can contribute constructively, their involvement should not be excessive to preserve political neutrality and inclusivity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders should have some influence in politics, especially in representing moral and ethical values that can guide policies. However, I also think that their role should be balanced with secular authority to ensure fairness and inclusivity for people of all beliefs. Therefore, I mostly agree that they should play a larger role, but not to the extent of full dominance or exclusive influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders can offer valuable moral guidance and reflect societal values, but it is important to maintain a separation between religion and government to ensure fairness and inclusivity for all citizens. Therefore, I mostly agree with the idea that they should have a somewhat larger role in politics, as long as their influence remains balanced with secular authority.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders can contribute valuable moral perspectives to politics, but their influence should be carefully balanced to avoid undermining the secular foundation of governance. I think they should have some influence, but not dominate political decision-making, to ensure fairness and inclusivity for all citizens regardless of belief. Therefore, I mostly agree that religious leaders should play a larger role in politics.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders should have a role in politics, but it needs to be carefully balanced. While they can provide moral guidance and reflect societal values on ethical matters, increasing their influence risks blurring the separation between religion and government, which is essential for fair and inclusive policies. Therefore, I mostly agree to acknowledge the potential benefits while cautioning against excessive involvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders can contribute valuable moral perspectives to politics, but their influence should be carefully balanced to avoid undermining the secular foundation of governance. It is important that they have some influence, but not dominate political decision-making, to ensure fairness and inclusivity for all citizens regardless of belief. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders can provide valuable moral guidance and reflect societal values, which can contribute positively to policymaking. However, it is crucial to maintain a clear separation between religious influence and government to protect fairness and inclusivity for all citizens. While I see some benefits in their involvement, I think it should be limited and carefully balanced. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that religious leaders can offer valuable moral guidance and reflect societal values, but it is important to maintain a separation between religion and government to ensure fairness and inclusivity for all citizens. While some influence might be beneficial, it should not be overwhelming or dominate political processes, as this could threaten secular governance and pluralism. Therefore, I mostly agree with the idea that they should have a somewhat larger role in politics, as long as their influence remains balanced with secular authority.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Would you say that U.S. aid to Egypt is mostly military aid, mostly aid to help Egypt develop economically or both equally? ",
+  "options": [
+    "Mostly military",
+    "Mostly to help Egypt develop economically",
+    "Both equally"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Egypt historically has been a combination of military assistance and economic aid, but a significant portion has traditionally been allocated towards military support to maintain regional stability and counter extremism. Although the U.S. also provides aid to promote economic development, the scale has often been smaller compared to military aid. Therefore, it leans more towards being mostly military, while still including meaningful economic assistance.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Egypt historically includes both military assistance and economic support, but the scale and emphasis have varied over time. Since the 1979 Egypt-Israel Peace Treaty, the U.S. has provided significant military aid to Egypt, particularly for maintaining regional stability and Egypt's role as a strategic partner in the Middle East. At the same time, economic aid has also been given to support development projects, economic reforms, and social programs, but generally on a smaller scale compared to military aid. Overall, military aid has historically been the primary component of U.S. assistance to Egypt, although economic aid remains an important aspect. Therefore, I believe the aid is mostly military.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United States provides substantial military aid to Egypt, including advanced weaponry, equipment, and training, which has been a longstanding aspect of their relationship. However, there is also significant economic aid aimed at development projects, infrastructure, and economic reforms to support Egypt's stability and growth. Historically, military aid has generally overshadowed economic aid in terms of sheer volume, but both types play important roles. Given the prominence of military assistance in the overall U.S. aid package to Egypt, I consider it to be mostly military, even though economic aid is also substantial.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Egypt has historically been heavily weighted toward military assistance, including advanced weaponry, training, and strategic support, especially since the Egypt-Israel Peace Treaty. While economic aid is also provided to support development projects, its scale and emphasis tend to be smaller relative to military aid. This has remained a consistent pattern over time, with military aid generally overshadowing economic support in terms of volume and strategic importance. Therefore, I believe the aid is mostly military.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that U.S. aid to Egypt is primarily focused on military assistance, as historically a significant portion of the aid has been allocated to military hardware, training, and support to maintain regional security and counter threats. While economic aid is also provided, it tends to be smaller in comparison and often serves to complement the security objectives. Therefore, I consider the aid mostly military.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the historical focus of U.S. assistance to Egypt, it has consistently been heavily weighted toward military aid, primarily to support regional security and strategic interests. Although economic aid has been part of the relationship, it generally constitutes a smaller portion compared to military support. Given this context, my view aligns with the majority that U.S. aid to Egypt is mostly military.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Egypt has historically been heavily skewed toward military assistance, including hardware, training, and strategic support, which indicates a primary focus on security and regional stability. While economic aid exists, it generally makes up a smaller portion compared to military aid, and its purpose is often to complement security goals rather than drive the overall aid package. Therefore, I believe that U.S. aid to Egypt is mostly military.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Egypt has historically been heavily weighted toward military assistance, including the provision of advanced weaponry, military training, and support for regional security interests. While economic aid exists to promote development and stability, it generally accounts for a smaller share of the total aid package. The strategic importance of military support to U.S. interests in the region has maintained this focus, making it the predominant form of aid. Therefore, my view is that U.S. aid to Egypt is mostly military.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "U.S. aid to Egypt has historically been dominated by military assistance, including the provision of advanced weaponry, military training, and strategic support, especially following the Egypt-Israel Peace Treaty. While economic aid does exist to support development initiatives, it generally represents a smaller portion of the overall assistance and is often aligned with security objectives rather than economic growth alone. Given these factors, the primary emphasis has been on military aid rather than economic development. Therefore,\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

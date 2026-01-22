@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, for each, please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of the Ukrainian military very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the influence of the Ukrainian military is very good because their efforts have helped protect the country's sovereignty and defend its people against aggression. Their resilience and strategic actions have contributed to maintaining stability and security in the region, which benefits the entire nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the Ukrainian military's influence is somewhat good because their efforts have helped defend the sovereignty of Ukraine and maintain stability in the region, which can be viewed positively in the broader context of international security. However, ongoing conflict and associated hardships also suggest that their impact is not entirely beneficial and may have negative consequences for the country's stability and the well-being of its citizens.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The Ukrainian military has played a crucial role in defending the country's sovereignty and territorial integrity amidst ongoing conflict. Its efforts are often seen as essential for maintaining national stability and resisting external aggression, which many consider to be a positive influence for the country's future. Despite the hardships and costs involved, the overall perception is that the military's influence is beneficial in safeguarding national independence.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the Ukrainian military's influence is somewhat good because they have been vital in defending Ukraine's sovereignty against external threats, which supports national stability and security. However, ongoing conflict, casualties, and hardships also suggest that their impact isn't entirely positive, and there are negative consequences associated with the conflict. Therefore, I see their influence as beneficial but with some negative aspects.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the influence of the Ukrainian military is very good because they play a vital role in defending the nation's sovereignty and protecting its people from external threats. Their efforts help maintain stability and security, which benefits the entire country despite the ongoing conflict and hardships faced. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the influence of the Ukrainian military is somewhat good because their efforts are essential in defending the country's sovereignty and maintaining stability amid ongoing conflict. While their actions help protect the nation, the prolonged conflict and hardships also indicate there are challenges and negative consequences associated with their influence. Therefore, I see their impact as largely positive but acknowledge some difficulties.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the influence of the Ukrainian military is somewhat good because they play an essential role in defending the country\u2019s sovereignty and maintaining stability during a difficult and prolonged conflict. While their efforts are largely positive, there are also challenges and hardships associated with their influence, which prevents it from being entirely beneficial. Therefore, I see their impact as largely positive but acknowledge some difficulties.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the influence of the Ukrainian military is somewhat good because their efforts are crucial in defending Ukraine's sovereignty and maintaining stability amidst ongoing conflict. While their actions help protect the nation, the prolonged conflict, casualties, and hardships also reflect some negative consequences. Overall, their impact appears beneficial but with noticeable challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the Ukrainian military's influence is somewhat good because, while they are essential in defending the country's sovereignty and maintaining stability, the ongoing conflict has also caused hardships and casualties that highlight some negative aspects of their impact. Their work is crucial but complicated by the broader consequences of war.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

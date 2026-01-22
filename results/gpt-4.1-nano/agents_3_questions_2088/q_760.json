@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem, or not a problem at all...moral decline.",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a significant issue because it can erode trust, social cohesion, and ethical standards within a society, potentially leading to increased crime, corruption, and a general sense of instability. While some may see it as less urgent compared to economic or health crises, moral decline can undermine the foundation of a nation and threaten its long-term well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a very big problem because it undermines trust, social cohesion, and the foundation of a fair society. When moral standards slip, it can lead to increased corruption, crime, and discord among people, making it harder to maintain a stable and just community. Addressing moral decline is essential to fostering a healthy, ethical environment for current and future generations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a significant concern because it can undermine the social fabric, trust, and shared values that hold society together. When moral standards erode, it often leads to increased crime, corruption, and social disintegration, which can have long-lasting negative effects. While some might see this as a moderate issue, I think it is fundamentally a very big problem because of its pervasive impact on all aspects of society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a very big problem because it affects the core values that hold society together. When moral standards diminish, trust in institutions and among individuals can weaken, leading to an increase in corruption, crime, and social instability. This erosion can undermine the foundation of a fair and just society, making it crucial to address.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a very big problem because it can significantly weaken the social fabric, lead to increased crime and corruption, and undermine trust and shared values that are essential for a stable and functioning society. When moral standards decline, it can have profound long-term impacts on social stability and national well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a very big problem because it can weaken social trust, promote corruption, and diminish the ethical standards that hold a society together. When morality declines, it can lead to increased crime and social discord, ultimately threatening the stability and long-term health of the country. Addressing this issue is crucial for fostering a cohesive, fair, and trustworthy community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a very big problem because it affects the foundation of a healthy society. When moral standards decline, trust erodes, corruption can increase, and social cohesion is weakened. This can lead to higher crime rates, social division, and long-term instability, making it essential to address this issue to protect the values and stability of the nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a very big problem because it threatens the ethical foundations essential for a stable and just society. When people's moral standards weaken, it can lead to increased corruption, crime, and social disintegration, making it difficult to maintain trust and cohesion within the community. Addressing moral decline is vital to ensure a healthy, trustworthy, and harmonious society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe moral decline is a very big problem because it impacts the core values, trust, and social cohesion necessary for a stable society. When moral standards weaken, it can lead to increased corruption, crime, and social instability, ultimately undermining the foundations of fairness and justice that are vital for a healthy nation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. d. Golden Dawn (XA)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Golden Dawn is a far-right political organization known for its controversial and often extremist views. Public opinion on such groups tends to be sharply divided due to their association with nationalism, xenophobia, and sometimes violence. If I have a negative opinion of them, I might see them as dangerous or harmful to social harmony. Conversely, if I have a positive view, I might support their political stance or ideology. Without specific context, I would likely have a somewhat unfavorable opinion given their reputation and the general public sentiment towards extremist groups. Therefore, I choose the option indicating a somewhat unfavorable view.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Golden Dawn has been widely associated with far-right extremism and nationalist ideologies, often linked to controversial and sometimes violent actions. Public opinion about such groups tends to be negative due to their reputation and history. Unless someone has a particular reason to support or favor them, most likely they would view them unfavorably. Therefore, I lean toward selecting very unfavorable as a reflection of general public sentiment toward Golden Dawn.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I do not have personal opinions; however, based on general public perception, Golden Dawn has been widely associated with far-right extremism and has faced legal issues and accusations of violence, leading many to view it unfavorably. Therefore, the most fitting choice reflecting this common perception would be very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Golden Dawn is widely associated with far-right extremism, nationalist ideology, and has faced significant legal and social controversy including accusations of violence and ties to extremist activities. These factors have contributed to a predominantly negative perception among the public. Given this context, most individuals would likely hold a very unfavorable opinion of the group rather than a more moderate or positive stance.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the widespread public perception of Golden Dawn as a far-right extremist group with associations to violence and legal issues, and considering that most people tend to view such organizations unfavorably, I believe the most accurate reflection of general opinion would be a very unfavorable stance. While some may hold a somewhat unfavorable view, the prominent negatives associated with the group suggest the stronger negative is more appropriate.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given Golden Dawn's clear association with extremism, nationalism, and a history of controversial and violent actions, public opinion tends to be largely negative. Most individuals would likely view the organization unfavorably due to its reputation and the societal concerns surrounding its activities. Considering these factors, I would select a very unfavorable opinion to reflect the widespread negative perception.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the widespread perception of Golden Dawn as a far-right extremist group with associations to violence, legal issues, and its controversial reputation, most people tend to view the organization unfavorably. Considering this, a very unfavorable opinion best reflects the general public sentiment.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Considering the extensive public controversy, legal issues, and associations with extremism and violence that Golden Dawn has faced, the overall perception among the public is predominantly very unfavorable. Therefore, I would choose the option reflecting a very negative opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the extensive negative associations of Golden Dawn with extremism, violence, and legal controversies, public opinion is predominantly unfavorable. While a small segment might hold a less severe view, the overall perception tends to be very unfavorable. Therefore, the most accurate choice reflects a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

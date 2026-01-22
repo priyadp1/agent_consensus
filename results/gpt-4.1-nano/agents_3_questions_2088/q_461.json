@@ -1,0 +1,62 @@
+{
+  "question": "Do you agree or disagree with the following statement? A university education is more important for a boy than for a girl.   Do you completely agree, mostly agree, mostly disagree or completely disagree?",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that a university education is equally important for both boys and girls, as it promotes gender equality, personal development, and equal opportunities in society. Limiting the importance of education based on gender perpetuates stereotypes and discriminates against individuals' rights to pursue knowledge and careers regardless of gender. Therefore, I mostly disagree with the statement, as education should have the same value for everyone.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that a university education is equally important for both boys and girls because education should be a universal right that empowers individuals regardless of gender. Promoting equality in education helps to create a fair society where everyone has the opportunity to succeed and contribute meaningfully, and no one should be deemed more deserving of educational opportunities based on gender. Discriminating based on gender diminishes the potential of individuals and hampers societal progress. Therefore, I mostly disagree with the idea that the importance of university education varies between boys and girls.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that a university education holds equal importance for both boys and girls. Education is a fundamental right and should not be differentiated based on gender, as it contributes equally to personal development, career opportunities, and societal progress regardless of whether the individual is male or female. Therefore, I mostly disagree with the idea that it is more important for a boy than for a girl.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that education is a fundamental right that should be equally accessible and important for both boys and girls. Gender should not determine the value or importance of higher education in an individual's life. Promoting equality in educational opportunities helps to build a fair and progressive society where everyone can realize their potential regardless of gender. Therefore, I mostly disagree with the idea that a university education is more important for a boy than for a girl.  \nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that a university education is equally important for both boys and girls, as it promotes equality, personal growth, and societal advancement. Limiting its importance based on gender undermines individual rights and opportunities. Therefore, I mostly disagree with the statement that it is more important for a boy than for a girl.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that a university education is equally important for both boys and girls. Education should not be determined by gender, as it plays a crucial role in personal growth, professional opportunities, and societal development for everyone. Assigning different levels of importance based on gender perpetuates outdated stereotypes and inequality. Therefore, I mostly disagree with the statement that a university education is more important for a boy than for a girl.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that a university education is equally important for both boys and girls, as it provides essential opportunities for personal development, professional growth, and societal contribution regardless of gender. Limiting or prioritizing education based on gender perpetuates inequality and stereotypes, which hinders progress toward a fair and inclusive society. Therefore, I mostly disagree with the statement that it is more important for a boy than for a girl.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that a university education is equally valuable for both boys and girls and should not be prioritized differently based on gender. Education is a fundamental right that empowers individuals regardless of gender and contributes to societal progress. Therefore, I mostly disagree with the statement that a university education is more important for a boy than for a girl.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that education should be equally important for both boys and girls, as it is fundamental to personal development and societal progress. Assigning greater importance to the education of one gender over the other perpetuates inequality and limits individual potential. Therefore, I mostly disagree with the statement that a university education is more important for a boy than for a girl.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

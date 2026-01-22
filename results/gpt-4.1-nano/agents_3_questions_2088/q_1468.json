@@ -1,0 +1,60 @@
+{
+  "question": "Do you favor or oppose changing the Imperial Household Act so that a female could succeed to the imperial throne?",
+  "options": [
+    "Favor",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing a female to succeed to the imperial throne could help modernize and adapt the tradition to contemporary values of gender equality, ensuring that the imperial succession remains viable given the limited number of male heirs. This change could also foster greater acceptance and support from the public, especially for younger generations who favor gender equality. Therefore, I favor changing the Imperial Household Act to permit female succession.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that changing the Imperial Household Act to allow a female to succeed to the imperial throne is a positive step towards gender equality and modernization of the monarchy. Given societal progress and increased awareness of gender rights, such a change could help preserve the stability and continuity of the imperial tradition while adapting to contemporary values. Therefore, I favor this change to reflect a more inclusive approach to succession rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe changing the Imperial Household Act to allow a female to succeed to the imperial throne is a positive step toward gender equality and modernizing traditions in Japan. It would provide more flexibility in succession and ensure the continuity of the imperial lineage amid declining male heirs. Supporting this change aligns with promoting fairness and adapting longstanding practices to contemporary societal values. Therefore, I favor the change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing a female to succeed to the imperial throne is a positive step toward gender equality and modernization of the monarchy. It helps address the issue of declining heirs and reflects societal progress and contemporary values. Supporting this change can ensure the continuity and stability of the imperial institution while promoting fairness. Therefore, I favor this change.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support changing the Imperial Household Act to allow a female to succeed to the imperial throne. This change promotes gender equality and modernizes Japan's imperial traditions to better reflect contemporary societal values. Given the declining number of male heirs, permitting female succession ensures the continuity and stability of the imperial lineage. It also aligns with broader efforts toward fairness and inclusivity in tradition. Embracing such reform can foster public support across generations while respecting cultural heritage. Therefore, I favor the change.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing a female to succeed to the imperial throne could help modernize and adapt the tradition to contemporary values of gender equality. It ensures that the imperial succession remains viable given the limited number of male heirs and may foster greater acceptance and support from the public, especially among younger generations who value gender equality. Embracing such a change could also reflect a progressive approach that aligns with current societal standards and promotes fairness. Therefore, I favor changing the Imperial Household Act to permit female succession.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support changing the Imperial Household Act to allow a female to succeed to the imperial throne. This change aligns with principles of gender equality and reflects contemporary societal values. It also addresses practical concerns about the succession, given the limited number of male heirs. Allowing female succession can help modernize the tradition while maintaining the continuity of the imperial line and fostering greater inclusivity and fairness within the tradition. Such reforms are important for adapting longstanding practices to current cultural and social standards.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing a female to succeed to the imperial throne aligns with principles of gender equality and modern societal values. It can also help address succession issues due to limited heirs, ensuring the continuity of the imperial institution. Supporting such a change promotes fairness and modernization, which are important for societal progress. Therefore, I favor changing the Imperial Household Act to permit female succession.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing a female to succeed to the imperial throne is a move toward greater gender equality and reflects modern societal values. It also provides a practical solution to the issue of the declining number of male heirs, helping ensure the continuity of the imperial line. Supporting this change respects cultural heritage while promoting fairness and inclusivity. Therefore, I favor this change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all. ee. immigrants traveling through our country from Central America to the United States",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The movement of immigrants traveling through our country from Central America to the United States can have various impacts. Some people see this migration as a serious issue due to concerns about border security, resource strain, or legal aspects, which might lead them to view it as a very big problem. Others may see it as a necessary humanitarian movement or a manageable issue, considering it a moderately big or small problem, respectively. Still, some might not see it as problematic at all, perhaps viewing it as a natural aspect of migration or ignoring its significance. Given these perspectives, I believe it is most appropriate to recognize that while it poses challenges, it is not necessarily a very big problem for everyone involved.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that immigrants traveling through our country from Central America to the United States can pose challenges related to border security, resource allocation, and immigration policy enforcement. However, they are also individuals seeking better opportunities and safety, which complicates categorizing the issue as purely a big problem. Generally, I see it as a moderately significant issue that requires careful management, but not necessarily a crisis. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The issue of immigrants traveling from Central America through the country to reach the United States can have various implications. Some may view it as a significant challenge related to border security, economic impact, and social services, leading them to see it as a very big problem. Others might see it as a manageable concern or a natural part of migration patterns, viewing it as a small problem or not a problem at all. Given the ongoing debates around immigration and border control, many people consider it at least a moderately significant issue, but not necessarily the most pressing problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that immigrants traveling through our country from Central America to the United States present complex issues. While there are challenges related to border security and resource allocation, these are balanced by considerations of human rights and migration rights. Considering the different perspectives, I see this as a moderately big problem that requires careful management, but not a crisis.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that immigrants traveling through our country from Central America to the United States is a complex issue. While it does pose challenges related to border security, resources, and legal matters, I do not think it is a very big problem when considering the broader scope of national issues. Many see it as a manageable concern or part of natural migration patterns. Therefore, I would classify it as a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I consider the movement of immigrants traveling through our country from Central America to the United States to be a moderately big problem. While it does involve challenges such as border security and resource management, it also involves humanitarian considerations and the reality of migration patterns. Therefore, I believe it requires careful management but is not necessarily a crisis or excessively severe issue.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants traveling through our country from Central America to the United States is a significant concern that impacts border security, resources, and legal systems. While humanitarian issues are important, the challenges they pose can strain public systems and national policies. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that immigrants traveling through our country from Central America to the United States present a significant issue that requires attention. While there are humanitarian considerations and the complexities involved, managing migration flows and border security is crucial for national planning and resource allocation. Given these factors, I see this as a moderately big problem that warrants careful management and policy responses.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I view immigrants traveling through our country from Central America to the United States as a significant issue, but not an overwhelmingly critical one. It involves important concerns about border security, resource use, and legal processes, yet it also reflects broader migration patterns and humanitarian considerations. Given these complexities, I believe it is a moderately big problem that requires careful but balanced management.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

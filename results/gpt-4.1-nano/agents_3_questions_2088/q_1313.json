@@ -1,0 +1,63 @@
+{
+  "question": "(As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...The Congress",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe the Congress is a very bad institution because it often appears divided, slow to act on crucial issues, and sometimes influenced by special interests, which can undermine public trust and the effectiveness of governance.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that the Congress's effectiveness and trustworthiness can vary depending on the current political climate and recent actions. If the Congress is seen as unproductive or corrupt, it can be considered a big problem because it hampers governance and affects public confidence. On the other hand, if it is functioning well and addressing issues effectively, it might be viewed as less problematic. Overall, given common public frustrations with politics, I would lean towards viewing it as a significant concern. Therefore, I think it is a very big problem.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe the Congress has a mixed reputation, but many people see it as problematic due to recent political disagreements, dysfunction, or lack of progress. This suggests it is reasonably considered a moderate to big problem by the public. Therefore, I would classify it as a somewhat bad or very bad situation, but not necessarily the worst. The best fit choice reflecting a significant concern is D.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the opinions of the other respondents, which suggest that the Congress's dysfunction, disagreements, and lack of progress are viewed as significant concerns, I also believe that the Congress being perceived as unproductive and problematic indicates a very big problem for the country. Public frustrations with political inefficiency and corruption support this perspective. Therefore, I would classify it as a very big problem.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe the Congress is a very bad institution because it often appears divided, slow to act on crucial issues, and sometimes influenced by special interests, which can undermine public trust and the effectiveness of governance. This indicates it is a very big problem. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe the Congress is a very bad institution because it often appears divided, slow to act on crucial issues, and sometimes influenced by special interests, which can undermine public trust and the effectiveness of governance. These issues contribute to a perception that it is a serious obstacle to effective governance and public confidence, making it a very big problem.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe the Congress is a very bad institution because it often appears divided, slow to act on crucial issues, and sometimes influenced by special interests, which can undermine public trust and the effectiveness of governance. These issues make it a very big problem.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that the Congress's ongoing dysfunction, political gridlock, and inability to address pressing issues are serious concerns that significantly impact governance and public trust. Given these challenges, I see this as a very big problem that needs urgent attention to improve the effectiveness of government and restore confidence in the political system.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "The Congress's frequent conflicts, inability to pass significant legislation, and perception of inefficiency can undermine public trust and hinder effective governance, making it a very big problem from a governance and societal perspective. Such issues can lead to frustration among citizens and reduce confidence in the political system overall. \n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

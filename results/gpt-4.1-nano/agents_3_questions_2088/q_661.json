@@ -1,0 +1,63 @@
+{
+  "question": "Would you say that each of the following is doing a very good, somewhat good, somewhat bad, or very bad job dealing with global climate change? d. China",
+  "options": [
+    "Very good job",
+    "Somewhat good job",
+    "Somewhat bad job",
+    "Very bad job",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. Although the country has made some efforts to invest in renewable energy and reduce emissions, it remains the world's largest emitter of greenhouse gases and has been criticized for not implementing more aggressive policies. The level of progress is hindered by reliance on coal and rapid economic growth, which complicates efforts to address climate change effectively. Therefore, I would rate their efforts as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. While China has made some commitments to reduce emissions and invest in renewable energy, it continues to rely heavily on coal and other fossil fuels, which are significant contributors to greenhouse gases. Additionally, its rapid economic growth and urbanization often outpace environmental policies, leading to increased pollution and environmental challenges. Overall, China's efforts are not sufficient to address the scale and urgency of climate change effectively, and there is considerable room for improvement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. While the country has made some commitments to reduce emissions and invest in renewable energy, it remains the world's largest emitter of greenhouse gases and continues to expand fossil fuel use and industrial activity. This inconsistency between efforts and ongoing practices makes its overall performance appear less effective in addressing climate change globally.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. Despite some efforts to reduce emissions and promote renewable energy, China continues to rely heavily on coal and fossil fuels, and its rapid economic growth often undermines environmental initiatives. These ongoing practices suggest that China\u2019s overall performance in addressing climate change is not sufficient and could improve significantly.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. While there have been efforts to invest in renewable energy and reduce emissions, the country's status as the world's largest emitter and its continued expansion of fossil fuel use suggest that it is not effectively addressing the problem. The gap between commitments and actual practices indicates room for significant improvement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. While the country has invested in renewable energy and made some commitments to reduce emissions, it still relies heavily on coal and continues rapid economic growth, which often takes precedence over environmental policies. The scale and urgency of climate change require more aggressive actions that China has yet to fully implement. Therefore, I would rate their efforts as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. While there are efforts to invest in renewable energy and reduce emissions, China's heavy reliance on coal, continued expansion of fossil fuel use, and ongoing priorities for rapid economic growth suggest that it is not yet effectively addressing the issue on a sufficient scale. The gap between commitments and actual practices indicates that there's significant room for improvement in their climate policies and actions.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe China is doing a somewhat bad job dealing with global climate change. While they have made progress in renewable energy investments and established some commitments to reduce emissions, their continued heavy reliance on coal and fossil fuels, along with rapid economic growth that sometimes undermines environmental efforts, indicates that their efforts are not yet sufficient. There is room for significant improvement in their climate policies and actions.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the information provided by other respondents, it appears that China is making some efforts but still falls short in effectively addressing global climate change. Their reliance on fossil fuels, despite investments in renewables, indicates ongoing challenges. Therefore, I believe China is doing a somewhat bad job.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

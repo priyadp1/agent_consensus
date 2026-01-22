@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if, in your opinion, the Bharatiya Janata Party (BJP) or the Indian National Congress (INC) party could do a better job in each of the following areas...Limiting rising prices?",
+  "options": [
+    "Bharatiya Janata Party (BJP)",
+    "Indian National Congress (INC) party",
+    "Other (VOL)",
+    "None (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my opinion, the Indian National Congress (INC) might be better positioned to address rising prices due to its focus on social welfare programs and policies aimed at controlling inflation. Historically, INC has prioritized subsidy schemes and targeted interventions to stabilize prices, which could be beneficial in this context. Conversely, the BJP has often emphasized economic reforms that may lead to short-term inflationary pressures, so I believe INC could potentially manage this issue more effectively. However, the effectiveness ultimately depends on current policies and implementation, which vary over time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my opinion, the BJP might be better equipped to handle rising prices due to its focus on economic reforms and policy measures aimed at controlling inflation. However, the INC has historically prioritized social welfare and may also implement strategies to stabilize prices through subsidies or direct intervention. Given the current economic policies and governance approach, I believe the BJP could be more effective in managing this issue at this time.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In my opinion, the Indian National Congress (INC) might be better positioned to address the issue of rising prices due to its history of implementing social welfare programs and its focus on economic policies aimed at reducing inflation and supporting the common people. The BJP, while focusing on economic reforms, has been associated with policy approaches that have at times led to price increases in certain sectors. Therefore, I believe the INC could potentially do a better job in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the Indian National Congress (INC) could do a better job in limiting rising prices because of its emphasis on social welfare and economic policies aimed at supporting the common people. Historically, the INC has implemented strategies and programs that focus on reducing inflation and controlling costs for everyday consumers. While the BJP has pursued economic reforms, some of its policies might have led to sector-specific price increases, making the INC's approach more effective in managing overall inflation and stabilizing prices for the general population.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the Indian National Congress might be better at limiting rising prices because of its historical focus on social welfare programs and targeted policies aimed at controlling inflation. While the BJP has emphasized economic reforms, these can sometimes lead to short-term increases in prices. Therefore, INC's approach could be more effective in managing inflation and stabilizing prices.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the contrasting perspectives, I believe that currently the BJP's emphasis on economic reforms and policy measures makes it better positioned to address rising prices effectively. Although the INC's focus on social welfare is important, its strategies may not directly target inflation control in the immediate term. Therefore, I lean towards the BJP's approach being more beneficial in this context.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the Indian National Congress might be better at limiting rising prices because of its focus on social welfare programs and targeted policies aimed at controlling inflation. While the BJP emphasizes economic reforms, these can sometimes lead to short-term increases in prices, making INC's approach potentially more effective in managing inflation and stabilizing costs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the BJP's focus on economic reforms and policy measures makes it better positioned to address rising prices effectively. While the INC's emphasis on social welfare supports the common people, its strategies may not directly target inflation control as effectively in the immediate term. Therefore, I lean towards the BJP's approach being more beneficial in this context.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the Indian National Congress could do a better job in limiting rising prices because of its focus on social welfare and policies aimed at supporting the common people. Historically, INC has implemented strategies that aim to reduce inflation and stabilize prices for the general population, whereas recent policies by the BJP have sometimes led to sector-specific price increases. Therefore, I think INC's approach might be more effective in managing inflation and controlling costs for consumers.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

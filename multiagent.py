@@ -1,10 +1,11 @@
-import asyncio
-
 async def agent_talk(agents, question, options, selections, run_model, max_rounds=3):
     history = []
 
+    letters = [chr(65 + i) for i in range(len(options))]
+    allowed = ", ".join(letters)
+
     option_block = "\n".join(
-        [f"({chr(65+i)}) {opt}" for i, opt in enumerate(options)]
+        [f"({letters[i]}) {opt}" for i, opt in enumerate(options)]
     )
 
     for _ in range(max_rounds):
@@ -38,16 +39,27 @@ Answer options:
 {context}
 
 Instructions:
-- Choose ONE option.
-- Respond ONLY in the format:
-  Final answer: <LETTER>
-- Do NOT add explanations or extra text.
+- Choose exactly ONE option by its letter ({allowed}).
+- Explain your reasoning.
+- The FINAL LINE of your response MUST be exactly in this format:
 
-Final answer:
+ANSWER: <LETTER>
+
+where <LETTER> is one of: {allowed}
+
+Rules:
+- Do NOT write "Final answer".
+- Do NOT include option text.
+- Do NOT include parentheses.
+- Do NOT include anything after the ANSWER line.
+- Any other format will be marked INVALID.
 """
 
-            response = run_model(prompt).strip()
-            response = " ".join(response.split())
+            response = run_model(prompt)
+            if not isinstance(response, str):
+                response = ""
+            else:
+                response = response.strip() 
             round_answers[agent_id] = response
 
         history.append(round_answers)

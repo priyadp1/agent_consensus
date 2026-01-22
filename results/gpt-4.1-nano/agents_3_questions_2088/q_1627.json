@@ -1,0 +1,62 @@
+{
+  "question": "In your country today, when it comes to ____ do you think \u2026? c. Getting high-paying jobs",
+  "options": [
+    "Men generally have more opportunities",
+    "Women generally have more opportunities",
+    "Opportunities are generally about the same for both",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In many countries, there is a perception that men tend to have better access to high-paying jobs due to historical advantages, gender biases, and occupational segregation. Although progress has been made toward equality, disparities still persist in various sectors, which can lead to the general belief that men have more opportunities in this area. Conversely, some might view the opportunities as equal or uncertain, but given prevailing societal trends and discussions, the perception that men have more opportunities remains dominant in public opinion.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In many countries, getting high-paying jobs is often influenced by factors such as education, experience, and networking. However, societal norms and gender stereotypes tend to affect perceptions and opportunities differently for men and women. Historically, men have been perceived to have a slight advantage in accessing high-paying roles, especially in certain industries or leadership positions. Despite ongoing efforts toward equality, these perceptions and realities may still influence how people view opportunities for men versus women, with some feeling that men generally have more opportunities. However, opinions may vary depending on the country's level of progress and cultural context. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my country today, when it comes to getting high-paying jobs, gender disparities are quite prominent due to longstanding social and economic factors. Men tend to have more access to such opportunities because of cultural norms, networks, and historical advantages in the workforce, although efforts are being made to promote equality. Women often face barriers such as discrimination, societal expectations, and work-life balance challenges, which can limit their opportunities for high-paying positions. Therefore, I believe that men generally have more opportunities in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my view, while progress has been made, societal norms, historical advantages, and discriminatory practices still tend to favor men when it comes to getting high-paying jobs. These factors can limit opportunities for women, who often face barriers such as gender bias, expectations related to family responsibilities, and unequal access to networks and mentorship. Therefore, I believe that men generally have more opportunities in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my country today, societal and cultural factors have historically favored men in the workforce, especially regarding access to high-paying jobs. Despite ongoing efforts toward gender equality, disparities still exist due to entrenched biases, networks, and systemic barriers that tend to benefit men more in this area. Therefore, I believe that men generally have more opportunities in getting high-paying jobs.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my country today, I believe that men generally have more opportunities when it comes to getting high-paying jobs. This perception is influenced by ongoing societal and structural factors such as gender biases, occupational segregation, and historical advantages that still seem to favor men in many sectors. Despite progress toward gender equality, these disparities continue to influence public perceptions, leading many to believe that men have a better chance of securing lucrative positions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that men generally have more opportunities when it comes to getting high-paying jobs. This perception aligns with ongoing societal and structural factors, such as gender biases and occupational segregation, which historically favor men and continue to influence the distribution of high-paying employment opportunities. Despite progress in gender equality, these systemic barriers have left many expecting that men have better chances in securing lucrative positions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that men generally have more opportunities in getting high-paying jobs because societal norms, historical advantages, and ongoing discrimination tend to favor men. Despite efforts toward equality, structural biases such as gender bias, occupational segregation, and traditional expectations still impact women's access to high-paying roles. This leads many people to perceive that men have a better chance of obtaining lucrative employment.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my view, despite some progress towards gender equality, societal norms, historical trends, and existing systemic biases still tend to favor men when it comes to accessing high-paying jobs. Women often face barriers such as gender bias, family responsibilities, and less access to influential networks, which limit their chances of attaining such positions. Therefore, I believe that men generally have more opportunities in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

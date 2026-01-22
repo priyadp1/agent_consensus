@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way...German Chancellor Angela Merkel...is dealing with U.S.-German relations?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Angela Merkel has managed U.S.-German relations with a pragmatic and diplomatic approach, maintaining strong partnerships while also advocating for Germany's interests within the broader context of NATO and the European Union. Her tenure demonstrated a balance of cooperation and independence, which I find generally positive given the complex geopolitical landscape. Therefore, I approve of her handling of these relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Angela Merkel has managed U.S.-German relations effectively, maintaining a balanced approach that prioritizes diplomacy and cooperation. Her ability to navigate complex international issues while fostering strong alliances suggests a positive handling of the relationship. Therefore, I approve of her approach.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Angela Merkel has handled U.S.-German relations with a pragmatic approach, balancing cooperation with independence to protect Germany\u2019s interests carefully. Her tenure has seen efforts to maintain strong alliances while also advocating for European autonomy, which is crucial in a complex geopolitical landscape.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Angela Merkel has managed U.S.-German relations effectively, maintaining a balanced approach that emphasizes diplomacy, cooperation, and a careful consideration of Germany\u2019s national interests. Her leadership appeared to foster strong alliances while also respecting Germany\u2019s autonomy in international affairs. Given these efforts, I approve of her handling of the relationship.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support Angela Merkel's approach to U.S.-German relations because it reflects a pragmatic and diplomatic stance that balances maintaining strong alliances with the United States and safeguarding Germany\u2019s own interests. Her leadership demonstrated a careful effort to promote cooperation within NATO and the EU while also emphasizing European autonomy, which is essential in managing complex geopolitical challenges. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of Angela Merkel's approach to U.S.-German relations because she has demonstrated a pragmatic and diplomatic strategy that balances cooperation with independence. Her efforts to maintain strong alliances while advocating for Germany's interests have contributed to a stable and constructive partnership, which I believe is beneficial for both countries and aligns with a positive handling of their relationship.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support Angela Merkel's approach to U.S.-German relations because her pragmatic and diplomatic strategies have effectively balanced cooperation with independence. Her leadership has helped maintain strong alliances, especially within NATO and the EU, while also advocating for Germany's national interests. This balanced approach promotes stability and constructive partnerships, which I view positively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of Angela Merkel's approach to U.S.-German relations because she has consistently demonstrated a pragmatic and diplomatic strategy. Her efforts to balance cooperation with independence have helped maintain a strong and stable partnership that benefits both nations. Her leadership shows a careful consideration of Germany's interests while fostering positive international relationships.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Angela Merkel has handled U.S.-German relations with a strategic and diplomatic approach. She has managed to maintain strong transatlantic ties while also emphasizing Germany\u2019s independence and European sovereignty. Her focus on cooperation within NATO and the EU demonstrates a balanced and pragmatic leadership style, which I view positively. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

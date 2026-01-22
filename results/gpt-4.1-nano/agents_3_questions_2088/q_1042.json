@@ -1,0 +1,61 @@
+{
+  "question": "Do you think that the military is making progress in its campaign against the rebels from the self-declared republics of Luhans'k and Donets'k, losing ground or are things about the same as they have been?",
+  "options": [
+    "Making progress",
+    "Losing ground",
+    "About the same"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on recent reports and analyses, the situation on the ground suggests that the military has achieved some advances, but the conflict remains largely stalemated with neither side gaining decisive ground. The ongoing fighting and territorial changes seem to indicate a mix of progress in certain areas but not a sustained or comprehensive victory, leading to an overall assessment that the situation is largely unchanged.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the recent reports and analyses, the military's progress appears to be slow and inconsistent. There have been some advances in certain areas, but overall gains are not significant, and in some instances, forces have faced setbacks or stalemates. The situation remains dynamic, but there is no clear evidence of substantial progress, nor has the military definitively lost ground as a whole. Therefore, the most accurate assessment is that things about the same are as they have been.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on recent reports and analyses, the military's progress appears to be limited, with ongoing clashes and stalled advances in key areas. There hasn't been significant territorial gains for the government forces, and some reports suggest they are facing resilient resistance. Therefore, the situation seems to have remained relatively stable or unchanged in terms of territorial control. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the recent reports indicating slow progress, some setbacks, and resilient resistance, the situation appears relatively stable with no clear gains or losses. The military's efforts seem to have resulted in a period of stalemate rather than significant advancement or retreat. Therefore, I believe that things are about the same as they have been.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the reports indicating that the military has made some advances but overall the situation remains largely unchanged with ongoing clashes and no significant territorial gains, it suggests the campaign has not resulted in clear progress nor a setback. The situation appears stable with no decisive shifts, which aligns most closely with maintaining the status quo. Therefore, I believe the situation is about the same as before.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the recent reports and analyses, the situation appears to be largely unchanged. There are some localized advances, but overall progress is inconsistent and the military faces stalemates and setbacks in various areas. There is no clear indication of significant gains nor of losing ground on a broad scale. Therefore, I believe things are about the same as they have been.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Based on the recent reports and analyses, the situation appears largely stable with no decisive territorial gains or significant setbacks. The military is experiencing some localized advances, but overall progress seems inconsistent and the front lines remain relatively unchanged. This suggests that the situation has not improved nor worsened significantly. Therefore, I believe the situation is about the same as it has been.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on recent reports and analyses indicating a state of stalemate with some localized advances and setbacks, there appears to be no significant overall progress or retreat. The military's situation seems relatively static, with no clear gains or losses dominating the campaign. Therefore, I believe things are about the same as they have been.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on recent developments and the balance of reports indicating slow or no significant change in territorial control, it seems the military campaign is neither making substantial progress nor losing ground. The situation appears relatively stable, with ongoing resistance and little shift in the front lines. Therefore, I believe the situation is about the same as it has been.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

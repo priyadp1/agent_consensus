@@ -1,0 +1,62 @@
+{
+  "question": "On a different subject, how concerned, if at all, are you about Islamic extremism in our country these days? Are you very concerned, somewhat concerned, not too concerned, not at all concerned?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat concerned about Islamic extremism currently because while it is not an immediate threat to my safety, I am aware of ongoing issues and rhetoric that can fuel fears or tensions. Staying informed about such topics makes me cautious but not overly worried. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would say I am somewhat concerned about Islamic extremism in our country these days. While I recognize it as a serious issue, I believe that sustained efforts and vigilance have helped prevent any immediate threats from escalating. My concern is genuine but not at the highest level, as I trust that protective measures are in place and effective. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe concern about Islamic extremism varies based on current events and media reports, but overall, I tend to feel somewhat concerned due to the ongoing global and national security issues. However, I also recognize that many measures are in place to prevent extremism from impacting daily life significantly. This balance leads me to select the middle option, reflecting a moderate level of concern without immediate alarm. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that while Islamic extremism remains a concern, recent efforts by law enforcement and community organizations seem to be effective in maintaining security and preventing immediate threats. My concern is moderate, balancing awareness with confidence in protective measures being in place. Therefore, I would choose the middle ground to reflect this perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that while there are ongoing concerns and risks associated with Islamic extremism, I also believe that effective measures are in place to manage and mitigate these threats. My level of concern is moderate, informed by awareness but tempered by confidence in security efforts. Therefore, I am somewhat concerned but not overly worried.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel somewhat concerned about Islamic extremism because I acknowledge that it remains a serious issue in our country. While I trust that efforts are being made to address it and that there is no immediate threat to my safety, I believe it's important to stay vigilant and aware of potential risks. My level of concern reflects a balance between awareness and confidence in ongoing measures.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that Islamic extremism remains a concern in our country, but given current security measures and efforts to address the issue, I feel that my level of concern is moderate. I am not overly worried but understand the importance of vigilance. Therefore, I am somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat concerned about Islamic extremism in our country. While I recognize that it is a serious issue, I also trust that law enforcement and community efforts are working effectively to prevent threats. Staying vigilant is important, but I feel confident in the measures in place to ensure safety. Therefore, I would select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while there are concerns about Islamic extremism, the efforts of law enforcement and community initiatives have helped to reduce immediate threats and maintain safety. My concern is moderate\u2014enough to stay aware but also confident that measures are effective. Therefore, I would select the middle option to reflect this balanced perspective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

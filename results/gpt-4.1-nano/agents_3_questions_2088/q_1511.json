@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me whether the FIRST statement or the SECOND statement comes closer to your own views \u2014 even if neither is exactly right. c. Immigrants in our country today want to adopt your nationality customs and way of life",
+  "options": [
+    "First statement",
+    "Second statement",
+    "Neither/both (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants in our country today generally want to adopt our customs and way of life, as they often come seeking integration and acceptance within our society. Therefore, I feel that the first statement aligns more closely with my views. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants in our country today generally want to adopt our customs and way of life, reflecting a desire to integrate and become part of our society rather than maintaining entirely separate cultural practices. This aligns most closely with the first statement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the first statement comes closer to my own views because I think many immigrants are eager to integrate into our customs and way of life, though not necessarily all of them. I do not find the second statement accurate because I do not think most immigrants are primarily interested in maintaining their original customs without adopting our lifestyle. Therefore, I see the idea that immigrants want to adopt our customs as more aligned with my perspective.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the provided responses and the context, I believe that the first statement closely aligns with my views. Both agents suggest that immigrants generally want to adopt the nationality customs and way of life, indicating a desire for cultural integration rather than maintaining separate traditions. I share the perspective that many immigrants are eager to adopt the customs and lifestyle of the host country, even if not all do so uniformly. Therefore, I choose the first statement as it best reflects my views.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants in our country today generally want to adopt our customs and way of life, as they often come seeking integration and acceptance within our society. While not all may do so, the overall tendency seems to be toward adopting the local culture rather than maintaining entirely separate traditions. Therefore, I feel that the first statement aligns more closely with my views.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the opinions expressed by other respondents, there is a clear tendency to believe that immigrants want to adopt our customs and way of life, suggesting they seek integration into the existing society. Given that the first statement reflects this view, I align with that perspective. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that many immigrants in our country seek to adopt our customs and way of life, as they often pursue integration and acceptance within society. The tendency appears to be toward cultural assimilation rather than maintaining entirely separate traditions, which aligns with the first statement. Therefore, I choose the first statement as it best reflects my views.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the first statement comes closer to my own views because it emphasizes the idea that many immigrants in our country aim to adopt our customs and way of life. While not all may do so immediately or completely, the general perception of desire for cultural integration aligns with my understanding of immigrant intentions. This perspective resonates more with my own beliefs about the importance of cultural adaptation and assimilation to foster social cohesion.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that many immigrants in our country today want to adopt the customs and way of life of the host country. This reflects a general tendency towards cultural integration and adaptation, even if some may choose to retain their original traditions. Given this perspective, the first statement aligns more closely with my views as it emphasizes immigrants\u2019 desire to adopt the local customs and lifestyle.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, for each, please tell me what kind of influence the group is having on the way things are going in your country.   Is the influence of the local police very good, somewhat good, somewhat bad or very bad in your country? ",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The influence of the local police in my country is somewhat bad. While they are essential for maintaining order and safety, there are concerns about corruption, abuse of power, and effectiveness in law enforcement. These issues undermine public trust and reduce their overall positive impact, leading me to view their influence as more harmful than helpful.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My opinion on the influence of the local police in my country is somewhat bad. While they are intended to maintain order and ensure safety, there are concerns about misconduct, corruption, and abuse of authority in some areas. These issues undermine trust and suggest that their overall influence is not achieving positive outcomes. Consequently, I view their impact as more harmful than helpful, reflecting a somewhat bad influence on the country's progression.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the influence of the local police in my country is somewhat good. They play a necessary role in maintaining order and safety, which helps communities function more smoothly. However, there are also concerns about corruption and abuse of power in some areas, which can undermine public trust. Overall, their impact tends to contribute positively but leaves room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the local police in my country is somewhat bad because, although they are supposed to maintain order and protect citizens, there are issues of corruption, misconduct, and abuse that undermine public trust. These problems hinder their ability to positively impact society, making their influence more harmful than helpful.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the local police in my country is somewhat bad. While they are necessary for maintaining order, issues such as corruption and abuse of power have a significant negative impact, eroding public trust and undermining their effectiveness. These problems outweigh the positive aspects of their role, leading me to view their influence as more harmful than helpful.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the local police's influence in my country is somewhat bad because, although they play an essential role in maintaining order and safety, there are significant concerns about misconduct, corruption, and abuse of authority. These issues diminish public trust and hinder effective law enforcement, leading me to view their overall impact as more harmful than helpful.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the local police in my country is somewhat bad because, while they are essential for maintaining order, concerns about corruption, misconduct, and abuse of authority are prevalent. These issues undermine public trust and hinder effective law enforcement, leading to a negative overall impact. Although they perform important functions, the negative aspects tend to outweigh the positives.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the local police in my country is somewhat bad because, while their primary role is to maintain order and ensure safety, there are widespread issues of corruption, misconduct, and abuse that erode public trust and undermine their effectiveness. These problems suggest their overall impact leans more toward being harmful than helpful.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the local police in my country is somewhat bad because, despite their important role in maintaining order, issues like corruption, misconduct, and abuse of power persist. These problems significantly undermine public trust and effectiveness, making their influence more harmful than beneficial overall.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

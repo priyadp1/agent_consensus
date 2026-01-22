@@ -1,0 +1,63 @@
+{
+  "question": "How likely are you personally to take political action on __ , such as contact an elected official or participate in a demonstration? a. poor quality schools",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not too likely",
+    "Not at all likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat likely to take political action on poor quality schools because education is a crucial issue that affects many aspects of society, and I recognize the importance of advocating for better schools. While I may not be extremely motivated to act immediately, I am open to engaging if the opportunity arises or if the issue becomes more urgent. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would say I am somewhat likely to take political action on poor quality schools because I am concerned about education issues and believe that engaging with elected officials or participating in demonstrations could help bring attention to the need for improvements. However, I may not be highly motivated or willing to do so frequently, which is why I lean towards somewhat likely rather than very likely.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B, because I believe that while I care about poor quality schools, I might prefer engaging in individual actions like discussing with others or supporting organizations over direct contact with officials or demonstrations. My level of personal willingness is moderate, showing some interest but not a strong inclination to take political action immediately. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I consider myself somewhat likely to take political action on poor quality schools because I care about education issues and believe that engaging with elected officials or participating in demonstrations can help raise awareness and advocate for improvements. While I am motivated enough to consider action, I am not sure I would be highly willing or act immediately, which puts me in the middle of the likelihood scale. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat likely to take political action on poor quality schools because education is a significant issue that directly impacts communities and future generations. I see value in advocating for better schools and am open to participating in activities like contacting officials or demonstrations if I feel the effort could make a difference or if the situation becomes more urgent. My level of willingness suggests moderate engagement rather than strong or minimal inclination.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel somewhat likely to take political action on poor quality schools because I believe that education is a vital issue that directly impacts the future of our community and society as a whole. While I may not feel compelled to act immediately or frequently, I recognize the importance of advocating for better educational resources and policies through contacting officials or participating in demonstrations when I see a pressing need or opportunity for change. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat likely to take political action on poor quality schools because education greatly affects community well-being and future generations. While I may not be highly engaged regularly, I recognize that taking action such as contacting officials or participating in demonstrations can be impactful when the issue becomes urgent or when I see a clear opportunity for change. Therefore, I choose moderate likelihood, reflecting a willingness to act when circumstances warrant. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I consider myself somewhat likely to take political action on poor quality schools because I care about education issues and believe that engaging with elected officials or participating in demonstrations can help raise awareness and advocate for improvements. While I am motivated enough to consider action, I am not sure I would be highly willing or act immediately, which puts me in the middle of the likelihood scale.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel somewhat likely to take political action on poor quality schools because education is an important issue that I believe can benefit from advocacy and public engagement. While I am motivated to act, I might need to see a pressing reason or specific event to take immediate or strong action, placing me in the middle of the likelihood scale. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

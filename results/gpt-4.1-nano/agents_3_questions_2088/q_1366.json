@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, now that Zine el-Abidine Ben Ali is not in power, is Tunisia better off or worse off? ",
+  "options": [
+    "Better",
+    "Worse",
+    "Both/neither (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The departure of Zine el-Abidine Ben Ali has led to significant political changes and a push for democratization in Tunisia. Many people see the post-Ben Ali era as an opportunity for peaceful reforms, greater political freedom, and economic renewal. However, the transition has also faced challenges such as political instability, economic difficulties, and social unrest, which have impacted the country's overall stability and development. Therefore, whether Tunisia is better or worse off depends on the perspectives of different groups and the progress made toward stability and prosperity in the post-Ben Ali period.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The transition from Zine el-Abidine Ben Ali's long-standing presidency has brought significant political and social changes to Tunisia. While some aspects, such as increased political freedom and democratic reforms, suggest that the country is better off, ongoing challenges like economic instability, security concerns, and political instability indicate that the situation is complex. Therefore, the overall assessment depends on which factors are prioritized, but many see the change as a positive step toward greater democracy despite current difficulties.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The removal of Zine el-Abidine Ben Ali from power has led to significant political reforms and increased democratic freedoms in Tunisia, which many view as positive developments. However, the country has also faced economic challenges, political instability, and security concerns since his ousting, which have impacted many aspects of daily life. Therefore, whether Tunisia is better or worse off now depends on which aspects are prioritized, but overall, the transition has opened avenues for greater political participation despite ongoing difficulties. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Tunisia is better off since the end of Zine el-Abidine Ben Ali's rule because the country has experienced increased political freedoms and steps toward democracy. Although economic and security challenges remain, the opportunity for greater citizen participation and reform is a positive development for the country's future. The progress in political liberty outweighs the ongoing difficulties at this stage. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The ousting of Zine el-Abidine Ben Ali marked a pivotal moment for Tunisia, initiating a process of political reform and increased democratic freedoms. While these positive developments represent progress, the country continues to face economic instability, political fragility, and social unrest, which have affected daily life and national cohesion. Given the complex realities, it is difficult to categorize the overall situation simply as better or worse; both positive changes and significant challenges coexist. Therefore, I believe the best assessment is that the country is both better and worse off in different respects, and the overall impact depends on one's perspective and the specific issues considered.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Tunisia is better off now that Zine el-Abidine Ben Ali is no longer in power. The end of his long dictatorship has opened the door for political reforms, increased freedom, and an opportunity for the country to pursue democratic development. While there are still economic and political challenges, the overall direction seems positive for Tunisia\u2019s future growth and stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that Tunisia has experienced significant positive changes since the end of Zine el-Abidine Ben Ali\u2019s rule, particularly in terms of increased political freedoms and steps toward democracy. However, the country still faces economic difficulties, political instability, and social unrest, which continue to impact daily life. These mixed realities suggest that while progress has been made, challenges remain, making it difficult to classify the overall situation as entirely better or worse. Considering these factors, I think the most accurate reflection is that Tunisia is both better and worse off in different respects.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Tunisia is better off now that Zine el-Abidine Ben Ali is no longer in power because the end of his dictatorship has allowed for increased political freedoms, democratic reforms, and greater citizen participation. While economic and security challenges remain, the overall progress toward democracy suggests a positive trajectory for the country's future. The opportunity for reform and greater liberty outweighs the ongoing difficulties at this stage.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Tunisia is better off since the end of Zine el-Abidine Ben Ali's rule because the country has experienced increased political freedoms and steps toward democracy. Although economic and security challenges remain, the opportunity for greater citizen participation and reform is a positive development for the country's future. The progress in political liberty outweighs the ongoing difficulties at this stage. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

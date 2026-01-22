@@ -1,0 +1,62 @@
+{
+  "question": "To what extent are you concerned that the violence in Syria will spread to neighboring countries - very concerned, somewhat concerned, not too concerned or not at all concerned?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the violence in Syria poses a significant risk of spreading to neighboring countries, especially considering the regional history of conflicts crossing borders and the instability that often accompanies civil unrest. This potential impact concerns me quite a bit, as it could lead to broader regional instability, refugee crises, and increased violence. Therefore, I would choose the option that reflects a high level of concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am quite concerned that the violence in Syria could spread to neighboring countries because instability in the region often affects surrounding nations, potentially leading to increased refugee flows, regional unrest, and spillover of violence. Given the ongoing conflicts and the interconnectedness of Middle Eastern countries, the threat feels substantial to me.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned because the violence in Syria has already led to regional instability, and there is a significant risk that it could spill over into neighboring countries, especially given their shared borders, refugee movements, and interconnected political tensions. While I recognize the complexity of the situation, I believe the potential for escalation warrants concern but not complete alarm.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am concerned about the potential for violence in Syria to spread to neighboring countries, given the complex regional dynamics, ongoing conflicts, and shared borders that could facilitate spillover effects. Although the situation is serious, I believe it warrants a high level of concern but not the utmost alarm. Therefore, I am somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the possibility of violence in Syria spreading to neighboring countries. Given the history of conflicts crossing borders, the presence of refugee movements, and ongoing regional tensions, there is a tangible risk that instability could escalate beyond Syria's borders. While I recognize the severity of the situation, I do not feel it warrants the highest level of alarm at this moment, but I do believe it is a significant concern that merits attention.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am quite concerned that the violence in Syria will spread to neighboring countries because the history of regional conflicts suggests that such unrest often transcends borders, leading to broader instability, refugee crises, and increased violence across the region. Given these factors, I believe the threat of spillover is substantial enough to warrant a high level of concern.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am quite concerned about the potential for violence in Syria to spread to neighboring countries. The historical precedent of regional conflicts crossing borders, coupled with ongoing refugee movements and regional tensions, increases the likelihood of instability escalating beyond Syria\u2019s borders. While some may see this as a serious risk, I believe the level of concern should be high given the potential consequences for regional stability and security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am quite aware of the regional dynamics and historical patterns of spillover from conflicts like in Syria. Given the ongoing instability, refugee movements, and the potential for violence to cross borders, I believe there is a significant risk that the violence could spread to neighboring countries. Therefore, I am very concerned about this possibility.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about the potential for violence in Syria to spread to neighboring countries because of regional conflicts, refugee movements, and border sensitivities that could facilitate spillover effects. While not at the highest level of concern, I recognize the risk and believe it warrants attention, but not extreme alarm. Given this reasoning, I choose to be somewhat concerned.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

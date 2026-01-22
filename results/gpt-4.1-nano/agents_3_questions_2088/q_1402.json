@@ -1,0 +1,63 @@
+{
+  "question": "For each of the following issues, how likely are you personally to take political action on it, such as contact an elected official or participate in a demonstration? e. discrimination against (ethnic/religious/racial) groups",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not too likely",
+    "Not at all likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that discrimination against ethnic, religious, or racial groups is a serious and pressing issue that many people feel strongly about addressing. Given the importance of promoting equality and justice, I am personally inclined to take political action, such as contacting officials or participating in demonstrations, to stand against such discrimination. However, depending on individual circumstances or the level of engagement one typically has, I might consider myself somewhat likely rather than very likely. Still, I recognize the significance of this issue and the role activism can play in combating discrimination. Therefore, I would choose the option that reflects a high level of willingness to act.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that discrimination against ethnic, religious, or racial groups is a serious issue that warrants public concern and action. Given the importance of promoting equality and fairness, I would consider engaging in political actions like contacting officials or participating in demonstrations to support anti-discrimination efforts. This issue likely motivates me to act, though I might not do so immediately or frequently. Therefore, I would probably be somewhat likely to take action on it.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because I think discrimination issues are important and I am somewhat inclined to take action if I see or hear about unfair treatment of ethnic, religious, or racial groups. While I may not be highly active regularly, I recognize the significance of standing up against discrimination and would be willing to engage if the situation calls for it.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that discrimination against ethnic, religious, or racial groups is a significant issue that affects societal harmony and human rights. Personally, I would be inclined to take political action such as contacting officials or participating in demonstrations if I see or hear about discrimination, especially when it reflects broader systemic problems or violations of people's rights. While I may not be highly active on a regular basis, the importance of addressing discrimination motivates me to consider engaging in political actions when necessary. Therefore, I would choose somewhat likely.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe discrimination against ethnic, religious, or racial groups is a serious issue that merits active response from concerned individuals. Given the importance of addressing injustice and promoting equality, I am personally somewhat likely to take political action, such as contacting officials or participating in demonstrations, if I see or hear about discrimination. While I may not be immediately and highly motivated to act at all times, I recognize the significance of standing against discrimination when circumstances call for it. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe discrimination against ethnic, religious, or racial groups is a significant issue that deeply impacts society. Recognizing the importance of addressing such injustices, I would be motivated to take political action, such as contacting officials or participating in protests, to support efforts against discrimination. While I may not do so immediately or frequently, I feel sufficiently compelled to consider myself somewhat likely to act in this regard. Therefore, I would choose the option that reflects that level of willingness.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe discrimination against ethnic, religious, or racial groups is a serious and pressing issue that warrants active engagement from concerned citizens. While I may not always take immediate or frequent action, I recognize that such injustice should motivate individuals to participate in political activities like contacting officials or demonstrating. Given this perspective, I feel myself somewhat likely to take action in response to discrimination when the situation calls for it. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the importance I place on addressing discrimination and my willingness to participate in political actions to support marginalized groups, I believe I am somewhat likely to take action. I recognize that discrimination is a serious issue that warrants activism, but I may not do so immediately or frequently. Therefore, my choice aligns most closely with the description of being somewhat likely.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe discrimination against ethnic, religious, or racial groups is a serious issue that affects social cohesion and justice. Personally, I am somewhat likely to take political action, such as contacting officials or participating in demonstrations, when I witness or become aware of discrimination, especially if it appears systemic or egregious. While I may not act immediately or frequently, I feel that addressing such injustices is important enough to motivate me at least occasionally to engage in political activism. Therefore, I choose B.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Now I'd like to ask your views about some additional political leaders and organizations.  Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Asif Ali Zardari?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Asif Ali Zardari. While he has played a significant role in Pakistani politics and has supporters who appreciate his efforts and leadership, I personally perceive some of his political actions and controversies as problematic. This mixed experience leads me to feel somewhat unfavorable about him overall.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I do not hold a personal opinion about Asif Ali Zardari. However, based on public perceptions and media reports, he is a controversial figure in Pakistani politics, with supporters who view him as a leader committed to his party and opponents who criticize his associations and political decisions. Given these mixed perceptions, I would place my evaluation as somewhat unfavorable, recognizing the criticisms and controversies associated with him but also understanding his influence in the political landscape.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Asif Ali Zardari is a prominent Pakistani political figure who has played a significant role in the country's politics, particularly as a former President and co-chair of the Pakistan Peoples Party. Public opinion about him tends to be polarized, with some viewing him as a leader who has contributed to the political landscape and others criticizing his association with corruption scandals and political controversies. Given this complex reputation, I would place my opinion as somewhat unfavorable, acknowledging his influence but also concerns about his governance and legacy.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a generally cautious view of Asif Ali Zardari, recognizing his prominent role in Pakistani politics and his contributions to his party and governance. However, his association with political controversies and corruption allegations has influenced my perception negatively. Given these mixed factors, I would lean towards a somewhat unfavorable opinion, acknowledging both his influence and the criticisms he faces.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that Asif Ali Zardari has had a significant impact on Pakistani politics, and opinions about him are often divided. Based on the commonly mixed perceptions and my own view that there are both positive contributions and notable controversies associated with him, I would consider my opinion as somewhat unfavorable overall.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I recognize Asif Ali Zardari as a prominent political figure with both supporters and critics. Given the mixed perceptions and controversies surrounding him, I would lean towards a somewhat unfavorable view, acknowledging both his influence and the criticisms he faces.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize Asif Ali Zardari as a significant figure in Pakistani politics who has both supporters and critics. While he has played influential roles, his tenure and controversies have led many to view him with skepticism. Given this nuanced perception, I feel that my opinion leans toward somewhat unfavorable. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize Asif Ali Zardari as a significant figure in Pakistani politics, known for his leadership and influence. However, his association with political controversies and corruption allegations has cast a shadow over his reputation. While I appreciate his role in governance, these negative perceptions lead me to a somewhat unfavorable view. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a mixed view of Asif Ali Zardari, recognizing his significant role in Pakistani politics and his contributions to governance, but also aware of the controversies and allegations that have affected his reputation. Given this balanced perspective, I lean towards a somewhat unfavorable opinion. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about your country's future, how important is it that: g. economic conditions improve? Is it very important, somewhat important, not too important or not important at all?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Economic stability and growth are fundamental to the overall well-being of a country, impacting employment, healthcare, education, and social services. When economic conditions improve, it can lead to increased opportunities, reduced poverty, and a better quality of life for citizens. Therefore, I believe it is very important for the country's future that economic conditions improve, as it lays the foundation for progress in many other areas. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Economic conditions are fundamental to a country's overall stability and progress. When the economy improves, it tends to lead to better job opportunities, higher incomes, and improved public services, all of which contribute to a more secure and hopeful future for citizens. Given these points, it\u2019s crucial that economic conditions improve to ensure a prosperous and stable future for the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Economic conditions are fundamental to everyone\u2019s well-being and stability. When the economy improves, it typically leads to more job opportunities, higher incomes, and better quality of life, which in turn contribute to social stability and progress. Therefore, I believe it is very important for my country's future that economic conditions improve.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Economic stability is crucial for overall national development and the well-being of citizens. When economic conditions improve, it can lead to more job opportunities, increased income levels, and better public services, which collectively foster social stability and future growth. Given the significant impact on individuals and the country as a whole, I believe it is very important that economic conditions improve for our country's future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that improving economic conditions is very important for the country's future because a strong economy creates opportunities for people, reduces poverty, and enhances overall quality of life. When the economy grows, it benefits many aspects of society, including employment, healthcare, and education, supporting social stability and progress. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Economic conditions are a vital foundation for a country's overall development and well-being. Improving the economy can lead to increased employment, better public services, and reduced poverty, which are crucial for a stable and prosperous future. Therefore, I believe it is very important that economic conditions improve.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that improving economic conditions is very important for the country's future because a strong economy provides opportunities for citizens, helps reduce poverty, and supports overall social stability. When the economy is healthy, it can fund public services and create a more secure environment for future growth. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Economic conditions serve as the backbone of a nation's development; improvement in this area can lead to higher employment, better public services, and overall stability, which are essential for a prosperous future. Given these impacts, it is crucial that economic conditions improve for our country's future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Economic conditions are fundamental to a nation's development and the well-being of its citizens. Improved economic stability can lead to increased employment, higher incomes, and better public services, all of which contribute to social stability and long-term growth. When the economy is strong, it provides a solid foundation for addressing other societal challenges and ensures a more prosperous future for the country. Therefore, I believe it is very important that economic conditions improve for our country's future.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

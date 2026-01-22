@@ -1,0 +1,63 @@
+{
+  "question": "In your opinion, when foreign companies build new factories in your country, does this have a very good, somewhat good, somewhat bad, or a very bad impact on our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The impact of foreign companies building new factories can vary depending on various factors such as employment opportunities, economic growth, environmental considerations, and local industry development. On one hand, new factories can create jobs, introduce new technology, and boost the economy, which would be viewed positively. On the other hand, they might lead to environmental degradation, exploitation of local resources, or undermine local businesses if not well-regulated. Overall, considering the potential for economic benefits but acknowledging some risks, I believe the impact is generally somewhat good, as it can contribute positively with certain precautions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Foreign companies building new factories can bring both opportunities and challenges. On one hand, they can create jobs, boost the economy, and introduce new technologies. On the other hand, there may be concerns about environmental impacts, local industry competition, or loss of control over critical resources. Overall, I think the impact is generally somewhat good because the positive effects tend to outweigh the negatives, especially if proper regulations are in place to manage potential drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "When foreign companies invest in building new factories in our country, it can bring both benefits and drawbacks. On the positive side, new factories can create jobs, stimulate economic growth, and introduce new technologies and skills to the local workforce. However, there are concerns about environmental impacts, potential exploitation of resources, and whether local industries might be overshadowed or replaced. Overall, the impact tends to be somewhat beneficial but not without challenges, so I believe it leans more towards the somewhat good side, balancing economic opportunities with some cautious considerations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies building new factories generally have a somewhat good impact on our country. While they can bring economic growth, employment opportunities, and technological advancements, there are concerns about environmental sustainability, resource management, and local industry competition. Overall, the benefits tend to outweigh the negatives if regulations are properly enforced, making the impact mostly positive but with some cautious considerations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies building new factories in our country generally have a somewhat good impact. They can bring economic growth, create new jobs, and introduce advanced technology, which benefits the local economy. However, there are also concerns about environmental impact and potential exploitation, so the benefits are not without some risks. Overall, the positive aspects seem to outweigh the negatives, but it is important to have proper regulations to ensure sustainable development.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies building new factories in our country generally have a somewhat good impact. While they can create jobs, promote technological advancement, and boost economic growth, there are also potential concerns regarding environmental sustainability and the effect on local businesses. With proper regulation and oversight, the positive effects can outweigh the negatives, making the overall impact more beneficial than harmful.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies building new factories in our country generally have a somewhat good impact. They can stimulate economic growth, create employment opportunities, and contribute to technological progress, which benefits our society. While there are some environmental and social concerns, these can often be managed with proper regulations and oversight, making the overall impact more positive than negative.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies building new factories in our country generally have a somewhat good impact. They can bring economic growth, create jobs, and introduce new technologies, which benefit the local economy. However, there are also concerns about environmental sustainability and the potential negative effects on local industries. With proper regulation and oversight, the positive aspects tend to outweigh the negatives, making the overall impact more beneficial than harmful.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that when foreign companies build new factories in our country, it generally has a somewhat good impact. While it can stimulate economic growth, create jobs, and bring new technology, there are also concerns about environmental sustainability and the potential for resource exploitation. Overall, with proper regulation and oversight, the positive effects tend to outweigh the negatives. Therefore, I would select option B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

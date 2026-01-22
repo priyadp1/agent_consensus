@@ -1,0 +1,62 @@
+{
+  "question": "As I read this list of countries and organizations, please tell me if each has done a great deal, fair amount, not very much or nothing at all to assist Japan with the impact of the earthquake and tsunami...China",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not very much",
+    "Nothing at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "China has taken significant steps to assist Japan following the earthquake and tsunami. The Chinese government promptly offered aid, including financial assistance, rescue teams, and emergency supplies. They also sent search and rescue personnel and provided humanitarian aid, illustrating a substantial level of support. Given these efforts, I believe China has done a great deal to help Japan in this crisis.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "China has contributed significantly in the immediate aftermath of the earthquake and tsunami, providing rescue teams, medical aid, and financial donations. Their swift action and ongoing support indicate that they have done a fair amount to assist Japan during this difficult time. While they may not have been as prominent as some other countries, their efforts are nonetheless meaningful and substantial.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "China has provided a fair amount of assistance to Japan following the earthquake and tsunami, including humanitarian aid, rescue teams, and financial support. While their efforts have been significant, they have not been characterized as a great deal compared to some other countries. Therefore, I believe their contribution aligns most closely with a fair amount of aid.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe China has provided a considerable degree of aid, including rescue efforts, medical assistance, and financial support, which helped Japan recover from the disaster. While their support was significant, it seems to fall short of the maximal level of aid, and was perhaps less extensive than some other international contributions. Therefore, I think their assistance aligns most closely with a fair amount. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on available information, China responded promptly with financial aid, rescue teams, and emergency supplies, indicating a substantial level of support. Their assistance was significant but may not have been as extensive as some other international efforts, which suggests their contribution aligns most closely with a fair amount of aid. Therefore, I believe China has done a fair amount to assist Japan.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the information provided and the general international response, China's assistance appears to have been substantial but perhaps not as extensive or sustained as some other countries. The efforts included rescue operations, humanitarian aid, and financial support, which are significant gestures. However, compared to the immediate and large-scale aid efforts by countries like the United States or regional neighbors, China's contribution might be viewed as fair rather than outstanding. Therefore, I believe the most appropriate assessment is that China has done a fair amount to assist Japan.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the international response, China provided notable assistance through rescue teams, financial aid, and emergency supplies. Their efforts were significant and helped in the immediate aftermath of the disaster. While perhaps not as extensive as some other nations like the United States, China's contribution was meaningful and demonstrated a considerable level of support. Therefore, I believe China has done a fair amount to assist Japan.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "China provided significant aid to Japan following the earthquake and tsunami, including rescue operations, medical assistance, and financial support. Their efforts were considerable and contributed meaningfully to Japan's recovery, but they may not have been as extensive or immediate as those from other countries like the United States or South Korea. Given this, their assistance can be fairly accurately categorized as a fair amount. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "China provided significant aid to Japan following the earthquake and tsunami, including rescue missions, medical assistance, and financial support. While some international aid efforts may have been larger or more extensive, China's response was clearly substantial and impactful. Given this, I believe their assistance aligns most closely with a fair amount. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

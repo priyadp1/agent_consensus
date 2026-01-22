@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of the European Commission?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I believe it plays an important role in coordinating policies across Europe and promoting economic stability. However, I also recognize that it can sometimes be slow to implement reforms and may not always represent the interests of all member states equally. Overall, my view is generally positive but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am neutral towards the European Commission because I recognize its role in regional governance but also see areas where it could improve transparency and accountability. Therefore, I would select a middle contingent of opinion, leaning towards a positive view but not wholeheartedly. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I believe it plays an important role in coordinating policies and maintaining stability within the European Union, although I have some reservations about certain decisions and its responsiveness to member states' concerns.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I appreciate its role in policymaking and maintaining European stability, but I also recognize there are improvements needed in transparency and accountability that would help strengthen public trust.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I recognize its important role in coordinating policies and promoting stability across the EU. While I appreciate these contributions, I also have some reservations about how quickly it implements reforms and whether it always represents the interests of all member states equally. My view is generally positive but with some concerns.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I believe it plays an important role in coordinating policies across Europe and promoting economic stability. While I recognize its positive contributions, I also see areas where it could improve transparency and responsiveness, so my overall view is somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I recognize its essential role in coordinating policies and ensuring stability within the EU. While I appreciate its positive contributions, I also believe there is room for improvement in transparency and responsiveness, which influences my overall view to be somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I appreciate its efforts in policymaking and promoting stability within Europe. However, I also believe that there is room for improvement in transparency and accountability to strengthen public trust. My view reflects recognition of its important role, balanced with the need for reforms.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Commission because I appreciate its role in policymaking and maintaining European stability. At the same time, I believe there is room for improvement in transparency and accountability, which could enhance public trust. My view is generally positive but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

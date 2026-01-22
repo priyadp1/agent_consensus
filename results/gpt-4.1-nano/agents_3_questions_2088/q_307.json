@@ -1,0 +1,61 @@
+{
+  "question": "As I read some proposed policies of U.S. President Joe Biden, please tell me if you approve or disapprove of each one. b. The U.S. rejoining the World Health Organization",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Rejoining the World Health Organization demonstrates a commitment to global health cooperation and pandemic preparedness, which many see as beneficial for public health and international relations. However, some folks might be cautious about the potential for increased influence of international bodies over U.S. policies or funding concerns. Overall, I tend to view this move positively because it aligns with efforts to strengthen global health and address health crises collaboratively. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Rejoining the World Health Organization can be viewed as a positive step toward international cooperation on health issues, especially in the context of global health emergencies like pandemics. It signifies re-engagement with global health efforts, potentially leading to better coordination and resource sharing. However, some may disapprove due to concerns about national sovereignty, financial costs, or disagreements with WHO policies. Overall, support for rejoining aligns with the desire to strengthen global health initiatives and collaboration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Rejoining the World Health Organization would allow the U.S. to have a more active role in global health initiatives, collaborate on disease prevention, and demonstrate international leadership. Given the importance of global health security, supporting such a move can be seen as beneficial for both the U.S. and the world. Therefore, I approve of this policy. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the World Health Organization because it represents a positive step toward international collaboration on health issues. Re-engagement can improve global health efforts, enhance disease prevention, and demonstrate leadership in addressing health emergencies, which benefits both the U.S. and the global community.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support the U.S. rejoining the World Health Organization because it promotes international collaboration on health issues, enhances global disease prevention efforts, and strengthens the U.S.'s leadership role in global health initiatives. Rejoining can contribute to better pandemic preparedness and demonstrate a commitment to global public health cooperation, which ultimately benefits both the U.S. and the international community.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the World Health Organization because it demonstrates a commitment to global health cooperation, especially important during pandemics. Re-engagement can enhance international collaboration, resource sharing, and pandemic preparedness, which benefits public health and global stability. While there are concerns about sovereignty or costs, the overall benefits of working with an international health body outweigh these issues for me.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the World Health Organization because it fosters international cooperation on health issues, helps improve global disease prevention efforts, and restores U.S. leadership in global health initiatives. Rejoining can improve pandemic preparedness and demonstrates a commitment to collaborative efforts in safeguarding public health worldwide.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the World Health Organization because engaging with this international health body can strengthen global disease prevention efforts, improve collaboration during health crises, and demonstrate leadership in addressing worldwide health challenges. Re-engagement can facilitate resource sharing and enhance pandemic preparedness, ultimately benefiting public health both domestically and globally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the World Health Organization because it facilitates international collaboration on health issues, improves global disease prevention efforts, and reinforces U.S. leadership in global health initiatives. Re-engagement can help address health emergencies more effectively and demonstrates a commitment to global public health cooperation, which ultimately benefits both the U.S. and the international community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

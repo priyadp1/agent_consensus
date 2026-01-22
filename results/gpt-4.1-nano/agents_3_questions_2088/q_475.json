@@ -1,0 +1,60 @@
+{
+  "question": "Which of the following phrases comes closer to your view?  It's good that Chinese ideas and customs are spreading here, OR it\u2019s bad that Chinese ideas and customs are spreading here.",
+  "options": [
+    "It's good that Chinese ideas and customs are spreading here",
+    "It's bad that Chinese ideas and customs are spreading here "
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is beneficial for Chinese ideas and customs to spread here because it can enrich cultural diversity, foster greater understanding, and promote global interconnectedness. Embracing such cultural exchanges often leads to a more inclusive and dynamic society. While there may be concerns about cultural differences, the overall positive impact of sharing and learning from diverse traditions generally outweighs potential drawbacks. Therefore, I see the spreading of Chinese ideas and customs as a positive development. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of Chinese ideas and customs can be positive, as it promotes cultural diversity, mutual understanding, and global interconnectedness. Embracing cultural exchange often leads to enriched communities and new opportunities for learning and growth. While there may be concerns about cultural erosion or loss of identity, the overall benefits of cultural exchange tend to outweigh these issues when managed respectfully. Therefore, I see the spreading of Chinese ideas and customs as a positive development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the spreading of Chinese ideas and customs can enrich cultural diversity and promote mutual understanding. Exposure to different cultures often leads to greater tolerance and collaboration. Therefore, I view this spread positively and consider it a beneficial development for society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of Chinese ideas and customs can be a positive development because it promotes cultural diversity, mutual understanding, and global interconnectedness. Embracing cultural exchange often leads to enriched communities and new opportunities for learning and growth. While there are potential concerns about cultural erosion, the overall benefits, when managed respectfully, tend to outweigh the negatives. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the spreading of Chinese ideas and customs can promote cultural diversity, mutual understanding, and global interconnectedness. Exposure to different traditions often fosters tolerance and collaboration, which are beneficial for society. Therefore, I see this development as positive overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that cultural exchange is generally beneficial as it can enrich societies by introducing new ideas, fostering understanding, and promoting diversity. While I acknowledge potential concerns about cultural erosion, the positive impacts of sharing and learning from Chinese ideas and customs tend to outweigh the negatives when approached with respect and openness. Therefore, I lean toward seeing the spread of Chinese ideas and customs as a positive development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the spreading of Chinese ideas and customs can promote cultural diversity, mutual understanding, and global interconnectedness. Exposure to different traditions often fosters tolerance and collaboration, which are beneficial for society. Therefore, I see this development as positive overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of Chinese ideas and customs can be a positive development because it fosters cultural diversity, mutual understanding, and global interconnectedness. Embracing these exchanges can enrich communities, promote learning, and create opportunities for positive growth. While concerns about cultural erosion are valid, I think that with respectful integration, the benefits tend to outweigh the negatives.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of Chinese ideas and customs can enrich cultural diversity, foster mutual understanding, and promote global interconnectedness. When approached with respect and openness, this cultural exchange can lead to positive benefits for communities and individuals alike. While it's important to stay mindful of preserving local identities, the overall potential for growth and learning makes this development positive in my view.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

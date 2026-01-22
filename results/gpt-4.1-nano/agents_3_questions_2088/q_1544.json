@@ -1,0 +1,60 @@
+{
+  "question": "Now I will read a list of some things that have happened in the world recently. For each one,please tell me if you've heard of it or not...the disease called bird flu found in many countries around the world. Have you heard of it or not?",
+  "options": [
+    "Yes, have heard of it",
+    "No, have not heard of it"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu because it has been widely reported in the media and health news around the world. The outbreaks in various countries have attracted widespread attention from the public and health authorities, making it a well-known topic.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of bird flu, as it has been widely covered in news reports and health updates around the world due to its outbreaks in multiple countries and concerns about potential impacts on both human and animal health. This awareness has been consistent over recent months, making it a topic I am familiar with.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu found in many countries around the world. It has been widely reported in the news and health updates, especially given concerns about outbreaks and their potential impact on both poultry and humans. Therefore, I would choose option A. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu found in many countries around the world because it has been extensively covered in news reports and health discussions, particularly due to outbreaks affecting both poultry and human health concerns. This widespread media attention has made the topic familiar to me.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu because it has received significant media coverage and health news reports globally. The outbreaks have been notable enough to attract public attention, and health authorities have issued warnings and updates about it. Therefore, I would choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu because it has been widely reported in the media and health news around the world. The outbreaks in various countries have attracted widespread attention from the public and health authorities, making it a well-known topic. Therefore, I am aware of it through recent news coverage and health updates.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu because it has been extensively covered in media and health news globally. The outbreaks have gained significant attention from both the public and health authorities, making it a well-known issue. Therefore, I would choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu because it has been frequently featured in global news reports and health updates, especially due to concerns over outbreaks impacting both animals and humans. The extensive media coverage has made the topic widely known. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have heard of the disease called bird flu because it has been widely reported in the media and discussed in health updates, especially due to its outbreaks affecting birds and potential risks to humans. Its presence in multiple countries and coverage by news outlets make it a familiar topic for many people. Therefore, I would choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...Hezbollah leader Sheik Hassan Nasrallah.",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have very little confidence in Sheik Hassan Nasrallah's ability to do the right thing regarding world affairs, as his leadership of Hezbollah often involves actions that are considered confrontational and destabilizing on the international stage. His organization has been involved in various conflicts and has complicated diplomatic relations with multiple countries, which reduces my trust in his decision-making concerning global issues.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Sheikh Hassan Nasrallah is a highly controversial figure associated with Hezbollah, an organization with complex political and military roles primarily in Lebanon and the Middle East. His leadership has been involved in regional conflicts and tensions, often aligning with Iran and other allied groups. Given his association with militant activities and the contentious nature of Hezbollah\u2019s influence on regional stability, confidence in his decision-making regarding global affairs is understandably limited. Many international observers and governments view Hezbollah with suspicion and concern, which further diminishes trust.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I would choose C because Hezbollah's leader Sheik Hassan Nasrallah is a highly controversial figure. While he is seen by some as defending Lebanese sovereignty and resisting foreign influence, his organization is considered a terrorist group by many countries and is involved in regional conflicts. This complex and often polarized perception makes it difficult to have full confidence in his judgment on global affairs, leading me to feel not too much confidence but also not entirely dismissing his intentions. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering Hezbollah's status as a controversial organization involved in regional conflicts and its designation as a terrorist group by many nations, I have limited trust in Sheik Hassan Nasrallah\u2019s judgment regarding global affairs. His decisions are often intertwined with militant activities and regional tensions that hinder stable and peaceful international relations. Therefore, I feel not too much confidence but also recognize the complexity of his position and motivations.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My confidence in Sheik Hassan Nasrallah's ability to do the right thing regarding world affairs is limited due to his involvement with Hezbollah, which is considered a terrorist organization by many countries and has been involved in regional conflicts. His actions often contribute to instability and complicate international relations, leading to doubts about his sound judgment on global issues. While some may see him as resisting foreign influence or defending sovereignty, the overall perception remains cautious and skeptical. Therefore, I would choose not too much confidence, recognizing the complexity but maintaining reservations about his global decision-making.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have little confidence in Sheik Hassan Nasrallah's ability to do the right thing regarding world affairs. His leadership of Hezbollah is often associated with actions that contribute to regional instability and conflict, and many governments and international organizations perceive Hezbollah as a militant organization involved in activities that threaten peace and security. This context reduces trust in Nasrallah's judgment on global issues.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Given the perceived involvement of Sheik Hassan Nasrallah with Hezbollah, which is widely viewed as a militant organization contributing to regional instability and conflict, I have limited trust in his ability to make decisions regarding world affairs. His actions and reputation suggest that he is more likely to act in ways that may escalate tensions rather than promote stability or constructive international relations. Therefore, I would have \"not too much confidence\" in his capacity to do the right thing on global issues.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given Hezbollah's involvement in regional conflicts and its designation by many countries as a terrorist organization, I have limited confidence in Sheik Hassan Nasrallah's ability to do the right thing regarding world affairs. His leadership often appears linked to militancy and actions that contribute to instability, which reduces trust in his judgment on global issues.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given Hezbollah's controversial status and its involvement in regional conflicts, I have limited trust in Sheik Hassan Nasrallah\u2019s judgment on global affairs. His actions often contribute to instability and security concerns, making me hesitant to have much confidence in his ability to do the right thing regarding world issues. Therefore, I choose not too much confidence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

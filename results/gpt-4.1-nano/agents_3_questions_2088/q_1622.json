@@ -1,0 +1,63 @@
+{
+  "question": "Now thinking about other issues, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements...Our way of life needs to be protected against foreign influence",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our cultural identity, values, and independence. Many see external influences as potential threats to what makes our society unique, and therefore, I am inclined to agree strongly that such protection is necessary to maintain social cohesion and national sovereignty.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to maintain our cultural identity, economic stability, and national sovereignty. While openness can foster cooperation and growth, preserving certain core values and traditions helps ensure our society remains resilient and true to its roots. Therefore, I mostly agree with this statement, as a balanced approach is necessary.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our unique cultural identity, security, and national sovereignty. While engagement with other countries can be beneficial, I think safeguarding our core values and traditions should take precedence to prevent undue interference or erosion of our societal norms. Therefore, I mostly agree with the statement, but I recognize that some openness to foreign influence can be constructive.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while engaging with the world and international cooperation are important, it is crucial to prioritize the protection of our cultural identity, values, and sovereignty from potentially harmful foreign influences. A balanced approach that safeguards our societal core while allowing for constructive interaction seems most appropriate to maintain stability and resilience. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining our cultural identity, values, and sovereignty is essential in a globalized world. While engagement and cooperation with other countries are beneficial, it is important to safeguard our core societal norms from potentially harmful foreign influences that could erode our traditional way of life. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is essential to preserve our cultural identity, values, and independence. While openness can promote cooperation, maintaining a degree of vigilance helps safeguard our societal core against potential threats that could erode our sovereignty and social cohesion. Therefore, I mostly agree with this statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our cultural identity, values, and sovereignty. While engaging with other countries can be beneficial, it is crucial to maintain a level of vigilance to ensure that external influences do not undermine our societal norms or erode our independence. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that protecting our way of life from foreign influence is important to preserve our cultural identity, values, and sovereignty. While international engagement is valuable, it is essential to safeguard societal core principles to maintain stability and social cohesion. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that safeguarding our cultural identity, values, and sovereignty against potentially harmful foreign influences is vital for maintaining social cohesion and national stability. While international engagement is important, prioritizing our way of life ensures resilience amid globalization. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

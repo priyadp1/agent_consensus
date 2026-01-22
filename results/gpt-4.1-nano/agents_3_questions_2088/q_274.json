@@ -1,0 +1,63 @@
+{
+  "question": "Overall, do you think current economic ties between the U.S. and China are very good, somewhat good, somewhat bad or very bad?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the economic ties between the U.S. and China are somewhat good because while there is significant trade and investment, there are also ongoing tensions, tariffs, and disagreements that complicate the relationship. This mixture suggests that the relationship isn't entirely positive but not entirely negative either.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the economic ties between the U.S. and China are complex and evolving. While there have been advancements and areas of cooperation, ongoing trade tensions, tariffs, and concerns about economic dependencies suggest that the relationship is strained. Therefore, I would describe the current state as somewhat bad, reflecting both potential and challenges.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the current economic ties between the U.S. and China are somewhat bad because there are significant tensions, trade disputes, and concerns over unfair practices, which hinder strong cooperation and positive economic integration. Despite some collaboration and benefits, these issues create a lot of uncertainty and mistrust, suggesting that the relationship isn't very good at this time.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I think the economic ties between the U.S. and China are somewhat bad because, despite some areas of cooperation, ongoing trade disputes, tariffs, and mutual distrust have created significant challenges. These issues hinder the development of a more positive and stable economic relationship, leading me to view it as somewhat bad overall.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the current economic ties between the U.S. and China are somewhat bad because, despite notable trade and economic cooperation, ongoing tensions, trade disputes, and concerns over unfair practices continue to create uncertainty and mistrust, hampering a more positive relationship.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the economic ties between the U.S. and China are somewhat bad. While there are areas of cooperation and mutual benefit, ongoing trade tensions, tariffs, and political disagreements create a strained relationship that is characterized by both significant interdependence and persistent conflict. This complexity suggests that the relationship is more problematic than positive but not entirely catastrophic.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the current economic ties between the U.S. and China are somewhat bad because, despite ongoing trade and economic cooperation, persistent tensions, tariffs, and disagreements continue to create a tense atmosphere that hampers stronger collaboration and mutual benefits.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the economic ties between the U.S. and China are somewhat bad because, although there are areas of cooperation and mutual benefit, ongoing trade tensions, tariffs, and political disagreements create a strained relationship that is characterized by both significant interdependence and persistent conflict. This complexity suggests that the relationship is more problematic than positive but not entirely catastrophic.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the current economic ties between the U.S. and China are somewhat bad because, despite ongoing trade and economic cooperation, persistent tensions, tariffs, and mutual distrust continue to create uncertainty and hinder the development of a more positive and stable relationship. These challenges suggest that the relationship is more problematic than positive, but not entirely negative.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country.  Is the influence of NGO's, non-governmental organizations  very good, somewhat good, somewhat bad or very bad in our country.",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "NGOs often play a crucial role in promoting social justice, environmental sustainability, and community development. When they operate transparently and effectively, they can positively influence policies, hold governments accountable, and support vulnerable populations. However, their impact varies depending on factors such as governance, funding, and political environment. In our country, many NGOs contribute significantly to social progress, but challenges like limited resources or political interference can hinder their full potential. Overall, their influence tends to be beneficial for society and progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the influence of NGOs in our country is generally beneficial because they often work to promote social welfare, human rights, and environmental protection. Their efforts can lead to positive changes in community development and help hold governments accountable. While some may argue there are concerns about their influence in certain areas, overall, their contributions tend to support progress and social betterment. Therefore, I think their influence is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "NGOs play a crucial role in supporting social issues, providing aid to marginalized communities, advocating for human rights, and promoting environmental sustainability. Their efforts often fill gaps left by government services and can foster positive community development. While there may be concerns about influence over political processes or priorities, overall, NGOs tend to contribute positively by encouraging transparency, accountability, and civic participation. Therefore, their influence in our country can be considered somewhat good, as it generally enhances social well-being and democratic engagement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that NGOs generally have a positive influence on our country by supporting social, environmental, and human rights issues, and by fostering community development and accountability. While there are some concerns about certain areas of influence, overall their contributions seem to promote progress and social betterment. Therefore, I consider their influence to be somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that NGOs in our country are making a positive difference by supporting marginalized communities, advocating for human rights, and fostering social progress. Their efforts help fill gaps left by government services and promote transparency and civic engagement. Although there are challenges such as limited resources and political interference, the overall impact appears to be beneficial for society\u2019s development. Therefore, I would choose the option that reflects a somewhat good influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the influence of NGOs in our country is generally beneficial because they often work to promote social welfare, human rights, and environmental protection. Their efforts can lead to positive changes in community development and help hold governments accountable. While some may argue there are concerns about their influence in certain areas, overall, their contributions tend to support progress and social betterment. Therefore, I think their influence is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that NGOs in our country generally have a positive influence by supporting marginalized populations, advocating for human rights, and promoting social progress. Their work helps address gaps in government services and encourages civic participation. While there are some challenges, their overall impact seems beneficial for societal development. Therefore, I would choose the option that reflects a somewhat good influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that NGOs have a generally positive influence on our country because they support important social, environmental, and human rights issues. Their efforts contribute to community development and often help hold governments accountable, which can lead to progress and social betterment. While there are some concerns about certain areas of influence, overall, their contributions seem to be beneficial and promote positive change. Therefore, I consider their influence to be somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that NGOs have a generally positive impact on our country by supporting essential social and environmental causes, advocating for human rights, and helping marginalized communities. Their work fosters social progress and accountability, even though there are some challenges such as resource constraints and political pressures. Overall, their influence seems to promote development and positive change. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about the future of your country, please tell me whether you feel generally optimistic or generally pessimistic about the following areas. e. The way our political system works",
+  "options": [
+    "Optimistic",
+    "Pessimistic",
+    "Neither (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the political system has both strengths and challenges. While it is designed to reflect the will of the people and has processes in place for checks and balances, recent events and ongoing disputes have led to a sense of distrust and frustration among many citizens. This mixture of optimism and pessimism affects how I perceive its future stability and effectiveness. Overall, I feel somewhat cautious about its current state but still hopeful that reforms and civic engagement can lead to positive change.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat pessimistic about the way our political system works because of increasing polarization, legislative gridlock, and concerns over corruption and transparency. These issues make it seem less effective and responsive to the needs of the people, leading to a sense of disillusionment about its future improvements.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe many people remain hopeful about the potential for reform and positive change within our political system, but also recognize numerous challenges such as political polarization, corruption, and inefficiencies that hinder progress. These conflicting perceptions lead me to feel unsure whether to be optimistic or pessimistic, but I lean slightly towards pessimism due to ongoing issues. Therefore, I choose to express a cautious outlook, feeling that improvements are possible but not guaranteed in the near future.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I feel somewhat pessimistic about the way our political system works because of ongoing polarization, legislative gridlock, and concerns over corruption and transparency. These issues suggest that the system may continue to face significant challenges, making it seem less responsive and effective in addressing the needs of citizens. While reforms are possible, the current state of discontent and systemic issues lead me to lean toward pessimism about its future progress.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize that there are both positive aspects and significant challenges within our political system. While reforms and civic engagement provide hope for improvement, ongoing issues like polarization and distrust contribute to a cautious outlook. Given this balanced perspective, I lean towards feeling somewhat pessimistic but not entirely. Therefore, I feel a sense of uncertainty about the future functioning of the system.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize the complexities and mixed feelings expressed about the political system. While there are valid concerns about polarization, gridlock, and trust, I also acknowledge efforts and hopes for reform and civic engagement to improve the situation. Given the nuanced perspective and the uncertainty about the future, I feel a sense of cautious optimism mixed with some skepticism. Therefore, I choose to be somewhat pessimistic about the overall functioning of the political system. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the responses, both agents acknowledge significant issues such as polarization, distrust, and gridlock, which contribute to a cautious or skeptical outlook. While there's recognition of positive efforts and hopes for reform, the overall tone leans more toward concern about current challenges and the uncertainty of future improvements. This suggests a generally pessimistic view of how the political system functions moving forward.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the current state of our political system faces significant challenges such as polarization, gridlock, and issues with trust and transparency. While there is some hope that reforms and increased civic engagement could improve the situation, the persistent problems and ongoing discontent suggest that progress may be slow or uncertain. Therefore, I feel more aligned with pessimism about how well our political system will function in the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while there are positive aspects to the political system, ongoing issues such as polarization, legislative gridlock, and concerns over corruption and transparency raise doubts about its current functionality and future prospects. These systemic problems lead me to feel generally pessimistic about how well our political system works moving forward.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

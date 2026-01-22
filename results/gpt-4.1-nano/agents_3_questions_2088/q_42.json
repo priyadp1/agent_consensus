@@ -1,0 +1,61 @@
+{
+  "question": "Do you approve or disapprove of the way President Nicolas Maduro is handling each of the following areas? d. dealing with political opposition",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My opinion on President Nicolas Maduro's handling of dealing with political opposition is that he tends to suppress dissent and restrict opposition activities, which I disapprove of because it undermines democratic processes and limits political plurality. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My reasoning is that President Nicolas Maduro's approach to dealing with political opposition has been widely criticized for its authoritarian tendencies, including the suppression of dissent, arrests of opposition leaders, and restrictions on political activity. These actions suggest a lack of openness to genuine democratic dialogue and may undermine political pluralism. Therefore, I disapprove of his handling of this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that President Maduro's approach to dealing with political opposition is generally disapproving, as it has often involved suppression of dissent, restrictions on political freedoms, and limited space for opposition parties. These actions tend to undermine democratic processes and public trust, leading to widespread concerns both locally and internationally. Therefore, I disapprove of how he handles this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe President Nicolas Maduro's approach to dealing with political opposition is characterized by suppression of dissent, restrictions on political freedoms, and limited space for opposition parties. These actions undermine democratic processes and hinder political pluralism, which leads me to disapprove of his handling of this area. His methods seem to prioritize maintaining power over fostering open political dialogue and inclusive governance. Therefore, I disapprove of his approach to handling the political opposition.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Maduro's handling of dealing with political opposition because his approach appears to involve suppression of dissent and restrictions on opposition activities, which undermine democratic principles and limit political pluralism. This behavior erodes trust in the democratic process and damages the country's political environment. Therefore, I believe his management of this area is problematic and warrants disapproval.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Nicolas Maduro's handling of dealing with political opposition because his approach appears to involve suppression of dissent, restrictions on opposition activities, and actions that undermine democratic processes and political pluralism, which hampers healthy democratic competition and limits citizens' political freedoms.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Maduro's handling of dealing with political opposition because his approach involves suppressing dissent and restricting opposition activities, which undermines democratic principles and political pluralism, and hampers political freedoms and healthy democratic competition.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Nicolas Maduro's handling of dealing with political opposition because his approach involves suppressing dissent, restricting opposition activities, and undermining democratic processes. These actions limit political freedoms and hinder democratic pluralism, which I believe is detrimental to healthy political competition and citizen participation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that President Nicolas Maduro's approach to dealing with the political opposition primarily involves suppression of dissent, restrictions on opposition activities, and limiting political pluralism. These actions undermine democratic processes and hinder the development of a healthy political environment, which leads me to disapprove of his handling of this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

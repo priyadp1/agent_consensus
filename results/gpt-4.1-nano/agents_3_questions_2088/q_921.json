@@ -1,0 +1,60 @@
+{
+  "question": "In your opinion, these days do you think there is a growing sense of Islamic identity among Muslims in our country or don't you think so? Do you think this is a good thing or a bad thing for our country?",
+  "options": [
+    "Good",
+    "Bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a growing sense of Islamic identity among Muslims in our country can be seen positively, as it may foster community cohesion, cultural pride, and moral values that benefit society. When individuals feel connected to their faith and identity, they often contribute to social harmony and mutual understanding. However, it is important that this increased identity promotes inclusivity and respect for all citizens, regardless of their backgrounds. Overall, this development, if balanced and respectful, can be a good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The growing sense of Islamic identity among Muslims in our country can have both positive and negative implications. On the positive side, it may strengthen community bonds, foster cultural preservation, and promote positive social values. However, if this increased identity leads to social division or intolerance, it could undermine social cohesion and interfaith harmony. Whether this is good or bad largely depends on how it influences the broader society and whether it promotes inclusivity and mutual respect. If managed well, it could contribute positively to societal diversity; if not, it could foster exclusion or conflict.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my view, a growing sense of Islamic identity among Muslims in our country can have both positive and negative implications. On the positive side, it can strengthen community bonds, encourage moral and ethical conduct, and foster cultural preservation. However, if this increasing sense of identity leads to exclusivity or social divisions, it could hinder social cohesion and mutual understanding among diverse groups. Therefore, whether this trend is beneficial or not depends on how it is expressed and integrated within the broader societal framework. Promoting a balanced and inclusive sense of identity can contribute positively to national unity. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a growing sense of Islamic identity among Muslims in our country can be beneficial if it encourages positive community values, cultural preservation, and social cohesion. When this identity promotes inclusivity and understanding within the broader society, it can strengthen societal bonds and foster mutual respect. However, if it leads to social divisions or intolerance, it could pose challenges to national harmony. Overall, the potential for good outweighs the negatives when managed thoughtfully. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a growing sense of Islamic identity among Muslims in our country can be a positive development if it encourages community cohesion, cultural pride, and moral values that benefit society. When such identity is expressed inclusively and respectfully, it can foster social harmony and mutual understanding. Promoting a balanced and respectful pride in one's faith can strengthen social fabric without causing division. Therefore, I consider this trend to be a good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a growing sense of Islamic identity among Muslims in our country can be beneficial if it promotes positive social values, cultural pride, and mutual respect within society. When people feel connected to their faith in a way that fosters community and moral integrity, it can contribute to social harmony and understanding. As long as this development is balanced and inclusive, it can strengthen societal cohesion rather than cause division. Therefore, I see it as a good development for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a growing sense of Islamic identity among Muslims in our country can be a positive development if it encourages community cohesion, cultural pride, and moral values that benefit society. When such identity is expressed inclusively and respectfully, it can foster social harmony and mutual understanding. Promoting a balanced and respectful pride in one's faith can strengthen social fabric without causing division. Therefore, I consider this trend to be a good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a growing sense of Islamic identity among Muslims in our country can be beneficial if it encourages positive community values, cultural pride, and mutual respect. When this identity fosters social cohesion and understanding without leading to division or intolerance, it can strengthen societal bonds and contribute positively to our national harmony. As long as it remains balanced and inclusive, I see it as a good development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a growing sense of Islamic identity among Muslims in our country can be a positive development if it encourages community cohesion, cultural pride, and moral values that benefit society. When expressed inclusively and respectfully, it can foster social harmony and mutual understanding. Promoting a balanced and respectful pride in one's faith can strengthen our social fabric without causing division. Therefore, I consider this trend to be a good thing for our country.  \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

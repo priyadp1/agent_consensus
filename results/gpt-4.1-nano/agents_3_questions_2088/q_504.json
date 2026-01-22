@@ -1,0 +1,60 @@
+{
+  "question": "As I read some specific US policies tell me if you approve or disapprove of them...US policies in the Middle East",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that US policies in the Middle East should prioritize diplomatic solutions, reducing military interventions, and supporting stability and development in the region. Many military actions have led to prolonged conflicts and instability, often harming civilians and complicating diplomatic relations. A shift towards more constructive engagement and cooperation with regional partners can foster peace and prosperity for the involved nations. Therefore, I disapprove of current policies that rely heavily on military intervention and unilateral strategies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that US policies in the Middle East should prioritize diplomacy, regional stability, and supporting human rights, rather than military intervention or aggressive tactics. Historically, some policies have led to prolonged conflict and instability, so adopting a more diplomatic and collaborative approach would likely benefit both the region and US interests. Therefore, I disapprove of many current policies that seem to escalate tensions or undermine local sovereignty.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that US policies in the Middle East should prioritize diplomatic solutions, respect for regional sovereignty, and efforts to promote stability and peace. Historically, interventions and military actions have often led to prolonged instability and suffering. Therefore, I disapprove of actions that escalate conflicts or undermine regional autonomy, favoring approaches that foster cooperation and long-term peace.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that US policies in the Middle East should focus on diplomacy, respecting regional sovereignty, and promoting stability rather than relying on military intervention, which often leads to ongoing conflict and suffering. Given the historical context of military actions causing long-term instability, I disapprove of policies that escalate tensions and undermine local autonomy, aiming instead for peaceful and cooperative solutions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that US policies in the Middle East should focus on diplomacy, respecting regional sovereignty, and promoting stability through peaceful means rather than military interventions. Past actions that emphasize military solutions have often resulted in prolonged conflict and civilian suffering, which I find unacceptable. Therefore, I disapprove of current policies that rely heavily on military force and unilateral strategies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of US policies in the Middle East that rely heavily on military intervention and unilateral strategies. Many such policies have resulted in prolonged conflicts, civilian suffering, and regional instability. A shift towards diplomacy, regional cooperation, and supporting development would be more constructive for peace and stability. Therefore, I disapprove.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that US policies in the Middle East should prioritize diplomacy, regional cooperation, and peaceful solutions over military intervention. Past reliance on military force has often led to prolonged conflicts and civilian suffering, which I find unacceptable. Therefore, I disapprove of current policies that depend heavily on military strategies and unilateral actions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of US policies in the Middle East that rely heavily on military intervention and unilateral strategies. Such approaches have often led to prolonged conflicts, civilian suffering, and regional instability. A focus on diplomacy, regional cooperation, and supporting development would be more effective in promoting peace and stability in the region.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of US policies in the Middle East that rely primarily on military intervention, as history shows such approaches often lead to prolonged conflict, civilian suffering, and regional instability. Instead, I believe a focus on diplomacy, respecting regional sovereignty, and promoting peaceful solutions is more effective for long-term stability and peace.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Now I'm going to read you some statements about President Barack Obama.  For each one, please tell me whether you think this is something Obama has done or has not done since he became president.  Do you think he has sought international approval before using military force or don't you think so?",
+  "options": [
+    "Has",
+    "Has not"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "During Barack Obama's presidency, he sought some level of international approval before taking military action. For example, in cases such as the intervention in Libya, Obama engaged with international bodies like the UN Security Council and sought allied support before proceeding. This approach reflects a tendency to consider global consensus in military decisions, although at times he also acted unilaterally. Therefore, I believe he has sought international approval before using military force.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Obama has sought international approval before using military force, as he often emphasized diplomacy and multilateral cooperation in foreign policy decisions, including military interventions. He prioritized obtaining UN Security Council backing and aligning with international allies to legitimize military actions, such as in Libya and other cases, reflecting a tendency to seek international consensus. Therefore, I think he has sought international approval before using military force.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Barack Obama has sought international approval before using military force. During his presidency, he emphasized multilateral approaches and often worked with international organizations like the United Nations, seeking their support or approval prior to military interventions, such as in Libya and in operations against terrorist groups. This approach aligns with his diplomatic style and emphasis on legitimacy through international consensus.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has sought international approval before using military force, as he consistently emphasized diplomacy, multilateral cooperation, and working with international organizations like the United Nations. His approach often involved obtaining support or legitimacy from international bodies prior to military interventions, such as in Libya, to ensure broader international consensus and legitimacy for actions taken.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Obama often sought international approval before deploying military force. His administration frequently engaged with international organizations like the UN and NATO, especially in interventions such as Libya, to garner legitimacy and support. While there were instances of unilateral action, his emphasis on multilateral cooperation indicates a tendency to seek international consensus.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that President Obama generally sought international approval before using military force, especially in cases like Libya where he engaged with international institutions such as the UN Security Council and coordinated with allies. His emphasis on diplomacy and multilateral cooperation indicates a pattern of considering global consensus prior to military interventions. Therefore, I think he has sought international approval before using military force.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Obama has sought international approval before using military force. His administration's actions, such as in Libya, demonstrate a consistent pattern of engaging with international bodies like the UN and NATO to build legitimacy and secure support prior to military intervention. His emphasis on multilateral cooperation and diplomacy suggests he values international consensus when making such decisions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the provided responses and the emphasis on Obama's diplomatic approach, multilateral cooperation, and engagement with international organizations like the UN, it appears he has sought international approval before using military force. This pattern is evident in cases such as Libya, where international consensus was sought. Therefore, I think he has sought international approval before using military force.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Obama has sought international approval before using military force because his administration prioritized multilateral diplomacy and international cooperation. This is evidenced by actions such as seeking UN and NATO support for interventions like Libya, indicating an effort to legitimize military actions through international consensus. While there may have been some unilateral decisions, the overall approach reflects a tendency to pursue international approval before military intervention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "At school of university, have you ever taken part in any course or activity about entrepreneurship \u2013 that is turning ideas into action, developing your own projects?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would select Yes because participating in courses or activities related to entrepreneurship is an effective way to develop innovative ideas into practical projects. Such experiences can enhance skills, provide networking opportunities, and boost confidence in starting new ventures. Engaging in these activities can also foster a mindset geared towards problem-solving and creativity, which are essential for turning ideas into action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have not participated in any entrepreneurship courses or activities because my academic experience has been more focused on my core subjects, and I haven't had the opportunity or initiative to engage in projects related to turning ideas into action or developing my own projects as part of my educational curriculum. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have participated in courses or activities related to entrepreneurship at my university because I believe developing entrepreneurial skills is important for turning ideas into real-world projects and fostering innovation. Engaging in such activities helps me gain practical knowledge and confidence to pursue my own initiatives.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have not participated in any entrepreneurship courses or activities. My academic focus has primarily been on my core subjects, and I have not had the opportunity or initiative to engage in projects related to turning ideas into action or developing my own projects as part of my educational experience. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have not personally participated in any courses or activities related to entrepreneurship at my university. While I recognize the value of such experiences in developing practical skills and fostering innovation, I haven't yet taken part in them myself. My focus has been on other academic or extracurricular pursuits, but I am interested in exploring entrepreneurial opportunities in the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have participated in entrepreneurship-related courses and activities at my university, which helped me learn how to develop ideas into actionable projects. These experiences provided practical skills, opportunities for collaboration, and confidence to pursue my entrepreneurial interests. Given this background, I believe engaging in such activities has been beneficial for my personal and professional growth.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have not personally participated in any courses or activities related to entrepreneurship at my university. While I recognize the importance of such experiences for developing practical skills and fostering innovation, I haven't yet taken part in them myself. I am interested in exploring entrepreneurial opportunities in the future, but for now, my participation has been limited in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have not participated in any entrepreneurship courses or activities at my university. My academic focus has primarily been on my core subjects, and I have not had the opportunity or initiative to engage in projects related to turning ideas into action or developing my own projects as part of my educational experience. Therefore, I would choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not taken part in any courses or activities related to entrepreneurship at my university. My focus has been on my core academic subjects, and I haven't had the opportunity or initiative to engage in projects that involve turning ideas into action or developing my own projects. I am interested in exploring entrepreneurial opportunities in the future, but so far, I have not participated in such activities.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

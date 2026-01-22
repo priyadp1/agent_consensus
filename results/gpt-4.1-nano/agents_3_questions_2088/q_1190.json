@@ -1,0 +1,63 @@
+{
+  "question": "In your opinion, when foreign companies buy your nationality companies, does this have a very good, somewhat good, somewhat bad, or a very bad impact on our country?\u00a0",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My opinion on the impact of foreign companies purchasing our companies depends on various factors such as the industry, the terms of the acquisition, and the broader economic context. If the foreign investment brings in much-needed capital, creates jobs, and improves competitiveness, it could be seen as beneficial. Conversely, if it leads to loss of national control, profit repatriation, or harm to local industries, the impact might be negative. Overall, I believe that while there can be some benefits, the potential drawbacks tend to outweigh the positives in most cases, making the impact somewhat bad for our country.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that when foreign companies acquire businesses in our country, it can bring both opportunities and challenges. On the positive side, such investments can lead to increased employment, technological advancement, and economic growth. However, there may also be concerns about loss of national control over key industries, potential negative social impacts, or profits being repatriated without benefiting the local economy. Overall, I think the impact is mixed, but leaning toward being somewhat good if properly regulated. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that when foreign companies invest in our national companies, the impact can vary depending on the circumstances. If the investments bring in new technology, create jobs, and boost economic growth, it can be beneficial and thus somewhat good for our country. However, if the foreign companies exploit resources or do not prioritize local interests, the impact could be negative. Overall, I tend to think that such investments are often more beneficial than harmful, but they can also pose risks if not managed properly. Therefore, I see it as somewhat good overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my view, foreign investment in our national companies can bring positive developments such as technological advancement, job creation, and economic growth. These benefits can significantly enhance our country's development if managed properly. However, there are also concerns about losing control over key industries and potential negative social impacts. Overall, I believe that with appropriate regulations and policies, the impact tends to be somewhat good, fostering growth while minimizing risks. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In my opinion, the impact of foreign companies buying our national companies is mixed. While such investments can bring beneficial technological advancements, create jobs, and improve economic growth, they also pose risks such as loss of control over strategic industries and profits leaving the country. Overall, I believe these impacts tend to lean toward somewhat good, as the benefits can be significant if managed properly, but there are valid concerns about potential drawbacks. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that foreign investments in our companies can bring significant benefits such as job creation, technological progress, and economic growth, provided they are well-regulated and transparent. However, there are valid concerns about loss of control over strategic sectors and profit repatriation which might harm local interests. Overall, considering both the positive potential and the risks involved, I think the impact tends to be somewhat good but with some caution, leaning towards the positives if managed properly.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies purchasing our national companies can have both positive and negative effects. On the plus side, such investments can lead to technological advancements, job creation, and economic growth, especially if properly regulated. However, there are concerns about losing control over key industries and profits leaving the country, which could be harmful in the long run. Overall, considering the potential benefits and risks, I think the impact tends to be somewhat good, provided appropriate safeguards are in place.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that foreign investment in our companies can bring important benefits such as technological advancement, job creation, and economic growth, which can ultimately contribute positively to our country's development. While there are valid concerns about losing control over strategic industries and potential negative social impacts, these risks can often be managed with proper regulations and policies. Overall, I think the impact tends to be somewhat good, provided that the benefits are maximized and risks minimized through effective governance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies purchasing our national companies can have a generally positive impact on our country, especially when there are regulations in place to ensure that benefits like technological growth and job creation are maximized while risks such as loss of control are minimized. Given these considerations, I think the overall impact tends to be somewhat good. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

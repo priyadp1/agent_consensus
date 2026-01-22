@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, for each, please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of corporations very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country tends to be somewhat bad. While they contribute to the economy and provide jobs, their priorities often focus on profit maximization rather than social welfare or environmental sustainability. This sometimes leads to policies or practices that harm communities, exploit workers, or damage the environment, which I see as having a negative impact on the overall well-being of the country.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country is somewhat bad because, while some corporations contribute positively through jobs and innovation, many prioritize profits over social responsibility, environmental sustainability, and fair labor practices. This leads to increased inequality, environmental damage, and policies that often favor corporate interests over the public good. Consequently, their impact tends to hinder overall societal progress rather than promote it.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country is somewhat bad because, while they contribute to economic growth and provide jobs, their focus on profits often leads to negative social and environmental consequences. Many corporations prioritize shareholder interests over the well-being of communities and the environment, which can result in increased inequality and pollution. Therefore, their overall impact is more negative than positive.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country is somewhat bad because, although they contribute to economic growth and employment, their prioritization of profits often leads to negative social and environmental effects. This focus can increase inequality, cause environmental degradation, and result in policies that favor corporate interests over the public good, ultimately hindering more sustainable and equitable progress.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country is somewhat bad because, while they contribute to economic growth and create jobs, their focus on profit often results in negative social and environmental impacts. Many corporations prioritize shareholder interests over community well-being and sustainability, which can lead to increased inequality, environmental damage, and social issues. Overall, their influence tends to do more harm than good for the country\u2019s long-term development.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country tends to be somewhat bad because, although they create jobs and drive economic growth, their focus on profit often leads to negative social and environmental consequences. This balance between economic contribution and harmful practices results in a generally unfavorable impact on society and the country's overall well-being.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country is somewhat bad because, similar to the other responses, I think that while they contribute to economic growth and employment, their priorities often result in harm to social and environmental aspects. This leads to increased inequality, pollution, and social issues, which negatively impact the country's overall development and well-being.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country is somewhat bad because, although they contribute to economic growth and employment, their prioritization of profits often leads to negative social and environmental effects. This focus can increase inequality, cause environmental degradation, and result in policies that favor corporate interests over the public good, ultimately hindering more sustainable and equitable progress.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of corporations in my country is somewhat bad because, despite their contributions to economic growth and employment, their focus on profits often leads to negative social and environmental consequences. This tendency can exacerbate inequality and cause environmental degradation, which ultimately hampers sustainable and equitable development for the country.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "As I read some policies of U.S. President Donald Trump, please tell me if you approve or disapprove of each one. a. U.S. withdrawal from international climate change agreements",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because such actions can hinder global efforts to address climate issues, potentially damage the country's reputation in international cooperation, and threaten long-term environmental sustainability. Engaging in these agreements is crucial for collective progress on climate change. Therefore, I believe it is better for the U.S. to remain committed and actively participate in international climate initiatives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because addressing climate change is a global issue that requires collective efforts. Exiting these agreements can undermine international cooperation and hinder progress on environmental protection, which is essential for sustainable development and the health of the planet. Staying engaged in such agreements helps promote responsible leadership and collaborative solutions to climate challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because such actions can hinder global efforts to combat climate change, damage international relationships, and potentially harm the long-term health of the planet. Engaging with these agreements is important for collective action and environmental sustainability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because participating in these accords is crucial for global efforts to address climate change effectively. Such actions can weaken international cooperation, potentially reduce progress on environmental protection, and undermine efforts to sustain planetary health. Remaining engaged helps promote shared responsibility and collaborative solutions to environmental challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because such actions can hinder global efforts to address climate issues, damage the country's reputation in international cooperation, and threaten long-term environmental sustainability. Remaining committed to these agreements supports collective progress on climate change and reflects a responsibility to environmental stewardship.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because such actions can undermine global efforts to combat climate change, damage the country's reputation in international cooperation, and hinder progress toward environmental sustainability. Remaining engaged in these agreements is vital for collective progress and responsible leadership on environmental issues.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because such actions can undermine global efforts to combat climate change, damage the country's reputation in international cooperation, and hinder progress toward environmental sustainability. Remaining engaged in these agreements is vital for collective progress and responsible leadership on environmental issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because participating in these accords is essential for global cooperation to effectively address climate change, promote environmental sustainability, and uphold the country's responsibility as a leader on environmental issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of the U.S. withdrawal from international climate change agreements because global cooperation is essential to effectively combat climate change, and such actions can undermine international efforts, harm the environment, and damage the country's reputation in addressing critical global issues. Remaining engaged in these agreements promotes shared responsibility and collective progress towards environmental sustainability.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

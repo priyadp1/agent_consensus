@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. b. Hungarian Socialist Party (MSZP)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have a current opinion about the Hungarian Socialist Party (MSZP), but historically, the party has been a significant player in Hungary's political landscape, often representing center-left policies. Based on general knowledge of its role and reputation, I would lean towards a somewhat favorable view, assuming a moderate appreciation for its contributions and policies, though there may be differing opinions among the population. Therefore, I select the option indicating a moderate positive sentiment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but based on general observations, the Hungarian Socialist Party (MSZP) has historically been a significant political force in Hungary, particularly in the post-communist era. Public opinion about MSZP can vary depending on the political climate, recent policies, and leadership. If I were to gauge general public sentiment, many might view the party somewhat favorably due to its role in Hungarian politics, though some may see it unfavorably due to past associations or current policies. Therefore, a moderate positive stance seems most appropriate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I would choose C because while I see some efforts by the Hungarian Socialist Party, I have concerns about its effectiveness and current policies, leading me to feel somewhat unfavorable but not outright negative. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Hungarian Socialist Party (MSZP). Based on their historical significance and engagement in Hungarian politics, I see value in their role, but I also recognize criticisms and concerns about their effectiveness and policies that temper my enthusiasm. Therefore, I believe a somewhat favorable view best captures my perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have moderate familiarity with the Hungarian Socialist Party (MSZP) and tend to view it with cautious optimism due to its historical contributions to Hungary's politics. While I acknowledge some concerns about its current effectiveness and policies, I generally hold a somewhat favorable opinion based on its past influence and core values. Therefore, I would choose a cautiously positive stance but not strongly supportive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the historical presence and influence of the Hungarian Socialist Party (MSZP) in Hungary's political landscape, as well as the general perception that tends to be moderate due to its role in post-communist politics, I believe people's opinions are likely to be somewhat positive overall. Although there may be mixed views depending on specific policies or leadership, the general sentiment appears to lean toward a somewhat favorable opinion. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the provided context and the perspectives of other respondents, the Hungarian Socialist Party (MSZP) appears to evoke nuanced opinions. The responses suggest that people tend to view the party somewhat positively due to its historical influence and role in Hungary's post-communist political landscape, despite some concerns about its current effectiveness and policies. Considering this, I would align with a moderate favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the provided context and the perspectives of other respondents, it seems that the Hungarian Socialist Party (MSZP) is generally viewed with a moderate but somewhat positive attitude, reflecting its historical significance and role in post-communist Hungarian politics. Given these sentiments and the tendency towards a somewhat favorable opinion, I believe my view aligns with a moderate appreciation but not strong enthusiasm. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Hungarian Socialist Party (MSZP). While I acknowledge its historical role and contributions to Hungarian politics, I also recognize the criticisms and concerns regarding its current effectiveness and policies. This balanced view aligns most closely with a somewhat favorable stance, as I appreciate its past influence but remain cautious about its present actions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

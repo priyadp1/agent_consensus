@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Too few citizens participating in politics",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people believe that citizen participation in politics is crucial for a functioning democracy. When too few citizens engage in political activities, it can undermine the legitimacy of government, hinder representation, and reduce accountability. In many countries, low participation rates are seen as a significant issue that can lead to apathy, disillusionment, and a lack of diverse viewpoints in policymaking. Therefore, I consider this a very big problem because addressing it is essential for a healthy and vibrant democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that too few citizens participating in politics is a very big problem because a lack of political engagement can lead to weaker democracy, less representation of diverse views, and lower accountability of leaders. When citizens do not participate, it risks allowing only a small, potentially unrepresentative segment to influence policies, which can undermine trust in government and hinder societal progress. Encouraging broader participation is essential for a healthy, functioning democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people see low political participation as a significant issue because it can undermine the legitimacy and effectiveness of democratic processes, leading to less representative government and potentially increased disillusionment among citizens. Given the importance of political engagement for a healthy democracy, I believe too few citizens participating in politics is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that too few citizens participating in politics is a very big problem because active political engagement is vital for ensuring that government reflects the will of the people, maintains legitimacy, and upholds democratic principles. When participation is low, it can weaken accountability, reduce representation, and lead to disillusionment or apathy among the population, ultimately threatening the health and stability of the democratic system.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that low citizen participation in politics is a very significant issue because it can weaken democratic processes, diminish representation, and lead to public disillusionment. When a large portion of the population disengages, policymakers may not reflect the diverse perspectives of society, which can hinder effective governance and democratic legitimacy. Addressing this problem is essential to ensure a healthy, responsive, and vibrant democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that too few citizens participating in politics is a very big problem because it undermines the legitimacy of democratic processes, reduces diverse representation, and weakens accountability. A low level of engagement can lead to disillusionment and apathy among the populace, which ultimately hampers effective governance and societal progress. Ensuring broad political participation is essential for a healthy democracy and for addressing societal challenges effectively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that too few citizens participating in politics is a very big problem because it threatens the foundation of a healthy democracy. When many citizens are disengaged, it can lead to less representative decision-making, weaken trust in government, and increase the risk of policies that do not reflect the needs or interests of the broader population. Active participation is crucial for accountability, legitimacy, and addressing societal issues effectively. Therefore, this issue deserves significant attention and effort to improve engagement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I consider too few citizens participating in politics to be a very big problem because widespread political involvement is crucial for the legitimacy, accountability, and representation in a democratic society. When participation declines, it can lead to disenfranchisement, policies that do not reflect the people's will, and a weakening of democratic institutions, which ultimately hampers societal progress and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I consider the participation of citizens in politics to be a crucial aspect of a healthy democracy. When too few people are involved, it can undermine the legitimacy of government decisions, reduce accountability, and lead to disillusionment among the populace. Such disengagement limits representational diversity and can weaken democratic institutions, which makes this issue very significant. Therefore, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Overall do you think Chinese influence in our country is growing, decreasing, or staying about the same as it has been?",
+  "options": [
+    "Growing",
+    "Decreasing",
+    "Staying about the same"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on current global trends and observations, Chinese influence appears to be increasing in many countries through economic investments, technology, and diplomatic efforts. While some may perceive a stabilization or cautious containment, the overall trajectory seems to lean towards growth rather than decline or stability. Therefore, I believe Chinese influence in our country is growing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on current global trends and diplomatic developments, I believe Chinese influence in our country is growing. China's expanding economic reach, investments, and involvement in international organizations suggest an increasing presence and influence. While some may argue that efforts to balance or limit foreign influences exist, the overall pattern appears to lean toward growth rather than decline or stagnation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on recent global developments and international relations, Chinese influence appears to be increasing in various sectors, such as trade, technology, and diplomatic outreach. Many countries are engaging more with China due to its growing economic power and initiatives like the Belt and Road. While there may be some areas where influence remains stable or fluctuates, the overall trend suggests an increase rather than a decrease or stability. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering recent global economic and diplomatic trends, Chinese influence appears to be increasing in many countries, including ours. China's expanding investments, technological collaborations, and international initiatives like the Belt and Road suggest that its influence is growing rather than staying the same or decreasing. While some efforts may be in place to limit foreign influence, the overall pattern indicates an upward trajectory in Chinese involvement internationally and domestically.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the global trends and observations, Chinese influence seems to be expanding through economic investments, technological advancement, and diplomatic initiatives. While some areas may stabilize or face challenges, the overall direction appears to be upward. Based on this, I believe Chinese influence in our country is growing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the current global economic and diplomatic landscape, Chinese influence appears to be on the rise due to increased investments, technological collaborations, and diplomatic outreach. While some may perceive efforts to contain or balance this influence, the overall trend seems to lean towards growth rather than decline or stability. Therefore, I believe Chinese influence in our country is growing.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the global trends of increasing economic investments, technological collaborations, and diplomatic outreach by China, it seems that Chinese influence in our country is indeed expanding. While there may be some areas of stabilization or localized challenges, the overall trajectory appears upward. Therefore, I believe that Chinese influence in our country is growing.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the recent trends in international relations, economic investments, and diplomatic initiatives, there is strong evidence suggesting that Chinese influence in our country is increasing. The surge in technological collaborations, infrastructure projects like the Belt and Road, and growing economic ties point towards a rising presence. While some efforts might aim to limit foreign influence, the overall pattern indicates a significant growth in China's role and impact locally. Based on this assessment, I believe Chinese influence is growing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering current global political and economic dynamics, there is noticeable evidence of increasing Chinese influence through trade, technological expansion, and diplomatic initiatives. While some efforts aim to limit foreign influence, the overall trend suggests that Chinese involvement in our country and worldwide is expanding rather than diminishing or remaining static. Therefore, I believe Chinese influence is growing.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

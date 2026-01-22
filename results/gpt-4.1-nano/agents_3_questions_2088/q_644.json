@@ -1,0 +1,62 @@
+{
+  "question": "Over the past 20 years, do you think equality between men and women in your country has increased, decreased, or do you think there has been no change?",
+  "options": [
+    "Increased",
+    "Decreased",
+    "No change",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, I believe that equality between men and women in my country has increased. Significant social movements, policy reforms, and increased awareness have contributed to bridging several gender gaps, though some disparities still remain. Overall, progress has been made, making equity more attainable and visible than before.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, many countries have experienced significant social changes, including increased awareness and efforts toward gender equality. There have been improvements in women's rights, employment opportunities, and representation in various sectors. However, challenges such as persistent wage gaps, societal stereotypes, and gender-based violence still exist in many areas. The overall trend suggests progress, although the pace and extent vary across different regions. Therefore, I believe equality between men and women has increased over the past two decades.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, many countries have made significant efforts to promote gender equality through legislative reforms, public awareness campaigns, and increased representation of women in various sectors. While progress is uneven and challenges remain, there is generally a perception that equality between men and women has improved in many areas, such as education, employment opportunities, and legal rights. Therefore, I believe that equality has increased over this period.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, there has been notable progress in gender equality, including legislative reforms, increased representation, and greater awareness. Despite ongoing challenges, the overall trend leans toward improvement in many areas. Based on this, I believe equality between men and women has increased in my country during this period.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, I believe that corresponding social, legal, and economic reforms have generally advanced gender equality in my country. Improved access to education for women, increased participation of women in the workforce, and greater awareness around gender rights suggest positive progress, although some disparities may still exist. Overall, I think equality has increased during this period. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, there has been noticeable progress in promoting gender equality through social movements, policy reforms, and increased awareness, leading to improvements in women's rights and opportunities. While some disparities remain, the overall trend points to increased equality. Given this, I believe that equality between men and women in my country has increased.  \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Over the past 20 years, I believe there has been significant progress in gender equality, driven by social and legal reforms, increased access to education and employment opportunities for women, and greater social awareness around gender rights. While some disparities still exist, the overall trend indicates that equality has improved. Therefore, I think equality between men and women in my country has increased. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Over the past two decades, there have been substantial efforts to advance gender equality through legislation, social movements, and increased public awareness. These initiatives have led to greater representation, improved legal protections, and shifts in social attitudes, contributing to progress in many areas. While challenges persist, the overall trend clearly indicates an increase in equality between men and women in my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Over the past two decades, many countries have seen significant advances in gender equality, such as improved access to education, legal protections, and increased participation of women in various sectors. While challenges remain, the overall trend tends to be positive. Based on this context, I believe that equality between men and women in my country has increased over this period.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

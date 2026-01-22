@@ -1,0 +1,62 @@
+{
+  "question": "I'm going to read a list of political leaders. For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs, a great deal, a fair amount, not to much or none at all?...Prime Minister/Chancellor/President of country",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "None at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose option B because I believe that many world leaders generally aim to act in the best interest of their countries and the global community, but their decisions are often influenced by political considerations, alliances, and internal pressures. While I trust their intentions somewhat, I remain cautious about their ability to consistently do the right thing on complex international issues. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have moderate confidence that the current leader will act in the best interest regarding global affairs, but I remain cautious due to potential political pressures and international complexities. Therefore, I would select a fair amount. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the leader's decisions are often influenced by various political pressures and complex international situations, which can make it difficult to have a high level of confidence that they will always do the right thing. Therefore, I would choose a moderate level of trust, recognizing both their intentions and limitations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the similar responses from the other agents, and considering that global affairs are complex and influence decisions, my confidence in the leader's ability to do the right thing is moderate but cautious. Therefore, I would select a fair amount.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that political leaders often face complex international challenges and are influenced by various domestic and global pressures. While I trust that many aim to do what is right, these factors can limit their ability to always act in the best interest of the world. Therefore, I have a moderate level of confidence, acknowledging both their intentions and constraints.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that international leaders often face complex and sensitive issues that require careful decision-making. While I trust that they generally intend to act in the best interest of their countries and the world, the influence of political pressures, alliances, and internal priorities can sometimes hinder their ability to always do the right thing. Given these considerations, I would select a fair amount of confidence, reflecting cautious trust in their intentions but awareness of potential limitations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that political leaders are often faced with difficult international issues that require balancing national interests with global welfare. While many have good intentions and aim to act ethically, the complex nature of global politics, alliances, and domestic political pressures can sometimes limit their ability to do what is truly right for the world. Consequently, I have a moderate level of confidence, trusting their intentions but recognizing potential constraints.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the complexity of global affairs and the tendency of political leaders to face conflicting interests, my confidence in their ability to consistently do the right thing is cautious. I recognize that while many leaders genuinely aim to act ethically, political pressures and strategic considerations can influence their decisions, making me lean toward a reasonable but guarded trust. Therefore, I would select a fair amount.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the complexity of global affairs and the influence of various domestic and international factors on political leaders, my confidence in their ability to always do the right thing is moderate. I believe they generally intend to act in the best interest of the world, but their decisions can be constrained by circumstances. Therefore, I would select a fair amount.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

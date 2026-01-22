@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...U.S. President George W. Bush",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My confidence in President George W. Bush regarding global affairs is moderate; while he has taken assertive actions, his decisions have sometimes been controversial or unpredictable. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have moderate confidence that George W. Bush would do the right thing regarding world affairs, but his decisions during his presidency, such as the Iraq War and responses to international crises, have caused some skepticism among the global community. Therefore, I would select some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some confidence in George W. Bush's ability to do the right thing regarding world affairs, particularly given his administration's focus on national security and foreign policy initiatives such as the Iraq War and efforts to combat terrorism. While there have been controversies and mistakes, I believe he generally aimed to protect U.S. interests and promote stability. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush exhibited a mix of decision-making and priorities that suggest a moderate level of confidence regarding his actions on world affairs. While he demonstrated a commitment to national security and took decisive actions aligned with protecting U.S. interests, some of those decisions, notably the Iraq War, led to significant controversy and skepticism globally. Given this, I am inclined to select some confidence, acknowledging his intentions but also the criticisms of his foreign policy outcomes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while President George W. Bush took decisive actions on global issues, his decisions, such as the invasion of Iraq, were often controversial and led to significant instability. This makes me cautious about having a high level of confidence in his judgment regarding world affairs. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the previous respondents' moderate confidence levels and acknowledging the controversies and criticisms associated with George W. Bush's foreign policy decisions, I also feel that my confidence in his ability to do the right thing regarding world affairs is moderate. While he has aimed to promote certain international goals, his decisions have sometimes led to skepticism and international criticism. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the controversial foreign policy decisions of George W. Bush, particularly the Iraq invasion and its aftermath, as well as the international criticism that followed, I feel cautious about having a high level of confidence in his judgment regarding world affairs. While he aimed to promote national security and certain international goals, the outcomes of his actions have led to significant skepticism about his decisions on the global stage. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given the mixed record of decisive actions aimed at national security and the significant controversies, including the Iraq War, which drew global criticism, my confidence in President George W. Bush's ability to do the right thing regarding world affairs is moderate. I recognize his intentions but remain cautious due to the controversial outcomes of some decisions. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that President George W. Bush's tenure included decisive actions aimed at national security, but some of these decisions, especially the invasion of Iraq, were highly controversial and affected global stability. His foreign policy decisions led to mixed perceptions, with significant skepticism about his judgment on world affairs. While I acknowledge his intentions, the controversies have impacted my confidence level. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

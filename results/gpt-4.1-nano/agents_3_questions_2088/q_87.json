@@ -1,0 +1,63 @@
+{
+  "question": "How likely are you personally to take political action on __ , such as contact an elected official or participate in a demonstration? e. discrimination against ethnic/religious/racial/vulnerable or disadvantaged groups",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not too likely",
+    "Not at all likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am personally very concerned about discrimination against ethnic, religious, racial, and vulnerable groups, given its pervasive impact on social cohesion and justice. I believe that taking political action is an important way to advocate for fairness and equality, and I feel reasonably motivated to do so when issues of discrimination arise. Therefore, I would likely engage in political activities such as contacting officials or participating in demonstrations to address this issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I would choose the \"Not at all likely\" option because I believe that individual action, such as contacting officials or protesting, depends on personal motivation and perceived effectiveness. While discrimination is a serious issue, I may feel that my personal impact might be limited or that other avenues are more effective for addressing such concerns. Additionally, concerns about time, safety, or political efficacy might influence my decision not to participate actively. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe taking political action against discrimination is important to promote equality and social justice. While I am motivated by this conviction, I may not always follow through with activism due to personal constraints or uncertainty about how effective individual actions are. Therefore, I would consider myself somewhat likely to engage in such actions, but not extremely so. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that my personal motivation to engage in political action against discrimination may be limited by factors such as perceived effectiveness and personal constraints. While I consider the issue important and believe activism can create change, I am not highly inclined to take action independently. Therefore, I would probably be somewhat likely to participate, but not very enthusiastic or committed. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that discrimination against vulnerable groups is a serious issue that calls for active political engagement. While personal constraints might sometimes limit action, I feel motivated to support efforts against discrimination and consider myself reasonably likely to take political action if the opportunity arises. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I recognize that discrimination against vulnerable and disadvantaged groups is a serious social issue that warrants political action. While personal motivation and perceived effectiveness can influence one's decision to engage, I believe that individuals have a responsibility to stand against injustice when possible. Contacting officials or participating in demonstrations are important ways to advocate for fairness and equality, and I am personally inclined to take such actions if I feel that my voice can contribute to positive change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that discrimination against vulnerable groups is a critical social issue that demands active engagement to promote justice and equality. While I may not always have the opportunity or feel fully motivated to take political action, I believe that individuals have a responsibility to stand against injustice when they can. Considering this, I feel somewhat likely to contact officials or participate in demonstrations if I believe my actions can make a difference.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that discrimination against vulnerable or disadvantaged groups is a significant issue that warrants action, but I also recognize that individual motivation and perceived effectiveness influence one's likelihood to participate. Given my concern for social justice and willingness to advocate when possible, I see myself as somewhat inclined to take political action, though I may not do so strongly or consistently. Therefore, I would choose to express a moderate level of willingness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that discrimination against ethnic, religious, racial, or vulnerable groups is a serious and pressing issue that warrants active political engagement. While I recognize that personal constraints or perceptions of effectiveness might influence my willingness to take action, I am generally motivated to support efforts against discrimination and would consider myself somewhat likely to participate if given the opportunity. My response reflects an awareness of the importance of such issues and a willingness to act when feasible, though I may not be highly committed or active at all times.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

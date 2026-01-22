@@ -1,0 +1,61 @@
+{
+  "question": "Has each of the following gotten better or worse over the last five years in our country: the gap between rich and poor people.",
+  "options": [
+    "Better",
+    "Worse",
+    "Has not changed"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my perspective, the gap between rich and poor people has widened over the last five years. Despite some efforts to address inequality, economic disparities and access to opportunities continue to increase in many areas, leading to a growing divide. Wealth accumulation among the affluent has generally outpaced the financial progress of lower-income populations, making the disparity more pronounced. Therefore, I believe it has gotten worse over this period.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, numerous reports and studies suggest that the income and wealth gap between the rich and poor in our country has widened. Economic disparities have often been amplified by factors such as technological advancements favoring those with existing resources, stagnation of wages for many lower-income groups, and policies that may have favored wealth accumulation at the top. While some initiatives aimed at reducing inequality have been introduced, the overall trend appears to lean towards a growing divide rather than a narrowing one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, income inequality has generally worsened in many countries, including ours. Economic growth has not always translated equally across all social classes, and the wealthiest segments have often seen their wealth increase more significantly than those at the lower end of the economic spectrum. This trend has been exacerbated by factors such as rising living costs, wage stagnation for many workers, and policies that may favor the wealthy. Therefore, the gap between rich and poor people has likely gotten worse over the last five years.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, both reports and economic indicators suggest that the disparity between the wealthy and the impoverished has increased. Factors such as wage stagnation for lower-income groups, the amplification of wealth at the top due to policy decisions, and technological changes benefiting those with existing assets collectively point toward a widening gap. Considering these trends, I believe the gap has gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the general observations and trends reported both internationally and within our country, the economic disparities between the rich and the poor have tended to increase over recent years. Factors such as income inequality, wealth concentration among the affluent, stagnant wages for many workers, and rising living costs have contributed to this widening gap. Therefore, I believe the gap between rich and poor people has gotten worse over the last five years.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the context provided and the general consensus reflected in the responses, the common theme is that the economic disparity has increased over the last five years due to factors like technological changes, wage stagnation for lower-income groups, and policies favoring the wealthy. Therefore, I believe the gap between rich and poor in our country has gotten worse during this period.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, multiple reports and economic indicators suggest that income inequality and wealth disparities have become more pronounced in our country. Factors such as rising living costs, stagnant wages for lower-income groups, and policies that tend to favor the affluent have contributed to this widening gap. Based on these considerations and the consensus in the responses, I believe the income gap has worsened.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, numerous economic indicators and social reports suggest that the inequality gap has widened. Factors such as wage stagnation among lower-income groups, increasing wealth accumulation at the top due to tax policies and investment gains, and technological advancements that benefit those already wealthy support the view that the disparity between rich and poor has grown. Therefore, I believe the gap has gotten worse.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the last five years, multiple economic indicators and reports have pointed to an increasing disparity between the wealthy and the impoverished. Wealth concentration at the top has often accelerated due to policy decisions, tax structures, and economic advancements that tend to favor those already holding significant assets. Meanwhile, wages for lower-income groups have often stagnated or grown at a slower pace, and the rising costs of living have disproportionately affected the less affluent. These trends collectively suggest that the gap has widened rather than narrowed or remained static.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

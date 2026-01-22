@@ -1,0 +1,60 @@
+{
+  "question": "If a vote were held today on Britain's membership in the European Union, would you vote for Britain to remain in the European Union or for Britain to leave the European Union? ",
+  "options": [
+    "Remain in the European Union",
+    "Leave the European Union"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the ongoing economic and political implications, I believe remaining in the European Union offers Britain better access to the single market, collaboration on international issues, and the opportunity to influence European policies. Leaving could lead to economic uncertainties and diminish Britain's global influence. Therefore, I would choose to stay in the EU to support stability and prosperity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Britain should remain in the European Union because staying within the EU allows for economic stability, access to a large market, and continued cooperation on international issues. Remaining also helps maintain diplomatic relationships and regional influence. While independence is important, the benefits of being part of a collective organization seem more advantageous for the country's future prosperity and security. Therefore, I would vote to stay in the EU.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe remaining in the European Union would be beneficial for Britain because it allows for continued access to a large economic market, fosters international cooperation, and provides influence within European policy decisions. Staying in can also support economic stability, environmental standards, and collaborative security efforts. Given these advantages, I would choose to remain in the European Union.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that remaining in the European Union is beneficial for Britain because it ensures continued access to a large economic market, promotes international cooperation, and strengthens the country's influence within European affairs. Being part of the EU supports economic stability, environmental standards, and collective security efforts, which I think are advantageous for Britain\u2019s long-term prosperity and regional stability. Therefore, I would vote to remain in the EU.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that remaining in the European Union is the better choice for Britain because it secures access to a large single market, promotes international cooperation, and helps maintain influence over European policies. Staying in can also support economic stability and collaborative security efforts, which are important for both prosperity and global standing. Given these factors, I would vote to remain in the European Union.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe remaining in the European Union provides Britain with economic benefits, international influence, and stability. Staying in the EU allows continued access to the single market, cooperative policy-making, and diplomatic relationships that can bolster the country's global standing. Given these advantages, I would vote to remain in the European Union.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that remaining in the European Union is in Britain's best interest because it ensures continued access to a large single market, which supports economic growth and stability. It also fosters international cooperation and allows Britain to maintain influence over European policies, contributing to its global standing and security. Staying in the EU aligns with promoting economic prosperity and collaborative relationships that benefit the country's future.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that remaining in the European Union offers continued economic opportunities, international cooperation, and influence for Britain. Being part of the EU helps ensure access to a large single market, fosters collaborative policy initiatives, and maintains diplomatic relationships that can benefit the country's stability and growth. Given these significant advantages, I would vote to remain in the EU.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that remaining in the European Union is in Britain's best interest because it ensures continued access to a large economic market, fosters international cooperation, and maintains the country's influence within European affairs. Being part of the EU supports economic stability, environmental standards, and collective security efforts, which are crucial for Britain's long-term prosperity and regional stability. Therefore, I would vote to remain in the EU.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

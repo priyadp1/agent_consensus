@@ -1,0 +1,63 @@
+{
+  "question": "Thinking about some countries around the world...Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of Japan?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I hold a very favorable opinion of Japan because of its rich cultural heritage, technological innovation, and contributions to global arts and sciences. Japan is a respected nation with a strong economy and a history of cultural influence, which positively shapes my perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a generally positive view of Japan due to its rich culture, strong economy, and contributions to technology and innovation. While I recognize that opinions about countries can vary based on various factors, my personal impression remains quite favorable toward Japan. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Japan due to its rich culture, technological innovation, and strong economy. The country is often seen as a leader in technology and cultural influence, which positively impacts my perception. Additionally, Japan's emphasis on education and quality of life contributes to my favorable view. Therefore, I would select the option indicating a very favorable opinion.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Japan due to its rich culture, technological innovation, strong economy, and positive global influence. These factors contribute to my overall positive perception of the country. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I hold a very favorable opinion of Japan because of its rich cultural heritage, technological innovation, and contributions to global arts and sciences. Japan is a respected nation with a strong economy and a history of cultural influence, which positively shapes my perception. Given these positive attributes, I would choose the most favorable option.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Japan because of its rich cultural heritage, technological innovation, and contributions to global arts and sciences. Japan is a respected nation with a strong economy and a history of cultural influence, which positively shapes my perception.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I hold a very favorable opinion of Japan because of its rich cultural heritage, technological innovation, and contributions to global arts and sciences. Japan is a respected nation with a strong economy and a history of cultural influence, which positively shapes my perception. Given these positive attributes, I would choose the most favorable option.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a very positive view of Japan, considering its rich cultural heritage, technological advancements, global influence, and strong economy. These qualities contribute to my very favorable opinion of Japan.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Japan due to its impressive cultural heritage, technological advancements, and significant global influence. These factors contribute positively to my perception of the country, making me strongly favorably inclined towards Japan.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Crime",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Crime is a concern that affects daily life and safety for many citizens. In my view, while it is a significant issue, it may not be the most pressing problem compared to economic hardships or health crises. Therefore, I see it as a moderately big problem rather than the top priority. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Crime is often perceived as a significant issue because it can threaten personal safety, disrupt communities, and strain legal and law enforcement systems. Many people consider high crime rates to be one of the main problems facing their country, especially if they have experienced or heard about violent or frequent crimes. Hence, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Crime is often perceived as a significant issue because it affects personal safety, community well-being, and public confidence in security measures. Many people consider crime a pressing concern that directly impacts their daily lives, especially in areas with high crime rates or ongoing violence. While some might see it as a moderate or smaller issue depending on their personal experiences or local context, generally, crime tends to be viewed as one of the more serious problems facing a country. Therefore, I would classify it as a very big problem in most contexts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Crime is a major concern for many people because it directly threatens safety, disrupts communities, and can undermine trust in law enforcement. Given its broad impact and high visibility as a pressing issue, I believe crime remains a very big problem in the country. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Crime is a significant concern because it directly impacts personal safety, community cohesion, and overall public confidence in security. Given its prominence as a prevalent issue affecting many people's lives and the safety of our society, I believe it warrants classification as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Crime is a serious concern that can threaten personal safety and social stability. Many people view it as a top issue because of its immediate impact on daily life. While it may not be the only pressing problem, it remains a significant challenge that needs attention. Therefore, I consider it a very big problem.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Crime is a major concern because it affects the safety and security of individuals and communities. When crime rates are high, people often feel unsafe in their daily lives, which can lead to a sense of insecurity and social instability. Given the importance of personal safety and peace of mind, I believe crime is a very big problem that needs urgent attention to improve overall societal well-being.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Crime is a significant issue because it affects personal safety, undermines community trust, and requires substantial law enforcement resources. Given its impact and widespread concern, I believe crime is a very big problem in the country.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Crime significantly affects our daily lives by threatening personal safety, damaging communities, and eroding trust in law enforcement institutions. Its widespread nature and the tangible harm it causes make it a pressing issue that requires urgent attention. Therefore, I believe crime is a very big problem in our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

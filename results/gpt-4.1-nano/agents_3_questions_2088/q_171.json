@@ -1,0 +1,61 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for the U.S. Do you think that Iran's nuclear program is a major threat, a minor threat or not a threat to the well being of the United States?",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Iran's nuclear program presents significant concerns due to the potential for proliferation and regional destabilization, which could indirectly impact U.S. interests and security. While it may not constitute an immediate, direct threat like some other issues, the possibility of Iran developing nuclear weapons is a serious concern that warrants attention and diplomatic efforts to prevent escalation and ensure regional stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Iran's nuclear program poses a major threat because it increases regional instability in the Middle East and raises concerns about nuclear proliferation. The possibility of nuclear weapons development could lead to heightened tensions and potential conflict, which could directly or indirectly impact U.S. security interests and global stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Iran's nuclear program poses a significant risk because it could potentially enable Iran to develop nuclear weapons, which may lead to increased regional instability and elevate the threat of conflict involving the U.S. or its allies. The possibility of nuclear proliferation in the Middle East is concerning, and preventing such an escalation is crucial for global security. Therefore, I consider it a major threat to the well-being of the United States.\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Iran's nuclear program is a major threat because it has the potential to destabilize the Middle East and could lead to nuclear proliferation, which poses serious security risks to the United States. The possibility of Iran developing nuclear weapons raises concerns about regional conflict and global security challenges that could directly or indirectly affect U.S. interests. Given these considerations, I see it as a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Iran's nuclear program is a serious concern because it has the potential to lead to nuclear proliferation in a volatile region, increasing the risk of conflict and regional instability. Such developments could indirectly threaten U.S. security interests and global stability, especially if diplomatic efforts to prevent escalation fail. Therefore, I consider it a major threat to the well-being of the United States.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Iran's nuclear program is a major threat because it has the potential to destabilize the region further and increase the risk of nuclear proliferation. Such developments could lead to heightened tensions and possible conflicts, which might pose a serious risk to U.S. security interests and global stability. The possibility of Iran developing nuclear weapons raises significant concerns that justify viewing it as a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Iran's nuclear program poses a significant threat because it has the potential to destabilize the region further and escalate tensions globally. The development of nuclear weapons by Iran could lead to proliferation and increased conflict, which could threaten U.S. security and international stability. These serious implications justify viewing it as a major threat to the well-being of the United States.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Iran's nuclear program is a major threat because it has the potential to destabilize the Middle East further and increase the risk of nuclear proliferation. Such developments could lead to heightened tensions and possible conflicts, which might pose a serious risk to U.S. security interests and global stability. The possibility of Iran developing nuclear weapons raises significant concerns that justify viewing it as a major threat. \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Iran's nuclear program represents a major threat because it could lead to regional instability, nuclear proliferation, and increased conflict in the Middle East. These developments might threaten U.S. security interests directly or indirectly, especially if diplomatic efforts fail to prevent escalation. Therefore, I see it as a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

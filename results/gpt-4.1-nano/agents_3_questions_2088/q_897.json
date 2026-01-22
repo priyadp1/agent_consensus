@@ -1,0 +1,60 @@
+{
+  "question": "Do you approve or disapprove of the way President Dilma Rousseff is handling each of the following areas...Preparations for the World Cup?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Dilma Rousseff faced significant challenges in preparing for the World Cup, including managing public funds, infrastructure projects, and addressing concerns from various stakeholders. While some efforts may have shown progress, there were notable issues and criticisms regarding delays, budget overruns, and coordination. Overall, I lean towards disapproval because the preparations did not meet expectations for timely and efficient implementation. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose disapprove because there were significant issues with infrastructure, delays, and budget overruns during the preparation for the World Cup. Many projects were completed late or poorly, leading to concerns about the effectiveness of the planning and execution. These problems raised questions about accountability and resource management, which influenced my disapproval of President Dilma Rousseff's handling of this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of the way President Dilma Rousseff is handling preparations for the World Cup because many infrastructure projects were delayed or incomplete, leading to concerns about whether Brazil would present a positive image during the event. Additionally, there were issues related to rising costs, security, and public protests, which suggested that the preparations were not managed effectively. Despite the tourism boost and international attention, these logistical challenges and social unrest reflect poorly on the government's handling of the event.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of preparations for the World Cup because ongoing issues with infrastructure delays, rising costs, and social unrest indicated a lack of effective management. These problems affected the quality of preparations and the country's image during the event, reflecting poorly on her leadership in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the way President Dilma Rousseff is handling preparations for the World Cup because there were significant issues related to delays, budget overruns, and logistical coordination. These problems led to public dissatisfaction and concerns about Brazil\u2019s ability to host the event successfully and project a positive image internationally. The challenges faced indicate that the preparations did not meet expectations for efficiency and effectiveness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while there were some efforts made, the significant delays, budget overruns, and logistical issues during the preparations indicate that the management of the process was flawed. These problems suggest that the president's handling did not meet the expected standards for effective planning and execution, leading me to disapprove of her management in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of the preparations for the World Cup because there were notable issues such as delays, budget overruns, and logistical challenges that impacted the success of the event. These shortcomings suggest that the management was not effective in ensuring a smooth and efficient process, which ultimately affected Brazil's international image and the overall standards expected for such a major event.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the previous responses highlighting issues such as infrastructure delays, rising costs, logistical problems, and social unrest, it appears that the management of the World Cup preparations was ineffective and problematic. These issues reflect poorly on the leadership and suggest disapproval. Therefore, I also disapprove of President Dilma Rousseff's handling of the preparations for the World Cup.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of President Dilma Rousseff's handling of preparations for the World Cup because the entities involved faced persistent issues such as delays, rising costs, and logistical problems, which undermined the overall quality of the event and damaged Brazil\u2019s international image. These challenges suggest that the government\u2019s management was insufficient to meet the expectations of a successful and well-organized tournament.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, for each, please tell me what kind of influence the group is having on the way things are going in your country. Is the influence of supporters of Right Sector very good, somewhat good, somewhat bad or very bad in your country? ",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Supporters of Right Sector are generally associated with nationalist and far-right political views, and their influence can be perceived in various ways depending on the country's context. If their influence is seen as promoting stability, national pride, or security, one might consider it somewhat good. Conversely, if their presence leads to increased tension, conflict, or divisiveness, the influence might be viewed as somewhat bad or very bad. Without specific details about the country's situation, it's difficult to precisely judge. Given the potential for both positive and negative effects, and considering typical perceptions of such groups in different contexts, I lean toward viewing their influence as somewhat bad, especially if their actions or rhetoric contribute to social division or unrest.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are generally associated with nationalist and sometimes controversial political views, which can influence national dynamics in both positive and negative ways. In some contexts, their influence might promote a sense of patriotism and resilience, but it can also lead to increased tensions or divisions within society. Overall, considering the spectrum of influence and public perception, their impact tends to lean towards the negative, especially if their actions or rhetoric provoke conflict or instability. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are generally associated with nationalist and sometimes radical views, and their influence can be controversial depending on the political climate and societal values. If their support contributes to stability, national pride, or positive political change, one might view their influence as somewhat or very good. Conversely, if their presence leads to divisiveness, extremism, or conflict, their influence would be considered bad. In many contexts, especially if there are concerns about extremism or social division, their influence might be seen as somewhat or very bad. Considering these factors, I believe their influence is more negative than positive in the current climate.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are often associated with nationalist and far-right sentiments that can be divisive and sometimes incite tensions within society. Their influence tends to promote nationalistic agendas that may lead to increased polarization, conflict, or social instability. Given the current context and public perception, their impact on the country's overall stability and social cohesion seems more harmful than beneficial.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are often associated with nationalist and far-right ideologies, which can result in social tension and conflict, especially if their actions or rhetoric escalate divisions within society. While some may argue that they promote national pride and security, the overall perception tends to view their influence negatively due to concerns about extremism and destabilization. Given these considerations, I believe their influence is more harmful than beneficial in the current context.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are often associated with nationalist and far-right ideologies, which can influence societal dynamics in complex ways. In some cases, their presence might bolster a sense of national pride or resilience, contributing positively to patriotism. However, their rhetoric and actions are also linked to increased social tensions, divisions, and instability, especially if they promote conflict or marginalization of groups. Given the potential for social unrest and divisiveness, I believe their influence leans more towards negative outcomes. Therefore, I see their impact as more harmful than beneficial in my country\u2019s context.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are often associated with extreme nationalist and far-right ideologies, which can contribute to social division, tension, and even conflict. While some might argue they promote patriotism and national security, their rhetoric and actions frequently lead to societal instability and marginalization of certain groups. Given these concerns, their influence appears more harmful than beneficial in my country. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are often associated with nationalist and far-right sentiments that can be divisive and sometimes incite tensions within society. Their influence tends to promote nationalistic agendas that may lead to increased polarization, conflict, or social instability. Given the current context and public perception, their impact on the country's overall stability and social cohesion seems more harmful than beneficial.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Supporters of Right Sector are often associated with nationalist and far-right sentiments that can be divisive and sometimes incite tensions within society. Their influence tends to promote nationalistic agendas that may lead to increased polarization, conflict, or social instability. Given the current context and public perception, their impact on the country's overall stability and social cohesion seems more harmful than beneficial.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Generally speaking, do you think our country's membership in the European Union is a good thing, a bad thing, or neither good nor bad?",
+  "options": [
+    "Good thing",
+    "Bad thing",
+    "Neither",
+    "Both (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union is generally a good thing because it fosters economic cooperation, helps promote peace and stability in the region, and provides opportunities for our businesses and citizens to collaborate with partners across Europe. While there are some challenges and disagreements, the overall benefits seem to outweigh the negatives. Therefore, I see EU membership as a positive development for our nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union generally brings significant economic and political benefits, such as access to a large market, cooperation on important issues, and influence within a major international organization. While there may be some drawbacks or disagreements, the overall advantages tend to outweigh the negatives, making it a positive relationship for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My perspective on our country's membership in the European Union is mixed. On the one hand, the EU provides economic benefits, promotes stability, and encourages cooperation with neighboring countries. On the other hand, some feel it imposes regulations that limit national sovereignty and decision-making. Overall, I see it as neither entirely good nor bad, but rather complex with both positive and negative aspects.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union offers significant economic and political benefits, such as access to a large market and international cooperation. While there are some drawbacks, the overall advantages make it a positive relationship. Therefore, I see it as a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union is mostly a positive development because it facilitates economic growth, enhances regional stability, and opens up opportunities for international collaboration. While there are some concerns about sovereignty and regulatory constraints, I think the overall benefits outweigh these issues, making it more beneficial than harmful for the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union is a good thing because it promotes economic growth, enhances regional stability, and offers opportunities for collaboration with European partners. While there may be some disagreements or challenges, the overall benefits appear to outweigh the negatives, making EU membership advantageous for our nation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union is a good thing because it promotes economic growth, regional stability, and international collaboration. Although there are some challenges and concerns about sovereignty, the overall advantages seem to outweigh the negatives. Therefore, I view EU membership as beneficial for our nation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union generally provides important economic and political benefits, such as access to a larger market and regional cooperation. While there may be some challenges or drawbacks, the overall positive aspects tend to outweigh the negatives in my view. Therefore, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that our country's membership in the European Union provides valuable economic and international cooperation benefits, which contribute positively to our country's prospects. Although there are some concerns about sovereignty, I think the advantages outweigh these issues.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

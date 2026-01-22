@@ -1,0 +1,60 @@
+{
+  "question": "And what about the Tokyo Electric Power Company (TEPCO), do you approve or disapprove of the way TEPCO has handled the situation at the Fukushima Daiichi nuclear plant? ",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that TEPCO's handling of the Fukushima Daiichi nuclear plant has been problematic, especially in transparency and communication with the public, which has contributed to ongoing concerns about safety and trust. While efforts have been made to contain the crisis and improve safety protocols, there remains room for improvement in accountability and disaster management strategies. Therefore, I disapprove of the way TEPCO has managed the situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of the way TEPCO has handled the Fukushima Daiichi nuclear plant. The disaster exposed significant shortcomings in safety measures and transparency, and many believe that response efforts have not been adequately sufficient or timely to prevent further risks or reassure the public. Continuous improvements and full accountability are essential for restoring trust and ensuring safety.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I lean towards disapproval because TEPCO has faced significant criticism for transparency and management during the Fukushima crisis. While they have taken steps to contain the situation, many feel that their communication and handling could have been more effective and more transparent from the beginning. This impacts public trust and raises concerns about their overall response strategy.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of the way TEPCO has handled the Fukushima Daiichi nuclear plant. The disaster revealed significant flaws in safety protocols and transparency, and their response efforts have often been criticized for being insufficient and delayed. Such shortcomings undermine public trust and safety, making it necessary for TEPCO to improve accountability and communication to better manage future crises.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of TEPCO's handling of the Fukushima Daiichi nuclear plant because their management has been criticized for inadequate transparency, poor communication, and insufficient accountability during the crisis. These issues have undermined public trust and suggest that their response could have been more effective and responsible.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that TEPCO's handling of the Fukushima Daiichi nuclear plant has been inadequate, particularly in areas such as transparency, communication, safety measures, and accountability. The ongoing concerns and public distrust suggest that their response has not sufficiently addressed the initial crisis or prioritized safety and transparency. Therefore, I disapprove of their management of the situation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of TEPCO's handling of the Fukushima Daiichi nuclear plant. Based on reports and public opinion, their management has faced criticism for lack of transparency, poor communication during the crisis, and insufficient accountability measures. These issues have contributed to ongoing distrust and suggest that their response was not adequate in prioritizing safety and public welfare. Therefore, I believe their approach could have been more effective and responsible.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe TEPCO has not handled the Fukushima Daiichi nuclear plant situation adequately. The issues of transparency, safety, and trust remain concerns, and their response actions have often been criticized for being insufficient and delayed. These shortcomings have impacted public confidence and raised questions about their accountability in managing such a critical crisis. Therefore, I disapprove of their management of the situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of TEPCO's handling of the Fukushima Daiichi nuclear plant because they have faced criticism for lacking transparency, poor communication, and insufficient accountability during the crisis. These issues have hampered public trust and suggest that their response was inadequate to ensure safety and effective management during such a critical situation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

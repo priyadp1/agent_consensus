@@ -1,0 +1,61 @@
+{
+  "question": "Are you more optimistic or more pessimistic these days that the Middle East region will become more democratic?",
+  "options": [
+    "More optimistic",
+    "More pessimistic",
+    "Neither (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I am cautiously optimistic about the prospects for democratization in the Middle East, as recent social movements and some political reforms suggest progress. However, ongoing conflicts, authoritarian tendencies, and regional instability create significant challenges that temper complete optimism. Therefore, I recognize both hopeful signs and serious obstacles, leading me to feel neither wholly optimistic nor wholly pessimistic at this point.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am somewhat cautiously optimistic about the prospect of increased democratization in the Middle East. While there have been encouraging signs of political reforms and activism, ongoing conflicts, authoritarian regimes, and geopolitical tensions continue to pose significant obstacles. Therefore, I believe there is hope for progress, but also considerable challenges that temper my optimism.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel more pessimistic these days because recent developments and ongoing conflicts in various Middle Eastern countries have created uncertainty regarding any significant democratic progress. Despite some positive moves, resistance from authoritarian regimes and regional instability make me less hopeful about a swift transition towards democracy in the near future.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I acknowledge the complexities involved in democratization efforts in the Middle East, including ongoing conflicts and authoritarian resistance, which contribute to a cautious outlook. While there are signs of progress, the pervasive instability and geopolitical tensions temper my optimism. Overall, I lean toward feeling more pessimistic about recent developments given these persistent challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the prospects for democratization in the Middle East are still quite uncertain. While there have been some social movements and reform efforts that offer hope, the persistent conflicts, authoritarian regimes, and regional instability continue to pose major obstacles. This combination of signs of progress and ongoing challenges makes me feel neither wholly optimistic nor wholly pessimistic at this time.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I tend to be cautiously optimistic about the prospects for democracy in the Middle East. While recent social movements and reforms indicate positive developments, the ongoing conflicts and authoritarian tendencies present significant hurdles. This balanced view suggests that I am neither fully hopeful nor fully pessimistic at this time.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that progress toward democracy in the Middle East is uncertain and fraught with challenges such as ongoing conflicts and authoritarianism, but there are also signs of reform and social movement momentum. Given this mixed situation, I feel neither more optimistic nor more pessimistic at this time.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the prospects for democratization in the Middle East are cautiously uncertain. While there are encouraging social movements and reforms indicating positive momentum, significant challenges such as ongoing conflicts, authoritarian resistance, and geopolitical tensions still hinder broad democratic progress. Given this complex landscape, I remain neutral in my outlook, recognizing both the potential for change and the persistent obstacles.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that despite some signs of progress, the ongoing conflicts, authoritarian dominance, and regional instability create a more challenging environment for democratization in the Middle East. These persistent obstacles make me feel more pessimistic about the region becoming more democratic in the near future, even though hope exists through social movements and reforms. Therefore, I lean towards feeling more pessimistic overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

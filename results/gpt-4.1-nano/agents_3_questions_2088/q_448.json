@@ -1,0 +1,63 @@
+{
+  "question": "Which statement comes closer to your view, even if neither is exactly right? (Survey public)'s economy is...",
+  "options": [
+    "Recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system",
+    "Failing to recover from the effects of the coronavirus outbreak in ways that show the weaknesses of its economic system",
+    "DK/Refused",
+    "Many of the problems facing our country can be solved by working with other countries",
+    "Few of the problems facing our country can be solved by working with other countries"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the economy is in the process of recovering from the impacts of the coronavirus outbreak, and this recovery demonstrates the resilience and strengths of our economic system. While there may still be challenges, the signs of improvement suggest that our system has the capacity to bounce back and adapt effectively. Therefore, I lean toward the view that the economy is recovering in ways that highlight its strengths rather than failing or being unable to recover. Additionally, I recognize that some problems may require international cooperation, but my primary view pertains to the overall recovery process making the economy seem stronger. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the economy is still struggling to return to pre-pandemic levels, and the ongoing challenges highlight certain vulnerabilities in the economic system. While there are signs of progress, it's clear that the recovery isn't entirely smooth or complete yet, indicating that the weaknesses have been exposed through the current situation. Additionally, recognizing the importance of international cooperation suggests that working with other countries could be beneficial in addressing broader issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the economy is still in the process of recovering from the impacts of the coronavirus outbreak, but the way it is doing so highlights the strengths of our economic system, such as resilience, adaptability, and innovation. This perspective recognizes the ongoing challenges while also emphasizing the positive aspects of our economic responses and recovery efforts. Therefore, I lean toward the view that the economy is recovering in ways that demonstrate its strengths rather than failing in a way that reveals its weaknesses.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the current economic situation, I believe that while the economy is still working to recover fully from the impacts of the coronavirus outbreak, the process has revealed both strengths and weaknesses in our economic system. It is evident that certain resilience and adaptability are evident, but ongoing challenges also expose vulnerabilities that need attention. Therefore, I see the recovery as a mix of progress and ongoing issues, leaning slightly toward the recognition of both strengths and weaknesses.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the economy is still in the process of recovering from the impacts of the coronavirus outbreak, but the way it is doing so highlights the strengths of our economic system. The signs of resilience and adaptation suggest that, despite ongoing challenges, the recovery demonstrates the robustness and flexibility of our economic system rather than revealing its weaknesses. While international cooperation can certainly play a role in solving broader problems, my primary view is centered on the recovery process showcasing the system's strengths.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the economy is in the process of recovering from the impacts of the coronavirus outbreak, which demonstrates the strengths and resilience of our economic system. While there are still challenges, the signs of improvement suggest that the system is capable of bouncing back and adapting effectively. This optimism aligns with a view that recovery is underway and showcases the robustness of our economic structure rather than exposing weaknesses. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the economy is still in the process of recovering from the impacts of the coronavirus outbreak, but the way it is doing so highlights the strengths of our economic system. The signs of resilience and adaptation suggest that, despite ongoing challenges, the recovery demonstrates the robustness and flexibility of our economic system rather than revealing its weaknesses. While international cooperation can certainly play a role in solving broader problems, my primary view is centered on the recovery process showcasing the system's strengths.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the current economic situation is best described as recovering from the effects of the coronavirus outbreak, with signs of resilience and adaptability demonstrating the strengths of our economic system. While challenges remain, the overall trend suggests progress and capacity for recovery, which indicates that the system is showing its robustness rather than exposing weaknesses. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the economy is still in the process of recovering from the impacts of the coronavirus outbreak, but this process has shown both strengths and weaknesses in our economic system. The signs of resilience and adaptation suggest that the recovery demonstrates robustness, yet there are ongoing vulnerabilities exposing areas for improvement. This nuanced view aligns best with recognizing the recovery as a mix of progress and continuing challenges, rather than solely focusing on strengths or weaknesses. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

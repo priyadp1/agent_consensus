@@ -1,0 +1,63 @@
+{
+  "question": "How much, if anything would you be willing to change about how you live and work to help reduce the effects of global climate change? Would you be willing to make a lot of changes, some changes, only a few changes or no changes at all?",
+  "options": [
+    "A lot of changes",
+    "Some changes",
+    "Only a few changes",
+    "No changes at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that making some changes is a reasonable and achievable approach to addressing climate change. Completely overhauling one's lifestyle might be impractical or difficult for many, but small, meaningful adjustments can collectively make a significant impact. Therefore, I am willing to make some changes rather than none or only minimal alterations, as this represents a balanced commitment to contributing to environmental efforts without feeling overwhelmed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that making meaningful progress in addressing climate change requires a significant commitment from individuals as well as society. Therefore, I am willing to make some changes that are manageable and realistic, but I recognize that not everyone can or is willing to adopt drastic lifestyles. This level of effort can contribute positively without feeling overwhelming.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that addressing global climate change requires a willingness to make meaningful changes in both personal lifestyle and work habits. While I am open to making adjustments, I recognize that drastic overhauls may not be practical or sustainable for everyone, including myself. Therefore, I am willing to implement some changes that can have a positive impact without causing significant disruption to my daily life. This approach balances environmental responsibility with practicality and personal comfort.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that addressing climate change requires a proactive attitude, but also an understanding of personal limits and practicality. While I am willing to make some changes to help reduce my environmental impact, I recognize that completely overhauling my lifestyle might not be feasible or sustainable for me. Therefore, I would be willing to make some manageable adjustments that contribute positively without causing significant disruption. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that meaningful but manageable changes can contribute to addressing climate change without placing an unrealistic burden on myself. Making some adjustments allows for positive impact while maintaining practicality and personal comfort. Therefore, I am willing to make some changes rather than none or only minimal alterations, as this offers a balanced approach to environmental responsibility.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe it is important to contribute to addressing global climate change, but I also recognize that making drastic changes to my lifestyle might not be feasible or sustainable. I am willing to implement some manageable adjustments that can help reduce my carbon footprint without feeling overwhelmed. This balanced approach allows for meaningful participation without significant disruption.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that addressing climate change requires a realistic and balanced approach. While I am committed to making a positive difference, I prefer to implement some manageable changes rather than overwhelming myself with major overhauls. Small, sustainable adjustments can collectively have a significant impact without causing undue burden or stress. Therefore, I am willing to make some changes to my lifestyle and work habits.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe addressing climate change is important and that individual actions can make a difference. However, I also understand that making significant or numerous changes might be challenging or impractical for many people, including myself. Therefore, I am willing to make some manageable adjustments to help reduce environmental impact without committing to extensive overhauls.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that making some meaningful changes to my lifestyle is both practical and effective in contributing to the reduction of climate change impacts. Completely overhauling my habits might be unrealistic given personal and logistical constraints, but I am willing to implement a few manageable adjustments that can collectively make a difference without causing undue disruption. This balanced approach aligns with my desire to be environmentally responsible while maintaining practicality.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

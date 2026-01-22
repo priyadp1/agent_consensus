@@ -1,0 +1,63 @@
+{
+  "question": "What kind of influence is ____ having on the way things are going in your country? Is the influence very good, somewhat good, somewhat bad or very bad in your country? e. religious leaders",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Religious leaders can have a significant influence on societal values, social cohesion, and moral guidance. Their impact varies greatly depending on the context\u2014sometimes they promote positive change, peace, and moral standards, but in other cases, they might contribute to social divisions or impede progress. Given this, perceptions of their influence in my country are mixed, but overall, many people see them as either somewhat positive or somewhat negative, reflecting a nuanced view rather than a clear-cut positive or negative influence. Therefore, I would select an option that captures this ambivalence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Religious leaders often hold significant influence over societal values, moral guidance, and community cohesion. In many countries, they can inspire positive social change, promote unity, and provide essential support during crises, which can be seen as a beneficial force. However, in some contexts, religious leaders may also uphold conservative or divisive views that may hinder progress or reinforce intolerance. On balance, their influence tends to be perceived as generally positive but with some recognition of potential negative impacts in certain situations. Therefore, I believe their influence is somewhat good overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Religious leaders can have a significant influence on societal values, moral standards, and social stability. Depending on the context, many people feel that religious figures help promote positive community cohesion and moral guidance, making their influence seem beneficial. Conversely, in some cases, religious leaders may be perceived as contributing to division, intolerance, or hindering social progress. Overall, the perception of their influence varies across different countries and communities, but many view it as somewhat beneficial or at least having a positive effect. Based on this, I believe their influence tends to be more good than bad in general.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Religious leaders often play a complex role in shaping societal values and social cohesion. While they can promote moral guidance, unity, and support positive community development, their influence can also sometimes reinforce conservative or divisive views that hinder certain social progress. In my country, I observe that their influence tends to be generally beneficial, helping maintain social stability and moral standards, though I acknowledge that negative aspects may exist in some contexts. Overall, I consider their impact to be somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Religious leaders often play a complex role in shaping societal values and social cohesion. While they can promote positive moral standards and help foster community unity, their influence can also lead to social divisions or hinder progress depending on the context. Given the mixed perceptions and the tendency of many people to see their influence as somewhat beneficial, I believe their influence generally leans toward the positive side but remains nuanced. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Religious leaders can have a profound impact on societal values and community cohesion, often acting as moral guides and sources of support. While they can promote positive change and unity, there are also cases where their influence might contribute to social divisions or hinder progress. Given the mixed perceptions and the tendency for their influence to be viewed as generally positive but with some negative aspects, I believe their impact in my country leans more toward a somewhat good influence overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Religious leaders hold a significant influence on societal morals, community cohesion, and cultural values. In many cases, they serve as moral anchors and support systems, fostering social solidarity and promoting positive behavior. However, their influence can sometimes contribute to social divisions or resistance to change when their views clash with progressive ideas or minority perspectives. Considering the generally positive role they play alongside some negative aspects, I believe their influence in my country is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Religious leaders have a significant influence on societal values, social cohesion, and moral standards in my country. While they often promote positive community development and help maintain stability, there are also instances where their influence can reinforce conservative views that may hinder social progress or contribute to divisions. Overall, I believe their impact tends to be more beneficial than harmful, making it generally a somewhat good influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Religious leaders have a significant influence on societal values and social cohesion. While they can promote moral standards, unity, and community support, they can also reinforce conservative or divisive views that may hinder social progress. Given the mixed perceptions and the tendency for many to see their influence as somewhat beneficial, I believe their impact is generally positive but nuanced. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

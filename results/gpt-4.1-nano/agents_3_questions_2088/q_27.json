@@ -1,0 +1,60 @@
+{
+  "question": "(Now/And thinking about the American people...) Which of these characteristics do you associate with the American people?...Competitive...Do you associate this with the American people or not?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that many Americans are competitive, especially in contexts like business, sports, and personal achievement. This competitive nature often drives innovation and success, but it can also lead to stress or conflict. Overall, I associate competitiveness with the American people because of the country's cultural emphasis on ambition and individual achievement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the American people are often associated with competitiveness due to their culture of innovation, individual achievement, and entrepreneurial spirit. This trait is reflected in the drive to succeed, competing in sports, business, and other areas. While not every individual may exhibit this trait, it is a common perception that characterizes many Americans' attitudes and pursuits.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the American people are often associated with competitiveness because the culture values ambition, innovation, and striving for success. Historically, Americans have competed in various arenas such as business, sports, and technology, which reinforces this characteristic. This competitive spirit can be seen as a driving force behind the country's achievements and resilience. Therefore, I associate the American people with being competitive.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the American people are often associated with competitiveness due to the cultural emphasis on innovation, individual achievement, and success. This trait is visible in various aspects of society, such as sports, business, and technological advancements. While not every individual exhibits this trait, it is a common perception that many Americans value and demonstrate competitiveness. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the American people are often characterized by competitiveness due to the country\u2019s emphasis on individual achievement, innovation, and success in various domains such as business and sports. Historically and culturally, this trait seems central to the national identity, motivating progress and resilience. Therefore, I associate the American people with being competitive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate the American people with competitiveness because of the cultural emphasis on achievement, innovation, and entrepreneurial spirit. Many Americans are driven by a desire to succeed and excel in various fields such as business, sports, and personal endeavors. While not every individual may fit this trait, it is a prevalent characteristic that is commonly linked to the national identity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I associate the American people with competitiveness because the country's culture places a strong emphasis on achievement, innovation, and entrepreneurial spirit. Many Americans are motivated by a desire to succeed and excel across various domains such as business, sports, and personal pursuits. This trait appears to be a significant part of the national identity, driving progress and resilience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I associate the American people with competitiveness because American culture highly emphasizes achievement, innovation, and individual success, which are often reflected in societal pursuits like sports, business, and technological progress. Although not every person may display this trait, it is a widespread perception linked to the national identity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the American people are often associated with competitiveness because of the cultural emphasis on individual achievement, innovation, and success. This trait appears to be a significant part of the national identity, as seen in many aspects of society such as sports, business, and technological progress. While not every individual may exhibit this trait, it is broadly perceived as a defining characteristic.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "As I read another list of statements, for each one, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with it...It is the responsibility of the state to take care of very poor people who can't take care of themselves.",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that it is important for the government to provide support and assistance to those who are most vulnerable, especially the very poor who cannot care for themselves. This reflects a sense of social responsibility and compassion, ensuring that basic needs are met and dignity is preserved. While I think there should be some level of personal responsibility and structural support, I generally agree that helping the very poor is a fundamental responsibility of the state to promote a more equitable society.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that society has a moral and ethical responsibility to support those who are unable to care for themselves, especially the very poor. Providing assistance can help ensure basic needs are met, reduce suffering, and promote social stability. While I recognize the importance of individual responsibility, I think the state should play a significant role in caring for the most vulnerable, as this reflects compassion and collective responsibility.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that providing support to those in need is a fundamental responsibility of society and the government. Ensuring that very poor people who cannot take care of themselves receive help can reduce hardship, promote social stability, and foster greater equality. While I think that this support should be balanced with encouraging personal responsibility and self-sufficiency where possible, I still agree that taking care of the most vulnerable is an essential obligation of the state.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that society has a moral obligation to support those who are unable to care for themselves, especially the very poor. Providing assistance helps meet basic needs, reduces suffering, and promotes social cohesion. While personal responsibility is important, I think that the state's role in caring for the most vulnerable reflects compassion and a collective moral duty. Therefore, I fully support the idea that it is the responsibility of the state to take care of very poor people who can't care for themselves.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that ensuring support for the very poor who cannot care for themselves is a compassionate and necessary responsibility of the state. Protecting the most vulnerable helps promote social justice, reduce inequality, and uphold human dignity. While encouraging personal responsibility is important, I think society has a fundamental duty to assist those in truly dire need. Therefore, I mostly agree that it is the responsibility of the state to take care of such individuals.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that ensuring support for the very poor who cannot care for themselves is a fundamental moral obligation of the state, reflecting societal compassion and a commitment to reducing inequality. While personal responsibility is important, I think that the most vulnerable members of society need and deserve collective aid to maintain their dignity and well-being. Therefore, I lean toward a strong belief that the state should be responsible for these individuals.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that society has a moral responsibility to support the very poor who cannot care for themselves because ensuring that vulnerable individuals are cared for promotes social justice and dignity. While encouraging personal responsibility is important, those who are genuinely unable to take care of themselves rely on collective support. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that society has a moral obligation to support those who are unable to care for themselves, especially the very poor. Providing assistance helps meet basic needs, reduces suffering, and promotes social cohesion. While personal responsibility is important, I think that the state's role in caring for the most vulnerable reflects compassion and a collective moral duty. Therefore, I fully support the idea that it is the responsibility of the state to take care of very poor people who can't care for themselves.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that providing support to those who are unable to care for themselves is a fundamental moral responsibility of the state, as it helps ensure basic human dignity and social stability. While personal responsibility is important, society has a duty to care for its most vulnerable, especially the very poor who cannot help themselves. This support helps reduce suffering and promotes fairness, reflecting a compassionate approach to social justice. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

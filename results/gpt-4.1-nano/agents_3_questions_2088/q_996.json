@@ -1,0 +1,61 @@
+{
+  "question": "Overall, how would you describe the relationship between India and China? Is it one of cooperation, one of hostility, or neither?",
+  "options": [
+    "One of cooperation",
+    "One of hostility",
+    "Neither"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China is complex and multifaceted. While there have been periods of cooperation, such as economic ties, cultural exchanges, and dialogue on regional issues, there are also significant sources of tension, including border disputes, strategic rivalry, and differing global ambitions. This interplay results in a relationship that cannot be simply classified as one of cooperation or hostility, but rather as one that encompasses elements of both, fluctuating over time depending on specific circumstances and issues.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China is complex, characterized by both cooperation and hostility at different times and contexts. They have engaged in joint initiatives, trade, and diplomatic dialogues that highlight cooperation. However, there are also ongoing border disputes, strategic rivalry, and incidents that reflect hostility. Overall, it cannot be classified purely as one of cooperation or hostility; instead, it is a nuanced relationship that includes elements of both, making it neither strictly one nor the other.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China is complex and multifaceted. While there are areas of economic cooperation, such as trade and infrastructure development, there are also significant tensions related to border disputes, geopolitical rivalries, and strategic competition. These conflicting aspects mean that the relationship cannot be characterized solely as cooperative or hostile but involves a mixture of both, making it neither solely one nor the other.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China involves both cooperation and hostility, depending on the context. They have engaged in productive economic activities, diplomatic dialogues, and joint initiatives, which indicate cooperation. Simultaneously, ongoing border tensions, strategic rivalry, and failures to resolve disputes reflect hostile elements. The relationship is multifaceted and cannot be categorized as solely one or the other, but encompasses both aspects simultaneously. Therefore, the best description is that it is neither purely cooperative nor purely hostile.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China is characterized by a complex interplay of cooperation and hostility. On the one hand, they share economic ties, trade, and cultural exchanges that foster cooperation. On the other hand, longstanding border disputes, strategic rivalry, and geopolitical tensions introduce elements of hostility. These contrasting factors indicate that their relationship cannot be classified as purely one of cooperation or hostility, but rather as a nuanced mix of both. Therefore, the most accurate choice is that it is neither strictly cooperative nor hostile, but a combination of both.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China is highly nuanced, involving multiple overlapping factors. While there are ongoing tensions, especially over border disputes and strategic rivalries, both countries also maintain significant economic, diplomatic, and cultural exchanges that foster cooperation. This complexity prevents the relationship from being clearly categorized as purely cooperative or hostile, indicating that it encompasses elements of both and is therefore best described as neither.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China involves both cooperation and hostility. They engage in economic trade and cultural exchanges, which promote cooperation, but also face significant tensions over border disputes and strategic rivalry, which introduce hostility. Given this complexity, it is not accurate to classify their relationship solely as cooperative or hostile. Therefore, it is best described as a nuanced mix of both, fitting into the \"neither\" category.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China is complex and multifaceted, involving both cooperation and hostility. They engage in economic, diplomatic, and cultural exchanges that promote cooperation, while also experiencing border tensions, strategic rivalry, and unresolved disputes that reflect hostility. Given this nuance, it is clear that neither a purely cooperative nor a purely hostile relationship accurately captures the full dynamics between the two countries. The most appropriate description recognizes the coexistence of both elements. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The relationship between India and China is complex and multifaceted. They engage in cooperation through economic ties, trade, and diplomatic efforts, yet also experience hostility due to border disputes, strategic rivalry, and geopolitical tensions. Given this duality, it is inaccurate to categorize their relationship as solely cooperative or solely hostile. The most appropriate description recognizes this nuanced interplay as neither entirely one nor the other.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

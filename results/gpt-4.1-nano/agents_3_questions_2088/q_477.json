@@ -1,0 +1,62 @@
+{
+  "question": "In your opinion, how many Muslims around the world support Islamic extremists like al Qaeda - would you say most, many, just some or very few?",
+  "options": [
+    "Most",
+    "Many",
+    "Just some",
+    "Very few"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Based on available data and global perspectives, the majority of Muslims around the world do not support Islamic extremists like al Qaeda. Most Muslims are peaceful and oppose violence and terrorism, and support for extremist groups is generally limited to a very small minority within any population. Therefore, it\u2019s reasonable to believe that only a very few Muslims support such extremism.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the available global data and general perceptions, it is widely understood that supporting extremism, especially violent acts associated with groups like al Qaeda, is not common among the majority of Muslims worldwide. While there are some individuals or small groups that may support or sympathize with such ideologies, the overwhelming majority reject extremism and violence, considering them contrary to mainstream Islamic teachings. Therefore, it is most accurate to categorize the support for Islamic extremists like al Qaeda among Muslims as just some or very few, rather than most or many. Given the answer options, \"just some\" seems to best reflect the broader and more accurate understanding of global Muslim populations' attitudes.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Based on global perceptions and available data, the vast majority of Muslims around the world do not support extremist groups like al Qaeda. Most Muslim communities tend to emphasize peace, coexistence, and reject violence. While a small minority might have sympathies or be influenced by extremist ideologies, it is not representative of the larger Muslim population. Therefore, I would say that very few Muslims support Islamic extremists like al Qaeda.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the available data and the common understanding that the majority of Muslims worldwide do not support extremism, I believe that support for Islamic extremists like al Qaeda is limited to a small minority. While some individuals may have sympathized or supported extremist ideologies, this does not represent the broader Muslim population. Therefore, most would fall under the category of \"just some\" or \"very few.\" Given the options, I feel \"just some\" most accurately reflects this nuanced understanding, but I recognize the significant majority tend to oppose such extremism.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Based on the available data and global perspectives, the support for Islamic extremists like al Qaeda among Muslims worldwide is very limited. Most Muslims prioritize peace and coexistence, and extremist support is confined to a very small minority. While isolated cases may exist, they do not represent the larger population. Therefore, I believe that very few Muslims support such extremism.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Considering the extensive data and global perceptions, the overwhelming majority of Muslims worldwide do not support extremist groups like al Qaeda. Support is generally confined to a very small minority, with most Muslims actively opposing violence and terrorism. While there may be some individuals who hold sympathies or support for extremism, they do not represent the mainstream Muslim population. Therefore, the most accurate choice reflects this consensus.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Based on the extensive data, global surveys, and the consensus among experts, support for Islamic extremists like al Qaeda among Muslims worldwide is extremely limited. The vast majority of Muslims prioritize peace, coexistence, and condemn terrorism. Public opinion and research consistently indicate that only a very small minority, if any, support such extremism. Therefore, the appropriate choice reflects this understanding.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the available data and prevailing research, the support for extremist groups like al Qaeda among Muslims worldwide is generally very low. The majority of Muslims oppose violence and terrorism; support is confined to a small minority that does not reflect the broader population. Therefore, I believe \"very few\" most accurately represents the global support level.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Based on my understanding and the general consensus from available information, the support for Islamic extremists like al Qaeda among Muslims worldwide is very limited. The vast majority of Muslims advocate peace and condemn violence, and support for extremism appears to be confined to a very small minority. Consequently, the most accurate choice aligns with the \"very few\" category.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

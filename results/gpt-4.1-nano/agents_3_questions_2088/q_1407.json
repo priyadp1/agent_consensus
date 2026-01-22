@@ -1,0 +1,63 @@
+{
+  "question": "Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: Law and order?",
+  "options": [
+    "Very good influence",
+    "Good influence",
+    "Bad influence",
+    "Very bad influence",
+    "No influence (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Since 1991, many countries have experienced significant political, social, and economic changes that have impacted law and order in various ways. In some contexts, these changes have contributed to strengthening institutions, improving legal systems, and increasing respect for the rule of law, which can be seen as positive developments. Conversely, in other situations, there have been increases in corruption, crime, or governmental instability that have undermined law enforcement and legal structures, thereby negatively affecting law and order.\n\nGiven the complexity and variability of these changes, I believe that overall, the influence has been more positive than negative in many countries, fostering progress and stability, while recognizing that challenges persist. Therefore, I consider these changes to have had a good influence on law and order.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Since 1991, many countries have undergone significant political, social, and legal reforms aimed at strengthening law enforcement and establishing clearer legal frameworks. In numerous cases, these changes have contributed to improving the rule of law, reducing corruption, and enhancing justice, which can be seen as positive developments. However, some regions have also experienced setbacks, such as increased corruption, political interference, or inconsistencies in law enforcement, which can undermine law and order. Overall, the impact tends to vary depending on the specific country and the effectiveness of implementation. On balance, I believe the changes have generally had a good influence by promoting stability and reform, even if challenges remain.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The changes since 1991 in my country have generally led to improvements in law and order, with increased efforts to enforce laws, establish new legal frameworks, and reduce certain types of crime. While challenges remain, the overall trend appears to have strengthened the rule of law and contributed positively to societal stability. Therefore, I believe these changes have had a good influence on law and order.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the information provided, the majority of respondents believe that the changes since 1991 have generally had a positive effect on law and order, citing improvements in legal frameworks, enforcement, and societal stability. While some challenges remain, the overall sentiment leans toward a beneficial influence. Therefore, I conclude that the changes have mostly had a good influence on law and order.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that since 1991, my country has experienced significant political, social, and economic transformations. These changes have generally led to stronger institutions, improved legal frameworks, and increased enforcement of laws, which have positively impacted law and order. Although challenges such as corruption or crime still exist, the overall trend indicates progress toward greater stability and adherence to the rule of law. Consequently, I perceive these changes as having had a good influence on law and order.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the complex background of political, social, and legal transformations since 1991, many countries have experienced both positive reforms and setbacks affecting law and order. While some countries have strengthened their legal institutions, reduced corruption, and improved justice, others have faced increased instability, corruption, or law enforcement issues. Considering the overall trend and the examples provided, I believe that the changes have largely contributed positively to law and order, fostering progress and stability despite ongoing challenges.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives provided and the overall context, the changes since 1991 have generally contributed positively to law and order by strengthening institutions, improving legal frameworks, and promoting stability. Although challenges remain, the trend appears to be largely toward progress rather than deterioration. Therefore, I believe the influence has been good rather than very good or bad.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Since the significant political and legal changes in my country since 1991 have generally led to improvements in legal frameworks, enforcement, and societal stability, I believe these developments have had a positive impact on law and order. Despite some ongoing issues, the overall progression suggests that the influence has been beneficial. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Since 1991, the substantial political and social reforms in my country have contributed to the strengthening of institutions, better legal frameworks, and improved law enforcement. These developments have enhanced law and order, fostering a more stable and lawful society despite ongoing challenges. Overall, the changes have had a positive influence on maintaining law and order.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

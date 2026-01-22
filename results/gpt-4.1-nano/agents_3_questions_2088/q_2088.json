@@ -1,0 +1,63 @@
+{
+  "question": "How have your perceptions about religious values changed from the experience of Hurricane Maria?",
+  "options": [
+    "A lot",
+    "Fairly",
+    "Little",
+    "Nothing",
+    "No answer"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The experience of Hurricane Maria highlighted the importance of faith and spiritual resilience for many people, including myself. Witnessing such a devastating event tendered my perception of religious values, making me more aware of their role in providing hope and community support during crises. While my perception has deepened significantly, it hasn't entirely reshaped my fundamental views, but it has certainly reinforced the significance of spirituality in facing challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The experience of Hurricane Maria was extremely impactful and deeply unsettling, prompting many to reevaluate their beliefs and perceptions about faith and religious values. For me, this event led to a moderate shift in perception as I found myself seeking comfort and understanding through spirituality, yet I didn't completely overhaul my previous beliefs. This is why I would choose a moderate response, reflecting a notable but not overwhelming change.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The experience of Hurricane Maria deeply affected many people's perspectives on religious values, often leading to increased faith or reliance on spiritual beliefs as a source of comfort and strength during such a tragedy. For me, it prompted a modest but noticeable shift in my perception, making me more aware of the significance of religious communities and values during times of crisis. While it did not cause a dramatic transformation, it did foster a sense of increased appreciation and reflection on spiritual beliefs. Therefore, I would choose the option indicating a slight change.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perceptions about religious values have become somewhat more significant post-Hurricane Maria, as I found myself seeking solace and strength through spiritual beliefs during a time of crisis. The experience highlighted the importance of faith and community support in coping with adversity, leading to a moderate shift in my outlook. I wouldn't say it transformed my beliefs entirely, but it definitely increased my appreciation for religious values and their role in resilience. Therefore, I would choose a slight to moderate change, leaning toward a more noticeable but not overwhelming shift.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perceptions about religious values have become somewhat more significant and meaningful to me as a result of experiencing Hurricane Maria. The disaster highlighted the importance of faith and spiritual resilience in coping with crises. While my views have not dramatically shifted, I now have a greater awareness of how religious and spiritual beliefs can serve as sources of hope, community, and strength during difficult times. Therefore, I would select the option indicating a noticeable but not profound change.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The experience of Hurricane Maria significantly impacted my perceptions of religious values, making me think more deeply about the role of faith and spirituality during times of crisis. While it didn't completely change my core beliefs, it reinforced the importance of religious support and community in facing hardships. This aligns with a moderate shift, where I feel my perceptions have grown but not drastically transformed. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perceptions about religious values have become somewhat more meaningful and significant to me after experiencing Hurricane Maria. The disaster highlighted how faith and spirituality can serve as sources of hope, community, and strength during challenging times. While I don't feel my core beliefs have drastically changed, I now see more clearly the role religious values play in resilience and coping, making me think more deeply about their importance in crises.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perceptions about religious values have become somewhat more significant following Hurricane Maria. The intense experience prompted me to seek comfort and strength through faith, reinforcing the importance of spiritual support and community during crises. While it didn't alter my core beliefs entirely, it enhanced my appreciation for religious values and their role in resilience. Therefore, I would choose B.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perceptions about religious values have become somewhat more significant and meaningful to me as a result of experiencing Hurricane Maria. The disaster underscored the importance of faith and spiritual resilience in coping with crises. While my views have not dramatically shifted, I now have a greater awareness of how religious and spiritual beliefs can serve as sources of hope, community, and strength during difficult times. Therefore, I would select the option indicating a noticeable but not profound change.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

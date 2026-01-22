@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of ____. c. Michel Temer",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Michel Temer is a controversial political figure in Brazil, having served as president from 2016 to 2018 amid corruption allegations and widespread division. Public opinion about him tends to be polarized, with some viewing his presidency critically due to political scandals and others possibly seeing him as a necessary leader during turbulent times. Given this context, I might lean towards considering a somewhat unfavorable opinion to reflect the overall skepticism and criticism he faced, but also acknowledging that some people might hold a more neutral or even slightly positive view.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Michel Temer, who served as Brazil's president from 2016 to 2018, remains a controversial figure. Many people view his presidency with skepticism and criticism due to allegations of corruption and political controversies associated with his tenure. While some may have a somewhat favorable opinion based on his political career or economic policies, the general public perception tends to lean more toward unfavorable assessments. Given this context, I would lean toward a somewhat unfavorable opinion since strong favorable opinions are less common for him in recent public discourse.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Michel Temer, as a former President of Brazil, has been a controversial figure. His presidency was marked by political scandals and economic challenges, which led to mixed public opinions. Some may view his policies or leadership style favorably, while others feel negatively about his involvement in corruption scandals. Given this complex background, public opinion on Temer tends to vary considerably. However, considering the general tendency of public opinion to be somewhat divided and the impressions shaped by recent political events, I would select a middle-ground option reflecting ambivalence or mixed feelings.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the public perception of Michel Temer as a controversial figure with allegations of corruption and political scandals, combined with the tendency for many to view his presidency somewhat unfavorably, I believe that a somewhat unfavorable opinion best captures the general sentiment. While some may have mixed feelings or slight support, the overall public attitude tends to lean toward skepticism and criticism.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Michel Temer remains a highly polarizing figure in Brazilian politics due to his involvement in corruption scandals and controversial policies during his presidency. Public opinion continues to be divided, with some viewing him negatively because of the scandals and others possibly seeing him as a figure navigating turbulent political waters. Considering this, a somewhat unfavorable opinion best captures the general skepticism and mixed feelings most people still have about him.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the widespread criticism and scandals associated with Michel Temer's presidency, as well as the generally negative public perception in Brazil, I believe that most people would view him somewhat unfavorably. While some may hold neutral or slightly positive opinions, the dominant sentiment appears to be skeptical or critical. Therefore, my choice reflects this overall impression.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Michel Temer's presidency was marked by widespread corruption scandals and controversial reforms, which have left a largely negative perception among the Brazilian public. Based on these factors and the general opinion reflected in prior responses, I believe that most people hold a somewhat unfavorable view of him, as skepticism and criticism remain prevalent. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the widespread criticism, scandals, and negative public perception surrounding Michel Temer, I believe that most people would have a somewhat unfavorable opinion of him. While some may hold neutral or slightly positive views, the dominant sentiment appears critical and skeptical, which aligns with a somewhat unfavorable stance.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given Michel Temer's controversial political career, involvement in corruption scandals, and the mixed public opinions that tend to lean toward skepticism and criticism, it seems most appropriate to select a somewhat unfavorable opinion. While some may still hold positive views, the overall perception appears predominantly negative or critical, but not extremely so. Therefore, I choose option C to best reflect this nuanced view.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

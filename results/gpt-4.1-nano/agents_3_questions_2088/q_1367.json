@@ -1,0 +1,62 @@
+{
+  "question": "In a family, when it comes to making important decisions about ____, do you think \u2026? c. Their family's religious practices",
+  "options": [
+    "Men generally have more influence",
+    "Women generally have more influence",
+    "Men and women generally have about the same influence",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In many traditional or religious families, men often tend to have more influence over decisions related to religious practices, reflecting cultural norms that assign spiritual authority to men. While this can vary depending on societal context and individual family dynamics, the general trend leans towards men's greater influence in such matters. Therefore, I believe that men generally have more influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "In many families, religious practices are often influenced by cultural norms and traditions. Historically, men have sometimes held more authority in religious decision-making, especially in more traditional or patriarchal settings. However, in other families, women might have significant influence, especially if they are more involved or hold leadership roles within the family or community religious activities. Given the diversity and evolving roles in modern families, it's common that influence can be shared equally or vary depending on the specific context. I believe that in most contemporary settings, men and women tend to share influence fairly equally on such matters, especially in more progressive or egalitarian households.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In many families, religious practices are often influenced by traditional gender roles. In some cultures, men tend to have more influence over religious decisions, especially if those practices involve leadership roles or community interactions led by men. Conversely, in more egalitarian families, women might have more say, particularly if they are responsible for guiding spiritual activities or making decisions that align with family values. Overall, given the prevalence of traditional gender dynamics in religious decision-making within families, it is common that men hold more influence in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "In assessing influence over a family's religious practices, I recognize that traditional gender roles often suggest men hold more authority, especially in formal religious decision-making or leadership roles. However, contemporary many households, especially more egalitarian or progressive families, see shared influence between men and women, with women sometimes taking a prominent role in guiding spiritual activities. Given the diversity across cultures and family structures, I believe that in most cases, influence is either shared equally or skewed toward men due to longstanding norms. Nonetheless, considering overall trends toward gender equality in family decision-making, my choice leans toward equal influence in modern contexts.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In many traditional and religious family contexts, men often hold more influence over decisions related to religious practices, as cultural norms frequently assign spiritual authority and leadership roles to men. While exceptions exist in more egalitarian settings, the general trend still leans toward men's greater influence in these matters. Therefore, I believe that men generally have more influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my view, the influence over religious practices within families often reflects traditional gender roles, especially in more conservative or religious communities. Historically and culturally, men have commonly been perceived as the primary authority in religious decision-making, which can be rooted in religious doctrines or societal norms that assign spiritual leadership to men. While I recognize that gender roles are evolving and some families may share influence more equally, I believe that, overall, men tend to have more influence in this area.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In many traditional and religious family settings, societal norms and religious doctrines often establish men as primary spiritual authority figures, leading to their greater influence over religious practices. While evolving gender roles have introduced more egalitarian approaches in some families, the general trend remains that men tend to have more influence in this area. Given this context, I believe men generally have more influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the diversity of perspectives and acknowledging traditional gender roles as well as contemporary shifts toward equality, I believe that influence over a family's religious practices often remains somewhat skewed toward men, especially in more conservative or religious contexts. However, in more progressive families, influence can be shared more equally. Given the overall tendency observed across different societies and families, I think it\u2019s more accurate to recognize thatmen generally have more influence in this area.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In many cultural and traditional contexts, men are often viewed as the spiritual heads of the family and tend to hold more influence over religious practices, particularly in formal or leadership roles within the religious community. This reflects longstanding norms and gender roles that assign spiritual authority to men. While there are families where influence is shared or women are more involved, these cases are less dominant in traditional settings. Given the general trend and societal patterns, I believe that men generally have more influence when it comes to making important decisions about their family's religious practices.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

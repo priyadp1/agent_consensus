@@ -1,0 +1,60 @@
+{
+  "question": "Overall, were you satisfied or dissatisfied with the results of the March 4th Presidential elections? ",
+  "options": [
+    "Satisfied",
+    "Dissatisfied"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am satisfied with the results of the March 4th Presidential elections because they reflect the democratic process and the diverse opinions of the electorate. The election outcome upheld the principles of fair voting and allowed for the peaceful transfer of power, which are fundamental to a healthy democracy. Although there may be differing opinions, I believe the process was legitimate and representative of the people's will.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am satisfied with the results of the March 4th Presidential elections because they reflected a fair and transparent process, upholding democratic principles and majority choice. The electoral system worked efficiently, and the outcome was accepted by most stakeholders, indicating overall satisfaction with the process and results. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am generally satisfied with the results of the March 4th Presidential elections because they reflect the democratic process and show that the electoral system is functioning as intended. Although there might be concerns or criticisms, the overall outcome seems to demonstrate fairness and legitimacy. Therefore, I feel pleased with how the elections turned out. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am satisfied with the results of the March 4th Presidential elections because the reported process was fair, transparent, and reflected the democratic will of the people. Multiple accounts indicate that the electoral system functioned properly, and the outcome was broadly accepted, suggesting legitimacy and public confidence in the results. While individual perspectives may vary, the overall evidence points toward a positive assessment of the election outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am satisfied with the results of the March 4th Presidential elections because the overall process appears to have been conducted fairly and legitimately, reflecting democratic principles and ensuring the peaceful transfer of power. The positive assessments from other respondents reinforce my view that the election outcome was credible and representative of the people's will.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I feel satisfied with the results of the March 4th Presidential elections because the process appeared transparent, fair, and representative of the people's will. The election upheld democratic principles, and the peaceful transfer of power reinforces confidence in the system's legitimacy. Ensuring the legitimacy and fairness of elections is vital for trust in democratic institutions, and from the information provided, these criteria seem to have been met.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the sentiments expressed by the other respondents, who both indicate satisfaction due to the fairness, transparency, and legitimacy of the election process, I also feel that the results reflected democratic principles and ensured a peaceful transfer of power. These factors contribute to a positive perception of the election outcome, leading me to be satisfied with the results.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the information provided, the election process appears to have been conducted fairly, transparently, and in a manner that reflected the democratic will of the people. The reports of legitimacy, peaceful transfer of power, and public confidence support satisfaction with the results. Therefore, I am inclined to feel satisfied overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the positive assessments from other respondents emphasizing fairness, transparency, legitimacy, and public confidence, my evaluation aligns with these sentiments. I also believe that a fair and credible election process is crucial for democratic legitimacy, and the evidence presented supports a satisfied perspective.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

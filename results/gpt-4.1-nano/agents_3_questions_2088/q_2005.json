@@ -1,0 +1,63 @@
+{
+  "question": "Would you say that each of the following is doing a very good, somewhat good, somewhat bad, or very bad job dealing with global climate change? a. the United States",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The United States has been a major contributor to global greenhouse gas emissions, and its response to climate change has often been viewed as inconsistent, with some advancements but also setbacks in policy and implementation. While there are initiatives and commitments at various levels, overall, the nation's efforts are generally seen as insufficient and somewhat lacking in urgency. Therefore, I would rate the U.S. as doing a somewhat bad job in handling global climate change.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The United States has historically played a significant role in global climate change issues due to its large emissions and influence. While recent efforts and policies have shown some progress, there are still areas where the U.S. could improve its commitment and action. Public perception often reflects a mixed view, acknowledging both advancements and shortcomings. Overall, considering the mixed responses and ongoing challenges, I believe the perception is that the U.S. is doing a somewhat good job but still has substantial room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The United States has shown significant efforts to address climate change through policy initiatives, technology investments, and international commitments. However, political polarization and inconsistent policy implementation have hampered progress. While some leadership and action have been evident, doubts remain about the overall effectiveness and urgency of the country's approach. Considering these factors, I believe the US is doing a somewhat good job but still has considerable room for improvement. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States is doing a somewhat good job addressing global climate change. While there have been notable efforts through policies, investments, and international commitments, political polarization and inconsistent implementation have limited the overall impact. The country has made progress, but there is still significant room for improvement to effectively tackle the crisis.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The United States has taken some steps toward addressing climate change, including international commitments and technological investments. However, political polarization and inconsistent policy implementation have hindered significant progress. Given these mixed efforts and ongoing challenges, I believe the country is doing a somewhat good job but still has considerable room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States is currently doing a somewhat good job in addressing global climate change. While it has made some progress through policies and initiatives, significant challenges remain, and public perception still holds that more decisive and committed action is needed. Overall, the efforts are somewhat encouraging but ongoing and more substantial measures are required to effectively combat climate change.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States is making some efforts to address climate change through policies and investments, but political polarization and inconsistent implementation limit the overall effectiveness. Given these realities, I think the country is doing a somewhat good job, though there is still significant room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United States is doing a somewhat good job addressing global climate change. While there have been positive steps through policies and commitments, political divisions and inconsistent follow-through have limited progress. Overall, the efforts are encouraging but still require more decisive, sustained actions to effectively address the crisis.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United States is doing a somewhat good job addressing global climate change. While there have been efforts through policies, international commitments, and technological investments, political polarization and inconsistent implementation have limited tangible progress. Overall, the country has made some strides, but there remains significant room for improvement to effectively combat the crisis.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

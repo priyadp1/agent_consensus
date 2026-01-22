@@ -1,0 +1,63 @@
+{
+  "question": "How likely are you personally to take political action on __ , such as contact an elected official or participate in a demonstration? d. poverty",
+  "options": [
+    "Very likely",
+    "Somewhat likely",
+    "Not too likely",
+    "Not at all likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat likely to take political action on poverty because I believe it is an urgent issue that affects many people, and engaging with elected officials or participating in demonstrations could help bring attention and solutions to this problem. I feel moderately motivated but might need more information or motivation to take meaningful action. Therefore, I select B. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would select B because while I am somewhat aware of the issues related to poverty and recognize the importance of taking action, I may not feel strongly enough motivated or confident to immediately contact an official or participate in a demonstration. I see value in being informed and engaged but may not be committed to taking direct action unless I see a pressing need or more personal connection.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat likely to take political action on poverty because it is an important issue that affects many people, and I feel that individual and collective efforts can contribute to positive change. However, I may not always follow through or prioritize such actions, which makes me hesitate to say I am very likely. Still, I recognize the significance of engaging in efforts like contacting officials or participating in demonstrations to address poverty. Therefore, I select B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I feel somewhat motivated to take political action on poverty because I believe that raising awareness and advocating for change are important, but I may lack the immediate motivation or confidence to directly contact officials or join demonstrations. I recognize the importance of participating in efforts to reduce poverty, but I might not often follow through unless I feel strongly about a particular situation or cause. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that addressing poverty is an urgent and important issue that warrants political action. While I recognize its significance and feel somewhat motivated to engage, I may not always follow through or prioritize such actions due to other commitments or barriers. Nonetheless, I am personally inclined to take political action on this issue when the opportunity arises. Therefore, I select B. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would rate myself as somewhat likely to take political action on poverty because I recognize it as a significant and urgent issue affecting many people. While I feel motivated to contribute to positive change, I may need more information or a stronger personal connection to feel fully compelled to contact officials or participate in demonstrations. My willingness depends on how personally relevant or pressing the issue appears to me at the time. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I personally believe that poverty is a critical issue that warrants political action. While I may not always engage due to various factors such as time or resources, I feel motivated to participate when I see opportunities or when the issue hits close to home. Given the importance and my general openness to acting on it, I would lean toward being somewhat likely to take political action on poverty, but not necessarily very likely all the time.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat motivated to take political action on poverty because I recognize that it's a critical issue affecting many people's lives, but I may lack the immediate motivation or confidence to directly contact officials or participate in demonstrations unless I feel a strong personal connection or sense of urgency. My willingness to act depends on how pressing or personally relevant the issue seems at the moment. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel motivated to take political action on poverty because I believe it is an urgent issue that needs attention. While I recognize its importance and some barriers may exist, I am inclined to engage when I see an opportunity or a clear call to action. My willingness depends on circumstances, but overall, I lean toward being somewhat likely to act. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

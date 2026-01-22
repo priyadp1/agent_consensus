@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. b. Social Democratic Party of Germany (SPD)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany (SPD). I believe they generally focus on social justice and workers' rights, which I find positive, though I may have reservations about their policies or implementation at times.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany (SPD). This is because the SPD has historically played a significant role in Germany's political landscape, advocating for social justice and welfare policies. While I appreciate its contributions and some of its current initiatives, I am not entirely convinced about all its policies or direction, which prevents me from rating it as very favorable. Therefore, I select this intermediate opinion to reflect a positive but cautious attitude toward the party.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany (SPD) because I appreciate their focus on social justice and egalitarian policies, though I may not fully agree with all of their positions. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany (SPD) because I appreciate their focus on social justice and welfare policies. While I see their contributions positively, I also recognize there are areas where I might not fully agree or feel uncertain about their policies, preventing me from choosing a more favorable stance. Therefore, I select this intermediate opinion to reflect a cautious yet positive outlook on the party.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany because I appreciate their focus on social justice and workers' rights, which I find important, though I may have some reservations about certain policies or to what extent they implement their priorities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany (SPD). I recognize their historical role in promoting social welfare and workers' rights, and I appreciate some of their current initiatives. However, I have reservations about certain policies or their implementation, which prevents me from being more enthusiastic. Therefore, I select this intermediate opinion to reflect a positive but cautious attitude toward the party.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany because I value their commitment to social justice and workers' rights, though I have some reservations about their policies and their implementation. This cautious positivity aligns with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany (SPD) because I acknowledge their efforts in promoting social justice and welfare policies. While I appreciate their historical contributions and current initiatives, I also have some reservations or uncertainties about certain policies or implementation. This cautious but generally positive view aligns with a somewhat favorable stance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Social Democratic Party of Germany because I appreciate their emphasis on social justice, welfare policies, and workers' rights. While I recognize their positive contributions, I also have some reservations about certain policies or the extent to which they can fully implement their priorities, which prevents me from choosing a more favorable or very favorable stance. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

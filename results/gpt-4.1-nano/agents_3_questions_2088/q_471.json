@@ -1,0 +1,61 @@
+{
+  "question": "Do you think a woman should choose her own husband, or do you think it is better for a woman's family to choose her husband?",
+  "options": [
+    "Woman should choose",
+    "Family should choose",
+    "Both should have a say (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should have the autonomy to choose her own husband because personal choice fosters happiness, respect, and mutual understanding in a relationship. While family opinions can be valuable, ultimately, the woman knows best what suits her personality, values, and life goals. Allowing her to make her own decision empowers her and promotes independence, which are essential for a healthy partnership. However, involving family members can also provide support and guidance if done respectfully. Therefore, a balanced approach where the woman\u2019s preference is prioritized, but family input is also considered, would be ideal.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should have the autonomy to choose her own husband because her personal feelings, preferences, and judgment are crucial in such a significant decision. While family input can be valuable, ultimately, the choice should rest with the woman to ensure her happiness and independence. Respecting a woman's agency promotes equality and individual freedom in decision-making about her life and future. However, involving the family can still provide support and guidance, making option C a reasonable compromise but not overriding the woman's personal choice entirely.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should have the autonomy to choose her own husband because personal relationships are deeply individual and require mutual understanding and consent. Allowing women to make their own choices supports gender equality and respects their independence. While family involvement can be beneficial, it should not override a woman's personal preferences and agency. Ultimately, the decision should prioritize the woman's feelings and wishes to foster genuine partnership and happiness.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should have the autonomy to choose her own husband because personal choice and individual independence are fundamental to her happiness and self-determination. While family input can be supportive, it should not override her personal preferences and freedom to decide who she wants to marry. Respecting a woman's agency is essential for promoting gender equality and ensuring that the decision aligns with her true desires. Therefore, I support the idea that women should choose their own partners.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should have the autonomy to choose her own husband because personal choice fosters happiness, respect, and mutual understanding in a relationship. While family opinions can be valuable, ultimately, the woman knows best what suits her personality, values, and life goals. Allowing her to make her own decision empowers her and promotes independence, which are essential for a healthy partnership. However, involving family members can also provide support and guidance if done respectfully. Therefore, a balanced approach where the woman\u2019s preference is prioritized, but family input is also considered, would be ideal.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should choose her own husband because personal autonomy is crucial for her happiness, independence, and the development of a healthy relationship. While family input can offer support, the final decision should rest with her to respect her judgment and life goals. Empowering women to make their own choices fosters equality and ensures that her preferences are prioritized in such an important matter.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should choose her own husband because personal autonomy allows her to make a decision that aligns with her values, personality, and life goals. Respecting her independence fosters empowerment and helps build a healthy, mutually respectful relationship. While family input can provide support and guidance, the ultimate decision should rest with her to ensure her happiness and autonomy are prioritized.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe a woman should choose her own husband because personal autonomy and individual choice are vital for her happiness, independence, and a genuine, compatible relationship. While family input can be respectful and supportive, it should not override her own preferences and right to decide. Respecting her agency promotes equality and ensures the decision aligns with her true desires.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a woman should have the autonomy to choose her own husband because personal choice is fundamental to her happiness, independence, and self-determination. Respecting her agency ensures that the decision aligns with her true desires and promotes gender equality. While family input can be supportive, it should not override her individual preferences. Empowering women to make their own choices fosters healthier relationships and respects their rights. Therefore,\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

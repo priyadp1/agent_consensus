@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem, or not a problem at all...conflict between religious groups.",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can be a significant issue depending on the context. If such conflicts lead to violence, social division, or undermine national stability, it can be considered a very big problem. In many countries, religious conflicts have historically caused severe disruptions and suffering, which makes addressing or preventing such conflicts very important. However, in places where religious groups coexist peacefully and conflicts are rare or easily managed, it might be less problematic, perhaps only a small or moderate issue. Overall, given the potential for serious consequences, I believe it warrants a high level of concern. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can have serious implications for social harmony and safety. When such conflicts escalate, they can lead to violence, discrimination, and instability, affecting many aspects of daily life and governance. While in some countries or regions this may be a minor issue or managed effectively, in others it remains a significant concern needing urgent attention. Overall, considering the potential for widespread harm and societal division, I believe it is generally a very big problem in many contexts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The conflict between religious groups can significantly impact social stability, safety, and cohesion. In many countries, such conflicts have led to violence, discrimination, and divisions within communities. While some areas may experience peaceful coexistence, areas with ongoing or intense conflicts highlight it as a major issue. Therefore, considering the potential for unrest and social fracture, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can have serious consequences for social stability and safety. When such conflicts escalate, they often lead to violence, discrimination, and societal divisions, which can undermine community cohesion and trust. Given the potential for widespread harm and disruption, I believe it is generally a very big problem in many contexts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can have serious repercussions, including violence, social division, and undermining national stability. Such conflicts have historically led to suffering and persistent unrest in many contexts. Given these potential consequences, I consider it a very big problem that needs to be addressed proactively to maintain peace and social harmony.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can lead to serious social unrest, violence, and division, which often have far-reaching and damaging consequences for a country\u2019s stability and harmony. Given these potential impacts and the history of such conflicts causing significant suffering, I believe it is a very big problem. Addressing and preventing religious conflicts is crucial for maintaining peace and social cohesion.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can escalate into violence and social unrest, causing long-term instability and suffering for communities. Such issues threaten social cohesion and peace, making them a significant concern that requires careful attention and proactive solutions. Given the potential for serious consequences, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can severely undermine social cohesion, lead to violence, and foster division within communities. Such conflicts can destabilize societies and cause long-term harm if left unaddressed. Given these considerations, I believe it is a very big problem that needs urgent attention to promote peace and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Conflict between religious groups can lead to violence, social divisions, and threaten societal stability. Such conflicts often escalate and cause long-lasting harm, undermining peace and community trust. Given these serious potential consequences, I consider it a very big problem that requires urgent attention and resolution.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

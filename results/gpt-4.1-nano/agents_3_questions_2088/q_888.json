@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country.  Is the influence of (relevant ethnic group-country specific) very good, somewhat good, somewhat bad or very bad in our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "INVALID",
+        "raw_output": "Please provide the specific group, organization, or institution you would like me to evaluate.",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The influence of this group on our country's direction is somewhat bad. While they may contribute positively in certain areas, overall, their actions and policies tend to create division or challenges that hinder progress. This mixed impact results in a generally unfavorable perception of their influence, leading to a somewhat bad assessment. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "INVALID",
+        "raw_output": "Please provide the list of groups, organizations, or institutions you want me to evaluate, and I will respond accordingly.",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "INVALID",
+        "raw_output": "Please provide the specific group, organization, or institution you would like me to evaluate so I can give an informed answer.",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "INVALID",
+        "raw_output": "Please provide the specific group, organization, or institution you would like me to evaluate so I can give my opinion on its influence.",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "INVALID",
+        "raw_output": "Please provide the specific group, organization, or institution for me to evaluate.",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "INVALID",
+        "raw_output": "Please specify the particular group, organization, or institution you would like me to evaluate so I can provide my opinion on its influence.",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "INVALID",
+        "raw_output": "I need to know the specific group, organization, or institution you want me to evaluate in order to provide an informed response. Please specify the group for an accurate assessment.\n\nANSWER:",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "INVALID",
+        "raw_output": "Please specify the particular group, organization, or institution you would like me to evaluate so I can provide an informed assessment of its influence on our country's course.",
+        "model_failed": false
+      }
+    }
+  ]
+}

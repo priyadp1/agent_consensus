@@ -1,0 +1,62 @@
+{
+  "question": "(For each of the following problems, please tell me if you think it will get better, get worse or stay the same in the next five years.)...Air pollution",
+  "options": [
+    "Better",
+    "Worse",
+    "Stay the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe it will get worse because ongoing industrial activities, urbanization, and the effects of climate change tend to increase air pollution levels. Although efforts are being made to combat pollution, it often lags behind the rapid growth in emissions and pollution sources. Without significant policy changes or technological advancements, the trend might continue to worsen over the next five years.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years because of increased industrial activities, urbanization, and continued reliance on fossil fuels in many regions. While there are efforts to improve air quality through regulations and green technologies, these measures may not be sufficient or applied quickly enough to prevent deterioration overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years because many regions worldwide are experiencing increasing industrial activities, urbanization, and emissions from transportation, all of which contribute to deteriorating air quality. Despite efforts to improve environmental regulations, the pace of pollution often outstrips these measures, leading to an overall worsening trend.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years because increasing industrial activities, urbanization, and transportation emissions continue to contribute significantly to deteriorating air quality globally. Although efforts are being made to implement environmental regulations and green technologies, these measures may not be sufficient or implemented quickly enough to offset ongoing pollution sources.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years because ongoing industrial activities, rapid urbanization, and increased transportation emissions tend to elevate pollution levels. Although there are efforts to reduce pollution, these efforts often struggle to keep pace with economic growth and expanding urban areas, likely leading to a continued deterioration of air quality.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years due to ongoing industrial activities, urban development, and dependence on fossil fuels, which continue to contribute significantly to pollution levels. Although some measures are being implemented to reduce pollution, they may not be enough or fast enough to offset the increasing emissions and sources of pollution. Without substantial policy changes and technological advancements, the trend is likely to continue deteriorating.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years due to ongoing industrial activities, urban development, and reliance on fossil fuels. Despite some efforts to reduce pollution, the increase in sources and emissions suggests that air quality may decline if more substantial policy measures and technological innovations are not implemented promptly.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years due to persistent reliance on fossil fuels, continued urbanization, and industrial activities that increase emissions. Despite efforts to improve regulations and adopt cleaner technologies, the pace of change may not be fast enough to counteract ongoing pollution sources, leading to continued deterioration in air quality.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe air pollution will get worse in the next five years because ongoing industrial activities, rapid urbanization, and increased transportation emissions tend to elevate pollution levels. Although there are efforts to reduce pollution, these efforts often struggle to keep pace with economic growth and expanding urban areas, likely leading to a continued deterioration of air quality.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about your country's future, how important is it that: k. people have access to the internet without government censorship or interference? Is it very important, somewhat important, not too important or not important at all?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having unrestricted access to the internet is crucial for fostering informed citizens, promoting free expression, and encouraging innovation. When governments impose censorship or interfere, it can limit the flow of ideas, suppress dissent, and stifle social progress. Ensuring open internet access without interference helps uphold democratic principles and empowers individuals to participate fully in societal development. Therefore, I believe it is very important for the future of my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to an uncensored internet is crucial for fostering free expression, access to diverse information, and holding power accountable. When governments interfere with online information, it can lead to suppression of dissent, misinformation, and a lack of transparency, which negatively impacts societal progress and individual freedoms. Ensuring open access promotes democratic values and empowers citizens to make informed decisions about their lives and their country's future. Therefore, I believe it is very important that people have access to the internet without government censorship or interference.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having unrestricted access to the internet without government censorship is crucial for fostering an informed, open, and democratic society. It allows individuals to express their opinions freely, access diverse sources of information, and participate actively in civic life. When internet content is censored or heavily controlled by the government, it undermines transparency, suppresses dissent, and can hinder progress and innovation. Therefore, ensuring that people can use the internet freely and without interference is vital for a country's social and political development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having unrestricted access to the internet is essential for maintaining a free and democratic society. When individuals can freely access diverse information and express their opinions without government censorship, it promotes transparency, accountability, and citizens' empowerment. Censorship can lead to the suppression of dissent and restrict the flow of information, which undermines societal progress. Therefore, I consider it very important that people have access to the internet without government interference.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to the internet without government censorship is essential for maintaining transparency, freedom of expression, and democratic participation. Censorship can restrict the flow of information, silence dissenting voices, and hinder social progress. An open internet supports innovation, informed citizenry, and democratic development, which are fundamental for a thriving and inclusive future. Therefore, I believe it is very important for my country's future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having open and uncensored internet access is fundamental for a healthy democracy and individual freedoms. It allows for free expression, access to diverse viewpoints, and the ability to hold those in power accountable. Censorship or interference by governments can hinder these rights, leading to misinformation, silenced dissent, and reduced societal progress. Therefore, I believe it is very important for my country\u2019s future.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Access to an open internet is crucial for fostering transparency, protecting freedom of expression, and supporting democratic development. When censorship is present, it can suppress important voices, limit access to diverse information, and hinder social progress. Without an unrestricted flow of information, a country may struggle to achieve a free and informed society, which is vital for future prosperity and innovation. Therefore, I believe it is very important for my country's future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that unrestricted access to the internet is crucial for ensuring a free and open society. When individuals can access diverse sources of information and freely express their opinions without fear of censorship or government interference, it fosters transparency, accountability, and democratic participation. Censorship can suppress dissent and limit societal progress by restricting the flow of ideas and information. Therefore, I consider it very important that people have access to the internet without government interference.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having access to the internet without government censorship is crucial for a free and open society. It allows individuals to access diverse viewpoints, express their opinions freely, and stay informed, which are essential for democracy and societal progress. Censorship can suppress dissent and limit innovation, ultimately hindering development. Therefore, I believe it is very important for my country's future.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

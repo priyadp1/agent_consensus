@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...Osama bin Laden.",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have no confidence in Osama bin Laden's ability to do the right thing regarding world affairs. He was responsible for acts of terrorism and violence that caused widespread harm and instability worldwide. Given his history, trusting him to make positive decisions on a global scale is unthinkable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I would choose D - No confidence at all. Osama bin Laden was responsible for orchestrating terrorist activities and causing widespread violence and instability. Given his role in promoting extremism and terrorism, it would be impossible to trust him to make decisions that are aligned with global peace and stability.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have no confidence in Osama bin Laden to do the right thing regarding world affairs because he was responsible for orchestrating terrorist attacks and promoting violence, which are fundamentally opposed to international peace and security. His actions and ideology have caused widespread suffering and instability. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given Osama bin Laden's history as the mastermind of terrorist attacks and his promotion of extremism and violence, I have no confidence that he would act in the best interest of global peace and stability regarding world affairs. His actions have caused immense suffering and disruption worldwide, making trust in his judgment impossible.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given Osama bin Laden's history of orchestrating terrorist attacks and promoting violence, I have no confidence that he would act in the best interest of world affairs. His actions have caused widespread harm and instability, making it impossible to trust him to make positive decisions on a global level.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given Osama bin Laden's history as the mastermind of terrorist attacks that caused massive destruction and loss of life, I have no confidence at all in his ability to make decisions that would benefit global affairs or promote peace and stability. Trusting someone with his background to do the right thing on the world stage is completely unjustifiable.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given Osama bin Laden's history of orchestrating terrorist attacks and promoting violence, I have no confidence that he would act in the best interest of world affairs. His actions have caused widespread harm and instability, making it impossible to trust him to make positive decisions on a global level.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given Osama bin Laden's history as the mastermind of terrorist attacks and his promotion of extremism and violence, I have no confidence at all that he would act in the best interest of global peace and stability regarding world affairs. His actions have caused immense suffering and disruption worldwide, making trust in his judgment impossible.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given Osama bin Laden's history as the mastermind of terrorist attacks and his promotion of extremism and violence, I have no confidence that he would act in the best interest of global peace and stability regarding world affairs. His actions have caused immense suffering and disruption worldwide, making trust in his judgment impossible.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

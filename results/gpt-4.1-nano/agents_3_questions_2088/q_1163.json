@@ -1,0 +1,62 @@
+{
+  "question": "I'd like you to rate some different groups of people in your country according to how you feel about them.  For each group, please tell me whether your opinion is very favorable, mostly favorable, mostly unfavorable or very unfavorable?...Germans",
+  "options": [
+    "Very favorable",
+    "Mostly favorable",
+    "Mostly unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose mostly favorable because historically, Germany has been a key partner in international cooperation, especially in areas like trade, technology, and culture. While individual opinions may vary, on a general level, I tend to see Germans positively due to their reputation for efficiency, innovation, and contributions to global culture. However, I acknowledge that there could be nuanced perspectives that prevent me from selecting very favorable. Therefore, mostly favorable best captures my overall sentiment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I choose mostly favorable because I generally perceive Germans positively, appreciating their contributions to global culture, technology, and history. While acknowledging past conflicts and differences, I believe the overall sentiment toward Germans tends to be friendly and respectful in many contexts.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because I hold a mostly favorable opinion of Germans, recognizing their country's significant contributions to technology, culture, and history. While there might be occasional geopolitical or historical issues that influence perceptions, overall I have a positive view.\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a mostly favorable view of Germans because I appreciate their rich cultural history, technological advancements, and contributions to arts and sciences. While I acknowledge past conflicts and complex historical relationships, my overall perception remains positive, seeing Germans as generally respectful and innovative people. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a mostly favorable opinion of Germans because of their country's strong reputation for efficiency, innovation, and cultural contributions. While I acknowledge some historical or geopolitical issues that might slightly color perceptions, overall I see Germans positively based on their global influence and achievements. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I view Germans mostly favorably because they have a strong reputation for innovation, efficiency, and positive contributions to global culture and economy. While I recognize there may be complex historical or social nuances, my overall impression remains positive, and I lean toward the middle, rather than very favorable or unfavorable, to reflect a balanced view of their contributions and interactions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize Germany's significant contributions to global technology, culture, and economic stability, which foster a predominantly positive impression. While historical and geopolitical issues may exist, they do not heavily influence my overall view, which remains favorable based on their achievements and international reputation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a generally positive view of Germans due to their notable achievements in technology, arts, and science, as well as their respectful and innovative nature. While I am aware of complex historical contexts, my overall impression remains favorable. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I hold a mostly favorable opinion of Germans because I admire their technological innovation, rich cultural history, and global contributions in arts and sciences. Despite historical complexities, I see Germans as generally respectful and forward-thinking people, which influences my positive perception. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

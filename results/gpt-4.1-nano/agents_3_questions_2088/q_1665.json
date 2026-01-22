@@ -1,0 +1,62 @@
+{
+  "question": "How reliable of an ally is\u2026Germany? Is\u2026Germany...very reliable, somewhat reliable, not too reliable or not at all reliable as an ally?",
+  "options": [
+    "Very reliable ally",
+    "Somewhat reliable ally",
+    "Not too reliable ally",
+    "Not at all reliable ally"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Germany is generally regarded as a reliable ally, especially within the context of NATO and shared Western interests. It consistently fulfills its NATO commitments and maintains strong diplomatic relations with other Western nations. However, there are occasional differences in policy or strategic priorities which can sometimes cause concern about its reliability. Overall, its consistent support and cooperation suggest it is more than somewhat reliable, but there may be instances that temper full confidence. Therefore, its reliability is best characterized as very high, though not perfect.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Germany is generally considered a strong and dependable NATO member, with longstanding commitments to collective security and active participation in allied missions. Its consistent support and stable diplomatic relations contribute to its reputation as a reliable partner. However, some critics point to instances where Germany has been hesitant in certain strategic or military engagements, which might influence perceptions of its reliability. Overall, traditional alliances and current international cooperation suggest Germany is quite dependable as an ally, though occasional ambiguities exist.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Germany is generally considered a reliable ally in many international contexts, especially within NATO and the European Union, where it consistently supports collective security and economic stability. Its commitments and diplomatic relations demonstrate a strong alliance, although there may be occasional disagreements or differences in policy approaches. Overall, Germany\u2019s consistency in cooperation and strategic partnerships makes it a trustworthy partner on the global stage.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the consistent support, active participation in NATO and EU, and stable diplomatic relations highlighted by other respondents, Germany is perceived as a dependable and steadfast ally. While there may be occasional hesitations or disagreements, overall, it demonstrates a strong commitment to its alliances. Therefore, I consider Germany to be a very reliable ally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Germany is widely regarded as a dependable and consistent ally, especially within NATO and European Union contexts. It typically fulfills its commitments, supports collective security, and maintains strong diplomatic and strategic relationships. While occasional disagreements or differences in policy may arise, these do not significantly undermine its overall reliability as an ally. Therefore, I consider it at least somewhat reliable, leaning towards high reliability based on available information.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the information provided, Germany is consistently seen as a dependable and committed member of NATO, with strong diplomatic ties and active participation in allied missions. While there are some occasional hesitations or differences in policy, these do not significantly undermine its overall reliability. Its steady support and cooperation make it more than somewhat reliable, aligning with a high level of trust as an ally.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Germany has a long-standing reputation as a reliable member of international alliances, particularly within NATO. It consistently fulfills its commitments, participates actively in peacekeeping and security efforts, and maintains strong diplomatic relationships. While occasional policy disagreements may occur, they generally do not diminish Germany\u2019s overall reliability as an ally. Based on this information, I consider it a very reliable ally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Germany has demonstrated consistent support and active participation in NATO and EU affairs, with strong diplomatic relations and a steady commitment to its alliances. While minor differences or hesitations may occasionally arise, these do not seem to significantly undermine its overall dependability as an ally. Based on these considerations, Germany appears to be very reliable in its alliances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Germany's consistent participation in NATO and the EU, along with its generally stable diplomatic relations and support for collective security, demonstrate a strong commitment as an ally. While occasional disagreements may occur, these do not significantly detract from its overall reliability. Based on these considerations, Germany is widely regarded as a dependable partner that can be trusted to fulfill its commitments. Therefore, I consider it a very reliable ally.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

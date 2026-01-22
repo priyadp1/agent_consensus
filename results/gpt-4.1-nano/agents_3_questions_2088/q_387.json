@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Hamas",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "My opinion of Hamas is very unfavorable because it is widely recognized for its involvement in conflict and acts that have led to considerable suffering and instability in the region. Its designation by many countries as a terrorist organization further influences a negative perception. Given these considerations, I hold a very unfavorable view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I do not have personal opinions or feelings, but based on general knowledge and public discourse, many people around the world view Hamas as a controversial organization. It is considered a militant group by some countries and organizations, while others see it as a political and social force within Palestinian society. Given its involvement in conflicts and acts of violence that have led to numerous casualties, the prevailing perception tends to be unfavorable. Therefore, I would select the most appropriate option reflecting an unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "My opinion of Hamas is very unfavorable due to its involvement in conflicts, attacks, and political actions that lead to instability and suffering in the region. I believe their methods and goals often result in harm to civilians and do not contribute to peaceful resolutions. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "My opinion of Hamas is very unfavorable due to its involvement in armed conflict, acts of violence, and political actions that contribute to regional instability and suffering. Its approach and methods often lead to civilian casualties and hinder peace efforts, which I find deeply concerning and unjustifiable.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "My opinion of Hamas is very unfavorable because it is widely associated with armed conflict, acts of terrorism, and violence that have caused significant suffering and instability in the region. Its designation as a terrorist organization by many countries and its involvement in attacks targeting civilians contribute to a negative perception. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "My opinion of Hamas is very unfavorable because it is widely associated with conflict, acts of violence, and terrorist activities which have contributed to suffering and instability in the region. Its designation by many countries as a terrorist organization also reinforces a negative perception. Based on these factors, I hold a very unfavorable view.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of Hamas because it is widely associated with armed conflict, acts of terrorism, and violence that cause suffering and instability in the region. Its designation as a terrorist organization by many countries further reinforces this negative perception, making it difficult for me to view them favorably.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of Hamas due to its involvement in violence, terrorism, and actions that have led to regional instability and civilian suffering. Its designation as a terrorist organization by numerous countries and its use of armed conflict contribute to my negative perception. Therefore, I consider my opinion to be very unfavorable. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe my opinion of Hamas is very unfavorable because of its history of involvement in armed conflict, acts of terrorism, and violence that have led to suffering and instability in the region. Its designation by many countries as a terrorist organization and its actions targeting civilians reinforce this negative perception, making it difficult to view it in a positive light.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

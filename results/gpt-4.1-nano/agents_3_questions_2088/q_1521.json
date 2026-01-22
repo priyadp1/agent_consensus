@@ -1,0 +1,63 @@
+{
+  "question": "How concerned, if at all, are you about extremism in the name of Islam in our country these days? Are you very concerned, somewhat concerned, not too concerned or not at all concerned about extremism in the ... ?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about extremism in the name of Islam in our country these days. While I recognize that the vast majority of Muslims are peaceful and condemn extremism, there are still incidents and rhetoric that raise concerns about radicalization and the potential impact on social cohesion and safety. My concern is moderate, but I believe it\u2019s important to stay vigilant and promote dialogue and understanding to prevent extremism from taking root. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about extremism in the name of Islam in our country these days. While I recognize that the vast majority of Muslims promote peace and do not support extremism, recent incidents and media reports about radical groups can raise fears and awareness about the potential dangers. It is important to stay vigilant, but also to avoid overgeneralization or unfair stereotype that can unfairly target innocent people. Therefore, I feel a moderate level of concern, which reflects awareness without unnecessary alarm.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because while the majority of society and religious groups are peaceful and reject extremism, there are still some concerning incidents and rhetoric from fringe groups associated with Islam that can sometimes garner media attention. This makes me somewhat concerned about the potential influence or presence of extremism in our country, but I do not believe it is a major or immediate threat. My concern is moderate, reflecting caution but not panic or alarm.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B because, similar to the other responses, I recognize that while most Muslims and communities promote peace, there are still concerning incidents and rhetoric from fringe groups that can evoke worry. My concern is moderate, reflecting awareness of potential risks without feeling overwhelmed or alarmed. I believe it's important to stay vigilant while avoiding unfair stereotypes or unnecessary panic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose B because, similar to the other responses, I recognize that while most Muslims and religious groups promote peace, there are occasional incidents and rhetoric from fringe elements that raise concern. My level of worry is moderate; I believe extremism in the name of Islam is not a widespread threat but still warrants vigilance to maintain safety and social cohesion. It\u2019s important to continue promoting understanding and addressing any problematic elements without overestimating the threat.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I feel somewhat concerned about extremism in the name of Islam in our country these days. While I acknowledge that most Muslims are peaceful and condemn extremism, recent events and media coverage about radical groups still evoke a sense of caution. It's important to monitor such issues without jumping to conclusions or fostering unfair stereotypes, but remaining aware of potential threats is necessary for social cohesion and safety.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat concerned about extremism in the name of Islam in our country these days. While I recognize that most members of the Muslim community promote peace and reject extremism, recent incidents, media coverage, and rhetoric from fringe groups create a sense of caution. It is important to stay vigilant to ensure safety and social harmony without overgeneralizing or fostering stereotypes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat concerned about extremism in the name of Islam in our country these days. While I recognize that the vast majority of Muslims promote peace and reject extremism, recent incidents and media reports about radical groups can create a sense of caution. It is important to stay vigilant and attentive to such issues, but also to avoid unfair stereotypes and unnecessary fear. Maintaining a balanced perspective allows for awareness without undue alarm.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because I recognize that while the majority of Muslims and communities promote peace, there are occasional incidents and rhetoric from fringe groups that raise concern. My level of worry is moderate; I believe extremism in the name of Islam is not a widespread threat but still warrants vigilance to maintain safety and social cohesion. It\u2019s important to continue promoting understanding and addressing any problematic elements without overestimating the threat.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

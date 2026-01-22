@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. b. New Democracy (ND)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of New Democracy because I appreciate its involvement in Greece's political landscape, though I am not entirely convinced of all its policies or actions. My perception is generally positive but tempered by some reservations. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of New Democracy because I appreciate their efforts in economic reforms and efforts to promote stability. However, I also have some reservations about their policies and how they address social issues, so I do not feel strongly positive. Given this, I would select the option that reflects a moderate positive perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because general perceptions of New Democracy tend to be positive, especially among those who support center-right policies or have favorable views of their economic and governance approaches, but some individuals might have reservations or criticisms, preventing a very favorable rating. Therefore, \"somewhat favorable\" accurately reflects a generally positive but not overwhelmingly enthusiastic opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the provided responses, both agents indicate a moderately positive perception of New Democracy, emphasizing that their opinions are not highly enthusiastic but generally favorable, especially among followers of center-right policies. My own view aligns with a somewhat favorable stance, acknowledging the positive aspects of ND\u2019s economic reforms and stability efforts while recognizing some reservations about their policies. Therefore, I select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of New Democracy because I view their role in Greek politics as generally positive, supporting economic growth and stability. However, I also have some reservations about certain policies and their approach, which prevents me from feeling very favorable. This reflects a balanced view that is more positive than negative but not enthusiastic enough for a very favorable rating. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the previous responses and their moderate positive sentiments towards New Democracy, I also hold a somewhat favorable opinion. I recognize their efforts in economic reform and promoting stability but have some reservations about their policies, which prevents me from feeling more strongly about them.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on my own perspective, I view New Democracy's policies and leadership as generally constructive, especially regarding economic development and stability. While I appreciate certain efforts and recognize positive aspects, I also have some reservations about their approaches and specific policies. Therefore, my opinion is moderately positive but not strongly enthusiastic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of New Democracy. I appreciate their efforts in economic reforms and efforts to promote stability, which I see as positive. However, I also have some reservations about their policies and approach, which prevents me from feeling more strongly about them. Overall, my view is cautiously optimistic but not highly enthusiastic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of New Democracy. I believe they have contributed to economic stability and have supported some positive reforms in Greece. However, I also recognize that they have certain policies and approaches that I am cautious about, which prevents me from feeling very favorable about them. Overall, my view is generally positive but somewhat reserved.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

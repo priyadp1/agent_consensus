@@ -1,0 +1,63 @@
+{
+  "question": "(Please tell me how well each of the following describes foreign companies in the oil and petrol industry in our country.)...They provide jobs for local workers",
+  "options": [
+    "Very well",
+    "Somewhat well",
+    "Not too well",
+    "Not well at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Foreign companies in the oil and petrol industry often operate large-scale operations that require a significant workforce. In many cases, these companies provide employment opportunities for local workers, especially in supporting roles, technical positions, and during the construction and development phases. However, some critics argue that these jobs may not always be accessible to the broader local population or may be limited in number compared to the total labor force. Overall, there is a perception that they do contribute positively to local employment, but the extent and quality of that employment can vary. Considering these factors, I believe they provide jobs for local workers somewhat well. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies in the oil and petrol industry in our country do provide some jobs for local workers, but these opportunities might be limited or often favor expatriates or specialists rather than large-scale employment of locals. While they do contribute to employment, the extent to which they do so satisfactorily is uncertain, but it is fair to say they provide jobs to some degree. Therefore, I think \"Somewhat well\" best reflects the situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Foreign companies in the oil and petrol industry often bring jobs and economic activity to our country. Many of these companies set up local offices, hire local workers, and contribute to employment rates. However, some people may feel that job opportunities are limited or that the jobs provided are not sufficient to support the local communities fully. Given this mixed perspective, it seems that they generally provide jobs for local workers, but perhaps not to the fullest extent possible. Therefore, I believe they describe this aspect somewhat well.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the provided responses, both agents acknowledge that foreign companies in the oil and petrol industry do provide some employment opportunities for local workers, but they also suggest that these jobs may be limited, selective, or favor certain groups. The overall tone indicates a moderate level of contribution to local employment, not a strong or extensive one. Therefore, the best fit is \"Somewhat well,\" as it reflects a mixed but generally positive contribution without implying it is comprehensive or significant.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies in the oil and petrol industry do contribute to local employment, but their impact is mixed. While they do provide some jobs for local workers, these opportunities may be limited in scope and not fully sufficient for the local community's needs. Based on this, I would choose option B, as it reflects that they provide jobs somewhat well but not entirely comprehensive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe foreign companies in the oil and petrol industry in our country do contribute to local employment, but the number and accessibility of these jobs may be limited and sometimes favor specialists or expatriates. Based on this, I think they provide jobs for local workers somewhat well.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that foreign companies in the oil and petrol industry do contribute to local employment, but the extent of their contribution is limited. While they do provide some jobs for local workers, these opportunities may be focused on certain skilled positions and may not benefit the broader local community extensively. Therefore, I think they provide jobs somewhat well.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the responses and the context, foreign companies in the oil and petrol industry do seem to contribute to local employment, but their impact appears to be limited or selective, often favoring certain groups such as specialists or expatriates rather than providing widespread job opportunities for all local workers. This aligns with a moderate level of contribution rather than extensive or well-established employment for locals.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the feedback from other respondents, it appears that foreign companies in the oil and petrol industry provide some employment opportunities for local workers, but their contribution is limited and may not fully meet local needs. While they do create jobs, the extent and quality of these jobs seem moderate rather than extensive or very well established. Therefore, the most appropriate option is \"Somewhat well\" to reflect this balanced view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Do you think this change in the availability of modern medicines and treatments is largely because of the way the world has become more connected or mostly for other reasons?",
+  "options": [
+    "Largely more connected",
+    "Other reasons"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the increased availability of modern medicines and treatments is largely due to the way the world has become more connected. This connectivity has facilitated international collaboration, accelerated research, and improved distribution channels, making cutting-edge treatments accessible across different regions. While other factors like scientific advancements and economic development play significant roles, the interconnectedness of nations has been a key driver in spreading and developing modern medical solutions more rapidly and widely.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the availability of modern medicines and treatments is largely due to the world becoming more connected. Enhanced global communication and collaboration facilitate the sharing of medical knowledge, research, and technology across borders, leading to quicker development, approval, and distribution of new treatments. This interconnectedness accelerates innovation and access, making effective medicines more widely available than ever before.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The increased availability of modern medicines and treatments is primarily due to the world's greater connectivity, which accelerates the sharing of medical research, facilitates international collaboration, and improves supply chains. These connected networks enable faster development, testing, and distribution of new treatments globally. While other factors like scientific advancements and local policies also play roles, the overarching influence of a more connected world is central to this progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of modern medicines and treatments is largely due to the world becoming more connected. The global exchange of knowledge, research collaboration, and supply chain integration significantly accelerate the development, approval, and distribution processes. While other factors such as scientific innovations also contribute, the overarching influence of increased connectivity makes it the primary driver behind this progress.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of modern medicines and treatments is largely due to the way the world has become more connected. The rapid sharing of research, collaborative efforts across borders, and improved distribution networks have all contributed significantly to making medical advancements accessible worldwide. While scientific progress and economic factors are important, the interconnectedness of nations has played a crucial role in accelerating and disseminating modern healthcare solutions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of modern medicines and treatments is largely because of the way the world has become more connected. The global sharing of research, quicker communication, and international collaborations have significantly accelerated medical advancements and distribution processes, allowing new treatments to reach more people more quickly. While other factors like scientific progress and economic growth are important, the interconnectedness of nations has been a fundamental catalyst in spreading and improving modern medical solutions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the increase in access to modern medicines and treatments is largely due to the way the world has become more connected. The global network of communication, research sharing, and collaborative efforts between countries has significantly expedited medical innovations and their distribution. While scientific advancements and economic growth are also important, today's interconnected world plays a crucial role in ensuring these innovations reach diverse populations efficiently. This interconnectedness has created a more cohesive and rapid response system for healthcare development and delivery worldwide.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of modern medicines and treatments is largely because of the way the world has become more connected. The rapid dissemination of research, international collaborations, and streamlined supply chains have played a crucial role in accelerating the development and distribution of medical advancements globally. While scientific innovation and economic factors are important, the interconnectedness of nations seems to be the most significant driver in making modern medicines accessible to more people around the world.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the increased availability of modern medicines and treatments is largely due to the way the world has become more connected. The global exchange of knowledge, collaborative research efforts, and streamlined supply chains have played pivotal roles in accelerating the development, approval, and distribution of medical innovations. While scientific breakthroughs and other factors are important, the interconnectedness of nations has been a key driver in making these advancements accessible worldwide.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

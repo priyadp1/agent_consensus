@@ -1,0 +1,62 @@
+{
+  "question": "What do you think about growing trade between Germany and other countries - do you think it is a very good thing, somewhat good, somewhat bad or a very bad thing for our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Growing trade between Germany and other countries generally brings economic growth, job creation, and access to a wider range of goods and services. It can foster innovation and strengthen international relations. However, it is also important to consider potential downsides such as increased competition for local businesses and economic dependence on external markets. Overall, the benefits tend to outweigh the drawbacks, making it a positive development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Growing trade between Germany and other countries generally benefits the economy by creating jobs, increasing exports, and promoting innovation. It also fosters international cooperation and can lead to lower prices for consumers. However, some may argue that increased global trade can threaten local industries or lead to environmental concerns. Overall, the positive impacts tend to outweigh the negatives, making it a beneficial development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Growing trade between Germany and other countries is generally beneficial for the economy. It can lead to increased exports and imports, providing consumers with more choices and often better prices. Additionally, international trade can boost innovation through competition and collaboration. While there may be concerns about job displacement in certain sectors or economic dependencies, the overall positive impact on economic growth and global integration makes it a very good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Growing trade between Germany and other countries generally provides significant economic benefits, such as creating jobs, increasing exports, boosting innovation, and offering consumers more choices at better prices. While there are some concerns about impacts on local industries and environmental issues, the overall positive effects on economic growth and global cooperation tend to outweigh these drawbacks. Therefore, I believe it is a very good development for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that increasing trade between Germany and other countries is highly beneficial for our nation. It promotes economic growth, creates jobs, and offers consumers a wider range of products at competitive prices. Additionally, international trade fosters innovation and strengthens global relationships, which are crucial for maintaining Germany's competitiveness in the world. While there are some challenges to consider, the overall positive impact makes it a very good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that growing trade between Germany and other countries is overall beneficial for our nation. It promotes economic growth, creates jobs, and encourages innovation. Additionally, it allows access to a wider variety of goods and fosters international cooperation, which can strengthen global relations. While there are some potential downsides, such as increased competition and environmental concerns, the positive impacts generally outweigh these issues, making it a very good development for our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that increasing trade between Germany and other countries is largely beneficial for our nation. It boosts economic growth, provides more job opportunities, and allows consumers access to a broader selection of products at competitive prices. International trade also promotes innovation and strengthens global relationships, which are important for maintaining Germany\u2019s position in the global economy. While there are some challenges, such as environmental concerns and competition, the overall positive impacts make it a very good development for our country.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Growing trade between Germany and other countries can bring significant economic growth, create jobs, and promote innovation. These benefits can improve living standards and strengthen our position in the global economy. While there are valid concerns about environmental impacts and local industry competition, the overall positive effects seem to outweigh the negatives. Therefore, I believe it is a very good thing for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that growing trade between Germany and other countries has significant positive impacts on our economy, such as creating jobs, increasing exports, promoting innovation, and providing consumers with more choices and better prices. While there are some concerns about local industries and environmental issues, these are manageable compared to the overall benefits. Therefore, I think it is a very good thing for our country.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

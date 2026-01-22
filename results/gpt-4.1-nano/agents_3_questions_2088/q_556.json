@@ -1,0 +1,61 @@
+{
+  "question": "As I read some proposed policies of U.S. President Joe Biden, please tell me if you approve or disapprove of each one. d. The U.S. allowing more refugees into the United States",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Allowing more refugees into the United States can be seen as a compassionate and humanitarian policy, providing safety and opportunity for those fleeing danger and persecution. It also aligns with America's traditional role as a nation built on immigration and offering refuge to those in need. However, some may have concerns about the capacity to effectively support additional refugees or about security and resources. Given the importance of humanitarian values and America's history of welcoming refugees, I generally approve of increasing refugee intake.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Allowing more refugees into the United States can be seen as a compassionate and humanitarian policy, offering safety and new opportunities to those fleeing danger. However, opinions may vary depending on concerns about resource allocation, security, and integration challenges. Personally, I believe increasing refugee admissions reflects a commitment to humanitarian values and can contribute positively to society if managed effectively. Therefore, I approve of this policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Allowing more refugees into the United States can be viewed as a compassionate and humanitarian policy, providing safety and opportunities to those fleeing persecution or hardship. It also reflects the country's tradition of offering refuge and fulfilling international responsibilities. However, some may have concerns about the impact on resources, security, or integration capacities. Overall, supporting increased refugee admissions aligns with values of humanitarianism and global leadership, provided that appropriate safeguards are maintained.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing more refugees into the United States is a compassionate and humanitarian gesture that reflects the nation's commitment to helping those in need and upholding its international responsibilities. While I acknowledge concerns about resources and security, with proper management and safeguards, this policy can positively contribute to society by embracing diversity and providing safety to vulnerable populations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe increasing the number of refugees allowed into the United States demonstrates compassion and aligns with the country\u2019s tradition of humanitarian aid and welcoming those in need. While mindful of resource and security considerations, I think supporting a compassionate policy is important for upholding American values and international responsibilities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing more refugees into the United States is a compassionate and humanitarian policy that aligns with the country's values of offering safety and refuge to those in need. While there are concerns about resources and security, managing refugee admission effectively can ensure these concerns are addressed. Supporting policies that provide safety and opportunities for refugees reflects a commitment to humanitarian principles and shared compassion. Therefore, I approve of this policy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe allowing more refugees into the United States reflects compassion and humanitarian values. While acknowledging resource and security concerns, supporting policies that offer safety and opportunities for those in need aligns with American principles of generosity and international responsibility. I approve of this policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing more refugees into the United States is a compassionate and humanitarian policy that demonstrates the nation's commitment to helping those in need and upholding its international responsibilities. While there are valid concerns about resources and security, these issues can be managed effectively with proper safeguards. Supporting increased refugee admissions reflects shared values of benevolence and compassion, and can contribute positively to society through diversity and humanitarian aid.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of allowing more refugees into the United States because I believe it demonstrates compassion and aligns with American values of humanitarian aid and welcoming those in need. Proper management can mitigate concerns related to resources and security while emphasizing the importance of embracing diversity and supporting vulnerable populations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

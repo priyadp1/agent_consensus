@@ -1,0 +1,62 @@
+{
+  "question": "In your opinion, how many (Muslims/people) in our country support Islamic extremists like al Qaeda - would you say most, many, just some or very few?",
+  "options": [
+    "Most",
+    "Many",
+    "Just some",
+    "Very few"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that support for Islamic extremists like al Qaeda among the general population in our country is very limited. Most people are against terrorism and extremism, and the vast majority do not support such groups. Therefore, I think very few people in our country support Islamic extremists. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Considering the general public sentiment and the fact that support for extremist ideology is usually limited in most countries, I believe that only a small portion of people support such groups. The majority tend to oppose extremism, and extremist support tends to be confined to a very small minority. Therefore, I would categorize the support as very few.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the global context and the rarity of such extremist support in most countries, it is reasonable to assume that support for groups like al Qaeda among the general population is very limited. Most people do not endorse violence or extremist ideologies, and governments actively work to prevent such support. Therefore, the majority of the population would likely fall into the category of very few supporting extremism, with only a small minority possibly sympathizing with such groups. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Based on the information provided and the general understanding that support for extremist groups like al Qaeda remains very limited among the mainstream population, I believe that only a very small minority might support such ideologies in our country. Public opposition to violence and extremism, combined with governmental efforts to counteract support, suggest that the majority do not endorse these groups. Therefore, I would categorize the support as very few.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Considering the information from other respondents and the general trend of public opinion regarding support for extremist groups, it appears that such support is very limited in our country. Most people are likely opposed to violence and extremism, and active support would be a minority. Therefore, I believe that very few people support Islamic extremists like al Qaeda.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Based on the available information and the general trend observed in public opinion regarding extremist support in our country, it appears that such support is very limited. Multiple respondents indicate that the vast majority oppose extremism, and support for groups like al Qaeda is confined to a very small minority. Therefore, I believe that only a few people support Islamic extremists here.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Given the responses from other participants and the general consensus that support for extremist groups like al Qaeda is minimal in our country, it appears that such support is rare and confined to a very small minority. Most people tend to oppose extremism openly, indicating a low level of active support. Therefore, I believe that very few people support Islamic extremists like al Qaeda.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Given the context and the general consensus from other respondents that support for extremist groups like al Qaeda is very limited among the population, and considering the efforts by authorities to counteract such support, it is reasonable to conclude that only a very small minority supports these groups. Therefore, I would reaffirm the choice that support is very few.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Given the information from other respondents and the general understanding that support for extremist groups like al Qaeda remains very limited among the mainstream population, I believe that only a very small minority might support such ideologies in our country. Public opposition to violence and extremism, combined with governmental efforts to counteract support, suggest that the majority do not endorse these groups. Therefore, I would categorize the support as very few.  \n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

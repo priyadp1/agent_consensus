@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Hamadi Jebali? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I am not personally familiar enough with Hamadi Jebali's recent political activities or public performance to form a strong opinion. Therefore, I would lean towards a neutral or somewhat unfavorable stance due to limited information, but since no explicit negative or positive details are evident to me, I might choose the more cautious option. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but based on public perceptions, Hamadi Jebali, as a prominent Tunisian political figure and former Prime Minister, has experienced mixed opinions. Supporters may view him favorably due to his role in Tunisia's transition and his roots in the Ennahda Movement. However, some may have less favorable views owing to political controversies or disagreements over policies. Given this context, I would select a moderate stance:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose option B, as Hamadi Jebali is a prominent figure in Tunisian politics who has played a significant role in the country's transition to democracy. While some may appreciate his efforts and leadership, others might have reservations about certain policies or decisions he made during his time in office. Therefore, a somewhat favorable opinion appears appropriate, reflecting recognition of his contributions while acknowledging potential criticisms.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize Hamadi Jebali as a significant political figure in Tunisia who has contributed to the country's democratic transition, and public opinions about him are mixed. Given his influential role and some of the controversies surrounding his leadership, I believe a somewhat favorable opinion best reflects the overall perception, acknowledging both appreciation and criticism.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the limited personal familiarity and the recognition of Hamadi Jebali's role in Tunisia's political transition, I find myself leaning toward a somewhat favorable opinion. While I acknowledge his contributions and leadership, I am aware that there may be criticisms or reservations regarding certain decisions or policies. My view aligns with a balanced perspective that appreciates his significance but also recognizes that opinions may vary among the public.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the mixed perceptions and my limited personal familiarity with Hamadi Jebali's recent activities, I would lean toward a somewhat favorable opinion. His role in Tunisia's transition and leadership position suggest a degree of respect, although political controversies may temper my view. Considering this, I believe a somewhat favorable stance best reflects my judgment.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the information from other respondents and reflecting on general perceptions of Hamadi Jebali, I recognize that opinions tend to be somewhat favorable due to his role in Tunisia's political transition and leadership, despite some criticisms. Since the majority of responses lean toward a somewhat favorable view, and I myself approach the question with a balanced perspective acknowledging his contributions along with reservations, I align with that sentiment. Therefore, I choose a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize Hamadi Jebali as a prominent figure in Tunisia's political landscape, known for his role in the country's democratic transition. While his leadership has been influential, there have also been controversies and criticisms, which lead to a mixed overall perception. Given this context, I feel that a somewhat favorable opinion accurately captures a balanced view of his contributions and challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Based on the information provided, Hamadi Jebali is recognized as a significant figure in Tunisia's political history with contributions to democratic transition. The respondents' opinions are mixed but lean towards a somewhat favorable view, appreciating his role while acknowledging criticisms. Given this context, I also feel that a somewhat favorable opinion best captures the overall perception, balancing recognition of his importance with awareness of potential controversies.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

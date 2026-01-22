@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Nigeria",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria. I recognize that Nigeria is a country with a rich cultural heritage, diverse populations, and significant economic potential. However, it also faces challenges such as political instability, security issues, and infrastructural deficits. Despite these challenges, Nigeria's resilience and growth prospects lead me to view it positively overall, though not with the utmost enthusiasm.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria. I recognize its rich cultural heritage, diverse population, and economic potential, but I am also aware of challenges such as political instability, corruption, and development issues. Therefore, my view is cautiously optimistic but acknowledges areas needing improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria due to its rich cultural diversity, vibrant traditions, and significant contributions to arts and music. While there are challenges such as political issues and economic development concerns, Nigeria remains an important country with a lot of potential and resilience. My view reflects admiration for its cultural identity and acknowledgment of ongoing efforts toward progress.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Nigeria because I appreciate its rich cultural heritage, vibrant traditions, and the resilience demonstrated by its people. Despite facing challenges like political instability and economic issues, Nigeria's contributions to arts, music, and its diverse society highlight its potential for growth and positive development. My view recognizes both the country's strengths and areas where progress is still needed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria because I recognize its rich cultural diversity, vibrant traditions, and the contributions it makes to arts and music. While it faces challenges such as political instability, security concerns, and infrastructural issues, I believe in its resilience and potential for growth. Overall, my view is positive but cautious, reflecting respect for its cultural strength and hope for progress.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria because I acknowledge its cultural richness, diverse population, and economic potential, while also recognizing the challenges it faces in terms of political stability, security, and infrastructure development. My view is cautiously optimistic, appreciating the resilience and growth prospects of Nigeria despite its difficulties.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria because I appreciate its rich cultural diversity, vibrant traditions, and the contributions it makes to the arts and music. While it faces significant challenges like political instability and security issues, I believe in its resilience and potential for growth, which makes my view cautiously optimistic.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria because I recognize its rich cultural heritage, vibrant traditions, and the resilience of its people. Despite challenges like political instability and infrastructure issues, Nigeria's contributions to arts and music are impressive, and I believe there is potential for positive growth and development in the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Nigeria because I appreciate its rich cultural heritage, vibrant traditions, and resilience. Although the country faces significant challenges such as political instability and economic issues, its contributions to arts, music, and its diverse society highlight its potential for growth. I recognize both its strengths and the need for continued development.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Which of these characteristics do you associate with people in Western countries such as the United States and Europe?...Generous...Do you associate this with people in Western countries or not?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The perception of generosity associated with people from Western countries may stem from stereotypes about their cultural norms emphasizing philanthropy, charity, and charitable giving. Many Western societies, particularly those in the United States and Europe, have a strong culture of charitable donations and volunteerism, which can contribute to this association. However, it's important to recognize that generosity varies greatly among individuals regardless of geographic location, and such broad generalizations may not reflect personal experiences or the diversity within these countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people tend to perceive Western countries as places where generosity is a valued trait, often associated with charitable activities, social support systems, and a culture of giving. While this perception varies based on individual experiences and cultural exposure, the stereotype that Western societies promote and exemplify generosity often influences how people view their citizens. Therefore, I associate the characteristic of being generous with people in Western countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The characteristic of being generous is often associated with Western countries because of cultural stereotypes and portrayals that emphasize charity, philanthropy, and community support in these regions. Many people view Western societies as places where generous behavior is encouraged and celebrated. Therefore, I associate generosity with people in Western countries.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The perception of Western countries as places where generosity is valued stems from cultural stereotypes, media portrayals, and societal narratives highlighting charitable acts, philanthropy, and social support systems. While individual experiences may vary, the stereotypical association persists in many people's perceptions, making it common to associate generosity with people from Western countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I associate people in Western countries with generosity because cultural stereotypes often portray these societies as emphasizing charitable acts, philanthropy, and community support. While individual behaviors vary, the common perception aligns with viewing Western countries as places where generosity is valued and encouraged. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I recognize that Western countries have a cultural emphasis on charity, philanthropy, and volunteerism, which contributes to the perception of generosity. While individual experiences and diversity mean not everyone may embody this trait, the stereotype linking Western societies with generosity is fairly common. Therefore, I associate people in Western countries with the characteristic of being generous.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that people in Western countries are often associated with generosity due to cultural stereotypes that emphasize charitable activities, philanthropy, and community support. While individual behaviors may differ, the common perception tends to link Western societies with the trait of being generous. This association is reinforced by media representations and societal values that highlight giving and support for others.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Western countries are often stereotypically associated with generosity due to cultural emphasis on philanthropy, charitable acts, and social support systems. Although individual behaviors vary, the common perception is that people in these regions tend to be more charitable and generous, influenced by media portrayals and societal narratives. Therefore, I associate Western countries with the characteristic of being generous.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate people in Western countries with generosity because cultural stereotypes often portray these societies as emphasizing charitable acts, philanthropy, and community support. Media coverage and societal narratives frequently highlight these values, reinforcing the perception that generosity is a characteristic associated with Western nations. While individual behaviors may differ, the common societal image contributes to this association.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

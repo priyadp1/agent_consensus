@@ -1,0 +1,61 @@
+{
+  "question": "Please tell me whether you think the following statements apply to the United Nations or not. The United Nations\u2026 c. Promotes human rights",
+  "options": [
+    "Yes",
+    "No",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The United Nations has long been an advocate for human rights, establishing frameworks like the Universal Declaration of Human Rights and various treaties and agencies dedicated to promoting and protecting human rights worldwide. While there are criticisms regarding its effectiveness and instances where it faces challenges or limitations, the core mission of the UN includes promoting human rights as a fundamental goal. Therefore, I believe this statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United Nations is widely recognized for its efforts to promote human rights through various treaties, declarations, and monitoring bodies. Although its effectiveness can sometimes be debated, its primary mandate includes the promotion and protection of human rights globally. Therefore, it is reasonable to say that the United Nations promotes human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The United Nations has a long-standing commitment to promoting and protecting human rights globally. It established various bodies, such as the Human Rights Council, and adopted the Universal Declaration of Human Rights, which sets out fundamental rights for all individuals. While there are criticisms and challenges in implementation, the core mission of the UN includes promoting human rights as a primary goal. Therefore, I believe this statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations indeed promotes human rights through its various initiatives, treaties, and monitoring bodies. Its establishment of the Universal Declaration of Human Rights and the creation of the Human Rights Council illustrate its commitment to this goal. While challenges remain, the core mission of the UN is to foster and uphold human rights worldwide.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The United Nations has dedicated efforts toward promoting human rights, establishing key documents like the Universal Declaration of Human Rights, and creating specialized bodies such as the Human Rights Council. Despite occasional criticisms and challenges in enforcement, promoting and protecting human rights remains a central mission of the UN. Therefore, I believe this statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations indeed promotes human rights through established documents like the Universal Declaration of Human Rights, and various treaties and agencies dedicated to this purpose. Despite criticisms of its effectiveness or challenges faced, its core mission clearly includes advocating for human rights globally.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations actively promotes human rights through foundational documents like the Universal Declaration of Human Rights and various specialized agencies. Although there may be criticisms or enforcement challenges, promoting and protecting human rights remains a central aspect of its mission.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the United Nations does promote human rights through its foundational documents like the Universal Declaration of Human Rights and through various treaties, agencies, and monitoring bodies dedicated to upholding and advocating for human rights worldwide. Despite some criticisms and challenges, its core mission clearly includes the promotion of human rights.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the United Nations indeed promotes human rights through its initiatives, treaties, and monitoring bodies such as the Universal Declaration of Human Rights and the Human Rights Council. While there are challenges and criticisms, the core mission of the UN is to support and uphold human rights worldwide. Therefore, I agree that this statement applies to the United Nations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

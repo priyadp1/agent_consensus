@@ -1,0 +1,62 @@
+{
+  "question": "Here are some things that may be part of a free trade agreement with the European Union. Please tell me if you strongly support, somewhat support, somewhat oppose, or strongly oppose...Making American and European standards for products and services as similar as possible.",
+  "options": [
+    "Strongly support",
+    "Somewhat support",
+    "Somewhat oppose",
+    "Strongly oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Supporting the effort to standardize American and European standards for products and services can facilitate trade, reduce costs for manufacturers, and make it easier for consumers to access high-quality goods across both markets. However, there are also concerns that harmonizing standards might undermine local regulations, safety standards, or unique national priorities. Balancing the benefits of easier trade with the need to maintain appropriate safeguards and consumer protections suggests that a moderate level of support is most appropriate. Therefore, I lean toward some support, recognizing the potential benefits while being cautious of possible drawbacks.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Making American and European standards for products and services similar can facilitate smoother trade, reduce technical barriers, and promote higher quality and safety across markets. Aligning standards may also benefit consumers by providing more consistency and choice. However, it could pose challenges for domestic industries that are accustomed to different standards or that may struggle to meet new, standardized requirements. Overall, supporting alignment can promote economic integration and consumer protection, making it a positive move for mutual trade relations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I support making American and European standards for products and services as similar as possible because it can facilitate easier trade, reduce barriers, and promote consistency in quality and safety across markets. This alignment can benefit consumers with more choice and potentially better prices, while also streamlining regulations for businesses operating transatlantically. However, it is important that standards remain appropriate for each region's unique needs and circumstances, so some flexibility might be necessary. Overall, I am inclined to favor harmonization to enhance cooperation and economic integration.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that making American and European standards for products and services as similar as possible can facilitate smoother trade and reduce technical barriers, ultimately benefiting consumers and businesses on both sides. Although some adjustments may be necessary for regional differences, the advantages of increased consistency and market integration outweigh the potential drawbacks. Therefore, I support aligning these standards closely to promote mutual economic growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that making American and European standards for products and services as similar as possible can significantly facilitate international trade, reduce costs, and enhance consumer choice. While it's important to ensure safety and quality, harmonized standards can streamline regulations for businesses and improve access to markets. Therefore, I support this initiative with a cautious approach to maintain regional flexibility where necessary.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that making American and European standards for products and services as similar as possible can significantly facilitate international trade and benefit consumers through increased consistency and safety. While there may be some concerns about local industry adjustments, the overall advantages of harmonizing standards\u2014such as reducing technical barriers and promoting economic integration\u2014seem to outweigh the drawbacks. Therefore, I support this move reasonably strongly.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that making American and European standards for products and services as similar as possible can greatly enhance international trade, reduce technical barriers, and benefit consumers through consistent quality and safety. Although there may be concerns about adjusting local industries, the overall economic and safety benefits make this a worthwhile step. Therefore, I support this initiative reasonably strongly.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that making American and European standards for products and services as similar as possible can significantly facilitate international trade and benefit consumers through increased consistency and safety. Harmonizing standards can reduce technical barriers and promote economic integration, ultimately leading to mutual benefits for both regions. While some adjustments may be needed to account for regional differences, the overall advantages seem to outweigh potential drawbacks. Therefore, I support this move reasonably strongly.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that making American and European standards for products and services as similar as possible can facilitate smoother trade, reduce technical barriers, and benefit consumers and businesses on both sides. While some regional adjustments may be needed, overall harmonizing standards promotes economic efficiency and market integration. Therefore, I support this initiative with careful consideration of regional differences.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

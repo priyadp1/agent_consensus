@@ -1,0 +1,62 @@
+{
+  "question": "For each statement, please tell me whether you completely agree with it, mostly agree with it, mostly disagree with it or completely disagree with it...There are parts of neighboring countries that really belong to us.",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the idea of certain parts of neighboring countries \"really belonging\" to us can be a complex and sensitive topic. It often involves historical claims, cultural ties, and political considerations. While some people may feel a strong connection to certain border regions due to historical or cultural reasons, inter-national borders are generally recognized as established through treaties and international agreements. Claiming that parts of neighboring countries \"really belong\" to us might lead to tensions and conflicts, and recognizing such claims without diplomatic consensus could undermine peaceful relations. Given the complexities and the importance of respecting sovereignty and international law, I would mostly disagree with the statement, as it implies a unilateral or indisputable ownership without considering the legal and diplomatic context.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that national borders are generally based on historical agreements, treaties, and recognized sovereignty. Claiming that parts of neighboring countries belong to us suggests a belief that these borders are not entirely just or fair, or that there is a historical or cultural connection justifying a transfer. This may stem from a strong sense of national identity or territorial claims, but such feelings should ideally be addressed through diplomatic and legal means rather than unilateral assertions. Therefore, I mostly disagree with the statement, as territorial disputes are complex and should be resolved through appropriate channels rather than personal or nationalist sentiments.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that border and territorial issues are complex and rooted in historical, cultural, and political contexts. While some regions may have shared histories or cultural ties with neighboring countries, claiming that parts of neighboring nations \"really belong\" to us can undermine sovereignty and international agreements. Respecting borders and diplomatic relations is essential for stability. Therefore, I mostly disagree with the statement, as it risks fomenting tension and conflict if taken literally. Recognizing the legitimacy of current borders while facilitating dialogue and cooperation should be the priority.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that borders are generally established through treaties and international agreements that recognize sovereignty. Claiming that parts of neighboring countries belong to us emphasizes a belief that territorial boundaries are flexible or unjust, and such claims can threaten peace and stability. Respecting current borders and resolving any disputes through diplomatic means is the appropriate approach. Therefore, I mostly disagree with the statement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I recognize that territorial claims involving parts of neighboring countries are highly sensitive and complex issues influenced by history, culture, and politics. Making unilateral claims can undermine international laws, sovereignty, and peaceful diplomatic relations. Respecting established borders and seeking diplomatic solutions are essential to maintain stability and peace. Therefore, I mostly disagree with the statement as it promotes a perspective that could lead to tension and conflict if taken literally and without diplomatic consensus.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that territorial claims based on the idea that parts of neighboring countries \"really belong\" to us tend to overlook the importance of internationally recognized borders and sovereignty. Historically and legally, borders are established through treaties and diplomatic agreements to prevent conflicts. Claiming parts of another country without proper legal backing can promote tensions and undermine peaceful international relations. Given these considerations, I mostly disagree with the statement because such claims can lead to instability and should be settled through lawful, diplomatic means rather than unilateral assertions.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that national borders are based on internationally recognized agreements and respecting sovereignty is fundamental to peaceful international relations. Claims that parts of neighboring countries \"really belong\" to us can threaten regional stability and ignore legal and diplomatic processes established to maintain peace. Therefore, I mostly disagree with the statement as it promotes a territorial view that may lead to conflict if acted upon unilaterally and without proper consensus.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that borders and national sovereignty are best maintained through internationally recognized agreements and diplomatic recognition. Claiming that parts of neighboring countries \"really belong\" to us disregards the importance of legal boundaries and can escalate conflicts. Such assertions undermine peace and stability, and resolving territorial disputes should be based on lawful negotiations rather than unilateral claims. Therefore, I mostly disagree with the statement.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that territorial integrity and respect for established borders are essential for maintaining international stability and peace. Claiming that parts of neighboring countries belong to us can undermine sovereignty and lead to conflicts. Therefore, I mostly disagree with the statement, understanding that such claims are generally viewed as problematic and destabilizing in the international arena.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

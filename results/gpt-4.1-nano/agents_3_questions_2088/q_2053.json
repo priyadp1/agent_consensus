@@ -1,0 +1,62 @@
+{
+  "question": "Sometimes I can\u2019t stop myself from doing something, even if I know it is wrong",
+  "options": [
+    "Not at all",
+    "2",
+    "3",
+    "Very Much"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe I sometimes experience difficulty controlling my impulses, especially when the temptation is strong, even if I know it's wrong. This suggests that I occasionally find myself unable to stop, but not always to a severe extent. Therefore, selecting option C (3) reflects a moderate level of this tendency without it being extremely persistent. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe I sometimes struggle to control my impulses even when I am aware that my actions might be wrong. This response reflects a moderate level of internal conflict, acknowledging that I do occasionally act against my better judgment but not always intensely. Therefore, I would select a middle-ground option that captures this behavior.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe I sometimes struggle to control my impulses, especially when I find myself tempted or emotionally driven. Even when I recognize that an action is wrong, I might find myself acting impulsively. Therefore, I would choose a mid-range option indicating a moderate tendency to act against my better judgment, but not all the time. This suggests a balance between awareness and impulsivity, which aligns with selecting option C.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize that I sometimes find myself unable to resist doing something even if I know it is wrong, indicating a moderate level of impulsivity and internal conflict. This suggests I might occasionally act against my better judgment but not consistently or intensely. Based on this, selecting a middle-range option reflects my experience most accurately.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I sometimes find myself unable to stop doing certain things even though I know they are wrong, especially when I feel strong urges or temptations. This suggests a moderate level of impulse control difficulty, but not a persistent or severe issue. Therefore, I would choose a moderately high option to reflect this tendency without it being extreme.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I personally sometimes find myself acting impulsively even when I know it\u2019s not the right choice, especially in situations where temptation or emotions take over. While I do manage to control myself most of the time, there are moments where I struggle to stop myself. This feels moderate in intensity, not completely losing control, but certainly not easy. Therefore, I believe a middle-ground option best captures my experience.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I sometimes find myself acting on impulses even when I know it\u2019s not right, especially when I am overwhelmed or tempted. While I can usually control myself, there are moments when I struggle to stop. This reflects a moderate tendency to act impulsively without losing complete control, but not to the extent of acting without any restraint. Therefore, I would choose a middle-to-high option to represent this experience.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I sometimes find myself unable to resist doing something even if I know it is wrong, especially in situations where temptation or strong emotions are involved. While I manage to control these impulses most of the time, there are moments when I act against my better judgment. Given the moderate level of internal struggle described, I feel that a middle-range option best reflects my experience.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I sometimes experience difficulty in controlling my impulses, especially when I feel strong urges or temptations. While I am aware that some of my actions may be wrong, I find it challenging to always stop myself in these situations, indicating a moderate to high level of impulsivity. Considering the responses from others and my own reflection, I believe that a higher response best captures my tendency to struggle with this issue without it being extreme or constant.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

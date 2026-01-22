@@ -1,0 +1,61 @@
+{
+  "question": "When it comes to important issues facing the public, people may disagree over policies, but do you think most people agree or disagree on basic facts?",
+  "options": [
+    "Agree on the basic facts",
+    "Disagree on the basic facts",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "People tend to agree on basic facts because facts are generally verifiable and supported by evidence. While opinions on policy solutions may vary and be subjective, the foundational facts around issues like climate change, economic data, or historical events are usually accepted by most people, even if they interpret or prioritize those facts differently. Disagreement on basic facts can undermine meaningful debate, so the tendency is for most to agree on them, even if debates around policies continue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Most people tend to agree on basic facts because these are foundational truths supported by evidence and scientific consensus. While opinions on policies can vary widely, the agreement on fundamental facts such as climate change, the existence of historical events, or the basic principles of science generally remains stable across different groups. Disagreements on these facts are often influenced by misinformation or personal beliefs, but overall, there is a significant consensus on many basic facts that underpin public understanding and policy debates.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my view, most people tend to agree on the basic facts underlying important issues, even if their opinions on policies differ. This is because facts like scientific data, statistical information, or historical events tend to be objective and well-documented, making consensus more achievable than on subjective policy preferences.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that most people tend to agree on the basic facts because these are generally supported by evidence, scientific consensus, and widely accepted data. While misinformation and personal beliefs can cause some disagreement, the fundamental truths that underpin important issues\u2014such as scientific facts and historical records\u2014are usually viewed as objective and stable across different groups. Therefore, the consensus on basic facts remains relatively strong, even if opinions on policies vary.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that most people tend to agree on the basic facts underlying important issues because facts such as scientific data, historical events, and statistical information are generally objective and verifiable. While opinions on policies may vary due to personal beliefs or values, the foundational facts are widely accepted, which helps ensure a shared understanding of the issues at hand. Disagreements on basic facts are less common and can hinder productive debate, so the tendency is for consensus on the core facts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe most people agree on basic facts because these are generally verifiable and supported by evidence, providing a common foundation for discussions. While opinions on policies may differ, the underlying facts such as scientific consensus or historical events tend to be accepted broadly. Disagreements on these core facts are often due to misinformation or personal beliefs, which can distort perceptions but do not usually reflect actual differences in basic information. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe most people agree on basic facts because these are typically based on evidence, scientific data, or historical records that are generally accepted as objective and verifiable. While opinions and interpretations of policies may vary, the foundational facts tend to be widely understood and agreed upon, which provides a common ground for informed discussions. Disagreements on these core facts are less common and often stem from misinformation or differences in understanding, but they do not usually indicate fundamental disagreements about the facts themselves. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that most people tend to agree on the basic facts because these are generally supported by scientific evidence, historical records, and widely accepted data. While individuals may have differing opinions on policies depending on their values, beliefs, or manipulation of information, the foundational facts that can be verified objectively tend to be shared across different groups. Misinformation and personal biases can influence perceptions, but the core truths underpinning significant issues usually maintain broad consensus. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that most people tend to agree on the basic facts because these are generally supported by evidence, scientific consensus, and widely accepted data. While misinformation and personal beliefs can cause some disagreement, the fundamental truths that underpin important issues\u2014such as scientific facts and historical records\u2014are usually viewed as objective and stable across different groups. Therefore, the consensus on basic facts remains relatively strong, even if opinions on policies vary.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

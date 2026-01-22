@@ -1,0 +1,62 @@
+{
+  "question": "In a family, when it comes to making important decisions about ____, do you think \u2026? a. Household finances",
+  "options": [
+    "Men generally have more influence",
+    "Women generally have more influence",
+    "Men and women generally have about the same influence",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In many families, household finances are often a shared responsibility, but culturally, men have historically held more influence over financial decisions, especially in traditional or patriarchal contexts. However, this can vary greatly depending on societal norms, individual family dynamics, and whether the family emphasizes gender equality. Generally, in many surveys and studies, men tend to be perceived or positioned as having more decision-making power regarding household finances due to social and economic factors. Therefore, the most common perception aligns with men having more influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "In many contemporary families, the influence over household finances varies widely depending on cultural, social, and individual factors. Traditionally, men were often perceived as the primary decision-makers in financial matters, especially in more patriarchal societies. However, in many modern households, women tend to have significant or even dominant influence, reflecting shifts towards gender equality and shared decision-making. Some families see a balanced influence from both partners, while others may have unclear or undecided arrangements. Thus, there is no single pattern applicable universally; cultural and social contexts heavily influence this dynamic. Given this diversity and the trend toward more egalitarian decision-making in many societies, the most common perception is that influence is shared roughly equally. Therefore, I believe that, in many households, men and women generally share about the same influence over household finances.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In many families, household financial decisions tend to be influenced by traditional gender roles, with men historically having more decision-making authority over finances, especially in more conservative or traditional contexts. However, in modern settings, women often have equal or greater influence, especially as they participate more actively in financial matters and shared decision-making. Given these dynamics, the influence can vary greatly depending on cultural, socioeconomic, and individual family factors, but overall, it is common to see men having somewhat more influence on household finances in a traditional or average scenario.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the diverse perspectives and the evolving nature of household decision-making, it appears that in many modern families, influence over finances is increasingly shared between men and women. Traditional gender roles are shifting towards more egalitarian approaches, and studies suggest that women often have significant influence or share decision-making power in household finances. While some families still reflect traditional hierarchies where men hold more authority, the trend points towards a more balanced influence overall. Therefore, I believe that in general, men and women tend to have about the same influence in many households.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In traditional and many societal contexts, men have historically held more influence over household finances due to cultural norms and patriarchal structures. Although modern shifts promote gender equality and shared decision-making, perceptions still often align with the idea that men predominantly influence financial decisions in many families. Therefore, based on common perceptions and historical tendencies, the most appropriate choice is that men generally have more influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering traditional roles and societal norms, men have historically held more influence over household finances, especially in conservative or patriarchal contexts. While contemporary trends are shifting toward greater gender equality and shared decision-making, the perception still often leans toward men being the primary decision-makers in financial matters. Therefore, my view aligns most closely with the idea that men generally have more influence.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In many traditional and societal contexts, household finances are still often viewed as a domain where men hold more influence due to historical gender roles and cultural norms. While modern trends increasingly promote shared decision-making and gender equality, perceptions tend to lag behind actual practice. Therefore, based on societal perceptions and historical tendencies, I believe that men generally have more influence over household finances.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the evolving societal norms and the increasing emphasis on gender equality, many modern families tend to share decision-making responsibilities for household finances. While traditional views still persist in some contexts, overall, the trend is toward more balanced influence between men and women. Therefore, I believe that in many households, influence over finances is generally shared equally.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the evolving dynamics in household decision-making and the trend toward gender equality, many modern families share influence over financial decisions more equally. While traditional norms often favored male dominance in this area, recent studies and societal shifts suggest that women are increasingly involved in managing household finances. Therefore, I believe that in most families, men and women tend to have about the same influence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

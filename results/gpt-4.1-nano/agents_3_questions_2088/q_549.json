@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, do lower income have too much influence in our political system, not enough influence, or about the right amount?",
+  "options": [
+    "Too much",
+    "Not enough",
+    "Right amount"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that lower income groups tend to have too much influence in our political system. This is because they often mobilize strongly around issues directly affecting their livelihoods, and their votes can sway elections in ways that prioritize short-term relief over long-term solutions. Additionally, political campaigns often rely on fundraising from wealthy donors, which can skew influence toward higher-income interests rather than the grassroots. While their voices are important, the current system sometimes disproportionately amplifies the concerns of lower-income populations beyond what might be equitable, overshadowing the broader interests of society. Therefore, the influence of lower income groups seems to be excessive relative to their overall representation and resources compared to other segments of society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that lower income individuals have too little influence in our political system. This is because economic hardship can limit their ability to participate fully in political processes, such as campaigning or advocacy, and existing structures often favor wealthier interests. Ensuring that all citizens have an equal voice is essential for a healthy democracy, so increasing their influence could lead to more equitable policies that benefit a broader segment of society.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that lower income individuals tend to have not enough influence in our political system. Economic disparities often limit their ability to participate fully in political processes, and their voices can be overshadowed by wealthier interests. Ensuring a more equitable influence would help create a more fair and representative democracy where everyone's concerns are adequately heard and addressed.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that lower income individuals tend to have not enough influence in our political system. Economic challenges can limit their capacity to participate in political activities, and current structures often favor wealthier interests. Enhancing their influence would contribute to a more equitable and representative democracy, ensuring that diverse concerns are adequately voiced and addressed.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that lower income groups tend to have too much influence in our political system. They often mobilize strongly around issues that directly affect their livelihoods, and their votes can significantly sway elections, especially when campaigns rely heavily on grassroots efforts. While their voices are vital, this sometimes leads to an overrepresentation of their concerns relative to their resources, potentially overshadowing broader societal interests. Balancing influence to ensure equitable participation is essential, but currently, it seems their impact is somewhat disproportionate.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that lower income individuals tend to have too little influence in our political system because their ability to participate fully is often limited by economic hardship and structural barriers. This underrepresentation can lead to policies that do not adequately address their needs and concerns, undermining the principles of equitable democracy. Ensuring that lower income groups have more influence could help create a more balanced and fair political environment where all voices are heard and considered.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that lower income groups tend to have too much influence in our political system. Their strong mobilization around issues affecting their livelihoods can sometimes lead to disproportionate sway in electoral outcomes and policy debates, often overshadowing other societal concerns. While their participation is important, a more balanced approach is necessary to ensure a fair representation of all socioeconomic groups. Therefore, I think their influence is currently somewhat excessive.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that lower income individuals tend to have too little influence in our political system because their economic hardships and structural barriers often limit their ability to participate fully in political processes. This underrepresentation can result in policies that do not adequately reflect their needs and concerns, which undermines the principles of fairness and democracy. Increasing their influence could help create a more equitable political environment where diverse voices are genuinely heard and considered.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that lower income individuals tend to have not enough influence in our political system. Economic and social barriers can limit their ability to participate fully in political processes, and current systems often favor wealthier interests, leading to an underrepresentation of their concerns. Ensuring they have more influence would promote a more equitable and inclusive democracy where diverse voices are heard and valued.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

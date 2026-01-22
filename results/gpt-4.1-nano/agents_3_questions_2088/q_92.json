@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...UN Secretary General Kofi Annan",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "Never heard of"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Kofi Annan because he was widely respected for his leadership and efforts to reform the United Nations, promoting peace and development initiatives globally. I am aware of his work and hold a positive view of his contributions during his tenure as UN Secretary General. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have a very favorable opinion of Kofi Annan because he was widely respected as a diplomatic leader and made significant efforts to improve the United Nations\u2019 effectiveness and global peace initiatives during his tenure as Secretary General. I follow international affairs and have generally viewed his leadership positively. Therefore, I would choose the answer that reflects a very favorable opinion.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Kofi Annan. As the Secretary General of the United Nations, he was generally regarded as a committed and capable leader who worked towards international diplomacy and peacekeeping efforts. While I may not have followed all his initiatives closely or have a completely positive view, my perception is primarily favorable based on his efforts during his tenure. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Kofi Annan. During his tenure as UN Secretary General, he was recognized for his diplomatic skills and efforts to promote international peace and reforms within the United Nations. Although I may not have followed all his initiatives closely or hold an entirely positive view, I believe he contributed positively to global diplomacy and peacekeeping efforts.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of UN Secretary General Kofi Annan. He was recognized for his leadership and dedication to reform the United Nations, as well as his efforts to promote peace and development worldwide. While I may not be fully familiar with all his initiatives or have an extremely positive view, I generally regard his contributions positively based on his reputation and work during his tenure.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Kofi Annan. I recognize his efforts in leading the United Nations during a challenging period and commend his initiatives toward reform and promoting international peace. While I appreciate his contributions, I feel I am somewhat less enthusiastic than those with very favorable views, as I believe there is room for more progress and effectiveness in the UN's actions.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Kofi Annan. I recognize his leadership efforts and contributions during his tenure as UN Secretary General, especially his focus on reform and international peace initiatives. While I appreciate his work, I do not view it as exceptionally positive, and I believe there is still room for improvement in the UN's effectiveness and global engagement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Kofi Annan. I recognize his efforts to lead the UN during difficult times and appreciate his work in promoting peace and reform. However, I believe there was still room for improvement in the UN's effectiveness and cannot fully regard his contributions as highly as very favorable views. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Kofi Annan. Based on his reputation and the positive contributions he made towards international diplomacy, peacekeeping, and reform within the UN during his tenure, I view his leadership in a generally positive light. While I may not follow all his initiatives closely or hold an extremely positive view, I recognize his efforts and achievements in promoting global peace and development.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. c. Five Star Movement (M5S)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Five Star Movement (M5S). I appreciate its emphasis on anti-establishment policies and its focus on populist issues, but I also recognize some concerns regarding its governance and consistency. Therefore, I would choose 'Somewhat favorable' as it best reflects a generally positive but somewhat cautious view of the party.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The Five Star Movement (M5S) is a prominent political party in Italy known for its populist and Eurosceptic positions. Public opinions about M5S tend to vary widely depending on recent political developments, policy stances, and individual perspectives. Some individuals view the party favorably due to its anti-establishment stance and advocacy for direct democracy, while others may see it unfavorably because of its controversial policies or leadership issues. Given this range of opinions and based on general perceptions, I would lean towards a somewhat favorable opinion, acknowledging both supporters and critics.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Five Star Movement (M5S) because it has been a significant force advocating for citizens' interests and anti-establishment policies, though I recognize it also faces criticism and controversy regarding its policies and leadership. Therefore, I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Five Star Movement because it has gained support for its anti-establishment stance and focus on direct democracy, which resonates with many citizens seeking change from traditional politics. However, its controversial policies and leadership issues also generate criticism, making my view neither strongly positive nor negative. Considering these factors, I believe a somewhat favorable opinion best reflects my perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Five Star Movement (M5S). I appreciate its focus on anti-establishment policies and its appeal to populist sentiments. However, I also acknowledge concerns about its governance, consistency, and controversies that have arisen over time. Overall, my view is cautiously positive but with reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that the Five Star Movement (M5S) has a complex reputation, with significant support due to its anti-establishment and populist stance, but also some criticism regarding governance and policy positions. Given the mixed views and the tendency for public opinion to be somewhat divided, I would select a somewhat favorable opinion, reflecting cautious appreciation and acknowledging both positive and critical perspectives.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Five Star Movement (M5S) because I appreciate its anti-establishment stance and appeal to populist sentiments. While I recognize that there are concerns about governance and controversies, overall my view is cautiously positive, reflecting a degree of support tempered by reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of the Five Star Movement because while I appreciate its anti-establishment stance and focus on direct democracy, I am also aware of the controversy surrounding its policies and leadership issues. This balanced view aligns with a cautious appreciation rather than strong support or opposition.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the Five Star Movement because I recognize its role in challenging traditional politics and its appeal to anti-establishment and populist sentiments. While I appreciate its focus on direct democracy and its capacity to mobilize voters, I also have concerns about its governance, consistency, and controversies over time. Overall, I see it as a force for change with some reservations, aligning most closely with a somewhat favorable view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

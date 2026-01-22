@@ -1,0 +1,61 @@
+{
+  "question": "In general, when German companies buy American companies, does that mostly help or mostly hurt our economy? ",
+  "options": [
+    "Mostly help",
+    "Mostly hurt",
+    "No effect (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "When German companies acquire American companies, it can bring both benefits and drawbacks to the U.S. economy. On the positive side, such investments often lead to job creation, technological advancement, and increased capital inflows. They can also foster innovation through the sharing of expertise and resources. However, there are potential downsides, such as profits being repatriated to Germany, which might reduce the reinvestment in the U.S., or concerns about foreign control over strategic industries. Overall, while there can be some negative effects, the economic influx, technological progress, and job creation tend to outweigh the negatives, making such acquisitions generally more beneficial than harmful.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "When German companies acquire American firms, it can bring both benefits and drawbacks to the U.S. economy. On the positive side, such investments often lead to increased capital flows, job creation, and technological exchange, which can stimulate economic growth. However, concerns may arise about the transfer of profits overseas, potential loss of control over strategic assets, or impacts on domestic competition. Overall, the effect tends to be mixed, but many argue that in the majority of cases, these acquisitions support economic development through increased investment and innovation, making the net impact mostly beneficial.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "When German companies acquire American companies, the effect on the US economy can vary depending on context. Generally, these investments can bring capital, technology, and management expertise, which may promote growth and innovation. However, they can also lead to job displacements or concerns over foreign influence. Overall, many such acquisitions tend to support economic growth through increased investment, though there may be some negative side effects. On balance, they are more likely to benefit the economy than harm it, though the impact isn't universally positive or negative in every case.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The acquisition of American companies by German firms generally introduces significant capital, technological innovation, and management expertise to the U.S. economy. While there are some concerns about potential job displacement or foreign influence, the overall effect tends to promote economic growth and development. Based on these considerations, the predominant impact is beneficial.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my view, when German companies buy American companies, it generally benefits the U.S. economy. These acquisitions often bring in capital, new technologies, and management expertise that can stimulate growth, create jobs, and foster innovation. While there are some concerns about foreign influence and profit repatriation, the overall positive effects tend to outweigh the negatives, making such international investments advantageous for our economic development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that when German companies buy American companies, it mostly helps our economy. These investments typically bring in capital, create jobs, and promote technological innovation, which can boost economic growth. While there are concerns about profit repatriation and strategic control, the overall benefits such as increased investment, collaboration, and competitiveness tend to outweigh the negatives. Therefore, I think these acquisitions generally support the U.S. economy more than they hinder it.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my view, when German companies buy American companies, it generally benefits the U.S. economy. These acquisitions can bring in capital, technology, and management expertise that promote growth and innovation. Although some concerns exist about profit repatriation and strategic control, the overall positive impacts such as job creation and increased competitiveness suggest that these investments are more helpful than harmful to the economy. Therefore, I believe they mostly help our economy.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "German companies investing in American firms often bring in capital, advanced technology, and management expertise, which can stimulate innovation, create jobs, and foster economic growth in the US. While there are potential concerns about job displacement and foreign influence, the overall net effect appears to be positive for the economy. Given this balanced perspective, I believe these acquisitions tend to help our economy more than they hurt.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that when German companies buy American companies, it mostly helps our economy. These investments bring in capital, technology, and management expertise that can boost growth, innovation, and job creation. Although there might be concerns about foreign influence or profit movement outside the US, the overall economic benefits seem to outweigh these issues. Such foreign direct investments typically strengthen our economic position by fostering development and competitiveness.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

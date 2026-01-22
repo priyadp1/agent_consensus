@@ -1,0 +1,61 @@
+{
+  "question": "As I read some proposed policies of U.S. President Joe Biden, please tell me if you approve or disapprove of each one. a. The U.S. rejoining the Paris climate agreement",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it signifies a renewed commitment to international efforts to combat climate change, promote environmental sustainability, and position the U.S. as part of a global partnership to address urgent ecological issues. Re-engagement can also help foster stronger international relations and demonstrate leadership in global environmental initiatives.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it demonstrates a commitment to addressing global climate change through international cooperation. This move can help strengthen efforts to reduce greenhouse gas emissions and promote sustainable development worldwide. Additionally, rejoining signals leadership on environmental issues and indicates a desire to work collaboratively with other nations on pressing global challenges.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it demonstrates a commitment to combating climate change and collaborating with the international community on environmental issues. Rejoining can help restore U.S. leadership in global efforts to reduce carbon emissions and promote sustainable development. Given the urgency of climate change impacts, it's important for the U.S. to take an active role in global climate initiatives.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it shows commitment to addressing global climate change through international cooperation, helps restore U.S. leadership in environmental issues, and emphasizes the importance of collaborative efforts to reduce greenhouse gas emissions in face of urgent climate challenges.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it aligns with global efforts to address urgent climate change issues. Re-engagement demonstrates a commitment to environmental sustainability, international cooperation, and leadership in reducing carbon emissions, which are vital for combating the worsening climate crisis.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it reflects a strong commitment to addressing global climate change through international cooperation. Rejoining can help reduce greenhouse gas emissions, promote environmental sustainability, and demonstrate global leadership in tackling urgent ecological issues. Engaging in international efforts encourages collective action and signals that the U.S. is serious about mitigating climate change impacts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it shows leadership in global efforts to combat climate change. Re-engagement promotes international cooperation, reduces greenhouse gas emissions, and emphasizes the importance of environmental sustainability, which are critical for addressing the climate crisis effectively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it demonstrates a commitment to global efforts to combat climate change, encourages international cooperation, and aligns with strategies to reduce greenhouse gas emissions, which are crucial for addressing urgent ecological issues facing the planet.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of the U.S. rejoining the Paris climate agreement because it demonstrates a commitment to addressing global climate change through international cooperation. Re-engagement can restore U.S. leadership in environmental issues and emphasizes the importance of collective efforts to reduce greenhouse gas emissions in the face of urgent climate challenges.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

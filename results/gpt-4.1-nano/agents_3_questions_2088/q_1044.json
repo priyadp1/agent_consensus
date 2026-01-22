@@ -1,0 +1,62 @@
+{
+  "question": "Do you think ____ plays a more important role in the world today compared to 10 years ago, a less important role, or about as important a role in the world as it did 10 years ago? b. Russia",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In recent years, Russia's role in global affairs has become more prominent due to its military interventions, geopolitical assertiveness, and influence in regional conflicts such as in Ukraine and Syria. These actions have elevated its importance on the world stage, making it more influential than it was a decade ago. Therefore, I believe Russia plays a more important role in the world today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In recent years, Russia has played a more prominent role on the global stage due to its military interventions, such as in Ukraine, its influence in Syria, and its activities in cybersecurity and information warfare. These actions have increased its geopolitical importance, impacting international stability and security. While its economic and political influence is considerable, especially in regions like Eastern Europe and Central Asia, the overall global influence of Russia appears to have intensified rather than diminished over the past decade. Therefore, I believe Russia plays a more important role in the world today compared to 10 years ago. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In recent years, Russia has become more prominent on the world stage due to its actions such as its involvement in Ukraine, its military interventions, and its influence in global geopolitics. These developments suggest that Russia plays a more significant role now than it did a decade ago. Its strategic importance, military capabilities, and political influence have increased, making it a central player in international affairs. Therefore, I believe Russia plays a more important role in the world today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Russia plays a more important role in the world today compared to 10 years ago. Over the past decade, Russia has increased its global influence through military actions, strategic alliances, and information warfare, making it a more prominent and impactful player on the international stage. Its involvement in conflicts like Ukraine and Syria, along with its military modernization and diplomatic efforts, have elevated its importance in global geopolitics. These developments suggest that Russia's role has intensified rather than diminished, making it more significant today than it was a decade ago. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Russia plays a more important role in the world today compared to 10 years ago. The country has been more assertive in its foreign policy, demonstrated through military interventions in Ukraine and Syria, increased influence in global geopolitics, and efforts to project power beyond its borders. These actions have heightened its strategic significance and status on the world stage, making it a more prominent player in international affairs than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Russia has significantly increased its influence over the past decade through military interventions in Ukraine and Syria, as well as its activities in cybersecurity and information warfare. These efforts have elevated its geopolitical importance and impact on global stability, suggesting that its role is more prominent now than it was ten years ago. Therefore, I believe Russia plays a more important role in the world today compared to 10 years ago. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Russia plays a more important role in the world today compared to 10 years ago. Over the past decade, Russia has increased its geopolitical influence through military interventions, such as in Ukraine and Syria, and has become more active in cybersecurity and information warfare. These actions have amplified its strategic importance, making it a more significant global player. Its assertiveness and pursuit of power projection have shifted its position on the international stage, suggesting that its role has grown rather than diminished or stayed the same.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my view, Russia plays a more important role in the world today compared to 10 years ago. Over the past decade, Russia has actively expanded its influence through military interventions, strategic alliances, and cyber activities. Its involvement in conflicts like Ukraine and Syria, along with modernization of its military and strategic diplomacy, have elevated its global significance. These factors demonstrate that Russia's role has become more prominent and impactful on the international stage than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Russia plays a more important role in the world today compared to 10 years ago. Over the past decade, Russia has actively expanded its influence through military interventions, strategic alliances, and increased diplomatic activity. Its involvement in conflicts such as Ukraine and Syria, along with efforts to project power globally, have elevated its geopolitical importance. These actions demonstrate a rise in Russia\u2019s influence on the international stage, making it more significant now than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

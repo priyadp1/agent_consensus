@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of statements. For each one, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with it. When something is run by the state/government, it is usually inefficient and wasteful?",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that government-run entities often face challenges related to bureaucracy, unnecessary procedures, and lack of competition, which can lead to inefficiency and wastefulness. However, this is not always the case; well-managed public institutions can operate effectively. Nonetheless, on the whole, the perception that state-run programs tend to be inefficient persists, influencing public opinion. Therefore, I mostly agree with the statement that when something is run by the state or government, it is usually inefficient and wasteful.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that when operations are run by the state or government, they tend to face challenges such as bureaucratic processes, legal constraints, and political influences, which often lead to inefficiencies and wastefulness. Although this is not universally true and some government-run programs are effective, on the whole, I tend to agree with the statement that government-run activities are usually inefficient and wasteful because of these systemic issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that, in general, government-run operations tend to be more prone to inefficiency and waste due to bureaucratic processes, lack of competition, and political influences. However, this is not always true, as there are situations where government programs are efficient and effective. Nonetheless, the common perception remains that state-run systems often struggle with inefficiency, which influences my response. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that government-run activities often face challenges such as bureaucratic delays, political interference, and lack of competitive pressure, which can lead to inefficiencies and waste. While there are exceptions where government programs operate effectively, the general perception and recurring issues suggest that such systems tend to be inefficient. Therefore, I lean toward agreeing that when something is run by the state or government, it is usually inefficient and wasteful.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that government-run entities often face challenges related to bureaucracy, unnecessary procedures, and lack of competition, which can lead to inefficiency and wastefulness. While there are examples of well-managed public institutions, the general perception that state-run systems tend to be inefficient persists. This perception influences my view that, overall, when something is run by the state or government, it is usually inefficient and wasteful.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that government-run entities often face challenges related to bureaucracy and lack of competition, which can lead to inefficiencies and wastefulness. While there are successful examples of well-managed public institutions, the general perception and systemic issues tend to support the idea that such operations are usually inefficient. Therefore, I primarily lean toward agreement with the statement, though acknowledging exceptions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that government-run entities often face challenges such as bureaucracy, inefficiency, and resource wastage, which are common reasons why many perceive state management as less effective. While exceptions exist, the overall perception and systemic issues suggest that such operations tend to be inefficient. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that government-run activities often face challenges such as bureaucratic delays, political interference, and lack of competitive pressure, which can lead to inefficiencies and waste. While there are exceptions where government programs operate effectively, the general perception and recurring issues suggest that such systems tend to be inefficient. Therefore, I lean toward mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I tend to agree that when something is run by the state or government, it is usually inefficient and wasteful. This perception is often based on observations of bureaucratic delays, lack of competition, and administrative hurdles that can hinder performance and lead to resource wastage. While there are exceptions where government programs are effective, the general trend and personal experiences suggest inefficiency in public management. Therefore, I lean toward mostly agree with this statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

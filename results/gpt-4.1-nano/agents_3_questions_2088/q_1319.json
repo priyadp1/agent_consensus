@@ -1,0 +1,62 @@
+{
+  "question": "For each statement, please tell me whether you completely agree with it, mostly agree with it, mostly disagree with it or completely disagree with it...Most elected officials care what people like me think",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that most elected officials are influenced by public opinion to some extent, especially in democratic systems where they seek re-election and public support. However, the degree to which they genuinely care about what individuals like me think can vary widely depending on the issue, the politician, and the political climate. Some may be more responsive and attentive to constituents' opinions, while others may prioritize party agendas, personal beliefs, or special interest groups over the general electorate. Overall, I think it's a mix, but I tend to believe that many officials do pay attention to public sentiment, at least to an extent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that most elected officials do consider what the public thinks, but the extent to which they do varies depending on the individual and the context. While some politicians are highly attuned to public opinion to gain support and re-election, others may prioritize party lines or personal beliefs over public sentiment. Overall, I think many officials care, but not necessarily for every individual, and often their actions may not fully reflect the opinions of all constituents.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that most elected officials are concerned about what their constituents think because their electoral success depends on public support. However, I also recognize that they may prioritize other interests, such as political party agendas or special interest groups, over the views of individual citizens. Therefore, I am somewhat cautious about assuming they genuinely care about people like me. Based on this, I think I mostly agree with the statement but with some reservation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that many elected officials do consider what the public thinks, but the extent to which they do so can vary significantly depending on circumstances, priorities, and individual tendencies. While some may genuinely care about their constituents' opinions, others might focus more on party politics or special interests, which can diminish the impact of individual voices. Given this, I lean toward mostly agree because I think there is a general concern, but it is not universal or always deeply felt for every individual citizen.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials are influenced by public opinion, especially since they rely on support for re-election. However, their level of genuine care for individual opinions can vary and may often be secondary to party priorities or other political interests. While they might pay some attention to what people like me think, it's not always a strong or consistent concern. Therefore, I mostly agree with the statement, though I recognize it's not absolute.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that while some elected officials do pay attention to public opinion, the extent to which they genuinely care about what individuals like me think varies greatly. Many are influenced by re-election concerns and public sentiment, but others may prioritize party agendas, ideology, or special interest groups over individual opinions. Given this variation, I think most officials care to some extent, but not necessarily deeply or for every individual. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials are influenced by public opinion, especially because they depend on electoral support. While some may pay attention to what people like me think, their genuine concern for individual opinions is often limited and may be secondary to party goals or political interests. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that some elected officials do care about what people like me think, as they often consider public opinion when making decisions, especially to secure re-election or maintain support. However, their level of concern can vary based on individual tendencies, political circumstances, and priorities like party agendas or special interests. While many do pay attention, it's not always a deep or consistent concern for every citizen's opinion. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that elected officials often consider public opinion to a certain extent, primarily because they need voter support to stay in office. While some may genuinely care about what people like me think, others might prioritize party lines or special interests, which can reduce how much they actually pay attention to individual opinions. Overall, I think there is a tendency for elected officials to care about public sentiment, but it's not always a deep or consistent concern. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Now I'm going to read you some statements about President Barack Obama.  For each one, please tell me whether you think this is something Obama has done or has not done since he became president.  Do you think he has gotten the United States to take significant measures to control global climate change or don't you think so?",
+  "options": [
+    "Has",
+    "Has not"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Barack Obama has gotten the United States to take significant measures to control global climate change. During his presidency, he prioritized environmental issues, signed the Paris Agreement, and implemented policies aimed at reducing carbon emissions and investing in renewable energy sources. While progress has had its limitations, these efforts represented a substantial step by the U.S. toward addressing climate change on a global scale.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has gotten the United States to take significant measures to control global climate change. During his presidency, he prioritized environmental issues, introduced policies such as the Clean Power Plan, and worked on international agreements like the Paris Climate Accord to address global warming. While challenges remained, his administration took notable steps toward combating climate change.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "During President Obama\u2019s tenure, he made significant efforts to address climate change through initiatives like the Clean Power Plan and the signing of the Paris Agreement, which aimed to prompt global action. While some critics argue that these measures were not enough or were hindered by political opposition, it is clear that he took concrete steps to push the United States towards more aggressive climate policies. Given these actions, I believe he has gotten the United States to take significant measures to control global climate change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has indeed taken significant measures to address global climate change. His administration implemented policies like the Clean Power Plan and was actively involved in international efforts such as the Paris Climate Agreement. Although some critics argue these actions were insufficient, they clearly represent meaningful steps toward environmental protection and climate change mitigation in the United States.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Obama took significant steps toward addressing climate change through actions such as the Paris Agreement and the Clean Power Plan, which aimed to reduce emissions and promote renewable energy. Though his efforts faced challenges and opposition, these initiatives marked important advancements for U.S. engagement on climate issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has taken significant measures to control global climate change. During his tenure, he prioritized environmental policies, signed the Paris Agreement, and advanced initiatives to reduce carbon emissions and promote renewable energy. While full success was challenging, these efforts represented meaningful progress in U.S. action on climate change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has taken significant measures to control global climate change through initiatives like the Paris Agreement and the Clean Power Plan, which aimed to reduce emissions and promote renewable energy. Despite facing opposition and challenges, these actions demonstrated a serious commitment to addressing climate issues and marked important progress in U.S. efforts on a global scale.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has indeed taken significant measures to address global climate change. His administration implemented policies like the Clean Power Plan and actively participated in international agreements such as the Paris Climate Agreement. While some critics say these actions were not enough, they still constitute meaningful steps toward environmental protection and reducing climate change impacts.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama has indeed taken significant measures to address global climate change. His administration's implementation of policies such as the Clean Power Plan and active participation in international agreements like the Paris Climate Agreement demonstrate a committed effort to mitigate climate change and promote environmental sustainability in the United States. While there is room for further action, these initiatives represent meaningful progress in tackling the issue.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

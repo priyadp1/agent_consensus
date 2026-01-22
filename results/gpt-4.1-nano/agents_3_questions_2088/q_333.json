@@ -1,0 +1,62 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for your country. Do you think that ___ is a major threat, a minor threat, or not a threat to your country? e. The spread of nuclear weapons",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The spread of nuclear weapons remains a significant global concern because it increases the risk of nuclear conflict, threatens international stability, and could lead to devastating consequences if such weapons fall into the hands of rogue states or non-state actors. While some may consider it a minor or not a threat due to nuclear deterrence strategies, the potential danger it poses warrants viewing it as a major threat overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The spread of nuclear weapons is widely regarded as a major threat due to the potential for catastrophic destruction, escalation of conflicts, and global instability. The existence and proliferation of nuclear arms can increase the risk of nuclear conflict, whether intentional or accidental. Therefore, it is a pressing international concern that significantly impacts national and global security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The spread of nuclear weapons remains a significant global concern because it increases the risk of nuclear conflict, terrorism, and proliferation to unstable regimes. Such proliferation can destabilize international security and threaten the safety of civilians worldwide. While some may view it as an evolving threat or believe it is manageable, the potential consequences of nuclear proliferation make it a critical issue that cannot be ignored. Therefore, I consider it a major threat to my country and the world at large.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the spread of nuclear weapons poses a significant threat because it increases the risk of nuclear conflict, terrorism, and the proliferation of these weapons to unstable actors. The potential for catastrophic destruction and global insecurity makes this issue a major concern for my country\u2019s safety and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the spread of nuclear weapons poses a significant threat to global security and stability. The potential for nuclear conflict, terrorism, and proliferation to unstable regimes can have devastating consequences for my country and the world. While some may consider it manageable, the risks involved are considerable, and thus I view it as a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the spread of nuclear weapons is a major threat to my country because it increases the risk of nuclear conflict, could escalate tensions globally, and poses a catastrophic danger if these weapons fall into wrong hands. The potential for widespread destruction and destabilization makes it a significant international concern that cannot be underestimated.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the spread of nuclear weapons is a major threat because it significantly increases the risk of nuclear conflict and global instability. The potential for catastrophic consequences if these weapons reach unstable regimes or terrorist groups makes it a pressing international concern that needs serious attention. The dangers involved outweigh any perceived benefits, and they threaten not only international security but our own country's safety as well. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the spread of nuclear weapons is a major threat because it significantly increases the risk of nuclear conflicts, terrorism, and proliferation to unstable or malicious actors. The potential consequences of such a spread include widespread destruction, global insecurity, and escalation of tensions, which pose a serious threat to my country's safety and stability. Therefore, I consider it a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the spread of nuclear weapons constitutes a major threat because it significantly increases the risk of nuclear conflict, terrorism, and proliferation to unstable or malicious actors. The potential for widespread destruction and global insecurity makes this issue a pressing concern for my country's safety and stability.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

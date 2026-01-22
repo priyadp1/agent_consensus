@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me whether the FIRST statement or the SECOND statement comes closer to your own views \u2014 even if neither is exactly right. a. Immigrants today make our country stronger because of their work and talents",
+  "options": [
+    "First statement",
+    "Second statement",
+    "Neither/both (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the statement that immigrants today make our country stronger because of their work and talents aligns more closely with my views. I see immigrants as valuable contributors to society through their skills, efforts, and the positive impact they have on our economy and communities. While I acknowledge that there are complex issues surrounding immigration, I generally agree that their presence strengthens our nation rather than weakens it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today contribute positively to our country through their work and talents, which help strengthen our economy and community. Therefore, I align with the statement that immigrants make our country stronger because of their contributions. I do not view the second statement as aligning with my views, nor do I feel that neither or both options fit better. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today contribute positively to our country through their work and talents, which help strengthen our economy and society. Even if I don't agree completely or see some downsides, I think the overall impact is beneficial. Therefore, I align more with the first statement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents, as they contribute positively to the economy and society. While I recognize there may be complexities, I agree that their contributions generally strengthen our country. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. They contribute significantly to our economy and communities, and I see their presence as a positive force. While I recognize there may be complex issues, the overall impact aligns with the view that their contributions strengthen our nation. Therefore, I choose the first statement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. I see their contributions as vital to our economy and communities, and I agree that their presence enhances our nation's strength through their efforts and skills. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Both respondents clearly support the belief that immigrants today make the country stronger because of their work and talents. Their explanations highlight the positive contributions of immigrants to the economy and communities, aligning with the first statement. Since their views are consistent and affirm the first statement, I also choose the first statement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. The contributions of immigrants to the economy and society are significant and generally positive, which aligns with my view that they help strengthen our nation through their efforts. I acknowledge there may be complexities, but overall I support the idea that immigrants' work and talents benefit the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. Their contributions to the economy and society are significant, and I see their presence as generally positive for the nation. Although there are some complexities, the overall impact aligns with the view that their efforts help strengthen our country. Therefore, I choose the first statement. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "As I read some specific policies of [American] President George W. Bush tell me if you approve or disapprove of them...Bush's support for free trade policies",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of Bush's support for free trade policies because these policies can promote economic growth, increase consumer choices, and strengthen international relationships. By reducing trade barriers, it can help create more opportunities for businesses and workers to compete globally, which generally benefits the economy. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Bush's support for free trade policies generally aimed to promote economic growth and open markets, which can be beneficial for businesses and consumers. However, some may argue that such policies could negatively impact certain domestic industries or workers. Considering the overall intent and impact, I tend to approve of his support for free trade policies.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of Bush's support for free trade policies because they promote economic growth, open markets, and increase opportunities for American businesses and consumers. Such policies can lead to job creation and global economic integration, which many view as beneficial for the country's long-term prosperity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support Bush's support for free trade policies because they promote economic growth, open markets, and opportunities for American businesses and consumers. While there may be concerns about impacts on domestic industries or workers, the overall goal of fostering global economic integration and long-term prosperity aligns with positive economic principles.Considering the benefits of expanding markets and fostering economic growth, I approve of these policies.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of Bush's support for free trade policies because they can promote economic growth, increase competitiveness, and open international markets, benefiting consumers and businesses. Although there may be concerns about certain industries or workers, overall, the potential for growth and global integration aligns with policies that foster prosperity. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Bush's support for free trade policies can have significant economic benefits, such as fostering growth, expanding consumer choices, and strengthening international relationships through reduced trade barriers. While there are concerns about potential negative impacts on certain domestic industries or workers, overall, I think promoting free trade aligns with economic development goals. Therefore, I approve of his support for these policies.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that free trade policies can generally promote economic growth, increase consumer choices, and strengthen international relationships, despite some concerns about impacts on certain domestic industries or workers. Supporting free trade aligns with broader goals of economic development and global integration, which I find beneficial overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support Bush's support for free trade policies because they promote economic growth, open markets, and opportunities for American businesses and consumers. While there may be concerns about impacts on domestic industries or workers, the overall goal of fostering global economic integration and long-term prosperity aligns with positive economic principles. Considering the benefits of expanding markets and fostering economic growth, I approve of these policies.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I support Bush's support for free trade policies because they encourage economic growth, global market expansion, and provide benefits to consumers and businesses. While there are valid concerns about certain industries or workers, the overall positive impact on economic prosperity and international cooperation justifies my approval.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

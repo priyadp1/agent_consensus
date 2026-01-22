@@ -1,0 +1,61 @@
+{
+  "question": "If robots and computers were able to do much of the work currently being done by humans, do you think each of the following is likely or not likely to happen in your country as a result? d. There would be new, better-paying jobs",
+  "options": [
+    "Yes, likely",
+    "No, not likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over many current jobs, it could create opportunities for new, higher-paying positions in emerging industries, technological development, or specialized services. This potential for innovation and economic growth makes it plausible that such advances would lead to better-paying jobs. However, this outcome depends heavily on how well the country adapts to technological change and whether new opportunities are accessible and well-distributed. While optimistic about this possibility, some may still doubt whether these new roles will be sufficient or widespread.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If robots and computers automate many current jobs, there's a possibility that new, better-paying jobs could emerge as industries adapt and new sectors develop. Historically, technological advancements have sometimes led to the creation of innovative roles that pay well, especially if the economy and policies support such transitions. However, it also depends on how well the country manages the shift, invests in retraining workers, and fosters innovation. Given these considerations, I believe it is likely that new, better-paying jobs will emerge as a result of automation, though this may not be guaranteed everywhere or for everyone.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "If robots and computers were able to handle much of the current human work, it is possible that new, better-paying jobs could emerge because technological advancements often create new industries and roles that require specialized skills. This process can lead to economic growth and higher wages for some sectors. However, whether these new jobs will be accessible or evenly distributed across the population remains uncertain. Considering this, I believe that such positive outcomes are likely, but not guaranteed.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If robots and computers handle much of the current human work, there is a strong possibility that new, better-paying jobs could occur as industries innovate and adapt to technological changes. Historically, technological revolutions have sometimes led to the creation of lucrative new roles, especially if supportive policies and investments in workforce development are in place. While there may be challenges in ensuring these jobs are accessible to everyone, I believe it is likely that such jobs will emerge as a positive outcome of automation, provided the economy and policymakers foster that growth. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over many current jobs, there is a possibility that new, better-paying opportunities could be created. Technological advancements often lead to the development of new industries, roles, and innovations that can offer higher wages. However, whether these benefits will be widespread or accessible to all depends on factors like education, policy, and economic structure. Given these considerations, it seems plausible that such positive outcomes are likely, although not guaranteed.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "If robots and computers significantly automate current jobs, there is potential for new roles to emerge that are better paid, especially in sectors driven by innovation, technology, and specialized skills. While this outcome is not guaranteed and depends on the country's ability to adapt through policies, education, and investment, history suggests that technological change can create lucrative opportunities if managed properly. Therefore, I think it is likely that such new, better-paying jobs would develop in my country as a result of automation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that if robots and computers automate many current jobs, there is a strong potential for new, better-paying jobs to emerge, especially in fields that require human oversight, creativity, or advanced technical skills. Historically, technological advances have often led to the creation of new industries and higher-wage opportunities, although the realization of these benefits depends on how well a country adapts through policies and education. Considering these factors, I think it is likely that such positive developments could happen in my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that if robots and computers handle much of the current human work, there is a reasonable chance that new, better-paying jobs could emerge. This is because technological advancements often create new industries and roles that require more specialized skills, potentially leading to higher wages. However, the realization of these opportunities depends heavily on effective policies, education, and investment to ensure workers can transition smoothly into these new roles. Given these considerations, I think it is likely that such better-paying jobs will develop as a result of automation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "If robots and computers handle much of the current human work, it seems plausible that new, better-paying jobs could emerge as industries evolve and adapt to technological progress. Historically, technological shifts have sometimes resulted in high-wage opportunities, especially when supportive policies and workforce development are in place. While challenges may exist in ensuring these jobs are accessible to everyone, it is reasonable to believe that such positive outcomes are likely.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "What's your impression, does the Church play too great a role in the political life of this country today, too small a role in its political life or about the right role?",
+  "options": [
+    "Too great",
+    "Too small",
+    "About right",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the role of the Church in the political life of this country is about right. The Church can provide valuable moral guidance and community support, which are important in shaping societal values and policies. However, an excessive influence might undermine secular governance and the principles of pluralism. Striking a balance ensures that religious perspectives are considered without overwhelming the democratic process, allowing for diverse views to be represented effectively. Therefore, I think the current level of influence appropriately reflects the church's role without overstepping boundaries.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that the church's influence in political life should be balanced. Historically, the church has played a significant role in shaping moral and social values, but excessive involvement can undermine the principles of secular governance and dilute the effectiveness of political decision-making. Currently, some might feel the church's role is too influential, potentially pushing agendas that do not reflect the diverse views of the population. Conversely, others might argue that the church's voice is too muted in political affairs, missing opportunities to contribute positive moral guidance. Striking an appropriate balance ensures that religious perspectives inform but do not dominate political processes. Therefore, I think the current role of the church is about right.\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the church's influence in political life varies depending on the context, but generally, it should play a role that aligns with upholding moral and ethical values without dominating policy discussions. If the church is overly involved, it risks politicizing religious beliefs, whereas if its role is too limited, important moral perspectives might be overlooked in policymaking. Therefore, I think it currently corresponds to an appropriate balance, respecting the separation of church and state while acknowledging the cultural importance of religious institutions. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the role of the church in political life should be balanced\u2014its influence is important in shaping moral values but should not overshadow secular governance. An excessive role risks politicizing faith and undermining democratic principles, while too little involvement could neglect the moral guidance that religious institutions historically provide. Given the context and the importance of maintaining this balance, I think the current situation is about right.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the Church currently plays an appropriate role in the political life of the country by providing moral guidance and community support without dominating policy discussions. This balance allows for religious perspectives to be considered while maintaining secular governance and respecting pluralism. An excessive influence might undermine democratic principles, whereas too little could neglect important moral considerations. Given the perspectives and concerns, I think the current level of influence is about right.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the church currently plays a role that appropriately balances moral guidance with respect for secular governance. While it's important for religious organizations to contribute moral perspectives, their influence should not overshadow or dominate political decision-making processes. An excessive role could threaten the principles of pluralism and separation of church and state, whereas too little influence might miss the opportunity for moral guidance in public policy. Given this, I think the current role is about right.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the Church's role in the political life of this country strikes a balanced and appropriate level. It provides moral guidance and values that can inform public debate without overstepping into policymaking or threatening the principles of secular governance. This balance fosters a pluralistic society where moral perspectives are considered but not dominant, guarding against undue influence or marginalization. Therefore, I think the current level of involvement is about right.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the church's role in political life today is about right. It can provide valuable moral guidance and contribute to societal values, but it should not dominate or influence policy to the point of undermining the principles of secular governance and pluralism. Maintaining this balance helps ensure that policymaking remains inclusive and separated from religious authority, preserving democratic integrity while respecting religious contributions. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the church's role in political life should be carefully balanced. While religious institutions can contribute positively by shaping moral values and fostering community, their influence should not dominate policy decisions or undermine secular governance. An excessive role risks politicizing faith and threatening democratic principles, while too little involvement may neglect the moral guidance that faith-based organizations can offer. Based on this, I think the current level of influence is appropriate.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

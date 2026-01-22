@@ -1,0 +1,60 @@
+{
+  "question": "Do you think it's a good thing or a bad thing that people from African countries come to live and work in this country?",
+  "options": [
+    "Good",
+    "Bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to come and settle here can be a positive development, as it fosters cultural diversity, promotes economic growth through new skills and talents, and enhances social exchange and understanding. Embracing diversity can lead to a more vibrant and dynamic society, providing opportunities for mutual enrichment. Of course, it is important that such immigration policies are well-managed to ensure integration and mutual respect, but overall, this movement can bring significant benefits.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to come and live and work here can be a positive development. It can foster cultural diversity, bring new skills and perspectives to the community, and promote economic growth through increased labor and innovation. Embracing such mobility can also be a sign of global solidarity and openness. Therefore, I think it is a good thing. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having people from African countries come to live and work here can be a good thing because it fosters diversity, enriches cultural exchanges, and can contribute positively to the local economy through new skills and perspectives. Embracing diversity often leads to a more inclusive and vibrant community. However, it's important that integration is managed well and that policies support both newcomers and existing residents to promote harmony.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to live and work here can have positive effects, including cultural diversity, economic contributions, and the opportunity for greater global understanding. When managed well, such mobility can benefit both the newcomers and the community as a whole, fostering inclusivity and growth. Therefore, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to come and settle here can be a positive development, as it fosters cultural diversity, promotes economic growth through new skills and talents, and enhances social exchange and understanding. Embracing diversity can lead to a more vibrant and dynamic society, providing opportunities for mutual enrichment. Of course, it is important that such immigration policies are well-managed to ensure integration and mutual respect, but overall, this movement can bring significant benefits.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to come and live and work here can be a positive development. It promotes cultural diversity, brings new skills and perspectives, and can contribute to economic growth and social understanding. When managed well, such immigration can enrich society and foster mutual respect and collaboration. Embracing diversity and mobility can lead to a more dynamic and inclusive community.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to come and live and work here can be a positive development. It promotes cultural diversity, brings new skills and perspectives, and can contribute to economic growth and social understanding. When managed well, such immigration can enrich society and foster mutual respect and collaboration. Embracing diversity and mobility can lead to a more dynamic and inclusive community.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to come and live and work here can have positive effects, including cultural diversity, economic contributions, and the opportunity for greater global understanding. When managed well, such mobility can benefit both the newcomers and the community as a whole, fostering inclusivity and growth. Embracing diversity and mobility can lead to a more dynamic and inclusive society. Therefore, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people from African countries to live and work here can bring valuable cultural diversity, economic contributions, and increased global understanding. When properly managed, such migration fosters inclusivity, growth, and mutual enrichment within the community. Embracing diversity benefits society as a whole and promotes a more open and dynamic environment. Therefore, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

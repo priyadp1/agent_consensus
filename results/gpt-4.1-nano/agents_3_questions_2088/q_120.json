@@ -1,0 +1,62 @@
+{
+  "question": "People have different views of democracy. As I read you a list, please tell me how important each of the following is in a democracy to you. People have access to the internet without government censorship or interference...do you think this is very important, somewhat important, not too important or not important at all in a democracy?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having access to the internet without government censorship or interference is very important in a democracy because it ensures freedom of information, open debate, and the ability for citizens to participate fully in democratic processes. When people can freely access diverse sources of information, they are better informed to make decisions and hold their leaders accountable. Censorship can undermine transparency and the core democratic principle of free expression. Therefore, I believe this right is essential to a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Access to the internet without government censorship or interference is very important in a democracy because it ensures freedom of expression, access to diverse viewpoints, and the ability of citizens to participate fully in public discourse. When people can freely access information, it strengthens accountability and transparency of government actions, which are fundamental to democratic principles. Without such access, the flow of information may be restricted or manipulated, undermining informed decision-making and the democratic process itself. Therefore, I believe this is a crucial aspect of a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe internet access without government censorship or interference is very important in a democracy because it allows free flow of information, enables citizens to form informed opinions, and supports transparency and accountability in governance. When people can access information freely, they are better equipped to participate actively in democratic processes and hold authorities accountable. Suppressing or controlling online information undermines democratic principles by restricting free expression and limiting citizens' ability to access diverse viewpoints. Therefore, I consider this to be very important for the health and functioning of a democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that access to the internet without government censorship or interference is very important in a democracy because it ensures citizens can freely access information, express their opinions, and participate fully in democratic processes. This freedom promotes transparency, accountability, and an informed electorate, which are all essential to the functioning and health of a democratic society. Without such access, the flow of information could be restricted, hindering democratic participation and the development of diverse viewpoints. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that access to the internet without government censorship or interference is very important in a democracy because it safeguards freedom of expression and ensures that citizens can access diverse sources of information. This openness is fundamental for informed decision-making, transparency, and holding leaders accountable. Without it, the flow of information is restricted, which can undermine democratic principles and citizens' ability to participate fully in democratic processes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that access to the internet without government censorship is very important in a democracy because it guarantees freedom of expression and access to diverse viewpoints. This openness allows citizens to be well-informed, participate actively in public debates, and hold leaders accountable. Without free and unrestricted online access, the flow of information can be manipulated or limited, which undermines the core democratic principles of transparency and informed decision-making. Therefore, I consider this an essential element for a healthy democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that access to the internet without government censorship or interference is very important in a democracy because it ensures that citizens have the freedom to access information from diverse sources, which is essential for informed decision-making, holding leaders accountable, and maintaining transparency. This unrestricted access supports the core democratic values of openness and free expression, allowing citizens to participate fully in public debates and democratic processes. Therefore, I consider this to be very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that access to the internet without government censorship is very important in a democracy because it ensures that citizens can freely access information, express their opinions, and participate fully in democratic processes. This freedom is crucial for transparency, accountability, and an informed electorate, all of which are fundamental to a healthy and functioning democracy. Without such access, the flow of information could be restricted, hindering democratic participation and the development of diverse viewpoints. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that access to the internet without government censorship or interference is very important in a democracy because it ensures citizens can freely obtain information, express their opinions, and participate fully in political processes. This openness safeguards freedom of expression and accountability, which are fundamental to a healthy democracy. Without such access, democratic participation may be limited, and diverse viewpoints could be suppressed. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

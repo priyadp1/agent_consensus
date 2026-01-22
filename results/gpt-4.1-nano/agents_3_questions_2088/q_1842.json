@@ -1,0 +1,60 @@
+{
+  "question": "Do you have a working landline telephone in your house or not?",
+  "options": [
+    "Yes, have landline phone",
+    "No, do not"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I currently do not have a landline telephone at home because most of my communication needs are met through mobile devices. Many people have moved away from landlines due to the convenience and widespread use of cell phones. Therefore, I would select option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I currently rely on mobile phones for communication and do not have a traditional landline in my home. Given the widespread adoption of mobile technology and the decrease in landline usage, it's common for many households to forgo landline phones altogether. Therefore, I do not have a working landline telephone in my house.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I currently do not have a landline telephone at home because most communication relies on mobile phones and internet-based services, which are more convenient and cost-effective. Therefore, I do not have a working landline in my house.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have a landline telephone in my house because I primarily rely on mobile phones for communication. With the widespread use and convenience of mobile technology, many households, including mine, have moved away from traditional landline phones. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have a landline telephone in my house because my communication needs are fully met through mobile phones and internet-based services. The convenience and cost-effectiveness of these options have led many, including myself, to forgo traditional landlines. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I primarily rely on mobile devices for all my communication needs, and I do not have a traditional landline phone at home. Given the widespread decline in landline usage and the convenience of mobile phones, I have chosen not to maintain a landline service. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have a landline telephone in my house because I rely solely on mobile devices for communication. The modern convenience, portability, and cost savings associated with mobile phones have led me to skip maintaining a traditional landline service. Additionally, most of my contacts are reachable via mobile, making a landline unnecessary. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I do not have a landline telephone in my house because I rely solely on my mobile phone for communication. The convenience, portability, and widespread usage of mobile devices have made traditional landlines less necessary for me, reflecting a common trend among many households today.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not have a landline telephone in my house because I rely primarily on mobile phones for communication. Mobile devices provide the flexibility, portability, and additional features that traditional landlines do not offer, making them more suitable for my daily communication needs. Considering the trend and convenience factors, I have chosen to forgo a landline.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

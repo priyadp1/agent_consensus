@@ -17,12 +17,24 @@ def stream_jsonL(path):
             yield json.loads(line)
 
 
+def get_completed(results_dir):
+    completed = set()
+    if not os.path.exists(results_dir):
+        return completed
+    for fname in os.listdir(results_dir):
+        if fname.startswith("q_") and fname.endswith(".json"):
+            try:
+                completed.add(int(fname[2:-5]))
+            except ValueError:
+                pass
+    return completed
+
+
 def build_prompt(example):
     options = example["options"]
-    option_block = "\n".join(
-        [f"({chr(65+i)}) {opt}" for i, opt in enumerate(options)]
-    )
-
+    letters = [chr(65 + i) for i in range(len(options))]
+    option_block = "\n".join(f"({letters[i]}) {opt}" for i, opt in enumerate(options))
+    allowed = ", ".join(letters)
     return f"""
 You are answering a subjective public opinion survey question.
 
@@ -32,56 +44,78 @@ Question:
 Answer options:
 {option_block}
 
-Instructions:
-- Choose ONE option.
-- Respond ONLY in the format:
-  Final answer: <LETTER>
-- Do NOT add explanations or extra text.
+INSTRUCTIONS (MUST FOLLOW EXACTLY):
+- Choose exactly ONE option by its letter ({allowed}).
+- Explain your reasoning.
+- The FINAL LINE of your response MUST be exactly in this format:
 
-Final answer:
+ANSWER: <LETTER>
+
+where <LETTER> is one of: {allowed}
+
+RULES:
+- Do NOT write "Final answer".
+- Do NOT include option text.
+- Do NOT include parentheses.
+- Do NOT include any text after the ANSWER line.
+- Any response not following this format will be marked INVALID.
 """
 
 
-ANSWER_RE = re.compile(r"Final answer:\s*\(?([A-Z])\)?")
+def build_answer_regex(num_options):
+    letters = "".join(chr(65 + i) for i in range(num_options))
+    return re.compile(rf"ANSWER:\s*([{letters}])\s*$")
 
 
 def parse_answer(text, num_options):
-    match = ANSWER_RE.search(text)
+    if not isinstance(text, str):
+        return "INVALID"
+    text = text.strip()
+    if not text:
+        return "INVALID"
+    match = build_answer_regex(num_options).search(text)
     if not match:
         return "INVALID"
-
-    letter = match.group(1)
-    idx = ord(letter) - ord("A")
-
-    if 0 <= idx < num_options:
-        return letter
-
-    return "INVALID"
+    return match.group(1)
 
 
 def single_agent(limit):
     results_dir = f"results/{MODEL_NAME}/single_agent_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
+    completed = get_completed(results_dir)
     used = 0
 
     for example in stream_jsonL(DATA_PATH):
         if not valid_question(example):
             continue
 
+        if used in completed:
+            print(f"[SKIP] Single-agent question {used}")
+            used += 1
+            continue
+
         prompt = build_prompt(example)
         raw = run_model(prompt)
+
+        if not isinstance(raw, str):
+            raw = ""
+
         answer = parse_answer(raw, len(example["options"]))
 
         output = {
             "question": example["question"],
             "options": example["options"],
             "answer": answer,
-            "raw_output": raw.strip()
+            "raw_output": raw.strip(),
+            "model_failed": raw == ""
         }
 
-        with open(os.path.join(results_dir, f"q_{used}.json"), "w") as f:
+        output_path = os.path.join(results_dir, f"q_{used}.json")
+        with open(output_path, "w") as f:
             json.dump(output, f, indent=2)
+
+        print(f"[SAVED] Single-agent convo {used} -> {output_path}")
 
         used += 1
         if used >= limit:
@@ -92,11 +126,17 @@ async def multi_agent(num_agents, limit, max_rounds):
     results_dir = f"results/{MODEL_NAME}/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
+    completed = get_completed(results_dir)
     agents = list(range(num_agents))
     used = 0
 
     for example in stream_jsonL(DATA_PATH):
         if not valid_question(example):
+            continue
+
+        if used in completed:
+            print(f"[SKIP] Multi-agent question {used}")
+            used += 1
             continue
 
         history = await agent_talk(
@@ -113,9 +153,12 @@ async def multi_agent(num_agents, limit, max_rounds):
         for round_data in history:
             parsed = {}
             for agent_id, raw in round_data.items():
+                if not isinstance(raw, str):
+                    raw = ""
                 parsed[agent_id] = {
                     "answer": parse_answer(raw, len(example["options"])),
-                    "raw_output": raw.strip()
+                    "raw_output": raw.strip(),
+                    "model_failed": raw == ""
                 }
             parsed_rounds.append(parsed)
 
@@ -125,8 +168,14 @@ async def multi_agent(num_agents, limit, max_rounds):
             "rounds": parsed_rounds
         }
 
-        with open(os.path.join(results_dir, f"q_{used}.json"), "w") as f:
+        output_path = os.path.join(results_dir, f"q_{used}.json")
+        with open(output_path, "w") as f:
             json.dump(output, f, indent=2)
+
+        print(
+            f"[SAVED] Multi-agent convo {used} "
+            f"(agents={num_agents}, rounds={max_rounds}) -> {output_path}"
+        )
 
         used += 1
         if used >= limit:
@@ -135,8 +184,8 @@ async def multi_agent(num_agents, limit, max_rounds):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--agents", type=int, default=1)
-    parser.add_argument("--limit", type=int, default=5)
+    parser.add_argument("--agents", type=int, default=3)
+    parser.add_argument("--limit", type=int, default=2088)
     parser.add_argument("--rounds", type=int, default=3)
 
     args = parser.parse_args()

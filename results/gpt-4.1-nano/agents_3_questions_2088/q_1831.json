@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree or completely disagree with the following statements: Children need to learn a second language to succeed in the world today",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that children learning a second language can provide significant advantages in today\u2019s interconnected world, fostering better communication skills, cultural awareness, and increased opportunities. While it may not be absolutely essential for success in every context, mastering a second language generally enhances a child's ability to succeed globally. Therefore, I mostly agree with this statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that learning a second language is highly beneficial for children as it can enhance cognitive skills, cultural awareness, and future career opportunities. In a globalized world, bilingualism or multilingualism can provide a competitive edge and facilitate better communication across diverse communities. Therefore, I mostly agree that children need to learn a second language to succeed in the world today, though some may argue that other skills are equally important. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that children learning a second language is increasingly important in today's interconnected world. Bilingualism can enhance cognitive skills, cultural awareness, and provide more opportunities in the global job market. While not absolutely essential for success, acquiring a second language can offer significant advantages and better prepare children for diverse environments. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that learning a second language can significantly benefit children in today's globalized society by enhancing their cognitive abilities, cultural understanding, and career prospects. While it may not be strictly necessary for success in all cases, the advantages it provides make it an important skill for future opportunities and effective communication across diverse communities. Therefore, I mostly agree that children need to learn a second language to succeed in the world today.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that learning a second language provides valuable skills and opportunities for children in today's globalized society. It fosters cultural understanding, enhances cognitive development, and can improve future career prospects. While not absolutely necessary for success in all cases, the advantages are significant enough that encouraging children to learn a second language is highly beneficial. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that learning a second language offers substantial benefits for children in today's interconnected world. It can improve cognitive abilities, foster cultural understanding, and open up more opportunities for personal and professional growth. While it may not be the only path to success, acquiring a second language is a valuable skill that can enhance a child's competitiveness and adaptability globally. Therefore, I mostly agree with this statement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that learning a second language offers significant advantages for children in today's globalized society. It enhances cognitive development, fosters cultural understanding, and provides valuable opportunities for personal and professional growth. While it may not be strictly necessary for success in all cases, the benefits are substantial enough that encouraging children to learn a second language gives them an important edge in navigating an increasingly interconnected world. Therefore, I mostly agree with this statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that learning a second language provides important cognitive, cultural, and professional benefits that are increasingly valuable in our interconnected world. While it may not be absolutely essential for success, the advantages it offers can significantly enhance children's future opportunities and their ability to communicate effectively across diverse communities. Therefore, I mostly agree that children need to learn a second language to succeed in the world today.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that learning a second language offers numerous advantages in today's interconnected world, including improved cognitive skills, cultural awareness, and enhanced career opportunities. While it may not be an absolute necessity for success in every case, the benefits make it a valuable skill for children to acquire. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

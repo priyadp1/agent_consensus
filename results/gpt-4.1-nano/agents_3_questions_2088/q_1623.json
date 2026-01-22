@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, now that Hosni Mubarak is not in power, is Egypt better off or worse off? ",
+  "options": [
+    "Better",
+    "Worse",
+    "Both/neither (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The situation in Egypt after Hosni Mubarak's departure is complex. On one hand, the end of Mubarak's authoritarian rule opened opportunities for political reform, increased freedoms, and participation in governance, which many citizens welcomed. On the other hand, the transition has faced significant challenges, including economic instability, political turmoil, and security concerns, which have at times made the country feel less stable and cohesive. Overall, while there are hopes for a better future, the immediate aftermath has been marked by considerable difficulties, so whether Egypt is better off or worse off depends on one's perspective on these ongoing challenges and potential for future growth.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The removal of Hosni Mubarak from power marked a significant political shift for Egypt, opening the country to potential democratic reforms and greater freedoms. However, this transition has also led to economic challenges, political instability, and social divisions. Some citizens feel that the country has made progress towards greater democracy and human rights, while others believe that the upheaval has worsened their situation, especially due to economic hardship and instability. Overall, the impact is complex, with both positive and negative aspects evident since Mubarak\u2019s departure.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The situation in Egypt after Hosni Mubarak's departure is complex. On one hand, the end of Mubarak's long rule has opened the door for political change, increased freedoms, and a move toward democracy for some citizens. On the other hand, the country has faced significant instability, economic challenges, and uncertainty during the transition period, which has at times worsened living conditions and security. Therefore, whether Egypt is better off or worse off depends largely on one's perspective and which factors they prioritize. Overall, the change has brought both hopes and difficulties, but many might feel that the immediate aftermath has been more challenging than before.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The removal of Mubarak has undoubtedly allowed for political reforms and the pursuit of democratic ideals, which many see as positive steps forward. However, the transition period has been marked by economic instability, security concerns, and social divisions that have negatively impacted many citizens' daily lives. Given the mixed outcomes\u2014some progress alongside considerable challenges\u2014I believe that overall, the situation remains uncertain and has both improved and worsened aspects of the country. Considering this complexity, I think it is most accurate to acknowledge that Egypt's current state cannot be categorized as purely better or worse, but rather as a mixture of both.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The situation in Egypt following Mubarak's departure is multifaceted. While the end of his authoritarian rule has allowed for increased political participation and hopes for democracy, the country has also experienced significant instability, economic difficulties, and security challenges. These mixed outcomes suggest that assessing whether Egypt is better or worse off is highly dependent on individual perspectives and priorities. Given the ongoing complexities and the coexistence of both progress and setbacks, I believe a neutral stance best reflects the current reality.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The departure of Hosni Mubarak has led to significant changes in Egypt\u2019s political landscape, offering opportunities for democratic reform and increased freedoms. However, these changes have also introduced economic hardship, political instability, and social divisions, making the overall impact mixed. The country has seen both potential progress and many challenges, which makes it difficult to classify the situation as wholly better or worse. Given these complexities, I believe the situation is best described as both or neither.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The fall of Mubarak has opened new opportunities for political participation and democratic reforms, but it has also led to instability, economic challenges, and social divisions that complicate Egypt\u2019s overall situation. The country\u2019s trajectory encompasses both positive developments and significant setbacks, making it difficult to definitively label it as better or worse. Considering the nuanced reality, I believe the situation embodies both improvements and setbacks simultaneously. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The removal of Mubarak has opened the door for democratic reforms and increased political freedoms, which many see as positive developments. However, the transition has also been accompanied by economic challenges, security issues, and social divisions that have negatively impacted many aspects of life in Egypt. These conflicting outcomes suggest that the country's situation is a mix of both progress and setbacks, making it difficult to simply say whether Egypt is better or worse off. Given this complexity, I believe the most accurate answer reflects the coexistence of both positive and negative changes.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The departure of Mubarak has opened the door for political change and increased freedoms, which many consider positive developments. However, the transition has also been plagued by economic struggles, security issues, and social divisions that have hindered progress for many citizens. Given this combination of improvements and ongoing difficulties, it is clear that the country's situation cannot be simply classified as better or worse. Instead, Egypt today embodies a complex mix of both, reflecting the shifts and challenges experienced since Mubarak's departure.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

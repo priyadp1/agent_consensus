@@ -1,0 +1,63 @@
+{
+  "question": "How important is it to have ____ in our country? Is it very important, somewhat important, not too important or not important at all? f. people can use the internet without <state or government> censorship",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having access to the internet without government censorship is very important because it ensures freedom of expression, access to diverse information, and the ability to communicate openly without fear of suppression. Censorship can limit citizens' rights and hinder the development of an informed and engaged society. Therefore, I believe it is crucial for the openness of the internet to be preserved. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having the ability to use the internet without censorship by the state or government is very important because it ensures freedom of information, expression, and access to diverse perspectives. Censorship can restrict people's ability to learn, communicate, and participate fully in society, so maintaining an open internet is essential for democracy and individual rights. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having access to the internet without censorship by state or government is extremely important for maintaining freedom of information and expression. Censorship can restrict individuals' ability to access diverse viewpoints, stay informed, and participate fully in democratic processes. Therefore, I believe it is very important that people can use the internet freely without government censorship. Ensuring open access supports transparency, education, and individual rights, which are essential for a healthy society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having open access to the internet without government censorship is crucial for safeguarding free expression, ensuring access to diverse information, and maintaining democratic participation. Censorship by the state can easily be used to suppress dissent, limit knowledge, and control public opinion, which undermines individual rights and the functioning of a healthy society. Therefore, I believe it is very important that people can use the internet freely without government interference.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having the ability to access the internet without government censorship is very important because it safeguards fundamental freedoms such as freedom of expression and access to diverse information. Censorship by the state can suppress dissenting voices, hinder the dissemination of important information, and limit citizens' participation in democratic processes. An open internet promotes transparency, education, and individual rights, which are essential for a healthy and informed society. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having access to the internet without government censorship is very important because it protects fundamental freedoms such as expression, access to information, and the ability to communicate openly. Censorship by the state can restrict these rights, limit what people can learn and share, and undermine democracy. An open internet promotes an informed, engaged, and free society, which is vital for national growth and individual rights. Therefore, I believe it is very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that allowing people to use the internet without government censorship is very important because it ensures the protection of fundamental freedoms such as expression, access to information, and open communication. Censorship can suppress dissent, limit knowledge, and weaken democratic participation. An open internet fosters transparency, education, and individual rights, which are essential for a healthy, informed society and the country's growth. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is very important that people can use the internet without government censorship because an open internet safeguards fundamental freedoms like expression and access to information. When censorship is imposed, it can restrict knowledge, suppress dissent, and undermine democratic processes, which are essential for a healthy society and individual rights. Allowing free and unrestricted internet access promotes transparency, informed citizenry, and social progress, making it a crucial aspect of modern democratic nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having open access to the internet without government censorship is fundamental for protecting free expression, promoting access to a variety of information, and supporting democratic participation. Censorship can be misused to suppress dissent, control narratives, and limit citizens' rights, which ultimately weakens the fabric of a free and open society. Therefore, I believe it is very important that people can use the internet freely without government interference.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

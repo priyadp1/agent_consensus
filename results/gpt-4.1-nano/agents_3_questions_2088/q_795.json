@@ -1,0 +1,61 @@
+{
+  "question": "In general, what kind of influence has the increasing use of the Internet in our country had on each of the following things. Has the increasing use of the Internet had a good influence, a bad influence, or no influence at all?...education",
+  "options": [
+    "Good influence",
+    "Bad influence",
+    "No influence"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The increasing use of the Internet has generally had a positive influence on education in our country. It has made learning more accessible, provided a wide range of resources, and allowed for innovative teaching methods. While there are concerns about distractions and quality control, the overall impact has enhanced educational opportunities for many people. Therefore, I believe it has had a good influence.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The increasing use of the Internet has generally had a positive impact on education in our country. It provides students and educators with access to a vast array of information, learning resources, and online courses, which can enhance learning experiences and improve educational outcomes. Additionally, it facilitates remote learning, making education more accessible to people in different regions or those with mobility challenges. While there are concerns about misinformation or distraction, the overall influence has contributed significantly to the growth and democratization of education.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The increasing use of the Internet has generally had a positive impact on education by providing access to vast amounts of information, online courses, and educational resources that can enhance learning opportunities. It enables students to learn at their own pace, facilitates distance learning, and allows educators to adopt new teaching methods. However, it can also present challenges such as misinformation and digital distractions. Overall, the benefits tend to outweigh the negatives, making the influence predominantly good.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The increasing use of the Internet has generally had a positive effect on education in my country. It has expanded access to information, online resources, and remote learning options, which benefit students and educators alike. While challenges like misinformation and digital distractions exist, the overall impact has been to democratize education and improve learning opportunities for many people. Therefore, I believe the influence has been good.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the increasing use of the Internet has had a good influence on education in our country. It has expanded access to resources, facilitated innovative learning methods, and enabled wider participation through online courses and distance learning. While there are some challenges such as misinformation and distractions, the overall impact appears to be positive, enhancing educational opportunities for many.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the increasing use of the Internet has generally had a good influence on education in our country. It has expanded access to a vast array of resources, enabling students and teachers to connect with information and learning opportunities beyond traditional classrooms. Despite some issues like distractions or misinformation, the overall impact promotes educational growth and democratization, making learning more inclusive and flexible.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the increasing use of the Internet has had a good influence on education in our country. It has significantly expanded access to a wide range of resources, connected students and teachers beyond traditional classrooms, and facilitated innovative and flexible learning methods. While there are some challenges such as misinformation and distractions, the overall effect seems to promote educational growth, inclusivity, and democratization.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the increasing use of the Internet has generally had a good influence on education in our country. It has made access to information and learning resources more widespread, allowing both students and teachers to benefit from a broader range of educational tools and opportunities. Although there are challenges like misinformation and distractions, these are manageable issues within a largely positive impact on educational development and inclusivity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The increasing use of the Internet has generally had a positive influence on education in our country. It has improved access to information, facilitated innovative teaching methods, and expanded opportunities for remote learning. Despite some challenges like misinformation and distractions, the overall impact supports enhanced educational experiences and learning accessibility for many people.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

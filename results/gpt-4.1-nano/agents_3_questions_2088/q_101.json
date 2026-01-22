@@ -1,0 +1,61 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for the U.S. Do you think that drug-related violence in Mexico is a major threat, a minor threat or not a threat to the well being of the United States?",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that drug-related violence in Mexico poses a major threat to the well-being of the United States because it can have direct and indirect impacts, such as increased violence spilling over the border, threats to safety, destabilization of the region, and the flow of illegal drugs into U.S. communities. These issues can have significant social, economic, and security implications for the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Drug-related violence in Mexico poses a significant security concern because it often spills over the border, affecting U.S. communities and law enforcement efforts. The violence complicates regional stability, leads to increased trafficking, and impacts public safety within the United States. While it may not threaten the entire country at once, its consequences are substantial enough to be considered a serious concern. Therefore, it should be viewed as a major threat to U.S. well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe drug-related violence in Mexico poses a major threat to the well-being of the United States. This situation can spill over into U.S. borders through increased violence, drug trafficking, and organized crime infiltration, which can compromise public safety and security. The interconnected nature of drug markets and criminal organizations means that instability in Mexico directly affects the U.S., making it a significant concern that warrants serious attention and cooperative efforts.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe drug-related violence in Mexico is a major threat to the well-being of the United States because it significantly impacts public safety, increases crime and trafficking, and can spill over the border, affecting communities and law enforcement efforts. The interconnected nature of organized crime and drug markets means instability in Mexico directly threatens U.S. security. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that drug-related violence in Mexico is a major threat to the well-being of the United States because it can lead to increased violence spilling over the border, pose safety risks, and destabilize the region. The interconnected drug trade and organized crime can directly impact public safety and security in the U.S., making it a significant concern that requires attention and cooperation. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that drug-related violence in Mexico is a major threat to the well-being of the United States because it can directly impact U.S. communities through increased violence, illegal drug flows, and destabilization of the region, which can have serious social, economic, and security consequences.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that drug-related violence in Mexico is a major threat to the well-being of the United States because it can contribute to increased violence and crime spilling over the border, affect public safety, and destabilize the region, which can have serious social, economic, and security consequences for the U.S.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe drug-related violence in Mexico is a major threat to the well-being of the United States because it poses significant risks to public safety, fuels illegal drug trafficking, and can spill over the border, impacting communities and law enforcement efforts. The stability of Mexico is closely linked to the security of the U.S., making it a serious concern that requires attention and action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that drug-related violence in Mexico poses a major threat to the well-being of the United States because it can lead to increased violence and criminal activity spilling across the border, which directly affects public safety and security. The interconnectedness of drug trafficking networks and organized crime means instability in Mexico could have serious implications for the U.S. and its communities. Therefore, it warrants significant concern and proactive measures. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "How reliable of an ally is\u2026the United States? Is\u2026the United States...very reliable, somewhat reliable, not too reliable or not at all reliable as an ally?",
+  "options": [
+    "Very reliable ally",
+    "Somewhat reliable ally",
+    "Not too reliable ally",
+    "Not at all reliable ally"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The United States has historically been a prominent and influential global power, often playing a significant role in international security, economic stability, and diplomatic relations. Its reliability as an ally can vary depending on the context, specific governments, and policies in place at any given time. Generally, the U.S. has demonstrated a strong commitment to its allies, though there have been instances of shifting priorities or actions that have led to questions about consistent reliability. Overall, many people view it as fairly dependable in maintaining alliances, but some may perceive uncertainties based on specific foreign policy decisions or strategic interests.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The reliability of the United States as an ally can vary depending on the context, the specific alliance, and current international relations. Historically, the U.S. has been a strong supporter of its allies, providing military, economic, and political backing in numerous conflicts and efforts. However, there have been instances where U.S. policies or shifts in government priorities have led to perceptions of unpredictability or inconsistency, which can influence how reliable it is deemed. Overall, many would consider the U.S. to be one of the more dependable allies on the global stage, though perceptions of reliability can differ among countries and situations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The reliability of the United States as an ally is a complex issue that depends on various factors such as political leadership, international commitments, and global stability. Historically, the U.S. has been seen as a strong supporter of its allies, often providing military and economic assistance during crises. However, at times it has also experienced shifts in foreign policy that have led some to question its consistency and long-term commitment. While many consider it a fundamentally reliable partner, others point to instances of sudden policy changes or strategic withdrawals that can undermine trust. Overall, the perception of the U.S. as an ally varies among different countries and contexts, but it generally remains a significant and influential ally in global affairs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States is a somewhat reliable ally. While it has historically provided strong support and was instrumental in many international efforts, there are times when shifts in policies and strategic priorities cause some uncertainty. These fluctuations can affect perceptions of its consistency and reliability, but overall, the U.S. remains a significant partner on the global stage. This nuanced view aligns more closely with a moderate level of reliability rather than the extremes of very or not reliable at all.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United States is a somewhat reliable ally because, historically, it has shown a strong commitment to supporting its allies through military and economic aid, but at the same time, certain foreign policy shifts and strategic interests have at times caused uncertainty and questioned long-term dependability. These fluctuations influence perceptions, making it not completely steadfast, yet still fundamentally an influential partner. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The United States has historically played a significant role as a global leader and strategic partner. While it generally demonstrates strong support and commitment to its allies, there have also been periods of uncertainty, shifts in foreign policy, or strategic adjustments that can affect perceptions of reliability. Considering both the consistent efforts and occasional unpredictability, I believe it falls into the category of being fairly dependable, but not without some variability depending on circumstances. Therefore, I would select a middle-ground option that recognizes both strengths and limitations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The United States has historically been a major global power with a significant presence in international alliances such as NATO and various bilateral agreements. Although it generally demonstrates a strong commitment to its allies through military support, economic assistance, and diplomatic backing, there have been instances where foreign policy shifts or strategic adjustments have created uncertainty about its long-term reliability. This mixture of consistent support and occasional unpredictability suggests a level of dependability that is substantial but not absolute. Based on these considerations, I see it as fairly dependable overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I consider the United States to be a generally dependable ally, with a history of strong support and leadership on the global stage. However, there have been instances of policy shifts and strategic recalibrations that introduce some unpredictability. These factors suggest that while the U.S. is a significant and often reliable partner, it is not consistently unwavering in all circumstances. Therefore, I believe it best to categorize it as somewhat reliable, acknowledging both its strengths and its occasional lapses.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United States is a somewhat reliable ally. While it has demonstrated strong support and played pivotal roles in international affairs, there are times when policy shifts and strategic realignments cause some uncertainty. These fluctuations influence perceptions of its consistency, but overall, it remains a significant and influential partner on the global stage.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Does statement #1 or statement #2 come closer to your own views: b. refugees in our country today are more to blame for crime than other groups OR refugees in our country today are no more to blame for crime than other groups",
+  "options": [
+    "Statement 1",
+    "Statement 2",
+    "Neither/Both equally (VOL)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that refugees are no more to blame for crime than other groups, as crime is often attributable to various socio-economic factors rather than so-called group characteristics. I tend to think that blaming any particular group oversimplifies complex social issues and may reflect biases or misconceptions. Therefore, I select statement 2 as aligning more closely with my views.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I chose statement 2 because I believe that refugees are not inherently more responsible for crime than other groups. While concerns about crime can be significant, holding refugees solely or primarily accountable seems unfair and oversimplifies complex issues. It\u2019s important to recognize that crime exists across all communities and that attributing blame to a particular group without clear evidence can lead to prejudice and discrimination.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not believe that refugees in our country today are more to blame for crime than other groups. Crime is often influenced by socioeconomic factors that affect all residents regardless of refugee status. Therefore, I align more with the view that refugees are no more to blame for crime than other groups.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that refugees in our country today are no more to blame for crime than other groups because crime is influenced by a variety of factors that are not specific to refugee status. It is important to avoid stereotyping or unfairly blaming any particular group, especially when evidence does not support assigning greater responsibility. Recognizing that all communities can be involved in criminal activity helps promote fairness and understanding.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that refugees are no more to blame for crime than other groups because crime is often influenced by socioeconomic factors that affect all residents, not a particular group. Blaming refugees alone oversimplifies complex social issues and can perpetuate biases. Therefore, I select statement 2 as aligning more closely with my views.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that refugees are no more to blame for crime than other groups, as crime is often attributable to various socio-economic factors rather than so-called group characteristics. Blaming any particular group oversimplifies complex social issues and may reflect biases or misconceptions. Therefore, I select statement 2 as aligning more closely with my views. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that refugees are no more to blame for crime than other groups because crime is often influenced by socioeconomic factors that affect all residents, not a particular group. Blaming refugees alone oversimplifies complex social issues and can perpetuate biases. Therefore, I select statement 2 as aligning more closely with my views.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that refugees in our country today are no more to blame for crime than other groups because crime is influenced by a variety of factors that are not specific to refugee status. It is important to avoid stereotyping or unfairly blaming any particular group, especially when evidence does not support assigning greater responsibility. Recognizing that all communities can be involved in criminal activity helps promote fairness and understanding.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that refugees in our country today are no more to blame for crime than other groups because crime is influenced by socioeconomic factors that affect all residents, not a particular group. Blaming refugees alone oversimplifies complex social issues and can perpetuate biases. Therefore, I select statement 2 as aligning more closely with my views.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "I am going to read you a list of things that the government might do to improve public health and health care in our country.  As I read each one, please tell me how much of a priority you think it should be for the (state or government)--one of the most important priorities, a very important priority, a lower priority, or not a priority at all?...Making sure women have access to good prenatal health care when they are pregnant",
+  "options": [
+    "One of the most important priorities",
+    "A very important priority",
+    "A lower priority",
+    "Not a priority at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Providing access to good prenatal health care is crucial for ensuring healthy pregnancies and outcomes for both mothers and babies. It can prevent complications, reduce healthcare costs in the long term, and promote overall public health. Given these benefits, I believe it should be a top priority for the government to support and expand access to prenatal care, especially for vulnerable populations who may face barriers to healthcare. Therefore, I consider this to be one of the most important priorities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Providing access to good prenatal health care is crucial for ensuring the health of both mothers and babies. Ensuring expectant women have proper medical support can reduce health complications, improve birth outcomes, and promote healthier communities overall. Given the importance of maternal and infant health outcomes, this issue should be considered a top priority for the government. Therefore, I believe it warrants one of the most important priorities.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Ensuring women have access to good prenatal healthcare is critical for the health of both mothers and babies, and has long-term benefits for society by promoting healthier pregnancies and reducing infant and maternal complications. Given the importance of healthy pregnancies and outcomes for future generations, I believe this should be among the top priorities for government action.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Providing access to good prenatal health care is essential for ensuring healthy pregnancies, preventing complications, and supporting the well-being of both mothers and babies. Investing in prenatal care can lead to better health outcomes and long-term benefits for families and society. Given its significance in promoting overall public health and reducing future healthcare costs, I believe it should be a top priority for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that making sure women have access to good prenatal health care when they are pregnant is essential for both maternal and infant health outcomes. Access to quality prenatal care can prevent complications, promote healthy pregnancies, and contribute to the well-being of future generations. Given these benefits and the importance of supporting vulnerable populations, I think it should be among the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Providing access to good prenatal health care is essential for ensuring healthy pregnancies, reducing complications, and improving long-term health outcomes for mothers and children. It addresses critical health needs and can help prevent more costly medical issues down the line. Given its significant impact on public health and the potential to benefit vulnerable populations, it should be a high priority for the government. Therefore, I believe it warrants one of the most important priorities.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that ensuring women have access to good prenatal health care when they are pregnant is an essential component of public health. Proper prenatal care contributes significantly to healthier pregnancies, reduces risks for both mother and baby, and supports long-term health benefits. Given its critical importance in promoting maternal and infant health outcomes, I consider it a top priority for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Providing access to good prenatal health care is fundamental for the health of both mothers and babies, especially in addressing vulnerable populations and preventing complications. Ensuring that pregnant women receive proper care can lead to healthier pregnancies, reduce healthcare costs in the long run, and support overall public health. Given its importance for immediate and future health outcomes, I believe it should be a top priority for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Access to good prenatal health care is fundamental for ensuring the health and safety of both mothers and their babies. It helps prevent complications during pregnancy, supports early detection of health issues, and promotes healthy development for infants. Investing in prenatal care also has long-term benefits by reducing future healthcare costs and improving population health outcomes. Given its critical role in public health and its impact on vulnerable populations, I believe it should be a top priority for the government.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

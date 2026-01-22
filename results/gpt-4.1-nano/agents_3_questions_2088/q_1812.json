@@ -1,0 +1,62 @@
+{
+  "question": "Overall, do you think having people of many different backgrounds, such as different ethnic groups, religions and races, makes the public a better place to live or a worse place to live?",
+  "options": [
+    "A better place to live",
+    "A worse place to live",
+    "Doesn't make much difference either way (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Having people of many different backgrounds generally enriches a community by bringing diverse perspectives, cultures, and ideas, which can lead to greater understanding, creativity, and social vitality. While challenges may exist in terms of integration and social cohesion, the overall benefits tend to outweigh the negatives, making the community a more dynamic and vibrant place to live. Therefore, I believe that diversity makes the public a better place to live.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Having a diverse population enriches communities by bringing different perspectives, cultures, and ideas, which can lead to a more vibrant and innovative society. While challenges may arise, the overall benefit of inclusivity and understanding outweighs these, fostering a more tolerant and dynamic environment. Therefore, I believe that having people of many different backgrounds makes the public a better place to live.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Having a diverse population generally enriches communities by fostering cultural exchange, promoting understanding, and broadening perspectives. These benefits can lead to a more vibrant, innovative, and tolerant society. While diversity can present challenges, the overall positive impact of inclusivity and variety tends to outweigh any difficulties, making the public a better place to live.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having people of many different backgrounds makes the public a better place to live. Diversity fosters cultural exchange, understanding, and innovation, which enrich communities and promote tolerance. Despite potential challenges, the overall positive impact of inclusivity and variety strengthens social cohesion and creates a more vibrant society. Therefore, I choose option A.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having people from many different backgrounds makes the public a better place to live. Diversity brings a range of perspectives, cultures, and experiences that can enhance understanding, creativity, and community vitality. While there may be some challenges in integration, the overall advantages of inclusivity and cultural exchange tend to outweigh any negatives, contributing positively to social cohesion and innovation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having people of many different backgrounds makes the public a better place to live. Diversity brings a variety of perspectives, cultural richness, and innovation, which contribute to a more vibrant, tolerant, and dynamic society. Although there may be some challenges in terms of social integration, the overall benefits of diversity in fostering understanding and community growth outweigh the negatives.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that having people of many different backgrounds makes the public a better place to live. Diversity enriches communities by bringing varied perspectives, cultures, and ideas that can foster understanding, innovation, and social cohesion. While challenges in integration may exist, the overall advantages of inclusivity and cross-cultural exchange contribute positively to societal growth and resilience.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having people of many different backgrounds makes the public a better place to live. Diversity promotes cultural exchange, understanding, and innovation, which can enrich communities and foster a more tolerant and dynamic society. While there may be some challenges, the overall positive contributions of inclusivity and variety outweigh the negatives, enhancing social cohesion and overall quality of life.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that having people of many different backgrounds makes the public a better place to live. Diversity promotes cultural exchange, understanding, and innovation, which can lead to more vibrant and tolerant communities. While recognizing that there may be some challenges, the overall benefits of inclusivity and varied perspectives tend to strengthen social cohesion and enrich society as a whole. Therefore, I choose option A.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

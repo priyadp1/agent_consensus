@@ -1,0 +1,60 @@
+{
+  "question": "Which comes closer to describing your view?...I admire the United States for its technological and scientific advances, OR I do not admire the United States for its technological and scientific advances",
+  "options": [
+    "I admire the US for its technological/ scientific advances",
+    "I do not admire US for its technological/ scientific advances"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I choose option A because I recognize and appreciate the United States' significant contributions to technological and scientific progress, which have had positive impacts globally. While I may have concerns about other aspects of the country, its advancements in these fields are admirable and noteworthy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would choose to admire the United States for its technological and scientific advances because I recognize the significant contributions the country has made to innovation, medicine, space exploration, and technological progress that have benefited many people worldwide. While I may have critiques about other aspects of the country, I appreciate the achievements in these fields.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I choose option A because I recognize and appreciate the United States' significant contributions to technological and scientific progress, which have positively impacted global development and innovation. This admiration stems from admiration for advancements that have improved society and expanded human knowledge.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I admire the United States for its technological and scientific advances because I believe that these achievements have significantly contributed to global progress, improved living standards, and expanded human knowledge. Recognizing these innovations fosters an appreciation for the country's positive influence in these fields.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I choose option A because I believe that the technological and scientific achievements of the United States have contributed significantly to global progress and benefit society worldwide. Despite any other concerns, I genuinely admire these advancements and their positive impact.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I admire the United States for its technological and scientific advances because these achievements have significantly contributed to global progress in various fields such as medicine, space exploration, and innovation. While I may have criticisms of other aspects of the country, I believe its technological and scientific contributions are admirable and have positively impacted many lives worldwide.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I choose option A because I recognize the significant contributions the United States has made in science and technology, which have advanced medicine, space exploration, and innovation globally. These achievements often have a positive impact beyond national borders, and I admire the progress they represent despite any criticisms of other aspects of the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I choose to admire the United States for its technological and scientific advances because these achievements have had a profound positive impact on global progress, healthcare, exploration, and innovation. Recognizing these contributions fosters appreciation for the country's role in advancing human knowledge and improving lives worldwide.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I admire the United States for its technological and scientific advances because these achievements have played a vital role in global development, improved countless lives, and showcased innovation that benefits humanity as a whole. Acknowledging these accomplishments does not negate other criticisms but highlights the positive contributions made through scientific progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

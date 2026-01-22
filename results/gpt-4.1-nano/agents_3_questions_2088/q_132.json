@@ -1,0 +1,62 @@
+{
+  "question": "In your opinion, is the Pakistani government making progress in the fight against extremist groups, losing ground, or are things about the same as they have been in the past?",
+  "options": [
+    "Making progress",
+    "Losing ground",
+    "About the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my opinion, the Pakistani government appears to be making some progress in combating extremist groups, as there have been notable military operations and arrests that suggest efforts to weaken such organizations. However, these groups continue to pose a threat, indicating that the situation hasn't significantly improved across the board. Overall, the progress seems incremental rather than decisive, so things are somewhat better but still challenging. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The Pakistani government has shown some initiatives to combat extremist groups, but challenges persist due to complex regional dynamics and internal security issues. While there have been some successes, such as operations against certain militant groups, other areas still face significant threats and occasional setbacks. Overall, progress is evident but limited, and in many aspects, the ground gained is fragile or uneven. Therefore, I believe the situation remains largely the same as before, with some improvements being counterbalanced by ongoing difficulties.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the Pakistani government has made some progress in combating extremist groups, especially through military operations and increased security measures. However, the persistence of extremist activities and the ongoing threat suggest that they are still struggling to fully contain or eliminate these groups. Considering this, I think the situation is somewhat improved but not significantly enough to say they are making clear progress, nor have they entirely lost ground. Therefore, I would say things are about the same as they have been in the past.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the Pakistani government has made some progress in countering extremist groups, as evidenced by military operations and increased security efforts. However, since extremist activities continue and threats persist, the overall situation has not significantly improved nor worsened. This suggests that the current state of affairs is largely unchanged from the past. Therefore, I think the situation is about the same as it has been in the past.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "In my view, the Pakistani government has made some efforts to combat extremist groups, including military operations and increased security measures. However, given that extremist activities and threats persist, it seems that these efforts have not yet resulted in decisive progress, and the situation continues to resemble past levels of activity. Therefore, I believe things are about the same as they have been in the past. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The Pakistani government has taken some steps and conducted military operations against extremist groups, which indicates partial progress. However, since extremist threats and security challenges still persist and have proven difficult to completely eradicate, the overall situation seems to have remained relatively steady, with some areas improving marginally and others remaining problematic. Therefore, I believe things are about the same as they have been in the past.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The Pakistani government has implemented some measures and military operations against extremist groups, which show efforts to combat the issue. However, since extremist threats are still present and it's difficult to completely eradicate these groups, it appears that the overall situation has not significantly improved or worsened but remains relatively unchanged. Based on this balanced assessment, I believe the situation is about the same as it has been in the past.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the Pakistani government has made some progress through military operations and increased efforts to combat extremist groups. Nonetheless, since these threats persist and have yet to be fully eradicated, the overall situation appears unchanged over time. Therefore, I think the situation is about the same as it has been in the past. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the Pakistani government has taken some steps to fight extremist groups, but since these groups remain active and threats continue, it appears that there hasn't been significant change in their level of influence or activity. Therefore, I think the situation is about the same as it has been in the past.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

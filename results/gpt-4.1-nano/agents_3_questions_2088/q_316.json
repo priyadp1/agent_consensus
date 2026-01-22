@@ -1,0 +1,63 @@
+{
+  "question": "I'm going to describe various types of political systems and ask what you think about each as a way of governing our country. For each one, would it be a very good, somewhat good, somewhat bad or very bad way of governing this country? c. a system in which a strong leader can make decisions without interference from parliament or the courts",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "A system where a strong leader can make decisions without interference from parliament or courts may effectively lead to quick decision-making and decisive action, especially in situations requiring urgent responses. However, it also poses significant risks to checks and balances, potentially allowing abuse of power, undermining democratic principles, and reducing accountability. While some may see it as efficient, many would view such a system as dangerous for the health of the nation's democracy and individual rights.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "A system where a strong leader can make decisions without interference from parliament or courts might be seen as efficient in certain situations, especially during crises or times requiring quick decision-making. However, it also risks abuse of power, lack of accountability, and the suppression of dissenting voices, which can undermine democratic principles and human rights. While some may view it as a means to restore order or stability, many others would see it as dangerous for the long-term health of the country. Overall, this governance style tends to be problematic because it concentrates power and bypasses important checks and balances that protect citizens and uphold democracy.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "A system where a strong leader can make decisions without interference from parliament or the courts might be seen as efficient from the perspective of decisiveness and quick action. However, it also raises concerns about the potential for abuse of power, lack of accountability, and suppression of democratic processes. While some may value the stability and clarity of such a system, many would worry about the erosion of democratic checks and balances. Overall, this form of governance might be viewed as risky and potentially harmful to the democratic fabric of the country.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that having a strong leader who can make decisions without interference from parliament or courts might seem efficient in urgent situations, but it also greatly increases the risk of abuse of power, diminishes accountability, and undermines democratic principles. Such a system can threaten individual rights and the long-term stability of the country by concentrating too much power in one person.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that having a strong leader making decisions without checks from parliament or courts can lead to rapid decision-making, which might be beneficial in urgent situations. However, this system risks concentrating too much power in one person, potentially leading to abuse and undermining democratic principles. Protecting checks and balances is essential for safeguarding individual rights and maintaining fair governance. Therefore, I think it is more harmful than beneficial overall.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe such a system can be dangerous because it risks concentrating too much power in one individual, which can lead to authoritarian rule, abuse of authority, and a neglect of democratic principles like accountability and checks and balances. While it might be efficient in urgent situations, the potential for misuse makes it a far less desirable form of governance in the long run.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that having a strong leader making decisions without checks from parliament or courts can lead to rapid decision-making, which might be beneficial in urgent situations. However, this system risks concentrating too much power in one person, potentially leading to abuse and undermining democratic principles. Protecting checks and balances is essential for safeguarding individual rights and maintaining fair governance. Therefore, I think it is more harmful than beneficial overall.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that having a strong leader who can make decisions without interference from parliament or courts can be very dangerous because it concentrates too much power in one individual, which can lead to authoritarian rule, abuse of authority, and a neglect of democratic principles like accountability and checks and balances. While it might seem efficient in urgent situations, the potential for misuse and long-term harm makes this system a very bad way of governing the country.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that allowing a strong leader to make decisions without oversight from parliament or the courts can lead to excessive concentration of power, risking authoritarian control and reducing accountability. This might enable quick decisions in certain situations, but it also opens the door for potential abuse and diminishes the protections that checks and balances provide. A governance system that lacks these safeguards can threaten democratic principles and individual freedoms, so I see it as more harmful than beneficial overall.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

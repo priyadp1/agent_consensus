@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of\u2026Mohammed Morsi",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My opinion of Mohammed Morsi is influenced by his tenure as Egypt's president, during which he faced significant political turmoil and controversy. Many people viewed his leadership as turbulent and polarizing, especially given the protests against his government and the eventual military ousting. While some appreciated his efforts to serve the public, others saw his administration as destabilizing. Considering these factors, I lean toward an unfavorable view due to the challenges and criticisms associated with his leadership.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Mohammed Morsi was a highly controversial figure in Egypt, serving as the country's first democratically elected president. His tenure was marked by significant political turmoil, opposition from various sectors, and concerns about his governance and influence over the military and judiciary. Many people viewed his presidency with suspicion or disapproval, especially after the events leading to his ousting and the subsequent political unrest. Because of this complex and polarized perception, opinions about him tend to be largely unfavorable among those who disapprove of his leadership, though some may still hold a favorable view due to his role in the Arab Spring and the hopes for democratic change he initially represented.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of Mohammed Morsi is influenced by his role as the former president of Egypt and his attempt to implement a political agenda following the Arab Spring. Public perception varies widely; some view his presidency as a period of democratic hope, while others criticize his governance for fostering instability or authoritarian tendencies. Given the divided and often polarized opinions in the country, I lean toward a somewhat unfavorable view, as many see his tenure as problematic despite his initial democratic aspirations.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the complex and often divided public opinion about Mohammed Morsi, with many viewing his presidency negatively due to political instability and unrest, and some appreciating his initial democratic intentions, I believe my opinion aligns more with a somewhat unfavorable perspective. This reflects a recognition of the criticisms surrounding his governance, while acknowledging the democratic hopes he initially represented.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My opinion of Mohammed Morsi is that he was a divisive figure whose presidency was marked by significant political turmoil and controversy. Many viewed his leadership as turbulent and polarizing, especially considering the protests against his government and his eventual ousting. While he aimed to implement democratic reforms, the perception of instability and authoritarian tendencies during and after his tenure led many to see him unfavorably. Given this context, I lean toward a somewhat unfavorable opinion.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Based on the information provided, opinions about Mohammed Morsi tend to be largely unfavorable due to his controversial leadership, political turmoil, and subsequent ousting. While some may see his role in democratic processes positively, the overall perception appears to be predominantly negative because of the unrest and instability during and after his presidency. Therefore, I am leaning toward a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the complex and often contentious nature of Mohammed Morsi's presidency, many view him as a polarizing figure. The recent responses suggest a tendency toward unfavorable opinions due to political turmoil, unrest, and his ousting. While some may have had positive views initially, the overall perception currently leans more toward the negative side. I personally find that an somewhat unfavorable opinion best captures this nuanced perspective, acknowledging the controversy without asserting the most extreme negativity.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the mixed but generally negative perceptions described, along with the political instability and unrest associated with his leadership, I lean toward a somewhat unfavorable opinion. While there is acknowledgment of his initial democratic intentions, the overall judgment seems to be more critical of his governance and the turmoil during his time in office. Therefore, I choose the middle ground, recognizing the complexity but leaning toward criticism.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the perspectives shared and the general sentiment about Mohammed Morsi's leadership\u2014marked by political unrest, protests, and perceptions of instability\u2014I find that my opinion aligns with a somewhat unfavorable view. While acknowledging the democratic intentions he initially had, the subsequent turmoil and controversy surrounding his presidency have led me to feel somewhat unfavorable. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

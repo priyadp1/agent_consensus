@@ -1,0 +1,61 @@
+{
+  "question": "In your opinion, is Islam playing a greater or lesser role in politics in this country compared to a few years ago?",
+  "options": [
+    "Greater role",
+    "Lesser role",
+    "No change (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Islam's influence in politics has increased compared to a few years ago. This is evident through the rise of religiously motivated political parties and greater public discourse about Islamic values shaping policy decisions. The visibility of religious issues in political debates has also grown, suggesting an expanded role for Islam in the political sphere.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my opinion, Islam's influence in politics appears to have increased over recent years, driven by greater political mobilization and the rising presence of religious parties and figures in public discourse. This shift may be influenced by social and political changes, leading to a more prominent role for Islamic values and perspectives in policymaking and electoral processes. However, the degree of this influence can vary depending on specific regions and political contexts within the country. Overall, I perceive a greater role than before.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my opinion, Islam seems to be playing a greater role in politics in this country compared to a few years ago. This is evident through increased visibility of religious parties, debates surrounding religious values influencing policy, and the integration of religious symbols and rhetoric in political discourse. Such developments suggest that religious considerations, particularly those related to Islam, are becoming more prominent in the political landscape.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Islam continues to play a greater role in politics in this country compared to a few years ago. The increased visibility of religious parties, the rise in religious rhetoric in political debates, and the influence of Islamic values in policymaking suggest that the prominence of Islam in the political sphere has grown over recent years. These developments indicate an upward trend rather than a decline or stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Islam is playing a greater role in politics in this country compared to a few years ago. The increased presence of religiously motivated political parties, more discussions about Islamic values influencing policies, and the prominence of religious symbols and rhetoric in political debates all indicate that religion, specifically Islam, is becoming more influential in shaping political discourse and decisions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Islam's role in politics has become more prominent in recent years, based on the increased involvement of religious parties and the heightened discourse surrounding Islamic values influencing policy decisions. This indicates that Islam is playing a greater role now compared to a few years ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the perspectives shared and the observed trends, there appears to be a notable increase in the influence of Islam on political affairs, with more religious parties active and Islamic values more prominently discussed in public discourse. This suggests that Islam's role in politics has grown compared to a few years ago.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my opinion, Islam's influence in politics has grown over recent years, as evidenced by the increased involvement of religious parties, the prominence of Islamic-related discourse in political debates, and the greater integration of Islamic values into policymaking processes. These trends suggest that the role of Islam in the political landscape has become more significant compared to a few years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Islam is playing a greater role in politics in this country compared to a few years ago. The recent increase in religious rhetoric, the visibility of Islamic symbols in political discourse, and the rise of religiously motivated political groups suggest that Islam's influence has grown over time in the political arena. These developments point toward an upward trend rather than stability or decline.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

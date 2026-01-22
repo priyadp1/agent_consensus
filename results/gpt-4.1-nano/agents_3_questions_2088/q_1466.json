@@ -1,0 +1,63 @@
+{
+  "question": "What kind of influence is ____ having on the way things are going in your country? Is the influence very good, somewhat good, somewhat bad or very bad in your country? h. corporations",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Corporations have a complex influence on the country's development. Many believe that large corporations contribute positively by creating jobs, boosting economic growth, and fostering innovation. However, others feel that corporations sometimes prioritize profits over social well-being, leading to negative consequences such as inequality, environmental harm, or political influence. Overall, perceptions tend to be mixed, but many see the influence as more harmful than beneficial, especially when corporate interests override public needs. Based on these considerations, I think the influence of corporations is more likely to be viewed as somewhat bad by the general public.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Corporations have a significant influence on the country's economic development, job creation, and innovation. While some believe they contribute positively through efficiency and investment, others criticize their role in reducing workers' rights, increasing inequality, and prioritizing profits over social concerns. Overall, this mixed impact often leads to perceptions that their influence is somewhat bad, as the negative aspects tend to overshadow the positives in public opinion. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Corporations can have a significant impact on a country's development and well-being. In many cases, they drive economic growth, create jobs, and foster innovation, which could be seen as a positive influence. However, they can also prioritize profits over social and environmental concerns, leading to inequalities, pollution, or influence over politics that may detract from the public good. Given these mixed effects, opinions might lean toward viewing corporations' influence as more harmful than beneficial, especially when their power seems to undermine democratic processes or widen the gap between rich and poor. Therefore, my perception is that corporations' influence is somewhat bad in my country.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that corporations have a somewhat bad influence on the way things are going in my country. While they do contribute to economic growth, job creation, and innovation, the negative effects such as increasing inequality, prioritizing profits over social and environmental concerns, and their influence over politics often overshadow the positive impacts. This mixed effect leads me to view their influence more critically, leaning toward the somewhat bad category.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the insights from other respondents, the general perception of corporations' influence appears to be more negative than positive, highlighting concerns about social inequality, environmental impact, and political influence over public interest. While acknowledging some positive contributions like job creation and innovation, the predominant view seems to lean toward a somewhat bad influence. Therefore, I believe that the influence of corporations on my country is best described as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the mixed perceptions about corporations' influence\u2014some positive contributions like job creation and innovation, but also concerns about inequality, environmental issues, and prioritization of profits over social good\u2014it seems that many people view their influence as more problematic than beneficial. The responses from other respondents suggest that the general public tends to see this influence as somewhat bad, reflecting cautious skepticism or concern about the negative impacts outweighing the positives. Therefore, I believe the most fitting choice is:\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the perspectives expressed and the general consensus among other respondents about the largely negative impact of corporations\u2014highlighting issues like social inequality, environmental harm, and undue political influence\u2014it seems that their overall influence is viewed skeptically. While acknowledging some positive roles, such as job creation, the dominant sentiment leans toward seeing their influence as more harmful than beneficial. Therefore, I believe the influence of corporations on my country is best described as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the mixed perceptions and common concerns about corporations' negative impacts such as inequality, environmental degradation, and undue political influence, I perceive people's view as leaning towards the somewhat bad category. While there are positive aspects like economic growth and innovation, the overall sentiment seems cautious and skeptical, indicating that the influence is more problematic than beneficial. Therefore, I believe the most fitting choice is:\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the perspectives of other respondents and considering the mixed impacts of corporations on my country, I believe their influence leans more toward the negative side. While they do bring economic benefits, the concerns about inequality, environmental damage, and undue political influence suggest that their overall impact is not very favorable. Therefore, I think their influence is best described as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

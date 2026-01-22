@@ -1,0 +1,63 @@
+{
+  "question": "Thinking about the public, would you say each of the following aspects needs to be completely reformed, needs major changes, needs minor changes, or doesn\u2019t need to be changed? a. the economic system",
+  "options": [
+    "It needs to be completely reformed",
+    "It needs major changes",
+    "It needs minor changes",
+    "It doesn\u2019t need to be changed",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the economic system requires major changes to address inequalities, ensure sustainable growth, and adapt to new technological developments. While some aspects function well, widespread disparities and inefficiencies suggest that significant reforms are necessary to create a more equitable and resilient economy for the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the economic system requires major changes because it currently does not address significant issues like income inequality, financial instability, and access to opportunities for all segments of society. While some aspects work well, the need for reform is evident in order to create a more equitable and sustainable economy that benefits a broader population and adapts to contemporary challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the economic system needs major changes because, while it functions in some aspects, it also creates significant inequalities and inefficiencies that could be improved to better serve the broader population. Major reforms could help address issues such as wealth distribution, sustainability, and fairness, making the system more equitable and resilient for the future.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the economic system requires major changes because it currently results in significant inequality and does not adequately address issues like financial stability and equitable opportunity. While it functions to some degree, reforms are necessary to create a more fair and sustainable economic structure that benefits a wider population and adapts to modern challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the economic system requires major changes because, while it functions in some aspects, it also creates significant inequalities and inefficiencies that could be improved to better serve the broader population. Major reforms could help address issues such as wealth distribution, sustainability, and fairness, making the system more equitable and resilient for the future.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the current economic system requires major changes because it continues to produce significant income inequality, financial instability, and unequal access to opportunities. While some elements function adequately, the need for comprehensive reforms is clear to create a more fair, sustainable, and resilient economy capable of addressing contemporary challenges and ensuring broader prosperity.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the economic system needs major changes because it currently perpetuates significant inequalities, creates financial instability, and limits equal access to opportunities. While some parts function adequately, comprehensive reforms are necessary to develop a more equitable, sustainable, and resilient economy that can better serve the needs of all citizens and address ongoing societal challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the economic system needs major changes because, as many experts and studies have pointed out, it currently perpetuates significant income inequality and financial instability. These issues hinder overall social cohesion and long-term sustainability. While the system provides a foundation for economic activity, its shortcomings suggest that comprehensive reforms are necessary to create a more equitable, resilient, and inclusive economy that better serves the needs of the broader population. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the economic system requires major changes because, although it provides a foundation for economic activity, it also contributes significantly to inequality, environmental challenges, and financial instability. These issues suggest that large-scale reforms are necessary to create a more equitable, sustainable, and resilient system that better serves the needs of all citizens and addresses contemporary global challenges.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

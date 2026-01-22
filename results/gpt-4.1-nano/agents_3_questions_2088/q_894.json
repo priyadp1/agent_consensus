@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very important, somewhat important, not too important, or not at all important reason why people in your country move to other countries. d. To reunite with family currently living in another country",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Reuniting with family members who are already living abroad is often a strong motivation for migration, as it provides emotional support, cultural connection, and practical assistance. Many people prioritize being close to loved ones, which can significantly influence their decision to move. Therefore, I believe this is a very important reason for migration in many cases.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Reuniting with family is often a primary motivation for migration, as emotional ties and the desire to live near loved ones can strongly influence people's decisions to move to another country. This reason can sometimes be more important than economic or other factors, especially in cases of family reunification policies or personal circumstances. Therefore, I believe it is a very important reason.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Reuniting with family members already living abroad is often considered a very important reason for migration because family bonds and support networks play a significant role in people's decisions to move. Being close to loved ones can influence a person's well-being, job opportunities, and overall quality of life. While not everyone may prioritize family reunification, it remains a major motivator for many migrants, making it generally viewed as very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Reuniting with family currently living in another country is a very common and powerful reason for migration. Emotional bonds and the desire to be near loved ones often outweigh economic factors, especially when family reunification policies facilitate such moves. Given the emphasis from the other respondents on its significance and general consistency with common migration motivations, I believe this reason is very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Reuniting with family members already living abroad is a very common and strong motivation for migration, as it provides emotional support, strengthens cultural ties, and offers practical benefits. Considering these factors, I believe this is a very important reason why people move to other countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Reuniting with family currently living in another country is a highly significant factor for many individuals seeking to migrate. Emotional bonds, the desire to be close to loved ones, and the practical benefits of family support often serve as strong motivators. Given the importance placed on family connections in many cultures and personal circumstances, this reason is typically considered very important by migrants.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Reuniting with family currently living in another country is a fundamental motivation for migration, as family ties often serve as a primary reason for relocating. Emotional support, cultural connection, and practical assistance are significant benefits that strongly influence people's decisions to move. Therefore, I believe this is a very important reason why people in my country move to other countries.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Reuniting with family currently living in another country is often a primary motivation for migration, driven by emotional bonds, the desire for family support, and cultural importance. Considering the consistent emphasis other respondents have placed on this reason's significance, I believe it is very important. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Reuniting with family currently living in another country is a highly motivating factor for migration because it encompasses emotional, social, and practical reasons. People often prioritize being close to loved ones and maintaining family bonds, which can significantly influence their decision to move. Given its recognition as a common and powerful reason supported by other respondents, I consider this reason to be very important. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

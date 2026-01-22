@@ -1,0 +1,62 @@
+{
+  "question": "Generally speaking, do you think ____ plays a more important role in the Middle East today compared with 10 years ago, a less important role, or about as important a role as it did 10 years ago? b. the United States",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past decade, the role of the United States in the Middle East has evolved due to various geopolitical shifts. In recent years, the US has reduced its direct military presence in some countries and shifted focus towards diplomacy, economic influence, and counterterrorism efforts rather than large-scale interventions. While the US still holds significant influence in shaping regional policies and security arrangements, other actors such as regional powers, China, and Russia have gained prominence. Therefore, I believe the United States now plays a less important role in the Middle East compared to 10 years ago, when it had a more dominant military and political presence following the Iraq and Afghanistan conflicts.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past decade, the role of the United States in the Middle East has fluctuated due to changing political dynamics, shifting alliances, and regional conflicts. While the US has historically played a dominant and influential role in regional security, diplomacy, and economic matters, its influence has somewhat declined amid rising regional powers, the emergence of alternative alliances, and a push for greater regional self-reliance. Thus, I believe that the United States plays a less important role in the Middle East today compared with 10 years ago.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "In my opinion, the role of the United States in the Middle East today is about as important as it was 10 years ago. While there may have been fluctuations in influence due to regional conflicts, shifting alliances, and changing policies, the U.S. continues to be a major player in security, economic, and diplomatic affairs in the region. Its military presence, diplomatic initiatives, and economic relationships maintain a consistent level of importance, making its role roughly comparable to that a decade ago. Therefore, I believe its importance has remained stable over the past ten years.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the role of the United States in the Middle East today is less important than it was 10 years ago. While the US continues to have influence, regional powers have grown more assertive, and alternative alliances and initiatives aimed at reducing reliance on the US have gained prominence. This shift indicates a relative decline in American influence compared to a decade ago. Therefore, I think the US plays a less important role now.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering recent geopolitical developments, the United States has shifted from direct military engagement to a more strategic role emphasizing diplomacy, economic influence, and coalition-building in the Middle East. While it remains influential, other actors like regional powers, China, and Russia have increased their presence and impact. These changes suggest that the US's role is somewhat diminished compared to a decade ago, when its military interventions were more prominent. Therefore, I believe the US plays a less important role now than it did ten years ago.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past decade, the influence of the United States in the Middle East has experienced shifts due to geopolitical changes, reduced military commitments, and the rise of regional and global powers. While the US continues to exert significant influence through diplomacy and strategic alliances, other actors like China, Russia, and regional powers have gained prominence, and US military presence has lessened in some areas. These trends suggest that the US plays a somewhat diminished role compared to ten years ago. Therefore, I believe the US now plays a less important role in the Middle East than it did a decade earlier.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my view, the influence of the United States in the Middle East has diminished somewhat over the past decade due to shifting geopolitical dynamics. While the US still plays a significant role through diplomacy and strategic partnerships, other actors such as China, Russia, and regional powers have increased their presence and influence. Additionally, there has been a reduction in direct military interventions by the US, leading to a perception that its overall prominence has decreased compared to ten years ago. Therefore, I believe the US plays a less important role now than it did ten years ago.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the influence of the United States in the Middle East has diminished somewhat over the past decade due to regional shifts, the rise of other global powers, and changing US foreign policy priorities. Although the US still holds strategic importance, its relative prominence appears to have decreased compared to ten years ago. Therefore, I think the US plays a less important role now.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the role of the United States in the Middle East today is less important than it was 10 years ago. This is because regional powers like Iran, Turkey, and Saudi Arabia have become more assertive and influential, shaping the geopolitical landscape more directly. Additionally, other global powers such as China and Russia have increased their presence and impact in the region, diluting U.S. dominance. These shifts suggest a relative decline in U.S. influence compared to a decade ago, when its military interventions and diplomatic efforts were more pronounced. Therefore, I think the US plays a less important role now.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "As I read a list of groups and organizations, for each, please tell me what kind of influence the group is having on the way things are going in your country.   Is the influence of the Central Security Forces very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The influence of the Central Security Forces in my country is somewhat bad because while they are essential for maintaining order, there are concerns about overreach and human rights abuses in some cases. Their actions sometimes lead to a feeling of repression among the population, which affects public trust. However, I recognize that they also help in preventing chaos and ensuring national security, so their influence is not completely negative. Overall, I believe their impact leans more towards being problematic rather than beneficial. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The influence of the Central Security Forces in my country is quite complex and depends heavily on recent events and the context in which they operate. In many cases, they are seen as necessary for maintaining order and protecting citizens from threats, which can be viewed as a positive contribution to stability and security. However, there are also concerns about human rights violations, abuse of power, and excessive use of force, which undermine public trust and suggest a negative impact on the societal fabric. Overall, the perception of their influence tends to lean towards the negative due to these issues, although some still view them as essential for national security.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The influence of the Central Security Forces is often viewed as a double-edged sword. In some countries, they are seen as essential for maintaining order and safety, which can be beneficial for the stability and development of society. However, in other contexts, their actions are associated with repression, human rights violations, or abuse of power, which can undermine trust and social cohesion. Given the complex impact they have depending on the specific country and situation, the influence is likely more negative than positive in many cases, particularly where reports of misconduct or excessive force are prevalent. Therefore, I believe their influence is somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The influence of the Central Security Forces in my country appears to be mixed, with their role crucial for maintaining order and security, which many see as positive. However, concerns over possible human rights violations, misuse of power, and excessive force suggest that their impact often leans toward negative, fostering distrust and social tension. Given the overall perception and recent reports of misconduct, I believe their influence tends more toward the problematic side. Therefore, I choose somewhat bad because their actions, while sometimes justified, frequently undermine trust and social wellbeing.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the Central Security Forces in my country is somewhat bad because while they play a crucial role in maintaining order and national security, there are serious concerns about overreach, human rights abuses, and actions that lead to public repression. This dual impact creates a perception that their influence is more harmful than helpful, undermining trust and social cohesion. Therefore, I rate their influence as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that the influence of the Central Security Forces in my country is somewhat bad. While they play a crucial role in maintaining order and ensuring security, concerns about human rights abuses, overreach, and undue repression have significantly marred their reputation. These negative aspects outweigh their positive contributions in my view, leading to a perception that their influence is more harmful than beneficial.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that the influence of the Central Security Forces in my country leans towards being somewhat bad because, although they are essential for maintaining order and security, there are significant concerns about abuses of power, human rights violations, and excessive repression. These issues tend to overshadow their positive contributions, leading many to perceive their impact negatively. Therefore, I rate their influence as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the Central Security Forces in my country leans toward the negative side due to concerns about human rights violations, misuse of power, and social tension caused by their actions. While they are essential for maintaining order, their negative impacts seem to overshadow their positive contributions, leading me to view their influence as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe the influence of the Central Security Forces is somewhat bad because, while they are essential for maintaining order, there are significant concerns about human rights violations, misuse of authority, and excessive force. These issues tend to undermine public trust and can lead to social tensions rather than genuine security. Their actions often cast a negative shadow over societal wellbeing, despite their role in safety.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

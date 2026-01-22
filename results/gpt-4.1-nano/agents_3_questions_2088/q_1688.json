@@ -1,0 +1,62 @@
+{
+  "question": "I am going to read you a list of things that the government might do to improve public health and health care in our country.  As I read each one, please tell me how much of a priority you think it should be for the (state or government)--one of the most important priorities, a very important priority, a lower priority, or not a priority at all?...Preventing and treating other infectious diseases like Tuberculosis and Malaria",
+  "options": [
+    "One of the most important priorities",
+    "A very important priority",
+    "A lower priority",
+    "Not a priority at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe preventing and treating infectious diseases like Tuberculosis and Malaria should be a top priority for the government because these diseases still pose significant health risks, especially for vulnerable populations and in regions with limited access to healthcare. Addressing these illnesses can save lives, reduce healthcare costs, and improve overall public health outcomes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Addressing infectious diseases like Tuberculosis and Malaria is crucial for public health, especially in regions where these illnesses are prevalent. Prioritizing prevention and treatment can save lives, reduce healthcare costs, and improve overall community well-being. Given their significant health impacts, I believe this should be regarded as one of the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Preventing and treating infectious diseases like Tuberculosis and Malaria is crucial for public health, especially in regions where these illnesses are prevalent. Addressing these diseases can save lives, reduce healthcare costs, and prevent wider outbreaks that could impact the entire population. Given their potential to cause widespread health crises if left unchecked, prioritizing efforts to combat them should be considered very important or even among the most important priorities. Therefore, I believe it warrants one of the top tiers of priority.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Preventing and treating infectious diseases like Tuberculosis and Malaria is vital for safeguarding public health, especially in regions where these illnesses are prevalent. Effective prevention and treatment can save lives, reduce the burden on healthcare systems, and prevent outbreaks that could have wider societal impacts. Given these significant health risks and the potential for control and eradication, I believe this should be considered one of the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe preventing and treating infectious diseases like Tuberculosis and Malaria should be a top priority because these diseases continue to impact vulnerable populations significantly. They can cause severe health outcomes and have the potential to trigger outbreaks if not managed properly. Addressing them not only saves lives but also reduces long-term healthcare costs and contributes to overall public health security. Given the ongoing health threats posed by these diseases, I consider them one of the most important issues for the government to focus on.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe preventing and treating infectious diseases like Tuberculosis and Malaria is a critical public health issue that requires significant attention from the government. These diseases continue to affect vulnerable populations worldwide, leading to preventable suffering and deaths. Prioritizing their prevention and treatment can lead to healthier communities, reduce long-term healthcare costs, and help control outbreaks that might otherwise spread widely. Given their ongoing impact, I think the government should treat this as one of the most important priorities.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe preventing and treating infectious diseases like Tuberculosis and Malaria is crucial because these illnesses continue to affect vulnerable populations, cause significant health issues, and have the potential to lead to outbreaks if not managed properly. Addressing them is essential for protecting public health, reducing healthcare costs, and ensuring a healthier population overall. Given their ongoing threat and impact, I consider this one of the most important priorities for the government.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Preventing and treating infectious diseases like Tuberculosis and Malaria is crucial because these illnesses still pose significant health risks, especially to vulnerable populations. Effective control can save lives, reduce healthcare costs, and prevent outbreaks that could affect broader communities. Prioritizing these efforts aligns with public health goals of reducing preventable suffering and maintaining societal well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Preventing and treating infectious diseases like Tuberculosis and Malaria is crucial because these illnesses continue to pose serious health risks, especially to vulnerable populations. Effective management can prevent outbreaks, save lives, and reduce long-term healthcare costs. Given their significant impact on public health, prioritizing efforts in this area aligns with the goal of safeguarding the well-being of the population. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

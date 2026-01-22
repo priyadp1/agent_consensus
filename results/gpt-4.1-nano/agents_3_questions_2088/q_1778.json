@@ -1,0 +1,62 @@
+{
+  "question": "(For each of the following problems, please tell me if you think it will get better, get worse or stay the same in the next five years.)...The gap between rich and poor",
+  "options": [
+    "Better",
+    "Worse",
+    "Stay the same",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will get worse in the next five years due to economic inequalities, stagnant wages for lower-income groups, and policies that may favor the wealthy. Without significant intervention, the disparity is likely to grow as wealth accumulation continues to concentrate among the affluent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will likely get worse in the next five years due to economic disparities, inflation, and unequal access to opportunities, which tend to widen wealth gaps over time. While there may be efforts to address inequality, existing systemic issues suggest that the gap may continue to grow rather than shrink or remain the same.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the gap between rich and poor will get worse in the next five years because economic inequality tends to widen due to ongoing disparities in education, income growth, and access to resources. Additionally, technological advancements and globalization may favor wealthier individuals, further increasing the divide. While some policies might aim to address this issue, without significant intervention, the trend suggests it will deepen.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will likely get worse in the next five years because economic disparities, inflation, and unequal access to opportunities tend to widen wealth gaps over time. Although there may be efforts to address inequality, systemic issues and ongoing economic trends suggest the divide will continue to grow rather than shrink or stay the same.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will get worse in the next five years because economic inequality continues to be driven by factors like stagnant wages for lower-income groups, increasing wealth concentration among the already wealthy, and global economic trends that tend to favor those with existing resources and opportunities. Unless there are significant policy changes aimed at reducing disparities, these trends are likely to persist or worsen.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will likely get worse in the next five years. Economic inequalities, stagnant wages for lower-income groups, and policies that may favor the wealthy suggest that wealth disparities are likely to grow unless significant intervention occurs. Systemic issues and continued concentration of wealth among the affluent support the view that the disparity will worsen.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will get worse in the next five years. Current economic trends, including stagnant wages for many workers and increasing wealth concentration among the already rich, suggest that income inequality is likely to intensify. Without significant policy changes addressing these issues, the disparity will probably continue to grow.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will likely get worse in the next five years because economic disparities are influenced by systemic issues such as income inequality, unequal access to education and opportunities, and policies that often favor the wealthy. Without significant intervention, these factors tend to cause the wealth gap to widen rather than narrow or stay the same.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the gap between rich and poor will likely get worse in the next five years because current economic trends, including stagnant wages for many lower-income individuals and increasing wealth concentration among the already wealthy, suggest that income disparities will continue to grow unless significant policy interventions are implemented to address these structural issues.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

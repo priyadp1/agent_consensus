@@ -1,0 +1,62 @@
+{
+  "question": "Now I'd like to ask your views about some additional political leaders and organizations.  Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Imran Khan?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan. I appreciate his efforts in implementing social welfare programs and his focus on anti-corruption measures. However, I also recognize that his tenure has been met with controversy and political instability, which tempers my overall view of him. My perception is cautious but somewhat positive. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan because I appreciate his efforts to bring about political change and his popularity among many segments of the population. However, I am also aware of some controversies and challenges during his leadership, which temper my view. Overall, I see him as a leader with potential but also flaws, so I lean towards a moderate positive assessment based on his charisma and policy initiatives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose the option that reflects a balanced opinion. Imran Khan is a prominent political figure known for his philanthropic work and leadership, but he also faces criticism for his policies and political controversies. Depending on one's perspectives and the current political climate, opinions may vary. Overall, I might lean towards a somewhat favorable opinion, recognizing his positive contributions while acknowledging areas of criticism.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan because I recognize his efforts to promote social welfare and political reform in Pakistan. Although he has faced criticism and controversy, I believe his intentions are generally positive, and he has a significant support base. My view acknowledges both his contributions and the challenges he faces.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan. I recognize his contributions to social welfare and his efforts to address corruption, but I am also aware of the political controversies and instability during his tenure. This makes my overall view cautious but leaning toward the positive side.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan because I believe he has made efforts to promote social welfare and fight corruption, which are commendable initiatives. However, I also acknowledge that his leadership has been accompanied by controversy and political instability, which makes me somewhat cautious about fully endorsing him. My overall view is moderate; I see positives but also recognize significant challenges and criticisms.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan. I appreciate his efforts to promote social welfare and combat corruption, which are important initiatives. However, I am also aware of the political controversies and instability that have marked his leadership, which makes me cautious about fully supporting him. Overall, my view is mixed but tends toward the positive side.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan because I appreciate his efforts to address social issues and promote transparency in governance. While I recognize his positive initiatives, I am also aware of the controversies and political challenges he faces, which make me cautiously optimistic about his leadership. My view is balanced, acknowledging both his strengths and the difficulties he encounters.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Imran Khan because I appreciate his efforts to promote social welfare and reform in Pakistan. While he has faced criticism and political controversies, I believe his intentions are mostly positive and he has a strong support base. My view recognizes both his contributions and the challenges he faces.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

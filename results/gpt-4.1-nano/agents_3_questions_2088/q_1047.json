@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Corrupt political leaders",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe corrupt political leaders are a very big problem because they undermine trust in government, hinder effective policymaking, and can lead to broader issues like economic instability and social injustice. Corruption at the leadership level can have widespread negative impacts on the country's development and the well-being of its citizens.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders can undermine trust in government, divert resources away from public needs, and weaken the rule of law. Given the widespread concerns about integrity in leadership and the potential impact on all aspects of society, I believe this is a very big problem that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe corrupt political leaders are a very big problem because they undermine trust in government, distort the rule of law, and often lead to decisions that do not serve the public interest. Such corruption can impede development, fuel inequality, and weaken democratic institutions. Therefore, I see this as a significant issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corruption among political leaders can seriously undermine democratic processes, erode public trust, and lead to inefficient allocation of resources. Given its widespread implications for governance and societal stability, I consider it a very big problem that requires urgent action.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders pose a serious threat to a country's stability, development, and trust in government institutions. They often lead to inefficiency, injustice, and inequality, which can negatively affect citizens' lives and undermine democratic processes. Given the widespread impact and the importance of good governance, I consider this a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Corruption among political leaders directly undermines governance, erodes public trust, and hampers social and economic progress. Given its potential to cause widespread harm and destabilization, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders can severely undermine a country's stability, fairness, and progress by eroding trust in institutions and leading to inefficiency and injustice. Given these broad and serious impacts, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders pose a significant threat to good governance, public trust, and societal progress. Such corruption can lead to inefficient use of resources, weaken institutions, and cause widespread instability. Given these serious implications, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Corrupt political leaders can significantly harm a country's development, trust in institutions, and social stability. Their actions often lead to injustice and inefficiency, adversely affecting citizens' lives. Because of these widespread and serious consequences, I believe that corruption among political leaders is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

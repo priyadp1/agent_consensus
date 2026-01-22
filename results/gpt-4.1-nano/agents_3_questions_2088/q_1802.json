@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way President Barack Obama is dealing with...Iran.",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama aimed for a balanced approach with Iran, focusing on diplomacy and negotiations to prevent nuclear proliferation while maintaining open channels for dialogue. This strategy was intended to reduce tensions and promote stability in the region. However, opinions vary on whether this approach was effective or too lenient, which influences whether I approve or disapprove. Given the intention to engage diplomatically and prevent conflict, I lean towards approval.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama's approach to Iran was characterized by efforts to engage diplomatically and reach agreements to prevent the country from developing nuclear weapons. His administration prioritized negotiations and multilateral talks, which aimed to increase transparency and build trust with Iran. Given these efforts to pursue diplomacy over confrontation, I approve of his approach.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I think President Barack Obama's approach to Iran focused on diplomacy and negotiation efforts, aiming for a nuclear deal and easing tensions. This strategy was generally viewed as a constructive attempt to prevent escalation and promote stability in the region. However, opinions on its effectiveness and whether it was the best approach vary, with some critics feeling it was too lenient or insufficient. Overall, I support his efforts for diplomacy and engagement, believing they were necessary steps toward addressing complex international issues with Iran.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I support President Obama's diplomatic approach to Iran because it focused on negotiations and multilateral talks to prevent nuclear proliferation and promote regional stability. This strategy aimed to build trust and avoid conflict through dialogue, reflecting a diplomatic and constructive stance. While opinions on its effectiveness vary, I believe engaging Iran through diplomacy was the right course of action. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama's approach to Iran, which emphasized diplomacy, negotiations, and engagement, was aimed at preventing nuclear proliferation and reducing regional tensions. While opinions differ on its overall effectiveness, I support the strategy of seeking peaceful solutions and diplomatic channels to address complex international issues involving Iran.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama's strategy toward Iran emphasized diplomacy and negotiation, aiming to prevent nuclear proliferation through multilateral agreements and open dialogue. His efforts focused on reducing regional tensions and avoiding conflict, which I view as a constructive approach. While opinions may differ on its effectiveness, I support the emphasis on diplomacy and engagement. Therefore, I approve of his handling of Iran.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama's approach to Iran, which prioritized diplomacy, negotiations, and multilateral agreements, was a constructive effort to address complex issues such as nuclear proliferation and regional stability. His strategy aimed to defuse tensions through open dialogue rather than confrontation, which I support as a peaceful and pragmatic method. Therefore, I approve of his handling of Iran.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I support President Obama's diplomatic and engagement-focused strategy toward Iran. His approach emphasized negotiations, multilateral agreements, and reducing regional tensions rather than military conflict. Given the goal of preventing nuclear proliferation through peaceful means, I believe his handling aligns with constructive and diplomatic principles, which I approve of.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of President Obama's approach to Iran because his emphasis on diplomacy and negotiations aimed to prevent nuclear proliferation and promote regional stability. Engaging Iran through dialogue sought to build trust and avoid conflict, which I believe is a constructive and prudent strategy in complex international relations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Here are some different political and social actions that people can take. Please indicate, for each type of action, whether: you have done this in the past year, you have done this in the more distant past, you have not done this but might do it or you have not done this and would never, under any circumstances, do it. f. encouraged other people to take action on a political or social issue that is important to you ONLINE",
+  "options": [
+    "Have done in the past year",
+    "Have done in the more distant past",
+    "Have not done, but might do",
+    "Have not done and would never do",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe I am more likely to have done this in the more distant past rather than recently or never, because while I value social activism, I don't frequently use online platforms for encouraging others or might do so if a compelling issue arises.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have encouraged other people to take action on a political or social issue that is important to me ONLINE in the more distant past. I believe social media platforms have made it easier to support causes and share information, but I haven't done so recently, and I might do it again if I encounter an issue that motivates me. However, I would not say I have done it in the past year, nor would I say I would never do it under any circumstances. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have encouraged other people to take action on a political or social issue that is important to me online in the past year. I believe that spreading awareness and motivating others through online platforms can be an effective way to contribute to social change. Given my comfort with social media and online communication, I have actively engaged in such advocacy recently.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have encouraged other people to take action on a political or social issue that is important to me online in the past year because I actively participate in online advocacy and believe that social media is an effective tool for raising awareness and motivating others. I see myself continuing this behavior and feel comfortable doing so now.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have not encouraged other people to take action on a political or social issue that is important to me online in the past year. While I recognize the importance of online advocacy, I have not actively engaged in encouraging others through online platforms recently. I might consider doing this in the future if a specific issue motivates me, but I have not done so recently. Therefore, I select the option that best reflects my recent behavior.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have not actively encouraged others online on a recent or distant basis, and I am unlikely to do so in the near future. I believe I might consider it if a compelling social or political issue arises, but I haven't done this in the past year. Therefore, my answer aligns most closely with doing it in the more distant past, but not recently, and I am open to future action if motivated.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have not actively encouraged others online on a recent or distant basis, and I am unlikely to do so in the near future. I believe I might consider it if a compelling social or political issue arises, but I haven't done this in the past year. Therefore, my answer aligns most closely with doing it in the more distant past, but not recently, and I am open to future action if motivated. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have not encouraged others to take action on a political or social issue online in the past year, nor do I currently plan to do so, but I might consider it if I feel strongly about a certain issue. This aligns best with having done it in the more distant past and being open to doing it again, rather than currently or never. Therefore, my answer is B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have not engaged in encouraging others to take action online in the past year, but I recognize that I might do it in the future if a cause resonates with me or motivates me to participate. I am open to getting involved but have not done so recently. Therefore, I select option C.  \nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

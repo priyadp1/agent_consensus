@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders. For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...U.S. Secretary of State Hillary Clinton.",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B, some confidence, because while Hillary Clinton has extensive experience in foreign policy and has generally demonstrated a commitment to international diplomacy, there are moments of controversy and criticism regarding her decisions and actions. This makes me confident to an extent but with some reservations about her approach or certain policies she may advocate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Hillary Clinton's ability to handle world affairs, given her experience as Secretary of State and her involvement in international diplomacy. However, public perceptions and political controversies surrounding her tenure may influence the level of trust some people place in her decision-making. Therefore, I would choose \"some confidence\" as a balanced assessment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Hillary Clinton's ability to handle world affairs, given her extensive experience as a Secretary of State and her diplomatic background. However, I recognize that her policies and decisions sometimes attracted scrutiny and controversy, which may influence perceptions of her reliability. Therefore, I believe she warrants some confidence but perhaps not a great deal.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Hillary Clinton's extensive diplomatic experience and role as Secretary of State demonstrate a significant level of competence and dedication to international affairs. While she has faced some controversies that may affect perceptions, her overall track record suggests she can be trusted to handle world affairs with a considerable degree of responsibility. Therefore, I would choose \"some confidence\" as it reflects a balanced view of her capabilities and past performance.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Hillary Clinton's ability to handle world affairs due to her extensive experience and diplomatic background as Secretary of State. However, given that her decisions have sometimes attracted criticism and controversy, I believe she warrants some confidence but not a great deal. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given her extensive experience and history of involvement in international diplomacy, I have a moderate level of confidence in Hillary Clinton to do the right thing regarding world affairs. While she has demonstrated commitment and expertise, some controversies and criticisms during her tenure as Secretary of State suggest that my confidence would be cautious rather than full. Therefore, I believe \"some confidence\" best reflects my view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I acknowledge Hillary Clinton's extensive experience and diplomatic background, which suggest she has a solid understanding of international affairs. While her tenure included some controversial moments, her overall efforts and expertise indicate a moderate level of confidence. Considering the mixed assessments, I believe \"some confidence\" is appropriate in this context.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I recognize Hillary Clinton's extensive diplomatic experience and her role as Secretary of State, which demonstrate a strong commitment to international affairs. While she has faced some criticisms and controversies, her overall track record suggests a significant level of capability and dedication. Therefore, I would choose some confidence as it appropriately reflects a moderate but cautious trust in her judgment regarding world issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize Hillary Clinton's extensive diplomatic experience and her role as Secretary of State, which demonstrate her commitment and capability in handling international affairs. Although she has faced scrutiny and controversy, her track record suggests that she is reasonably dependable in doing the right thing regarding world issues. Given this assessment, I feel confident in her abilities but acknowledge that there are some concerns that prevent a higher level of trust.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

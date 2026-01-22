@@ -1,0 +1,63 @@
+{
+  "question": "Do you think ____ is a very big problem, a moderately big problem, a small problem or not a problem at all in our country? d. public debt",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Public debt is a significant concern for many countries because high levels of debt can limit economic growth, increase inflation, and constrain government spending on essential services. While some countries manage their debt sustainably, in many cases, elevated public debt levels pose risks to financial stability and future prosperity. Given the potential negative impacts and the common concerns expressed by economists and policymakers, I believe public debt is generally seen as a big problem that needs careful management and attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Public debt is a significant concern for many countries because high levels can lead to economic instability, increased borrowing costs, and burden future generations. While some may see it as a manageable issue, the potential risks involved make it a prominent problem that influences economic policy and stability. Therefore, I view public debt as a very big problem facing our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Public debt can be quite concerning for a country\u2019s economy as it may hinder government spending on essential services and increase reliance on borrowing, leading to potential financial instability. While some level of debt is manageable, excessively high public debt can become a serious issue that impacts economic growth and public welfare. Given these considerations, I see public debt as a significant challenge that needs careful management.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Public debt is a critical issue because excessive borrowing can lead to higher interest rates, economic instability, and limit the government's ability to invest in essential public services. If public debt becomes unsustainable, it risks burdening future generations and stifling economic growth. Given these potential consequences, I believe public debt remains a very big problem for our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Public debt can pose significant economic risks if it becomes excessively high, potentially limiting government capacity to invest in growth-promoting projects and increasing financial insecurity. Managing public debt wisely is crucial to maintaining economic stability, which suggests it is a serious concern for the country's future prosperity. Therefore, I believe public debt is a very big problem that requires careful attention and management.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Public debt is a critical issue because excessive levels can hinder economic growth, increase borrowing costs, and pose risks to financial stability. Managing public debt effectively is essential to ensure long-term economic health and avoid burdens on future generations. Given these concerns, I believe public debt is a very big problem in our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe public debt is a very big problem because high levels of debt can limit government spending on essential services, dampen economic growth, and create financial instability. Managing public debt effectively is crucial to ensure economic stability and future prosperity. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Public debt is a significant concern because high levels of public debt can lead to increased interest payments, limit government capacity to fund public services, and pose risks to economic stability. Managing and reducing public debt is crucial to ensure sustainable growth and financial health in our country. Therefore, I believe public debt is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Public debt is an ongoing concern because if it becomes too high or unsustainable, it can hinder economic growth, lead to higher interest rates, and limit government spending on essential services. Proper management is crucial, but the risks associated with high public debt make it a significant issue for the country's future stability. Given these considerations, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

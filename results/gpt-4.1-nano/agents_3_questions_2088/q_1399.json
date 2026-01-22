@@ -1,0 +1,61 @@
+{
+  "question": "Why is it that American policy is having a negative effect on our country? Is it mostly because of President George W. Bush or is it more a general problem with America?",
+  "options": [
+    "Bush",
+    "America generally",
+    "Both (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The negative effects on the country can stem from a combination of factors, but it\u2019s important to recognize that leadership decisions, especially those made during George W. Bush\u2019s presidency, often have a significant and immediate impact on a nation\u2019s direction. While broader systemic issues and cultural trends within America contribute to challenges, specific policies enacted during his administration\u2014such as the Iraq War and the response to 9/11\u2014directly affected national stability and perception. Therefore, although a broader examination is valid, the most immediate and identifiable source of recent negative impacts can be attributed to the actions of President Bush himself.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "While individual presidents like George W. Bush have had significant impacts through their policies, many of the systemic issues and long-term challenges faced by America stem from broader structural and cultural factors. These include economic inequality, political polarization, and entrenched interests, which are not solely attributable to one leader. Therefore, the negative effects can be seen as part of a more general problem with America itself, rather than solely the result of a single administration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The negative effects of American policy can often be attributed to broader systemic issues within the country, such as political polarization, economic inequality, and institutional challenges, which tend to persist beyond individual presidencies. While President George W. Bush's policies and decisions certainly contributed to certain outcomes, they are part of a larger pattern that includes historical and structural factors rooted in American political and social systems. Therefore, it seems more accurate to view the problem as a general issue with America rather than isolated to one leader.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The negative effects of American policy seem to be rooted in systemic issues such as economic inequality, political polarization, and entrenched interests that go beyond the actions of a single president. While George W. Bush's policies certainly influenced certain outcomes, these broader structural and cultural factors are ongoing and affect the country regardless of leadership. This perspective aligns with the view that the problem is more about America as a whole, rather than solely a single administration's actions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the negative effects of American policy are more attributable to broader systemic issues within the country, such as political polarization, economic inequality, and institutional challenges, which tend to persist beyond individual presidencies. While President Bush's policies did have significant impacts, they are part of a larger pattern rooted in the structural aspects of American society and governance. Therefore, it seems more accurate to view the problem as a general issue with America rather than solely due to one leader\u2019s actions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "In my view, both the leadership decisions of President George W. Bush and broader systemic issues within America contribute to the country's negative effects. While Bush's policies and actions during his presidency, such as the Iraq War and post-9/11 responses, had immediate and tangible impacts, many underlying problems like economic inequality and political polarization are ingrained in American society and long-standing. Therefore, it seems to be a combination of individual leadership and systemic issues rather than solely one or the other.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe the negative effects of American policy stem from a combination of factors. While President George W. Bush's decisions and actions played a significant role during his time in office, many ongoing issues such as political polarization, economic inequality, and institutional challenges are deeply rooted in American society itself. These systemic problems persist beyond any single presidency and influence the overall direction of the country. Therefore, I see it as a situation where both leadership and broader systemic issues contribute to the negative effects.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that the negative effects of American policy stem from both the actions of President George W. Bush and broader systemic issues within the country. While Bush's policies, such as the Iraq War and post-9/11 measures, contributed to specific negative outcomes, many of the underlying problems like economic inequality and political polarization are deeply rooted in American society and history. These persistent systemic challenges continue to impact the country's trajectory regardless of individual presidents' policies. Therefore, the most comprehensive view is that both factors are at play.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the negative effects of American policy stem primarily from systemic issues such as economic inequality, political polarization, and entrenched interests that are ingrained in the fabric of American society. While President Bush's policies had their impact, these broader structural and cultural problems tend to persist over time regardless of who is in office. Therefore, I think the core issues are more about America as a whole rather than being solely attributable to a single leader's actions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

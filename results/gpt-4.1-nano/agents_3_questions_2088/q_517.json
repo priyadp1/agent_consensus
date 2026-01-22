@@ -1,0 +1,63 @@
+{
+  "question": "Would you say that each of the following has done a very good, somewhat good, somewhat bad, or very bad job dealing with the coronavirus outbreak? c. your country",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job dealing with the coronavirus outbreak. While there have been challenges and criticism regarding the speed and consistency of responses, efforts to provide healthcare, implement safety measures, and distribute vaccines have generally been adequate. There is room for improvement, but overall, the approach has been reasonably effective in managing the situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job dealing with the coronavirus outbreak. While there have been significant challenges, including initial missteps and disparities in regional responses, overall efforts such as vaccination campaigns and implementing health measures have helped manage the situation. However, there is still room for improvement, especially in handling future waves and ensuring equitable healthcare access.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job dealing with the coronavirus outbreak. While there have been efforts to implement health measures and vaccination programs, there have also been challenges such as inconsistent policies, delays in response, and issues with resources or communication. Overall, these factors suggest that progress has been made, but improvements are still needed to handle future crises more effectively.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job dealing with the coronavirus outbreak. While there have been notable efforts such as vaccination campaigns and health measures, there have also been issues like inconsistent policies and delays that hindered a more effective response. Overall, progress has been made, but there is still considerable room for improvement to better handle future waves and ensure equitable healthcare access.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job dealing with the coronavirus outbreak. While there have been positive efforts in providing healthcare and vaccination programs, there are still concerns about inconsistent policies and delays that have hindered an optimal response. Overall, progress has been made, but there is clearly room for improvement in handling future crises more effectively.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job managing the coronavirus outbreak. While there have been notable challenges, such as initial delays, regional disparities, and public compliance issues, the efforts in vaccination rollout and health measures have contributed positively to controlling the spread. Although improvements are needed, especially in future preparedness and equitable access, I think the overall response has been reasonably effective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe my country has managed the coronavirus outbreak somewhat well. While there have been positive initiatives like vaccination programs and healthcare responses, issues such as inconsistent policies, delays, and regional disparities have affected the overall effectiveness. These challenges indicate progress but also highlight significant areas needing improvement for better future handling.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job managing the coronavirus outbreak. While there have been positive efforts such as vaccination campaigns and health measures, there are still significant issues like inconsistent policies, delays, and regional disparities that have hindered a fully effective response. The progress made is commendable, but improvements are necessary to better handle future challenges and ensure equitable healthcare access for all citizens. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe my country has done a somewhat good job dealing with the coronavirus outbreak. While efforts such as vaccination campaigns and health measures have been implemented, there have also been inconsistencies in policies and delays that have hindered an optimal response. Overall, some progress has been made, but there is still significant room for improvement in handling future crises more effectively to ensure better health security and public trust.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

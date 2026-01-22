@@ -1,0 +1,61 @@
+{
+  "question": "Why do you have an unfavorable view of the United States?  Is it mostly because of President George W. Bush or is it more a general problem with America?",
+  "options": [
+    "Mostly Bush",
+    "America in general",
+    "Both (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My unfavorable view of the United States stems from a combination of factors, including specific policies and actions associated with President George W. Bush, such as the Iraq War and issues related to foreign policy and interventionism. However, I also perceive broader structural and cultural issues within the country, like inequality, domestic politics, and international reputation, contributing to my overall perspective. Since the question asks whether the negativity is mainly due to Bush or a larger problem with America, I see it as more of a shared problem that cannot be solely attributed to one individual or moment. Therefore, I believe that it's more accurate to consider it a general problem with America rather than attributing it primarily to Bush.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My unfavorable view stems more from broader issues with America, such as its policies and cultural attitudes, rather than solely from President George W. Bush's actions or decisions. While his presidency certainly influenced perceptions, they are ultimately shaped by a wider pattern of systemic problems and national behavior. Therefore, I see it as a general issue with America rather than just one individual or administration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My unfavorable view stems from broader issues I perceive within American policies and cultural influences, rather than from the actions or policies of President George W. Bush alone. While his presidency shaped some specific concerns, I believe many of the systemic problems and global perceptions are rooted in the country's overall approach and values. Therefore, my opinion reflects a more general perspective on America rather than focusing solely on one leader.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe my unfavorable view of the United States is more a result of broader issues related to the country's policies, cultural attitudes, and systemic patterns rather than solely the actions of President George W. Bush. While individual leaders can influence perceptions, my concern stems from a general pattern of behaviors and values I associate with America as a whole. Therefore, I choose to view it as a more widespread problem with the country rather than attributed to a single administration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my unfavorable view is rooted more in the broader patterns and systemic issues within America, such as domestic inequality, cultural attitudes, and foreign policy approaches that extend beyond any single presidency. While President Bush\u2019s actions and policies certainly contributed to my concerns, they are part of a larger context that shapes my overall perception of the country. Therefore, I see these issues as more of a general problem with America rather than mainly attributable to Bush himself.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that my unfavorable view of the United States is rooted more in broader, systemic issues within the country rather than solely attributing it to President George W. Bush. While his presidency and specific policies certainly played a role in shaping perception, the overall problems I see\u2014such as cultural attitudes, domestic inequalities, and international reputation\u2014reflect deeper, ongoing challenges within America itself. Therefore, I see it as more a general problem with America than just something related to Bush.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that my unfavorable view of the United States stems more from systemic and long-standing issues within the country, such as domestic inequality, cultural attitudes, and foreign policy strategies, rather than solely from the actions of President George W. Bush. While his presidency did influence perceptions, I see these concerns as part of broader, ongoing challenges that define my overall view of America. Therefore, my answer is more aligned with a general problem with America rather than being primarily about Bush.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe my unfavorable view of the United States stems more from systemic issues related to the country's policies, cultural attitudes, and ongoing patterns rather than solely the actions of President George W. Bush. While his presidency may have influenced perceptions in certain ways, the broader concerns encompass persistent problems with American society as a whole, including inequalities and international reputation. Therefore, I see it as more a general problem with America than just something related to Bush.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe my unfavorable view of the United States is more rooted in broader systemic issues, policies, and cultural attitudes that have persisted beyond any single administration. While President Bush's actions and policies are notable and influential, I see them as part of a larger pattern of behavior and values that shape my perception of the country as a whole. Therefore, I believe it is more of a general problem with America beyond just one leader or administration.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

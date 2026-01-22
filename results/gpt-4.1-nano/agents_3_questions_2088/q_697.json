@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...Chilean President Michelle Bachelet",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Michelle Bachelet has historically shown a commitment to regional cooperation and a focus on diplomacy during her terms as President of Chile and as a UN High Commissioner for Human Rights. Her leadership often emphasizes social justice, human rights, and international collaboration, which could inspire confidence in her approach to world affairs. However, as a national leader, her influence on global issues might be perceived as limited compared to that of major powers, and opinions about her effectiveness may vary based on specific international policies or events. Overall, her track record suggests a solid degree of trust in her capacity to do the right thing on the world stage, even if not at the highest level of confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Michelle Bachelet has historically been regarded as a pragmatic leader who focused on social issues and regional diplomacy during her time in office. While she has gained international respect for her efforts, opinions about her effectiveness in global affairs vary depending on the context and specific issues. Given her background and track record, I would lean towards having some confidence in her ability to handle world matters, though not necessarily a high level of confidence. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Michelle Bachelet has historically demonstrated a commitment to social justice, human rights, and regional diplomacy during her two terms as Chilean President. Her international experience and focus on multilateral cooperation suggest she is capable of making balanced decisions regarding world affairs. While her domestic policies were sometimes met with mixed reactions, her diplomatic skills and global outlook give a reasonable level of confidence in her ability to handle international issues effectively. Therefore, I would choose some confidence, as her leadership style and experience inspire a moderate amount of trust on the international stage.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Michelle Bachelet has demonstrated significant diplomatic experience and a commitment to social and human rights issues, which are positive indicators of her ability to handle global affairs. Though she may not have held a worldwide leadership role recently, her track record suggests she possesses a moderate level of confidence in managing international issues effectively. Therefore, I would select some confidence to reflect her diplomatic skills and experience.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Michelle Bachelet has a strong background in diplomacy, human rights, and social justice, which are valuable qualities in handling world affairs diplomatically and ethically. Her experience as President of Chile and as UN High Commissioner demonstrates her commitment to multilateral cooperation and international collaboration. While she may not be among the world's powerful leaders, her proven track record suggests she can be trusted to do the right thing on the global stage to a reasonable extent. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Michelle Bachelet has demonstrated a commitment to diplomacy, human rights, and regional cooperation, which suggests she approaches world affairs with a responsible and collaborative attitude. While her influence on global issues may be limited compared to major powers, her track record indicates a level of trustworthiness and competence in international matters. Therefore, I would choose some confidence in her ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering Michelle Bachelet's extensive background in diplomacy, her commitment to human rights, and her regional leadership, I believe she approaches international affairs with responsibility and a collaborative attitude. While she may not wield the influence of top global powers, her proven track record and dedication to multilateral efforts suggest a reasonable level of trustworthiness. Therefore, I would choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given Michelle Bachelet's extensive diplomatic background and her demonstrated commitment to human rights and regional cooperation, I believe she possesses a solid understanding of international issues and the ability to handle world affairs responsibly. While she may not be a dominant global power, her experience and values suggest she would approach international matters with reasonable competence and good intentions. Therefore, I choose some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given Michelle Bachelet's extensive background in diplomacy, human rights, and her experience as a national leader and UN official, I have a fair amount of confidence in her ability to handle global affairs with integrity and competence. While she may not currently hold a position of overwhelming global influence, her proven track record suggests she can be trusted to do the right thing in international matters. Therefore, I select some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

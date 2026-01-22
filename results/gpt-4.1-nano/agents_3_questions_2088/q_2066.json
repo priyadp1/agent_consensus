@@ -1,0 +1,63 @@
+{
+  "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.\n\nIndependence",
+  "options": [
+    "Important",
+    "Not mentioned",
+    "Don't know",
+    "No answer",
+    "Other missing; Multiple answers Mail (EVS)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe independence is a crucial quality for children to develop at home because it fosters self-reliance, decision-making skills, and confidence that are essential for personal growth and adapting to various life challenges in the future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe independence is especially important as it helps children develop self-reliance, problem-solving skills, and confidence, which are essential for their growth and future success. Cultivating independence at home encourages children to become responsible and autonomous individuals. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Independence is an essential characteristic for children to develop as it foster self-reliance, confidence, and problem-solving skills. Encouraging independence at home helps children learn to manage tasks, make decisions, and become responsible individuals, which positively impacts their growth and future success. Therefore, I consider it especially important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe independence is especially important because it helps children develop self-reliance, confidence, and problem-solving skills, which are essential for their growth and future success. Encouraging independence at home fosters responsibility and autonomy, setting a strong foundation for their development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe independence is a vital trait for children to develop at home because it promotes self-reliance, confidence, and decision-making skills, which are important for their personal growth and ability to navigate future challenges. Cultivating independence prepares children to become responsible and adaptable adults. Therefore, I consider it especially important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe independence is a fundamental quality that children should be encouraged to develop at home because it helps build self-reliance, decision-making abilities, and confidence. These skills are vital for their personal growth and for navigating future challenges successfully. Developing independence also promotes responsibility and autonomy, setting a strong foundation for future success.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe independence is an essential quality for children to develop at home because it fosters self-reliance, confidence, and decision-making skills that are crucial for their personal growth and future challenges. Encouraging independence helps children become responsible and autonomous individuals, setting a strong foundation for their overall development and success.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I consider independence to be especially important because it helps children develop essential life skills such as self-reliance, confidence, decision-making, and responsibility. Fostering independence at home provides children with a solid foundation for their personal growth and future success, preparing them to navigate challenges confidently and autonomously.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe independence is a crucial quality to encourage at home because it helps children build self-confidence, problem-solving skills, and responsibility. These attributes are fundamental for their personal development and future success, fostering a sense of autonomy that benefits them throughout their lives.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

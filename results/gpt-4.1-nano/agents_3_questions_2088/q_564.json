@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ____. c. National Front (FN)",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "E",
+        "raw_output": "I do not have a personal opinion about the National Front (FN). Based on general knowledge, the National Front has been a controversial political party in France, often associated with nationalist and far-right policies. Public opinion toward it varies widely depending on individual political views, social values, and perceptions of its policies. Without specific survey data or personal bias, I cannot accurately rate my opinion. Given the options and the lack of information, choosing \"DK/Refused\" would be the most appropriate. \n\nANSWER: E",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I do not have a predetermined opinion about the National Front as I do not possess personal beliefs or opinions. However, considering the general perception of the party in recent years, many people tend to view it unfavorably due to its association with nationalist and controversial policies. Given this context, I would lean towards an unfavorable view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "My opinion of the National Front (FN) is that it is very unfavorable due to its history of promoting nationalism and controversial policies. Given the negative perception associated with it, I would choose very unfavorable.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Based on the context provided, the National Front (FN) is generally viewed unfavorably due to its association with nationalist and controversial policies, as reflected in the opinions of the other respondents. Given this collective perception, I would also lean toward an unfavorable view of the party.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "My opinion of the National Front (FN) is that it has historically been associated with nationalist, far-right policies, and public perception tends to view it negatively due to its controversial history and policies. While some individuals may find it favorable, the general societal view is often unfavorable, which aligns with a cautious or critical stance. Therefore, I would select somewhat unfavorable as a balanced reflection of this perspective, acknowledging the controversy but not assuming the strongest negativity.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the nature of the National Front as a controversial and often polarizing party, I do not hold a very favorable opinion due to its associations with nationalist and far-right policies. While I recognize that opinions may vary among individuals, I personally lean towards viewing it unfavorably because of its political stance and history of public perception. Therefore, I would choose a somewhat unfavorable opinion.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My opinion of the National Front is that it has historically been associated with nationalist, far-right policies, and public perception tends to view it negatively due to its controversial history and policies. While some individuals may find it favorable, the general societal view is often unfavorable, which aligns with a cautious or critical stance. Therefore, I would select somewhat unfavorable as a balanced reflection of this perspective, acknowledging the controversy but not assuming the strongest negativity.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Based on the historical context and general public perception of the National Front often being associated with nationalist, far-right, and controversial policies, I tend to view it unfavorably. While some individuals may have a somewhat favorable view, the prevailing sentiment in many regions tends toward disapproval due to the party's reputation and policies. Therefore, I would choose a somewhat unfavorable opinion to reflect a cautious disapproval that recognizes its notoriety without assuming outright strong hostility.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Considering the historical and political context of the National Front (FN), which is often associated with nationalist, far-right, and controversial policies, public opinion tends to lean towards unfavorable assessments. While some individuals may have a more reserved or neutral stance, the prevailing societal perception remains largely negative. Given this, I would choose a position that reflects general skepticism and criticism, aligning with the collective perception of unfavorable views.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

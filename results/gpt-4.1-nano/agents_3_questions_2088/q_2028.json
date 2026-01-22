@@ -1,0 +1,63 @@
+{
+  "question": "How have your perceptions of security changed from the experience of Hurricane Maria?",
+  "options": [
+    "A lot",
+    "Fairly",
+    "Little",
+    "Nothing",
+    "No answer"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The experience of Hurricane Maria was highly impactful and revealed vulnerabilities in infrastructure and emergency preparedness. This led me to become more aware and cautious about safety measures and the importance of community resilience. As a result, my perceptions of security have changed significantly, making me more conscious of how fragile safety can be in such natural disasters.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My perceptions of security have increased significantly because Hurricane Maria exposed vulnerabilities in infrastructure and emergency preparedness, prompting me to be more cautious and vigilant about safety measures. This experience has made me more aware of the importance of being prepared and understanding community resilience. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The experience of Hurricane Maria significantly heightened my awareness of the importance of being prepared and resilient in the face of natural disasters. It made me realize how vulnerable communities can be without proper infrastructure and resources, prompting me to be more cautious and proactive about safety measures. However, over time, some of that initial heightened perception has faded as I have adapted and become more accustomed to the ongoing challenges, but a fundamental awareness remains. Therefore, my perception has changed quite a bit but not entirely, reflecting a fairly significant impact on my sense of security.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perception of security has increased quite a bit after experiencing Hurricane Maria. The event highlighted vulnerabilities in infrastructure and emergency preparedness, which made me more cautious and vigilant about safety measures. Although some initial fears may have lessened over time, the overall awareness and concern about safety and resilience remain significant. This has motivated me to be more proactive in preparation and understanding community resources to better handle future crises.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The experience of Hurricane Maria made me much more aware of safety vulnerabilities and the importance of preparedness. While I can't say my perception has completely changed or remains the same, it definitely increased significantly. I now prioritize safety measures and am more cautious because of what I went through. Considering the options and the degree of change, I feel my perception has shifted quite a bit, but not entirely to the highest level of impact. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My perceptions of security have increased significantly as Hurricane Maria highlighted vulnerabilities and emphasized the importance of preparedness and resilience. This experience has made me more cautious and aware of safety measures needed in such disasters. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "My perceptions of security have definitely become more heightened and cautious as a result of experiencing Hurricane Maria. The event underscored the importance of preparedness, awareness of vulnerabilities, and proactive safety measures, which has led me to prioritize security more than before. While I may not feel an extremely dramatic shift, the change is significant enough to influence my attitude toward safety. Therefore, I select B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "My perceptions of security have become more cautious and vigilant after experiencing Hurricane Maria, as it revealed vulnerabilities and underscored the importance of emergency preparedness. This event prompted me to prioritize safety measures and community resilience, leading to an increased sense of awareness and concern about security. While there may have been some initial fears, overall, my perception has shifted toward greater caution and readiness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perceptions of security have increased significantly after experiencing Hurricane Maria. The event revealed vulnerabilities in infrastructure and emergency response, making me more cautious and prompting me to prioritize safety measures and preparedness. While I don't feel like my perception has completely changed to the highest level, it has certainly shifted quite a bit through this experience. Therefore, I select B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

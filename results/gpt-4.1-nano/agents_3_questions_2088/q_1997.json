@@ -1,0 +1,63 @@
+{
+  "question": "In general, do you think territorial disputes between the Philippines and China are a very big problem, a big problem, a small problem, or not a problem for the Philippines?",
+  "options": [
+    "Very big problem",
+    "Big problem",
+    "Small problem",
+    "Not a problem",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The territorial disputes between the Philippines and China, particularly over the South China Sea, have significant strategic, economic, and security implications for the Philippines. Given the ongoing tensions, occasional confrontations, and the importance of maritime sovereignty, many Filipinos perceive these disputes as a serious issue that could impact national security, access to resources, and regional stability. While some may feel that diplomacy or regional negotiations mitigate the problem, the overall concern remains high due to the potential for conflict or loss of territorial rights.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The territorial disputes between the Philippines and China are a significant issue due to ongoing maritime conflicts, economic interests, and national sovereignty concerns. Many Filipinos view these disputes as a serious problem because they threaten access to resources, impact security, and involve complex diplomatic tensions. However, some may see it as less urgent compared to other pressing domestic issues. Overall, considering the importance and ongoing debates, it is reasonable to categorize it as a big problem for most Filipinos.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The territorial disputes between the Philippines and China, particularly in the South China Sea, have been a significant concern for the Philippines due to sovereignty issues, potential for conflict, and economic implications related to fishing rights and resource exploration. Many Filipinos view this as a serious matter because it affects national security and territorial integrity. While some might see it as manageable or less critical, the general sentiment leans toward considering it a substantial problem that warrants attention and resolution efforts.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The territorial disputes between the Philippines and China, especially in the South China Sea, involve issues of sovereignty, security, and access to vital resources. Given the ongoing tensions, claims, and the potential for conflict, many Filipinos perceive this as a serious national concern that impacts their security and economic interests. While some may consider it less immediate than domestic issues, the overall perception remains that it is a significant problem requiring attention and resolution. Therefore, I believe it is best categorized as a big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The territorial disputes between the Philippines and China over the South China Sea are seen as a significant national security concern, affecting sovereignty and access to resources. The tensions and potential for conflict make this a pressing issue that impacts the stability and future of the country. Given these considerations, I believe this is a very big problem for the Philippines.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the territorial disputes between the Philippines and China represent a significant challenge for the country, given their strategic, economic, and security implications. The ongoing tensions and potential for conflict contribute to the perception that this is a serious problem that affects national sovereignty and regional stability. While diplomacy continues, the concerns remain substantial, making it more than a small or negligible issue. Therefore, I see it as a big problem for the Philippines.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the territorial disputes between the Philippines and China pose a significant challenge to the country's security, sovereignty, and regional stability. The ongoing tensions, potential for conflict, and economic implications highlight that this issue is more than minor or negligible. Therefore, I consider it a big problem for the Philippines.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The territorial disputes between the Philippines and China over the South China Sea involve complex issues of sovereignty, security, and economic access. Given the ongoing tensions, sovereignty concerns, and potential risks of conflict, many Filipinos perceive this as a significant national problem that requires attention from the government. While domestic issues might sometimes take priority, the dispute's implications for national security and territorial integrity make it a substantial concern. Therefore, I consider it a big problem for the Philippines.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the territorial disputes between the Philippines and China are a very serious issue that significantly affect national security, sovereignty, and access to vital resources in the region. Given the ongoing tensions, claims, and potential for conflict, I consider this problem to be very big and deserving of urgent attention. Therefore, I select option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

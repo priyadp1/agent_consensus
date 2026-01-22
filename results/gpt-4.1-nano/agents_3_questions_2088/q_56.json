@@ -1,0 +1,61 @@
+{
+  "question": "If robots and computers were able to do much of the work currently being done by humans, do you think each of the following is likely or not likely to happen in your country as a result? b. Ordinary people would have a hard time finding jobs",
+  "options": [
+    "Yes, likely",
+    "No, not likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over much of the work currently done by humans, it is plausible that many ordinary people might find it more difficult to secure jobs, especially in sectors where automation could replace human labor. This concern is common in discussions about technological unemployment, as job displacement due to automation can lead to increased competition for the remaining jobs, which may require new skills that not everyone has yet acquired. Therefore, I believe it is likely that ordinary people would have a hard time finding jobs as a result of widespread automation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over many jobs currently done by humans, it is reasonable to think that many ordinary people could struggle to find new employment opportunities. Automation often reduces the availability of traditional jobs, especially for those with skills that are easily replaceable by machines, leading to increased unemployment or underemployment. Therefore, it is likely that many individuals would face difficulty securing jobs in such a scenario. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over many jobs currently done by humans, it is plausible that many ordinary people would find it harder to secure employment, especially in sectors where automation replaces human labor. This could lead to increased unemployment and economic insecurity for the general population. While some industries might adapt or create new jobs, the overall impact on employment prospects for ordinary workers could be significant, making it likely they would face difficulties in finding jobs. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over many jobs currently done by humans, it is likely that ordinary people would face difficulties in finding new employment, especially if their skills are easily replaced by automation. This could lead to higher unemployment rates and make job searching more challenging for many individuals. While some sectors might evolve to create new opportunities, the overall impact would probably be a negative one for many workers, making it harder for them to secure jobs. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If robots and computers are capable of performing much of the work currently done by humans, it is reasonable to expect that many ordinary people may face increased difficulties in finding jobs, especially in job sectors that are more susceptible to automation. This could lead to higher unemployment rates and economic challenges for everyday workers, as the job market adjusts to technological changes. Given these considerations, I believe it is likely that ordinary people would have a hard time finding jobs as a result of such automation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that if robots and computers handle much of the current human work, it would be quite likely that many ordinary people would have a hard time finding jobs. Automation has a tendency to replace certain types of jobs, especially those involving routine or manual tasks, which can lead to increased unemployment or difficulty in finding new employment for those whose skills are no longer in demand. While some new opportunities might emerge in other sectors, the overall job market could become more competitive and challenging for many individuals. Therefore, I think it is likely that ordinary people would struggle to find jobs as a result of widespread automation.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over a significant portion of current human jobs, it is plausible that many ordinary people would face difficulties in finding new employment, especially in sectors where routine tasks are prevalent. Automation tends to displace jobs that can be easily codified and mechanized, leading to increased competition in the job market and potential unemployment for those whose skills become less relevant. While some new opportunities might arise in emerging fields, the overall trend suggests that the challenge for ordinary workers would be substantial. Therefore, I believe it is likely that ordinary people would have a hard time finding jobs as a result of such technological advancements.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If robots and computers were able to perform much of the work currently done by humans, it seems quite likely that many ordinary people could face difficulties in finding jobs. Automation tends to replace routine and manual tasks, which can lead to increased unemployment and fewer opportunities for individuals whose skills are no longer in demand. Although new sectors might emerge over time, the transition period could be challenging, making it harder for ordinary people to find employment. Therefore, I believe it is likely that they would have a hard time finding jobs as a result of such technological changes.  \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over a significant portion of current jobs, it is highly probable that many ordinary people will face considerable challenges in finding new employment opportunities, especially those whose skills are easily automatable. This could result in increased unemployment and economic hardship for a large segment of the population, unless adequate measures such as retraining programs are implemented. Based on these considerations, I believe it is likely that ordinary people would have a hard time finding jobs as a result.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

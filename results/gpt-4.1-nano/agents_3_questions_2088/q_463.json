@@ -1,0 +1,62 @@
+{
+  "question": "How much of a danger is the current government in...Syria to stability in the Middle East and world peace? A great danger, moderate danger, small danger, or no danger at all?",
+  "options": [
+    "A great danger",
+    "Moderate danger",
+    "Small danger",
+    "No danger at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The Syrian government under Bashar al-Assad continues to pose a significant risk to regional stability due to ongoing conflict, humanitarian crises, and continued involvement in violent suppression of dissent. Its destabilizing impact extends beyond Syria\u2019s borders, contributing to regional tensions and indirectly affecting global peace, especially given the international involvement and proxy dynamics. While the overall threat may not be as immediate or widespread as other global issues, the persistence of violence and destabilization in Syria elevates the risk level, making it a notable concern for Middle Eastern stability and global peace.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The current government in Syria continues to pose a significant threat to regional stability due to ongoing conflicts, humanitarian crises, and its involvement in regional power struggles. These issues can escalate tensions within the Middle East, potentially destabilizing neighboring countries and complicating international efforts for peace. While the situation may not yet threaten global stability to the same degree as larger conflicts, the instability in Syria remains a concern for broader regional and international security. Therefore, it is reasonable to consider the Syrian government as a moderate danger to stability in the Middle East and world peace.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The current government in Syria can be considered a moderate danger to stability in the Middle East and world peace. While it contributes to regional tensions through its ongoing civil conflict, alliances, and involvement with various factions, the overall threat level is not at the highest end of the spectrum. The situation remains complex and volatile, but international efforts and regional dynamics tend to limit the potential for immediate escalation into a catastrophic threat. Thus, it poses a moderate, rather than great or negligible, danger to broader stability and peace.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The current government in Syria continues to contribute to regional instability through persistent conflict, humanitarian issues, and regional alliances that can exacerbate tensions and threaten peace. While these issues are severe and can influence broader stability, they do not currently pose an immediate or catastrophic threat to global peace on the highest level. Given the ongoing complexities but recognizing that international efforts and regional dynamics somewhat contain the situation, it seems appropriate to categorize the danger as moderate. Therefore, I believe the level of threat is moderate rather than great or negligible.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The current Syrian government remains a significant concern for regional stability and global peace due to ongoing conflict, humanitarian crises, and its involvement in violence and proxy dynamics. While the situation might not threaten worldwide peace at the same level as other major global issues, its destabilizing impact cannot be overlooked. The persistence of violence and the potential for escalation pose a serious risk, warranting a categorization closer to a great danger rather than a moderate or negligible one. Therefore, considering the persistent instability and regional tensions, I believe the government\u2019s threat level is more aligned with a great danger.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The Syrian government under Bashar al-Assad remains a destabilizing force in the region due to ongoing violence, humanitarian crises, and its involvement in regional conflicts. These factors continue to threaten stability in the Middle East and have the potential to impact global peace indirectly through proxy dynamics and regional tensions. While the threat is not entirely global in scope, its persistent nature and regional influence justify considering it a significant concern. Therefore, I believe it poses a moderate danger to stability in the Middle East and world peace.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The current Syrian government continues to pose a considerable challenge to regional and global stability. Its ongoing internal conflict, humanitarian crises, and involvement in proxy wars contribute to persistent tensions in the Middle East. While it may not directly threaten world peace in the same way larger global conflict zones do, its destabilizing influence exacerbates regional conflicts that can have ripple effects beyond the Middle East. The situation's complexity and the potential for escalation justify categorizing it as a great danger rather than a moderate or smaller threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The Syrian government continues to be involved in regional conflicts, humanitarian crises, and alliances that impact stability in the Middle East. While it is a significant source of ongoing unrest and regional tension, the threat to global peace, though serious, appears to be more regional and gradual rather than immediate or catastrophic. Considering these factors, its impact aligns more with a moderate danger level rather than a great or no danger at all. The persistent regional destabilization warrants concern but not an outright classification of a great threat to world peace.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The current Syrian government continues to contribute to regional instability through ongoing conflict, humanitarian crises, and regional alliances that can exacerbate tensions. While these issues have the potential to influence broader stability, they do not currently threaten global peace at an immediate or catastrophic level. External international efforts and regional dynamics help contain the situation, reducing the threat they pose. Therefore, I believe the danger level is moderate.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

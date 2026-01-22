@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Conditions for workers",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Conditions for workers are an important issue because fair and safe working conditions are essential for a healthy and productive workforce. Poor conditions can lead to exploitation, health problems, and decreased overall well-being, which affects not only workers but also the economy and society at large. While it may not be the most urgent problem compared to issues like healthcare or security, it remains a significant concern that needs attention. Therefore, I consider it a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe conditions for workers are a significant issue because fair treatment, safe working environments, and adequate pay are essential for a healthy society and economy. Poor conditions can lead to exploitation, low productivity, and social unrest, making it a pressing concern that deserves serious attention. While not necessarily the topmost problem, it still ranks as a substantial challenge that impacts many people's lives.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe conditions for workers are an important issue in the country, as fair and safe working conditions affect a large segment of the population and contribute to overall social stability. Poor conditions can lead to low morale, health issues, and economic hardship for workers, which in turn impacts families and communities. While it may not be the most urgent problem compared to others like economic stability or healthcare, it still warrants significant concern. Therefore, I would classify it as a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I consider conditions for workers to be a moderately big problem because good working conditions are essential for social stability and workers' well-being. While they are not the most urgent issue compared to other problems like healthcare or economic stability, they still significantly impact people's lives and the country's overall health. Addressing this issue can improve worker morale, health, and productivity, which benefits society as a whole.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe conditions for workers are an important issue because fair and safe working environments are essential for both individual well-being and the overall economy. Poor conditions can lead to health problems, exploitation, and decreased productivity, which can have broader social and economic impacts. While it may not be the most urgent problem compared to issues like security or healthcare, it still needs significant attention. Therefore, I classify it as a moderately big problem.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe conditions for workers are an important aspect of societal well-being because fair and safe workplace conditions are fundamental for both individual health and economic stability. Poor conditions can lead to exploitation, health issues, and social inequality, which can have wider negative impacts on society. While it may not be the most urgent problem compared to issues like security or healthcare, it remains a significant concern that warrants attention and improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe conditions for workers are an important issue because ensuring fair and safe working environments is vital for both individual health and the overall economic stability of the country. Poor working conditions can lead to health problems, exploitation, and social inequality, which have broader negative impacts. While there are other pressing issues, I consider this a moderately big problem that requires attention and improvement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe conditions for workers are an important aspect of social well-being, but they are not currently the most pressing issue facing the country. Ensuring good working conditions can lead to better health, safety, and fairness at work, which significantly benefits both individuals and society. However, other problems like economic stability or healthcare might require more urgent attention at this moment. Therefore, I consider it a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe conditions for workers are a significant issue because ensuring safe and fair working environments is crucial for social equity and economic productivity. When workers face poor conditions, it can lead to health risks and exploitation, which undermine overall societal well-being. While it may not be the top concern compared to other urgent issues like security or healthcare, it still warrants considerable attention to promote fairness and stability in the workforce.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

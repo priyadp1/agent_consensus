@@ -1,0 +1,63 @@
+{
+  "question": "How concerned are you about North Korea having nuclear weapons \u2014 very concerned, somewhat concerned, not too concerned or not at all concerned?",
+  "options": [
+    "Very concerned",
+    "Somewhat concerned",
+    "Not too concerned",
+    "Not at all concerned",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am quite concerned about North Korea having nuclear weapons because it poses a significant threat to regional stability and global security. The potential for escalation or accidental conflict makes this issue particularly worrying, and I believe it is important for the international community to address these concerns seriously.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am very concerned because North Korea's possession of nuclear weapons raises significant regional and global security risks. Such developments can potentially escalate tensions and increase the likelihood of conflict, which I find worrying.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am very concerned about North Korea having nuclear weapons because it raises serious regional security risks and potential threats to global stability. The possibility of nuclear proliferation in the region is alarming, and I worry about the potential for conflict or escalation that could impact many innocent lives. Therefore, I would choose the strongest level of concern.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am very concerned about North Korea having nuclear weapons because it heightens regional tensions and presents serious global security risks. The potential for escalation and conflict is troubling, and I believe it threatens stability not only in the region but worldwide. Considering this, I would choose the highest level of concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am quite concerned about North Korea having nuclear weapons because it poses serious threats to regional and global security. The risk of escalation, proliferation, and potential conflict makes this a pressing issue that needs careful international attention. Given the potential consequences, I would choose the highest level of concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am very concerned about North Korea having nuclear weapons because their possession significantly heightens regional and global security risks, increases the chances of conflict, and could lead to escalation or accidental war. Given the seriousness of these threats, I feel a high level of concern.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am very concerned about North Korea having nuclear weapons because their possession poses significant threats to regional stability and global security. The risks of escalation, accidental conflict, and proliferation are serious, and international efforts to address this issue are crucial. Therefore, I would choose the highest level of concern.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I am very concerned about North Korea having nuclear weapons because their possession significantly increases regional and global security risks, heightens the likelihood of conflict, and raises the possibility of escalation or accidental war. These serious threats make me feel a high level of concern.  \nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am very concerned about North Korea having nuclear weapons because such an arsenal increases regional instability and could potentially lead to conflict or proliferation. The risks posed are significant and threaten global security, making this issue one that warrants serious concern. Given the severity of these threats, I would choose the highest level of concern.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

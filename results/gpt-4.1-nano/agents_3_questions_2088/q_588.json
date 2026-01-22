@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of The al-Nour Party?  ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions. However, the Al-Nour Party is known as an Islamist political organization in Egypt. Public opinion toward the party can vary depending on individual perspectives on its policies, ideological stance, and role in the political landscape. Some people may view it favorably due to its religious and social initiatives, while others may see it unfavorably because of concerns about its ideology or influence. Without specific survey data, it's difficult to assign a definitive opinion. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I do not have personal opinions, but I can provide context. The al-Nour Party is known as a Salafist political organization in Egypt that gained prominence following the 2011 revolution. It has been supported by some segments of the population who favor conservative Islamic values, but it has also faced criticism for its association with conservative and sometimes controversial policies. Public opinion about the party varies widely depending on political and social perspectives. \n\nGiven the diverse views, someone with a neutral or socially skeptical perspective might lean toward a somewhat unfavorable opinion, while supporters would view it favorably. Without specific personal or poll data, it is difficult to assess a general sentiment accurately.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I do not have a personal opinion on the al-Nour Party as I do not possess consciousness or subjective viewpoints. However, from an informational standpoint, the al-Nour Party is a prominent Salafist political organization in Egypt known for its conservative stance and significant influence in the country's political landscape. Public opinions about it tend to vary widely depending on individual political perspectives, religious outlooks, and ideological alignments. Some may view it favorably due to its religious conservatism and political clout, while others might regard it unfavorably because of its ideological stance and the social tensions associated with its platform.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "My perspective on the al-Nour Party's public perception is based on its role as a conservative Islamic organization that has garnered both support and criticism within Egypt. Given the diverse opinions and the controversial nature of its policies, many individuals who are skeptical or opposed to its ideological stance tend to view it unfavorably. Considering this, I believe that the general sentiment leans toward a somewhat unfavorable opinion among the broader population, especially those wary of its influence or policies. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the information provided and aiming to choose an option that reflects a moderate stance based on the diverse opinions described, I believe the most balanced choice is somewhat unfavorable due to concerns about ideology and social tensions but not a very unfavorable or very favorable view. The responses indicate public opinions are mixed, and since I don't have personal opinions, I will select the option suggesting some degree of unfavorable perception.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the context provided, opinions about the al-Nour Party vary depending on individual perspectives, with some supporting its conservative Islamic stance and others criticizing its policies. Given the lack of a personal stance and considering the public debates surrounding the party, I would lean toward a somewhat unfavorable opinion to reflect skepticism or concern about its ideological influence.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the diverse opinions and concerns about the al-Nour Party's ideology and social impact, I find that a somewhat unfavorable view best captures the general skepticism while not indicating strong opposition. The respondents\u2019 perspectives suggest the party is viewed with caution and reservations, but not entirely negatively. Therefore, I choose the option reflecting a moderate unfavorable opinion.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the context provided by other respondents, there appears to be a cautious or skeptical perception of the al-Nour Party, with many leaning toward unfavorable views due to its ideological stance and influence. As such, I would align with this sentiment and choose a somewhat unfavorable opinion, reflecting a critical but not entirely dismissive perspective.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Based on the provided context and the opinions expressed by other respondents, the general perception of the al-Nour Party appears to be somewhat unfavorable. While there may be support among certain groups, skepticism and criticism seem prevalent across the broader population due to ideological differences and controversy surrounding its policies. Therefore, selecting \"somewhat unfavorable\" aligns with the expressed sentiments. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

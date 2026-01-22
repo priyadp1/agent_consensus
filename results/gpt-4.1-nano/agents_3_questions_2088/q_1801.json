@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Poor health care",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it directly affects people's well-being, life expectancy, and quality of life. Adequate health care services are fundamental for a functioning society, and when these are lacking, it causes widespread concern and suffering. Many people in the country struggle to access necessary medical treatments or face high costs, making this issue a top priority for improvement and reform.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it directly affects people's well-being and can lead to higher mortality rates. When health care services are inadequate or inaccessible, it hampers individuals' ability to recover from illness, maintain good health, and reach their full potential. Addressing health care issues is crucial for the overall development and stability of the country. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that poor health care is a very big problem because it affects people's well-being, life expectancy, and overall quality of life. When health services are inadequate, it can lead to preventable deaths and suffering, and it often signals broader issues within the country\u2019s social and economic systems. Adequate health care is fundamental to a functioning society, so issues in this area tend to be perceived as very significant.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it impacts people's health, can cause preventable deaths, and reflects broader social and economic issues. Access to quality health services is essential for a country's overall well-being and development. When health care is inadequate, it affects individuals' ability to live healthy, productive lives and can strain the economy and social stability. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it directly impacts people's health, life expectancy, and overall quality of life. When health care services are lacking or inaccessible, it can lead to preventable suffering and mortality, indicating systemic issues that need urgent attention. Ensuring adequate health care is essential for societal well-being, which makes this issue highly significant.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it directly impacts people's well-being, life expectancy, and access to necessary treatments. When health services are inadequate or too expensive, it leads to suffering and inequality, which can hinder overall societal progress. Addressing this issue is essential for ensuring a healthier and more equitable society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it affects the well-being, longevity, and quality of life of individuals. Access to good health care is fundamental for societal health, and when it is inadequate, it leads to suffering, preventable illnesses, and inequality. Addressing health care issues is crucial for building a healthier and more equitable society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it directly affects people's health, life expectancy, and access to essential treatments. When health services are inadequate or too expensive, it leads to suffering and inequality, hindering societal progress and overall well-being. Ensuring quality health care is fundamental for a stable and productive society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe poor health care is a very big problem because it directly affects people's health, life expectancy, and overall well-being. When access to quality health services is lacking, it leads to preventable suffering and mortality, which reflects deeper systemic issues that need urgent attention. A healthy population is fundamental for social stability and economic growth, so addressing health care shortcomings is crucial for the nation's development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

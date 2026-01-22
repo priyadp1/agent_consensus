@@ -1,0 +1,63 @@
+{
+  "question": "In the long run, do you think that your country's overall economy has been strengthened or weakened by the economic integration of Europe?",
+  "options": [
+    "Strengthened",
+    "Weakened",
+    "Neither (VOL)",
+    "Neither (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the economic integration of Europe has generally strengthened my country's economy over the long term. This is because integration can lead to increased trade opportunities, access to larger markets, and the promotion of stability and investment. Although there might be short-term challenges or certain sectors that face difficulties, the overall benefits tend to foster growth, innovation, and competitiveness in the economy. Therefore, I see the long-term impact as more positive than negative. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Europe's economic integration has generally strengthened my country's economy in the long run. Since integration tends to promote trade, attract investment, and foster cooperation among member countries, it can lead to greater economic growth and stability. Although there may be short-term challenges or sectors that feel disadvantages, the overall trend appears positive. Therefore, I lean toward the perspective that the integration has been beneficial economically for my country over time.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The economic integration of Europe has generally contributed to increased trade, investment, and economic stability among member countries, which can lead to a strengthening of the national economies over time. While there may be short-term adjustments and disagreements, the overall impact tends to be positive in terms of larger markets, shared policies, and economic growth opportunities. Therefore, I believe that Europe\u2019s economic integration has, in the long run, strengthened my country's overall economy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Europe's economic integration has generally strengthened my country's economy in the long run. Integration tends to promote trade, attract investment, and foster cooperation among member countries, leading to greater economic growth and stability overall. While there may be some short-term challenges or sectors that feel disadvantages, the overall trend appears positive and beneficial for my country's economic prospects over time.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the evidence and reasoning provided by other respondents, as well as my own understanding of economic integration effects, I believe that the long-term impact of Europe's economic integration has primarily been to strengthen my country's economy. The access to larger markets, increased trade, and economic stability foster growth, innovation, and competitiveness, outweighing any short-term challenges. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the economic integration of Europe has generally strengthened my country's economy in the long run. The benefits of increased trade, larger markets, and greater stability and investment tend to foster growth and competitiveness. While there may be short-term challenges or sector-specific difficulties, the overall positive trend suggests a long-term strengthening effect. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that in the long run, Europe's economic integration has overall strengthened my country's economy. The advantages of expanded markets, increased trade, and economic stability have contributed positively to growth and competitiveness, outweighing any potential short-term issues. The evidence from other respondents and global economic trends support this view. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Europe\u2019s economic integration has contributed positively to my country\u2019s economic long-term prospects. As many see benefits from increased trade, investment, and market stability, the overall trend seems to be one of strengthening. While short-term challenges exist, the long-term effects appear more advantageous than detrimental. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the perspectives provided and my understanding of economic integration, I believe that Europe's long-term economic integration has primarily contributed to strengthening my country's economy. By accessing larger markets, increasing trade, and fostering economic stability, integration tends to promote growth and competitiveness, outweighing short-term challenges. Overall, the benefits seem to support a positive long-term outlook for my country's economic prospects.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

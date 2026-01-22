@@ -1,0 +1,60 @@
+{
+  "question": "Some people talk about politics in terms of  Nationalism and Islam based politics.  On the ten-point left-right scale on this card, with 1 indicating Nationalism and 10 indicating Islam-based politics, where would you place yourself?",
+  "options": [
+    "Nationalism",
+    "Islam-based politics"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would place myself closer to Islam-based politics because I believe that policies rooted in Islamic values and principles better represent my views on social justice, morality, and community cohesion. I feel that these ideas should have a significant influence on governance and societal organization, aligning me nearer to the higher end of the scale.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would place myself closer to the middle of the scale because I believe in a balanced approach that respects national identity while also recognizing the importance of religious principles in politics. I do not strongly align with either extreme, preferring a position that promotes inclusivity and moderation. Therefore, I see myself as leaning slightly toward the side of nationalism, but not fully on it.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would place myself closer to Islam-based politics because I support policies that emphasize Islamic principles and values in governance and social affairs. I believe that integrating religious considerations into political decision-making can help promote social justice and community cohesion aligned with Islamic teachings. Therefore, I see myself nearer to the higher end of the scale, around 8 or 9. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe my political stance leans more towards emphasizing national identity and sovereignty, with less focus on incorporating religious principles into governance. I value policies that prioritize national interests while maintaining social unity without heavily relying on religious considerations. Therefore, I would place myself closer to the Nationalist side on the scale, around 3 or 4, but I am aware of the nuances and the importance of balanced approaches.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe my political orientation places me nearer to the more inclusive and secular end of the scale, emphasizing national unity, civic nationalism, and social policies that do not necessarily rely on religious frameworks. While I respect religious values, I prefer a separation of religion and state to ensure equal rights for all citizens regardless of faith. Therefore, I would position myself closer to nationalism on the scale, around 2 or 3, rather than Islamic-based politics.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that politics should prioritize national interests and sovereignty while respecting cultural identity. I am inclined towards a focus on nationalism, emphasizing the importance of national unity and independence in political decision-making. Therefore, I place myself closer to the nationalist end of the scale.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe my political orientation aligns more with nationalist principles, emphasizing national unity, civic identity, and secular social policies, rather than an emphasis on religion-based politics. I support a separation of religion and state and prioritize inclusive national interests. Therefore, I place myself closer to nationalism on the scale.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I lean towards emphasizing national identity, sovereignty, and unity without prioritizing religious considerations in politics. My focus is on policies that strengthen national interests and social cohesion, aligning more with nationalism than Islam-based politics.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I lean towards emphasizing national sovereignty and social unity without strongly integrating religious principles into politics. My views align more with a nationalist stance, valuing civic identity and secular governance rather than Islamic-based politics. Therefore, I place myself near the lower end of the scale, similar to other respondents who identify as closer to nationalism.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

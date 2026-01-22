@@ -1,0 +1,62 @@
+{
+  "question": "Do you think relations between the U.S. and China are generally very good, somewhat good, somewhat bad or very bad?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "The relationship between the U.S. and China has become increasingly complex and has faced numerous challenges recently. While there are areas of cooperation, ongoing trade tensions, geopolitical competition, and disagreements on various issues have contributed to an overall strained relationship. This suggests that the relations are more likely to be viewed as somewhat bad rather than very bad, especially considering some cooperation still exists. Therefore, I believe the relationship is best characterized as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The relations between the U.S. and China are complex and multifaceted, involving cooperation on some issues like trade and global health, but also competition and tensions over geopolitical influence, technology, and human rights. Given the ongoing disagreements and international frictions, I would categorize the overall relations as somewhat bad, reflecting a sense that while there are areas of collaboration, significant challenges and mistrust persist, preventing a more positive assessment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "The relationship between the U.S. and China is complex, with periods of cooperation and tension. While there are areas of collaboration, such as trade and climate change initiatives, ongoing disagreements over technology, security, and human rights issues contribute to strained relations. Overall, these currents suggest that relations are more often characterized by challenges rather than warmth, positioning them as somewhat bad rather than very bad, but not at the lowest possible level. Considering this, the most balanced choice reflects a moderately negative perception of the relationship's overall state.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the complexity of the U.S.-China relations, characterized by both cooperation and conflict, the overall assessment appears to lean toward a somewhat negative state. While there are positive interactions in areas like trade and climate change, ongoing tensions over technology, security, and human rights suggest that relations are more challenging than friendly, but not outright hostile at the very worst level. Therefore, I believe the relations are best described as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the recent complexities, ongoing tensions, and disagreements despite some cooperation, I believe that the relationship is more accurately characterized as somewhat bad. While not at the worst end of the spectrum, the persistent challenges and strains indicate a less positive overall perception.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Given the complex nature of U.S.-China relations, with ongoing cooperation in certain areas but significant tensions in others, I believe that the overall relationship can best be described as somewhat bad. While both sides engage in \ud611\ub825, geopolitical, trade, and human rights issues contribute to persistent frictions, preventing a more positive assessment. Therefore, I choose the option that reflects these nuanced realities.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing tensions, disagreements, and challenges in various areas such as trade, geopolitics, and human rights, the overall relationship seems to be more strained than positive. While there may be some cooperation in certain domains, the persistent issues overshadow these efforts, leading to a generally unfavorable perception. Therefore, I believe the relations are best described as somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing tensions and conflicts in areas such as trade, technology, security, and human rights, coupled with some cooperation in other fields like climate change, the relationship between the U.S. and China remains complex and somewhat strained. Given this nuanced reality, I believe the best description is somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the overall dynamics of U.S.-China relations, while there are areas of cooperation such as climate and trade, the ongoing disputes over technology, security, and human rights contribute to a state of tension and conflict. These persistent issues suggest that the relationship is more strained than friendly but has not deteriorated to the point of being very bad. Therefore, I believe relations are best characterized as somewhat bad.  \nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

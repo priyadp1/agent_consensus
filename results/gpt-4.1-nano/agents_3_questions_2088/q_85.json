@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way President Barack Obama is dealing with...the world economic crisis.",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "During Barack Obama's presidency, he took a series of measures aimed at stabilizing the global economy and stimulating recovery following the 2008 financial crisis. His administration prioritized bailouts for distressed industries, quantitative easing, and international cooperation to address the economic downturn. While some praised these efforts for preventing a deeper recession and promoting recovery, others criticized the long-term effects and perceived insufficient action. Overall, his approach was seen by many as measured and proactive in dealing with the crisis. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of how President Barack Obama handled the world economic crisis because his administration took significant steps to stabilize the financial system, such as passing the American Recovery and Reinvestment Act, which helped boost economic growth and save jobs. His leadership aimed to restore confidence and prevent a deeper recession, earning broad support at the time.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I find it challenging to fully assess President Obama's management of the world economic crisis without considering the complexities and various opinions surrounding his policies. However, during his tenure, he implemented significant measures such as the stimulus package and financial regulations aimed at stabilizing the economy and promoting recovery. These efforts received mixed reactions, but many viewed them as necessary steps to address a severe global downturn.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of President Obama's approach to managing the world economic crisis because his administration took decisive measures such as the stimulus package to stabilize the economy, save jobs, and restore confidence. These actions were crucial in addressing the severe downturn and are generally viewed as effective and necessary by many experts and policymakers. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of President Obama's approach to dealing with the world economic crisis. His administration took proactive measures such as the stimulus package, financial reforms, and international cooperation to stabilize the economy and promote recovery after the 2008 financial downturn. While opinions may vary, the overall effort to prevent a deeper recession and stimulate growth appears to be a responsible and necessary response.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of how President Barack Obama handled the world economic crisis because his administration implemented effective measures such as the American Recovery and Reinvestment Act, which helped stabilize the economy, promote recovery, and prevent a deeper recession. His proactive approach and international cooperation demonstrated strong leadership during a challenging period.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of how President Barack Obama handled the world economic crisis because his administration took decisive and proactive steps such as implementing the stimulus package and financial reforms to stabilize the economy. These measures, along with international cooperation, demonstrated strong leadership aimed at recovery and preventing further recession. Given the effectiveness of these actions during a challenging economic period, I believe his approach was responsible and necessary.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of President Obama's approach to handling the world economic crisis because he implemented significant measures like the stimulus package and the American Recovery and Reinvestment Act, which successfully stabilized the economy, saved jobs, and demonstrated strong leadership during a very challenging period. His proactive strategy and international cooperation helped prevent a deeper recession and fostered recovery, which many experts and policymakers viewed positively.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of President Obama's approach to managing the world economic crisis because his administration implemented decisive measures such as the stimulus package, financial reforms, and international cooperation aimed at stabilizing the economy, saving jobs, and promoting recovery. These actions were widely viewed as responsible and necessary responses to the severe economic downturn, reflecting a proactive effort to prevent a deeper recession and restore confidence.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

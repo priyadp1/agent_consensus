@@ -1,0 +1,61 @@
+{
+  "question": "Which one of the following worries you most about Islamic identity in our country today?  It can lead to violence; it can lead to a loss of personal freedoms; it will prevent Muslims from integrating into our society.",
+  "options": [
+    "It can lead to violence",
+    "It can lead to a loss of personal freedoms",
+    "It will prevent Muslims from integrating into our society"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am most concerned about the potential for violence arising from issues related to Islamic identity in our country. Violence can cause widespread harm, fear, and instability within society, and I believe that preventing violence should be a top priority to maintain peace and safety for all citizens. While concerns about personal freedoms and integration are important, the immediate threat of violence has the most destructive consequences.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the primary concern is that Islamic identity could lead to violence, which affects public safety and social cohesion. When fears of violence are involved, they tend to overshadow other issues because they threaten the safety of all community members and can foster fear, discrimination, and social fragmentation. While loss of personal freedoms and integration are also valid concerns, the potential for violence has immediate and far-reaching implications that many people find most alarming. Therefore, safeguarding societal peace becomes the foremost worry in this context.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the concern about violence is the most pressing, as it directly threatens public safety and can escalate tensions within society. When fears of violence arise, it can lead to further polarization and insecurity among all community members. While loss of personal freedoms and integration issues are also significant, they tend to be less immediate and urgent compared to the potential for violence. Addressing the risk of violence is crucial to maintaining social stability and ensuring that fears do not escalate into harmful actions or policies. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the concern about violence is the most pressing because it poses an immediate threat to public safety and social cohesion. When violence is feared or occurs, it can lead to widespread fear, discrimination, and social fragmentation, affecting all members of society. Addressing the potential for violence is essential to prevent escalation and maintain societal stability, which may have a more urgent and tangible impact than issues related to personal freedoms or integration. Therefore, I choose A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the most concerning issue is the potential for violence arising from Islamic identity in our country. Violence has immediate and far-reaching consequences, including harm to individuals, community stability, and social harmony. The threat of violence can also lead to fear and social unrest, which can overshadow other issues like personal freedoms or integration challenges. Ensuring safety and preventing violence should take precedence as it directly impacts the wellbeing of all citizens and the overall stability of society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am most worried about the potential for violence stemming from issues related to Islamic identity. Violence can have immediate and devastating impacts on safety, social stability, and peace within the community. Addressing and preventing violence is crucial because it poses a direct threat to societal well-being, often taking precedence over other concerns such as personal freedoms or integration difficulties. Ensuring safety and preventing conflict should be the primary focus to maintain a harmonious society.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the most pressing concern regarding Islamic identity in our country is the potential for violence. Violence directly threatens the safety and security of individuals and communities, leading to social unrest and undermining social cohesion. While loss of personal freedoms and integration challenges are important issues, the immediate harm and instability caused by violence make it the most urgent concern that needs to be addressed to ensure societal well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I am most concerned that Islamic identity could prevent Muslims from integrating into our society. While safety and personal freedoms are important, the long-term cohesion and social harmony depend heavily on successful integration. If Muslims are not able to fully participate and feel accepted, it could foster division and misunderstanding, which might lead to social fragmentation and hinder community development. Promoting unity and inclusion appears essential for fostering mutual respect and a resilient society. Therefore, I choose C.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am concerned primarily about the potential for violence. While personal freedoms and integration are important issues, the immediate threat of violence can cause widespread harm, fear, and destabilization within society. Ensuring safety and preventing violence seems to be the most urgent priority to protect social cohesion and maintain peace. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

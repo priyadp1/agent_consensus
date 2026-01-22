@@ -1,0 +1,62 @@
+{
+  "question": "Here is a list of groups, organizations and institutions. For each, please tell me what kind of influence the group is having on the way things are going in our country.  Is the influence of (ethnic group- Hausa) very good, somewhat good, somewhat bad or very bad in our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The Hausa are one of the major ethnic groups in our country, with significant influence in social, political, and economic spheres. Their contributions have been vital in various sectors, and many see their influence as beneficial for national development, unity, and stability. While some may have concerns about regional representation or political power, overall, the influence is perceived positively by many as it fosters diversity and enriches the cultural fabric of our nation. Therefore, I believe their influence is very good.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The Hausa ethnic group is one of the largest and most influential in Nigeria, with significant cultural, political, and economic contributions. Their influence can be seen in various sectors, including commerce, politics, and religion, which can have both positive and negative implications depending on perspectives. Generally, their active participation has helped shape the country's development and stability, though there may also be tensions or challenges associated with ethnic diversity. Considering these nuances, their influence tends to be viewed as positive overall in fostering national cohesion and progress.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The Hausa ethnic group is one of the largest and most influential groups in our country, with significant cultural, economic, and political contributions. Many believe that their influence helps promote stability, economic development, and cultural diversity. However, some also perceive that certain political or social tensions associated with the group can lead to conflict or favoritism, which might undermine national cohesion. Overall, considering the contributions and challenges, their influence is viewed by many as generally positive but with areas needing improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The influence of the Hausa ethnic group in our country appears to be largely positive, as they contribute significantly to cultural, political, and economic sectors, helping to promote stability and development. While there may be some tensions, the overall perception is that their influence fosters national cohesion and progress. Therefore, I believe their impact is generally good, with some complexity involved. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The influence of the Hausa in our country is largely positive, as they are one of the major ethnic groups contributing significantly to social, political, and economic development. Their efforts help promote stability, cultural diversity, and progress. While there are some concerns about regional representation or tensions, these do not overshadow their overall beneficial impact. Considering the widespread contributions and the generally constructive influence, I believe their influence is very good.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The Hausa ethnic group has a significant and historically influential presence in Nigeria, contributing to various aspects of social, political, and economic life. Their influence generally promotes cultural diversity and has played a role in fostering stability and development. While there can be regional or political tensions, overall, their contributions are viewed positively by many, supporting national unity and progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The influence of the Hausa seems to be largely positive, given their significant contributions to social, political, and economic development, as well as their role in promoting stability and cultural diversity. While there may be some regional or political tensions, these do not appear to outweigh their overall beneficial impact. Therefore, I believe their influence is very good.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The influence of the Hausa ethnic group in our country is generally seen as positive because they contribute significantly to various sectors, promote cultural diversity, and support stability and development. While there may be some tensions or regional differences, the overall perception is that their impact fosters unity and progress. Based on this assessment, I believe their influence is more aligned with being somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the influence of the Hausa in our country is largely positive because they play a significant role in various sectors such as culture, politics, and the economy. Their contributions help promote stability, development, and cultural diversity, which are beneficial for the nation's progress. While there might be some regional or social tensions, these do not overshadow their overall constructive impact. Therefore, I think their influence is very good. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

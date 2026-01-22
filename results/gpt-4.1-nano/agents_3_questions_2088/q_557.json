@@ -1,0 +1,62 @@
+{
+  "question": "Overall, how much influence do you think Turkey is having on the way things are going in your country? Would you say it is having a great deal of influence, a fair amount, not too much, or no influence at all?",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "No influence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Turkey's influence on my country is moderate, primarily due to economic and geopolitical relationships, but it does not dominate our domestic affairs. While Turkey interacts with us through trade, diplomacy, and cultural exchanges, it doesn't significantly determine our policies or societal direction. Therefore, I think it has a fair amount of influence but not a great deal. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Turkey has a fair amount of influence on the way things are going in my country because the two nations have economic, political, and cultural ties that are significant but not dominant. While Turkey's role is noticeable, it does not seem to directly shape major policies or national developments to a great extent. Therefore, I would choose a moderate level of influence rather than a very high or negligible one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Turkey has a significant influence due to its regional involvement and diplomatic relationships, which can affect economic and political decisions in my country. While it might not dominate entirely, the impact is notable enough to shape certain policies or public opinion. Therefore, I would choose a fair amount of influence, reflecting a moderate but meaningful role.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Based on the information provided, I perceive Turkey's influence as moderate, given its regional involvement and the tangible yet not overwhelming impact on my country's political, economic, and cultural spheres. It appears that Turkey's role is felt but does not dominate or significantly alter the course of my country's affairs. Therefore, I would select a fair amount of influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Turkey's influence in my country is moderate, stemming from economic, diplomatic, and cultural interactions that shape certain policies and public perspectives. While it is not a dominant force, its regional involvement and relationships do have a tangible impact, influencing decision-making processes to some extent. Therefore, I would choose a fair amount of influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Turkey's influence on my country is moderate, as there are notable economic, diplomatic, and cultural interactions that affect certain aspects of our society and policies. However, it does not hold a dominant or controlling role in shaping our overall direction, so I would categorize its influence as a fair amount. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Turkey wields some influence on my country, but it is not overwhelming or controlling. Its economic, diplomatic, and cultural interactions create a tangible impact that affects certain policies and perceptions, but it does not dominate or significantly steer the overall course of my country. Therefore, I would categorize its influence as a fair amount.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe Turkey's influence on my country is relatively limited, primarily felt through cultural exchanges, occasional economic interactions, and diplomatic ties. While these connections are present, they do not significantly shape or alter our country's policies, societal development, or political landscape. Therefore, I would categorize Turkey's influence as not too much.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Turkey's influence in my country is moderate, primarily through regional economic ties, diplomatic relations, and cultural exchanges that have some impact on policies and public opinion. While it is noticeable and relevant, it does not seem to dominate or significantly alter the main trajectory of my country's affairs. Therefore, I would select a fair amount of influence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

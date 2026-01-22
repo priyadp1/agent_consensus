@@ -1,0 +1,60 @@
+{
+  "question": "Regardless of how you feel about the U.S. military operation, do you think it is a good thing or a bad thing that Osama bin Laden is dead?",
+  "options": [
+    "Good",
+    "Bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The death of Osama bin Laden is generally viewed as a significant symbolic victory in the fight against terrorism. Many people see it as a step toward justice for the victims of 9/11 and a potential reduction in threats posed by terrorist organizations. While it does not eliminate all dangers or address underlying issues, acknowledging the death of such a notorious figure is often considered a positive development for security and justice.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Osama bin Laden was responsible for numerous terrorist attacks that caused widespread suffering and loss of innocent lives. His death was viewed by many as a step toward justice and a reduction in the threat of terrorism. Therefore, regardless of opinions about the military operation itself, the fact that he is no longer alive can be seen as a positive development in terms of security and justice. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people view the death of Osama bin Laden as a significant symbolic victory in the fight against terrorism, as it marked the end of a notorious figure responsible for numerous attacks. While some may have reservations about the methods used or broader implications, the general consensus is that eliminating a major threat is a positive development for national and global security. Therefore, considering the importance of justice and security, it is seen as a good thing.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the death of Osama bin Laden is a positive development because it represents justice for the victims of his actions and reduces the threat of future terrorist attacks. While concerns about the methods used or broader consequences may exist, the immediate impact on security and justice makes it a good thing overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the death of Osama bin Laden is a positive development because it symbolized a major victory in the fight against terrorism and brought a sense of justice for many victims of his actions. While it didn't eliminate all threats, removing such a notorious figure can contribute to increased security and serve as a moral and psychological victory. Therefore, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the death of Osama bin Laden is ultimately a positive development because it signifies justice for the victims of his terrorist acts and helps reduce the threat of terrorism. While it doesn't solve all issues related to extremism, acknowledging his death as a step forward in security and justice aligns with the general consensus that it is a good thing.  \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the death of Osama bin Laden was a significant symbolic victory in the fight against terrorism and brought a sense of justice for many victims. While it does not eliminate all threats or extremism, it is an important step toward increased security and moral victory in the broader context of counterterrorism efforts. Therefore, I think it is a good thing.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the death of Osama bin Laden is a positive development because it delivers a sense of justice for the victims affected by his actions and helps in reducing the threat of terrorism. While there may be broader issues to address, his death is generally viewed as a step forward for security and justice. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the death of Osama bin Laden is a positive development because it signifies justice for victims and reduces the threat of terrorism. While there may be complex implications, the immediate impact on security and the symbolic importance of removing a notorious figure make it a good thing overall. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

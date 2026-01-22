@@ -1,0 +1,62 @@
+{
+  "question": "Do you think China's hosting of the Olympics will be very successful, somewhat successful, somewhat unsuccessful, or very unsuccessful?",
+  "options": [
+    "Very successful",
+    "Somewhat successful",
+    "Somewhat unsuccessful",
+    "Very unsuccessful"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "China has invested heavily in infrastructure, security, and organizing efforts for the Olympics, which increases the likelihood of a successful event. While there are always challenges involving logistics, international relations, and public perceptions, the country's extensive preparations suggest a strong effort toward success. Therefore, I believe the Olympics will be quite successful, though not necessarily perfect. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on previous Olympic events hosted by China, such as the Beijing 2008 Olympics and the Beijing 2022 Winter Olympics, the country's organizational capabilities, infrastructure, and international cooperation have generally been impressive. While unforeseen challenges may arise, China's experience and resources suggest that the hosting of the Olympics is likely to be quite successful. Therefore, I believe the most appropriate assessment is that China's hosting of the Olympics will be very successful.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "China has invested significant resources into hosting the Olympics, aiming to showcase its capabilities and promote international goodwill. Given the country's strong organizational skills and robust infrastructure development, it is likely that the Olympics will be executed successfully, though there may still be challenges such as logistical hurdles or international perceptions that could slightly impact the overall success. Therefore, I believe the event will be quite successful, but perhaps not without some minor issues.\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering China's past experience successfully hosting large-scale international events like the Beijing 2008 Olympics and the Beijing 2022 Winter Olympics, along with their substantial investment in infrastructure and organizational capacity, it is reasonable to expect that their current hosting efforts will also be quite successful. While some minor challenges may occur, the overall evidence suggests a high likelihood of success.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given China's significant investments in infrastructure, security, and organizational efforts, along with their demonstrated capacity to handle large international events, it seems likely that the Olympics will be quite successful. While challenges may arise, the overall preparedness suggests a high likelihood of success. Therefore, I believe the event will be quite successful, though not without some minor issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering China's extensive investments in infrastructure, security, and organizational efforts, along with their prior successful hosting of the 2008 Summer Olympics and the 2022 Winter Olympics, it is reasonable to expect that the current Olympics will also proceed smoothly and be quite successful. While unforeseen issues can always occur, China's proven capacity to manage large-scale international events suggests a high likelihood of success.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Given China's strong track record of hosting large international events successfully, extensive investments in infrastructure and organization, and past successes with the Olympics in 2008 and 2022, it is reasonable to expect that the current Olympics will also be very successful. While unforeseen challenges are always possible, China's demonstrated capacity and preparation suggest a high likelihood of positive outcomes. Therefore, I believe the Olympics will be very successful.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given China's demonstrated capability through previous successful hosting of the 2008 Summer Olympics and the 2022 Winter Olympics, along with their significant investments in infrastructure, security, and organizational capacity, it is reasonable to anticipate that their current Olympic hosting will also be successful. Although minor challenges may arise, China's experience suggests a high probability of positive outcomes and effective management of the event.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering China's proven track record in successfully hosting major international events like the Beijing 2008 Olympics and the 2022 Winter Olympics, along with their significant investments in infrastructure, organizational capacity, and security, there is a strong basis to believe that the upcoming Olympics hosted by China will also be quite successful. While minor challenges could occur, the overall preparedness and experience suggest a high likelihood of success. Therefore, I believe the Olympics will be quite successful, though it may face some minor issues.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

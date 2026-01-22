@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about the United Nations, what kind of influence is the UN having on the way things are going in your country.   Is the influence of the UN very good, somewhat good, somewhat bad or very bad in your country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the UN's influence in my country has been somewhat good. It has helped foster international cooperation and provided aid during crises, which benefits the population. However, there are limitations to its effectiveness in addressing all domestic issues fully, and some policies or initiatives may not always align perfectly with local needs. Overall, the UN plays a positive role, but its impact is not entirely without challenges or criticisms.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the UN has played a positive role in my country by promoting peace, development, and cooperation on global issues. Its efforts have helped improve international relations, provide humanitarian aid, and support sustainable growth. While there may still be challenges and areas where its influence could be stronger, overall, the UN's impact appears to be beneficial rather than harmful. Therefore, I would say its influence is somewhat good. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations has played a positive role in my country by promoting peace, development, and human rights. Its efforts in providing humanitarian aid and facilitating international cooperation have contributed to improvements in several sectors. While there are still challenges and areas where the UN's influence could be more effective, overall, its impact has been beneficial. Therefore, I would rate the influence as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the UN has a generally positive influence in my country by promoting peace, development, and human rights. Its efforts in humanitarian aid, international cooperation, and sustainable growth have contributed to improvements across various sectors. While challenges remain and there is room for greater effectiveness, I see the overall impact as beneficial, making it a somewhat good influence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the UN's influence in my country has been generally positive, especially in fostering peace, supporting development initiatives, and providing humanitarian aid during crises. While there are still limitations and areas for improvement, overall the impact helps improve living conditions and promote international cooperation. Therefore, I would rate the influence as somewhat good.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the UN's influence in my country has been somewhat good. It has contributed positively by promoting international cooperation, supporting humanitarian efforts, and encouraging sustainable development. While there are limitations to its effectiveness on domestic issues, overall, its role seems beneficial and helps improve the global standing and stability of my country. Therefore, I see its impact as largely positive, though not perfect.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the UN's influence in my country is somewhat good because it plays a significant role in promoting peace and development, especially through humanitarian aid and international cooperation. While there are some shortcomings and areas needing improvement, overall, its involvement tends to have a positive impact on social and economic conditions. Therefore, I see its influence as largely beneficial, but not without limitations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the UN plays a valuable role in my country by fostering international cooperation, supporting development projects, and promoting peace and human rights. While it is not perfect and faces some limitations, its overall influence appears to be positive and beneficial to societal progress. Therefore, I view its impact as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United Nations has a mostly positive influence in my country through its efforts to promote peace, human rights, and sustainable development. While it faces challenges and cannot solve all issues completely, its role in supporting humanitarian aid and fostering international cooperation has generally been beneficial, although there are areas where it could improve. Therefore, I would rate the influence as somewhat good.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Do you think ____ plays a more important role in the world today compared to 10 years ago, a less important role, or about as important a role in the world as it did 10 years ago? d. Germany",
+  "options": [
+    "More important role",
+    "Less important role",
+    "As important as 10 years ago",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Germany has been a key player in global politics, economics, and technological innovation over the past decade. Its role in the European Union, its leadership in renewable energy initiatives, and its economic influence have increased or remained significant, especially as geopolitical tensions and global challenges have grown. Therefore, I believe Germany plays a more important role in the world today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Germany has increasingly played a significant role in European and global affairs over the past decade, especially in areas such as economic influence within the European Union, technological innovation, and climate initiatives. Its leadership in the EU and involvement in global discussions on security and trade have elevated its importance on the world stage. While traditional military power has been less emphasized compared to other nations, Germany's economic strength and diplomatic influence have grown, making it more central to international affairs than it was ten years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Germany has played a more significant role in the global economy and politics over the past decade, especially with its leadership within the European Union and its influence in international trade. Its response to global issues such as climate change and economic recovery efforts after crises has also increased its prominence. Therefore, I believe Germany plays a more important role in the world today than it did 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Germany plays a more important role in the world today compared to 10 years ago. Over the past decade, Germany has strengthened its influence in global economic and political spheres, especially through its leadership within the European Union and its active engagement in international issues like climate change and security. Its economic resilience and diplomatic initiatives have increased its prominence on the world stage, making it more central than it was a decade ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Germany has increasingly played a pivotal role in European and global affairs, especially with its leadership in economic recovery, technological innovation, and renewable energy. Its influence within the European Union and its strategic responses to global challenges suggest that its importance has grown over the past decade. Therefore, I believe Germany plays a more important role in the world today compared to 10 years ago.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Germany plays a more important role in the world today compared to 10 years ago. Over the past decade, Germany has strengthened its influence within the European Union, taken leadership in renewable energy and climate initiatives, and expanded its role in global economic and diplomatic affairs. Despite shifting military focuses, its economic resilience and international cooperation have increased, making its presence more significant on the global stage now.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Germany plays a more important role in the world today compared to 10 years ago. Over the past decade, Germany has increased its influence within the European Union through economic leadership, especially in areas like renewable energy and climate policy. Its strategic positioning and diplomatic efforts have bolstered its global presence, making it more significant in international affairs than before.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Germany plays a more important role in the world today compared to 10 years ago. Over the past decade, Germany has increased its influence through leadership in the European Union, commitments to climate change initiatives, and strengthening its economic position globally. Its proactive diplomatic efforts and resilience in facing international challenges have elevated its prominence on the world stage.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Germany plays a more important role in the world today compared to 10 years ago. Over the past decade, Germany has taken on a more prominent leadership position within the European Union, especially in economic recovery efforts, climate policy, and international diplomacy. Its resilience, technological advancements, and strategic initiatives have increased its influence on the global stage, making it more central than it was a decade ago.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

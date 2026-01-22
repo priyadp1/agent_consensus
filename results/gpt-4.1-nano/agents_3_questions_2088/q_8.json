@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me how worried you are about each of the following issues related to Muslims living in your country...extremism among Muslims...Are you very worried, somewhat worried, not too worried, or not at all worried about extremism among Muslims?",
+  "options": [
+    "Very worried",
+    "Somewhat worried",
+    "Not too worried",
+    "Not at all worried"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that concerns about extremism among Muslims should be approached with nuance and an emphasis on understanding the diversity within any community. While it is important to remain vigilant and address security issues proactively, overgeneralization can foster fear or discrimination. Personal worries may vary based on information, experiences, and societal context, but I think most people should not be overly worried as that can lead to unfair stigmatization. Therefore, I am somewhat worried but recognize the importance of measured responses and community cohesion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about extremism among Muslims. While I recognize the importance of promoting understanding and integration, history and recent events have shown that extremism in any community can pose a threat to social harmony and security. Therefore, it\u2019s prudent to be attentive and proactive in addressing such issues without generalizing or stigmatizing an entire group. My concern is moderate, reflecting both caution and a desire for peaceful coexistence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about extremism among Muslims because while the vast majority of Muslims live peacefully and reject violence, there are occasional extremist groups that promote radical views. It is important to be vigilant and address any potential threats, but it is equally important not to generalize or stigmatize entire communities based on the actions of a few. Therefore, I feel a moderate level of concern, recognizing both the importance of security and the need to respect religious diversity.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about extremism among Muslims. While I believe most Muslims are peaceful and reject violence, history and recent events have demonstrated that extremism can emerge from any community, and such threats require vigilance. It's important to address these concerns without unfairly stigmatizing individuals based on their faith, promoting understanding and security simultaneously. My concern reflects a balanced approach, acknowledging potential risks while respecting religious diversity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that concerns about extremism among Muslims should be approached with nuance and an understanding of the diversity within the community. While I acknowledge the importance of remaining vigilant against security threats, I also recognize that the vast majority of Muslims live peacefully and reject violence. Overgeneralizing or stigmatizing an entire group based on the actions of a few can lead to discrimination and social division. Therefore, I am somewhat worried but also aware of the need for measured responses that balance security with respect for religious diversity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe it is important to remain cautious and attentive to security concerns associated with extremism, but I also recognize the importance of avoiding overgeneralization and stigma against entire communities. Considering recent events and the need for balanced vigilance, I feel somewhat worried but not overly so, as fostering understanding and avoiding discrimination are also crucial. Therefore, I choose an answer that reflects moderate concern.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that while it is important to be vigilant about security issues related to extremism, the vast majority of Muslims are peaceful and do not support violence. Overreacting or stigmatizing an entire community can lead to social division and discrimination. A balanced approach that recognizes these facts warrants a moderate level of concern. Therefore, I choose a somewhat worried stance to reflect cautious vigilance without undue alarm.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe it is important to stay vigilant about extremism and recognize that, while most Muslims are peaceful, extremism can happen in any community. My concern is moderate, reflecting the need for careful attention without overgeneralization. It is crucial to balance security measures with respect for religious diversity and avoid stigmatization. Therefore, I am somewhat worried but do not see this as an urgent or overwhelming issue in my perspective.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about extremism among Muslims. While I believe most Muslims are peaceful and oppose violence, the existence of extremism in any community is a concern that warrants vigilance. I appreciate the importance of avoiding stereotypes and promoting understanding, but I also recognize the need for security measures to prevent potential threats. My concern is balanced and reflects a cautious attitude that respects religious diversity while acknowledging risks.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "And thinking about some political leaders and organizations in our country, please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Abdel Fattah el-Sisi? ",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Fattah el-Sisi. While I acknowledge his efforts in maintaining stability and some development initiatives in Egypt, I am also aware of concerns regarding human rights issues and political freedoms under his leadership. Therefore, my view is moderate rather than strongly positive or negative.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Fattah el-Sisi because, while I acknowledge some of his efforts to improve Egypt's infrastructure and stability, I also recognize concerns about human rights issues and political freedoms during his tenure. This mixed view leads me to lean towards a moderate positive impression rather than a very favorable or unfavorable one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My opinion of Abdel Fattah el-Sisi is somewhat unfavorable because while some may appreciate the stability he has provided, concerns about human rights issues, political repression, and lack of democratic reforms often lead to a less favorable view among certain segments of the population. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have some reservations about Abdel Fattah el-Sisi due to concerns over human rights issues, political repression, and lack of democratic reforms, despite recognizing his efforts to improve stability and infrastructure. These factors lead me to a somewhat unfavorable opinion rather than a very unfavorable or favorable one.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Fattah el-Sisi. I recognize his efforts in maintaining stability and implementing development projects in Egypt, but I also have concerns about human rights and political freedoms under his leadership. Therefore, my view is moderate rather than strongly positive or negative.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Fattah el-Sisi. While I appreciate his efforts to maintain stability and improve infrastructure in Egypt, I am concerned about ongoing issues related to human rights and political freedoms under his leadership. Therefore, I do not feel strongly positive or negative, but lean towards a moderate view.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Fattah el-Sisi. I recognize his efforts in maintaining stability and advancing development in Egypt, but I also remain concerned about issues related to human rights and political freedoms under his leadership. My view is moderate, neither strongly positive nor negative.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have some reservations about Abdel Fattah el-Sisi due to concerns over human rights issues, political repression, and lack of democratic reforms, despite recognizing his efforts to improve stability and infrastructure. These factors lead me to a somewhat unfavorable opinion rather than a very unfavorable or favorable one.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Abdel Fattah el-Sisi. While I acknowledge his efforts to improve stability and develop infrastructure in Egypt, I also have concerns about human rights issues and the lack of democratic reforms under his leadership. This balanced view leads me to choose a somewhat favorable perspective rather than very favorable or unfavorable.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Has each of the following gotten better or worse over the last five years in our country: the spread of diseases.",
+  "options": [
+    "Better",
+    "Worse",
+    "Has not changed"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the spread of diseases in our country has generally worsened, primarily due to the emergence of new infectious diseases such as COVID-19, which led to widespread outbreaks and overwhelmed healthcare systems. While there have been improvements in disease prevention and vaccination efforts, the overall impact of these health crises highlights that the situation has not improved and, in some cases, has deteriorated, especially in terms of controlling the rapid spread of illnesses during global health emergencies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the spread of diseases has generally worsened in many countries, partly due to the emergence of new infectious agents like COVID-19, global travel increasing the spread of illnesses, and variations in healthcare access and vaccination coverage. While some regions have made improvements through better public health measures, overall, the world has experienced significant challenges in controlling disease outbreaks, leading to an overall perception that the situation has deteriorated rather than improved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In the last five years, the spread of diseases has generally worsened, particularly due to the COVID-19 pandemic, which caused a global health crisis and highlighted vulnerabilities in disease prevention and control measures. While some regions have improved their healthcare responses, the overall proliferation and unpredictable nature of new infectious diseases suggest that, on a national scale, the situation has not improved and may have become more challenging. Consequently, the evidence points to a worsening trend in the spread of diseases over this period.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the spread of diseases has faced significant challenges, especially with the emergence of COVID-19, which led to a global health crisis. Despite some improvements in certain regions, the overall difficulty in controlling infectious diseases and the increased frequency of pandemics suggest that the situation has deteriorated rather than improved. Therefore, I believe the spread has gotten worse in our country during this period. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the spread of diseases has been significantly impacted by the COVID-19 pandemic, which caused widespread outbreaks and exposed vulnerabilities in health systems. While there have been advances in treatments and vaccines, the overall trend indicates increased challenges in controlling the rapid spread of infectious diseases and managing emergent health crises. Therefore, the situation has generally worsened.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the spread of diseases in our country has faced significant challenges, notably due to the COVID-19 pandemic which caused widespread outbreaks and overwhelmed healthcare services. Although there have been advancements in vaccination and public health responses, these efforts have not fully contained the rapid spread of infectious diseases. Overall, the situation appears to have worsened rather than improved in terms of controlling disease transmission at the national level.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the COVID-19 pandemic has significantly impacted the spread of diseases in our country. Despite advances in vaccines and treatments, the pandemic highlighted vulnerabilities in healthcare systems and led to widespread outbreaks, indicating that controlling the spread of infectious diseases has been more challenging than before. While some progress has been made, the overall trend points to a worsening situation in terms of managing disease transmission.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the global health landscape has been significantly affected by the COVID-19 pandemic, leading to increased scrutiny of disease spread. While there have been advances in vaccination, public health infrastructure, and awareness, these efforts have not completely contained or reduced the spread of infectious diseases nationally. The challenges posed by new variants, waves of infections, and strained healthcare systems suggest that the situation has, on balance, worsened in terms of controlling disease transmission.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past five years, the COVID-19 pandemic highlighted how quickly infectious diseases can spread and overwhelmed health systems worldwide. Although vaccines and treatments have improved, new variants and the ongoing challenges in containment suggest that the overall threat and difficulty of controlling the spread of diseases have increased. Therefore, I believe the spread of diseases has gotten worse in our country during this period.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

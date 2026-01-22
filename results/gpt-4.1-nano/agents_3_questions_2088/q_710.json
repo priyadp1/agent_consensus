@@ -1,0 +1,61 @@
+{
+  "question": "If robots and computers were able to do much of the work currently being done by humans, do you think each of the following is likely or not likely to happen in your country as a result? a. Inequality between rich and poor would be much worse tha",
+  "options": [
+    "Yes, likely",
+    "No, not likely",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over much of the work done by humans, it could lead to increased inequality because the benefits of automation might primarily accrue to the wealthy or those who own the technology, while many workers could face unemployment or reduced wages. This disparity could deepen existing economic divides, especially if social safety nets and redistribution policies are not in place. Therefore, I believe it is likely that inequality between rich and poor would become much worse.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over a significant portion of human work, there is a concern that economic inequality could worsen, as the benefits of automation might accrue mainly to the owners of technology and capital. This could lead to a wider gap between the wealthy and the poor, especially if measures are not taken to ensure fair distribution of resources or to support those displaced by automation. Therefore, I believe it is likely that inequality would become much worse as a result.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "If robots and computers take over much of the current human work, I believe inequality between rich and poor is likely to worsen in my country. This is because technology tends to benefit those with the resources to develop and access it, often further enriching the already wealthy while leaving lower-income populations behind. Without adequate policies to address this disparity, the gap could grow significantly, making the socioeconomic divide more pronounced than it is today.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is likely that inequality between rich and poor would become much worse as a result of automation. When robots and computers take over many jobs, the owners and those who control technological resources are more likely to benefit financially, potentially increasing the wealth gap. Without policies to ensure fair distribution or support displaced workers, this disparity could become more pronounced in my country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "If robots and computers handle much of the work humans currently do, it's likely that economic inequality could worsen if the benefits of automation primarily go to those who own the technology, leading to a larger wealth gap. Without policies to mitigate this effect, the disparity between rich and poor might grow significantly. Therefore, I believe it is likely that inequality between rich and poor would be much worse than before.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that if robots and computers take over many jobs, it is likely that inequality between the rich and poor would worsen. Automation has the potential to concentrate wealth among those who own the technology and capital, while many workers could face unemployment or reduced wages. Without adequate redistribution policies or social safety nets, the economic gap could grow significantly. Therefore, I think it is likely that inequality between rich and poor would be much worse as a result.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "If robots and computers are able to do much of the work currently done by humans, there is a significant risk that economic inequality could worsen. This is because the benefits of automation tend to accrue to those who own the technology and capital, potentially leading to greater wealth concentration among the rich. Meanwhile, many workers may face unemployment or wage reductions, increasing the disparity between high and low-income groups. Without strong policies to address these issues, the inequality gap might become much worse than it is now.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that if robots and computers take over many jobs, it is likely that inequality between the rich and poor would worsen. Automation can lead to increased profits for capital owners, while workers may face unemployment or wage declines. Without comprehensive policies to distribute benefits more evenly, the wealth gap could become more pronounced in my country. Therefore, I think it is likely that inequality between rich and poor would be much worse as a result.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "If robots and computers replace many jobs currently done by humans, there's a significant risk that the wealthiest individuals and corporations will benefit the most, potentially widening the economic divide. Without effective policies or redistributive measures, this increase in inequality seems quite likely. Therefore, I believe it is likely that inequality between rich and poor would be much worse than before.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

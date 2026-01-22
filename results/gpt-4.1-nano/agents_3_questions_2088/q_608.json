@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...NATO, that is, North Atlantic Treaty Organization",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe NATO is a valuable alliance that promotes security and stability among member countries, especially given current global tensions and the importance of collective defense. Therefore, I hold a very favorable opinion of NATO.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe NATO is an important alliance that promotes international security and stability among member countries. Many see it as a crucial defense mechanism, especially in light of global security challenges. However, opinions vary depending on individual perspectives and geopolitical considerations. Based on general public sentiment and my own reasoning, I have a somewhat favorable view of NATO.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of NATO because I believe it plays an important role in promoting security and stability among member countries, though I also recognize there may be criticisms or limitations to its effectiveness.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe NATO is a significant alliance that contributes to international security and stability among the countries involved. While I recognize its importance and positive role, I might have some reservations about its effectiveness or scope in addressing global security challenges. Overall, my view is somewhat favorable, appreciating its role but acknowledging limitations.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe NATO is a crucial security alliance that contributes significantly to international stability and collective defense, especially in the face of global threats. While I appreciate its importance, I recognize there may be areas for improvement or criticism. Therefore, I hold a somewhat favorable opinion of NATO.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I consider NATO to be a crucial alliance that plays a significant role in maintaining international security and stability, especially given current global tensions and security threats. While I recognize its importance, I also acknowledge there are differing opinions about its effectiveness and scope. Overall, my view aligns more with a positive perception, leaning towards the belief that NATO is beneficial but perhaps not universally viewed as overwhelmingly positive in all aspects.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe NATO is an important security alliance that provides collective defense and promotes international stability. While I recognize its significance and overall positive impact, I also understand there are criticisms and areas where it could improve. Based on this balanced perspective, I have a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe NATO is an important alliance that contributes significantly to international security and stability. While I recognize its crucial role in maintaining peace among member nations and its influence on global security dynamics, I also understand that opinions about its effectiveness and scope vary. Considering these factors, I would describe my view as somewhat favorable because I see its benefits but also acknowledge complexities and potential limitations beyond that positive perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe NATO plays an important role in maintaining international security and stability, especially through collective defense against threats. My view recognizes its significance but also acknowledges that there may be some limitations or criticisms regarding its scope and effectiveness. Based on this, I feel a somewhat favorable opinion best reflects my perspective.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

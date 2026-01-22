@@ -1,0 +1,61 @@
+{
+  "question": "Here are some pairs of statements. Please tell me whether the FIRST statement or the SECOND statement comes closer to your own views \u2014 even if neither is exactly right. The first pair is... Immigrants today make our country stronger because of their work and talents, or Immigrants today are a burden on our country because they take our jobs and social benefits ",
+  "options": [
+    "Statement #1",
+    "Statement #2",
+    "Neither/Both equally (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants contribute positively to our country through their work and talents, which help strengthen our economy and cultural diversity. While I acknowledge concerns about job competition and social benefits, I lean toward the view that their overall impact is beneficial. Therefore, I align more with the statement that emphasizes immigrants making our country stronger.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today contribute significantly to our country through their work and talents, helping to strengthen our economy and cultural diversity. While I understand concerns about job competition and social benefits, I think the overall positive impact outweighs these worries. Therefore, I align more with the belief that immigrants make our country stronger. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "My view aligns more with the first statement because immigrants often bring diverse skills and work ethic that contribute positively to economic growth and cultural enrichment. While concerns about social benefits and job competition are valid, I believe the overall impact of immigrants tends to strengthen the country when their talents are recognized and integrated effectively.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. The positive contributions they bring to the economy, cultural diversity, and overall strength of the nation outweigh concerns about social benefits or job competition. Their skills and efforts help create a more dynamic and resilient society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. Both the perspectives acknowledge potential concerns, but the overall contribution of immigrants in terms of economic growth, cultural diversity, and skills is a positive influence on the country. Given this, I align more with the statement emphasizing their strengthening role.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants contribute positively to our country through their work and talents, which help strengthen our economy and cultural diversity. While I acknowledge concerns about job competition and social benefits, I lean toward the view that their overall impact is beneficial. Therefore, I align more with the statement that emphasizes immigrants making our country stronger.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. The emphasis on their contributions to the economy, diversity, and overall positive impact aligns with my views that their presence benefits the country. While I acknowledge there are concerns related to jobs and social benefits, I see these as manageable or outweighed by their positive contributions. Therefore, I lean toward the statement that highlights immigrants making our country stronger.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today contribute positively to our country through their work and talents, which help strengthen our economy and cultural diversity. While I recognize some concerns about job competition and social benefits, I think the overall benefits outweigh the drawbacks. Therefore, I align more with the statement that emphasizes immigrants making our country stronger.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that immigrants today make our country stronger because of their work and talents. The positive contributions they bring, such as economic growth, cultural diversity, and their skills, seem to outweigh concerns about social benefits or job competition. Their efforts help create a more dynamic and resilient society, and I feel that the benefits of their presence are more significant than the burdens mentioned in the second statement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "On another topic, in your view, is global climate change a very serious problem, somewhat serious, not too serious, or not a problem?",
+  "options": [
+    "Very serious",
+    "Somewhat serious",
+    "Not too serious",
+    "Not a problem"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it poses significant threats to our environment, economies, and public health. The scientific consensus indicates that urgent action is needed to mitigate its impacts, and reversing or effectively managing the issue is crucial for the well-being of current and future generations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it has widespread and potentially catastrophic effects on the environment, human health, and economies worldwide. The scientific consensus indicates that urgent action is needed to mitigate its impact, making it a top priority to address. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it poses significant threats to the environment, human health, and economies worldwide. The increasing frequency of extreme weather events, rising sea levels, and widespread ecological disruption underscore the urgency of addressing this issue. Ignoring it could lead to irreversible damage, making it crucial for governments, communities, and individuals to take substantial action now.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it has widespread and potentially catastrophic effects on the environment, human health, and economies worldwide. The scientific consensus indicates that urgent action is needed to mitigate its impact, making it a top priority to address. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it presents urgent threats to the environment, public health, and economies worldwide. The scientific community largely agrees that immediate action is necessary to prevent irreversible damage, and ignoring the issue could have catastrophic consequences for both current and future generations. Recognizing the severity of the problem, I think it warrants the highest level of acknowledgment and response.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it has widespread and potentially catastrophic effects on the environment, human health, and economies worldwide. The scientific consensus indicates that urgent action is needed to mitigate its impact, making it a top priority to address. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it poses significant risks to the environment, public health, and economies around the world. The scientific consensus emphasizes the urgent need for action to mitigate its effects and avoid irreversible damage, highlighting the importance of prioritizing efforts to address it. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it has widespread and potentially catastrophic effects on the environment, human health, and economies worldwide. The scientific consensus indicates that urgent action is needed to mitigate its impact, making it a top priority to address.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe global climate change is a very serious problem because it has far-reaching impacts on the environment, human health, and economies worldwide. The scientific consensus underscores the urgency of addressing it to prevent irreversible damage. Recognizing its seriousness, I believe it warrants the highest level of concern and action.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

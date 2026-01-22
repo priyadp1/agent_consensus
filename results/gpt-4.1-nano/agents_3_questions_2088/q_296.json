@@ -1,0 +1,60 @@
+{
+  "question": "As I read some specific policies of [American] President George W. Bush tell me if you approve or disapprove of them...Bush's decision to keep U.S. troops in Bosnia and Kosovo",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that keeping U.S. troops in Bosnia and Kosovo was a necessary step to maintain stability and support peace efforts in the region, preventing a resurgence of conflict and assisting in rebuilding efforts. Therefore, I approve of this decision.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The decision to keep U.S. troops in Bosnia and Kosovo was aimed at maintaining stability and supporting peace efforts in regions that experienced conflict. Given the complex geopolitical situation and the importance of preventing further violence, supporting continued presence can be seen as a positive step toward ensuring peace and stability. Therefore, I approve of this policy, considering it a responsible approach to international intervention and conflict resolution.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that maintaining U.S. troops in Bosnia and Kosovo was important for stability and peacekeeping efforts in the region. These decisions aimed to support local efforts toward reconciliation and prevent a resurgence of conflict, which I view as a positive step. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that keeping U.S. troops in Bosnia and Kosovo was important for maintaining stability and supporting peace efforts in the region. These actions aimed to help prevent renewed conflict and promote reconciliation among local populations. Given the positive intent and the potential benefits for regional security, I approve of this policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that maintaining U.S. troops in Bosnia and Kosovo was essential for regional stability and peacekeeping efforts. These actions helped to support local reconciliation and prevent renewed conflict, which I see as beneficial for long-term peace. Therefore, I approve of this decision.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that maintaining U.S. troops in Bosnia and Kosovo was an essential measure to support regional stability and peace efforts following conflict. This ongoing presence helps prevent the resurgence of violence and contributes to rebuilding efforts in these areas. Given the importance of stability in post-conflict zones and the successful role of international peacekeeping, I approve of this decision.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that maintaining U.S. troops in Bosnia and Kosovo was important for ensuring regional stability and supporting peacekeeping efforts after conflict. This presence helps prevent the resurgence of violence and aids in rebuilding, which I see as a necessary measure for long-term peace. Therefore, I approve of this decision.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that keeping U.S. troops in Bosnia and Kosovo was crucial for maintaining regional stability and supporting peace efforts in the aftermath of conflict. The presence of international peacekeeping forces helps prevent renewed violence and promotes reconciliation among local populations. Given these reasons, I approve of this policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that keeping U.S. troops in Bosnia and Kosovo was crucial for ensuring regional stability and supporting ongoing peace processes. These efforts helped prevent the resurgence of conflict and contributed to reconciliation among local communities. Given the importance of maintaining peace and security in these regions, I approve of this policy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

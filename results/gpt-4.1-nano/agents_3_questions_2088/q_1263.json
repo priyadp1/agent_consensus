@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Turkey",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I do not have a personal opinion, but considering recent international relations and political developments, opinions about Turkey can vary widely among different populations. Some may view Turkey favorably due to its strategic importance and cultural influence, while others may hold unfavorable views because of political issues or conflicts. Based on general public sentiment in some regions, I might lean toward a somewhat favorable or somewhat unfavorable opinion, but this is highly subjective and varies greatly among individuals.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Turkey because it is a key regional neighbor with significant geopolitical importance, although there are concerns regarding its political developments and policies that influence my view.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I do not have personal opinions, but I can analyze public sentiment based on available data. If the general perception in the data suggests positive views of Turkey, I might choose somewhat favorable or very favorable. If the sentiment is mostly negative, then somewhat unfavorable or very unfavorable would be appropriate. Given the context, I will assume a generally positive view due to recent diplomatic progress and cultural exchanges in some regions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I hold a somewhat favorable opinion of Turkey because, while there are concerns about its political policies and regional tensions, Turkey also plays a significant role in regional stability and has a rich cultural history that positively influences my perception.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the general international sentiment and recent developments, many people tend to have mixed or cautiously optimistic views of Turkey. While some appreciate its strategic importance and cultural richness, others criticize political issues or conflicts. Based on this context, I am inclined to select a somewhat favorable opinion, reflecting a generally positive but not overly enthusiastic attitude toward Turkey.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering Turkey's strategic importance and cultural influence, along with the ongoing political issues and conflicts that may cause some concern, my opinion is generally mixed. I see its significance regionally, but recognize the complexities that affect perceptions. Therefore, I would lean toward a somewhat favorable opinion, acknowledging both positive aspects and concerns.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the mixed sentiments surrounding Turkey, acknowledging its regional importance and cultural richness while also recognizing political complexities and conflicts, I find that a somewhat favorable opinion best reflects this nuanced view. This balanced perspective aligns with the general cautious optimism observed in other responses.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of Turkey because I recognize its strategic importance and cultural richness, but I am also aware of political issues and regional tensions that create reservations. While its role in regional stability and history contributes positively to my perception, concerns about political policies and conflicts prevent me from feeling more strongly favorable. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize Turkey as a country with a complex geopolitical role, a rich cultural heritage, and ongoing political challenges. While I acknowledge its strategic importance and cultural contributions, concerns about regional tensions and political issues lead me to view Turkey cautiously. Therefore, I would choose a somewhat favorable opinion.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

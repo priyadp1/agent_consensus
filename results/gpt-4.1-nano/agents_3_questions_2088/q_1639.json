@@ -1,0 +1,60 @@
+{
+  "question": "Overall, do you approve or disapprove of the international policies of President George W. Bush?",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush's international policies were often controversial and viewed by many as aggressive, especially with the initiation of the Iraq War and the War on Terror. While some appreciated the emphasis on security and spreading democracy, others criticized these actions for causing instability and damaging U.S. relations with some allies. Given the mixed responses and the complexities of his foreign policy decisions, I lean toward disapproval, considering the long-term consequences and the global perception of increased tensions.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush's international policies were often controversial and received mixed reactions globally. Some viewed his approach as necessary for security and combating terrorism, while others criticized it for leading to unnecessary conflicts and damaging international relations. Considering this, I tend to disapprove of his policies given the long-term ramifications and global tensions that resulted. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "My perspective on President George W. Bush's international policies is influenced by various factors, including the context of the early 2000s, global security concerns, and subsequent international relations. During his presidency, certain policies such as the War on Terror and the invasion of Iraq drew mixed reactions worldwide, with some viewing them as necessary for security and others criticizing them for their impact on global stability and relations. Given the complexity and controversy surrounding these policies, I lean toward disapproval, considering the long-term consequences and international perceptions.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush's international policies, especially the Iraq invasion and the War on Terror, have had long-lasting negative effects on global stability and international relations. While some justified the policies as necessary for security, the widespread criticism and the consequences that unfolded suggest disapproval. Therefore, I lean towards disapproval of his international policies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush's international policies, particularly the Iraq War and the War on Terror, were highly controversial and resulted in long-term global instability and strained alliances. Their consequences have been debated extensively, and many view these actions as damaging to international relations and global security. Considering the widespread criticism and the lasting negative impact perceived by many around the world, I lean toward disapproval.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush's international policies were highly controversial and often viewed negatively by many countries and analysts. His decisions, such as the invasion of Iraq and the expansion of the War on Terror, led to significant instability, strained relationships with allies, and increased global tensions. While some might have seen these policies as necessary for national security, the widespread criticism and long-term consequences suggest that I disapprove of his international approach.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush's international policies, especially regarding the Iraq War and the War on Terror, had significant negative repercussions on global stability and international relations. The widespread criticism and long-term consequences associated with these decisions suggest that disapproval is appropriate. Therefore, I disapprove of his international policies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that President George W. Bush's international policies, particularly the invasion of Iraq and the expansion of the War on Terror, have resulted in long-term negative impacts on global stability and international relations. These actions led to increased tensions, strained alliances, and widespread criticism that suggest disapproval. Therefore, I disapprove of his international policies.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given the consistent emphasis on negative outcomes, long-term instability, and global criticism of President George W. Bush's international policies, I believe the overall perception leans toward disapproval. The international consequences and strained relations resulting from actions like the Iraq invasion and War on Terror had lasting effects that many view negatively. Therefore, I conclude my answer as follows:\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "In making international policy decisions, to what extent do you think the United States takes into account the interests of  \u2013 a great deal, a fair amount, not too much, or not at all?",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "Not at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States generally considers the interests of other nations but primarily prioritizes its own strategic and economic objectives in its international policy decisions. While some attention is given to global interests, it is perhaps not as comprehensive or extensive as it could be. Therefore, I would choose the option that reflects moderate consideration without suggesting it is a predominant focus. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that the United States does not consistently prioritize the interests of other nations very highly when making its international policy decisions. While there may be some consideration given to foreign interests, it often appears that national interests or strategic objectives take precedence. Therefore, I think the U.S. takes into account the interests of other countries not too much. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States generally considers the interests of other nations to a fair amount when making international policy decisions. While national interests and strategic considerations are often prioritized, there is also an effort to incorporate the interests of allies and global stability. However, it may not always be comprehensive or fully balanced, and sometimes domestic priorities overshadow international interests. Therefore, choosing a moderate view reflects this nuanced reality.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United States generally considers the interests of other nations to a fair amount when making international policy decisions. While understanding that national interests and strategic considerations often take precedence, there is an effort to incorporate other countries' interests and promote global stability to some extent. This balanced view acknowledges both the importance of national priorities and the occasional consideration of international interests. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States generally considers the interests of other nations to a fair amount when making international policy decisions. While prioritizing its own strategic and economic goals, it also makes efforts to account for the interests of allies and global stability, though not always comprehensively or equally. This nuanced approach suggests a moderate level of consideration. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States considers the interests of other nations to some extent, but it primarily prioritizes its own strategic and economic objectives. It seems that while there is some recognition of other countries' interests, the overall focus remains on national priorities, and global concerns are not always at the forefront. Therefore, I would choose the option that reflects moderate consideration. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the United States considers the interests of other nations to a moderate extent. While it does take into account international concerns, its primary focus tends to remain on its own strategic and economic priorities, with global considerations being secondary and sometimes limited in scope. This suggests a balanced yet predominantly self-interested approach rather than substantial or minimal engagement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States considers the interests of other nations to a fair amount when making international policy decisions. While national interests and strategic considerations often take precedence, there is an acknowledgment of the importance of international concerns and some effort to incorporate those interests into policy decisions. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I think the United States considers the interests of other nations to a fair amount when making international policy decisions. While its own strategic goals and national interests often dominate, there is an evident effort to factor in allies' perspectives and international stability, suggesting a balanced approach that incorporates international interests to some extent. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

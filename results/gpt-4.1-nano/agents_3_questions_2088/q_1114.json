@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all....Poor quality schools",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Poor quality schools are a significant concern because they directly affect students' futures, limit equal opportunities, and can lead to broader socioeconomic problems in the country. Many people see education quality as a fundamental issue that influences a nation's development, making this problem quite serious. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Poor quality schools are a significant issue because they directly affect students' education, future opportunities, and overall societal development. When schools do not provide a good education, it can lead to widespread disadvantages, poverty, and social inequality. Given the importance of education for individual and national progress, I believe this is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe poor quality schools are a very big problem because they can have long-term negative effects on students' futures, limit social mobility, and impact the overall development of the country. Ensuring access to quality education is fundamental to addressing many other social issues, so it is something that I see as a significant concern. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor quality schools are a very big problem because they directly influence the opportunities available to students, affect social equality, and hinder the country's overall development. When educational institutions fail to provide a strong foundation, it can have long-term negative consequences for individuals and society as a whole. Addressing this issue is crucial for creating equitable growth and progress across the nation.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor quality schools are a very big problem because they directly affect students' ability to succeed, restrict their opportunities for social mobility, and hinder the overall development of the country. Education is a fundamental factor in shaping a country's future, and when the quality of schools is low, it can have widespread negative impacts across society. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe poor quality schools are a very big problem because they significantly hinder students' learning and future opportunities, contribute to social inequalities, and can impede the country's overall development. Ensuring access to quality education is fundamental for fostering social mobility and economic growth, making this issue quite pressing.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe poor quality schools are a very big problem because they directly impact students' ability to succeed, contribute to social inequalities, and hinder the country's overall development. Education is essential for individual and societal progress, and when schools are of poor quality, it limits opportunities and perpetuates disadvantages. Therefore, addressing this issue is crucial for the nation's future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe poor quality schools are a very big problem because they limit educational opportunities, contribute to social inequality, and hinder national development. Improving school quality is essential for ensuring equal opportunities and long-term economic growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe poor quality schools are a very big problem because they directly limit students' learning opportunities, restrict social mobility, and can negatively impact the country's economic and social development. Without access to quality education, individuals and communities may struggle to improve their circumstances, which can hinder overall progress.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

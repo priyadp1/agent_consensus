@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Sudan",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I do not have personal opinions, but based on available information and general perceptions, views of Sudan can vary significantly depending on the context, current events, and individual perspectives. Historically, Sudan has faced challenges such as conflict, humanitarian issues, and political instability, which may lead many to view it unfavorably. Conversely, some may recognize its cultural richness and resilience. Given these considerations, my assessment aligns more with a somewhat unfavorable opinion due to ongoing issues, but not a very unfavorable one. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Sudan due to ongoing conflicts, political instability, and economic challenges that have impacted the country's stability and international relations. While there are efforts toward peace and development, the recent history suggests that many view Sudan's situation with concern rather than optimism. Therefore, my opinion leans toward being somewhat unfavorable.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Sudan due to ongoing internal conflicts, economic hardships, and political instability that have impacted the country's development and people's well-being. While I recognize some positive aspects and potential for growth, the current challenges lead me to feel more cautious than optimistic about Sudan's prospects.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Sudan due to the ongoing conflicts, political instability, and economic hardships that continue to hinder the country's development and stability. While there are efforts for peace and progress, the current challenges contribute to a cautious outlook on its future.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Sudan due to the country's ongoing internal conflicts, political instability, and economic hardships that have affected its development and the well-being of its people. While I acknowledge that there are positive aspects such as cultural richness and resilience, the persistent challenges lead me to feel cautious and somewhat pessimistic about Sudan's current situation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing conflicts, political instability, and economic challenges that have contributed to Sudan's difficult situation, I hold a somewhat unfavorable opinion. While there are positive aspects like cultural resilience, the current circumstances lead me to view Sudan more cautiously and critically. \n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Sudan because, despite its rich cultural heritage and resilience, the country is affected by ongoing conflicts, political instability, and economic difficulties. These issues hinder progress and negatively impact the lives of its people, leading me to feel cautious and somewhat critical about its current situation.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Given the ongoing conflicts, political instability, and economic difficulties that continue to affect Sudan's development and stability, I hold a somewhat unfavorable opinion. While I recognize efforts toward peace and resilience within the country, the current challenges overshadow positive aspects. Therefore, my view remains cautious and somewhat negative at this time.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Sudan because the country continues to face significant challenges such as internal conflicts, political instability, and economic hardships. These issues hinder its development and stability, leading to a cautious perspective. Despite efforts towards peace and progress, the ongoing difficulties prevent a more favorable view.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

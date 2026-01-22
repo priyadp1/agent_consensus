@@ -1,0 +1,62 @@
+{
+  "question": "People have different views of democracy. As I read you a list, please tell me how important each of the following is in a democracy to you.  The media can report the news without (state/government) censorship...do you think this is very important, somewhat important, not too important or not important at all in a democracy?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that free and independent reporting of the news without government censorship is crucial for a healthy democracy. It ensures that citizens have access to accurate and diverse information, which is essential for informed decision-making and holding those in power accountable. Without free media, democracy risks erosion, as misinformation or governmental control can distort public understanding and undermine trust. Therefore, this freedom is very important to me.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having the media report news without government censorship is very important in a democracy because an informed citizenry relies on unbiased and truthful information to make decisions and hold leaders accountable. Censorship can distort reality, limit transparency, and undermine the foundational principles of democratic governance. Without free reporting, citizens may be misled or unaware of critical issues, which can weaken democratic processes and trust in institutions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that an independent press is fundamental to a healthy democracy because it ensures that citizens have access to accurate and diverse information without government interference. When the media can report freely, it promotes transparency, accountability, and informed decision-making. Censorship can lead to misinformation, abuses of power, and a diminished public trust, which ultimately undermines democratic principles. Therefore, protecting the media from censorship is very important in maintaining a vibrant democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the media reporting news without government censorship is very important in a democracy. A free press serves as a watchdog, keeps citizens informed, and holds those in power accountable. When censorship occurs, it risks hiding truths and undermining transparency, which are essential for a healthy democratic society. Without free reporting, citizens cannot make informed decisions or trust their institutions, which can threaten democratic stability and legitimacy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that free and independent press is essential for a democratic society because it provides citizens with the accurate and diverse information necessary to make informed decisions and hold leaders accountable. Censorship by the government can distort information, undermine trust, and threaten democratic processes. For these reasons, I consider it very important that the media can report without government censorship.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the ability of the media to report news without government censorship is very important in a democracy because it ensures that citizens have access to accurate, unbiased, and comprehensive information. This transparency is essential for making informed decisions, holding leaders accountable, and maintaining trust in democratic institutions. Without free media, the risk of misinformation, government control, and decreased public oversight increases, which can weaken democratic processes.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the ability of the media to report news without government censorship is very important in a democracy because it ensures access to accurate, unbiased, and comprehensive information. This transparency is crucial for making informed decisions, holding leaders accountable, and maintaining trust in democratic institutions. Without free media, the risk of misinformation, government control, and decreased public oversight increases, which can weaken democratic processes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the ability of the media to report news without government censorship is very important in a democracy because it ensures that citizens have access to accurate, unbiased, and comprehensive information. This transparency is essential for making informed decisions, holding leaders accountable, and maintaining trust in democratic institutions. Without free media, the risk of misinformation, government control, and decreased public oversight increases, which can weaken democratic processes.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the media reporting news without government censorship is very important in a democracy because a free press ensures transparency, holds those in power accountable, and provides citizens with reliable information necessary to participate fully in democratic processes. Without it, the trust in institutions may decline, and the principles of an open society could be compromised.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

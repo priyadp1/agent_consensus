@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...Afghan Taliban",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "My opinion of the Afghan Taliban is very unfavorable due to concerns about their human rights record, support for terrorism, and restriction of women's rights. Given these factors, I lean towards viewing them negatively. Therefore, I choose the option that best reflects this perspective.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "My opinion of the Afghan Taliban is very unfavorable because they have been associated with violent actions, human rights abuses, and resistance to international norms, which significantly undermine their legitimacy and create concern about stability and security in the region.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of the Afghan Taliban based on their history of human rights abuses, suppression of women and minorities, and acts of violence. These actions have led most people, including myself, to view them negatively and with concern for regional stability and human rights. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the Afghan Taliban due to their history of human rights violations, their suppression of women and minorities, and their acts of violence. These actions contribute to a negative perception and raise concerns about regional security and human rights issues.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of the Afghan Taliban due to their documented human rights abuses, suppression of women and minorities, and support for terrorism. These actions have led many to view them negatively, including myself, because they threaten regional stability and violate fundamental rights. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "My opinion of the Afghan Taliban is very unfavorable because their record of human rights violations, support for terrorism, and restrictions on women's rights are deeply concerning and diminish their legitimacy. Given these issues, I hold a very unfavorable view of them.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of the Afghan Taliban because their record of human rights abuses, suppression of women and minorities, and support for terrorism are deeply concerning and undermine their legitimacy. These actions threaten regional stability and violate fundamental human rights, leading me to hold a very unfavorable view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of the Afghan Taliban because their history of human rights violations, suppression of women and minorities, and acts of violence lead me to perceive them negatively, and their support for terrorism and restrictions on basic freedoms diminish their legitimacy in my view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of the Afghan Taliban because of their history of human rights violations, suppression of women and minorities, and support for terrorism. Their actions threaten regional stability and violate fundamental rights, which influences my perception negatively but not extremely so.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

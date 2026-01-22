@@ -1,0 +1,60 @@
+{
+  "question": "Some people say that Germany should play a more active military role in helping to maintain peace and stability in the world. Other people say that, given its history, Germany should limit its military role in world affairs. Which view is closer to your own?",
+  "options": [
+    "Play a more active military role",
+    "Limit its military role"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Germany should play a more active military role in helping to maintain global peace and stability. Given the current international challenges, a proactive approach can contribute to international security and demonstrate Germany's commitment to global responsibility. While its history necessitates a cautious approach, increased participation in peacekeeping and international missions can be balanced with diplomatic efforts, fostering stability without repeating past mistakes. This would help Germany fulfill its role as a responsible member of the global community while respecting its historical lessons.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Germany should play a more active military role in helping to maintain peace and stability worldwide. Historically, Germany's military involvement has been limited due to its past, but in today's interconnected world, a more proactive engagement can promote stability, support international organizations, and contribute to peacekeeping efforts. Such involvement, done responsibly, can help prevent conflicts and support global security without repeating past mistakes. Therefore, I support a more active military role while ensuring that it aligns with democratic values and international laws.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Germany should contribute to global peace and stability by playing a more active military role, especially through international peacekeeping missions and partnerships. Having learned from its past, Germany can now use its resources and reputation to support collective security efforts in a responsible and constructive way, promoting stability while respecting its historical context. This balanced approach aligns with the idea that Germany can be a force for good on the world stage without compromising its commitment to peace.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Germany has a responsibility to contribute to international peace and stability. While its past history has shaped cautious approaches, the modern global context presents opportunities for Germany to support peacekeeping efforts and international security through a responsible and strategic military role. This can help promote stability while respecting its historical lessons and democratic values. Therefore, I think Germany should play a more active military role.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Germany should limit its military role given its historical context. While I see the importance of contributing to global peace and stability, I think that cautious engagement respects Germany's past experiences and helps prevent the repetition of past mistakes. A focus on diplomacy and multilateral cooperation might be more appropriate than an increase in military activity, ensuring that Germany acts as a responsible and peace-oriented member of the international community.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Germany should play a more active military role in helping to maintain peace and stability worldwide. While recognizing Germany\u2019s past, I think responsible and targeted military engagement can contribute positively to global security, support international peacekeeping efforts, and help address current international challenges. A cautious but proactive approach allows Germany to fulfill its international responsibilities while learning from history.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Germany should limit its military role given its historical context. While I recognize the importance of contributing to global peace and stability, I think that cautious engagement helps prevent the repetition of past mistakes and maintains Germany\u2019s reputation as a responsible and peace-oriented nation. Diplomacy and multilateral cooperation should be prioritized over increased military involvement to ensure a balanced approach to international security.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Germany should play a more active military role in helping to maintain peace and stability worldwide. While mindful of its historical context, I think a responsible and strategic military engagement can be beneficial in supporting international peacekeeping efforts and addressing global challenges. Germany's past encourages caution, but responsible action can promote stability and demonstrate leadership in global security.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Germany should limit its military role in world affairs. Given its history, remaining cautious and emphasizing diplomacy and multilateral cooperation helps ensure that Germany contributes to international peace and stability without risking past mistakes. A restrained military approach aligns with Germany's values and lessons from its history, promoting responsible engagement on the global stage.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

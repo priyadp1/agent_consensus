@@ -1,0 +1,62 @@
+{
+  "question": "Compared to 20 years ago, do you think religion has a more important role in your country, a less important role, or do you think there has been no change?",
+  "options": [
+    "A more important role",
+    "A less important role",
+    "No change",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past two decades, many countries have seen shifts in the role of religion within society. In some regions, there has been increased secularization, with religion playing a less central role in public life and governance. Conversely, in other areas, religious identity has become more prominent due to cultural or political factors, leading to a stronger role for religion. Overall, I believe that in my country, religion has become less important compared to 20 years ago, as secular values and diverse perspectives have gained prominence. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Over the past two decades, many countries have experienced shifts in the role of religion within society. In some cases, increased secularization, modernization, and changing social norms have led to a decline in the influence of religious institutions and beliefs. However, in other regions, religious groups have become more prominent or influential due to political, cultural, or social movements. Overall, on a broad national level, there tends to be a trend toward decreased religious influence in many contexts, although this can vary significantly depending on the country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past 20 years, many countries have experienced shifts in the role of religion within society. In some places, secularization and modernization have reduced the influence of religious institutions and beliefs on public life. Conversely, in certain societies, there has been a resurgence or intensification of religious activism and importance. Overall, considering global trends, religion tends to hold a somewhat less prominent role now compared to two decades ago, especially in Western countries, but there are notable exceptions. Therefore, I believe religion has a less important role in my country now than it did twenty years ago.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the global trends and societal shifts over the past 20 years, many countries have experienced a decline in the influence of religion due to increasing secularization, modernization, and changing social norms. While some regions have notably maintained or even increased religious importance, the overall pattern suggests a waning role of religion in public life and societal values in many contexts. Therefore, I believe religion now plays a less important role in my country compared to twenty years ago.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering ongoing trends toward secularization in many societies, combined with the increasing influence of scientific and liberal values, I believe that religion has become less important in my country compared to 20 years ago. While there are places where religion remains central or has even gained prominence, overall, the societal shift towards secular values suggests a decreased role for religion in public life and individual importance. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the general global trends over the past two decades, many countries have experienced increased secularization and a decline in the public influence of religion. While some regions have seen religious groups gaining prominence, these tend to be exceptions rather than the rule. On a broad national level, the evidence suggests that religion has become less central in many societies. Therefore, I believe that in my country, religion has become less important compared to 20 years ago.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Over the past two decades, many societies have experienced a trend toward secularization, decreasing religious influence in public and private life. While some areas maintain or even strengthen religious traditions, the overall shift appears to be toward less importance of religion on a national level. This suggests that in my country, religion has become less important compared to 20 years ago.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering the global trends and societal changes over the past two decades, there has been a noticeable move toward secularization and decreasing public influence of religion in many countries. Although there are notable exceptions, the overall pattern suggests that religion's role has diminished rather than increased. Therefore, I believe religion has a less important role in my country compared to twenty years ago.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Over the past two decades, many societies have experienced a trend of secularization, with diminishing influence of religious institutions and beliefs on public life and individual choices. While some regions still hold strong religious traditions, the general movement suggests that religion has become less central in societal values and everyday life in my country. This aligns with the views of the previous respondents, who also see a decline in religion's importance over the last twenty years. Therefore, I believe religion has a less important role now compared to twenty years ago.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

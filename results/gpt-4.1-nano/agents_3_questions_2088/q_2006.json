@@ -1,0 +1,63 @@
+{
+  "question": "(For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs \u2014 a lot of confidence, some confidence, not too much confidence or no confidence at all.)...Cuban President Raul Castro",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I would choose B, some confidence, because Raul Castro has maintained a relatively cautious and pragmatic approach in Cuba's foreign policy, balancing relations with different countries while keeping some stability. However, given Cuba's complex political situation and Cuba's limited influence on global affairs, my confidence remains moderate rather than high.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I would choose C because Raul Castro, having served as Cuba's leader for many years, has shown some concern for maintaining stability and engaging with international affairs, but Cuba's generally limited influence and focus on internal issues lead to only moderate confidence in his ability to consistently do the right thing on the global stage. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have limited confidence in Raul Castro's ability to effectively handle complex international issues, given his background and the political environment of Cuba, which has been somewhat isolated and controlled. My sense is that he might not prioritize or adequately address the nuances of global diplomacy or conflict resolution on the world stage.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Raul Castro's experience and long tenure suggest he has some understanding of international issues, but his leadership has been marked by Cuba's limited global engagement and internal priorities, which may hinder his effectiveness in handling complex world affairs. Therefore, I have some confidence in his ability to do the right thing.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Raul Castro's cautious and pragmatic approach reflects a realistic assessment of Cuba's limited influence and internal constraints. While he may handle some international issues competently, the overall capacity to influence global affairs is limited by Cuba\u2019s political and economic situation. Therefore, I have some confidence in his ability to do the right thing regarding world affairs, but I do not view this confidence as high.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Raul Castro's cautious and pragmatic approach to foreign relations suggests a moderate level of confidence, but given Cuba's limited influence and internal focus, I am not highly confident in his ability to consistently do the right thing on world affairs. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Raul Castro's cautious and pragmatic approach suggests a moderate level of confidence. While he appears to handle international issues with restraint and realism, Cuba's limited influence on global affairs makes me less confident in his ability to consistently do the right thing in this area. Therefore, I select:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Raul Castro's long experience and pragmatic approach suggest a moderate level of confidence. While he has shown some cautious engagement in international issues, Cuba's limited global influence and internal priorities make me hesitant to have high confidence in his ability to consistently do the right thing regarding world affairs. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Given Raul Castro's long leadership tenure and his pragmatic approach, I believe he possesses some understanding of international issues, but Cuba's limited global influence and internal priorities constrain his capacity to effectively handle complex world affairs. While he might manage some international matters competently, overall confidence in his ability to do the right thing on global issues is moderate. Therefore, I choose:\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question": "Now I'm going to read you a list of countries.  For each one, please tell me whether you would favor or oppose admitting it into the European Union in the next ten years...Turkey",
+  "options": [
+    "Favor",
+    "Oppose"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Turkey has been a candidate country for many years and has a strategic importance for the European Union both geographically and economically. However, there are concerns from some member states regarding Turkey\u2019s adherence to EU standards on democracy, human rights, and rule of law, which have hindered progress toward accession. Balancing these considerations, I see potential benefits in fostering closer ties but also acknowledge significant challenges. Given the current geopolitical situation and progress of reforms, I would lean towards opposition, respecting the complex realities and ongoing concerns surrounding Turkey\u2019s accession.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Turkey's accession to the European Union has been a complex and contentious issue due to political, cultural, and economic considerations. While Turkey is geographically partly in Europe and has a large and growing economy, there are concerns about human rights, democracy, and the rule of law that have hindered progress. Supporting Turkey's EU membership could promote stability and reforms, but opposition stems from unresolved political issues and differing cultural perspectives. Given these factors, I am inclined to oppose its accession in the next ten years.\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Turkey's accession to the European Union has been a complex and debated issue for many years. While Turkey is a significant regional player and has long-standing ties with Europe, there are concerns related to its human rights record, democratic institutions, and adherence to EU membership criteria. Additionally, political and cultural differences have contributed to skepticism among some member states. Given these factors, I believe that supporting a cautious approach that prioritizes reforms and alignment with EU standards is crucial, and therefore I would oppose Turkey's immediate admission within the next ten years.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Turkey's accession to the EU in the next ten years might be unlikely due to ongoing concerns over human rights, democratic standards, and political issues. While Turkey has significant regional importance and some economic potential, the current challenges in aligning its policies with EU standards suggest that it may not be ready for membership within this timeframe. Supporting eventual reforms and dialogues is essential, but a more cautious approach seems prudent at this stage.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Turkey's accession should be approached with caution due to concerns about democratic practices, human rights, and adherence to EU standards. While Turkey has strategic significance and potential benefits for regional stability, the ongoing challenges and questions about reforms suggest that immediate admission is not appropriate within the next ten years. Supporting further reforms and stabilization efforts is essential before considering admission.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Turkey's long-standing EU accession process has faced numerous challenges related to political reforms, human rights, and democratic standards. Despite its geographic proximity and significant economic potential, unresolved issues and ongoing concerns about governance have hindered progress. Supporting Turkey's entry could foster further stability and reforms, but the risks and current disagreements make me cautious. Given the slow progress and complex circumstances, I lean towards opposing its accession in the next ten years.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Turkey's accession to the EU should be approached cautiously. Despite its strategic importance and potential benefits, significant concerns remain regarding its democratic practices, human rights, and adherence to EU standards. The ongoing challenges and slow progress in reforms suggest that immediate admission within the next ten years may not be appropriate. Supporting continued reforms and stabilization efforts seems necessary before considering entry.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Turkey's accession to the EU in the next ten years remains unlikely due to ongoing issues related to human rights, democratic standards, and political reforms. Although Turkey has strategic importance and economic potential, substantial barriers and unresolved concerns suggest that it may not be ready for membership within this timeframe. Supporting reforms and dialogue are important, but the current challenges make opposition the more prudent stance at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Turkey's accession to the EU in the next ten years is unlikely due to persistent concerns over human rights, democratic standards, and political reforms. Although Turkey offers strategic and economic benefits, current challenges in meeting EU accession criteria and commitments suggest that it may not be ready for membership within this timeframe. Supporting continued reforms and dialogue is important, but a cautious approach seems necessary at this stage.  \nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "As I read another list of statements, for each one, please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with it...Religion is a matter of personal faith and should be kept separate from government policy.",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that religion is deeply personal, and to maintain fairness and neutrality in government, religious beliefs should not directly influence policy decisions. This separation helps protect individual freedoms and ensures that government actions serve all citizens equally, regardless of their faith.\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that religion is a deeply personal matter rooted in individual faith and beliefs. Keeping religion separate from government policy helps ensure that policies are made based on secular principles, fairness, and inclusivity, rather than religious doctrines which may not represent everyone's beliefs. This separation prevents religious beliefs from unduly influencing laws and policies that affect all citizens, regardless of their personal faith. Therefore, I largely agree with the statement that religion should be a matter of personal faith and kept separate from government policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that religion is a deeply personal matter rooted in individual faith, and it is important that government policy remains neutral to protect the rights and freedoms of all citizens regardless of their beliefs. Keeping religion separate from government helps ensure fairness, prevents discrimination, and upholds the principles of religious freedom and secular governance. For these reasons, I would choose to completely agree with the statement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that religion being a personal matter rooted in individual faith warrants its separation from government policy. This separation ensures that laws and policies are based on secular principles, fairness, and inclusivity, rather than specific religious doctrines that may not represent everyone's beliefs. Such neutrality helps protect the rights and freedoms of all citizens, regardless of their personal faith. Therefore, I largely agree with the statement that religion is a matter of personal faith and should be kept separate from government policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that religion is a deeply personal matter rooted in individual faith, and maintaining a separation between religion and government policy is essential to protect religious freedom, ensure equal treatment for all citizens, and uphold the principles of secular governance. Allowing religion to influence policy risks discrimination and undermines fairness in a pluralistic society. Therefore, I completely agree with the statement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I strongly believe that religion is a deeply personal matter rooted in individual faith, and maintaining a clear separation from government policy is essential to ensure fairness, neutrality, and inclusivity in governance. When religion influences policy, it risks marginalizing those with different beliefs and can compromise the principles of secular governance. Therefore, I completely agree that religion should be a matter of personal faith and kept separate from government policy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that religion is a deeply personal matter rooted in individual faith, and maintaining a clear separation from government policy is essential to ensure fairness, neutrality, and inclusivity in governance. When religion influences policy, it risks marginalizing those with different beliefs and can undermine the principles of secular governance, which are vital for a diverse and pluralistic society. Therefore, I completely agree that religion is a matter of personal faith and should be kept separate from government policy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that religion being a personal matter rooted in individual faith underscores the importance of maintaining a clear separation from government policy. Such separation helps ensure that laws and policies are based on secular principles, promoting fairness, neutrality, and inclusivity for all citizens, regardless of personal beliefs. By keeping religion and government separate, we can protect individual freedoms and prevent religious doctrines from unduly influencing public policy. Therefore, I mostly agree.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I agree that religion is a matter of personal faith and should be kept separate from government policy. Maintaining a clear separation helps ensure that laws are made based on secular principles, safeguarding individual freedoms and promoting fairness across diverse beliefs. Such neutrality prevents religious influence from unfairly affecting public decisions and policies, fostering an inclusive society where all citizens are treated equally regardless of their personal faith. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

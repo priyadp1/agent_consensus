@@ -1,0 +1,61 @@
+{
+  "question": "Which of these characteristics do you associate with the Japanese? Do you associate ____ with the Japanese or not? e. modern",
+  "options": [
+    "Yes, associate",
+    "No, do not associate",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people perceive Japan as a country that embraces modernization and technological advancement, reflecting in its cities, infrastructure, and industries. The association of Japan with being modern is common due to its reputation for innovation, cutting-edge technology, and contemporary culture. Therefore, I would associate \"modern\" with the Japanese.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people often perceive Japan as a highly modern country due to its advanced technology, urban development, and progressive infrastructure. Japanese cities like Tokyo exemplify modern architecture, innovation, and modern lifestyles, which strongly associates the characteristic of modernity with Japan. Although some might think of traditional culture first, the rapid modernization over the past century has made modernity a prominent trait linked to Japan in global perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate Japan with being a modern country because it is known for its technological advancements, innovative industries, and contemporary urban development, which are characteristic of modernity. Japan's modern infrastructure, cutting-edge electronics, and global cultural influence reinforce this association.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I associate the Japanese with being modern because Japan is widely recognized for its technological innovation, advanced urban infrastructure, and contemporary cultural presence. Cities like Tokyo showcase cutting-edge architecture, electronic products, and a lifestyle that exemplifies modernity, making this characteristic strongly linked to Japan in global perceptions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I strongly associate the Japanese with being modern because Japan is widely recognized for its technological innovation, advanced infrastructure, and contemporary urban culture. The country's reputation as a leader in electronics, robotics, and modern design supports this view, making \"modern\" an accurate characteristic linked to Japan.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Japan is widely perceived as a modern country due to its technological advancements, urban development, and innovative infrastructure. The global image of Japan often emphasizes its cutting-edge cities like Tokyo, which showcase modern architecture and lifestyles. Given this common perception, I would associate modern with the Japanese.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I associate modern with the Japanese because Japan is globally recognized for its technological innovation, advanced infrastructure, and contemporary urban culture. The country's reputation for cutting-edge cities like Tokyo and advancements in electronics and robotics strongly support this association.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I strongly associate the Japanese with being modern because Japan has a global reputation for technological innovation, advanced urban infrastructure, and contemporary cultural influence. Major cities like Tokyo exemplify modern architecture, electronic gadgets, and a forward-looking lifestyle, which clearly link the characteristic of modernity to Japan. This perception is supported by widespread media and cultural exports that highlight Japan's modern achievements.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I associate the Japanese with being modern because Japan has a strong global reputation for technological innovation, advanced infrastructure, and contemporary urban culture. Cities like Tokyo are often seen as symbols of modernity with their cutting-edge architecture, electronics, and modern lifestyle, which reinforces this characteristic as strongly linked to Japan.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

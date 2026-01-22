@@ -1,0 +1,61 @@
+{
+  "question": "Overall, do you think the war with Iraq that removed Saddam Hussein from power made the world a safer place or a more dangerous place?",
+  "options": [
+    "Safer place",
+    "More dangerous place",
+    "No change (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The removal of Saddam Hussein was initially seen as a move to promote stability and eliminate a dictator, but the subsequent power vacuum and rise of insurgencies contributed to ongoing regional instability. This has led many to believe that the war might have increased the threat of terrorism and conflict, making the world a more dangerous place overall. Therefore, I think the war made the world more dangerous place.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The war with Iraq and the removal of Saddam Hussein has had complex repercussions. While it aimed to eliminate a brutal dictator and potentially reduce threats, it also led to increased instability, regional chaos, and the rise of terrorist groups like ISIS. These outcomes suggest that the overall effect has made the world more dangerous rather than safer, despite the initial intentions. Therefore, I believe it has contributed to greater danger rather than safety.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "The war in Iraq led to increased instability and violence in the region, and it also contributed to a rise in anti-western sentiment and extremist groups worldwide. While the removal of Saddam Hussein eliminated a brutal dictator, the chaos and power vacuums it created often resulted in prolonged conflicts and uncertainties that have made the global environment more dangerous overall. Therefore, I believe it has made the world a more dangerous place.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the war with Iraq has overall made the world a more dangerous place. Although the intention was to remove a tyrant and improve security, the resulting chaos, ongoing conflicts, and rise of extremist groups like ISIS have led to greater instability and threats globally. The unintended consequences have outweighed the initial goals, contributing to a more perilous international environment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the war with Iraq has overall made the world more dangerous. While removing Saddam Hussein was aimed at promoting stability and removing a dictator, the subsequent chaos, rise of insurgent groups, and regional destabilization have led to increased violence and terrorism. These consequences have contributed to a more volatile and threatening global environment. Therefore, I think the war has made the world a more dangerous place.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the war with Iraq ultimately made the world a more dangerous place. Although it was motivated by the goal of removing a dictator and promoting stability, the destabilization that followed led to a power vacuum, regional chaos, and the emergence of extremist groups like ISIS. These developments increased global threats and violence, outweighing any initial gains. Therefore, I think the war contributed to greater danger overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the war with Iraq has ultimately made the world a more dangerous place. While the removal of Saddam Hussein aimed to promote stability, the ensuing chaos, power vacuums, and rise of extremist groups such as ISIS have significantly increased regional and global threats. These developments have led to more violence, terrorism, and instability, overshadowing any initial intentions of peace and security. Therefore, I think the war has made the world a more dangerous place.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the war with Iraq has made the world a more dangerous place. While the initial goal was to remove a dictator and promote security, the aftermath has seen widespread chaos, ongoing conflicts, and the rise of extremist groups like ISIS. These outcomes have created new threats and instability that overshadow any initial benefits, leading to a more perilous global environment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the invasion of Iraq and the removal of Saddam Hussein have ultimately made the world a more dangerous place. While the initial goal was to eliminate a tyrant and promote stability, the aftermath included widespread chaos, regional instability, and the rise of extremist groups such as ISIS. These developments have increased violence and terrorism, creating a more volatile global environment compared to before.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Do you think these drone attacks are a very good thing, good thing, bad thing, or very bad thing?",
+  "options": [
+    "Very good",
+    "Good",
+    "Bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Drone attacks can be a double-edged sword. On one hand, they can help eliminate terrorists and protect civilians, which might be seen as positive. On the other hand, they can cause unintended civilian casualties and escalate conflicts, leading to negative consequences. Overall, given the potential for harm and the ethical concerns involved, I believe they tend to be more harmful than beneficial. Therefore, I consider them a bad thing.  \nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Drone attacks can be a double-edged sword; they may help in targeting specific threats and reducing casualties in certain contexts. However, they also pose significant ethical issues, often cause unintended harm to civilians, and can undermine international stability. Overall, the negative implications tend to outweigh the strategic benefits, leading me to view them as more harmful than helpful. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Drone attacks often lead to significant civilian casualties and escalate conflicts, causing destruction and suffering. While some argue they are effective tools for national security, their humanitarian costs tend to outweigh the benefits. Therefore, they are generally viewed negatively due to their detrimental impact on innocent lives and stability.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe drone attacks are a very bad thing because they often cause civilian casualties and can escalate conflicts, leading to suffering and destabilization. Despite their potential strategic benefits, the humanitarian costs and ethical concerns outweigh any advantages, making them a harmful practice overall.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe drone attacks are a very bad thing because they often result in civilian casualties, escalate conflicts, and raise serious ethical concerns. While they may sometimes help target terrorists, the negative humanitarian and political repercussions tend to outweigh the benefits, making them more harmful than helpful overall.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe drone attacks are a very bad thing because, despite their potential for targeting terrorists and possibly saving lives, they often result in civilian casualties, raise significant ethical concerns, and can escalate conflicts. The negative consequences tend to outweigh the strategic benefits, leading to a preference for caution and the pursuit of alternative strategies that minimize harm to civilians.  \nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe drone attacks are a very bad thing because they often lead to civilian casualties and ethical concerns, and their negative impacts generally outweigh any strategic benefits. These consequences contribute to increased suffering and instability, making them an overall harmful approach.  \n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe drone attacks are a very bad thing because they often lead to civilian casualties, ethical dilemmas, and can escalate conflicts, causing more suffering overall. The humanitarian costs and potential for unintended harm outweigh any strategic advantages.  \nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe drone attacks are a very bad thing because they frequently cause civilian casualties, can escalate conflicts, and raise significant ethical concerns. The negative humanitarian, political, and ethical consequences tend to outweigh any strategic advantages, making them a harmful practice overall.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

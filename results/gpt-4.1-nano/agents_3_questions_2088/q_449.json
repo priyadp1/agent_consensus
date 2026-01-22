@@ -1,0 +1,60 @@
+{
+  "question": "Thinking about people in our country who do not have a job, in general would you say this is mostly their own fault or is it mostly because of forces outside their control?",
+  "options": [
+    "Mostly their own fault",
+    "Mostly because of forces outside their control"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that unemployment is often a result of various external forces beyond individual control, such as economic downturns, technological shifts, or structural changes in the job market. While personal effort and skills are important, external factors play a significant role in the availability of jobs and the overall employment landscape. Recognizing these broader forces helps to foster understanding and support policies aimed at addressing systemic issues rather than placing undue blame on individuals.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the reasons for unemployment are often influenced by a complex interplay of factors. While individual effort, skills, and education are important, many external forces, such as economic downturns, technological changes, or regional job availability, play a significant role in whether someone can find employment. It is unfair to place the blame solely on individuals, as structural issues in the economy and society can limit opportunities beyond personal control. Therefore, I think that most unemployment is caused by forces outside individuals' control.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the reasons why people are unemployed are often a mix of personal circumstances and external factors, but generally, many of the challenges faced in finding or maintaining a job are due to broader economic conditions, technological changes, and labor market shifts beyond individual control. While personal effort and skills are important, systemic issues and unpredictable economic downturns can significantly impact employment opportunities, making it more reasonable to attribute unemployment primarily to forces outside individuals' control.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that unemployment is primarily influenced by external factors such as economic conditions, technological advancements, and structural issues within the economy. While individual effort and skills matter, many job losses and lack of opportunities result from circumstances outside personal control, making it unfair to blame individuals alone for unemployment. Systemic challenges often play a bigger role in shaping employment outcomes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that unemployment is largely influenced by external factors such as economic conditions, technological advancements, and structural changes in the labor market. While personal effort and skills matter, these broader forces often determine job availability beyond an individual's control. Recognizing this complexity encourages policies that address systemic issues rather than blaming individuals. Therefore, I think the primary cause of unemployment for most people is outside their own control.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that unemployment is largely driven by external forces such as economic fluctuations, technological advancements, and structural changes in the labor market that are beyond an individual's control. While personal effort and skills are factors, the broader economic and societal context heavily influences employment opportunities. Recognizing these external influences promotes a more compassionate understanding and supports policies aimed at systemic improvements rather than blaming individuals. Therefore, I think that most unemployment is caused by forces outside individuals' control.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that unemployment is primarily influenced by forces outside an individual's control, such as economic conditions, technological changes, and structural shifts in the labor market. While personal effort and skills play a role, these external factors often have a greater impact on employment opportunities. Understanding this supports a compassionate perspective and emphasizes the importance of systemic solutions rather than blaming individuals for their unemployment.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that unemployment is predominantly influenced by external forces such as economic fluctuations, technological changes, and structural shifts in the job market, which are outside an individual's personal control. While personal effort and skills contribute, systemic issues and broader economic conditions largely determine employment opportunities. Recognizing this helps foster a compassionate perspective and supports policies aimed at addressing these larger forces rather than blaming individuals for their unemployment. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that unemployment is primarily shaped by external forces such as economic fluctuations, technological changes, and structural shifts in the labor market. While individual effort and skills are important, these factors often limit personal opportunities and are outside a person's control. Recognizing the impact of systemic and macroeconomic forces helps in understanding unemployment more accurately and supports the development of policies that address these wider issues rather than blaming individuals. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...The gap between rich and poor",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The gap between rich and poor is often viewed as a significant issue because it can lead to social inequality, limit access to opportunities for a large segment of the population, and create social tensions. In many countries, this disparity is seen as a key factor contributing to other problems such as crime, health disparities, and political instability. Therefore, I believe it is a very big problem as addressing economic inequality is crucial for social cohesion and sustainable development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The gap between rich and poor is a significant issue because it can lead to social inequality, reduced social mobility, and increased tensions within society. When wealth is concentrated among a small segment, it affects access to opportunities, education, and healthcare for the majority, potentially destabilizing the social fabric and impairing overall economic growth. While the severity may vary depending on the context, it is generally considered a very big problem in many countries today.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The gap between rich and poor is a significant issue because it can lead to social inequalities, reduced social mobility, and increased tensions within society. When wealth disparities are large, it often results in limited access to quality education, healthcare, and economic opportunities for the less privileged, which can threaten social cohesion and stability. Therefore, many people perceive this as a very big problem that needs urgent attention and policy intervention to promote fairness and equal opportunity.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the gap between the rich and the poor is a very big problem because it creates social inequalities, limits access to essential services, and can lead to unrest and instability within society. Addressing this disparity is crucial for fostering fairness, social cohesion, and sustainable economic growth.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the gap between rich and poor constitutes a very big problem. Economic inequality can undermine social stability, limit opportunities for many individuals, and perpetuate cycles of poverty. Addressing this issue is essential for ensuring fairness and long-term social cohesion in the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The gap between rich and poor is a significant concern because it contributes to social inequality, limits opportunities for many individuals, and can cause social tensions. Addressing this disparity is important for fostering social cohesion and ensuring sustainable development in the country. Given the widespread recognition of economic inequality as a major issue globally and its impact on various aspects of society, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the gap between rich and poor is a very big problem because economic inequality can lead to social tensions, limit access to opportunities for many people, and hinder overall social cohesion. Addressing this disparity is crucial for creating a fairer society and promoting sustainable development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the gap between the rich and the poor is a very big problem because it leads to significant social inequalities, limits equal opportunities, and can cause social tensions and unrest. Addressing this disparity is essential for building a fairer and more cohesive society, promoting stability and sustainable development.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the gap between the rich and the poor is a very big problem because it leads to significant social inequalities, hampers social mobility, and can cause tensions and unrest within society. Addressing this disparity is essential for promoting fairness, social stability, and sustainable development.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

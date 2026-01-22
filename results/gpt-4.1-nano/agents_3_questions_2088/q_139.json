@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of...the Islamic militant group in Iraq and Syria known as ISIS?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "Don't know/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I do not have a favorable opinion of ISIS due to its association with violent extremism, human rights abuses, and terrorism. Their actions have caused immense suffering and instability in the regions they operate in, and their ideology promotes violence and hatred. Most people, including myself, view them unfavorably because of the threat they pose to peace, security, and human lives globally.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe the group is widely considered a terror organization responsible for numerous atrocities and violence, leading most people to view it very unfavorably. My opinion aligns with a very unfavorable assessment given its actions and global impact. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "My opinion of ISIS is very unfavorable due to the group's association with violence, terrorism, and human rights abuses. Its actions have caused significant suffering and instability in the region, and most people and governments worldwide view it negatively. Therefore, I would select the option that reflects a very unfavorable opinion.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "Based on the information provided and considering the general global consensus on ISIS as a terrorist organization responsible for numerous atrocities, I hold a very unfavorable opinion of the group. Its actions have led to widespread suffering, destabilization, and human rights abuses, which strongly influence my view.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "Based on the information provided and the general understanding of ISIS as a violent extremist organization associated with terrorism and human rights abuses, I hold a very unfavorable opinion of them. Their actions have caused widespread suffering, instability, and pose a global security threat, leading most individuals and governments to view them negatively. Therefore, I would choose the option that reflects this perspective.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I hold a very unfavorable opinion of ISIS due to their history of violent extremism, terrorism, and human rights abuses. Their actions have caused widespread suffering, instability, and fear in the regions they operate in and around the world. Their ideology promotes hatred and violence, which I believe should be strongly condemned. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I hold a very unfavorable opinion of ISIS due to their history of violent extremism, terrorism, and human rights abuses. Their actions have caused widespread suffering, instability, and fear in the regions they operate in and around the world. Their ideology promotes hatred and violence, which I believe should be strongly condemned. This aligns with the perspective that views ISIS as a dangerous and destructive organization.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I have a very unfavorable opinion of ISIS due to their history of terrorism, violence, and human rights abuses. Their actions have caused immense suffering, instability, and fear worldwide, and their ideology promotes hatred and extremism that should be condemned. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "Considering the widespread consensus on ISIS as a terrorist organization responsible for numerous atrocities, and my understanding of their actions leading to immense human suffering, destabilization, and threats to global security, I hold a very unfavorable opinion of them. Their conduct has caused significant harm and human rights abuses, which strongly influence my view.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

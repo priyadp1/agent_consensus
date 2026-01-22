@@ -1,0 +1,60 @@
+{
+  "question": "Is there any area within a kilometer/mile of your home where you would be afraid to walk alone at night?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would choose Yes because safety concerns vary depending on the neighborhood. Even if my immediate area seems generally safe, specific spots like poorly lit alleyways or isolated parks might make me hesitant to walk alone at night. Personal experiences and local crime rates influence this perception, so I acknowledge that there could be areas within a mile where I would feel unsafe. Ensuring a safe environment for all residents is important, and it's natural to have some apprehension about certain spots during nighttime hours.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would choose yes because I live in an area where certain streets tend to be poorly lit and have less foot traffic during nighttime hours, which could make me feel unsafe walking alone. Additionally, some neighborhoods nearby have a history of petty crimes or vandalism, increasing my concern about personal safety when alone at night. Therefore, I believe there are areas close to my home where I might feel apprehensive about walking alone after dark.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would choose Yes because there may be areas nearby that are poorly lit, have a reputation for crime, or lack pedestrian traffic, making me feel unsafe walking alone at night. Personal safety concerns and local environment factors influence this feeling.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "There are areas within a kilometer/mile of my home where I would feel uncomfortable walking alone at night. Safety concerns such as poor lighting, known crime activity, or lack of foot traffic often contribute to feelings of vulnerability in such environments. Given these considerations, I feel it is prudent to choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe there are areas near my home where I would be afraid to walk alone at night. Factors such as poor lighting, recent local incidents, or areas known for higher crime rates contribute to feelings of insecurity. Personal safety is a priority, and it is realistic to have concerns about certain spots during nighttime hours, even if my overall neighborhood is safe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would choose yes because my neighborhood has certain poorly lit streets, isolated areas, or spots with less foot traffic that could make me feel unsafe walking alone at night. Personal experiences and local crime statistics influence my perception of safety, so I recognize that there are likely areas within a mile where I would hesitate to walk alone after dark.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "There are areas near my home within a kilometer/mile where I would be afraid to walk alone at night, primarily due to factors like poor lighting, isolated spots, or recent incidents that have contributed to my concerns about safety. Given these considerations, I believe it is realistic to acknowledge some level of fear in certain areas after dark.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I would choose yes because there are certain areas within a mile of my home, such as poorly lit streets or less populated spots, where I would be hesitant to walk alone at night due to safety concerns and personal risk perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I recognize that my neighborhood generally feels safe, but I acknowledge that there are specific areas within a mile where I would feel uncomfortable walking alone at night. Factors like poor lighting, unfamiliarity, or known incidents could contribute to that discomfort. Therefore, I believe it is possible that I would be afraid to walk alone in certain parts nearby.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Do you personally believe that sex between unmarried adults is morally acceptable, morally unacceptable, or is it not a moral issue? ",
+  "options": [
+    "Morally acceptable",
+    "Morally unacceptable",
+    "Not a moral issue",
+    "Depends on the situation (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that sex between unmarried adults is a personal matter that varies based on individual values and cultural contexts. For some, it might be seen as morally acceptable if it occurs within a consenting and respectful relationship. Others may consider it morally unacceptable based on their religious or cultural beliefs. Since morality is often subjective and context-dependent, I think it can be viewed differently depending on the situation, making it not strictly a moral issue universally. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that sex between unmarried adults is not a moral issue because personal beliefs about morality and relationships vary greatly across different cultures and individuals. What matters more is the mutual consent, respect, and well-being of the involved parties rather than whether they are married. Labeling it as morally acceptable or unacceptable oversimplifies the complexities of personal morality and cultural differences.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that sex between unmarried adults is not a moral issue because personal morality varies greatly among individuals, and consensual adult relationships should be considered a private matter without a universal moral judgment. Societal attitudes have become more accepting over time, emphasizing personal freedom and choice rather than strict moral condemnation. Therefore, assigning a moral label to consensual adult intimacy seems unnecessary and unhelpful in diverse moral frameworks.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that sex between unmarried adults is not a moral issue because the approach to morality regarding personal relationships varies greatly among individuals and cultures. What matters most is that the relationship is consensual, respectful, and does not cause harm. Labeling such personal choices as moral or immoral oversimplifies the diversity of moral perspectives and the importance of personal autonomy. Recognizing that this is a private matter allows different moral frameworks to coexist without imposing a universal judgment.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that sex between unmarried adults is a matter that depends on individual circumstances and personal values. Given the diversity of cultural, religious, and personal beliefs, what is acceptable to one person may not be to another. Since morality can be subjective and influenced by context, I think it is best viewed as not a strict moral issue universally, but rather as a personal or situational matter.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that sex between unmarried adults is a matter that depends on individual values and cultural context, rather than a strict moral issue. It can be seen as acceptable within respectful and consensual relationships, but opinions vary based on personal beliefs and cultural norms. Since morality regarding this issue is subjective and influenced by specific circumstances, I consider it not inherently a moral issue. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that sex between unmarried adults is a context-dependent issue that varies based on individual beliefs, cultural norms, and personal circumstances. Given the diversity of perspectives and the influence of situational factors, I see this as not a strictly moral issue but rather something that can be ethically acceptable or unacceptable depending on the specific situation and values involved.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that sex between unmarried adults is best understood as a personal matter that can vary based on individual values, cultural norms, and circumstances. Since opinions and moral perspectives differ widely and are often context-dependent, it seems more appropriate to see it as not inherently a moral issue but rather a question that depends on the specific situation and personal beliefs.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that sex between unmarried adults is a matter that depends on individual circumstances and personal values. Given the diversity of cultural, religious, and personal beliefs, what is acceptable to one person may not be to another. Since morality can be subjective and influenced by context, I think it is best viewed as not a strict moral issue universally, but rather as a personal or situational matter.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

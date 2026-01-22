@@ -1,0 +1,63 @@
+{
+  "question": "(Now I am going to read you a list of things that may be problems in our country. As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all.)...Rising prices",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Rising prices affect many people's daily lives, making it more difficult to afford essential goods and services. When prices increase significantly, it can cause financial strain and reduce the overall standard of living, especially for those with lower incomes. Therefore, I believe rising prices are a very big problem because they have widespread and serious impacts on economic well-being and social stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Rising prices directly affect people's daily lives by increasing the cost of essentials like food, fuel, and housing. When prices rise significantly, it can lead to financial strain and reduce overall purchasing power, making it a major concern for many citizens. As a result, I believe that rising prices are a very big problem because they impact economic stability and individual well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Rising prices directly affect many people's daily lives, making it difficult to afford basic necessities such as food, housing, and transportation. When prices go up significantly and quickly, it can lead to financial hardship and reduced quality of life. Given these impacts, I consider rising prices to be a very big problem, as it affects economic stability and individual well-being on a broad scale.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Rising prices have a significant impact on daily life, making it more difficult for people to afford basic necessities like food, housing, and transportation. This can cause financial hardship, reduce living standards, and create economic insecurity for many individuals. Given these points, I believe rising prices are a very big problem because they affect both the economy and people's well-being widely.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Rising prices have a significant impact on many individuals and families, making it harder to afford essentials and maintain their standard of living. The widespread nature of this issue and its ability to cause financial hardship on a broad scale suggest it is a serious problem that affects economic stability and people's daily lives. Therefore, I believe rising prices are a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Rising prices have a significant impact on people's daily lives, especially as they increase the cost of essential goods and services. This can lead to financial hardship and reduce overall standard of living, affecting a large portion of the population. Given these widespread effects, I consider rising prices to be a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Rising prices directly impact the cost of living for many people, making it harder to afford daily essentials like food, housing, and transportation. This widespread effect on economic stability and individual well-being indicates that rising prices are a very significant problem facing the country today.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Rising prices directly affect people's ability to afford basic necessities, leading to financial strain and reduced living standards for many. This ongoing issue can have widespread economic and social consequences, making it a very significant concern for the general population. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Rising prices directly impact the cost of living for many people, making essentials less affordable and increasing financial stress. Given its widespread effect on daily life and the economy, it seems to be a very significant issue that warrants serious attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

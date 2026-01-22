@@ -1,0 +1,63 @@
+{
+  "question": "Now I'd like to ask your views about some additional political leaders. Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of Iranian President Mahmoud Ahmadinejad?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Mahmoud Ahmadinejad. His tenure was marked by controversial policies and international tensions, which have influenced public perceptions negatively. Therefore, I lean toward viewing him more unfavorably than favorably. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Mahmoud Ahmadinejad. While I recognize that he was a significant figure in Iran\u2019s political landscape and has had a notable impact on regional and international affairs, my overall impression is shaped by the controversies and policies associated with his presidency. These factors lead me to view him less favorably than favorably. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I would choose D because Mahmoud Ahmadinejad is a controversial figure due to his policies and statements during his presidency, which have garnered significant criticism and unfavorable opinions internationally. Many people view his leadership style and actions as problematic, leading to a predominantly unfavorable perception. \n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Mahmoud Ahmadinejad. While I recognize his significance in Iran's political history and understand that he has had an impact on regional and international affairs, the controversies surrounding his policies, statements, and leadership style have led me to view him less favorably. His tenure was marked by actions and rhetoric that many consider problematic, which influences my overall perception.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I recognize that Mahmoud Ahmadinejad's tenure was controversial, and public opinion towards him has generally been negative due to his policies and international reputation. Based on this, my perception is more unfavorable than favorable. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Mahmoud Ahmadinejad. His tenure included policies that led to international tensions and controversies, which influence my overall perception negatively. Although he played a significant role in Iran\u2019s political scene, these factors lead me to lean more towards unfavorable than favorable.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I recognize Mahmoud Ahmadinejad as a highly controversial figure whose presidency was marked by polarized opinions both within Iran and internationally. Given the controversies, international tensions, and criticisms surrounding his policies, I lean towards a somewhat unfavorable view, but I acknowledge that some might see his role differently. Considering the provided options and the context, I feel a somewhat unfavorable opinion best reflects my view.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I have a somewhat unfavorable opinion of Mahmoud Ahmadinejad due to his controversial policies and leadership style, which have contributed to international tensions and domestic criticisms. While I acknowledge his significance in Iran's political history, the negative impacts of his tenure influence my perception more than the positives. Therefore, I lean toward an unfavorable view based on his actions and statements during his time in office.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I hold a somewhat unfavorable view of Mahmoud Ahmadinejad due to his controversial policies, rhetoric, and international reputation. His tenure in office was marked by actions that many consider problematic, which influences my perception negatively. While I acknowledge his role in Iran's political history, my overall opinion leans toward unfavorable. \n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

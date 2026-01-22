@@ -1,0 +1,61 @@
+{
+  "question": "Do you have friends or relatives who live in another country that you write to, telephone or visit regularly?",
+  "options": [
+    "Yes",
+    "No",
+    "Don't know/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living in another country, and we communicate regularly through letters, phone calls, and visits. Maintaining international connections has been a part of my life for some time, so I would choose the affirmative option. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living abroad whom I communicate with regularly through writing, calling, or visiting. Maintaining these connections is important to me, and I actively stay in touch with some of them. Therefore, I would choose option A. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living in other countries who I communicate with regularly through letters and telephone calls, and occasionally visit them. Maintaining these connections is important to me and forms a consistent part of my social interactions.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living in other countries with whom I communicate regularly through writing, calling, or visiting. Connecting with them is an important part of my social life, and I keep in touch consistently. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I do have friends or relatives living in another country with whom I communicate regularly through writing, calling, or visiting. Maintaining such international connections is important to me and a consistent part of my social interactions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living in another country, and I stay in touch with them regularly through letters, phone calls, or visits. Maintaining these international connections is an important part of my life. Therefore, I would choose option A. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living in another country whom I correspond with, talk to, and visit regularly. Maintaining these international relationships is an important aspect of my social life and personal connections. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living in other countries with whom I communicate regularly through writing, calling, or visiting. Maintaining these international connections is important to me and I keep in touch consistently. Therefore, I would choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have friends and relatives living in different countries with whom I communicate regularly through writing, calling, or visiting. Maintaining these international relationships is an important aspect of my social life and I stay in touch consistently. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

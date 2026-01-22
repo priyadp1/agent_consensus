@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Corrupt officials",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe corrupt officials are a very big problem because corruption undermines trust in government, hampers economic development, and often leads to injustice and inequality. When officials misuse power for personal gain, it can have widespread negative effects on society as a whole, eroding public confidence and hindering progress. Therefore, addressing corruption should be a top priority for the country's well-being.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people see corruption among officials as a significant issue because it undermines trust in government, hampers economic development, and can lead to unfair treatment and abuse of power. While some might consider it a moderate problem or less, the widespread perception tends to view corrupt officials as a serious obstacle to progress and good governance. Therefore, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe corrupt officials are a very big problem because corruption can undermine trust in government, lead to unfair distribution of resources, and hinder progress in addressing other societal issues. When officials are corrupt, it affects many aspects of daily life and development, making it a significant concern for the stability and integrity of the country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Corrupt officials are a major concern because they can erode trust in government, lead to unfair practices, and impede national development. Since corruption affects many aspects of society and can cause widespread dissatisfaction, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe corrupt officials are a very big problem because corruption damages the foundation of good governance, erodes public trust, and leads to unfair treatment and inequality. When officials misuse their power for personal gain, it hampers development and can cause long-term harm to the country's progress and social justice. Therefore, addressing corruption is essential for a fair and stable society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe corrupt officials are a very big problem because corruption significantly undermines trust in government, hampers economic growth, and often leads to injustice and inequality. When officials misuse their power for personal gain, it affects the well-being of society as a whole, making it a critical issue that needs urgent attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe corrupt officials are a very big problem because corruption undermines trust in government, hinders development, and promotes inequality. When officials misuse their positions for personal gain, it damages social justice and hampers the country's progress. Addressing corruption is crucial to ensuring a fair, stable, and prosperous society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Corruption among officials is a significant issue because it undermines trust in government institutions, leads to unfair practices, and hinders development efforts. When officials misuse their power, it can cause widespread dissatisfaction and injustice across society. Given the substantial negative impact and the importance of integrity in governance, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe corrupt officials are a very big problem because they undermine trust in government, promote unfair practices, and hinder national development. When officials misuse their positions for personal gain, it damages social justice and long-term stability. Addressing corruption is crucial to ensuring good governance and societal progress.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

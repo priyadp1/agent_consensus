@@ -1,0 +1,60 @@
+{
+  "question": "Which comes closer to describing your view?...The US should be promoting democracy around the world OR The US should not be promoting democracy around the world",
+  "options": [
+    "US should promote democracy around the world",
+    "US should not promote democracy around the world"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy around the world can help foster stability, human rights, and development, which ultimately benefits both the global community and the US. While it\u2019s important to respect national sovereignty, encouraging democratic principles can lead to more peaceful and cooperative international relations. Therefore, I lean towards supporting US efforts to promote democracy globally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy globally can help foster stability, human rights, and economic development in various regions. When countries adopt democratic principles, they tend to experience better governance and social progress, which can also positively influence international relations. However, it is important for such promotion to be respectful and considerate of the unique contexts of each nation, ensuring it is not imposed in a way that infringes on sovereignty or cultural differences.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy globally can be beneficial because it encourages political stability, human rights, and economic development. However, it's also important to respect other nations' sovereignty and cultural differences. Considering these factors, I lean towards supporting the idea that the US should promote democracy around the world, provided it is done thoughtfully and in partnership with local communities. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy around the world can lead to improved stability, human rights, and economic development. While it is important to respect each country's sovereignty and cultural differences, I think that proactive efforts can be beneficial if done thoughtfully and in collaboration with local communities. Therefore, I support the idea that the US should promote democracy around the world.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy around the world can lead to greater stability, protection of human rights, and economic growth. While respecting sovereignty is important, I think that encouraging democratic principles can help create more peaceful international relations and improve lives globally. Therefore, I lean towards supporting US efforts to promote democracy globally.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe promoting democracy around the world can contribute to global stability, human rights, and shared prosperity. While respecting national sovereignty is essential, supporting democratic principles can lead to better governance and cooperation on international issues. Therefore, I lean towards the idea that the US should promote democracy globally.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy around the world can foster greater stability, protect human rights, and support economic development. While respecting national sovereignty is important, encouraging democratic principles can lead to more peaceful international relations and long-term global benefits. Therefore, I lean towards supporting US efforts to promote democracy globally. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy around the world can foster global stability, protect human rights, and support economic development. While respecting the sovereignty and cultural differences of other nations is important, proactive efforts to encourage democratic governance can lead to mutual benefits and a more cooperative international community. Therefore, I support the idea that the US should promote democracy around the world.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that promoting democracy around the world can help foster stability, protect human rights, and support economic development. While respecting national sovereignty and cultural differences is important, proactive efforts to encourage democratic principles can contribute to more peaceful and better-functioning international relations. Therefore, I support the idea that the US should promote democracy around the world.  \nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

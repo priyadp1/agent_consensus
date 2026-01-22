@@ -1,0 +1,62 @@
+{
+  "question": "I'm going to read a list of some countries where people might go on vacation. Would you be very interested, somewhat interested, or not at all interested in going to...South Korea? ",
+  "options": [
+    "Very interested",
+    "Somewhat interested",
+    "Not at all interested",
+    "Already went to this country (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I find South Korea to be a fascinating destination due to its rich cultural heritage, modern cities like Seoul, and beautiful landscapes. The opportunity to explore traditional temples, try Korean cuisine, and experience K-pop culture makes it very appealing to me. Therefore, I would say I am very interested in visiting South Korea.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I find South Korea to be a very interesting destination due to its rich culture, history, and modern attractions. I am quite interested in experiencing its food, technology, and traditional sites. Therefore, I would choose \"Very interested.\"\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am very interested in going to South Korea because of its rich culture, historical sites, and modern attractions like Seoul. I would love to experience Korean cuisine and visit famous landmarks such as Gyeongbokgung Palace and the Han River. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I am very interested in visiting South Korea because of its unique blend of traditional culture and modern city life. I look forward to experiencing its historical sites, vibrant city scenes, and delicious cuisine. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I find South Korea to be a fascinating destination due to its blend of tradition and modernity, including cultural heritage, vibrant cities, and beautiful landscapes. The opportunity to explore traditional temples, enjoy Korean cuisine, and experience pop culture makes it very appealing to me. Therefore, I would say I am very interested in visiting South Korea. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I have a strong interest in visiting South Korea because of its rich cultural heritage, modern urban environments, and scenic landscapes. I am particularly drawn to experiencing traditional Korean sites, cuisine, and pop culture, which makes me very interested in going there. Therefore, I would choose \"Very interested.\"\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I have always been intrigued by South Korea's rich cultural history, vibrant cities, and innovative pop culture, making it a destination I would love to explore. The combination of tradition and modernity appeals to my interests in diverse experiences. Therefore, I am very interested in going there.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I find South Korea's combination of traditional culture and modern attractions very appealing. Its renowned historical sites, vibrant city life, and pop culture influence make it an exciting travel destination for me. Considering this, I am very interested in visiting South Korea.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I am very interested in visiting South Korea because of its unique combination of traditional culture and modern city life. I am excited about exploring historical sites, experiencing Korean cuisine, and enjoying its vibrant pop culture. This makes South Korea an appealing vacation destination for me.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

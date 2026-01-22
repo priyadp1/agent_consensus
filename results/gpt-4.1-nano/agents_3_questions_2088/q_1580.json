@@ -1,0 +1,63 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...Safety of food",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the safety of food is a very important issue because it directly impacts public health. Unsafe food can cause widespread illnesses and undermine trust in the food supply. While some might consider it a moderate concern depending on the current circumstances, generally, people tend to perceive food safety as a significant problem that needs attention. Therefore, I would classify it as a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The safety of food is a fundamental concern for public health and well-being. Contaminated or unsafe food can lead to serious illnesses, outbreaks, and loss of trust in food sources. Given the importance of safe food to everyday life, I believe it constitutes a very big problem in the country. Ensuring food safety should be a top priority to protect consumers and prevent health crises.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the safety of food is a very significant concern for many people because consuming contaminated or unsafe food can lead to serious health issues and even outbreaks of illness. Ensuring food safety is crucial for public health, and if food safety is compromised, it can affect a large portion of the population, making it a very big problem in the country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The safety of food is a critical issue because it directly impacts public health. Contaminated or unsafe food can cause serious illnesses and outbreaks, putting many people's health at risk. Given the importance of food safety for overall well-being and the potential for widespread health crises, I consider it a very big problem in the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the safety of food is a very important issue because it directly impacts public health. Unsafe food can cause widespread illnesses and undermine trust in the food supply. Given the potential health risks and the importance of reliable food safety standards, I consider it a very big problem that warrants significant attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I consider the safety of food to be a very big problem because it directly affects public health and can cause serious illnesses if not properly managed. Ensuring food safety is essential for the well-being of the population and maintaining trust in the food supply, so I believe it warrants urgent attention and prioritization.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the safety of food is a very significant issue because it directly impacts public health. Unsafe or contaminated food can lead to widespread illnesses, pose serious health risks, and erode trust in the food supply system. Therefore, it is a problem that requires urgent and priority attention to protect the well-being of the population.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Food safety is a fundamental public health issue that affects everyone. Contaminated or unsafe food can lead to severe illnesses and outbreaks, which can strain healthcare systems and cause widespread harm. Given the importance of ensuring safe food for all citizens, I believe it is a very big problem that requires urgent attention and strong measures to improve standards and enforcement. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the safety of food is a very important issue because it directly impacts public health. Unsafe food can cause widespread illnesses and undermine trust in the food supply. Given the potential health risks and the importance of reliable food safety standards, I consider it a very big problem that warrants significant attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

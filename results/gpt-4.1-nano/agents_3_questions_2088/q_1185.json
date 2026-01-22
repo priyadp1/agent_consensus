@@ -1,0 +1,60 @@
+{
+  "question": "Thinking about our country, do you think it is possible that your country could elect a racial or ethnic minority candidate as (president/prime minister) in the near future, or don't you think this is possible in the near future?",
+  "options": [
+    "Possible",
+    "Not possible"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is possible for my country to elect a racial or ethnic minority candidate in the near future. Societal attitudes are gradually becoming more inclusive and diverse representation is gaining recognition. While there may still be challenges and resistance in some areas, progress in many parts of the country suggests that such a milestone could be achieved soon. Increased awareness, activism, and demographic changes contribute to a future where having a minority candidate as a leader is within reach.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is possible because many countries have become more diverse and inclusive over time, with increasing representation of minority groups in politics. This indicates social and political shifts that could lead to a racial or ethnic minority candidate being elected as president or prime minister in the near future. While challenges remain, societal progress suggests that such an event could happen sooner or later.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is possible. Societies are becoming increasingly diverse and inclusive, with growing awareness and efforts to break down racial and ethnic barriers. Many countries have made significant progress in promoting equal opportunities in politics, making it more feasible for a minority candidate to be elected as the leader in the near future. While challenges remain, the trend towards increased representation and acceptance suggests that such a milestone could be achieved soon.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is possible for my country to elect a racial or ethnic minority candidate as leader in the near future. Societal attitudes are gradually changing to become more inclusive and diverse, and political systems are becoming more open to representation from minority groups. Although challenges exist, the overall trend of increasing acceptance and representation suggests that such an election could happen soon. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is possible because societal attitudes are slowly becoming more inclusive, and increased diversity and representation in politics are encouraging signs. Although challenges still exist, the ongoing progress and efforts toward equality suggest that electing a racial or ethnic minority candidate as a leader could happen in the near future. This optimism is based on positive trends in demographic changes, activism, and political reforms aimed at promoting diversity.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that societal progress toward greater diversity and inclusion indicates that it is indeed possible for a racial or ethnic minority candidate to be elected as president or prime minister in the near future. Increased representation, activism, and changing attitudes suggest that barriers are gradually being lowered, making such an achievement more attainable soon. Therefore, I think it is possible.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe it is possible for a racial or ethnic minority candidate to be elected as a leader in the near future, given the ongoing trends toward inclusivity, increased representation, and societal shifts in attitudes toward diversity. These developments suggest that barriers are gradually being diminished, making such an achievement feasible soon.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe it is possible for my country to elect a racial or ethnic minority candidate as a leader in the near future. Societal attitudes are increasingly shifting toward inclusivity and diversity, and political institutions are becoming more open to diverse representation. As these positive changes continue, it seems likely that barriers to minority candidates' election are gradually decreasing, making such an achievement feasible soon.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is possible for my country to elect a racial or ethnic minority candidate as a leader in the near future. Societal attitudes are gradually becoming more inclusive and diverse, and political systems are progressing toward greater representation from minority groups. While challenges remain, the positive trends in activism, demographic shifts, and reforms indicate that such an election could occur soon. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Thinking about the future of your country, please tell me whether you feel generally optimistic or generally pessimistic about the following areas. g. Our country's relations with other European countries",
+  "options": [
+    "Optimistic",
+    "Pessimistic",
+    "Neither (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that our country's relations with other European countries are likely to improve over time due to ongoing diplomatic efforts and economic interdependence, which foster cooperation and mutual understanding. While there may be occasional disagreements or challenges, the overall trend points toward greater collaboration and stability in the future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe the future of our country's relations with other European countries is uncertain, given the complex geopolitical shifts and economic challenges faced by many nations in Europe. While there are ongoing efforts for cooperation and integration, recent tensions and disagreements also suggest potential for conflict or strain. Therefore, I feel neither strongly optimistic nor pessimistic but remain cautious about the trajectory of these relations.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the future of our country's relations with other European countries will largely depend on ongoing diplomatic efforts, economic cooperation, and shared interests. Given recent positive collaborations and agreements, I feel generally optimistic about maintaining or even strengthening these relations. However, there are always uncertainties related to geopolitical tensions and national interests that could pose challenges. Overall, I lean towards optimism, trusting that diplomatic channels and mutual benefits will help foster good relations in the future.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the varying perspectives, I recognize that there are both optimistic and cautious views regarding our country's relations with European countries. While there are positive signs and efforts to strengthen ties, there are also uncertainties and tensions that warrant a cautious outlook. Overall, I feel somewhat optimistic but acknowledge potential challenges ahead. Therefore, I choose to reflect optimism with an awareness of possible hurdles.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the information provided, both respondents express optimism about the future of our country's relations with European countries, citing ongoing diplomatic efforts, economic cooperation, and recent positive collaborations as reasons for their positive outlook. While acknowledging potential challenges, they still lean towards a hopeful view of continued or improved relations. Based on this, I also feel generally optimistic about our country's future relations with European nations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that our country's relations with other European countries are likely to improve over time due to ongoing diplomatic efforts and economic interdependence, which foster cooperation and mutual understanding. While there may be occasional disagreements or challenges, the overall trend points toward greater collaboration and stability in the future.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I feel generally optimistic about our country's relations with other European countries because ongoing diplomatic efforts, economic cooperation, and positive collaborations suggest a trend towards improved and stable relations. Although challenges may exist, the overall outlook remains hopeful for stronger partnerships and mutual understanding in the future.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Considering the generally positive outlook and confidence in ongoing diplomatic efforts and cooperation with European countries, I feel optimistic about the future of our country's relations with other European nations, despite some possible challenges. Overall, I believe the trend is toward greater collaboration and stability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that despite some uncertainties and challenges, there are positive diplomatic efforts, economic cooperation, and collaborations that suggest a generally optimistic outlook. While caution is warranted, the recent progress and ongoing initiatives reinforce a hopeful perspective on the country's relations with European nations.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

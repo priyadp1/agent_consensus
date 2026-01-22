@@ -1,0 +1,61 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for the U.S. Do you think that international financial instability is a major threat, a minor threat or not a threat to the well being of the United States?",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "International financial instability can have significant repercussions for the U.S. economy, affecting markets, trade, and overall economic confidence. Given the interconnectedness of global financial systems today, instability abroad can quickly ripple into the United States, leading to potential economic downturns, job losses, and financial disruptions. While the U.S. has strong economic safeguards, the interconnected nature of modern finance makes it a considerable concern, though not necessarily an immediate or catastrophic threat in all situations.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "International financial instability can significantly impact the U.S. economy through disruptions in global markets, trade, and investment flows. Given the interconnected nature of today's financial systems, issues like currency fluctuations, banking crises, or debt defaults abroad can quickly influence the U.S. economy, potentially leading to recession or financial turmoil domestically. While the U.S. has strong economic fundamentals and regulatory safeguards, the ripple effects from international instability remain a serious concern that can undermine economic well-being. Therefore, I consider it a major threat to the well-being of the United States.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "International financial instability can have widespread repercussions that impact the U.S. economy through disrupted markets, reduced investments, and potential economic downturns. Given the highly interconnected nature of global financial systems, instability abroad can quickly affect domestic stability and threaten jobs, growth, and overall well-being. Therefore, it is reasonable to consider this a major threat to the United States' well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "International financial instability poses a significant threat because of how interconnected global markets are today. Disruptions abroad can quickly affect the U.S. economy through fluctuations in currency, stock markets, and international trade, leading to potential recessions and job losses. Given these factors, I believe it is a major threat to the well-being of the United States.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "International financial instability can quickly impact the U.S. economy through disrupted markets, decreased investments, and potential economic downturns. Given how interconnected global financial systems are today, instability abroad often translates into real risks for the United States' economic health and stability. Therefore, I believe it is a major threat to the well-being of the United States.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "International financial stability is crucial because global economic interconnectedness means that instability abroad can quickly affect the U.S. economy. Such impacts can include market volatility, disruptions in trade and investment, and potential financial crises, all of which could harm Americans' economic well-being. Given these considerations, I believe international financial instability poses a significant threat to the United States.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe international financial instability is a major threat to the United States because, in our interconnected global economy, disturbances abroad can rapidly lead to market volatility, disrupt investments, and trigger economic crises that directly impact Americans' financial well-being. Such vulnerabilities highlight the importance of stable and resilient international financial systems to protect the U.S. economy.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "International financial stability is fundamental to the health of the U.S. economy due to the high level of interconnectedness of global markets. Disruptions abroad can rapidly cascade into the U.S. financial system, potentially causing market volatility, trade disruptions, and economic downturns that affect jobs and standards of living. Given these risks, I consider international financial instability to be a major threat to the well-being of the United States.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that international financial instability is a major threat to the United States because of the highly interconnected nature of global markets. Disruptions abroad can have rapid and far-reaching effects on the U.S. economy, influencing stock markets, currency values, and international trade, which can lead to recessions and job losses. Given these interconnected risks, I see it as a significant concern for national well-being.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

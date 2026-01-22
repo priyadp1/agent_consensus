@@ -1,0 +1,61 @@
+{
+  "question": "Overall would you say that your life is better off as a result of unification, worse off as a result of unification, or haven't you been affected?",
+  "options": [
+    "Better off",
+    "Worse off",
+    "Not affected"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe my life has been better off as a result of unification because it has led to increased stability, economic opportunities, and cultural integration. These improvements have positively impacted my personal circumstances and overall well-being. While there might be some challenges, the overall effects seem beneficial. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "My perspective on the impact of unification depends heavily on personal and community experiences. If the unification has led to improved economic opportunities, stability, and social cohesion, I would say I am better off. Conversely, if it has resulted in increased tensions, economic hardship, or loss of cultural identity, I might feel worse off. If the changes have been insignificant or neutral, then I haven't been affected. Considering the various aspects, I believe I am better off as a result of unification because the overall benefits in socioeconomic development have been noticeable for me and those around me. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that overall, the process of unification has had a positive impact on my life. It brought about stability, economic growth, and a sense of unity among communities that previously felt divided. While there may have been challenges and adjustments, the benefits seem to outweigh the downsides, leading to an improved living situation and prospects for the future.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that unification has had a positive impact on my life because it has contributed to economic stability, social cohesion, and a sense of unity among communities. The benefits seem to outweigh any challenges or adjustments, leading to improvements in living conditions and future prospects.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the positive feedback from other respondents highlighting increased stability, economic opportunities, and a sense of unity, it appears that unification has generally contributed to improvements in people's lives. Though individual experiences may vary, the predominant sentiment is that unification has been beneficial overall, leading to better living conditions and prospects. Therefore, I believe that my life has been better off as a result of unification.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that unification has generally been beneficial for me. It has brought about increased stability, economic opportunities, and cultural integration, which have positively impacted my personal life and community. While I acknowledge there may be some challenges, the overall effects appear to be advantageous. Therefore, I feel I am better off as a result of unification.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that unification has brought about positive changes such as increased stability and economic opportunities, which have improved my overall quality of life. Although there may be some challenges, the benefits seem to outweigh the negatives, leading me to feel better off as a result of unification.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that unification has positively impacted my life by promoting economic stability, social cohesion, and a sense of community unity. These benefits have improved my living conditions and prospects, making me feel better off overall despite some challenges. Therefore, I choose A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that unification has brought positive changes to my life, such as increased economic stability and a sense of community. Based on these benefits, I feel that I am better off as a result of unification.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

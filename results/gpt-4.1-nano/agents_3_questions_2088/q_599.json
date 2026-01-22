@@ -1,0 +1,62 @@
+{
+  "question": "How would you rate the job the government is doing on the issues that are most important to you personally - very good, somewhat good, somewhat bad, or very bad?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the government is doing a somewhat good job on issues that matter most to me personally. While there have been positive efforts and some progress, I think there's still room for improvement in addressing my concerns more effectively and consistently. Overall, the government's performance somewhat meets my expectations, but it hasn't fully achieved the results I hope for.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the government is doing a somewhat good job on issues that matter most to me personally. While there have been some positive developments and efforts, there are also areas where progress has been slow or insufficient. Overall, I see room for improvement but acknowledge some ongoing initiatives that are encouraging. Therefore, I would rate their performance as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the government is doing a somewhat good job on the issues that matter most to me. While there have been efforts and some positive steps, I also see areas where progress could be better. Overall, their performance seems to fall in the middle range, indicating cautious optimism but also room for improvement.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the government has made some efforts to address the issues that matter most to me personally, but progress has been slow and sometimes insufficient. While I see some positive initiatives, overall I think there is significant room for improvement. Therefore, I would rate their performance as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the government's efforts on issues that matter most to me are somewhat good. While I recognize some positive actions and progress, I also see areas needing further improvement for better effectiveness and consistency. Therefore, my assessment aligns with a middle rating that reflects cautious optimism but acknowledges room for growth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the government is making some efforts to address the issues that matter most to me, but progress remains slow and inconsistent. While there are positive signs and ongoing initiatives, I feel there is still significant room for improvement to fully meet my expectations. Consequently, I would rate their performance as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the government's efforts on my most important issues are somewhat good. While I see some positive actions and progress, I also notice areas where improvements are needed for more effectiveness and consistency. My judgment reflects cautious optimism but recognizes that there is still significant room for growth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the government has made some efforts to address the issues that matter most to me personally, but progress has been slow and sometimes insufficient. While I see some positive initiatives, overall I think there is significant room for improvement. Therefore, I would rate their performance as somewhat good.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the government has made some efforts on the issues that are most important to me personally, but progress is slow and not always sufficient. While there are positive initiatives, there remains considerable room for improvement. Therefore, I would rate their performance as somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

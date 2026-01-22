@@ -1,0 +1,60 @@
+{
+  "question": "Do you think the European Union is a world power?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The European Union is a significant global actor due to its large economy, influence in international trade, and ability to shape global standards through policies and diplomacy. While it may not have the same military dominance as superpowers like the United States or China, its economic and diplomatic weight often positions it as a key player in world affairs. However, its influence is somewhat decentralized, as it consists of multiple sovereign nations rather than a singular government. Considering these factors, it fits more as a regional power with substantial global influence rather than a traditional superpower. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The European Union is a significant global player due to its economic size, political influence, and strategic partnerships. It has a major role in international trade, diplomacy, and setting regulatory standards worldwide. While it may not have the military power comparable to superpowers like the United States or China, its collective economic and diplomatic influence positions it as a prominent actor on the world stage. Therefore, considering its multifaceted power and influence, it is reasonable to see the EU as a world power.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union functions as a significant global actor through its economic influence, regulatory standards, diplomatic initiatives, and its role in international organizations. However, it does not possess the military power or unified foreign policy that traditionally characterizes a superpower. Its influence is substantial but primarily economic and diplomatic rather than military or geopolitical in the same sense as countries like the United States or China. Therefore, while the EU is influential on the world stage, it does not fully qualify as a world power in the traditional sense.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union functions as a significant global actor given its extensive economic influence, diplomatic reach, and role in setting international standards. While it may lack the military clout of traditional superpowers, its collective influence in various domains positions it as a prominent global player. Therefore, I consider it a world power.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union functions as a significant global actor due to its economic influence, regulatory standards, diplomatic initiatives, and role in international organizations. While it does not have singular military power or a unified military strategy comparable to superpowers, its combined economic weight and diplomatic influence position it as a key player on the world stage. Therefore, I consider it a world power in terms of global influence, even if not in traditional military terms.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union functions as a significant global influence, especially in economic, diplomatic, and regulatory matters. While it does not possess the extensive military capabilities typical of superpowers like the US or China, its collective economic strength and capacity to shape international standards grant it considerable global sway. Therefore, I consider the EU a world power.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the European Union is a significant global actor due to its substantial economic influence, diplomatic presence, and regulatory standards that affect international affairs. While it may not have the military capacity of traditional superpowers, its collective strength and role in shaping global standards make it a key player on the world stage. Therefore, I consider the EU a world power.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the European Union can be considered a world power due to its substantial economic influence, diplomatic presence, and ability to shape global standards across various sectors. Although it does not have the military strength of traditional superpowers, its collective economic and regulatory influence makes it a significant actor on the world stage. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the European Union is a significant global power in terms of economic influence, diplomatic reach, and setting international standards. While it may not possess traditional military strength akin to superpowers, its collective influence across various domains makes it a prominent global actor. Therefore, I consider it a world power.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

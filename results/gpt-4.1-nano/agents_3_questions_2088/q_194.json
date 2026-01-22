@@ -1,0 +1,63 @@
+{
+  "question": "When it comes to whether or not to limit Chinese students studying in the U.S., do you...",
+  "options": [
+    "Strongly support limiting Chinese students",
+    "Somewhat support limiting Chinese students",
+    "Somewhat oppose limiting Chinese students",
+    "Strongly oppose limiting Chinese students",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that limiting Chinese students studying in the U.S. could hinder educational exchange and innovation, so I do not support restrictions. At the same time, I recognize concerns about national security and technological competition, which might justify certain measures. Overall, I lean toward opposition, but with some reservations. Therefore, I would choose to oppose limiting Chinese students.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "My perspective is that students from China contribute positively to the diversity and educational environment in the U.S., fostering international understanding and collaboration. Limiting their studying opportunities could hinder academic and cultural exchanges and may be driven by fear or political motivations rather than balanced judgment. Therefore, I oppose restricting Chinese students' access to educational opportunities in the U.S., emphasizing the importance of open academic exchange. \n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "My perspective is that limiting Chinese students studying in the U.S. is not an appropriate or fair approach, as it could hinder academic exchange, cultural understanding, and international cooperation. Education should be open and inclusive to foster mutual growth and knowledge sharing. Therefore, I oppose restrictions on Chinese students coming to study in the U.S., recognizing their valuable contributions and the importance of maintaining an open academic environment.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that restricting Chinese students studying in the U.S. would be ultimately unproductive and counterproductive to the goals of academic and cultural exchange. Chinese students contribute significantly to diversity, innovation, and mutual understanding within U.S. educational institutions. Limiting their access could damage international relations and hinder the valuable exchange of knowledge and ideas. Therefore, I support maintaining open academic opportunities for Chinese students.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that maintaining openness to Chinese students is important for fostering educational exchange, innovation, and international cooperation. Limiting their access could hinder mutual understanding and cultural growth, which are vital for global progress. While concerns about national security are valid, I think these should be addressed through targeted measures rather than broad restrictions on students. Overall, I lean toward opposing limits on Chinese students studying in the U.S.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that maintaining open educational exchange is important for mutual understanding and innovation, and limiting Chinese students could undermine these benefits. While I understand national security concerns, I think they should be addressed through targeted measures rather than broad restrictions. Therefore, I oppose limiting Chinese students studying in the U.S.\n\nANSWER: D",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "D",
+        "raw_output": "I believe that maintaining open educational exchange is essential for fostering mutual understanding, innovation, and international cooperation. Limiting Chinese students could hinder these positive outcomes and cultural growth. While concerns about national security are important, they can be better addressed through targeted measures rather than broad restrictions. Therefore, I oppose limiting Chinese students studying in the U.S.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "D",
+        "raw_output": "I believe that international educational exchange benefits both the U.S. and China by fostering understanding, collaboration, and innovation. While national security concerns are valid, broad restrictions on Chinese students could harm diplomatic relations and limit the positive contributions they make to American academic institutions. Therefore, I oppose limiting Chinese students studying in the U.S.\n\nANSWER: D",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "D",
+        "raw_output": "I believe that maintaining openness to Chinese students is essential for fostering educational exchange, innovation, and international cooperation. Limiting their access could hinder mutual understanding, cultural growth, and academic progress, which ultimately benefits both the U.S. and China. While I recognize concerns related to national security, I think these should be addressed with targeted measures rather than broad restrictions that could damage longstanding educational and diplomatic relationships. Therefore, I oppose limiting Chinese students studying in the U.S.\n\nANSWER: D",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "I am going to read a list of things that have happened recently. Did US aid to Tsunami victims in Southeast Asia lead you to have a more favorable or less favorable opinion of the US?",
+  "options": [
+    "More favorable",
+    "Less favorable",
+    "No change (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that U.S. aid to Tsunami victims in Southeast Asia would likely generate a more favorable opinion of the U.S. because such humanitarian assistance demonstrates compassion, generosity, and a willingness to help those in need, which can positively influence public perception. People tend to view countries that provide aid in times of crisis more favorably, seeing their actions as altruistic rather than self-interested.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Helping victims of the Southeast Asian tsunami through US aid likely improved perceptions of the US for many people. Such humanitarian efforts can foster goodwill and positive feelings, leading to a more favorable opinion of the country. Therefore, I believe this act probably resulted in more people viewing the US favorably.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In this case, witnessing US aid to Tsunami victims in Southeast Asia could foster a sense of global compassion and humanitarianism associated with the US, potentially leading to a more favorable opinion. Conversely, some might see the aid as a form of soft power or political strategy, which could influence their opinion either positively or negatively depending on personal perceptions. Since the question asks specifically about a shift in opinion, and assuming the aid was perceived positively, I believe it would make most people feel more favorably toward the US.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Helping victims of the Southeast Asian tsunami through US aid demonstrates the country's willingness to engage in humanitarian efforts and provide compassion to those in need. Such actions are often perceived positively by the international community and can improve perceptions of the US domestically. Therefore, this act likely leads to a more favorable opinion of the US among many people.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that US aid to Tsunami victims in Southeast Asia would likely generate a more favorable opinion of the US because such humanitarian assistance demonstrates compassion, generosity, and a willingness to help those in need, which can positively influence public perception. People tend to view countries that provide aid in times of crisis more favorably, seeing their actions as altruistic rather than self-interested. This acts as a strong indicator that the aid has a positive impact on public perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The U.S. aid to Tsunami victims in Southeast Asia is a humanitarian action that can foster positive perceptions by demonstrating empathy, generosity, and international solidarity. Such acts often bolster a country's image and lead to increased goodwill among the global community and its citizens. Given this, it is reasonable to believe that this aid would have resulted in a more favorable opinion of the U.S. among the public.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that US aid to Tsunami victims in Southeast Asia would likely generate a more favorable opinion of the US because such humanitarian assistance demonstrates compassion, generosity, and a willingness to help those in need, which can positively influence public perception. People tend to view countries that provide aid in times of crisis more favorably, seeing their actions as altruistic rather than self-interested. This acts as a strong indicator that the aid has a positive impact on public perception.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "The U.S. aid to Tsunami victims in Southeast Asia is a significant humanitarian gesture that demonstrates the country's willingness to help during a crisis. Such acts tend to foster positive feelings and improve the perception of the U.S. among both the international community and its own citizens, as they showcase compassion, generosity, and global responsibility. Because this aid aligns with values of humanitarianism and international solidarity, it is reasonable to believe that it would lead to a more favorable opinion of the U.S.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The US aid to Tsunami victims in Southeast Asia is widely perceived as a demonstration of compassion and humanitarian commitment. Such actions tend to improve the country's image by showcasing its willingness to help those in need during a crisis. Given this, people's opinions of the US are likely to become more favorable as they see the nation engaging in altruistic and benevolent behavior. Therefore, I believe this aid would lead to a more positive perception of the US among the public.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

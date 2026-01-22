@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way President Barack Obama is dealing with...global economic problems.",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama addressed global economic problems with a combination of policy initiatives aimed at recovery and stability. During his tenure, efforts such as economic stimulus packages and financial reforms were implemented to foster growth and prevent further downturns. While there may be differing opinions on the effectiveness or sufficiency of these measures, overall, his approach was proactive in trying to manage the economic challenges faced at that time. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama approached global economic problems with a focus on recovery and stability, implementing policies aimed at stimulating growth and preventing further downturns. While some may have criticized aspects of his approach, overall, his handling appeared to prioritize recovery efforts during a challenging economic period. Therefore, I approve of his management of global economic issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama made significant efforts to address global economic problems through policies aimed at recovery and stabilization. His administration focused on stimulating economic growth, saving jobs, and restoring confidence in the financial markets. While not all measures were universally successful or without criticism, overall, his approach showed commitment to tackling the global economic challenges of the time. Therefore, I approve of his handling of these issues.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that President Barack Obama took proactive steps to address global economic problems through policies focused on economic recovery, stabilization, and growth. His administration's efforts to stimulate the economy, save jobs, and restore confidence demonstrate a committed and strategic approach to handling a difficult economic situation. Although there was some criticism, the overall emphasis on recovery suggests a positive assessment of his management during that period. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of President Barack Obama's approach to dealing with global economic problems because he implemented policies such as economic stimulus packages and financial reforms aimed at recovery and stability. These efforts demonstrated a proactive commitment to mitigating economic challenges and fostering growth, despite some criticisms regarding their effectiveness. Overall, his administration showed determination to address the global economic issues during his tenure.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of President Barack Obama's approach to dealing with global economic problems. His policies, including economic stimulus measures and financial reforms, were aimed at stabilizing the economy and promoting recovery during a difficult period. While opinions may vary on their effectiveness, his proactive efforts were focused on addressing serious economic challenges. Given this context, I believe his handling was generally positive and supportive of economic stability.  \nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of President Barack Obama's approach to dealing with global economic problems because his administration implemented various measures such as stimulus packages and financial reforms aimed at stabilizing the economy and promoting recovery. These proactive efforts demonstrated a commitment to addressing complex economic challenges during a difficult period, and despite differing opinions on their effectiveness, his overall strategy was focused on fostering growth and stability.  \nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama took significant and proactive measures to address global economic problems, including stimulus packages, financial reforms, and efforts to stabilize the economy. These policies aimed to stimulate growth, save jobs, and restore confidence during a challenging period. Based on this, I approve of his approach to handling global economic issues.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of President Barack Obama's approach to dealing with global economic problems because his administration implemented significant policies like stimulus packages and financial reforms aimed at recovery and stability. These measures demonstrated a proactive effort to mitigate the crisis and promote economic growth, reflecting a strategic and committed response to a challenging situation. Therefore, I believe his management was largely effective in addressing these issues.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

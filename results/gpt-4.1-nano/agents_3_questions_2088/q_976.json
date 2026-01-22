@@ -1,0 +1,61 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for your country. Do you think that Islamic extremist groups is a major threat, a minor threat or not a threat to your country? ",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Islamic extremist groups pose a minor threat to my country. While there have been concerns and some incidents that raise awareness about such groups, overall, the threat is not widespread or directly impacting the daily lives of most citizens. The government and security agencies seem to be taking measures to prevent major incidents, which helps reduce the perceived level of danger. Therefore, I see this as a limited or marginal concern rather than an immediate or major threat.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Islamic extremist groups pose a minor threat to my country. While there may be some concern about their activities and influence, the government\u2019s security measures and international cooperation help mitigate significant risks. Overall, the threat exists but is not overwhelming or directly impacting daily life for most citizens.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups pose a significant concern due to their potential for violence and instability. While the threat level may vary, their influence can sometimes lead to serious security issues, impacting safety and national security. Therefore, I consider them a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Islamic extremist groups pose a minor threat to my country. Although there is some concern about their activities and influence, the effectiveness of government security measures and international cooperation help reduce the overall risk. The threat exists but does not seem to be an immediate or overwhelming danger to daily life or national stability.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Islamic extremist groups pose a minor threat to my country. While there have been incidents and concerns about such groups, overall, the threat does not appear to be widespread or directly impact daily life for most citizens. Security measures are in place to prevent major incidents, which reduces the perceived level of danger. Therefore, I see this as a limited concern rather than a major one.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Islamic extremist groups pose a minor threat to my country. While I recognize that such groups exist and could potentially cause harm, the current security measures, international cooperation, and public awareness appear to be effectively managing the risk. Therefore, I view this as a concern that warrants some attention but is not an imminent or major danger to the nation.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Islamic extremist groups pose a minor threat to my country. While the threat is acknowledged and monitored through security efforts, it does not currently seem to have widespread or severe impact on daily life. Ongoing measures help manage the risk effectively, so I see this as a concern that requires attention but does not constitute a major danger at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Islamic extremist groups pose a minor threat to my country. While there are concerns about their potential activities and influence, existing security measures, international cooperation, and public awareness seem to be effectively managing the risk. It does not appear to be an immediate or overwhelming danger to national stability or daily life, so I see it as a concern that requires attention but is not an urgent or major threat at this time.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that Islamic extremist groups are a minor threat to my country. While there is some concern about their activities and potential for violence, the overall threat level is mitigated by effective security measures, law enforcement efforts, and international cooperation. These factors help prevent widespread or imminent danger, indicating that while the risk exists, it is not an immediate or major concern for societal stability and daily life.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

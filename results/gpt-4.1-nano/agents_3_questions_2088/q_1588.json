@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable opinion of...The European Central Bank?",
+  "options": [
+    "Very favorable",
+    "Somewhat favorable",
+    "Somewhat unfavorable",
+    "Very unfavorable"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Central Bank. I appreciate its efforts to maintain price stability and support economic growth within the Eurozone, but I also recognize some concerns about its policies and their impacts on different member states. Overall, I view its role positively but with some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Central Bank. I believe that its efforts to maintain price stability and support economic growth are important, although I sometimes have concerns about its policies and their impact on various economies within the Eurozone. Overall, I see it as a necessary institution that plays a critical role in the European financial system, but with room for improvement. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B because I generally view the European Central Bank positively as it plays a crucial role in maintaining economic stability within the Eurozone. However, there are times when its policies seem to prioritize certain economic interests over others, leading to some reservations. Overall, I have a somewhat favorable opinion, but I recognize that there are areas where its actions could be improved or clarified.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Central Bank. I recognize its crucial role in maintaining economic stability and supporting growth within the Eurozone, but I also have some reservations about certain policies and their broader impacts. I believe it is a necessary institution, though there is room for improvement in how it conducts its policies and communicates its objectives.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Central Bank. While I appreciate its efforts to stabilize the euro and support economic growth, I am aware of some criticisms regarding its policy decisions and their effects on different member states. This balanced perspective leads me to choose somewhat favorable.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Central Bank. I appreciate its efforts to promote price stability and support economic growth within the Eurozone. However, I also have some concerns about its policies and their effects on different member states. Overall, I view its role positively but with certain reservations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable view of the European Central Bank. I recognize its important role in maintaining euro stability and supporting economic growth within the Eurozone. While I appreciate its efforts, I am also aware of some contentious policy decisions and differing impacts on member states, which makes my opinion somewhat cautious but overall positive.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Central Bank. I recognize its important role in maintaining economic stability and supporting growth in the Eurozone. However, I also have reservations about some of its policies and their broader impacts on different member states, which prevents me from viewing it as highly favorable overall.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I have a somewhat favorable opinion of the European Central Bank. I recognize its important role in maintaining economic stability and supporting growth within the Eurozone, but I also acknowledge that some of its policies can be controversial and have mixed impacts across member states. Overall, I see it as a necessary institution, while believing there is potential for its approach to be improved. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

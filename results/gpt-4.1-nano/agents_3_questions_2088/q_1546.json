@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me how important each of the following is in a democracy to you...People can openly say what they think and can criticize the government?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Openly expressing opinions and criticizing the government are fundamental aspects of a healthy democracy, ensuring accountability and protecting freedom of speech. Without the ability to voice dissent, the democratic process can become restrictive and unresponsive to citizens' needs. Therefore, I consider this ability to be very important for a democracy to function properly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that having the ability to openly express opinions and criticize the government is fundamental to a healthy democracy, as it ensures accountability and diverse viewpoints are heard. This openness helps prevent tyranny and promotes transparency, which are essential for a functioning democratic society. Therefore, I consider it very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe it is very important for people to be able to openly say what they think and criticize the government because this freedom is fundamental to holding leaders accountable, encouraging transparency, and fostering a healthy democratic society. Without such open expression, democracy loses its vitality and can become oppressive or unresponsive to the needs of its citizens.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the ability to openly express opinions and criticize the government is fundamental for a healthy democracy. It ensures accountability, transparency, and the diversity of viewpoints necessary for a thriving democratic society. Such openness helps prevent abuses of power and keeps leaders responsive to the needs of citizens. Therefore, I consider it very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the ability of people to openly say what they think and criticize the government is very important in a democracy because it ensures accountability, transparency, and the protection of freedom of speech, which are essential for a healthy and responsive democratic society.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Openly expressing opinions and criticizing the government is essential for accountability, transparency, and the protection of fundamental freedoms. Without these rights, a democracy risks becoming unresponsive and suppressing dissent. I believe this is very important for a democracy to function properly.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that people being able to openly say what they think and criticize the government is very important in a democracy because it fosters accountability, transparency, and protects freedoms essential for healthy societal functioning. Allowing free expression of differing opinions ensures that governments remain responsive to the needs of citizens and that dissent is not suppressed. Such openness is fundamental to maintaining an informed and engaged populace, which is the cornerstone of a robust democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the ability of people to openly say what they think and criticize the government is fundamental to maintaining a healthy democracy. It fosters accountability, transparency, and allows diverse viewpoints to be heard, which are essential for preventing abuses of power and ensuring leaders remain responsive to citizens' needs. Therefore, I consider it very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the ability to openly say what one thinks and criticize the government is very important in a democracy because it safeguards freedoms, promotes accountability, and ensures the government remains responsive to citizens. These elements are vital for a transparent and healthy democratic society, encouraging diverse viewpoints and preventing abuses of power. Therefore, I consider it very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

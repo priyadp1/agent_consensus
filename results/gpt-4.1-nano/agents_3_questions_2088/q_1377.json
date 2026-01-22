@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?... Indian Prime Minister Manmohan Singh",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Manmohan Singh was regarded as a cautious and experienced economist who aimed to maintain stability and promote economic growth. However, during his tenure, some international observers questioned the strength and clarity of his foreign policy decisions and leadership in global affairs. While he was respected within India for his economic expertise, perceptions of his confidence and decisiveness on world issues were somewhat mixed from an external perspective. Therefore, my confidence in his ability to do the right thing regarding world affairs would be moderate, reflecting some trust but also some reservations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Manmohan Singh has historically been recognized for his economic expertise and diplomatic approach, especially during his tenure as Prime Minister of India. While he was respected for his integrity and knowledgeable leadership, some critics felt that his influence on foreign policy and international affairs was limited or lacked assertiveness. Overall, given his reputation and the complexities of global leadership, I would say I have some confidence in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Manmohan Singh served as India's Prime Minister from 2004 to 2014 and was known for his economic expertise and efforts to modernize India's economy. His leadership was generally characterized by a focus on stability and development rather than aggressive foreign policy initiatives or bold diplomatic moves. While he maintained India's strategic interests and participated in global discussions, some critics viewed his approach as cautious or reserved. Given this context, confidence in his ability to actively influence world affairs with a strong hand might be limited. Therefore, I would choose \"some confidence\" as a balanced assessment of his leadership in this area.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given Manmohan Singh's reputation for economic expertise and diplomatic moderation, combined with his cautious approach to foreign policy rather than assertive or bold moves, I feel comfortable with a moderate level of confidence. He demonstrated commitment to stability and development but was not known for strong or aggressive action on world affairs. Therefore, I believe I have some confidence in his ability to do the right thing regarding international issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that Manmohan Singh's reputation as a cautious and experienced leader, focused mainly on economic stability and development, suggests he may not have been the most proactive or assertive on global issues. While he was respected domestically and participated in international discussions, his leadership style was more reserved than bold. Therefore, I feel that \"some confidence\" accurately reflects my view of his ability to influence world affairs effectively. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering his reputation for economic expertise, diplomatic approach, and the cautious perception of his foreign policy influence, I believe he demonstrated a level of competence and integrity but perhaps lacked assertiveness in global leadership. Given these factors, I would say I have some confidence in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that Manmohan Singh was a cautious and experienced leader who prioritized economic stability and development. While he participated in international discussions, his style was more reserved and less assertive on global issues. Given this, I would say I have some confidence in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Given Manmohan Singh's reputation for economic expertise and diplomatic moderation, coupled with his cautious approach to foreign affairs, I believe he demonstrated competence and dedication to stability and development, but was not known for assertive or bold global leadership. This suggests I have some confidence in his ability to do the right thing regarding world affairs.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering Manmohan Singh's reputation as a cautious and diplomatic leader focused on economic stability rather than bold international initiatives, I believe he has a moderate level of confidence in handling global affairs. His approach tends to be reserved, prioritizing stability over assertiveness, which makes me trust him to do the right thing but not strongly. Therefore, I select:\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

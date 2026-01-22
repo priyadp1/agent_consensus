@@ -1,0 +1,63 @@
+{
+  "question": "What do you think about the growing trade and business ties between your country and other countries - do you think it is a very good thing, somewhat good, somewhat bad or a very bad thing for our country?",
+  "options": [
+    "Very good",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that increasing trade and business connections with other countries can bring numerous benefits such as economic growth, job creation, and access to new markets and technologies. These ties can also promote international cooperation and cultural exchange, which can be advantageous for our country's development. While there may be some concerns about competition or dependency, overall, I see the growing global engagement as a positive force that can help our country progress and adapt to global challenges.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the growing trade and business ties between our country and others are generally a positive development. Increased economic collaboration can lead to more opportunities for growth, job creation, and innovation. It can also foster better international relations and understanding among nations. Of course, there are challenges to manage, such as ensuring fair trade practices and protecting local industries, but overall, the benefits tend to outweigh the drawbacks. Therefore, I think it is a somewhat good development for our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the growing trade and business ties between our country and others are generally beneficial. They can lead to economic growth, create jobs, and foster international cooperation. These connections can open new markets for our goods and services and bring technological advancements. While there are potential challenges such as increased competition or dependency, overall, the opportunities for development and improved relations make this trend a positive one for our country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the growing trade and business ties between our country and other countries are largely beneficial. These connections have the potential to boost economic growth, create jobs, and foster international cooperation. While there are some challenges, such as increased competition and the need to ensure fair practices, the overall positive impacts on development and relations suggest that this trend is a healthy sign for our country's progress. Therefore, I think it is a somewhat good development for our country.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that increasing trade and business ties generally bring more benefits than drawbacks. They can stimulate economic growth, create jobs, and foster cooperation and cultural exchange which are vital for our country's progress. Although there are some risks of dependency or increased competition, I think the overall impact is positive for our development and global integration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the increasing trade and business ties with other countries offer substantial benefits for our nation's economic growth, job creation, and international cooperation. While there are challenges to manage, overall, it seems to be a positive development that can help our country progress and adapt to global changes. Therefore, I consider it somewhat good for our country.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that expanding trade and business relationships with other countries generally offers more benefits than drawbacks. Such ties can boost our economy, create new job opportunities, and promote international cooperation, all of which support our country's development and global presence. While managing potential risks is important, overall, this trend seems to be a positive force for our progress.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the advantages of expanding trade and business relationships with other countries, such as economic growth, job creation, and enhanced international cooperation, generally outweigh the potential challenges like increased competition. While there are some concerns to address, overall, I see this trend as beneficial for our country's progress and integration into the global economy. Therefore, I think it is a somewhat good development for our country. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the increasing trade and business ties between our country and others generally bring positive benefits such as economic growth, job creation, and international cooperation. While there are some challenges like competition and dependency risks, overall, I think it is a somewhat good development that can contribute to our country's progress and integration into the global economy. Therefore, I find the idea that it is somewhat good most appropriate.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

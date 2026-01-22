@@ -1,0 +1,61 @@
+{
+  "question": "As I read some proposed policies of President Donald Trump, please tell me if you approve or disapprove of each one. a. withdraw support for international climate change agreements",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of withdrawing support for international climate change agreements because global cooperation is essential to effectively address climate issues and to ensure commitments from major economies. Leaving these agreements could hinder progress on reducing greenhouse gas emissions and negatively impact efforts to combat climate change worldwide.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Disapproving of withdrawing support for international climate change agreements could be based on the belief that global cooperation is essential in addressing climate issues, and withdrawing might undermine efforts to combat climate change effectively. Additionally, such a move could be seen as neglecting environmental responsibilities or ignoring scientific consensus, which might not align with values prioritizing environmental protection and international collaboration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Disapproving of withdrawing support for international climate change agreements might be based on the belief that global cooperation is essential for effectively addressing climate issues, and withdrawing could hinder progress and damage international relations. Alternatively, some may agree with this approach if they prioritize national interests or economic concerns over international commitments. Personally, I believe that participating in international agreements is crucial for meaningful climate action and global collaboration.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of withdrawing support for international climate change agreements because global cooperation is essential in effectively addressing climate issues. Such a move might undermine efforts to combat climate change and could damage international relations. I believe participating in these agreements is crucial for meaningful climate action and to fulfill environmental responsibilities.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of withdrawing support for international climate change agreements because global cooperation is vital for effectively tackling climate issues, reducing greenhouse gas emissions, and ensuring that major economies fulfill their commitments. Leaving these agreements could undermine collective progress and hinder efforts to combat climate change worldwide.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of withdrawing support for international climate change agreements because global cooperation is crucial for effectively addressing climate issues and achieving meaningful emission reductions. Abandoning these agreements could weaken global efforts and undermine scientific consensus on climate change.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I disapprove of withdrawing support for international climate change agreements because global cooperation is essential to effectively tackling climate issues, reducing greenhouse gas emissions, and ensuring that all major economies contribute to solutions. Abandoning these agreements could hinder progress and weaken global efforts to combat climate change.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I disapprove of withdrawing support for international climate change agreements because global cooperation is essential for effectively addressing climate issues and achieving meaningful emission reductions. Abandoning these agreements could undermine international efforts and scientific consensus on climate change.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I disapprove of withdrawing support for international climate change agreements because global cooperation is essential for effectively addressing climate issues, reducing greenhouse gas emissions, and fulfilling environmental responsibilities. Such agreements are crucial for coordinated global action and long-term climate solutions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

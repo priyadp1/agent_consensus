@@ -1,0 +1,61 @@
+{
+  "question": "As I read some proposed policies of U.S. President Joe Biden, please tell me if you approve or disapprove of each one. c. The U.S. hosting a summit of democratic nations",
+  "options": [
+    "Approve",
+    "Disapprove",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Hosting a summit of democratic nations could be seen as a positive step towards strengthening international alliances and promoting democratic values worldwide. It can foster collaboration on global issues like security, human rights, and economic development. However, some may question the effectiveness of such summits or doubt whether they lead to tangible results. Overall, if the goal is to promote democracy and cooperation, I approve of the idea.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I think hosting a summit of democratic nations can be a positive step toward strengthening international alliances, promoting democratic values, and addressing global challenges collectively. It provides an opportunity for democracy-supporting countries to collaborate, share ideas, and demonstrate a united front. Therefore, I approve of the U.S. hosting such a summit.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Hosting a summit of democratic nations can be seen as a positive step toward strengthening international cooperation and promoting democratic values globally. Such a summit can facilitate dialogue, foster alliances, and address common challenges faced by democracies around the world. However, some may be skeptical about its effectiveness or question whether it will lead to meaningful change. Based on the potential benefits and concerns, my opinion leans towards approving this initiative as a way to support democratic development and international collaboration.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that hosting a summit of democratic nations can serve as an important platform to strengthen international alliances, promote shared democratic values, and address global challenges collectively. Such a gathering can foster dialogue among like-minded countries, reinforce democratic principles, and potentially lead to collaborative solutions. While effectiveness may vary, the initiative aligns with supporting democratic development and international cooperation.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that hosting a summit of democratic nations can be a valuable way to promote cooperation, strengthen alliances, and advance democratic values worldwide. Such a gathering provides an opportunity for dialogue on shared challenges and can help coordinate collective efforts on issues like security, human rights, and economic development. While there may be concerns about its tangible results, the potential benefits suggest that supporting this initiative aligns with promoting democracy and international collaboration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe hosting a summit of democratic nations can be a valuable diplomatic effort to strengthen alliances and promote democratic principles globally. Such gatherings can enhance international cooperation, address shared challenges, and reinforce commitments to democratic values. While the tangible outcomes can vary, the initiative itself serves as a positive signal of leadership and commitment to democracy. Therefore, I approve of the idea.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that hosting a summit of democratic nations can be a positive step towards fostering international cooperation and promoting shared democratic values. Such an event can serve as a platform to address global challenges collectively and strengthen alliances among like-minded countries. While some may question the tangible outcomes, the diplomatic signal and commitment to democracy make this initiative worthwhile. Therefore, I approve.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe hosting a summit of democratic nations is a constructive way to strengthen international alliances, promote shared values, and coordinate efforts on global issues. Such a gathering can facilitate dialogue, reinforce democratic principles, and demonstrate leadership in supporting democracy worldwide. Considering these benefits, I approve of the initiative.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that hosting a summit of democratic nations can be beneficial in fostering international cooperation, reinforcing shared values, and addressing global issues collectively. Such an initiative can strengthen alliances and promote democratic development worldwide, which I support.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

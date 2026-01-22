@@ -1,0 +1,62 @@
+{
+  "question": "Now I am going to read you a list of things that may be problems in our country.  As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all...the conflict between the civilian government and the judiciary",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "The conflict between the civilian government and the judiciary can significantly impact a country's stability, governance, and rule of law. When such conflicts are frequent or intense, they can undermine trust in institutions, impede policymaking, and lead to political uncertainty. However, the severity of this problem varies depending on the context; in some countries, it may be a major obstacle to effective governance, while in others, it might be a relatively minor issue. Given its potential to destabilize democratic processes and governance structures, I believe it is a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The conflict between the civilian government and the judiciary can have serious implications for the country's stability, rule of law, and democratic processes. When such conflicts escalate, they can undermine public trust in institutions and hinder effective governance. Depending on the frequency and severity of these conflicts, they can be seen as a significant obstacle to progress. Therefore, I believe it is a moderately big problem, as it can disrupt the functioning of the government but may not always reach the level of a very big problem unless compounded by other issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "The conflict between the civilian government and the judiciary can significantly impact the country's stability, governance, and rule of law. When such conflicts hinder governance or undermine judicial independence, they can lead to political instability, erosion of democratic norms, and loss of public trust. Therefore, I consider it a very big problem because it threatens the effective functioning of institutions and the overall health of the democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the conflict between the civilian government and the judiciary can have serious repercussions for the stability and functioning of a country\u2019s democratic institutions. While some conflicts may be manageable, persistent or severe disputes can undermine the rule of law, erode public trust, and lead to political instability. Given these considerations, I think it is a moderately big problem, as it can potentially disrupt governance but might not always escalate to the most severe level unless compounded by other issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that conflicts between the civilian government and the judiciary can seriously undermine democratic processes, judicial independence, and overall governance. Such conflicts can delay the implementation of laws, weaken trust in institutions, and potentially lead to political instability. Considering the potential for these issues to destabilize the country's democratic framework and affect governance, I see this as a very significant problem that needs attention.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a conflict between the civilian government and the judiciary can significantly impact a country's governance, stability, and rule of law. Such conflicts can erode public trust and hinder effective policymaking, especially if they become ongoing or escalate. Given these potential consequences and their impact on democratic processes, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that conflicts between the civilian government and the judiciary pose a very significant threat to a democracy. Such conflicts can undermine judicial independence, delay legal processes, erode public trust, and potentially lead to political instability. These issues impact the core functioning of governance and the rule of law, making them a very big problem that requires careful attention and resolution.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the conflict between the civilian government and the judiciary can have serious consequences for the country's political stability, trust in institutions, and the rule of law. While not all conflicts are equally severe, persistent or escalating disputes in this area can undermine democratic governance and lead to significant instability. Therefore, I consider it a very big problem.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that conflicts between the civilian government and the judiciary can seriously undermine democratic processes, judicial independence, and overall governance. Such conflicts can delay the implementation of laws, weaken trust in institutions, and potentially lead to political instability. Considering the potential for these issues to destabilize the country's democratic framework and affect governance, I see this as a very significant problem that needs attention.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

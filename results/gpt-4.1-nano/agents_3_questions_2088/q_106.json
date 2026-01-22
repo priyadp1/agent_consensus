@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very big problem, a moderately big problem, a small problem or not a problem at all. bb. people leaving our country for jobs in other countries",
+  "options": [
+    "Very big problem",
+    "Moderately big problem",
+    "Small problem",
+    "Not a problem at all",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "The issue of people leaving the country for jobs in other nations can be quite significant, especially if it results in a loss of skilled workers, affects economic growth, or causes social and demographic shifts. In many cases, this can be considered a moderately big to very big problem depending on the extent of the exodus and the country's reliance on these workers. If it\u2019s a widespread issue that hampers national development, it might be viewed as very big; if it affects only some sectors or regions, it could be seen as less serious. Overall, I think it is a moderately big problem, as migration of workers can have substantial impacts but often is not an outright disaster situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "The issue of people leaving our country for jobs in other countries can have significant implications for the economy, workforce stability, and social development. When large numbers of citizens emigrate in search of better opportunities, it may lead to labor shortages, reduced domestic economic growth, and a loss of human capital that could otherwise contribute to the country's progress. Depending on the scale, if this phenomenon is widespread, it could be considered a very big problem. If it is limited or happening only to a small segment, it might be viewed as less critical. Overall, given the potential impact on national development, I would categorize it as a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "People leaving our country for jobs in other countries can be a significant issue depending on the scale and circumstances. If many of our citizens are leaving in large numbers, it could lead to labor shortages, economic decline, and social consequences, making it a very big problem. Conversely, if only a few individuals leave and it doesn't noticeably impact society or the economy, it might be a smaller problem or not a problem at all. Overall, I believe this is generally a moderately big problem, especially if the trend is widespread and persistent, because it can undermine economic stability and social cohesion. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries can have significant consequences, especially if the trend is large-scale. Loss of a skilled workforce, economic decline, and social disruptions can occur when many citizens emigrate. While individual or limited outflows might be less impactful, persistent and widespread migration for employment can undermine national development and stability. Therefore, I consider it a moderately big problem. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries can be a moderately big problem. This is because, while it can create issues like labor shortages and economic impacts if the trend is widespread, it doesn't necessarily lead to severe or immediate crises in all cases. The extent of its significance largely depends on the scale of migration; in many situations, it may be manageable or less impactful, but still worth attention. Therefore, I consider it a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries is a moderately big problem. The movement of a significant portion of the workforce abroad can lead to shortages of skilled workers, hinder economic growth, and impact social stability. While it may not always be catastrophic, the potential for negative effects on national development makes it a notable issue that warrants attention. Therefore, I see it as a problem that is important but not necessarily catastrophic.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries is a moderately big problem. When a significant number of skilled workers or laborers emigrate, it can slow down economic growth, create shortages in key industries, and potentially weaken the country's overall development. While it may not cause immediate crises, the cumulative impact over time makes it an issue that deserves attention. Therefore, I see it as a problem that is important but not necessarily catastrophic.  \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I think that people leaving our country for jobs in other countries can have serious implications for our nation's development and stability, especially if the trend is widespread. The loss of skilled workers and potential economic setbacks can hinder progress, though the impact might vary depending on scale. Given these considerations, I believe this is a moderately big problem.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that people leaving our country for jobs in other countries can have significant consequences, especially if the trend is large-scale. The loss of skilled workers, potential economic decline, and social disruptions can occur when many citizens emigrate for employment. While small-scale or individual outflows may be less impactful, widespread migration for jobs risks undermining national development and stability. Therefore, I consider it a moderately big problem.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

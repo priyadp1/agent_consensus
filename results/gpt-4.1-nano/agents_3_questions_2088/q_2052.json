@@ -1,0 +1,63 @@
+{
+  "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?\n\nPeople who have AIDS",
+  "options": [
+    "Mentioned",
+    "Not mentioned",
+    "Don't know",
+    "No answer",
+    "Missing; Not available"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I would choose not to have someone with AIDS as a neighbor because of concerns about health and safety, despite understanding that AIDS is a medical condition that is not transmitted through casual contact. Personal comfort and safety considerations often influence such preferences.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "INVALID",
+        "raw_output": "",
+        "model_failed": true
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I would prefer not to have neighbors with AIDS because of concerns about health and transmission risk. Although with proper precautions, transmission is limited, personal comfort and safety considerations influence my preference. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe it is important to avoid making judgments based on health conditions such as AIDS, as this can contribute to stigma and discrimination. While some individuals may have personal concerns, it is essential to recognize that having AIDS does not determine a person's character or suitability as a neighbor. Therefore, I would not exclude someone based solely on this condition.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I recognize that AIDS is a medical condition that is not transmitted through casual contact and that living near someone with AIDS generally does not pose health risks to neighbors. However, personal comfort and societal attitudes often influence individual preferences. Given the opinions of other respondents who expressed reservations but acknowledged the medical facts, I also choose not to have someone with AIDS as a neighbor based on personal comfort and safety concerns.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that having a neighbor with AIDS should not be a basis for excluding them, as AIDS is a medical condition that does not pose a risk through casual contact and is based on personal health choices. However, some individuals may have concerns rooted in misinformation or stigma, which can influence their preferences. Given this, I would choose to acknowledge the common concerns but advocate for understanding and acceptance. Since the question asks specifically about preference and based on general public opinion, I would select option B to indicate I would not mention this as a concern.  \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the medical facts that AIDS is not transmitted through casual contact and that having a person with AIDS as a neighbor does not pose health risks, personal discomfort, and societal stigmas often influence preferences. While understanding this, some individuals might still prefer not to have a neighbor with AIDS based on personal fears or misinformation. Given the options and the guidance to choose one, I will select the option that indicates a personal choice not to mention this as a concern, recognizing the importance of respecting personal comfort and societal attitudes.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that having AIDS should not be a reason to refuse someone as a neighbor. Medical conditions like AIDS do not affect a person's ability to be a good neighbor, and discriminating based on health status is unfair and unjustified. Furthermore, promoting understanding and acceptance helps reduce stigma. Therefore, I would not mention this as a concern.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that having AIDS should not be a basis for avoiding someone as a neighbor. It is a medical condition that does not affect a person's character or suitability for community living, especially considering that HIV/AIDS is not transmitted through casual contact. Personal comfort is understandable, but discrimination based on health status is unfair and perpetuates stigma. Therefore, I choose not to exclude individuals with AIDS as neighbors.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

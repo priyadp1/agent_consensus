@@ -1,0 +1,63 @@
+{
+  "question": "Please tell me whether you completely agree, mostly agree, mostly disagree or completely disagree with the following statements. g. We should restrict and control entry into our country more than we do now",
+  "options": [
+    "Completely agree",
+    "Mostly agree",
+    "Mostly disagree",
+    "Completely disagree",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that controlling and restricting entry into our country can help ensure national security, manage immigration levels effectively, and protect our economy and social services. Given these reasons, I mostly agree that we should have stricter entry controls than we do now.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that controlling and restricting entry into the country can help manage immigration flow, ensure national security, and maintain social and economic stability. While open borders might promote diversity and opportunities, unchecked entry could pose risks related to security, resources, and social cohesion. Therefore, I mostly agree that we should have more restrictions and controls than we currently do to safeguard our nation's interests while balancing openness.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that controlling and restricting entry into the country is important for maintaining national security, public safety, and managing resources effectively. Given current concerns about immigration, economic stability, and border security, I mostly agree that we should have stricter entry controls than we do now to ensure these priorities are met while still being fair and humane.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that implementing stricter entry controls can help ensure national security, effectively manage resources, and protect social cohesion. While open borders have benefits, unchecked immigration could lead to challenges in security and resource allocation. Therefore, I mostly agree that we should restrict and control entry into our country more than we do now.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that controlling and restricting entry into our country is necessary to safeguard national security, ensure the safety of our citizens, and manage our resources effectively. While it is important to be fair and humane, I think that having stricter controls than we currently do would help address current challenges related to immigration, border security, and economic stability. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that managing entry into the country is important for security, economic stability, and social cohesion. While openness can bring benefits, I think tighter controls are necessary to prevent potential risks and ensure that immigration levels are sustainable and manageable. Therefore, I mostly agree that we should restrict and control entry more than we do now.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that controlling and restricting entry into our country is important to protect national security, ensure safety, and manage resources effectively. While I think it\u2019s crucial to be humane and fair, I agree that having more restrictions than we currently do can help address issues related to immigration, border security, and economic stability. Therefore, I mostly agree with the statement.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that controlling entry into our country is essential for maintaining security, managing resources, and ensuring social stability. While open borders can have benefits, unchecked immigration may pose challenges that are better managed through stricter controls. Therefore, I mostly agree that we should restrict and control entry more than we do now.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that having stricter entry controls can help address concerns related to national security, resource management, and social cohesion. While openness can promote globalization and economic growth, uncontrolled entry may lead to challenges such as security threats and resource strain. Therefore, I mostly agree that we should restrict and control entry into our country more than we do now. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

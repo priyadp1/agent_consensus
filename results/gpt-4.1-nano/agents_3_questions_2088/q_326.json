@@ -1,0 +1,60 @@
+{
+  "question": "Please tell me if you approve or disapprove of the way President Barack Obama is dealing with...climate change.",
+  "options": [
+    "Approve",
+    "Disapprove"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama made significant efforts to address climate change through policies such as the Clean Power Plan and increased investments in renewable energy. While some may argue that more aggressive action was needed, his administration took meaningful steps to promote environmental sustainability. Therefore, I approve of how he managed the issue. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama was proactive in addressing climate change by promoting renewable energy initiatives, signing the Paris Agreement, and implementing regulations to reduce carbon emissions. These efforts suggest he was committed to tackling this urgent issue, and I approve of his approach.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama has taken significant steps to address climate change, including implementing regulations to reduce emissions and supporting renewable energy initiatives. These efforts demonstrate a commitment to environmental sustainability, although some may argue more could have been done or that policy impacts take time to manifest. Overall, I approve of his approach to tackling climate change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama made substantial efforts to address climate change through policies such as the Clean Power Plan, promoting renewable energy, and participating in international agreements like the Paris Agreement. These actions indicate a proactive approach to combating climate change, and I approve of his handling of the issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama made significant efforts to address climate change through policies such as the Clean Power Plan and increased investments in renewable energy. While some may argue that more aggressive action was needed, his administration took meaningful steps to promote environmental sustainability. Therefore, I approve of how he managed the issue.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I approve of President Barack Obama's approach to addressing climate change because he took proactive measures such as signing the Paris Agreement, promoting renewable energy, and implementing regulations to reduce emissions. These actions demonstrate a committed effort to combat climate issues, and I believe they were meaningful steps despite some critics wishing for even more aggressive policies.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I approve of President Barack Obama's approach to addressing climate change because he took proactive and tangible actions such as signing the Paris Agreement, promoting renewable energy, and implementing regulations to reduce emissions. These efforts demonstrate a committed and meaningful effort to combat climate issues, even if some critics wished for more aggressive policies. His administration's initiatives laid important groundwork for environmental sustainability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I approve of President Barack Obama's approach to addressing climate change because he took proactive measures such as signing the Paris Agreement, promoting renewable energy, and implementing regulations to reduce emissions. These actions demonstrate a committed effort to combat climate issues, and I believe they were meaningful steps despite some critics wishing for even more aggressive policies.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe President Barack Obama made notable efforts to tackle climate change by implementing policies like the Clean Power Plan, promoting renewable energy sources, and engaging in international agreements such as the Paris Agreement. These actions demonstrate a proactive approach to addressing environmental issues, and I approve of his handling of climate change.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

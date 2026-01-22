@@ -1,0 +1,62 @@
+{
+  "question": "How worried are you, if at all, that the U.S. could become a military threat to our country someday?  Are you very worried, somewhat worried, not too worried, or not at all worried?",
+  "options": [
+    "Very worried",
+    "Somewhat worried",
+    "Not too worried",
+    "Not at all worried"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I find myself somewhat worried about the possibility of the U.S. becoming a military threat to our country someday. While I recognize that the U.S. has a strong defense system and diplomatic measures to prevent such scenarios, the changing global political landscape and emerging conflicts make me cautious. It's important to remain vigilant and work towards peaceful solutions, but I believe some level of concern is justified given the potential consequences. Therefore, I choose option B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried because while the U.S. generally maintains a strong military and diplomatic presence to prevent any threats, the possibility of future conflicts or misunderstandings cannot be entirely ruled out. It\u2019s important to remain vigilant and proactive in ensuring national security, but I do not believe there is an immediate or imminent threat that warrants significant concern. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried because, while I believe the U.S. maintains a strong and capable military to protect against threats, the possibility of future conflicts or misunderstandings could pose a risk. It\u2019s important to stay vigilant and proactive to prevent such scenarios. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried because, while the U.S. has a strong military to ensure national security, the possibility of future conflicts or misunderstandings remains a concern. It's important to stay vigilant to prevent such threats, but I do not see an immediate danger that makes me highly worried. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I feel somewhat worried about the possibility of the U.S. becoming a military threat someday. While I trust in our country's defense capabilities and diplomatic efforts, I believe that shifting geopolitical tensions and emerging conflicts could, in some cases, elevate risks. It's important to stay aware and prepared but also to work towards maintaining peace and stability. Given these considerations, I am somewhat worried but not excessively so.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about the possibility of the U.S. becoming a military threat to our country someday. While I recognize the strength of our defense and diplomatic efforts, global tensions and conflicts could potentially lead to such a scenario in the future. Therefore, maintaining vigilance is important, and some concern is justified to ensure preparedness and peace. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried about the possibility of the U.S. becoming a military threat someday. While I trust our defense systems and diplomatic efforts, I believe that global geopolitical tensions and emerging conflicts could pose risks in the future. It\u2019s important to stay vigilant and promote peace, but some level of concern is understandable given the complexities of international relations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe I am somewhat worried about the possibility of the U.S. becoming a military threat to our country someday. While our military strength is a deterrent and diplomacy plays a key role in maintaining peace, the unpredictable nature of international relations and potential future conflicts make me think that some level of concern is justified. Staying vigilant and prepared seems prudent without being overly alarmed. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I am somewhat worried because I recognize that while the U.S. maintains a strong military to protect national interests, there is always a potential for future conflicts or miscalculations that could escalate into threats. It\u2019s important to stay prepared and vigilant, but I do not believe an immediate or inevitable threat exists. Maintaining diplomatic efforts and international stability are crucial in mitigating these risks. Therefore, I would choose the option indicating a moderate level of concern.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

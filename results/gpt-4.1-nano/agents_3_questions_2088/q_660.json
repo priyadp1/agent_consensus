@@ -1,0 +1,61 @@
+{
+  "question": "Thinking about how people around the world view Mexico these days, do you think Mexico is well regarded or poorly regarded?",
+  "options": [
+    "Well regarded",
+    "Poorly regarded",
+    "Neither/both (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In recent years, Mexico has gained international attention for its vibrant culture, tourism, and economic growth, which contributes to a positive image in many parts of the world. However, issues related to violence, drug cartels, and political challenges often cast a negative light, affecting perceptions. Overall, while there are some concerns, Mexico remains generally well regarded in many countries for its rich traditions, cuisine, and contributions to arts and culture. Therefore, I believe it is viewed positively by most around the globe.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my view, Mexico tends to be viewed positively overall, especially due to its rich culture, history, cuisine, and contributions to arts and entertainment. While there are some negative perceptions related to issues like safety or politics, these are often outweighed by the admiration for Mexico's vibrant heritage and friendly people. Consequently, most international opinion seems to lean toward a favorable view rather than a negative one.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people around the world view Mexico positively due to its rich cultural heritage, vibrant traditions, and contributions to art, music, and cuisine. However, some perceptions are influenced by concerns related to safety, drug violence, and economic challenges, which can impact the overall reputation. Despite these issues, Mexico generally maintains a favorable image internationally because of its cultural influence and economic significance. Therefore, I believe Mexico is mostly well regarded globally, even if some negative perceptions exist.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Mexico is generally well regarded around the world due to its rich cultural heritage, vibrant traditions, and contributions to arts, music, and cuisine. While there are some negative perceptions related to safety and political issues, these do not overshadow the overall positive view that many hold of Mexico. The country's cultural influence and friendly reputation tend to outweigh concerns, leading me to see it more positively than negatively. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe Mexico is generally well regarded internationally. Despite concerns about violence and political issues, Mexico's rich culture, vibrant traditions, and contributions to arts, cuisine, and tourism tend to foster positive perceptions around the world. The country's global influence and economic significance also contribute to a favorable image. Therefore, I consider Mexico to be well regarded overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the positive aspects highlighted by other respondents, such as Mexico's rich culture, history, cuisine, and contributions to arts, along with the relative overshadowing of negative perceptions like safety concerns, it seems that Mexico is generally viewed favorably internationally. Although issues exist, they do not seem to dominate overall perceptions. Therefore, I believe Mexico is well regarded globally.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe Mexico is generally viewed positively around the world, as many aspects such as its rich culture, traditions, cuisine, arts, and tourism help foster a favorable global image. While there are concerns related to safety and political issues, these do not seem to significantly overshadow the country's positive reputation in the international arena. Therefore, I consider Mexico to be well regarded overall.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Mexico is generally well regarded internationally due to its rich cultural heritage, vibrant traditions, and significant contributions to arts, music, and cuisine. Although there are some negative perceptions related to safety and political issues, these do not seem to overshadow the positive image that many around the world hold. The country's cultural influence and friendly reputation tend to lead to a favorable view overall. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe Mexico is generally well regarded around the world, primarily due to its rich cultural heritage, vibrant traditions, and global contributions in arts, music, cuisine, and tourism. While there are some negative perceptions related to safety and political concerns, these issues do not seem to significantly diminish the overall positive view that many hold of Mexico. The country's cultural influence and friendly reputation tend to overshadow negatives, leading me to see Mexico as more well regarded than poorly regarded.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

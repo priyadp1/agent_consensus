@@ -1,0 +1,60 @@
+{
+  "question": "I am going to read you a list of things people do on cell phones, other than making calls. For each, please tell me if this is something you do regularly or not?...Send text messages",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I frequently send text messages on my cell phone as it is a quick and convenient way to communicate with friends, family, and colleagues. This activity has become a regular part of my daily routine, so I would choose the option indicating I do this regularly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I often send text messages on my cell phone to communicate quickly with friends, family, and colleagues. This is a common activity that I do regularly, making it an integral part of my daily communication habits. Therefore, I would choose the option indicating I do this regularly. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I frequently send text messages on my cell phone because it is a quick and convenient way to communicate with friends, family, and colleagues without making a phone call. Texting has become one of my regular activities on my device, making it a common part of my daily routine.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I frequently use my cell phone to send text messages because it allows me to communicate quickly and efficiently with others. It has become a regular part of my daily routine for staying in touch with friends, family, and colleagues. Therefore, I am confident that I do this regularly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I regularly send text messages on my cell phone because it is an efficient and convenient way for me to stay in touch with friends, family, and colleagues without the need for a voice call. This activity has become a standard part of my daily usage, making it a regular habit.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I regularly use my cell phone to send text messages because it allows for quick and efficient communication with people I interact with frequently, such as friends, family, and colleagues. Given that this activity has become an integral part of my daily routine, I would select the option indicating I do this regularly. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I regularly send text messages on my cell phone because it provides a quick, convenient, and efficient way to communicate with friends and family without needing to make a voice call. Since it has become an integral part of my daily communication habits, I consider this activity something I do regularly. \n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I regularly use my cell phone to send text messages because I find it to be the most convenient and efficient way to communicate quickly with friends, family, and colleagues. It has become an integral part of my daily routine. Therefore, I do this regularly.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I regularly send text messages on my cell phone because it provides a quick and convenient way to stay in touch with others without making a phone call. It has become a habitual part of my daily communication routine.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

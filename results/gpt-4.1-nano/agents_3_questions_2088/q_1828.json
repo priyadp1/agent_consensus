@@ -1,0 +1,63 @@
+{
+  "question": "As I read each one, please tell me if you think it is a very important, somewhat important, not too important, or not at all important reason why people in your country move to other countries. b. To escape violence",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not at all important",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Many people consider escaping violence a very important reason for migration because personal safety and security are fundamental needs. When individuals face threats from conflict, crime, or political persecution, they are often compelled to seek safer environments elsewhere. Therefore, I believe this is a very important reason for migration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Many people flee dangerous situations and violence in their home countries, making this a very significant reason for migration. The desire for safety and security often outweighs other factors, especially in regions experiencing conflict or widespread violence. Therefore, escaping violence is generally regarded as a very important motivation for migration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe escaping violence is a very important reason because safety concerns and personal security are fundamental needs. When people face threats of harm, they often prioritize finding a safer environment, which strongly influences their decision to emigrate. Therefore, I consider it a very important reason for international movement.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe escaping violence is a very important reason because safety concerns and personal security are fundamental needs. When people face threats of harm, they often prioritize finding a safer environment, which strongly influences their decision to emigrate. Therefore, I consider it a very important reason for international movement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Escaping violence often poses a life-threatening situation and directly affects individuals' safety and well-being. Given the significance of safety as a fundamental human need, I believe that escaping violence is a very important reason for people moving to other countries. People affected by conflict, crime, or persecution are usually forced to migrate in search of protection and security, making this a crucial factor in international migration decisions.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Many people consider escaping violence a very important reason for migration because personal safety and security are fundamental needs. When individuals face threats from conflict, crime, or political persecution, they are often compelled to seek safer environments elsewhere. Therefore, I believe this is a very important reason for migration.ANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Escaping violence is a critical concern because exposure to conflict, crime, or persecution can threaten people's lives and safety. Many individuals are compelled to migrate to find security and protection, making this a very important factor in their decision to move. Given the severity and life-threatening nature of violence, I consider it a very important reason for migration.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe escaping violence is a very important reason because safety concerns and personal security are fundamental needs. When people face threats of harm, they often prioritize finding a safer environment, which strongly influences their decision to emigrate. Therefore, I consider it a very important reason for international movement.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that escaping violence is a very important reason because safety and security are fundamental needs that directly impact people's decision to migrate. When individuals face threats of harm, violence, or persecution, their primary focus becomes seeking a safe environment, making this a significant motive for relocation. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "question": "Have the changes that have taken place in your country since 1991 had a very good influence, a good influence, a bad influence or a very bad influence on the following: How well people get along with one another?",
+  "options": [
+    "Very good influence",
+    "Good influence",
+    "Bad influence",
+    "Very bad influence",
+    "No influence (VOL)"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Since 1991, many countries have experienced significant social, political, and economic transformations. While some positive developments like increased personal freedoms and economic growth have brought people closer together, other factors such as economic inequality, political polarization, and social tensions have often driven divisions and conflicts. The overall impact on how well people get along with one another depends largely on specific contexts, but generally, the influence has been mixed. Given the complexity and the predominant challenges to social cohesion, I believe the changes have had a negative impact on interpersonal relations. Therefore, I select bad influence as it best captures the nuanced reality of increased divisions and social fragmentation observed in many societies over that period.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Since 1991, many countries have experienced significant political, social, and economic changes, which have had mixed effects on social cohesion. For some, modernization and increased connectivity have fostered understanding and collaboration, leading to better relationships among people. Conversely, rapid change and instability in certain regions may have increased divisions, mistrust, and conflicts. Considering the overall spectrum, the influence appears to be more mixed with some positive effects but also notable negative consequences. However, on balance, these changes seem to have largely challenged social harmony rather than enhanced it.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Since 1991, many countries have experienced social, political, and economic changes that can influence social cohesion. In some contexts, these changes have either improved or strained relationships among people. Given the complexities and varying experiences across regions, I believe these changes have generally made it more challenging for people to get along with one another, due to increased social inequalities, political polarization, and cultural tensions. Therefore, I consider that these developments have had a bad influence overall.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Since 1991, the various social, political, and economic changes have created both opportunities and challenges for social cohesion. While some modernization and increased globalization may have allowed for greater understanding and exchanges among people, these same developments often brought about social inequalities, cultural tensions, and polarization. These negative aspects seem to outweigh the positive, leading to more conflicts, mistrust, and divisions within societies. Therefore, overall, these changes have, on balance, made it more difficult for people to get along with one another.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "The period since 1991 has seen profound changes in many countries that affect social cohesion. While some positive aspects such as increased freedoms and economic opportunities have helped bring people closer, there have also been significant challenges like rising inequality, political polarization, and social tensions that tend to drive divisions and reduce mutual understanding. These conflicting trends suggest that, on balance, the overall influence has been more negative than positive, making it harder for people to get along with each other. Therefore, I believe the changes have had a bad influence on social relations in general.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Since 1991, the rapid political, economic, and social transformations have created a complex picture. While technological advancements and increased global connectivity have facilitated greater understanding among people, the same periods have also seen rising social tensions, inequality, and polarization in many regions. These factors often strain social cohesion, leading to mistrust and fragmentation. Given the mixed effects, and considering the overall trend toward increased divisions despite some positive aspects, I believe the influence has been more negative than positive in terms of how well people get along with one another.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the significant social changes since 1991, including increased inequality, political polarization, and social tensions alongside some positive developments like greater freedom and technological connectivity, I believe that these transformations have overall made it more difficult for people to get along with each other. The negative effects seem to outweigh the positive ones, leading to greater division and mistrust in many societies.  \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Since 1991, the substantial political, social, and economic changes have created a mixed environment. While modernization, technological progress, and globalization have fostered greater connections and understanding among some groups, they have also amplified social inequalities, cultural tensions, and divisions. These negative effects, such as increased mistrust and polarization, seem to outweigh the positives in terms of social cohesion and getting along. Therefore, these changes have generally had a more harmful influence on how well people get along with one another.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "Since 1991, my country has experienced significant social, political, and economic transformations. While these changes have introduced some benefits such as greater individual freedoms and economic growth, they have also led to increased social inequalities, polarization, and cultural tensions. These negative impacts have created divisions and mistrust among different groups, which makes it harder for people to get along with each other. Overall, I believe these developments have tended to weaken social cohesion rather than strengthen it.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders.  For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?\u2026Narendra Modi",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have some confidence in Narendra Modi's ability to do the right thing regarding world affairs, given his experience as India's prime minister and his involvement in various international initiatives. However, like many global leaders, his decisions are often influenced by domestic priorities and political considerations, which tempers my confidence. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I have a moderate level of confidence in Narendra Modi's ability to do the right thing regarding world affairs. As the Prime Minister of India, he has demonstrated leadership in both domestic and international contexts, but his approach sometimes reflects national interests that may not align perfectly with global consensus. Therefore, I feel some confidence in his decision-making on world issues.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Narendra Modi has demonstrated strong leadership and a strategic approach to international relations, which inspires confidence in his ability to handle world affairs. However, as with any leader, there are complexities and differing opinions about his decisions, so I would say I have some confidence overall.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe Narendra Modi has shown leadership qualities and a strategic approach in international relations, which gives me some confidence that he can handle global affairs effectively. Although there may be differing opinions and complexities, his overall track record suggests he has a moderate level of competence in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe Narendra Modi has taken active steps to engage with international leaders and participate in global discussions, showing a level of strategic planning and diplomatic activity. While his focus on national interests is clear, his involvement in international affairs suggests he has a certain degree of competence and confidence in handling world issues. However, given the complexities of global relations and the differing opinions about his policies, my confidence remains cautious. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe Narendra Modi demonstrates significant leadership and has been proactive on international issues, engaging in various diplomatic efforts and initiatives. While his decisions are sometimes influenced by India's national interests, his involvement in global discussions suggests a reasonable level of confidence in his ability to act in the right way regarding world affairs. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I recognize that Narendra Modi has shown active engagement in international forums and has taken steps to participate in global discussions, reflecting a level of diplomatic activity and leadership. While there may be differing opinions about his policies and the global implications of his actions, the fact that he is involved and proactive in world affairs suggests that I have some confidence in his ability to do the right thing regarding international issues. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Based on the perceptions expressed by other respondents, Narendra Modi appears to demonstrate leadership qualities and a proactive approach to international matters. While opinions vary, there is a general sense of confidence in his ability to handle global affairs effectively, though perhaps not at the highest level of certainty. This suggests a moderate level of confidence rather than full or absent confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I recognize that Narendra Modi has demonstrated a consistent pattern of engaging in international diplomacy and participating actively in global discussions, which indicates a respectable level of competence and confidence in his leadership regarding world affairs. While opinions about his policies are varied, his efforts in maintaining diplomatic relationships suggest that he is capable of making decisions in this arena. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

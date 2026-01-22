@@ -1,0 +1,60 @@
+{
+  "question": "Do you think the U.S. government favors or opposes democracy in our country?",
+  "options": [
+    "Favors",
+    "Opposes"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. government generally supports democracy, as it is founded on democratic principles and includes institutions designed to uphold democratic processes. While there may be instances of problematic actions or policies, overall, the government operates within a democratic framework, reflecting the will of the people and promoting democratic values. Therefore, I think the government favors democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. government generally supports democracy, as evidenced by its emphasis on elections, political freedoms, and rule of law. However, I also recognize instances where certain policies or actions may appear to undermine democratic principles, raising concerns about its true stance. Overall, the dominant narrative and institutional commitments suggest a favoring of democracy, but ongoing issues and disagreements can complicate this perception. Therefore, my view leans toward the government favoring democracy in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. government generally supports democracy, as evidenced by its commitment to democratic institutions, regular elections, and protection of civil liberties. While there may be instances of government actions that seem to undermine democratic principles, these are often contested and not representative of a consistent opposition to democracy. Overall, the government\u2019s role in maintaining democratic frameworks suggests that it favors democracy in the country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the U.S. government generally supports democracy, as evidenced by its emphasis on elections, political freedoms, and the rule of law. While there are occasions where certain policies may seem to undermine democratic principles, these instances do not appear to define a pattern of opposition. Overall, the government\u2019s actions and institutions point toward favoring democracy in the country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. government generally supports democracy, as evidenced by its established democratic institutions, regular electoral processes, and protections for civil liberties. While there are instances where actions or policies might be seen as undermining democratic principles, these are often contested and do not reflect an overall opposition. Therefore, I think the government favors democracy in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. government generally supports democracy, as its foundational principles include democratic processes, elections, and rule of law. While there are instances where certain policies might seem to challenge these principles, the overall framework and institutional commitments suggest a tendency to favor democracy. Therefore, my view leans toward the government favoring democracy in our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. government generally supports democracy, as it has established democratic institutions, conducts regular elections, and protects civil liberties. While there may be instances where policies or actions seem to undermine democratic principles, these do not define the overall stance of the government. The foundational democratic processes and commitments suggest a tendency to favor democracy. Therefore, my view leans toward the government favoring democracy in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. government generally supports democracy, as its core principles and institutional structures promote democratic processes, free elections, and rule of law. While there may be specific policies or actions that raise concerns for some, the overall pattern of government behavior and commitments suggests a tendency to favor democracy in our country.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the U.S. government generally supports democracy, as evidenced by its democratic institutions, electoral processes, and protections for civil liberties. Although there may be instances where policies seem to challenge democratic principles, these do not appear to define a pattern of opposition. Overall, the actions and institutions suggest that the government favors democracy in our country.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

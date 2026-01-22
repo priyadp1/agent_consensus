@@ -1,0 +1,63 @@
+{
+  "question": "Overall, how likely do you think it is that in the next 50 years, robots and computers will do much of the work currently done by humans?",
+  "options": [
+    "Definitely happen",
+    "Probably happen",
+    "Probably NOT happen",
+    "Definitely NOT happen",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe it is probably that robots and computers will do much of the work currently done by humans in the next 50 years. Advances in technology, artificial intelligence, and automation are progressing rapidly, making it highly feasible that many jobs can be automated or assisted by machines. While some jobs may remain human-centric due to complexity, emotional intelligence, or ethical considerations, the overall trend suggests a significant shift toward automation. Therefore, I see this as something likely to happen, though perhaps not with absolute certainty. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe there is a high likelihood that within the next 50 years, robots and computers will take over many tasks currently performed by humans. Technological advancements in artificial intelligence, automation, and robotics are progressing rapidly, making it increasingly feasible for machines to handle complex and routine work. While some jobs may remain inherently human, the trend suggests a significant shift toward automation across multiple industries. Therefore, I think it is probably going to happen, but there might still be some uncertainties and transitions involved.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe it is likely that in the next 50 years, robots and computers will perform much of the work currently done by humans. Advances in artificial intelligence, automation, and robotics have been rapid, leading to increased capabilities in various industries such as manufacturing, transportation, healthcare, and services. While some jobs may be resistant to automation, it is reasonable to think that a significant portion of the workforce will be replaced or augmented by machines over this time span, especially considering historical trends of technological progress and productivity gains. Therefore, I lean towards the view that this transformation is probable, though not absolutely certain.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the rapid advancements in artificial intelligence, robotics, and automation, it is reasonable to believe that in the next 50 years, a significant portion of the work currently done by humans will be performed by robots and computers. Historical trends support this view, and while some jobs may resist automation, the overall trajectory points toward a major shift in the workforce dominated by machines. Therefore, I think it is probably going to happen.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe it is probably that in the next 50 years, robots and computers will do much of the work currently done by humans. Technological advancements in artificial intelligence, robotics, and automation are progressing rapidly, and history shows a consistent trend toward increased efficiency and automation across various sectors. While some jobs may remain human-centric due to their emotional, ethical, or complex nature, the overall trajectory suggests a high likelihood of significant automation and augmentation of human work within this timeframe. Therefore, I lean towards the view that this is probable, but not with absolute certainty.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that it is probably that robots and computers will do much of the work currently done by humans in the next 50 years. Technological progress in artificial intelligence, robotics, and automation continues at a rapid pace, making it highly plausible that a significant amount of current jobs could be automated or augmented by machines. While some roles requiring emotional intelligence, complex decision-making, or ethical judgment might remain human-centric, the overall trend points toward widespread adoption of automation technologies. Given these factors, I see this as a likely development, though some uncertainties and societal adjustments may still arise.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe it is probably that in the next 50 years, robots and computers will do much of the work currently done by humans. Rapid advancements in technology, especially in artificial intelligence and robotics, suggest that many tasks currently performed by humans could be automated or significantly assisted by machines. Although some jobs requiring emotional intelligence, ethical considerations, or complex human judgment may remain human-centric, the overall trend indicates a high likelihood of substantial automation and AI integration across various sectors within this timeframe. This seems more plausible than a complete skepticism about technological progress or certainty of complete automation happening or not happening.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "Considering current technological trends and historical developments in automation, it seems quite plausible that robots and computers will take on most of the work humans currently perform within the next 50 years. Advances in AI, robotics, and machine learning are progressing rapidly and are likely to lead to significant shifts in employment and labor dynamics. While some jobs requiring uniquely human skills may persist, the overall direction suggests that automation will play an increasingly dominant role in the workforce. Therefore, I believe this is probably going to happen.  \nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "Considering the rapid pace of technological development in AI, robotics, and automation, it seems highly plausible that within the next 50 years, a substantial portion of current human jobs will be automated or performed by machines. While some roles requiring complex emotional, social, or ethical judgment may resist full automation, the overall trend points toward significant shifts in the workforce. Based on these observations, I believe it is probably going to happen.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

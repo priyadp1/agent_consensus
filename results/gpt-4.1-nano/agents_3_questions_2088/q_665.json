@@ -1,0 +1,61 @@
+{
+  "question": "I'd like your opinion about some possible international concerns for the U.S. Do you think that Islamic extremist groups is a major threat, a minor threat or not a threat to the well being of the United States?",
+  "options": [
+    "Major threat",
+    "Minor threat",
+    "Not a threat"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups pose a significant security concern for the United States due to their potential to carry out attacks domestically and abroad, as well as their influence in destabilizing regions. While the threat may not be as immediate or widespread as other issues, it remains a serious concern that warrants ongoing attention and countermeasures.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups continue to pose a significant threat to the well-being of the United States. These groups have demonstrated the capacity to plan and execute terrorist attacks, which can result in loss of life, economic disruption, and a sense of insecurity among the population. While law enforcement agencies and intelligence services work diligently to prevent such acts, the threat remains because of the persistent ideological motivations and the potential for radicalization. Therefore, I consider them a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Islamic extremist groups continue to pose a significant concern for national security due to their history of attacks and ongoing efforts to recruit and carry out operations abroad and within the United States. While the threat may not be as immediate or widespread as in the past, the potential for harm remains, and vigilance is necessary to prevent terrorist activities that could threaten public safety and security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups are a major threat because they have demonstrated the ability to plan and carry out terrorist attacks that can cause loss of life, economic damage, and a sense of insecurity among Americans. Despite ongoing efforts by law enforcement and intelligence to prevent such acts, the ideological motivations and potential for radicalization keep the threat persistent and concerning.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups still pose a significant threat to the security and well-being of the United States. Their history of carrying out attacks and ongoing efforts to recruit and conduct operations make them a serious concern that requires continuous vigilance and counterterrorism measures. The potential for harm, even if not as immediate as in the past, justifies considering them a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups continue to pose a significant threat to national security due to their demonstrated ability to plan and execute terrorist attacks, and their ongoing influence in destabilized regions. Although efforts by law enforcement and intelligence agencies mitigate the risk, the ideological motivations and potential for radicalization keep this threat persistent. Therefore, I consider them a major threat.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups are a major threat to the well-being of the United States because of their history of violent attacks, ongoing efforts to radicalize individuals, and potential to carry out future acts of terrorism. Although law enforcement has made progress in countering these threats, the persistent ideological motivation and recruitment efforts keep this danger significant and warrant continued vigilance and resources. Therefore, I consider them a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups continue to pose a significant threat to the United States due to their demonstrated capacity to plan and carry out terrorist attacks that can result in loss of life, economic loss, and increased insecurity. Despite efforts by law enforcement and intelligence agencies, their ideological motivations and potential for radicalization maintain a persistent and concerning threat level. Therefore, I consider them a major threat.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that Islamic extremist groups continue to represent a serious concern for the United States due to their history of terrorist activities and ongoing efforts to recruit members. While law enforcement has made significant progress, the ideological motivations and potential for radicalization keep the threat alive, making it important to view them as a major threat to national security.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

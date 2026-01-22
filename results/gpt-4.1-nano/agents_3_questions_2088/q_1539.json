@@ -1,0 +1,62 @@
+{
+  "question": "In making international policy decisions, to what extent do you think the United States takes into account the interests of countries like your country - a great deal, a fair amount, not too much, or not at all?",
+  "options": [
+    "Great deal",
+    "Fair amount",
+    "Not too much",
+    "Not at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States considers the interests of other countries to a fair amount when making international policy decisions. While its primary focus is often on national interests and strategic goals, there is noticeable awareness and some level of consideration for the effects on other nations, including countries like mine. However, this consideration might not be as extensive or consistent as it could be, and it often depends on the specific issue or context. Therefore, I would choose the option that reflects a moderate degree of consideration.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the United States takes into account the interests of other countries, including my own, to a fair amount. While the U.S. often considers its national priorities and strategic interests, it also engages with other nations through diplomatic channels, treaties, and international organizations, which indicates a recognition of the importance of mutual interests. However, it may not always prioritize or fully consider every country's specific concerns, especially when those interests conflict with its own policies. Therefore, I think a fair amount best reflects the balance between influence and consideration in U.S. international decision-making.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the United States considers the interests of countries like mine to a fair amount when making international policy decisions. While there is some consideration given, it may not always be a primary focus, with broader strategic or economic concerns often taking precedence. Therefore, I think the level of consideration is moderate, reflecting a balance between national interests and international considerations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the United States considers the interests of countries like mine to a fair amount when making international policy decisions. While strategic and economic priorities are often in the foreground, diplomatic engagement and international cooperation suggest that mutual interests are not ignored entirely. Therefore, I think a fair amount best reflects the current balance between U.S. priorities and international considerations in policymaking.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that the United States considers the interests of countries like mine to a fair amount when making international policy decisions. While U.S. foreign policy is primarily driven by national strategic and economic interests, there is evidently some level of awareness and consideration for the impacts on other nations, including my own. This suggests a moderate level of consideration, not minimal but also not overwhelmingly prioritizing other countries' interests. Given this, I think the best fit is the \"fair amount\" option.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States considers the interests of other countries like mine to a fair amount. While its main focus often remains on its own strategic and national interests, there is evident diplomatic engagement and recognition of mutual concerns. This suggests that the consideration is significant but not necessarily comprehensive or consistently prioritized across all issues. Therefore, I would select a fair amount as it best reflects the balance of influence and recognition in U.S. foreign policy decisions.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Considering the perspectives of the other respondents, it appears that the United States generally takes into account the interests of countries like mine to a moderate degree\u2014more than a minimal level but not predominantly. While U.S. foreign policy is largely driven by its own strategic aims, there is noticeable diplomatic engagement and consideration for mutual concerns, which suggests a balanced approach rather than ignoring or fully prioritizing other nations. Therefore, I believe that \"fair amount\" best reflects the current situation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that while the United States does consider the interests of countries like mine to some extent, its primary focus remains on its own strategic and economic priorities. Diplomatic efforts and international cooperation indicate that mutual interests are acknowledged, but they often take a secondary role. Therefore, I think a fair amount best captures the current situation where international considerations influence U.S. policy but are not at the forefront.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that the United States considers the interests of countries like mine to a fair amount when making international policy decisions. This is based on observations that, although strategic and economic goals often dominate U.S. policy, diplomatic efforts and international cooperation indicate some level of consideration for the impacts on other nations. I do not perceive their engagement as negligible, but nor do I think it is the primary driver. Therefore, I think a fair amount of consideration aligns best with the current international approach. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "question": "Please tell me how important each of the following is in a democracy to you...The economy is prospering?",
+  "options": [
+    "Very important",
+    "Somewhat important",
+    "Not too important",
+    "Not important at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "A prosperous economy is fundamental to the overall well-being and stability of a democracy. When the economy prosper, it often leads to higher employment, improved living standards, and increased public trust in government institutions. These factors contribute to citizen satisfaction and confidence in democratic processes. While other aspects like freedom of speech and political participation are also crucial, economic prosperity directly impacts the quality of life and the functioning of democratic systems. Therefore, I consider the economy thriving to be very important in a democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In my view, a thriving economy is fundamental to a prosperous democracy because it underpins social stability, provides opportunities for individuals, and funds public services essential for a healthy society. When the economy prospers, it often reflects effective governance and can enhance citizens' quality of life, which in turn supports the functioning of democratic institutions. Although democracy also relies on other factors like political rights and freedoms, a strong economy is a crucial foundation that enables these aspects to flourish.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "A prosperous economy is fundamental to a well-functioning democracy because it underpins citizens' well-being, provides resources for public services, and fosters stability and trust in institutions. When the economy prospers, people are more likely to feel secure, participate actively in civic life, and support democratic processes. Without economic prosperity, it can be challenging to sustain social cohesion and uphold democratic values. Therefore, I consider the prosperity of the economy to be very important in a democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a prosperous economy is very important in a democracy because it provides the necessary resources for public services, promotes social stability, and enhances citizens' quality of life. When the economy prospers, it supports democratic participation and trust in institutions, which are vital for a healthy democracy. Economic stability also alleviates social inequalities, fostering a more inclusive political environment. Therefore, I choose the option that emphasizes its significance as fundamental to a functioning democracy.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe that a prospering economy is very important in a democracy because economic stability and growth contribute significantly to social well-being, public trust, and the capacity of democratic institutions to function effectively. When the economy prospers, it enhances citizens' quality of life, supports public services, and encourages active civic participation, all of which are crucial to a healthy democracy. Therefore, I select:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe the prosperity of the economy is very important in a democracy because it directly influences citizens' quality of life, social stability, and confidence in institutions. A thriving economy enables the government to fund public services, reduce unemployment, and promote overall well-being, which are essential for maintaining a healthy democratic society. Without economic prosperity, it becomes challenging to sustain public trust and support for democratic processes. Therefore, I consider it very important.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe that a prospering economy is very important in a democracy because economic stability fosters social cohesion, supports public services, and enhances citizens' trust in democratic institutions. When the economy prospers, it helps improve quality of life, reduce inequality, and maintain confidence in the democratic process, which are all vital for a healthy democracy. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "A prosperous economy is fundamental to a healthy democracy because it underpins citizens' well-being, ensures social stability, and fosters trust in institutions. When the economy thrives, it provides the resources necessary for public services and social programs, which support democratic participation and reduce inequalities. Economic prosperity creates an environment where democratic values can flourish, making it very important.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that a prospering economy is very important in a democracy because it provides the essential resources needed for public services, fosters social stability, and improves citizens' quality of life. When the economy thrives, it enhances trust in democratic institutions and encourages civic engagement, which are crucial for the health of democracy. Economic prosperity helps reduce social inequalities, creating a more inclusive and participatory political environment, ultimately strengthening democratic processes. Therefore, I choose the option that emphasizes its significance as fundamental to a functioning democracy.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

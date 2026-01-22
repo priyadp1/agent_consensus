@@ -1,0 +1,61 @@
+{
+  "question": "Do you think the Russian government did or did not try to influence the 2016 U.S. presidential election?",
+  "options": [
+    "Did",
+    "Did not",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on widely reported investigations and credible evidence, there is substantial reason to believe that the Russian government attempted to interfere with the 2016 U.S. presidential election through various means such as cyber operations, social media influence campaigns, and other unauthorized efforts. These activities aimed to sway public opinion and potentially impact the outcome of the election. While some may contest the extent or legitimacy of these findings, the consensus among many intelligence agencies and investigative bodies points toward involvement by the Russian government. Therefore, it is reasonable to answer that the Russian government did try to influence the election.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on multiple credible reports and investigations, there is substantial evidence suggesting that the Russian government attempted to influence the 2016 U.S. presidential election through disinformation campaigns, hacking, and social media manipulation. While the full extent and impact of these efforts are still debated, the consensus among intelligence agencies indicates that such interference did occur. Therefore, I believe the Russian government did try to influence the election.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the extensive investigations and reports from U.S. intelligence agencies, there is strong evidence indicating that the Russian government attempted to influence the 2016 U.S. presidential election through cyber operations, disinformation campaigns, and other means. These efforts appeared aimed at undermining trust in the electoral process and favoring certain candidates. While some individuals or groups may dispute these findings, the consensus from authoritative sources supports the conclusion that the Russian government did try to influence the election.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Considering the extensive investigations and credible reports by U.S. and international intelligence agencies, there is substantial evidence supporting that the Russian government engaged in efforts to influence the 2016 U.S. presidential election through cyber operations, disinformation campaigns, and social media manipulation. The consensus among these authoritative sources indicates that such interference did occur. Therefore, I believe the Russian government did try to influence the election.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Given the extensive investigations and credible evidence presented by multiple U.S. intelligence agencies and investigative bodies, there is strong support for the conclusion that the Russian government did indeed attempt to influence the 2016 U.S. presidential election. These efforts included cyber operations, disinformation campaigns, and social media influence aimed at swaying public opinion and undermining trust in the electoral process. While some may dispute the findings, the overall consensus among authoritative sources aligns with the view that such interference occurred.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the Russian government did try to influence the 2016 U.S. presidential election. Multiple credible investigations, including assessments from intelligence agencies, have found substantial evidence of interference through hacking, disinformation campaigns, and social media manipulation. While some dispute the full extent, the general consensus supports the conclusion that such efforts occurred. Therefore, I choose:\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "Based on the extensive credible investigations and the consensus among authoritative U.S. intelligence agencies and investigative bodies, there is strong evidence indicating that the Russian government attempted to influence the 2016 U.S. presidential election. The efforts included cyber operations, disinformation campaigns, and manipulation on social media platforms to sway public opinion and undermine trust in the electoral process. While some may dispute the findings, the preponderance of credible evidence supports the conclusion that such interference did occur.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "Based on the extensive investigations and credible reports from intelligence agencies indicating that the Russian government engaged in cyber operations, disinformation campaigns, and social media manipulation to influence the 2016 U.S. presidential election, I believe that they did try to influence the election.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Based on the evidence presented and the consensus among credible intelligence agencies and investigative bodies, it appears that the Russian government did indeed attempt to influence the 2016 U.S. presidential election through cyber campaigns, disinformation, and social media manipulation. The substantial credible reports suggest that such interference was not just alleged but supported by concrete findings, making it reasonable to believe that efforts to influence the election occurred.\n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

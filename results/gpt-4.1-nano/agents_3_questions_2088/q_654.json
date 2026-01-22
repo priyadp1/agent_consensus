@@ -1,0 +1,63 @@
+{
+  "question": "Is it more important for the public to have strong economic ties with China or the United States?",
+  "options": [
+    "China",
+    "United States",
+    "Both (DO NOT READ)",
+    "Neither (DO NOT READ)",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "In my opinion, it is more important for the public to have strong economic ties with the United States because the U.S. has historically been a major trading partner, a source of investment, and a key player in global economic stability. Building strong economic relations with the U.S. can promote job creation, technological innovation, and economic growth domestically. While China is also an important economic partner, fostering a relationship based on cooperation with the United States tends to offer more stability and benefits aligned with current geopolitical and economic priorities.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "In my view, maintaining strong economic ties with the United States is more important because it has historically been our largest trading partner, offering economic stability and opportunities for growth. While China is an important economic player, fostering a robust relationship with the U.S. can help ensure favorable trade terms, diplomatic influence, and access to advanced technology. Prioritizing our ties with the United States can also help promote shared values and security interests, which are crucial for long-term national prosperity.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "In my view, establishing strong economic ties with the United States is more important, as the US has historically been a key ally and trading partner that supports economic stability and innovation. Maintaining a good relationship with the US can also help influence international policies that benefit our interests. While China is an important economic player, the ongoing geopolitical tensions and concerns over trade practices make deep ties less favorable at this moment. Therefore, prioritizing a strong economic relationship with the US offers more stability and opportunity for growth.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining strong economic ties with the United States is more important because of its long-standing role as our largest trading partner and its contributions to economic stability, technological advancement, and diplomatic influence. While China is a significant economic player, the geopolitical tensions and recent trade concerns make it more prudent to prioritize the US for long-term stability and growth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that establishing strong economic ties with the United States is more important for the public because the US has a long-standing role as a major trading partner and source of investment, contributing significantly to economic stability and innovation. Strengthening relations with the US can also support job creation and technological development, which are crucial for national prosperity. While China is an influential economic player, the current geopolitical considerations and trade tensions make focusing on the US more advantageous for ensuring economic stability and growth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining strong economic ties with the United States is more important because of its longstanding role as a primary trading partner, its influence on global economic stability, and the opportunities it provides for technological advancement and job creation. Building a robust relationship with the U.S. can also support diplomatic influence and shared security interests, which are vital for long-term national prosperity. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe maintaining strong economic ties with the United States is more important for the public due to its longstanding role as a primary trading partner, its influence on global economic stability, and the opportunities it provides for technological advancement and job creation. Strengthening relations with the US can also support diplomatic influence and shared security interests, which are vital for long-term national prosperity. While China is an influential economic player, current geopolitical considerations and trade tensions make focusing on the US more advantageous for ensuring economic stability and growth.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining strong economic ties with the United States is more important because of its longstanding role as our primary trading partner, its influence on global economic stability, and the opportunities it provides for technological advancement and job creation. Building a robust relationship with the U.S. can also support diplomatic influence and shared security interests, which are vital for long-term national prosperity. Therefore, I choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that maintaining strong economic ties with the United States is more important because of its long-standing role as our largest trading partner and its contributions to economic stability, technological advancement, and diplomatic influence. While China is a significant economic player, the geopolitical tensions and recent trade concerns make it more prudent to prioritize the US for long-term stability and growth.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

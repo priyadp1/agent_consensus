@@ -1,0 +1,62 @@
+{
+  "question": "In your country today, when it comes to ____ do you think \u2026? b. Getting a good education",
+  "options": [
+    "Men generally have more opportunities",
+    "Women generally have more opportunities",
+    "Opportunities are generally about the same for both",
+    "DK/Refused"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "In many countries, access to quality education can vary based on gender, societal norms, and economic factors. Traditionally, some societies have provided more educational opportunities to men due to cultural preferences or policies that favor male education, while others have emphasized gender equality. Considering ongoing efforts towards gender equality and increasing awareness of women's rights, it is increasingly seen that opportunities are becoming more balanced. However, disparities still persist in certain areas, with men sometimes having more access or support for higher education and women facing barriers. Given this context, I believe that generally, opportunities are about the same for both men and women when it comes to getting a good education, reflecting both progress and ongoing challenges.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In many countries today, access to quality education has become more widespread, but disparities often still exist based on gender due to cultural, economic, and social factors. In some cases, men may have more opportunities due to traditional societal roles, while in others, efforts to promote gender equality have leveled the playing field. However, given the persistent gender gaps in various regions and contexts, it is common for many people to perceive that men generally have more opportunities when it comes to getting a good education, especially in societies where gender inequality remains prominent. Therefore, I believe that many would see men as having more opportunities overall in this regard.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In many countries, access to quality education has historically favored men due to societal norms, economic factors, and gender biases. While progress has been made toward gender equality, disparities still often exist, particularly in rural or less developed areas where cultural or institutional barriers may limit opportunities for women. However, in more developed societies with progressive policies, the gap may have narrowed, leading to perceptions of equal or similar opportunities. Given the general context and ongoing challenges, many respondents might perceive that men tend to have more opportunities when it comes to getting a good education.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "In my country today, despite ongoing efforts towards gender equality, there are still significant disparities in access to quality education. Cultural norms, economic barriers, and social biases continue to favor men in many regions, leading to the perception that men generally have more opportunities in this area. While progress is being made, I believe that overall, men tend to have more opportunities for getting a good education.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "Considering the ongoing global efforts toward gender equality in education and the progress made in many countries, opportunities for good education are increasingly becoming more balanced between men and women. While disparities still exist in some contexts, the general trend shows that both genders now have similar access to quality education, especially in developed nations. Therefore, I believe that opportunities are generally about the same for both.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "Considering the ongoing global discussions and numerous reports highlighting persistent gender gaps in educational opportunities, it is clear that disparities still exist in many countries. Although progress has been made toward gender equality in education, societal norms and economic barriers continue to favor men in some regions, while in others, efforts have created a more balanced landscape. Given this context, most people might perceive that men generally have more opportunities due to historical and cultural factors, especially in areas where gender inequality is more prominent. Therefore, I believe that overall, it is perceived that men generally have more opportunities when it comes to getting a good education.\n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "Considering the global progress toward gender equality in education, many countries have made significant strides in providing both men and women with access to quality education. While disparities still exist in certain regions due to cultural, economic, or societal factors, the overall trend leans toward increasing equality. Given this context and the general improvements observed, I believe that opportunities are generally about the same for both.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "In assessing the opportunities for good education in my country today, I believe that societal factors such as cultural norms, economic barriers, and historical patterns have historically favored men in access to quality education. Despite ongoing efforts toward equality, these entrenched disparities persist in many regions, leading to the perception that men generally have more opportunities. Although progress is being made, the overall trend still favors men, especially considering residual biases and unequal resource distribution. Therefore, I would choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "In my view, while progress has been made toward equality in access to education, disparities still persist in many regions due to cultural, economic, and social factors that tend to favor men. Therefore, I believe that men generally have more opportunities in this area. \n\nANSWER: A",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question": "Which one of the following statements comes closest to your opinion about men and women as political leaders?...Men generally make better political leaders than women, or Women generally make better political leaders than men, or In general, women and men make equally good political leaders?",
+  "options": [
+    "Men generally make better political leaders than women",
+    "Women generally make better political leaders than men",
+    "In general, women and men make equally good political leaders"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that leadership qualities are not inherently determined by gender, and both women and men have the potential to be effective political leaders. Various contexts and individual characteristics influence leadership success more than gender alone. Therefore, I lean towards the idea that women and men make equally good political leaders in general. \n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that abilities in leadership are not determined by gender, but rather by individual qualities such as intelligence, integrity, and experience. Historically, both men and women have demonstrated strong leadership skills, and progress toward gender equality suggests that women are just as capable as men in political roles. Therefore, I think it\u2019s most accurate to say that women and men make equally good political leaders.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "My reasoning is that leadership qualities such as intelligence, decisiveness, and integrity are not inherently tied to gender. Both men and women can possess these qualities equally well, and various studies show that leadership effectiveness depends more on individual skills and experience than gender. Therefore, I believe that men and women tend to make equally good political leaders in general.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that leadership qualities such as intelligence, integrity, decisiveness, and experience are not inherently linked to gender. Both men and women can possess these qualities to a similar extent, and evidence suggests that effectiveness in political leadership depends more on individual traits than on gender. Therefore, I think that men and women generally make equally good political leaders.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that leadership qualities are primarily determined by individual traits, skills, and experience rather than gender. Both men and women are capable of being effective political leaders when they possess the necessary qualities, and societal factors can influence opportunities and perceptions. Therefore, I think the most accurate statement is that women and men make equally good political leaders in general.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that leadership capabilities are not inherently linked to gender, but rather to individual qualities such as competence, integrity, and experience. Historically and in contemporary times, both women and men have demonstrated effective leadership in politics. Given the importance of equality and the evidence that gender does not determine leadership ability, I think women and men make equally good political leaders in general.\n\nANSWER: C",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe that leadership qualities are based on individual traits, skills, and experiences rather than gender. Both men and women can be equally effective political leaders when they possess the necessary qualities, and societal factors play a significant role in opportunities and perceptions. Therefore, I think women and men make equally good political leaders in general.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe that effective leadership depends more on individual qualities like competence, integrity, and experience than on gender. Both men and women have demonstrated strong leadership in various political contexts, and there is no inherent reason to think one gender is naturally better suited for political leadership than the other. Therefore, I think women and men make equally good political leaders.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "C",
+        "raw_output": "I believe that leadership abilities are shaped more by individual qualities such as intelligence, determination, integrity, and experience rather than by gender. While societal factors can influence opportunities and perceptions, there is no inherent reason to assume one gender generally makes better political leaders than the other. Both women and men have the potential to be effective, and effectiveness depends on personal traits, circumstances, and policies rather than gender alone. Therefore, I align with the view that women and men make equally good political leaders in general.\n\nANSWER: C",
+        "model_failed": false
+      }
+    }
+  ]
+}

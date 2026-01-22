@@ -1,0 +1,62 @@
+{
+  "question": "There has been a lot of talk about globalization these days.  Do you think that globalization is a very good thing, somewhat good, somewhat bad or a very bad thing?",
+  "options": [
+    "Very good thing",
+    "Somewhat good",
+    "Somewhat bad",
+    "Very bad thing"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe globalization has both positive and negative aspects, but overall, I lean towards it being a somewhat good thing. It promotes economic growth, cultural exchange, and technological advancement, which can benefit many societies. However, it also has drawbacks such as increased inequality, cultural homogenization, and environmental impacts. Therefore, I see it more as a mixed or moderate benefit rather than an overwhelmingly positive or negative force. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe globalization has brought both positive and negative effects. It has increased economic growth, improved access to goods and services, and fostered cultural exchange. However, it has also led to job losses in certain industries, widened income inequality, and sometimes undermined local cultures and environmental standards. Overall, while globalization offers many benefits, its drawbacks suggest it is more accurately seen as somewhat bad due to the negative consequences that can outweigh the positives in some contexts.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe globalization is mostly a good thing because it promotes economic growth, cultural exchange, and technological advancement by encouraging cooperation among countries. However, it can also lead to negative effects such as income inequality, job displacement, and cultural homogenization. Overall, I see it as a mixed phenomenon that has significant benefits but also notable drawbacks. Therefore, I think it is somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "C",
+        "raw_output": "I believe globalization has both positive and negative aspects. It has driven economic growth, technological progress, and cultural exchange, which are beneficial. However, it has also caused job losses in certain sectors, increased income inequality, and sometimes threatens local cultures and environments. Considering these factors, I see the overall impact as leaning more toward the negative side, though it still has significant benefits. Therefore, I think it is somewhat bad.\n\nANSWER: C",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe globalization has both positive and negative aspects, but overall, I lean towards it being somewhat good. It drives economic development, fosters cultural exchange, and encourages technological innovation, which can benefit societies globally. At the same time, it can lead to issues like inequality and cultural homogenization. Considering these factors, I think it is better viewed as a mixed or moderate benefit rather than an overwhelmingly positive or negative force.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe globalization has brought significant benefits in terms of economic growth, cultural exchange, and technological progress, which can enhance living standards and foster international understanding. However, it also has notable downsides such as increasing inequality, cultural homogenization, and environmental concerns, which can negatively impact societies and local communities. Considering both sides, I think the positives generally outweigh the negatives, but not overwhelmingly. Therefore, I see globalization as a somewhat good thing because it offers substantial opportunities for development while still posing important challenges that need to be addressed.  \nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe globalization has both positive and negative effects, but overall, I view it as somewhat good. It promotes economic growth, cultural exchange, and technological progress, which can improve living standards and foster greater understanding across nations. While it does create challenges like inequality and cultural homogenization, I think the benefits tend to outweigh the drawbacks, making it a worthwhile force for development.  \nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "C",
+        "raw_output": "I believe globalization has both positive and negative impacts. It has facilitated economic growth, technological innovation, and increased cultural exchange, which benefit societies. However, it has also led to job losses in certain industries, widened income disparities, and sometimes threatens local cultures and environments. While the benefits are significant, the challenges and risks are also considerable. Considering these factors, I view globalization as somewhat bad because the negative consequences, particularly for vulnerable communities and local cultures, are substantial and need careful management.  \nANSWER: C",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe globalization offers both significant benefits and notable drawbacks. It promotes economic growth, innovation, and cultural exchange, which are positive developments. However, it can also lead to job displacement, increased inequality, and the erosion of local cultures. Overall, I think the impact is mixed but leans slightly towards being more beneficial than harmful, making it somewhat good.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

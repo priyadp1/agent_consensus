@@ -1,0 +1,62 @@
+{
+  "question": "For each item on this list, tell me if you think it is happening a lot more, somewhat more, only a little more or not more these days than five years ago: availability of movies, TV and music from different parts of the world.",
+  "options": [
+    "A lot more",
+    "Somewhat more",
+    "Only a little more",
+    "Not more"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "A",
+        "raw_output": "I believe the availability of movies, TV, and music from different parts of the world has increased more than ever over the past five years. With the rise of global streaming platforms, digital distribution, and the internet's reach, audiences now have easier access to international content than they did five years ago. This broader access reflects a significant growth in cultural exchange and availability.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the availability of movies, TV, and music from different parts of the world has increased somewhat more over the past five years. This is primarily due to the proliferation of streaming platforms like Netflix, Spotify, and other services that offer extensive international content, making diverse media more accessible globally. Additionally, improvements in internet infrastructure and content licensing have expanded the reach of international media. However, the extent of this increase varies depending on regions, so it feels more like a noticeable but not \"a lot more\" change for most people.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "A",
+        "raw_output": "I believe that the availability of movies, TV, and music from different parts of the world has become significantly more accessible over the past five years, largely due to the expansion of streaming platforms and digital distribution. This increased access has led to a noticeable rise in diverse content being easily available to global audiences, making it more than just a little or somewhat more than before. Therefore, I think it has happened a lot more. \n\nANSWER: A",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe that the availability of movies, TV, and music from different parts of the world has increased somewhat more over the past five years. While streaming platforms and digital content have undoubtedly expanded international access, the change feels substantial but not widespread enough to be considered a lot more. It seems to be a noticeable improvement, but not to the extent that it has dramatically transformed global media consumption for everyone. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "A",
+        "raw_output": "I believe the availability of movies, TV, and music from different parts of the world has increased a lot more over the past five years. The proliferation of global streaming services, digital platforms, and social media has significantly expanded access to international content for viewers everywhere. This has led to a much broader and more diverse range of cultural offerings being readily available compared to five years ago. Therefore, I choose option A.\n\nANSWER: A",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the availability of movies, TV, and music from different parts of the world has increased somewhat more over the past five years. While global streaming platforms and better internet infrastructure have certainly expanded access to international content, the degree of change varies by region and platform. Therefore, it feels like a noticeable but not overwhelming increase.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe the availability of movies, TV, and music from different parts of the world has increased somewhat more over the past five years. Although global streaming services and internet connectivity have greatly enhanced access to international content, the extent of this growth can vary depending on regions and specific platforms. I think the increase is significant but not as overwhelmingly large as it might appear, making the improvements noticeable but somewhat moderate.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe the availability of movies, TV, and music from different parts of the world has increased somewhat more over the past five years. The proliferation of streaming services, improved global internet access, and the rise of international content creators have contributed to a noticeable expansion of diverse media options. However, this change is not uniformly dramatic across all regions or platforms, so the increase feels significant but not overwhelming. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe the availability of movies, TV, and music from different parts of the world has increased somewhat more over the past five years. While there has been a noticeable rise in international content accessible through streaming and digital platforms, the change isn't universally dramatic for everyone. It indicates a substantial but not overwhelming increase, reflecting broader cultural diversity without fully transforming the global media landscape yet.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

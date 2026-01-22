@@ -1,0 +1,60 @@
+{
+  "question": "In general, do you think our country is covered fairly or unfairly in the international news media?",
+  "options": [
+    "Covered fairly",
+    "Covered unfairly"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe our country is generally covered unfairly in the international news media. Often, the media either sensationalizes issues or focuses on negative aspects, which can create a distorted perception of our nation's reality. While some coverage may be accurate, there tends to be a bias or imbalance that does not fully reflect the complexities and positive developments within our country. Fair portrayal requires balanced and nuanced reporting, which is sometimes lacking in international coverage of our nation.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe our country is generally covered unfairly in the international news media. Often, the portrayal tends to focus on negative aspects or sensationalized stories, which can distort the true picture of the nation's context and achievements. This biased coverage can influence international perceptions and may not accurately reflect the complexities of our society and policies. Therefore, I think the coverage is more unfair than fair.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe our country is generally covered unfairly in the international news media. This is because media outlets often focus on negative aspects or sensational stories, which can lead to a skewed or incomplete portrayal. Additionally, biases and political agendas can influence how events are reported, resulting in an unfair representation that does not accurately reflect the true situation. Such coverage can impact the country's reputation and influence international perceptions negatively. \n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe our country is generally covered unfairly in the international news media because, similar to the other respondents, media outlets tend to highlight negative aspects and sensational stories. This focus can lead to an incomplete or distorted portrayal that doesn't fully represent the country's complexities, achievements, or positive developments. Such biased coverage can unfairly influence international perceptions and misunderstandings about our nation. Therefore, I think the coverage leans more toward unfair than fair.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe our country is generally covered unfairly in the international news media because, similar to the opinions of other respondents, media outlets tend to focus on sensational or negative stories that can distort the true picture of our nation. This biased reporting can influence international perceptions adversely and does not always provide a balanced or nuanced view of our country's realities and achievements. Such coverage may lead to misconceptions and an inaccurate understanding of our society and policies. \n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe our country is often portrayed negatively or sensationalized in international news media, which can lead to an unfair and distorted view of our nation. While there may be circumstances where coverage is balanced, the tendency for negative focus and bias seems prevalent, influencing global perceptions unfairly. Therefore, I think the coverage is more unfair than fair.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe our country is often portrayed negatively or sensationalized in international news media, which can lead to an unfair and distorted view of our nation. While there may be some balanced reporting at times, the tendency toward focusing on negative aspects and sensational stories seems predominant, and this can skew international perceptions in an unfavourable way. As a result, I think the coverage is more unfair than fair.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that international news media tends to focus more on negative and sensational aspects of our country, which can result in an unfair and skewed portrayal. While there may be balanced coverage at times, the tendency towards bias and negativity seems to be common, influencing global perceptions unfairly. Therefore, I think the coverage is more unfair than fair.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe our country is generally covered unfairly in the international news media. Based on the responses from others and my own perspective, there is a tendency for media outlets to focus on negative or sensational stories about our nation. This often results in a skewed portrayal that does not accurately reflect the full scope of our country's achievements, diversity, and positive developments. Such bias can lead to misconceptions and an incomplete understanding among international audiences, which is unfair to the true nature of our nation. \n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

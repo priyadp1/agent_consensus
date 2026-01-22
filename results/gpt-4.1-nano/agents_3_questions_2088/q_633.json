@@ -1,0 +1,62 @@
+{
+  "question": "Now I'm going to read a list of political leaders. For each, tell me how much confidence you have in each leader to do the right thing regarding world affairs - a lot of confidence, some confidence, not too much confidence, or no confidence at all?...British Prime Minister David Cameron.",
+  "options": [
+    "A lot of confidence",
+    "Some confidence",
+    "Not too much confidence",
+    "No confidence at all"
+  ],
+  "rounds": [
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I have some confidence in David Cameron's ability to do the right thing regarding world affairs based on his tenure as British Prime Minister. He was generally viewed as pragmatic and willing to engage in international diplomacy, although his decision-making was sometimes influenced by domestic political considerations. Therefore, I would choose some confidence as a balanced assessment of his leadership in this area.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I would choose B, some confidence, because David Cameron was generally seen as a capable leader during his tenure as Prime Minister, with a focus on international diplomacy and economic stability. While he was actively involved in foreign policy decisions, public opinion about his handling of world affairs was somewhat mixed, so I do not have complete confidence but believe he is capable of doing the right thing to some extent.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I would choose B, some confidence, because during David Cameron's tenure as Prime Minister, he demonstrated leadership in key international issues such as the military intervention in Libya and negotiations within the European Union. However, his approach also faced criticism and skepticism from those who questioned his decisions and their long-term impact. Therefore, I believe he was capable of doing the right thing regarding world affairs, but with reservations and some doubts about his consistency and priorities.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "I believe I have some confidence in David Cameron's ability to handle world affairs because he showed leadership on international issues such as military interventions and EU negotiations. However, his decisions and approach faced criticism and skepticism, indicating that while he was capable, I do not feel fully assured of his consistent judgment in global matters. Therefore, I would choose B.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that David Cameron showed some level of international leadership and made decisions on key issues such as military intervention and EU negotiations, indicating a capacity to do the right thing in world affairs. However, his actions were also met with criticism and skepticism, which suggests that his approach was not always fully aligned with what may be considered the \"right\" course of action. Therefore, I would select some confidence.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that David Cameron demonstrated a moderate level of international engagement and diplomatic effort during his time as Prime Minister. While he made some strategic decisions and participated in global affairs, he was also constrained by domestic political considerations and had mixed perceptions internationally. Therefore, I have some confidence that he would do the right thing regarding world affairs, but not enough to fully trust his judgment in all situations.\n\nANSWER: B",
+        "model_failed": false
+      }
+    },
+    {
+      "0": {
+        "answer": "B",
+        "raw_output": "Given the context of previous responses, they suggest a moderate level of confidence in David Cameron's ability to do the right thing in world affairs. The responses highlight some positive actions but also mention skepticism and constraints. Based on this, I feel that my confidence aligns more with \"some confidence\" rather than more or less.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "1": {
+        "answer": "B",
+        "raw_output": "I believe that David Cameron demonstrated a moderate level of international engagement and diplomatic effort during his time as Prime Minister. While he took some actions on global issues and participated internationally, he faced certain limitations due to domestic considerations and international perceptions. Based on this, I have some confidence that he would do the right thing regarding world affairs, but I do not feel fully assured of his consistent judgment in all situations.\n\nANSWER: B",
+        "model_failed": false
+      },
+      "2": {
+        "answer": "B",
+        "raw_output": "I believe that David Cameron demonstrated some international leadership and was capable of handling world affairs through actions such as military interventions and negotiations within the EU. Nonetheless, his decisions were often met with criticism and skepticism, which suggests that his approach may not have consistently reflected what one might consider the \"right\" thing. Given the mixed perceptions of his effectiveness and trustworthiness in global issues, I would select some confidence.\n\nANSWER: B",
+        "model_failed": false
+      }
+    }
+  ]
+}

@@ -9,9 +9,9 @@ from multiagent import agent_talk
 from filter_questions import valid_question
 
 AGENT_MODELS = {
-    0: "gpt-4.1-nano",
-    1: "gpt-4.1-mini",
-    2: "gpt-4.1"
+    "Agent 1": "gpt-4.1-nano",
+    "Agent 2": "gpt-4.1-mini",
+    "Agent 3": "gpt-4.1"
 }
 
 DATA_PATH = "data/jsonl/train.jsonl"
@@ -133,11 +133,10 @@ async def multi_agent(num_agents, limit, max_rounds):
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
-    agents = list(range(num_agents))
+    agents = list(AGENT_MODELS.keys())
     agent_runners = {
         agent_id: (lambda p, m=model: run_model(p, model_name=m))
         for agent_id, model in AGENT_MODELS.items()
-        if agent_id in agents
         }
     used = 0
 
@@ -197,7 +196,7 @@ async def multi_agent(num_agents, limit, max_rounds):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--agents", type=int, default=3)
-    parser.add_argument("--limit", type=int, default=2556)
+    parser.add_argument("--limit", type=int, default=3)
     parser.add_argument("--rounds", type=int, default=3)
 
     args = parser.parse_args()

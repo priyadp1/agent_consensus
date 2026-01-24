@@ -4,9 +4,15 @@ import argparse
 import asyncio
 import re
 
-from model import run_model, MODEL_NAME
+from model import run_model 
 from multiagent import agent_talk
 from filter_questions import valid_question
+
+AGENT_MODELS = {
+    0: "gpt-4.1-nano",
+    1: "gpt-4.1-mini",
+    2: "gpt-4.1"
+}
 
 DATA_PATH = "data/jsonl/train.jsonl"
 
@@ -80,7 +86,7 @@ def parse_answer(text, num_options):
 
 
 def single_agent(limit):
-    results_dir = f"results/{MODEL_NAME}/single_agent_{limit}"
+    results_dir = f"results/gpt-4.1-nano/single_agent_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
@@ -123,11 +129,16 @@ def single_agent(limit):
 
 
 async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/{MODEL_NAME}/agents_{num_agents}_questions_{limit}"
+    results_dir = f"results/mixed_models/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
     agents = list(range(num_agents))
+    agent_runners = {
+        agent_id: (lambda p, m=model: run_model(p, model_name=m))
+        for agent_id, model in AGENT_MODELS.items()
+        if agent_id in agents
+        }
     used = 0
 
     for example in stream_jsonL(DATA_PATH):
@@ -141,10 +152,10 @@ async def multi_agent(num_agents, limit, max_rounds):
 
         history = await agent_talk(
             agents=agents,
+            agent_runners= agent_runners,
             question=example["question"],
             options=example["options"],
             selections=example["selections"],
-            run_model=run_model,
             max_rounds=max_rounds
         )
 
@@ -165,6 +176,7 @@ async def multi_agent(num_agents, limit, max_rounds):
         output = {
             "question": example["question"],
             "options": example["options"],
+            "agent_models" : AGENT_MODELS,
             "rounds": parsed_rounds
         }
 
@@ -185,7 +197,7 @@ async def multi_agent(num_agents, limit, max_rounds):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--agents", type=int, default=3)
-    parser.add_argument("--limit", type=int, default=2088)
+    parser.add_argument("--limit", type=int, default=2556)
     parser.add_argument("--rounds", type=int, default=3)
 
     args = parser.parse_args()

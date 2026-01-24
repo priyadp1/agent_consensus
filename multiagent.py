@@ -1,4 +1,4 @@
-async def agent_talk(agents, question, options, selections, run_model, max_rounds=3):
+async def agent_talk(agents, agent_runners, question, options, selections, max_rounds=3):
     history = []
 
     letters = [chr(65 + i) for i in range(len(options))]
@@ -55,7 +55,8 @@ Rules:
 - Any other format will be marked INVALID.
 """
 
-            response = run_model(prompt)
+            runner = agent_runners[agent_id]
+            response = runner(prompt)
             if not isinstance(response, str):
                 response = ""
             else:

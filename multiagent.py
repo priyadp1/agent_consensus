@@ -5,7 +5,7 @@ async def agent_talk(agents, agent_runners, question, options, selections, max_r
     allowed = ", ".join(letters)
 
     option_block = "\n".join(
-        [f"({letters[i]}) {opt}" for i, opt in enumerate(options)]
+        f"({letters[i]}) {opt}" for i, opt in enumerate(options)
     )
 
     for _ in range(max_rounds):
@@ -14,7 +14,7 @@ async def agent_talk(agents, agent_runners, question, options, selections, max_r
         for agent_id in agents:
             if history:
                 prior = "\n".join(
-                    f"Agent {a}: {resp}"
+                    f"{a}: {resp}"
                     for a, resp in history[-1].items()
                     if a != agent_id
                 )
@@ -39,28 +39,25 @@ Answer options:
 {context}
 
 Instructions:
-- Choose exactly ONE option by its letter ({allowed}).
-- Explain your reasoning.
-- The FINAL LINE of your response MUST be exactly in this format:
+- Choose exactly ONE option by its letter ({allowed})
+- Explain your reasoning briefly
+- End your response with a final line in this format:
 
 ANSWER: <LETTER>
 
 where <LETTER> is one of: {allowed}
 
-Rules:
-- Do NOT write "Final answer".
-- Do NOT include option text.
-- Do NOT include parentheses.
-- Do NOT include anything after the ANSWER line.
-- Any other format will be marked INVALID.
+Please ensure the final answer line appears exactly as shown, with no additional text after it.
 """
 
             runner = agent_runners[agent_id]
             response = runner(prompt)
+
             if not isinstance(response, str):
                 response = ""
             else:
-                response = response.strip() 
+                response = response.strip()
+
             round_answers[agent_id] = response
 
         history.append(round_answers)

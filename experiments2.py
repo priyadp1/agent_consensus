@@ -4,13 +4,13 @@ import argparse
 import asyncio
 import re
 
-from model import run_model 
+from model import run_model
 from multiagent import agent_talk
 from filter_questions import valid_question
 
 AGENT_MODELS = {
-    "Agent 1": "gpt-4.1-nano",
-    "Agent 2": "gpt-4.1-mini",
+    "Agent 1": "gpt-4.1",
+    "Agent 2": "gpt-4.1",
     "Agent 3": "gpt-4.1"
 }
 
@@ -27,20 +27,25 @@ def get_completed(results_dir):
     completed = set()
     if not os.path.exists(results_dir):
         return completed
+
     for fname in os.listdir(results_dir):
         if fname.startswith("q_") and fname.endswith(".json"):
             try:
                 completed.add(int(fname[2:-5]))
             except ValueError:
                 pass
+
     return completed
 
 
 def build_prompt(example):
     options = example["options"]
     letters = [chr(65 + i) for i in range(len(options))]
-    option_block = "\n".join(f"({letters[i]}) {opt}" for i, opt in enumerate(options))
+    option_block = "\n".join(
+        f"({letters[i]}) {opt}" for i, opt in enumerate(options)
+    )
     allowed = ", ".join(letters)
+
     return f"""
 You are answering a subjective public opinion survey question.
 
@@ -50,21 +55,16 @@ Question:
 Answer options:
 {option_block}
 
-INSTRUCTIONS (MUST FOLLOW EXACTLY):
-- Choose exactly ONE option by its letter ({allowed}).
-- Explain your reasoning.
-- The FINAL LINE of your response MUST be exactly in this format:
+Instructions:
+- Choose exactly ONE option by its letter ({allowed})
+- Explain your reasoning briefly
+- End your response with a final line in this format:
 
 ANSWER: <LETTER>
 
 where <LETTER> is one of: {allowed}
 
-RULES:
-- Do NOT write "Final answer".
-- Do NOT include option text.
-- Do NOT include parentheses.
-- Do NOT include any text after the ANSWER line.
-- Any response not following this format will be marked INVALID.
+Please ensure the final answer line appears exactly as shown, with no additional text after it.
 """
 
 
@@ -76,12 +76,15 @@ def build_answer_regex(num_options):
 def parse_answer(text, num_options):
     if not isinstance(text, str):
         return "INVALID"
+
     text = text.strip()
     if not text:
         return "INVALID"
+
     match = build_answer_regex(num_options).search(text)
     if not match:
         return "INVALID"
+
     return match.group(1)
 
 
@@ -129,15 +132,18 @@ def single_agent(limit):
 
 
 async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/mixed_models/agents_{num_agents}_questions_{limit}"
+    results_dir = f"results/gpt-4.1/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
+
     agents = list(AGENT_MODELS.keys())
+
     agent_runners = {
         agent_id: (lambda p, m=model: run_model(p, model_name=m))
         for agent_id, model in AGENT_MODELS.items()
-        }
+    }
+
     used = 0
 
     for example in stream_jsonL(DATA_PATH):
@@ -151,7 +157,7 @@ async def multi_agent(num_agents, limit, max_rounds):
 
         history = await agent_talk(
             agents=agents,
-            agent_runners= agent_runners,
+            agent_runners=agent_runners,
             question=example["question"],
             options=example["options"],
             selections=example["selections"],
@@ -165,17 +171,19 @@ async def multi_agent(num_agents, limit, max_rounds):
             for agent_id, raw in round_data.items():
                 if not isinstance(raw, str):
                     raw = ""
+
                 parsed[agent_id] = {
                     "answer": parse_answer(raw, len(example["options"])),
                     "raw_output": raw.strip(),
                     "model_failed": raw == ""
                 }
+
             parsed_rounds.append(parsed)
 
         output = {
             "question": example["question"],
             "options": example["options"],
-            "agent_models" : AGENT_MODELS,
+            "agent_models": AGENT_MODELS,
             "rounds": parsed_rounds
         }
 
@@ -196,7 +204,7 @@ async def multi_agent(num_agents, limit, max_rounds):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--agents", type=int, default=3)
-    parser.add_argument("--limit", type=int, default=3)
+    parser.add_argument("--limit", type=int, default=2556)
     parser.add_argument("--rounds", type=int, default=3)
 
     args = parser.parse_args()

@@ -22,6 +22,12 @@ FOUNDRY_TEST_MODELS = [
     "Llama-3.3-70B-Instruct",
 ]
 
+AZURE_OPENAI_TEST_MODELS =[
+    "gpt-4.1-nano",
+    "gpt-4.1-mini",
+    "gpt-4.1",
+]
+
 for model in FOUNDRY_TEST_MODELS:
     print("=" * 60)
     print(f"Testing model: {model}")
@@ -32,5 +38,18 @@ for model in FOUNDRY_TEST_MODELS:
         print(output)
 
     except Exception as e:
-        print(f"❌ FAILED for {model}")
+        print(f"FAILED for {model}")
+        print(e)
+
+for model in AZURE_OPENAI_TEST_MODELS:
+    print("=" * 60)
+    print(f"Testing model: {model}")
+
+    try:
+        output = run_model(TEST_PROMPT, model_name=model)
+        print("Raw output:")
+        print(output)
+
+    except Exception as e:
+        print(f"FAILED for {model}")
         print(e)

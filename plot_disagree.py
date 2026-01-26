@@ -17,7 +17,7 @@ for label, values in data.items():
 
 plt.xticks(rounds)
 plt.xlabel("Deliberation Round")
-plt.ylabel("Questions with ≥1 Disagreement (%)")
+plt.ylabel("Questions with >= 1 Disagreement (%)")
 plt.title("Disagreement Across Deliberation Rounds")
 plt.legend()
 plt.grid(True, alpha=0.3)

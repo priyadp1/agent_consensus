@@ -1,7 +1,7 @@
 import os
 import json
 
-RESULTS_DIR = "results/gpt-4.1/agents_3_questions_2556"
+RESULTS_DIR = "results/random_models/agents_3_questions_2556"
 
 def round1_disagree(data):
     rounds = data.get("rounds", [])

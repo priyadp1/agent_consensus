@@ -9,9 +9,9 @@ from multiagent import agent_talk
 from filter_questions import valid_question
 
 AGENT_MODELS = {
-    "Agent 1": "gpt-4.1-mini",
-    "Agent 2": "gpt-4.1-mini",
-    "Agent 3": "gpt-4.1-mini"
+    "Agent 1": "DeepSeek-R1",
+    "Agent 2": "grok-3",
+    "Agent 3": "Llama-3.3-70B-Instruct"
 }
 
 DATA_PATH = "data/jsonl/train.jsonl"
@@ -89,7 +89,7 @@ def parse_answer(text, num_options):
 
 
 def single_agent(limit):
-    results_dir = f"results/gpt-4.1-nano/single_agent_{limit}"
+    results_dir = f"results/random/single_agent_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
@@ -132,7 +132,7 @@ def single_agent(limit):
 
 
 async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/gpt-4.1-mini/agents_{num_agents}_questions_{limit}"
+    results_dir = f"results/random_models/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)

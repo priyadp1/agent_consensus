@@ -1,8 +1,8 @@
 import os
 import json
 
-SINGLE_AGENT_DIR = "results/gpt-4.1-nano/single_agent_2089"
-MULTI_AGENT_DIR = "results/gpt-4.1-nano/agents_3_questions_2089"
+SINGLE_AGENT_DIR = "results/gpt-4.1/single_agent_2556"
+MULTI_AGENT_DIR = "results/gpt-4.1/agents_3_questions_2556"
 
 single_answers = {}
 for fname in os.listdir(SINGLE_AGENT_DIR):

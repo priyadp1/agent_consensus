@@ -4,7 +4,7 @@ import argparse
 import asyncio
 import re
 
-from model import run_model
+from model2 import run_model
 from multiagent import agent_talk
 from filter_questions import valid_question
 
@@ -89,7 +89,7 @@ def parse_answer(text, num_options):
 
 
 def single_agent(limit):
-    results_dir = f"results/gpt-4.1-nano/single_agent_{limit}"
+    results_dir = f"results/gpt-4.1/single_agent_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
@@ -203,7 +203,7 @@ async def multi_agent(num_agents, limit, max_rounds):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--agents", type=int, default=3)
+    parser.add_argument("--agents", type=int, default=1)
     parser.add_argument("--limit", type=int, default=2556)
     parser.add_argument("--rounds", type=int, default=3)
 

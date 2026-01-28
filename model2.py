@@ -13,9 +13,12 @@ FOUNDRY_MODELS = {
     "DeepSeek-R1",
     "grok-3",
     "Llama-3.3-70B-Instruct",
+    "Meta-Llama-3.1-405B-Instruct",
+    
+
 }
 
-DEFAULT_MODEL_NAME = "gpt-4.1-mini"
+DEFAULT_MODEL_NAME = "gpt-4.1"
 
 def create_azure_openai_client():
     return AzureOpenAI(

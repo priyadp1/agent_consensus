@@ -10,8 +10,8 @@ from filter_questions import valid_question
 
 AGENT_MODELS = {
     "Agent 1": "DeepSeek-R1",
-    "Agent 2": "grok-3",
-    "Agent 3": "Llama-3.3-70B-Instruct"
+    "Agent 2": "DeepSeek-R1",
+    "Agent 3": "DeepSeek-R1"
 }
 
 DATA_PATH = "data/jsonl/train.jsonl"
@@ -132,7 +132,7 @@ def single_agent(limit):
 
 
 async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/random_models/agents_{num_agents}_questions_{limit}"
+    results_dir = f"results/DeepSeek-R1/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)

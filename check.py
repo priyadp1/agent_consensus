@@ -1,7 +1,7 @@
 import os
 import json
-
-RESULTS_DIR = "results/random_models/agents_3_questions_2556"
+FOLDER_NAME="DeepSeek-R1"
+RESULTS_DIR = f"results/{FOLDER_NAME}/agents_3_questions_2556"
 
 def round1_disagree(data):
     rounds = data.get("rounds", [])
@@ -84,7 +84,7 @@ def main():
     pct1 = 100 * disagreement1 / total
     pct2 = 100 * disagreement2 / total
     pct3 = 100 * disagreement3 / total
-
+    print(f"Results for model: {FOLDER_NAME}")
     print(f"Total questions analyzed: {total}")
     print(f"Questions with disagreement in round 1: {disagreement1}")
     print(f"Questions with disagreement in round 2: {disagreement2}")

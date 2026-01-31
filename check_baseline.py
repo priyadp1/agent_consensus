@@ -1,8 +1,8 @@
 import os
 import json
-
-SINGLE_AGENT_DIR = "results/gpt-4.1/single_agent_2556"
-MULTI_AGENT_DIR = "results/gpt-4.1/agents_3_questions_2556"
+from check import FOLDER_NAME
+SINGLE_AGENT_DIR = f"results/{FOLDER_NAME}/single_agent_2556"
+MULTI_AGENT_DIR = f"results/{FOLDER_NAME}/agents_3_questions_2556"
 
 single_answers = {}
 for fname in os.listdir(SINGLE_AGENT_DIR):
@@ -39,7 +39,7 @@ for fname in os.listdir(MULTI_AGENT_DIR):
         if any(a != baseline for a in answers):
             disagree[r] += 1
 
-print(f"Total questions analyzed: {total}")
+print(f"Total questions analyzed for {FOLDER_NAME}: {total}")
 for i in range(3):
     pct = 100 * disagree[i] / total if total > 0 else 0
     print(f"Round {i+1} disagreement vs single-agent: {disagree[i]} ({pct:.2f}%)")

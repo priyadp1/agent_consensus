@@ -10,6 +10,9 @@ MODEL_ORDER = {
     "gpt-4.1": 2,
 }
 
+OUTPUT_JSON = "analysis_outputs/gpt-4.1-fam/gpt4.1_family_directional.json"
+
+
 def load_results(results_dir):
     files = sorted(
         f for f in os.listdir(results_dir)
@@ -21,8 +24,10 @@ def load_results(results_dir):
             data.append(json.load(fh))
     return data
 
+
 def get_answer(round_data, agent):
     return round_data.get(agent, {}).get("answer", "INVALID")
+
 
 def analyze(data):
     initial_disagreements = defaultdict(int)
@@ -38,7 +43,6 @@ def analyze(data):
 
         round1 = rounds[0]
 
-        
         for a in agents:
             for b in agents:
                 if a == b:
@@ -48,7 +52,7 @@ def analyze(data):
                 model_b = item["agent_models"][b]
 
                 if MODEL_ORDER[model_a] >= MODEL_ORDER[model_b]:
-                    continue 
+                    continue
 
                 ans_a_r1 = get_answer(round1, a)
                 ans_b_r1 = get_answer(round1, b)
@@ -76,8 +80,33 @@ def analyze(data):
 
     return initial_disagreements, small_to_large, large_to_small
 
+
+def save_results_json(initial, s2l, l2s):
+    results = {}
+
+    for key in sorted(initial.keys()):
+        total = initial[key]
+        s = s2l[key]
+        l = l2s[key]
+
+        results[key] = {
+            "initial_disagreements": total,
+            "small_to_large": s,
+            "large_to_small": l,
+            "small_to_large_pct": round((s / total) * 100, 2) if total > 0 else None,
+            "large_to_small_pct": round((l / total) * 100, 2) if total > 0 else None,
+        }
+
+    os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
+    with open(OUTPUT_JSON, "w") as f:
+        json.dump(results, f, indent=2)
+
+    print(f"\nSaved results to {OUTPUT_JSON}")
+
+
 def print_results(initial, s2l, l2s):
     print("\n=== ANALYSIS of GPT-4.1 Family ===\n")
+
     for key in sorted(initial.keys()):
         total = initial[key]
         s = s2l[key]
@@ -89,7 +118,10 @@ def print_results(initial, s2l, l2s):
         print(f"  Large -> Small: {l} ({l/total:.2%})")
         print("-" * 40)
 
+
 if __name__ == "__main__":
     data = load_results(RESULTS_DIR)
     initial, s2l, l2s = analyze(data)
+
     print_results(initial, s2l, l2s)
+    save_results_json(initial, s2l, l2s)

@@ -1,0 +1,19 @@
+{
+  "model": "gpt-4.1-family",
+  "total_questions": 2089,
+  "rounds": {
+    "round_1": {
+      "disagreement_count": 813,
+      "disagreement_percentage": 38.92
+    },
+    "round_2": {
+      "disagreement_count": 483,
+      "disagreement_percentage": 23.12
+    },
+    "round_3": {
+      "disagreement_count": 400,
+      "disagreement_percentage": 19.15
+    }
+  },
+  "generated_at": "2026-02-01T19:59:28.461870Z"
+}

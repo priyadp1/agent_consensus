@@ -1,51 +1,17 @@
 import os
 import json
-FOLDER_NAME="DeepSeek-R1"
-RESULTS_DIR = f"results/{FOLDER_NAME}/agents_3_questions_2556"
+import argparse
+from datetime import datetime
 
-def round1_disagree(data):
+
+def round_disagree(data, round_idx):
     rounds = data.get("rounds", [])
-    if not rounds:
+    if len(rounds) <= round_idx:
         return False
 
-    round1 = rounds[0]
     answers = [
         agent_data.get("answer")
-        for agent_data in round1.values()
-        if agent_data.get("answer") not in (None, "INVALID")
-    ]
-
-    if len(answers) < 2:
-        return False
-
-    return len(set(answers)) > 1
-
-def round2_disagree(data):
-    rounds = data.get("rounds", [])
-    if not rounds:
-        return False
-
-    round2 = rounds[1]
-    answers = [
-        agent_data.get("answer")
-        for agent_data in round2.values()
-        if agent_data.get("answer") not in (None, "INVALID")
-    ]
-
-    if len(answers) < 2:
-        return False
-
-    return len(set(answers)) > 1
-
-def round3_disagree(data):
-    rounds = data.get("rounds", [])
-    if not rounds:
-        return False
-
-    round3 = rounds[2]
-    answers = [
-        agent_data.get("answer")
-        for agent_data in round3.values()
+        for agent_data in rounds[round_idx].values()
         if agent_data.get("answer") not in (None, "INVALID")
     ]
 
@@ -56,42 +22,83 @@ def round3_disagree(data):
 
 
 def main():
-    total = 0
-    disagreement1 = 0
-    disagreement2 = 0
-    disagreement3 = 0
+    parser = argparse.ArgumentParser(
+        description="Compute inter-agent disagreement statistics"
+    )
+    parser.add_argument(
+        "--model",
+        required=True,
+        help="Model name (e.g., DeepSeek-R1, Llama-3.3-70B-Instruct)"
+    )
+    parser.add_argument(
+        "--results-subdir",
+        default="agents_3_questions_2089",
+        help="Subdirectory under results/<model>/ (default: agents_3_questions_2556)"
+    )
 
-    for fname in os.listdir(RESULTS_DIR):
+    args = parser.parse_args()
+    model_name = args.model
+
+    results_dir = os.path.join("results", model_name, args.results_subdir)
+    metrics_dir = os.path.join("metrics", model_name)
+    os.makedirs(metrics_dir, exist_ok=True)
+
+    total = 0
+    disagreements = [0, 0, 0]
+
+    if not os.path.exists(results_dir):
+        raise FileNotFoundError(f"Results directory not found: {results_dir}")
+
+    for fname in os.listdir(results_dir):
         if not fname.startswith("q_") or not fname.endswith(".json"):
             continue
 
-        path = os.path.join(RESULTS_DIR, fname)
-        with open(path, "r") as f:
+        with open(os.path.join(results_dir, fname), "r") as f:
             data = json.load(f)
 
         total += 1
-        if round1_disagree(data):
-            disagreement1 += 1
-        if round2_disagree(data):
-            disagreement2 += 1
-        if round3_disagree(data):
-            disagreement3 += 1
+        for i in range(3):
+            if round_disagree(data, i):
+                disagreements[i] += 1
 
     if total == 0:
         print("No result files found.")
         return
 
-    pct1 = 100 * disagreement1 / total
-    pct2 = 100 * disagreement2 / total
-    pct3 = 100 * disagreement3 / total
-    print(f"Results for model: {FOLDER_NAME}")
+    percentages = [100 * d / total for d in disagreements]
+
+    metrics = {
+        "model": model_name,
+        "total_questions": total,
+        "rounds": {
+            "round_1": {
+                "disagreement_count": disagreements[0],
+                "disagreement_percentage": round(percentages[0], 2),
+            },
+            "round_2": {
+                "disagreement_count": disagreements[1],
+                "disagreement_percentage": round(percentages[1], 2),
+            },
+            "round_3": {
+                "disagreement_count": disagreements[2],
+                "disagreement_percentage": round(percentages[2], 2),
+            },
+        },
+        "generated_at": datetime.utcnow().isoformat() + "Z",
+    }
+
+    out_path = os.path.join(metrics_dir, "interagent_disagree.json")
+    with open(out_path, "w") as f:
+        json.dump(metrics, f, indent=2)
+
+    # Console output
+    print(f"Results for model: {model_name}")
     print(f"Total questions analyzed: {total}")
-    print(f"Questions with disagreement in round 1: {disagreement1}")
-    print(f"Questions with disagreement in round 2: {disagreement2}")
-    print(f"Questions with disagreement in round 3: {disagreement3}")
-    print(f"Percentage with round-1 disagreement: {pct1:.2f}%")
-    print(f"Percentage with round-2 disagreement: {pct2:.2f}%")
-    print(f"Percentage with round-3 disagreement: {pct3:.2f}%")
+    for i in range(3):
+        print(f"Questions with disagreement in round {i+1}: {disagreements[i]}")
+        print(f"Percentage with round-{i+1} disagreement: {percentages[i]:.2f}%")
+
+    print(f"\nSaved metrics to: {out_path}")
 
 
 if __name__ == "__main__":

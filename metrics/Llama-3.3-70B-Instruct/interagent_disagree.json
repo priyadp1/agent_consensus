@@ -1,0 +1,19 @@
+{
+  "model": "Llama-3.3-70B-Instruct",
+  "total_questions": 2089,
+  "rounds": {
+    "round_1": {
+      "disagreement_count": 314,
+      "disagreement_percentage": 15.03
+    },
+    "round_2": {
+      "disagreement_count": 263,
+      "disagreement_percentage": 12.59
+    },
+    "round_3": {
+      "disagreement_count": 181,
+      "disagreement_percentage": 8.66
+    }
+  },
+  "generated_at": "2026-02-01T19:58:41.259667Z"
+}

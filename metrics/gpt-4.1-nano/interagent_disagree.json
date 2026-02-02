@@ -1,0 +1,19 @@
+{
+  "model": "gpt-4.1-nano",
+  "total_questions": 2089,
+  "rounds": {
+    "round_1": {
+      "disagreement_count": 594,
+      "disagreement_percentage": 28.43
+    },
+    "round_2": {
+      "disagreement_count": 395,
+      "disagreement_percentage": 18.91
+    },
+    "round_3": {
+      "disagreement_count": 293,
+      "disagreement_percentage": 14.03
+    }
+  },
+  "generated_at": "2026-02-01T19:59:17.546756Z"
+}

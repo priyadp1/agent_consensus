@@ -1,0 +1,19 @@
+{
+  "model": "DeepSeek-R1",
+  "total_questions": 2089,
+  "rounds": {
+    "round_1": {
+      "disagreement_count": 321,
+      "disagreement_percentage": 15.37
+    },
+    "round_2": {
+      "disagreement_count": 193,
+      "disagreement_percentage": 9.24
+    },
+    "round_3": {
+      "disagreement_count": 110,
+      "disagreement_percentage": 5.27
+    }
+  },
+  "generated_at": "2026-02-01T19:58:10.152131Z"
+}

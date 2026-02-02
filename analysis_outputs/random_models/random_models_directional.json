@@ -1,0 +1,29 @@
+{
+  "DeepSeek-R1 -> grok-3": {
+    "round1_agreements": 1580,
+    "round1_disagreements": 505,
+    "initial_disagreements": 505,
+    "small_to_large": 335,
+    "large_to_small": 152,
+    "small_to_large_pct": 66.34,
+    "large_to_small_pct": 30.1
+  },
+  "Llama-3.3-70B-Instruct -> DeepSeek-R1": {
+    "round1_agreements": 1509,
+    "round1_disagreements": 577,
+    "initial_disagreements": 577,
+    "small_to_large": 381,
+    "large_to_small": 183,
+    "small_to_large_pct": 66.03,
+    "large_to_small_pct": 31.72
+  },
+  "Llama-3.3-70B-Instruct -> grok-3": {
+    "round1_agreements": 1632,
+    "round1_disagreements": 455,
+    "initial_disagreements": 455,
+    "small_to_large": 294,
+    "large_to_small": 140,
+    "small_to_large_pct": 64.62,
+    "large_to_small_pct": 30.77
+  }
+}

@@ -4,17 +4,17 @@ import argparse
 import asyncio
 import re
 
-from model2 import run_model
-from multiagent import agent_talk
-from filter_questions_globalqa import valid_question
+from model import run_model
+from mutliagent_opinionsqa import agent_talk
+from filter_questions_opinionqa import valid_question
 
 AGENT_MODELS = {
-    "Agent 1": "grok-3",
-    "Agent 2": "grok-3",
-    "Agent 3": "grok-3"
+    "Agent 1": "gpt-4.1-nano",
+    "Agent 2": "gpt-4.1-mini",
+    "Agent 3": "gpt-4.1"
 }
 
-DATA_PATH = "data/jsonl/train.jsonl"
+DATA_PATH = "data/jsonl/OpinionsQA/test.jsonl"
 
 
 def stream_jsonL(path):
@@ -39,7 +39,7 @@ def get_completed(results_dir):
 
 
 def build_prompt(example):
-    options = example["options"]
+    options = example["perspectives"]
     letters = [chr(65 + i) for i in range(len(options))]
     option_block = "\n".join(
         f"({letters[i]}) {opt}" for i, opt in enumerate(options)
@@ -58,7 +58,7 @@ Answer options:
 Instructions:
 - Choose exactly ONE option by its letter ({allowed})
 - Explain your reasoning briefly
-- End your response with a final line in this format:
+-You must end your response with a final line in this format:
 
 ANSWER: <LETTER>
 
@@ -89,7 +89,7 @@ def parse_answer(text, num_options):
 
 
 def single_agent(limit):
-    results_dir = f"results/gpt-4.1/single_agent_{limit}"
+    results_dir = f"results/OpinionsQA/llama-fam/single_agent_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
@@ -110,11 +110,11 @@ def single_agent(limit):
         if not isinstance(raw, str):
             raw = ""
 
-        answer = parse_answer(raw, len(example["options"]))
+        answer = parse_answer(raw, len(example["perspectives"]))
 
         output = {
             "question": example["question"],
-            "options": example["options"],
+            "options": example["perspectives"],
             "answer": answer,
             "raw_output": raw.strip(),
             "model_failed": raw == ""
@@ -132,7 +132,7 @@ def single_agent(limit):
 
 
 async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/grok-3/agents_{num_agents}_questions_{limit}"
+    results_dir = f"results/OpinionsQA/test/gpt-4.1-family/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
@@ -159,8 +159,7 @@ async def multi_agent(num_agents, limit, max_rounds):
             agents=agents,
             agent_runners=agent_runners,
             question=example["question"],
-            options=example["options"],
-            selections=example["selections"],
+            options=example["perspectives"],
             max_rounds=max_rounds
         )
 
@@ -173,7 +172,7 @@ async def multi_agent(num_agents, limit, max_rounds):
                     raw = ""
 
                 parsed[agent_id] = {
-                    "answer": parse_answer(raw, len(example["options"])),
+                    "answer": parse_answer(raw, len(example["perspectives"])),
                     "raw_output": raw.strip(),
                     "model_failed": raw == ""
                 }
@@ -182,7 +181,7 @@ async def multi_agent(num_agents, limit, max_rounds):
 
         output = {
             "question": example["question"],
-            "options": example["options"],
+            "options": example["perspectives"],
             "agent_models": AGENT_MODELS,
             "rounds": parsed_rounds
         }

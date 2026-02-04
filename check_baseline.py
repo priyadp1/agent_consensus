@@ -1,8 +1,8 @@
 import os
 import json
 from check import FOLDER_NAME
-SINGLE_AGENT_DIR = f"results/{FOLDER_NAME}/single_agent_2556"
-MULTI_AGENT_DIR = f"results/{FOLDER_NAME}/agents_3_questions_2556"
+SINGLE_AGENT_DIR = f"results/{FOLDER_NAME}/single_agent_2089"
+MULTI_AGENT_DIR = f"results/{FOLDER_NAME}/agents_3_questions_2089"
 
 single_answers = {}
 for fname in os.listdir(SINGLE_AGENT_DIR):

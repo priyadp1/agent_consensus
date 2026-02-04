@@ -4,10 +4,12 @@ import os
 import matplotlib.pyplot as plt
 
 
-def load_model_metrics(model_name, metrics_root):
-    path = os.path.join(metrics_root, model_name, "interagent_disagree.json")
+def load_model_metrics(model_name):
+    path = os.path.join(model_name, "interagent_disagree.json")
     if not os.path.exists(path):
-        raise FileNotFoundError(f"Metrics file not found for model '{model_name}': {path}")
+        raise FileNotFoundError(
+            f"Metrics file not found for model '{model_name}': {path}"
+        )
 
     with open(path, "r") as f:
         data = json.load(f)
@@ -24,20 +26,17 @@ def main():
     parser = argparse.ArgumentParser(
         description="Plot inter-agent disagreement across deliberation rounds"
     )
+
     parser.add_argument(
-        "--models",
+        "--folders",
         nargs="+",
-        required=True,
-        help="List of model names (must exist under metrics/<model>/)"
-    )
-    parser.add_argument(
-        "--metrics-root",
-        default="metrics",
-        help="Root directory containing model metrics (default: metrics/)"
+        required=False,
+        default = ["metrics/OpinionsQA/train/gpt-4.1-family"],
+        help="Model folder names under metrics/ (e.g., gpt-4.1-family DeepSeek-R1)"
     )
     parser.add_argument(
         "--out-dir",
-        default="figures",
+        default="figures/OpinionsQA/train/gpt-4.1-family/",
         help="Directory to save the figure (default: figures/)"
     )
     parser.add_argument(
@@ -56,9 +55,9 @@ def main():
     rounds = [1, 2, 3]
     plt.figure(figsize=(8, 5))
 
-    for model in args.models:
-        values = load_model_metrics(model, args.metrics_root)
-        plt.plot(rounds, values, marker="o", label=model)
+    for folder in args.folders:
+        values = load_model_metrics(folder)
+        plt.plot(rounds, values, marker="o", label=folder)
 
     plt.xticks(rounds)
     plt.xlabel("Deliberation Round")

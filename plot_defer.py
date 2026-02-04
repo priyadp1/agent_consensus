@@ -5,7 +5,7 @@ import numpy as np
 
 
 RANDOM_JSON = "analysis_outputs/random_models/random_models_directional.json"
-GPT41_JSON = "analysis_outputs/gpt-4.1-fam/gpt4.1_family_directional.json"
+GPT41_JSON = "analysis_outputs/OpinionsQA/test/gpt-4.1-fam/gpt4.1_family_directional.json"
 
 FIG_DIR = "figures/directional_metrics"
 
@@ -73,8 +73,8 @@ if __name__ == "__main__":
 
     plot_directional_bars(
         gpt41_data,
-        "Direction of Disagreement (GPT-4.1 Family)",
-        "directional_bars_gpt41_family.png",
+        "Direction of Disagreement (GPT-4.1 Family on OpinionsQA Test)",
+        "directional_bars_gpt41_family_opinionsqa.png",
     )
 
     # Plot 2: Asymmetry ratios
@@ -86,8 +86,8 @@ if __name__ == "__main__":
 
     plot_asymmetry_ratios(
         gpt41_data,
-        "Asymmetric Alignment Strength (GPT-4.1 Family)",
-        "asymmetry_ratios_gpt41_family.png",
+        "Asymmetric Alignment Strength (GPT-4.1 Family on OpinionsQA Test)",
+        "asymmetry_ratios_gpt41_family_opinionsqa.png",
     )
 
     print(f"Figures saved to: {FIG_DIR}")

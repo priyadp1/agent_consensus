@@ -6,7 +6,7 @@ import re
 
 from model2 import run_model
 from multiagent import agent_talk
-from filter_questions import valid_question
+from filter_questions_globalqa import valid_question
 
 AGENT_MODELS = {
     "Agent 1": "Llama-3.3-70B-Instruct",

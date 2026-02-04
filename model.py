@@ -13,6 +13,9 @@ FOUNDRY_MODELS = {
     "DeepSeek-R1",
     "grok-3",
     "Llama-3.3-70B-Instruct",
+    "Meta-Llama-3.1-405B-Instruct",
+    "Meta-Llama-3.1-8B-Instruct"
+
 }
 
 DEFAULT_MODEL_NAME = "gpt-4.1-mini"

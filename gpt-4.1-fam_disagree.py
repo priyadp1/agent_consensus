@@ -2,7 +2,7 @@ import json
 import os
 from collections import defaultdict
 
-RESULTS_DIR = "results/gpt-4.1-family/agents_3_questions_2089"
+RESULTS_DIR = "results/OpinionsQA/train/gpt-4.1-family/agents_3_questions_2556"
 
 MODEL_ORDER = {
     "gpt-4.1-nano": 0,
@@ -10,7 +10,7 @@ MODEL_ORDER = {
     "gpt-4.1": 2,
 }
 
-OUTPUT_JSON = "analysis_outputs/gpt-4.1-fam/gpt4.1_family_directional.json"
+OUTPUT_JSON = "analysis_outputs/OpinionsQA/train/gpt-4.1-fam/gpt4.1_family_directional.json"
 
 
 def load_results(results_dir):

@@ -26,19 +26,19 @@ def main():
         description="Compute inter-agent disagreement statistics"
     )
     parser.add_argument(
-        "--model",
-        required=True,
-        help="Model name (e.g., DeepSeek-R1, Llama-3.3-70B-Instruct)"
+        "--folder",
+        default="OpinionsQA/train/gpt-4.1-family",
+        required=False,
+        help="Folder name (e.g., DeepSeek-R1, Llama-3.3-70B-Instruct)"
     )
     parser.add_argument(
         "--results-subdir",
-        default="agents_3_questions_2089",
-        help="Subdirectory under results/<model>/ (default: agents_3_questions_2556)"
+        default="agents_3_questions_2556",
+        help="Subdirectory under results/<folder>/ (default: agents_3_questions_2556)"
     )
 
     args = parser.parse_args()
-    model_name = args.model
-
+    model_name = args.folder
     results_dir = os.path.join("results", model_name, args.results_subdir)
     metrics_dir = os.path.join("metrics", model_name)
     os.makedirs(metrics_dir, exist_ok=True)

@@ -27,7 +27,7 @@ def main():
     )
     parser.add_argument(
         "--folder",
-        default="OpinionsQA/train/gpt-4.1-family",
+        default="Llama-Fam",
         required=False,
         help="Folder name (e.g., DeepSeek-R1, Llama-3.3-70B-Instruct)"
     )

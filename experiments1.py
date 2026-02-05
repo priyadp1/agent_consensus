@@ -132,7 +132,7 @@ def single_agent(limit):
 
 
 async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/Llama-Fam/agents_{num_agents}_questions_{limit}"
+    results_dir = f"results/Llama-Fam-3/agents_{num_agents}_questions_{limit}"
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)

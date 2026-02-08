@@ -1,0 +1,19 @@
+{
+  "model": "GlobalOpinionsQA/agent_names/gpt-4.1-fam",
+  "total_questions": 2089,
+  "rounds": {
+    "round_1": {
+      "disagreement_count": 840,
+      "disagreement_percentage": 40.21
+    },
+    "round_2": {
+      "disagreement_count": 480,
+      "disagreement_percentage": 22.98
+    },
+    "round_3": {
+      "disagreement_count": 399,
+      "disagreement_percentage": 19.1
+    }
+  },
+  "generated_at": "2026-02-07T22:34:06.090617Z"
+}

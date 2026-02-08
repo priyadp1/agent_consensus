@@ -1,0 +1,15 @@
+experiment:
+  name: random_models
+  results_root: results/GlobalOpinionsQA/agent_names/random_models
+
+data:
+  path: data/jsonl/GlobalOpinionsQA/train.jsonl
+
+agents:
+  Agent 1: DeepSeek-R1
+  Agent 2: Llama-3.3-70B-Instruct
+  Agent 3: grok-3
+
+defaults:
+  limit: 2556
+  max_rounds: 3

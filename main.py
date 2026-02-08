@@ -3,18 +3,16 @@ import os
 import argparse
 import asyncio
 import re
+import yaml
 
-from model2 import run_model
+from model import run_model
 from multiagent import agent_talk
 from filter_questions_globalqa import valid_question
 
-AGENT_MODELS = {
-    "Agent 1": "grok-3",
-    "Agent 2": "grok-3",
-    "Agent 3": "grok-3"
-}
 
-DATA_PATH = "data/jsonl/train.jsonl"
+def load_config(path):
+    with open(path, "r") as f:
+        return yaml.safe_load(f)
 
 
 def stream_jsonL(path):
@@ -88,14 +86,18 @@ def parse_answer(text, num_options):
     return match.group(1)
 
 
-def single_agent(limit):
-    results_dir = f"results/gpt-4.1/single_agent_{limit}"
+def single_agent(config):
+    data_path = config["data"]["path"]
+    limit = config["defaults"]["limit"]
+    results_root = config["experiment"]["results_root"]
+
+    results_dir = os.path.join(results_root, f"single_agent_{limit}")
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
     used = 0
 
-    for example in stream_jsonL(DATA_PATH):
+    for example in stream_jsonL(data_path):
         if not valid_question(example):
             continue
 
@@ -110,12 +112,10 @@ def single_agent(limit):
         if not isinstance(raw, str):
             raw = ""
 
-        answer = parse_answer(raw, len(example["options"]))
-
         output = {
             "question": example["question"],
             "options": example["options"],
-            "answer": answer,
+            "answer": parse_answer(raw, len(example["options"])),
             "raw_output": raw.strip(),
             "model_failed": raw == ""
         }
@@ -131,22 +131,32 @@ def single_agent(limit):
             break
 
 
-async def multi_agent(num_agents, limit, max_rounds):
-    results_dir = f"results/grok-3/agents_{num_agents}_questions_{limit}"
+async def multi_agent(config):
+    agent_models = config["agents"]
+    data_path = config["data"]["path"]
+    limit = config["defaults"]["limit"]
+    max_rounds = config["defaults"]["max_rounds"]
+    results_root = config["experiment"]["results_root"]
+
+    agents = list(agent_models.values())
+    num_agents = len(agents)
+
+    results_dir = os.path.join(
+        results_root,
+        f"agents_{num_agents}_questions_{limit}"
+    )
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
 
-    agents = list(AGENT_MODELS.keys())
-
     agent_runners = {
-        agent_id: (lambda p, m=model: run_model(p, model_name=m))
-        for agent_id, model in AGENT_MODELS.items()
+        model_name: (lambda p, m=model_name: run_model(p, model_name=m))
+        for model_name in agent_models.values()
     }
 
     used = 0
 
-    for example in stream_jsonL(DATA_PATH):
+    for example in stream_jsonL(data_path):
         if not valid_question(example):
             continue
 
@@ -183,7 +193,7 @@ async def multi_agent(num_agents, limit, max_rounds):
         output = {
             "question": example["question"],
             "options": example["options"],
-            "agent_models": AGENT_MODELS,
+            "agent_models": agent_models,
             "rounds": parsed_rounds
         }
 
@@ -202,14 +212,26 @@ async def multi_agent(num_agents, limit, max_rounds):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--agents", type=int, default=3)
-    parser.add_argument("--limit", type=int, default=2556)
-    parser.add_argument("--rounds", type=int, default=3)
+    config_dir = "configs"
+    config_files = sorted(
+        f for f in os.listdir(config_dir)
+        if f.endswith(".yaml") or f.endswith(".yml")
+    )
 
-    args = parser.parse_args()
+    if not config_files:
+        raise RuntimeError("No config files found")
 
-    if args.agents == 1:
-        single_agent(args.limit)
-    else:
-        asyncio.run(multi_agent(args.agents, args.limit, args.rounds))
+    for cfg in config_files:
+        config_path = os.path.join(config_dir, cfg)
+        config = load_config(config_path)
+        num_agents = len(config["agents"])
+
+        print(f"\nRunning experiment: {config['experiment']['name']}")
+        print(f"Agents: {num_agents}")
+        print(f"Data: {config['data']['path']}")
+        print(f"Results: {config['experiment']['results_root']}")
+
+        if num_agents == 1:
+            single_agent(config)
+        else:
+            asyncio.run(multi_agent(config))

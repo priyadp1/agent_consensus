@@ -1,0 +1,19 @@
+{
+  "model": "GlobalOpinionsQA/agent_names/Llama-Fam-3",
+  "total_questions": 2089,
+  "rounds": {
+    "round_1": {
+      "disagreement_count": 2,
+      "disagreement_percentage": 0.1
+    },
+    "round_2": {
+      "disagreement_count": 0,
+      "disagreement_percentage": 0.0
+    },
+    "round_3": {
+      "disagreement_count": 1,
+      "disagreement_percentage": 0.05
+    }
+  },
+  "generated_at": "2026-02-08T03:24:09.631921Z"
+}

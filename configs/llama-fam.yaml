@@ -1,0 +1,15 @@
+experiment:
+  name: llama-fam-3
+  results_root: results/GlobalOpinionsQA/agent_names/Llama-Fam-3
+
+data:
+  path: data/jsonl/GlobalOpinionsQA/train.jsonl
+
+agents:
+  Agent 1: Llama-3.3-70B-Instruct
+  Agent 2: Meta-Llama-3.1-405B-Instruct
+  Agent 3: Meta-Llama-3.1-8B-Instruct
+
+defaults:
+  limit: 2556
+  max_rounds: 3

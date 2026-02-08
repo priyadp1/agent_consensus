@@ -27,7 +27,7 @@ def main():
     )
     parser.add_argument(
         "--folder",
-        default="Llama-Fam",
+        default="GlobalOpinionsQA/agent_names/Llama-Fam-3",
         required=False,
         help="Folder name (e.g., DeepSeek-R1, Llama-3.3-70B-Instruct)"
     )

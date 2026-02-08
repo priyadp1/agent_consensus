@@ -1,0 +1,15 @@
+experiment:
+  name: gpt-4.1-fam
+  results_root: results/GlobalOpinionsQA/agent_names/gpt-4.1-fam
+
+data:
+  path: data/jsonl/GlobalOpinionsQA/train.jsonl
+
+agents:
+  Agent 1: gpt-4.1-nano
+  Agent 2: gpt-4.1-mini
+  Agent 3: gpt-4.1
+
+defaults:
+  limit: 2556
+  max_rounds: 3

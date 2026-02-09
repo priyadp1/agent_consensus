@@ -7,13 +7,14 @@ from datetime import datetime
 def round_disagree(data, round_idx):
     rounds = data.get("rounds", [])
     if len(rounds) <= round_idx:
-        return False
+        return None
 
-    answers = [
-        agent_data.get("answer")
-        for agent_data in rounds[round_idx].values()
-        if agent_data.get("answer") not in (None, "INVALID")
-    ]
+    answers = []
+    for agent_data in rounds[round_idx].values():
+        ans = agent_data.get("answer")
+        if ans in (None, "INVALID"):
+            return None
+        answers.append(ans)
 
     if len(answers) < 2:
         return False
@@ -27,27 +28,38 @@ def main():
     )
     parser.add_argument(
         "--folder",
-        default="GlobalOpinionsQA/agent_names/Llama-Fam-3",
-        required=False,
-        help="Folder name (e.g., DeepSeek-R1, Llama-3.3-70B-Instruct)"
+        default="GlobalOpinionsQA/agent_names/gpt-4.1-fam",
+        required=False
     )
     parser.add_argument(
         "--results-subdir",
-        default="agents_3_questions_2556",
-        help="Subdirectory under results/<folder>/ (default: agents_3_questions_2556)"
+        default="agents_3_questions_2556_rotated",
+        required=False
     )
 
     args = parser.parse_args()
-    model_name = args.folder
-    results_dir = os.path.join("results", model_name, args.results_subdir)
-    metrics_dir = os.path.join("metrics", model_name)
+    results_dir = os.path.join(
+        "results",
+        args.folder.strip("/"),
+        args.results_subdir.strip("/")
+    )
+
+    metrics_dir = os.path.join(
+        "metrics",
+        args.folder.strip("/"),
+        args.results_subdir.strip("/")
+    )
+
     os.makedirs(metrics_dir, exist_ok=True)
 
-    total = 0
-    disagreements = [0, 0, 0]
+    # For logging / metadata only (NOT a path)
+    model_name = f"{args.folder}/{args.results_subdir}"
 
     if not os.path.exists(results_dir):
         raise FileNotFoundError(f"Results directory not found: {results_dir}")
+
+    total_valid = [0, 0, 0]
+    disagreements = [0, 0, 0]
 
     for fname in os.listdir(results_dir):
         if not fname.startswith("q_") or not fname.endswith(".json"):
@@ -56,30 +68,34 @@ def main():
         with open(os.path.join(results_dir, fname), "r") as f:
             data = json.load(f)
 
-        total += 1
         for i in range(3):
-            if round_disagree(data, i):
+            result = round_disagree(data, i)
+            if result is None:
+                continue
+            total_valid[i] += 1
+            if result:
                 disagreements[i] += 1
 
-    if total == 0:
-        print("No result files found.")
-        return
-
-    percentages = [100 * d / total for d in disagreements]
+    percentages = [
+        (100 * disagreements[i] / total_valid[i]) if total_valid[i] > 0 else 0
+        for i in range(3)
+    ]
 
     metrics = {
         "model": model_name,
-        "total_questions": total,
         "rounds": {
             "round_1": {
+                "valid_questions": total_valid[0],
                 "disagreement_count": disagreements[0],
                 "disagreement_percentage": round(percentages[0], 2),
             },
             "round_2": {
+                "valid_questions": total_valid[1],
                 "disagreement_count": disagreements[1],
                 "disagreement_percentage": round(percentages[1], 2),
             },
             "round_3": {
+                "valid_questions": total_valid[2],
                 "disagreement_count": disagreements[2],
                 "disagreement_percentage": round(percentages[2], 2),
             },
@@ -91,12 +107,12 @@ def main():
     with open(out_path, "w") as f:
         json.dump(metrics, f, indent=2)
 
-    # Console output
     print(f"Results for model: {model_name}")
-    print(f"Total questions analyzed: {total}")
     for i in range(3):
-        print(f"Questions with disagreement in round {i+1}: {disagreements[i]}")
-        print(f"Percentage with round-{i+1} disagreement: {percentages[i]:.2f}%")
+        print(f"Round {i+1}:")
+        print(f"  Valid questions: {total_valid[i]}")
+        print(f"  Disagreements: {disagreements[i]}")
+        print(f"  Percentage: {percentages[i]:.2f}%")
 
     print(f"\nSaved metrics to: {out_path}")
 

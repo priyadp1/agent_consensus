@@ -3,13 +3,13 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 
-
-RANDOM_JSON = "analysis_outputs/random_models/random_models_directional.json"
-GPT41_JSON = "analysis_outputs/OpinionsQA/test/gpt-4.1-fam/gpt4.1_family_directional.json"
+os.makedirs("analysis_outputs", exist_ok=True)
+GPT41 = "analysis_outputs/GlobalOpinionsQA/agent_names/gpt-4.1-fam/gpt4.1_family_NORMAL_directional.json"
+GPT41_ROTATE_JSON = "analysis_outputs/GlobalOpinionsQA/agent_names/gpt-4.1-fam/gpt4.1_family_ROTATED_directional.json"
 
 FIG_DIR = "figures/directional_metrics"
 
-
+RANDOM_JSON = "analysis_outputs/random_models/random_models_directional.json"
 def load_json(path):
     with open(path, "r") as f:
         return json.load(f)
@@ -62,7 +62,8 @@ def plot_asymmetry_ratios(data, title, filename):
 
 if __name__ == "__main__":
     random_data = load_json(RANDOM_JSON)
-    gpt41_data = load_json(GPT41_JSON)
+    gpt41_data = load_json(GPT41)
+    gpt41_rotate_data = load_json(GPT41_ROTATE_JSON)
 
     # Plot 1: Directional disagreement
     plot_directional_bars(
@@ -73,8 +74,13 @@ if __name__ == "__main__":
 
     plot_directional_bars(
         gpt41_data,
-        "Direction of Disagreement (GPT-4.1 Family on OpinionsQA Test)",
+        "Direction of Disagreement (GPT-4.1 Family on GlobalOpinionsQA )",
         "directional_bars_gpt41_family_opinionsqa.png",
+    )
+    plot_directional_bars(
+        gpt41_rotate_data,
+        "Direction of Disagreement (GPT-4.1 Family Rotated Results on GlobalOpinionsQA )",
+        "directional_bars_gpt41_family_rotated.png",
     )
 
     # Plot 2: Asymmetry ratios
@@ -86,8 +92,13 @@ if __name__ == "__main__":
 
     plot_asymmetry_ratios(
         gpt41_data,
-        "Asymmetric Alignment Strength (GPT-4.1 Family on OpinionsQA Test)",
+        "Asymmetric Alignment Strength (GPT-4.1 Family on GlobalOpinionsQA Test)",
         "asymmetry_ratios_gpt41_family_opinionsqa.png",
+    )
+    plot_asymmetry_ratios(
+        gpt41_rotate_data,
+        "Asymmetric Alignment Strength (GPT-4.1 Family Rotated on GlobalOpinionsQA Test)",
+        "asymmetry_ratios_gpt41_family_rotated.png",
     )
 
     print(f"Figures saved to: {FIG_DIR}")

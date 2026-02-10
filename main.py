@@ -139,12 +139,8 @@ async def multi_agent(config):
     results_root = config["experiment"]["results_root"]
 
     agents = list(agent_models.values())
-    num_agents = len(agents)
 
-    results_dir = os.path.join(
-        results_root,
-        f"agents_{num_agents}_questions_{limit}"
-    )
+    results_dir = results_root
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
@@ -203,7 +199,7 @@ async def multi_agent(config):
 
         print(
             f"[SAVED] Multi-agent convo {used} "
-            f"(agents={num_agents}, rounds={max_rounds}) -> {output_path}"
+            f"(agents={len(agents)}, rounds={max_rounds}) -> {output_path}"
         )
 
         used += 1

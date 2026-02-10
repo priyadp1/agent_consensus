@@ -1,6 +1,6 @@
 experiment:
   name: gpt-4.1-fam
-  results_root: results/GlobalOpinionsQA/agent_names/gpt-4.1-fam
+  results_root: results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556
 
 data:
   path: data/jsonl/GlobalOpinionsQA/train.jsonl

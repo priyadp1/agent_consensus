@@ -215,7 +215,7 @@ if __name__ == "__main__":
     config_dir = "configs"
     config_files = sorted(
         f for f in os.listdir(config_dir)
-        if f.endswith(".yaml") or f.endswith(".yml")
+        if f.endswith("fam.yaml") or f.endswith("fam.yml")
     )
 
     if not config_files:

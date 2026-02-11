@@ -28,7 +28,7 @@ def main():
     )
     parser.add_argument(
         "--folder",
-        default="GlobalOpinionsQA/agent_names/Llama-Fam-3",
+        default="GlobalOpinionsQA/agent_names/random_models",
         required=False
     )
     parser.add_argument(

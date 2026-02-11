@@ -9,7 +9,8 @@ GPT41_ROTATE_JSON = "analysis_outputs/GlobalOpinionsQA/agent_names/gpt-4.1-fam/g
 
 FIG_DIR = "figures/directional_metrics"
 
-RANDOM_JSON = "analysis_outputs/random_models/random_models_directional.json"
+RANDOM_JSON = "analysis_outputs/GlobalOpinionsQA/agent_names/random_models/random_models_NORMAL_directional.json"
+RANDOM_ROTATE_JSON = "analysis_outputs/GlobalOpinionsQA/agent_names/random_models/random_models_ROTATED_directional.json"
 def load_json(path):
     with open(path, "r") as f:
         return json.load(f)
@@ -64,12 +65,19 @@ if __name__ == "__main__":
     random_data = load_json(RANDOM_JSON)
     gpt41_data = load_json(GPT41)
     gpt41_rotate_data = load_json(GPT41_ROTATE_JSON)
+    random_rotate_data = load_json(RANDOM_ROTATE_JSON)
 
     # Plot 1: Directional disagreement
     plot_directional_bars(
         random_data,
         "Direction of Disagreement (Random Models)",
         "directional_bars_random_models.png",
+    )
+
+    plot_directional_bars(
+        random_rotate_data,
+        "Direction of Disagreement (Random Models Rotated)",
+        "directional_bars_random_models_rotated.png",
     )
 
     plot_directional_bars(
@@ -86,8 +94,14 @@ if __name__ == "__main__":
     # Plot 2: Asymmetry ratios
     plot_asymmetry_ratios(
         random_data,
-        "Asymmetric Alignment Strength (Frontier Models)",
-        "asymmetry_ratios_frontier_models.png",
+        "Asymmetric Alignment Strength (Random Models)",
+        "asymmetry_ratios_random_models.png",
+    )
+
+    plot_asymmetry_ratios(
+        random_rotate_data,
+        "Asymmetric Alignment Strength (Random Models Rotated)",
+        "asymmetry_ratios_random_models_rotated.png",
     )
 
     plot_asymmetry_ratios(

@@ -31,12 +31,12 @@ def main():
         "--folders",
         nargs="+",
         required=False,
-        default = ["metrics/OpinionsQA/train/gpt-4.1-family"],
+        default = ["metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556" , "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556_rotated"],
         help="Model folder names under metrics/ (e.g., gpt-4.1-family DeepSeek-R1)"
     )
     parser.add_argument(
         "--out-dir",
-        default="figures/OpinionsQA/train/gpt-4.1-family/",
+        default="figures/GlobalOpinionsQA/agent_names/gpt-4.1-fam-rotated_vs_normal",
         help="Directory to save the figure (default: figures/)"
     )
     parser.add_argument(
@@ -53,7 +53,7 @@ def main():
     args = parser.parse_args()
 
     rounds = [1, 2, 3]
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(12, 5))
 
     for folder in args.folders:
         values = load_model_metrics(folder)
@@ -61,7 +61,7 @@ def main():
 
     plt.xticks(rounds)
     plt.xlabel("Deliberation Round")
-    plt.ylabel("Questions with ≥ 1 Disagreement (%)")
+    plt.ylabel("Questions with >= 1 Disagreement (%)")
     plt.title(args.title)
     plt.legend()
     plt.grid(True, alpha=0.3)

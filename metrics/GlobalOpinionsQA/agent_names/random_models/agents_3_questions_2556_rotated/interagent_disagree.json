@@ -2,20 +2,20 @@
   "model": "GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556_rotated",
   "rounds": {
     "round_1": {
-      "valid_questions": 942,
-      "disagreement_count": 342,
-      "disagreement_percentage": 36.31
+      "valid_questions": 2086,
+      "disagreement_count": 723,
+      "disagreement_percentage": 34.66
     },
     "round_2": {
-      "valid_questions": 942,
-      "disagreement_count": 197,
-      "disagreement_percentage": 20.91
+      "valid_questions": 2086,
+      "disagreement_count": 419,
+      "disagreement_percentage": 20.09
     },
     "round_3": {
-      "valid_questions": 942,
-      "disagreement_count": 132,
-      "disagreement_percentage": 14.01
+      "valid_questions": 2084,
+      "disagreement_count": 263,
+      "disagreement_percentage": 12.62
     }
   },
-  "generated_at": "2026-02-11T03:45:06.227194Z"
+  "generated_at": "2026-02-11T15:17:52.475637Z"
 }

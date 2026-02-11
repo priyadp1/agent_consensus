@@ -1,23 +1,23 @@
 {
   "DeepSeek-R1 -> grok-3": {
-    "initial_disagreements": 225,
-    "small_to_large": 97,
-    "large_to_small": 66,
-    "small_to_large_pct": 43.11,
-    "large_to_small_pct": 29.33
+    "initial_disagreements": 493,
+    "small_to_large": 299,
+    "large_to_small": 172,
+    "small_to_large_pct": 60.65,
+    "large_to_small_pct": 34.89
   },
   "Llama-3.3-70B-Instruct -> DeepSeek-R1": {
-    "initial_disagreements": 257,
-    "small_to_large": 88,
-    "large_to_small": 97,
-    "small_to_large_pct": 34.24,
-    "large_to_small_pct": 37.74
+    "initial_disagreements": 545,
+    "small_to_large": 357,
+    "large_to_small": 162,
+    "small_to_large_pct": 65.5,
+    "large_to_small_pct": 29.72
   },
   "Llama-3.3-70B-Instruct -> grok-3": {
-    "initial_disagreements": 221,
-    "small_to_large": 93,
-    "large_to_small": 73,
-    "small_to_large_pct": 42.08,
-    "large_to_small_pct": 33.03
+    "initial_disagreements": 447,
+    "small_to_large": 279,
+    "large_to_small": 139,
+    "small_to_large_pct": 62.42,
+    "large_to_small_pct": 31.1
   }
 }

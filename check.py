@@ -28,7 +28,7 @@ def main():
     )
     parser.add_argument(
         "--folder",
-        default="GlobalOpinionsQA/agent_names/gpt-4.1-fam",
+        default="GlobalOpinionsQA/agent_names/Llama-Fam-3",
         required=False
     )
     parser.add_argument(

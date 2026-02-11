@@ -3,7 +3,6 @@ import os
 import asyncio
 import re
 import yaml
-
 from model import run_model
 from multiagent_rotate import agent_talk
 from main import load_config, get_completed, parse_answer
@@ -31,7 +30,6 @@ def rotate_R1_answers(R1, biggest, middle, smallest, num_options):
     ori_biggest = R1[biggest]["raw_output"]
     ori_middle = R1[middle]["raw_output"]
     ori_smallest = R1[smallest]["raw_output"]
-
     biggest_answer = parse_answer(ori_biggest, num_options)
     middle_answer = parse_answer(ori_middle, num_options)
     smallest_answer = parse_answer(ori_smallest, num_options)
@@ -46,13 +44,10 @@ def rotate_R1_answers(R1, biggest, middle, smallest, num_options):
         return re.sub(r"ANSWER:\s*[A-Z]", f"ANSWER: {new_answer}", raw)
 
     R1_rotated = json.loads(json.dumps(R1))
-
     R1_rotated[middle]["raw_output"] = swap_answers(ori_middle, smallest_answer)
     R1_rotated[middle]["answer"] = smallest_answer
-
     R1_rotated[biggest]["raw_output"] = swap_answers(ori_biggest, middle_answer)
     R1_rotated[biggest]["answer"] = middle_answer
-
     R1_rotated[smallest]["raw_output"] = swap_answers(ori_smallest, biggest_answer)
     R1_rotated[smallest]["answer"] = biggest_answer
 
@@ -80,7 +75,6 @@ def parse_round(round_data, num_options):
 async def run_rotated_experiment(config_path, old_results_dir):
     config = load_config(config_path)
     biggest, middle, smallest = rank_models(config_path)
-
     agents = list(config["agents"].values())
     agent_runners = {
         model: (lambda p, m=model: run_model(p, model_name=m))
@@ -171,10 +165,4 @@ if __name__ == "__main__":
         config_path = os.path.join(config_dir, cfg)
         config = load_config(config_path)
         results_root = config["experiment"]["results_root"]
-
-        asyncio.run(
-            run_rotated_experiment(
-                config_path,
-                old_results_dir=results_root
-            )
-        )
+        asyncio.run(run_rotated_experiment(config_path,old_results_dir=results_root) )

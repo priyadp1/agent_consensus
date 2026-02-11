@@ -1,0 +1,23 @@
+{
+  "DeepSeek-R1 -> grok-3": {
+    "initial_disagreements": 225,
+    "small_to_large": 97,
+    "large_to_small": 66,
+    "small_to_large_pct": 43.11,
+    "large_to_small_pct": 29.33
+  },
+  "Llama-3.3-70B-Instruct -> DeepSeek-R1": {
+    "initial_disagreements": 257,
+    "small_to_large": 88,
+    "large_to_small": 97,
+    "small_to_large_pct": 34.24,
+    "large_to_small_pct": 37.74
+  },
+  "Llama-3.3-70B-Instruct -> grok-3": {
+    "initial_disagreements": 221,
+    "small_to_large": 93,
+    "large_to_small": 73,
+    "small_to_large_pct": 42.08,
+    "large_to_small_pct": 33.03
+  }
+}

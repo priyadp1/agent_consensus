@@ -1,0 +1,21 @@
+{
+  "model": "GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 2086,
+      "disagreement_count": 723,
+      "disagreement_percentage": 34.66
+    },
+    "round_2": {
+      "valid_questions": 2087,
+      "disagreement_count": 419,
+      "disagreement_percentage": 20.08
+    },
+    "round_3": {
+      "valid_questions": 2085,
+      "disagreement_count": 320,
+      "disagreement_percentage": 15.35
+    }
+  },
+  "generated_at": "2026-02-11T03:45:15.415331Z"
+}

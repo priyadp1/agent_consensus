@@ -71,7 +71,7 @@ if __name__ == "__main__":
     plot_directional_bars(
         random_data,
         "Direction of Disagreement (Random Models)",
-        "directional_bars_random_models.png",
+        "directional_bars_random_models_agentNames.png",
     )
 
     plot_directional_bars(
@@ -82,12 +82,12 @@ if __name__ == "__main__":
 
     plot_directional_bars(
         gpt41_data,
-        "Direction of Disagreement (GPT-4.1 Family on GlobalOpinionsQA )",
-        "directional_bars_gpt41_family_opinionsqa.png",
+        "Direction of Disagreement (GPT-4.1 Family seeing Agent Names )",
+        "directional_bars_gpt41_family_agentNames.png",
     )
     plot_directional_bars(
         gpt41_rotate_data,
-        "Direction of Disagreement (GPT-4.1 Family Rotated Results on GlobalOpinionsQA )",
+        "Direction of Disagreement (GPT-4.1 Family Rotated Results seeing Agent Names)",
         "directional_bars_gpt41_family_rotated.png",
     )
 

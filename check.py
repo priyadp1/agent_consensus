@@ -28,12 +28,12 @@ def main():
     )
     parser.add_argument(
         "--folder",
-        default="GlobalOpinionsQA/agent_names/random_models",
+        default="GlobalOpinionsQA/gpt-4.1-family",
         required=False
     )
     parser.add_argument(
         "--results-subdir",
-        default="agents_3_questions_2556_rotated",
+        default="agents_3_questions_2089",
         required=False
     )
 

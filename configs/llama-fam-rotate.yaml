@@ -1,6 +1,6 @@
 experiment:
   name: llama-fam-3
-  results_root: results/GlobalOpinionsQA/agent_names/Llama-Fam-3/agents_3_questions_2556
+  results_root: results/GlobalOpinionsQALlama-Fam-3/agents_3_questions_2556
 
 data:
   path: data/jsonl/GlobalOpinionsQA/train.jsonl

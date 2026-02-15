@@ -7,6 +7,10 @@ ORIGINAL_RESULTS_DIR = (
     "agents_3_questions_2556"
 )
 
+ALT_ORIGINAL_RESULTS_DIR = (
+    "results/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089"
+)
+
 ROTATED_RESULTS_DIR = (
     "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
     "agents_3_questions_2556_rotated"
@@ -18,12 +22,22 @@ ROUND_JSON_NORMAL = os.path.join(
     OUTPUT_BASE, "per_round_disagreement_NORMAL.json"
 )
 
+ROUND_JSON_ALT_NORMAL = os.path.join(
+    "analysis_outputs/gpt-4.1-family",
+    "per_round_disagreement_NORMAL.json"
+)
+
 ROUND_JSON_ROTATED = os.path.join(
     OUTPUT_BASE, "per_round_disagreement_ROTATED.json"
 )
 
 DIRECTIONAL_JSON_NORMAL = os.path.join(
     OUTPUT_BASE, "gpt4.1_family_NORMAL_directional.json"
+)
+
+DIRECTIONAL_JSON_ALT_NORMAL = os.path.join(
+    "analysis_outputs/gpt-4.1-family",
+    "gpt4.1_family_NORMAL_directional.json"
 )
 
 DIRECTIONAL_JSON_ROTATED = os.path.join(
@@ -81,13 +95,10 @@ def analyze_per_round(data):
             for i, m1 in enumerate(models):
                 for m2 in models[i + 1:]:
                     per_round[r_idx]["total_pairs"] += 1
-
                     a1 = get_answer(r, m1)
                     a2 = get_answer(r, m2)
-
                     if a1 == "INVALID" or a2 == "INVALID":
                         continue
-
                     if a1 != a2:
                         per_round[r_idx]["disagreements"] += 1
 
@@ -185,8 +196,8 @@ def save_directional(initial, s2l, l2s, path):
             "initial_disagreements": total,
             "small_to_large": s,
             "large_to_small": l,
-            "small_to_large_pct": round(s / total * 100, 2),
-            "large_to_small_pct": round(l / total * 100, 2),
+            "small_to_large_pct": round(s / total * 100, 2) if total > 0 else 0,
+            "large_to_small_pct": round(l / total * 100, 2) if total > 0 else 0,
         }
 
     ensure_dir(path)
@@ -200,14 +211,20 @@ if __name__ == "__main__":
     print("\n=== GPT-4.1 FAMILY: NORMAL vs ROTATED ANALYSIS ===\n")
 
     orig_data = load_results(ORIGINAL_RESULTS_DIR)
+    alt_orig_data = load_results(ALT_ORIGINAL_RESULTS_DIR)
     rot_data = load_results(ROTATED_RESULTS_DIR)
 
     print(f"Loaded {len(orig_data)} normal questions")
+    print(f"Loaded {len(alt_orig_data)} ALT normal questions")
     print(f"Loaded {len(rot_data)} rotated questions")
 
     per_round_norm = analyze_per_round(orig_data)
     print_per_round("NORMAL", per_round_norm)
     save_per_round(per_round_norm, ROUND_JSON_NORMAL)
+
+    per_round_alt = analyze_per_round(alt_orig_data)
+    print_per_round("ALT_NORMAL", per_round_alt)
+    save_per_round(per_round_alt, ROUND_JSON_ALT_NORMAL)
 
     per_round_rot = analyze_per_round(rot_data)
     print_per_round("ROTATED", per_round_rot)
@@ -216,6 +233,10 @@ if __name__ == "__main__":
     init_norm, s2l_norm, l2s_norm = analyze_conditioned(orig_data, orig_data)
     print_directional("NORMAL", init_norm, s2l_norm, l2s_norm)
     save_directional(init_norm, s2l_norm, l2s_norm, DIRECTIONAL_JSON_NORMAL)
+
+    init_alt, s2l_alt, l2s_alt = analyze_conditioned(alt_orig_data, alt_orig_data)
+    print_directional("ALT_NORMAL", init_alt, s2l_alt, l2s_alt)
+    save_directional(init_alt, s2l_alt, l2s_alt, DIRECTIONAL_JSON_ALT_NORMAL)
 
     init_rot, s2l_rot, l2s_rot = analyze_conditioned(orig_data, rot_data)
     print_directional("ROTATED", init_rot, s2l_rot, l2s_rot)

@@ -5,8 +5,8 @@ import asyncio
 import re
 
 from model import run_model
-from mutliagent_opinionsqa import agent_talk
-from filter_questions_opinionqa import valid_question
+from multiagent import agent_talk
+from filter_questions import valid_question
 
 AGENT_MODELS = {
     "Agent 1": "gpt-4.1-nano",
@@ -96,7 +96,7 @@ def single_agent(limit):
     used = 0
 
     for example in stream_jsonL(DATA_PATH):
-        if not valid_question(example):
+        if not valid_question(example, key="perspectives"):
             continue
 
         if used in completed:
@@ -147,7 +147,7 @@ async def multi_agent(num_agents, limit, max_rounds):
     used = 0
 
     for example in stream_jsonL(DATA_PATH):
-        if not valid_question(example):
+        if not valid_question(example, key="perspectives"):
             continue
 
         if used in completed:

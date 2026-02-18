@@ -7,21 +7,24 @@ import yaml
 
 from model import run_model
 from multiagent import agent_talk
-from filter_questions_globalqa import valid_question
+from filter_questions import valid_question
 
 
 def load_config(path):
+    # Load a YAML config file and return it as a dict
     with open(path, "r") as f:
         return yaml.safe_load(f)
 
 
 def stream_jsonL(path):
+    # Lazily yield one parsed JSON object per line from a JSONL file
     with open(path, "r") as f:
         for line in f:
             yield json.loads(line)
 
 
 def get_completed(results_dir):
+    # Return the set of question indices already saved as q_<idx>.json in results_dir
     completed = set()
     if not os.path.exists(results_dir):
         return completed
@@ -29,6 +32,7 @@ def get_completed(results_dir):
     for fname in os.listdir(results_dir):
         if fname.startswith("q_") and fname.endswith(".json"):
             try:
+                # Extract the integer index from the filename
                 completed.add(int(fname[2:-5]))
             except ValueError:
                 pass
@@ -37,6 +41,7 @@ def get_completed(results_dir):
 
 
 def build_prompt(example):
+    # Format a survey question and its options into a structured prompt string
     options = example["options"]
     letters = [chr(65 + i) for i in range(len(options))]
     option_block = "\n".join(
@@ -67,11 +72,13 @@ Please ensure the final answer line appears exactly as shown, with no additional
 
 
 def build_answer_regex(num_options):
+    # Build a regex that matches "ANSWER: <X>" where X is a valid option letter
     letters = "".join(chr(65 + i) for i in range(num_options))
     return re.compile(rf"ANSWER:\s*([{letters}])\s*$")
 
 
 def parse_answer(text, num_options):
+    # Extract the chosen letter from a model response; returns "INVALID" if not found
     if not isinstance(text, str):
         return "INVALID"
 
@@ -87,6 +94,7 @@ def parse_answer(text, num_options):
 
 
 def single_agent(config):
+    # Run a single-agent experiment: one model answers each question independently
     data_path = config["data"]["path"]
     limit = config["defaults"]["limit"]
     results_root = config["experiment"]["results_root"]
@@ -101,6 +109,7 @@ def single_agent(config):
         if not valid_question(example):
             continue
 
+        # Skip questions already processed in a previous run
         if used in completed:
             print(f"[SKIP] Single-agent question {used}")
             used += 1
@@ -109,6 +118,7 @@ def single_agent(config):
         prompt = build_prompt(example)
         raw = run_model(prompt)
 
+        # Treat non-string model output as a failure
         if not isinstance(raw, str):
             raw = ""
 
@@ -132,83 +142,99 @@ def single_agent(config):
 
 
 async def multi_agent(config):
+    # Run both the named and anonymous variants of the multi-agent experiment.
+    # Results are saved to separate subdirectories (named/ and anonymous/) so
+    # both can coexist without any manual config changes.
     agent_models = config["agents"]
     data_path = config["data"]["path"]
     limit = config["defaults"]["limit"]
     max_rounds = config["defaults"]["max_rounds"]
     results_root = config["experiment"]["results_root"]
 
+    # Use model names as agent identifiers
     agents = list(agent_models.values())
 
-    results_dir = results_root
-    os.makedirs(results_dir, exist_ok=True)
-
-    completed = get_completed(results_dir)
-
+    # Create a callable runner for each agent model, capturing the model name via default arg
     agent_runners = {
         model_name: (lambda p, m=model_name: run_model(p, model_name=m))
         for model_name in agent_models.values()
     }
 
-    used = 0
+    # Run once with agents seeing real model names, once with anonymized "Respondent N" labels
+    for show_agent_names in [True, False]:
+        # variant label is used as a subdirectory name: results_root/named/ or results_root/anonymous/
+        variant = "named" if show_agent_names else "anonymous"
+        results_dir = os.path.join(results_root, variant)
+        os.makedirs(results_dir, exist_ok=True)
 
-    for example in stream_jsonL(data_path):
-        if not valid_question(example):
-            continue
+        # Reset completion tracking and counter independently for each variant
+        completed = get_completed(results_dir)
+        used = 0
 
-        if used in completed:
-            print(f"[SKIP] Multi-agent question {used}")
+        print(f"\n  [{variant.upper()}] Starting variant...")
+
+        for example in stream_jsonL(data_path):
+            if not valid_question(example):
+                continue
+
+            # Skip questions already processed in a previous run of this variant
+            if used in completed:
+                print(f"[SKIP] Multi-agent ({variant}) question {used}")
+                used += 1
+                continue
+
+            # Run the multi-round agent discussion and collect raw responses
+            history = await agent_talk(
+                agents=agents,
+                agent_runners=agent_runners,
+                question=example["question"],
+                options=example["options"],
+                selections=example["selections"],
+                max_rounds=max_rounds,
+                show_agent_names=show_agent_names
+            )
+
+            # Parse each agent's raw response per round into a structured format
+            parsed_rounds = []
+
+            for round_data in history:
+                parsed = {}
+                for agent_id, raw in round_data.items():
+                    if not isinstance(raw, str):
+                        raw = ""
+
+                    parsed[agent_id] = {
+                        "answer": parse_answer(raw, len(example["options"])),
+                        "raw_output": raw.strip(),
+                        "model_failed": raw == ""
+                    }
+
+                parsed_rounds.append(parsed)
+
+            output = {
+                "question": example["question"],
+                "options": example["options"],
+                "agent_models": agent_models,
+                "rounds": parsed_rounds
+            }
+
+            output_path = os.path.join(results_dir, f"q_{used}.json")
+            with open(output_path, "w") as f:
+                json.dump(output, f, indent=2)
+
+            print(
+                f"[SAVED] Multi-agent ({variant}) convo {used} "
+                f"(agents={len(agents)}, rounds={max_rounds}) -> {output_path}"
+            )
+
             used += 1
-            continue
-
-        history = await agent_talk(
-            agents=agents,
-            agent_runners=agent_runners,
-            question=example["question"],
-            options=example["options"],
-            selections=example["selections"],
-            max_rounds=max_rounds
-        )
-
-        parsed_rounds = []
-
-        for round_data in history:
-            parsed = {}
-            for agent_id, raw in round_data.items():
-                if not isinstance(raw, str):
-                    raw = ""
-
-                parsed[agent_id] = {
-                    "answer": parse_answer(raw, len(example["options"])),
-                    "raw_output": raw.strip(),
-                    "model_failed": raw == ""
-                }
-
-            parsed_rounds.append(parsed)
-
-        output = {
-            "question": example["question"],
-            "options": example["options"],
-            "agent_models": agent_models,
-            "rounds": parsed_rounds
-        }
-
-        output_path = os.path.join(results_dir, f"q_{used}.json")
-        with open(output_path, "w") as f:
-            json.dump(output, f, indent=2)
-
-        print(
-            f"[SAVED] Multi-agent convo {used} "
-            f"(agents={len(agents)}, rounds={max_rounds}) -> {output_path}"
-        )
-
-        used += 1
-        if used >= limit:
-            break
+            if used >= limit:
+                break
 
 
 if __name__ == "__main__":
     config_dir = "configs"
+    # Collect all config files whose names end with "fam.yaml" or "fam.yml"
     config_files = sorted(
         f for f in os.listdir(config_dir)
         if f.endswith("fam.yaml") or f.endswith("fam.yml")
@@ -227,6 +253,7 @@ if __name__ == "__main__":
         print(f"Data: {config['data']['path']}")
         print(f"Results: {config['experiment']['results_root']}")
 
+        # Dispatch to single- or multi-agent runner based on agent count
         if num_agents == 1:
             single_agent(config)
         else:

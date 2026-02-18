@@ -1,24 +1,44 @@
 from datasets import load_dataset
 import os
 
-#dataset = load_dataset(
-    # "Anthropic/llm_global_opinions",
-    # cache_dir="./data"
-#)
+# Check and download llm_global_opinions
+dataset_dir = "data/jsonl/GlobalOpinionsQA"
+if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
+    print("Dataset already exists: llm_global_opinions")
+else:
+    global_opinions_ds = load_dataset(
+        "Anthropic/llm_global_opinions",
+        cache_dir="./data"
+    )
+    print(global_opinions_ds)
+    os.makedirs(dataset_dir, exist_ok=True)
+    for split, split_data in global_opinions_ds.items():
+        split_data.to_json(f"{dataset_dir}/{split}.jsonl")
 
-#print(dataset)
 
-#os.makedirs("data/jsonl", exist_ok=True)
+# Check and download OpinionQA
+dataset_dir = "data/jsonl/OpinionsQA"
+if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
+    print("Dataset already exists: OpinionQA")
+else:
+    opinion_qa_ds = load_dataset(
+        "timchen0618/OpinionQA",
+        cache_dir="./data"
+    )
+    print(opinion_qa_ds)
+    os.makedirs(dataset_dir, exist_ok=True)
+    for split, split_data in opinion_qa_ds.items():
+        split_data.to_json(f"{dataset_dir}/{split}.jsonl")
 
-#for split, ds in dataset.items():
-    #ds.to_json(f"data/jsonl/{split}.jsonl")
-
-
-ds = load_dataset(
-    "timchen0618/OpinionQA",
-    cache_dir="./data"
-)
-print(ds)
-os.makedirs("data/jsonl", exist_ok=True)
-for split, dset in ds.items():
-    dset.to_json(f"data/jsonl/{split}.jsonl")
+# Check and download model-written-evals
+dataset_dir = "data/jsonl/model-written-evals"
+if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
+    print("Dataset already exists: model-written-evals")
+else:
+    model_evals_ds = load_dataset("Anthropic/model-written-evals",
+                                  cache_dir="./data"
+                                  )
+    print(model_evals_ds)
+    os.makedirs(dataset_dir, exist_ok=True)
+    for split, split_data in model_evals_ds.items():
+        split_data.to_json(f"{dataset_dir}/{split}.jsonl")

@@ -11,7 +11,7 @@ import json
 import os
 from collections import defaultdict
 
-RESULTS_DIR = "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556/anonymous"
+RESULTS_DIR = "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556/critical_independent/named"
 
 # Smallest → largest (used for directional deference analysis)
 MODEL_ORDER = {

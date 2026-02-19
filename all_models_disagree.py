@@ -24,12 +24,18 @@ ROTATED_GPT41_RESULTS_DIR_SEE_NAMES = (
 
 ORIGINAL_RANDOM_RESULTS_DIR_NO_SEE_NAMES = (
     "results/GlobalOpinionsQA/random_models/"
-    "agents_3_questions_2556"
+    "agents_3_questions_2089"
 )
 ROTATED_RANDOM_RESULTS_DIR_NO_SEE_NAMES = (
     "results/GlobalOpinionsQA/gpt-4.1-family/"
     "agents_3_questions_2089_rotated"
 )
+
+INDEP_PRMPT_GPT41_RESULTS_DIR_SEE_NAMES = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "agents_3_questions_2556/critical_independent/named"
+)
+
 ORIGINAL_GPT41_RESULTS_DIR_NO_SEE_NAMES = (
     "results/GlobalOpinionsQA/gpt-4.1-family/"
     "agents_3_questions_2089_rotated"
@@ -71,6 +77,13 @@ DIRECTIONAL_JSON_GPT41_SEE_ROTATED = os.path.join(
     OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ROTATED_directional.json"
 )
 
+ROUND_JSON_GPT41_SEE_INDEP = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "per_round_disagreement_INDEP.json"
+)
+DIRECTIONAL_JSON_GPT41_SEE_INDEP = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_INDEP_directional.json"
+)
+
 # ── Output paths: Random models, no see names ─────────────────────────────────
 OUTPUT_BASE_RANDOM_NO_SEE = "analysis_outputs/GlobalOpinionsQA/random_models"
 
@@ -104,9 +117,14 @@ DIRECTIONAL_JSON_GPT41_NO_SEE_ROTATED = os.path.join(
 )
 
 MODEL_ORDER = {
+    # Random models (smallest → largest)
     "Llama-3.3-70B-Instruct": 0,
     "DeepSeek-R1": 1,
     "grok-3": 2,
+    # GPT-4.1 family (smallest → largest)
+    "gpt-4.1-nano": 0,
+    "gpt-4.1-mini": 1,
+    "gpt-4.1": 2,
 }
 
 # ── question-level metrics (from check.py) ────────────────────────────────────
@@ -367,6 +385,9 @@ if __name__ == "__main__":
          "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089"),
         (ROTATED_GPT41_RESULTS_DIR_NO_SEE_NAMES,
          "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089_rotated"),
+         (INDEP_PRMPT_GPT41_RESULTS_DIR_SEE_NAMES,
+          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep/gpt-4.1-fam/agents_3_questions_2556_rotated"
+          )
     ]
 
     for results_dir, metrics_dir in metrics_runs:
@@ -473,3 +494,18 @@ if __name__ == "__main__":
     init_rot, s2l_rot, l2s_rot = analyze_conditioned(gpt_no_orig, gpt_no_rot)
     print_directional("ROTATED", init_rot, s2l_rot, l2s_rot)
     save_directional(init_rot, s2l_rot, l2s_rot, DIRECTIONAL_JSON_GPT41_NO_SEE_ROTATED)
+
+    # ── GPT-4.1: see names, independent prompt ────────────────────────────────
+    print("\n=== GPT-4.1 FAMILY (SEE NAMES): INDEPENDENT PROMPT ANALYSIS ===\n")
+
+    gpt_see_indep = load_results(INDEP_PRMPT_GPT41_RESULTS_DIR_SEE_NAMES)
+
+    print(f"Loaded {len(gpt_see_indep)} independent questions")
+
+    per_round_indep = analyze_per_round(gpt_see_indep)
+    print_per_round("INDEP", per_round_indep)
+    save_per_round(per_round_indep, ROUND_JSON_GPT41_SEE_INDEP)
+
+    init_indep, s2l_indep, l2s_indep = analyze_conditioned(gpt_see_indep, gpt_see_indep)
+    print_directional("INDEP", init_indep, s2l_indep, l2s_indep)
+    save_directional(init_indep, s2l_indep, l2s_indep, DIRECTIONAL_JSON_GPT41_SEE_INDEP)

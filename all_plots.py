@@ -2,6 +2,7 @@ import json
 import os
 import matplotlib.pyplot as plt
 import numpy as np
+import argparse
 
 os.makedirs("analysis_outputs", exist_ok=True)
 
@@ -35,6 +36,9 @@ DIRECTIONAL_JSON_GPT41_SEE_NORMAL = os.path.join(
 )
 DIRECTIONAL_JSON_GPT41_SEE_ROTATED = os.path.join(
     OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ROTATED_directional.json"
+)
+DIRECTIONAL_JSON_GPT41_SEE_INDEP = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_INDEP_directional.json"
 )
 
 OUTPUT_BASE_RANDOM_NO_SEE = "analysis_outputs/GlobalOpinionsQA/random_models"
@@ -262,6 +266,20 @@ if __name__ == "__main__":
         gpt_see_rot,
         "Asymmetric Alignment Strength (GPT-4.1 Family Rotated — See Names)",
         "asymmetry_ratios_gpt41_see_ROTATED.png",
+    )
+
+    # ── Directional deference: GPT-4.1, see names, independent prompt ─────────
+    gpt_see_indep = load_json(DIRECTIONAL_JSON_GPT41_SEE_INDEP)
+
+    plot_directional_bars(
+        gpt_see_indep,
+        "Direction of Disagreement (GPT-4.1 Family — Independent Prompt)",
+        "directional_bars_gpt41_see_INDEP.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_see_indep,
+        "Asymmetric Alignment Strength (GPT-4.1 Family — Independent Prompt)",
+        "asymmetry_ratios_gpt41_see_INDEP.png",
     )
 
     # ── Directional deference: random models, no see names ────────────────────

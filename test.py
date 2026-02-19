@@ -118,7 +118,7 @@ def compute_deference(data, num_rounds):
                 if a_small == a_large:
                     continue  # no disagreement to track
 
-                key = f"{m_small} → {m_large}"
+                key = f"{m_small} -> {m_large}"
                 initial[key] += 1
 
                 for r in r_rest:
@@ -163,10 +163,8 @@ def print_deference(initial, s2l, l2s):
         l     = l2s[key]
         neither = total - s - l
         print(f"\n  {key}")
-        print(f"    R1 disagreements : {total}")
-        print(f"    Small → Large    : {s:4d}  ({100*s/total:.1f}%)")
-        print(f"    Large → Small    : {l:4d}  ({100*l/total:.1f}%)")
-        print(f"    Neither changed  : {neither:4d}  ({100*neither/total:.1f}%)")
+        print(f"    Small -> Large    : {s:4d}  ({100*s/total:.1f}%)")
+        print(f"    Large -> Small    : {l:4d}  ({100*l/total:.1f}%)")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────

@@ -419,16 +419,16 @@ if __name__ == "__main__":
         (ROTATED_GPT41_RESULTS_DIR_NO_SEE_NAMES,
          "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089_rotated"),
          (INDEP_PRMPT_GPT41_RESULTS_DIR_SEE_NAMES,
-          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep/gpt-4.1-fam/agents_3_questions_2556_rotated"
+          "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/critical_independent_named"
           ),
          (INDEP_PRMPT_GPT41_RESULTS_DIR_ANON,
-          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep_anon/gpt-4.1-fam/agents_3_questions_2556"
+          "metrics/GlobalOpinionsQA/gpt-4.1-family/critical_independent_anonymous"
           ),
          (ADVERSARIAL_GPT41_RESULTS_DIR_ANON,
-          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_anon/gpt-4.1-fam/agents_3_questions_2556"
+          "metrics/GlobalOpinionsQA/gpt-4.1-family/adversarial_anonymous"
           ),
          (ADVERSARIAL_GPT41_RESULTS_DIR_NAMED,
-          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_named/gpt-4.1-fam/agents_3_questions_2556"
+          "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/adversarial_named"
           )
     ]
 

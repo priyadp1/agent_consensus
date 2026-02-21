@@ -84,13 +84,13 @@ DIRECTIONAL_JSON_GPT41_NO_SEE_ROTATED = os.path.join(
 
 METRICS_GPT41_SEE_NORMAL   = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556"
 METRICS_GPT41_SEE_ROTATED  = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556_rotated"
-METRICS_GPT41_SEE_INDEP    = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep/gpt-4.1-fam/agents_3_questions_2556_rotated"
+METRICS_GPT41_SEE_INDEP    = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/critical_independent_named"
 METRICS_GPT41_NO_SEE_NORMAL  = "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089"
 METRICS_GPT41_NO_SEE_ROTATED = "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089_rotated"
 
-METRICS_GPT41_SEE_INDEP_ANON       = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep_anon/gpt-4.1-fam/agents_3_questions_2556"
-METRICS_GPT41_SEE_ADVERSARIAL_ANON = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_anon/gpt-4.1-fam/agents_3_questions_2556"
-METRICS_GPT41_SEE_ADVERSARIAL_NAMED = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_named/gpt-4.1-fam/agents_3_questions_2556"
+METRICS_GPT41_SEE_INDEP_ANON       = "metrics/GlobalOpinionsQA/gpt-4.1-family/critical_independent_anonymous"
+METRICS_GPT41_SEE_ADVERSARIAL_ANON = "metrics/GlobalOpinionsQA/gpt-4.1-family/adversarial_anonymous"
+METRICS_GPT41_SEE_ADVERSARIAL_NAMED = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/adversarial_named"
 
 METRICS_RANDOM_SEE_NORMAL   = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556"
 METRICS_RANDOM_SEE_ROTATED  = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556_rotated"
@@ -430,10 +430,10 @@ if __name__ == "__main__":
         out_name="rounds_random_no_see_normal_vs_rotated.png",
     )
 
-    # ── Rounds disagreement: GPT-4.1 — normal vs critical-independent anonymous ─
+    # ── Rounds disagreement: GPT-4.1 — normal anonymous vs critical-independent anonymous ─
     plot_rounds_disagreement(
-        folders=[METRICS_GPT41_SEE_NORMAL, METRICS_GPT41_SEE_INDEP_ANON],
-        title="Disagreement Across Rounds (GPT-4.1 — Normal vs Critical-Independent Anonymous)",
+        folders=[METRICS_GPT41_NO_SEE_NORMAL, METRICS_GPT41_SEE_INDEP_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Normal Anon vs Critical-Independent Anon)",
         out_dir=FIG_DIR_ROUNDS,
         out_name="rounds_gpt41_NORMAL_vs_CRITICAL_INDEP_ANONYMOUS.png",
     )
@@ -446,10 +446,10 @@ if __name__ == "__main__":
         out_name="rounds_gpt41_CRITICAL_INDEP_NAMED_vs_ANONYMOUS.png",
     )
 
-    # ── Rounds disagreement: GPT-4.1 — normal vs adversarial anonymous ───────
+    # ── Rounds disagreement: GPT-4.1 — normal anonymous vs adversarial anonymous ─
     plot_rounds_disagreement(
-        folders=[METRICS_GPT41_SEE_NORMAL, METRICS_GPT41_SEE_ADVERSARIAL_ANON],
-        title="Disagreement Across Rounds (GPT-4.1 — Normal vs Adversarial Anonymous)",
+        folders=[METRICS_GPT41_NO_SEE_NORMAL, METRICS_GPT41_SEE_ADVERSARIAL_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Normal Anon vs Adversarial Anon)",
         out_dir=FIG_DIR_ROUNDS,
         out_name="rounds_gpt41_NORMAL_vs_ADVERSARIAL_ANONYMOUS.png",
     )

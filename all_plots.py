@@ -40,6 +40,15 @@ DIRECTIONAL_JSON_GPT41_SEE_ROTATED = os.path.join(
 DIRECTIONAL_JSON_GPT41_SEE_INDEP = os.path.join(
     OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_INDEP_directional.json"
 )
+DIRECTIONAL_JSON_GPT41_SEE_INDEP_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_INDEP_ANON_directional.json"
+)
+DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ADVERSARIAL_ANON_directional.json"
+)
+DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ADVERSARIAL_NAMED_directional.json"
+)
 
 OUTPUT_BASE_RANDOM_NO_SEE = "analysis_outputs/GlobalOpinionsQA/random_models"
 
@@ -75,8 +84,13 @@ DIRECTIONAL_JSON_GPT41_NO_SEE_ROTATED = os.path.join(
 
 METRICS_GPT41_SEE_NORMAL   = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556"
 METRICS_GPT41_SEE_ROTATED  = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556_rotated"
+METRICS_GPT41_SEE_INDEP    = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep/gpt-4.1-fam/agents_3_questions_2556_rotated"
 METRICS_GPT41_NO_SEE_NORMAL  = "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089"
 METRICS_GPT41_NO_SEE_ROTATED = "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089_rotated"
+
+METRICS_GPT41_SEE_INDEP_ANON       = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep_anon/gpt-4.1-fam/agents_3_questions_2556"
+METRICS_GPT41_SEE_ADVERSARIAL_ANON = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_anon/gpt-4.1-fam/agents_3_questions_2556"
+METRICS_GPT41_SEE_ADVERSARIAL_NAMED = "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_named/gpt-4.1-fam/agents_3_questions_2556"
 
 METRICS_RANDOM_SEE_NORMAL   = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556"
 METRICS_RANDOM_SEE_ROTATED  = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556_rotated"
@@ -135,7 +149,7 @@ def plot_directional_bars(data, title, filename, fig_dir=FIG_DIR_DEFER):
     os.makedirs(fig_dir, exist_ok=True)
     plt.savefig(os.path.join(fig_dir, filename), dpi=300)
     plt.close()
-    print(f"Saved → {os.path.join(fig_dir, filename)}")
+    print(f"Saved -> {os.path.join(fig_dir, filename)}")
 
 
 def plot_asymmetry_ratios(data, title, filename, fig_dir=FIG_DIR_DEFER):
@@ -158,7 +172,7 @@ def plot_asymmetry_ratios(data, title, filename, fig_dir=FIG_DIR_DEFER):
     os.makedirs(fig_dir, exist_ok=True)
     plt.savefig(os.path.join(fig_dir, filename), dpi=300)
     plt.close()
-    print(f"Saved → {os.path.join(fig_dir, filename)}")
+    print(f"Saved -> {os.path.join(fig_dir, filename)}")
 
 
 # ── Rounds disagreement plot (from plot_rounds_disagree.py) ──────────────────
@@ -183,7 +197,7 @@ def plot_rounds_disagreement(folders, title, out_dir, out_name):
     out_path = os.path.join(out_dir, out_name)
     plt.savefig(out_path, dpi=300)
     plt.show()
-    print(f"Saved → {out_path}")
+    print(f"Saved -> {out_path}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -282,6 +296,48 @@ if __name__ == "__main__":
         "asymmetry_ratios_gpt41_see_INDEP.png",
     )
 
+    # ── Directional deference: GPT-4.1, critical_independent prompt, anonymous ─
+    gpt_see_indep_anon = load_json(DIRECTIONAL_JSON_GPT41_SEE_INDEP_ANON)
+
+    plot_directional_bars(
+        gpt_see_indep_anon,
+        "Direction of Disagreement (GPT-4.1 — Critical-Independent, Anonymous)",
+        "directional_bars_gpt41_CRITICAL_INDEP_ANONYMOUS.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_see_indep_anon,
+        "Asymmetric Alignment Strength (GPT-4.1 — Critical-Independent, Anonymous)",
+        "asymmetry_ratios_gpt41_CRITICAL_INDEP_ANONYMOUS.png",
+    )
+
+    # ── Directional deference: GPT-4.1, adversarial prompt, anonymous ────────
+    gpt_see_adv_anon = load_json(DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_ANON)
+
+    plot_directional_bars(
+        gpt_see_adv_anon,
+        "Direction of Disagreement (GPT-4.1 — Adversarial, Anonymous)",
+        "directional_bars_gpt41_ADVERSARIAL_ANONYMOUS.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_see_adv_anon,
+        "Asymmetric Alignment Strength (GPT-4.1 — Adversarial, Anonymous)",
+        "asymmetry_ratios_gpt41_ADVERSARIAL_ANONYMOUS.png",
+    )
+
+    # ── Directional deference: GPT-4.1, adversarial prompt, named ────────────
+    gpt_see_adv_named = load_json(DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_NAMED)
+
+    plot_directional_bars(
+        gpt_see_adv_named,
+        "Direction of Disagreement (GPT-4.1 — Adversarial, Named)",
+        "directional_bars_gpt41_ADVERSARIAL_NAMED.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_see_adv_named,
+        "Asymmetric Alignment Strength (GPT-4.1 — Adversarial, Named)",
+        "asymmetry_ratios_gpt41_ADVERSARIAL_NAMED.png",
+    )
+
     # ── Directional deference: random models, no see names ────────────────────
     rand_no_norm = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_NORMAL)
     rand_no_rot  = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_ROTATED)
@@ -342,6 +398,14 @@ if __name__ == "__main__":
         out_name="rounds_gpt41_see_normal_vs_rotated.png",
     )
 
+    # ── Rounds disagreement: GPT-4.1, see names — normal vs independent prompt ─
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_NORMAL, METRICS_GPT41_SEE_INDEP],
+        title="Disagreement Across Rounds (GPT-4.1 — See Names: Normal vs Independent Prompt)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_see_normal_vs_indep.png",
+    )
+
     # ── Rounds disagreement: GPT-4.1, no see names ───────────────────────────
     plot_rounds_disagreement(
         folders=[METRICS_GPT41_NO_SEE_NORMAL, METRICS_GPT41_NO_SEE_ROTATED],
@@ -364,6 +428,46 @@ if __name__ == "__main__":
         title="Disagreement Across Rounds (Random Models — No See Names)",
         out_dir=FIG_DIR_ROUNDS,
         out_name="rounds_random_no_see_normal_vs_rotated.png",
+    )
+
+    # ── Rounds disagreement: GPT-4.1 — normal vs critical-independent anonymous ─
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_NORMAL, METRICS_GPT41_SEE_INDEP_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Normal vs Critical-Independent Anonymous)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_NORMAL_vs_CRITICAL_INDEP_ANONYMOUS.png",
+    )
+
+    # ── Rounds disagreement: GPT-4.1 — critical-independent named vs anonymous ─
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_INDEP, METRICS_GPT41_SEE_INDEP_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Critical-Independent: Named vs Anonymous)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_CRITICAL_INDEP_NAMED_vs_ANONYMOUS.png",
+    )
+
+    # ── Rounds disagreement: GPT-4.1 — normal vs adversarial anonymous ───────
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_NORMAL, METRICS_GPT41_SEE_ADVERSARIAL_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Normal vs Adversarial Anonymous)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_NORMAL_vs_ADVERSARIAL_ANONYMOUS.png",
+    )
+
+    # ── Rounds disagreement: GPT-4.1 — normal vs adversarial named ───────────
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_NORMAL, METRICS_GPT41_SEE_ADVERSARIAL_NAMED],
+        title="Disagreement Across Rounds (GPT-4.1 — Normal vs Adversarial Named)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_NORMAL_vs_ADVERSARIAL_NAMED.png",
+    )
+
+    # ── Rounds disagreement: GPT-4.1 — adversarial named vs anonymous ────────
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_ADVERSARIAL_NAMED, METRICS_GPT41_SEE_ADVERSARIAL_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Adversarial: Named vs Anonymous)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_ADVERSARIAL_NAMED_vs_ANONYMOUS.png",
     )
 
     print(f"\nRounds figures saved to: {FIG_DIR_ROUNDS}")

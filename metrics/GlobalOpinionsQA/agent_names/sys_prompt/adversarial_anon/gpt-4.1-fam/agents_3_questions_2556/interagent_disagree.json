@@ -1,0 +1,21 @@
+{
+  "model": "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556/adversarial/anonymous",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 2087,
+      "disagreement_count": 1263,
+      "disagreement_percentage": 60.52
+    },
+    "round_2": {
+      "valid_questions": 2084,
+      "disagreement_count": 1519,
+      "disagreement_percentage": 72.89
+    },
+    "round_3": {
+      "valid_questions": 2085,
+      "disagreement_count": 1472,
+      "disagreement_percentage": 70.6
+    }
+  },
+  "generated_at": "2026-02-21T04:33:27.406529+00:00"
+}

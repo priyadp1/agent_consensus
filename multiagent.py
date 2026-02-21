@@ -46,7 +46,7 @@ You may revise or reaffirm your answer.
                 # First round: no prior context
                 context = ""
 
-            # Build the full prompt with the question, options, and optional peer context
+            # Build the full prompt with the question, options, and peer context
             prompt = f"""
 You are answering a subjective public opinion survey question.
 

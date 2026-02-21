@@ -35,6 +35,18 @@ INDEP_PRMPT_GPT41_RESULTS_DIR_SEE_NAMES = (
     "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
     "agents_3_questions_2556/critical_independent/named"
 )
+INDEP_PRMPT_GPT41_RESULTS_DIR_ANON = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "agents_3_questions_2556/critical_independent/anonymous"
+)
+ADVERSARIAL_GPT41_RESULTS_DIR_ANON = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "agents_3_questions_2556/adversarial/anonymous"
+)
+ADVERSARIAL_GPT41_RESULTS_DIR_NAMED = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "agents_3_questions_2556/adversarial/named"
+)
 
 ORIGINAL_GPT41_RESULTS_DIR_NO_SEE_NAMES = (
     "results/GlobalOpinionsQA/gpt-4.1-family/"
@@ -82,6 +94,27 @@ ROUND_JSON_GPT41_SEE_INDEP = os.path.join(
 )
 DIRECTIONAL_JSON_GPT41_SEE_INDEP = os.path.join(
     OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_INDEP_directional.json"
+)
+
+ROUND_JSON_GPT41_SEE_INDEP_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "per_round_disagreement_INDEP_ANON.json"
+)
+DIRECTIONAL_JSON_GPT41_SEE_INDEP_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_INDEP_ANON_directional.json"
+)
+
+ROUND_JSON_GPT41_SEE_ADVERSARIAL_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "per_round_disagreement_ADVERSARIAL_ANON.json"
+)
+DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ADVERSARIAL_ANON_directional.json"
+)
+
+ROUND_JSON_GPT41_SEE_ADVERSARIAL_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "per_round_disagreement_ADVERSARIAL_NAMED.json"
+)
+DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ADVERSARIAL_NAMED_directional.json"
 )
 
 # ── Output paths: Random models, no see names ─────────────────────────────────
@@ -387,6 +420,15 @@ if __name__ == "__main__":
          "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089_rotated"),
          (INDEP_PRMPT_GPT41_RESULTS_DIR_SEE_NAMES,
           "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep/gpt-4.1-fam/agents_3_questions_2556_rotated"
+          ),
+         (INDEP_PRMPT_GPT41_RESULTS_DIR_ANON,
+          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/indep_anon/gpt-4.1-fam/agents_3_questions_2556"
+          ),
+         (ADVERSARIAL_GPT41_RESULTS_DIR_ANON,
+          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_anon/gpt-4.1-fam/agents_3_questions_2556"
+          ),
+         (ADVERSARIAL_GPT41_RESULTS_DIR_NAMED,
+          "metrics/GlobalOpinionsQA/agent_names/sys_prompt/adversarial_named/gpt-4.1-fam/agents_3_questions_2556"
           )
     ]
 
@@ -509,3 +551,48 @@ if __name__ == "__main__":
     init_indep, s2l_indep, l2s_indep = analyze_conditioned(gpt_see_indep, gpt_see_indep)
     print_directional("INDEP", init_indep, s2l_indep, l2s_indep)
     save_directional(init_indep, s2l_indep, l2s_indep, DIRECTIONAL_JSON_GPT41_SEE_INDEP)
+
+    # ── GPT-4.1: critical_independent/anonymous ──────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: INDEPENDENT PROMPT (ANONYMOUS) ANALYSIS ===\n")
+
+    gpt_indep_anon = load_results(INDEP_PRMPT_GPT41_RESULTS_DIR_ANON)
+
+    print(f"Loaded {len(gpt_indep_anon)} independent anonymous questions")
+
+    per_round_indep_anon = analyze_per_round(gpt_indep_anon)
+    print_per_round("INDEP_ANON", per_round_indep_anon)
+    save_per_round(per_round_indep_anon, ROUND_JSON_GPT41_SEE_INDEP_ANON)
+
+    init_indep_anon, s2l_indep_anon, l2s_indep_anon = analyze_conditioned(gpt_indep_anon, gpt_indep_anon)
+    print_directional("INDEP_ANON", init_indep_anon, s2l_indep_anon, l2s_indep_anon)
+    save_directional(init_indep_anon, s2l_indep_anon, l2s_indep_anon, DIRECTIONAL_JSON_GPT41_SEE_INDEP_ANON)
+
+    # ── GPT-4.1: adversarial/anonymous ───────────────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: ADVERSARIAL (ANONYMOUS) ANALYSIS ===\n")
+
+    gpt_adv_anon = load_results(ADVERSARIAL_GPT41_RESULTS_DIR_ANON)
+
+    print(f"Loaded {len(gpt_adv_anon)} adversarial anonymous questions")
+
+    per_round_adv_anon = analyze_per_round(gpt_adv_anon)
+    print_per_round("ADVERSARIAL_ANON", per_round_adv_anon)
+    save_per_round(per_round_adv_anon, ROUND_JSON_GPT41_SEE_ADVERSARIAL_ANON)
+
+    init_adv_anon, s2l_adv_anon, l2s_adv_anon = analyze_conditioned(gpt_adv_anon, gpt_adv_anon)
+    print_directional("ADVERSARIAL_ANON", init_adv_anon, s2l_adv_anon, l2s_adv_anon)
+    save_directional(init_adv_anon, s2l_adv_anon, l2s_adv_anon, DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_ANON)
+
+    # ── GPT-4.1: adversarial/named ───────────────────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: ADVERSARIAL (NAMED) ANALYSIS ===\n")
+
+    gpt_adv_named = load_results(ADVERSARIAL_GPT41_RESULTS_DIR_NAMED)
+
+    print(f"Loaded {len(gpt_adv_named)} adversarial named questions")
+
+    per_round_adv_named = analyze_per_round(gpt_adv_named)
+    print_per_round("ADVERSARIAL_NAMED", per_round_adv_named)
+    save_per_round(per_round_adv_named, ROUND_JSON_GPT41_SEE_ADVERSARIAL_NAMED)
+
+    init_adv_named, s2l_adv_named, l2s_adv_named = analyze_conditioned(gpt_adv_named, gpt_adv_named)
+    print_directional("ADVERSARIAL_NAMED", init_adv_named, s2l_adv_named, l2s_adv_named)
+    save_directional(init_adv_named, s2l_adv_named, l2s_adv_named, DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_NAMED)

@@ -11,7 +11,7 @@ import json
 import os
 from collections import defaultdict
 
-RESULTS_DIR = "results/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089"
+RESULTS_DIR = "results/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/agents_3_questions_2556/named"
 
 # Smallest → largest (used for directional deference analysis)
 MODEL_ORDER = {
@@ -198,6 +198,32 @@ def print_header(text):
     print("=" * 60)
 
 
+FLATLINE_THRESHOLD = 1.0  # percentage points
+
+def first_zero_round(counts, totals):
+    """Return the 1-based round index where count first hits 0, or None."""
+    for i, (d, tv) in enumerate(zip(counts, totals)):
+        if tv > 0 and d == 0:
+            return i + 1
+    return None
+
+
+def first_flatline_round(counts, totals, threshold=FLATLINE_THRESHOLD):
+    """Return the 1-based round index where the disagreement rate first stops
+    changing by more than `threshold` percentage points vs the previous round.
+    Returns None if it never flattens."""
+    pcts = [
+        (100 * d / tv) if tv > 0 else None
+        for d, tv in zip(counts, totals)
+    ]
+    for i in range(1, len(pcts)):
+        if pcts[i] is None or pcts[i - 1] is None:
+            continue
+        if abs(pcts[i] - pcts[i - 1]) <= threshold:
+            return i + 1, pcts[i - 1], pcts[i]
+    return None
+
+
 def print_question_level(total_valid, disagreements, num_rounds):
     print_header("QUESTION-LEVEL DISAGREEMENT (≥1 pair disagreed)")
     for i in range(num_rounds):
@@ -205,6 +231,17 @@ def print_question_level(total_valid, disagreements, num_rounds):
         d  = disagreements[i]
         pct = (100 * d / tv) if tv > 0 else 0.0
         print(f"  Round {i+1}: {d}/{tv} questions disagreed ({pct:.1f}%)")
+
+    zero_round = first_zero_round(disagreements, total_valid)
+    if zero_round:
+        print(f"\n  *** Disagreement reached 0% at Round {zero_round} ***")
+    else:
+        flatline = first_flatline_round(disagreements, total_valid)
+        if flatline:
+            r, prev, cur = flatline
+            print(f"\n*** Flatlined at Round {r}: {prev:.1f}% -> {cur:.1f}% (delta <= {FLATLINE_THRESHOLD}%) ***")
+        else:
+            print(f"\n(Still changing by >{FLATLINE_THRESHOLD}% per round after {num_rounds} rounds)")
 
 
 def print_pair_level(pair_totals, pair_disagree, num_rounds):
@@ -215,7 +252,18 @@ def print_pair_level(pair_totals, pair_disagree, num_rounds):
             tv = pair_totals[key][i]
             d = pair_disagree[key][i]
             pct = (100 * d / tv) if tv > 0 else 0.0
-            print(f"    Round {i+1}: {d}/{tv} disagreed ({pct:.1f}%)")
+            print(f"Round {i+1}: {d}/{tv} disagreed ({pct:.1f}%)")
+
+        zero_round = first_zero_round(pair_disagree[key], pair_totals[key])
+        if zero_round:
+            print(f"    *** Reached 0% at Round {zero_round} ***")
+        else:
+            flatline = first_flatline_round(pair_disagree[key], pair_totals[key])
+            if flatline:
+                r, prev, cur = flatline
+                print(f" *** Flatlined at Round {r}: {prev:.1f}% -> {cur:.1f}% (delta <= {FLATLINE_THRESHOLD}%) ***")
+            else:
+                print(f"(Still changing by >{FLATLINE_THRESHOLD}% per round after {num_rounds} rounds)")
 
 
 def print_deference(initial, s2l, l2s):

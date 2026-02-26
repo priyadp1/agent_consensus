@@ -235,7 +235,7 @@ def compute_metrics(results_dir, metrics_dir):
     print(f"  Saved → {out_path}")
 
 
-# ── Pair-level helpers (from all_models_disagree.py) ─────────────────────────
+# ── Shared helpers ────────────────────────────────────────────────────────────
 
 def load_results(results_dir):
     files = sorted(
@@ -262,9 +262,14 @@ def ensure_dir(path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
 
-def analyze_per_round(data):
-    # Count disagreeing pairs per round across all questions.
-    per_round = defaultdict(lambda: {"disagreements": 0, "total_pairs": 0})
+# ── Pair-level disagreement ───────────────────────────────────────────────────
+# Metric: for each round, count the number of (model_A, model_B) pairs that
+# gave different answers, aggregated across all questions. This captures how
+# often any two specific models disagree, independent of the third agent.
+
+def pair_disagree(data):
+    # Returns {pair_key: {r_idx: {"disagreements": N, "total": N}}}
+    counts = defaultdict(lambda: defaultdict(lambda: {"disagreements": 0, "total": 0}))
 
     for item in data:
         rounds = item["rounds"]
@@ -273,39 +278,43 @@ def analyze_per_round(data):
         for r_idx, r in enumerate(rounds):
             for i, m1 in enumerate(models):
                 for m2 in models[i + 1:]:
-                    per_round[r_idx]["total_pairs"] += 1
-
+                    key = f"{m1} vs {m2}"
                     a1 = get_answer(r, m1)
                     a2 = get_answer(r, m2)
 
                     if a1 == "INVALID" or a2 == "INVALID":
                         continue
 
+                    counts[key][r_idx]["total"] += 1
                     if a1 != a2:
-                        per_round[r_idx]["disagreements"] += 1
+                        counts[key][r_idx]["disagreements"] += 1
 
-    return per_round
-
-
-def print_per_round(label, per_round):
-    print(f"\n=== ROUND-AGNOSTIC DISAGREEMENT ({label}) ===\n")
-    for r in sorted(per_round.keys()):
-        d = per_round[r]["disagreements"]
-        t = per_round[r]["total_pairs"]
-        pct = d / t if t > 0 else 0
-        print(f"Round {r+1}: {d}/{t} disagreements ({pct:.2%})")
+    return counts
 
 
-def save_per_round(per_round, path):
+def print_per_round(label, counts):
+    print(f"\n=== PAIR-LEVEL DISAGREEMENT ({label}) ===\n")
+    for pair in sorted(counts.keys()):
+        print(f"  {pair}")
+        for r_idx in sorted(counts[pair].keys()):
+            d = counts[pair][r_idx]["disagreements"]
+            t = counts[pair][r_idx]["total"]
+            pct = d / t if t > 0 else 0
+            print(f"    Round {r_idx+1}: {d}/{t} disagreed ({pct:.2%})")
+
+
+def save_per_round(counts, path):
     out = {}
-    for r in sorted(per_round.keys()):
-        d = per_round[r]["disagreements"]
-        t = per_round[r]["total_pairs"]
-        out[f"round_{r+1}"] = {
-            "disagreements": d,
-            "total_pairs": t,
-            "percentage": round(d / t * 100, 2) if t > 0 else None,
-        }
+    for pair in sorted(counts.keys()):
+        out[pair] = {}
+        for r_idx in sorted(counts[pair].keys()):
+            d = counts[pair][r_idx]["disagreements"]
+            t = counts[pair][r_idx]["total"]
+            out[pair][f"round_{r_idx+1}"] = {
+                "disagreements": d,
+                "total": t,
+                "percentage": round(d / t * 100, 2) if t > 0 else None,
+            }
 
     ensure_dir(path)
     with open(path, "w") as f:
@@ -446,11 +455,11 @@ if __name__ == "__main__":
     print(f"Loaded {len(rand_see_orig)} normal questions")
     print(f"Loaded {len(rand_see_rot)} rotated questions")
 
-    per_round_norm = analyze_per_round(rand_see_orig)
+    per_round_norm = pair_disagree(rand_see_orig)
     print_per_round("NORMAL", per_round_norm)
     save_per_round(per_round_norm, ROUND_JSON_RANDOM_SEE_NORMAL)
 
-    per_round_rot = analyze_per_round(rand_see_rot)
+    per_round_rot = pair_disagree(rand_see_rot)
     print_per_round("ROTATED", per_round_rot)
     save_per_round(per_round_rot, ROUND_JSON_RANDOM_SEE_ROTATED)
 
@@ -471,11 +480,11 @@ if __name__ == "__main__":
     print(f"Loaded {len(gpt_see_orig)} normal questions")
     print(f"Loaded {len(gpt_see_rot)} rotated questions")
 
-    per_round_norm = analyze_per_round(gpt_see_orig)
+    per_round_norm = pair_disagree(gpt_see_orig)
     print_per_round("NORMAL", per_round_norm)
     save_per_round(per_round_norm, ROUND_JSON_GPT41_SEE_NORMAL)
 
-    per_round_rot = analyze_per_round(gpt_see_rot)
+    per_round_rot = pair_disagree(gpt_see_rot)
     print_per_round("ROTATED", per_round_rot)
     save_per_round(per_round_rot, ROUND_JSON_GPT41_SEE_ROTATED)
 
@@ -496,11 +505,11 @@ if __name__ == "__main__":
     print(f"Loaded {len(rand_no_orig)} normal questions")
     print(f"Loaded {len(rand_no_rot)} rotated questions")
 
-    per_round_norm = analyze_per_round(rand_no_orig)
+    per_round_norm = pair_disagree(rand_no_orig)
     print_per_round("NORMAL", per_round_norm)
     save_per_round(per_round_norm, ROUND_JSON_RANDOM_NO_SEE_NORMAL)
 
-    per_round_rot = analyze_per_round(rand_no_rot)
+    per_round_rot = pair_disagree(rand_no_rot)
     print_per_round("ROTATED", per_round_rot)
     save_per_round(per_round_rot, ROUND_JSON_RANDOM_NO_SEE_ROTATED)
 
@@ -521,11 +530,11 @@ if __name__ == "__main__":
     print(f"Loaded {len(gpt_no_orig)} normal questions")
     print(f"Loaded {len(gpt_no_rot)} rotated questions")
 
-    per_round_norm = analyze_per_round(gpt_no_orig)
+    per_round_norm = pair_disagree(gpt_no_orig)
     print_per_round("NORMAL", per_round_norm)
     save_per_round(per_round_norm, ROUND_JSON_GPT41_NO_SEE_NORMAL)
 
-    per_round_rot = analyze_per_round(gpt_no_rot)
+    per_round_rot = pair_disagree(gpt_no_rot)
     print_per_round("ROTATED", per_round_rot)
     save_per_round(per_round_rot, ROUND_JSON_GPT41_NO_SEE_ROTATED)
 
@@ -544,7 +553,7 @@ if __name__ == "__main__":
 
     print(f"Loaded {len(gpt_see_indep)} independent questions")
 
-    per_round_indep = analyze_per_round(gpt_see_indep)
+    per_round_indep = pair_disagree(gpt_see_indep)
     print_per_round("INDEP", per_round_indep)
     save_per_round(per_round_indep, ROUND_JSON_GPT41_SEE_INDEP)
 
@@ -559,7 +568,7 @@ if __name__ == "__main__":
 
     print(f"Loaded {len(gpt_indep_anon)} independent anonymous questions")
 
-    per_round_indep_anon = analyze_per_round(gpt_indep_anon)
+    per_round_indep_anon = pair_disagree(gpt_indep_anon)
     print_per_round("INDEP_ANON", per_round_indep_anon)
     save_per_round(per_round_indep_anon, ROUND_JSON_GPT41_SEE_INDEP_ANON)
 
@@ -574,7 +583,7 @@ if __name__ == "__main__":
 
     print(f"Loaded {len(gpt_adv_anon)} adversarial anonymous questions")
 
-    per_round_adv_anon = analyze_per_round(gpt_adv_anon)
+    per_round_adv_anon = pair_disagree(gpt_adv_anon)
     print_per_round("ADVERSARIAL_ANON", per_round_adv_anon)
     save_per_round(per_round_adv_anon, ROUND_JSON_GPT41_SEE_ADVERSARIAL_ANON)
 
@@ -589,7 +598,7 @@ if __name__ == "__main__":
 
     print(f"Loaded {len(gpt_adv_named)} adversarial named questions")
 
-    per_round_adv_named = analyze_per_round(gpt_adv_named)
+    per_round_adv_named = pair_disagree(gpt_adv_named)
     print_per_round("ADVERSARIAL_NAMED", per_round_adv_named)
     save_per_round(per_round_adv_named, ROUND_JSON_GPT41_SEE_ADVERSARIAL_NAMED)
 

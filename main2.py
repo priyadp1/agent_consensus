@@ -6,7 +6,7 @@ import re
 import yaml
 
 from model2 import run_model
-from multiagent import agent_talk
+from multiagent2 import agent_talk
 from filter_questions import valid_question
 from model2 import SYSTEM_PROMPTS
 

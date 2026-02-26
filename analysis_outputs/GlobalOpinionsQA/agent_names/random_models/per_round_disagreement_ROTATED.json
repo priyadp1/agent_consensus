@@ -1,17 +1,53 @@
 {
-  "round_1": {
-    "disagreements": 1485,
-    "total_pairs": 6267,
-    "percentage": 23.7
+  "DeepSeek-R1 vs Llama-3.3-70B-Instruct": {
+    "round_1": {
+      "disagreements": 447,
+      "total": 2087,
+      "percentage": 21.42
+    },
+    "round_2": {
+      "disagreements": 282,
+      "total": 2088,
+      "percentage": 13.51
+    },
+    "round_3": {
+      "disagreements": 162,
+      "total": 2086,
+      "percentage": 7.77
+    }
   },
-  "round_2": {
-    "disagreements": 848,
-    "total_pairs": 6267,
-    "percentage": 13.53
+  "DeepSeek-R1 vs grok-3": {
+    "round_1": {
+      "disagreements": 545,
+      "total": 2086,
+      "percentage": 26.13
+    },
+    "round_2": {
+      "disagreements": 279,
+      "total": 2086,
+      "percentage": 13.37
+    },
+    "round_3": {
+      "disagreements": 190,
+      "total": 2084,
+      "percentage": 9.12
+    }
   },
-  "round_3": {
-    "disagreements": 534,
-    "total_pairs": 6267,
-    "percentage": 8.52
+  "Llama-3.3-70B-Instruct vs grok-3": {
+    "round_1": {
+      "disagreements": 493,
+      "total": 2087,
+      "percentage": 23.62
+    },
+    "round_2": {
+      "disagreements": 287,
+      "total": 2087,
+      "percentage": 13.75
+    },
+    "round_3": {
+      "disagreements": 182,
+      "total": 2087,
+      "percentage": 8.72
+    }
   }
 }

@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import json
 import glob
+import math
 
 def count_options(results_dir):
     option_counts = {}
@@ -26,7 +27,7 @@ def calculate_true_disagreement_baseline(options_counts):
     sum_baseline = 0
     length = len(options_counts)
     for i in range(length):
-        random_baseline = 1 - (1 / options_counts[i]) ** (models - 1)
+        random_baseline = 1 - (1 / math.pow(options_counts[i], models - 1))
         sum_baseline = sum_baseline + random_baseline
     true_disagreement_baseline = sum_baseline / length
     return true_disagreement_baseline

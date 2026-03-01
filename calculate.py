@@ -1,0 +1,30 @@
+import pandas as pd
+import os
+import json
+import glob
+
+def count_options(results_dir):
+    option_counts = {}
+    for path in sorted(glob.glob(os.path.join(results_dir, "q_*.json"))):
+        with open(path) as f:
+            data = json.load(f)
+        q_name = os.path.basename(path)
+        option_counts[q_name] = len(data.get("options", []))
+    return option_counts
+
+def calculate_pairwise_baseline(options_counts):
+    length = len(options_counts)
+    sum_baseline = 0
+    for i in range(length):
+        random_baseline = (options_counts[i] - 1) / options_counts[i]
+        sum_baseline += random_baseline
+    pairwise_baseline = sum_baseline / length
+    return pairwise_baseline
+
+def calculate_true_disagreement_baseline(options_counts):
+    pass
+if __name__ == "__main__":
+    results_dir = "results/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/agents_3_questions_2556/anonymous"
+    option_counts = count_options(results_dir)
+    pairwise_baseline = calculate_pairwise_baseline(list(option_counts.values()))
+    print(f"Pairwise Baseline: {pairwise_baseline:.4f}")

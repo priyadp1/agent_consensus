@@ -56,6 +56,22 @@ ROTATED_GPT41_RESULTS_DIR_NO_SEE_NAMES = (
     "results/GlobalOpinionsQA/gpt-4.1-family/"
     "agents_3_questions_2089_rotated"
 )
+WITHOUT_REVISE_PROMPT_GPT_41_ADVERSARIAL_NAMED = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "without_revise/agents_3_questions_2556/adversarial/named"
+)
+WITHOUT_REVISE_PROMP_GPT_41_ADVERSARIAL_ANON = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "without_revise/agents_3_questions_2556/adversarial/anonymous"
+)
+WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_NAMED = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "without_revise/agents_3_questions_2556/critical_independent/named"
+)
+WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_ANON = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "without_revise/agents_3_questions_2556/critical_independent/anonymous"
+)
 
 # ── Output paths: Random models, see names ────────────────────────────────────
 OUTPUT_BASE_RANDOM_SEE = "analysis_outputs/GlobalOpinionsQA/agent_names/random_models"
@@ -115,6 +131,37 @@ ROUND_JSON_GPT41_SEE_ADVERSARIAL_NAMED = os.path.join(
 )
 DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_NAMED = os.path.join(
     OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ADVERSARIAL_NAMED_directional.json"
+)
+
+# ── Output paths: GPT-4.1, see names, without_revise ─────────────────────────
+OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE = "analysis_outputs/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise"
+
+ROUND_JSON_WITHOUT_REVISE_GPT41_ADV_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "per_round_disagreement_ADVERSARIAL_NAMED.json"
+)
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_ADVERSARIAL_NAMED_directional.json"
+)
+
+ROUND_JSON_WITHOUT_REVISE_GPT41_ADV_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "per_round_disagreement_ADVERSARIAL_ANON.json"
+)
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_ADVERSARIAL_ANON_directional.json"
+)
+
+ROUND_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "per_round_disagreement_CRITICAL_INDEPENDENT_NAMED.json"
+)
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_CRITICAL_INDEPENDENT_NAMED_directional.json"
+)
+
+ROUND_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "per_round_disagreement_CRITICAL_INDEPENDENT_ANON.json"
+)
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_CRITICAL_INDEPENDENT_ANON_directional.json"
 )
 
 # ── Output paths: Random models, no see names ─────────────────────────────────
@@ -438,7 +485,19 @@ if __name__ == "__main__":
           ),
          (ADVERSARIAL_GPT41_RESULTS_DIR_NAMED,
           "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/adversarial_named"
-          )
+          ),
+         (WITHOUT_REVISE_PROMPT_GPT_41_ADVERSARIAL_NAMED,
+          "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/adversarial_named"
+          ),
+         (WITHOUT_REVISE_PROMP_GPT_41_ADVERSARIAL_ANON,
+          "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/adversarial_anonymous"
+          ),
+         (WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_NAMED,
+          "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/critical_independent_named"
+          ),
+         (WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_ANON,
+          "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/critical_independent_anonymous"
+          ),
     ]
 
     for results_dir, metrics_dir in metrics_runs:
@@ -605,3 +664,63 @@ if __name__ == "__main__":
     init_adv_named, s2l_adv_named, l2s_adv_named = analyze_conditioned(gpt_adv_named, gpt_adv_named)
     print_directional("ADVERSARIAL_NAMED", init_adv_named, s2l_adv_named, l2s_adv_named)
     save_directional(init_adv_named, s2l_adv_named, l2s_adv_named, DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_NAMED)
+
+    # ── GPT-4.1: without_revise/adversarial/named ────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: WITHOUT REVISE — ADVERSARIAL (NAMED) ANALYSIS ===\n")
+
+    gpt_wo_adv_named = load_results(WITHOUT_REVISE_PROMPT_GPT_41_ADVERSARIAL_NAMED)
+
+    print(f"Loaded {len(gpt_wo_adv_named)} without-revise adversarial named questions")
+
+    per_round_wo_adv_named = pair_disagree(gpt_wo_adv_named)
+    print_per_round("WITHOUT_REVISE_ADV_NAMED", per_round_wo_adv_named)
+    save_per_round(per_round_wo_adv_named, ROUND_JSON_WITHOUT_REVISE_GPT41_ADV_NAMED)
+
+    init_wo_adv_named, s2l_wo_adv_named, l2s_wo_adv_named = analyze_conditioned(gpt_wo_adv_named, gpt_wo_adv_named)
+    print_directional("WITHOUT_REVISE_ADV_NAMED", init_wo_adv_named, s2l_wo_adv_named, l2s_wo_adv_named)
+    save_directional(init_wo_adv_named, s2l_wo_adv_named, l2s_wo_adv_named, DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_NAMED)
+
+    # ── GPT-4.1: without_revise/adversarial/anonymous ────────────────────────
+    print("\n=== GPT-4.1 FAMILY: WITHOUT REVISE — ADVERSARIAL (ANONYMOUS) ANALYSIS ===\n")
+
+    gpt_wo_adv_anon = load_results(WITHOUT_REVISE_PROMP_GPT_41_ADVERSARIAL_ANON)
+
+    print(f"Loaded {len(gpt_wo_adv_anon)} without-revise adversarial anonymous questions")
+
+    per_round_wo_adv_anon = pair_disagree(gpt_wo_adv_anon)
+    print_per_round("WITHOUT_REVISE_ADV_ANON", per_round_wo_adv_anon)
+    save_per_round(per_round_wo_adv_anon, ROUND_JSON_WITHOUT_REVISE_GPT41_ADV_ANON)
+
+    init_wo_adv_anon, s2l_wo_adv_anon, l2s_wo_adv_anon = analyze_conditioned(gpt_wo_adv_anon, gpt_wo_adv_anon)
+    print_directional("WITHOUT_REVISE_ADV_ANON", init_wo_adv_anon, s2l_wo_adv_anon, l2s_wo_adv_anon)
+    save_directional(init_wo_adv_anon, s2l_wo_adv_anon, l2s_wo_adv_anon, DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_ANON)
+
+    # ── GPT-4.1: without_revise/critical_independent/named ───────────────────
+    print("\n=== GPT-4.1 FAMILY: WITHOUT REVISE — CRITICAL INDEPENDENT (NAMED) ANALYSIS ===\n")
+
+    gpt_wo_ci_named = load_results(WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_NAMED)
+
+    print(f"Loaded {len(gpt_wo_ci_named)} without-revise critical-independent named questions")
+
+    per_round_wo_ci_named = pair_disagree(gpt_wo_ci_named)
+    print_per_round("WITHOUT_REVISE_CRIT_INDEP_NAMED", per_round_wo_ci_named)
+    save_per_round(per_round_wo_ci_named, ROUND_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED)
+
+    init_wo_ci_named, s2l_wo_ci_named, l2s_wo_ci_named = analyze_conditioned(gpt_wo_ci_named, gpt_wo_ci_named)
+    print_directional("WITHOUT_REVISE_CRIT_INDEP_NAMED", init_wo_ci_named, s2l_wo_ci_named, l2s_wo_ci_named)
+    save_directional(init_wo_ci_named, s2l_wo_ci_named, l2s_wo_ci_named, DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED)
+
+    # ── GPT-4.1: without_revise/critical_independent/anonymous ───────────────
+    print("\n=== GPT-4.1 FAMILY: WITHOUT REVISE — CRITICAL INDEPENDENT (ANONYMOUS) ANALYSIS ===\n")
+
+    gpt_wo_ci_anon = load_results(WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_ANON)
+
+    print(f"Loaded {len(gpt_wo_ci_anon)} without-revise critical-independent anonymous questions")
+
+    per_round_wo_ci_anon = pair_disagree(gpt_wo_ci_anon)
+    print_per_round("WITHOUT_REVISE_CRIT_INDEP_ANON", per_round_wo_ci_anon)
+    save_per_round(per_round_wo_ci_anon, ROUND_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON)
+
+    init_wo_ci_anon, s2l_wo_ci_anon, l2s_wo_ci_anon = analyze_conditioned(gpt_wo_ci_anon, gpt_wo_ci_anon)
+    print_directional("WITHOUT_REVISE_CRIT_INDEP_ANON", init_wo_ci_anon, s2l_wo_ci_anon, l2s_wo_ci_anon)
+    save_directional(init_wo_ci_anon, s2l_wo_ci_anon, l2s_wo_ci_anon, DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON)

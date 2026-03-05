@@ -1,0 +1,21 @@
+{
+  "model": "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/agents_3_questions_2556/critical_independent/named",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 2088,
+      "disagreement_count": 943,
+      "disagreement_percentage": 45.16
+    },
+    "round_2": {
+      "valid_questions": 2085,
+      "disagreement_count": 836,
+      "disagreement_percentage": 40.1
+    },
+    "round_3": {
+      "valid_questions": 2088,
+      "disagreement_count": 805,
+      "disagreement_percentage": 38.55
+    }
+  },
+  "generated_at": "2026-03-05T06:42:26.123859+00:00"
+}

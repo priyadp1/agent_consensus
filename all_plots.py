@@ -50,6 +50,21 @@ DIRECTIONAL_JSON_GPT41_SEE_ADVERSARIAL_NAMED = os.path.join(
     OUTPUT_BASE_GPT41_SEE, "gpt4.1_family_ADVERSARIAL_NAMED_directional.json"
 )
 
+OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE = "analysis_outputs/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise"
+
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_ADVERSARIAL_NAMED_directional.json"
+)
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_ADVERSARIAL_ANON_directional.json"
+)
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_CRITICAL_INDEPENDENT_NAMED_directional.json"
+)
+DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_CRITICAL_INDEPENDENT_ANON_directional.json"
+)
+
 OUTPUT_BASE_RANDOM_NO_SEE = "analysis_outputs/GlobalOpinionsQA/random_models"
 
 ROUND_JSON_RANDOM_NO_SEE_NORMAL = os.path.join(
@@ -91,6 +106,11 @@ METRICS_GPT41_NO_SEE_ROTATED = "metrics/GlobalOpinionsQA/gpt-4.1-family/agents_3
 METRICS_GPT41_SEE_INDEP_ANON       = "metrics/GlobalOpinionsQA/gpt-4.1-family/critical_independent_anonymous"
 METRICS_GPT41_SEE_ADVERSARIAL_ANON = "metrics/GlobalOpinionsQA/gpt-4.1-family/adversarial_anonymous"
 METRICS_GPT41_SEE_ADVERSARIAL_NAMED = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/adversarial_named"
+
+METRICS_WITHOUT_REVISE_GPT41_ADV_NAMED        = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/adversarial_named"
+METRICS_WITHOUT_REVISE_GPT41_ADV_ANON         = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/adversarial_anonymous"
+METRICS_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/critical_independent_named"
+METRICS_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON  = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/critical_independent_anonymous"
 
 METRICS_RANDOM_SEE_NORMAL   = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556"
 METRICS_RANDOM_SEE_ROTATED  = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556_rotated"
@@ -338,6 +358,62 @@ if __name__ == "__main__":
         "asymmetry_ratios_gpt41_ADVERSARIAL_NAMED.png",
     )
 
+    # ── Directional deference: GPT-4.1, without_revise — adversarial named ───
+    gpt_wo_adv_named = load_json(DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_NAMED)
+
+    plot_directional_bars(
+        gpt_wo_adv_named,
+        "Direction of Disagreement (GPT-4.1 — Without Revise, Adversarial, Named)",
+        "directional_bars_gpt41_WITHOUT_REVISE_ADVERSARIAL_NAMED.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_wo_adv_named,
+        "Asymmetric Alignment Strength (GPT-4.1 — Without Revise, Adversarial, Named)",
+        "asymmetry_ratios_gpt41_WITHOUT_REVISE_ADVERSARIAL_NAMED.png",
+    )
+
+    # ── Directional deference: GPT-4.1, without_revise — adversarial anonymous
+    gpt_wo_adv_anon = load_json(DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_ADV_ANON)
+
+    plot_directional_bars(
+        gpt_wo_adv_anon,
+        "Direction of Disagreement (GPT-4.1 — Without Revise, Adversarial, Anonymous)",
+        "directional_bars_gpt41_WITHOUT_REVISE_ADVERSARIAL_ANONYMOUS.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_wo_adv_anon,
+        "Asymmetric Alignment Strength (GPT-4.1 — Without Revise, Adversarial, Anonymous)",
+        "asymmetry_ratios_gpt41_WITHOUT_REVISE_ADVERSARIAL_ANONYMOUS.png",
+    )
+
+    # ── Directional deference: GPT-4.1, without_revise — critical-independent named
+    gpt_wo_ci_named = load_json(DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED)
+
+    plot_directional_bars(
+        gpt_wo_ci_named,
+        "Direction of Disagreement (GPT-4.1 — Without Revise, Critical-Independent, Named)",
+        "directional_bars_gpt41_WITHOUT_REVISE_CRITICAL_INDEP_NAMED.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_wo_ci_named,
+        "Asymmetric Alignment Strength (GPT-4.1 — Without Revise, Critical-Independent, Named)",
+        "asymmetry_ratios_gpt41_WITHOUT_REVISE_CRITICAL_INDEP_NAMED.png",
+    )
+
+    # ── Directional deference: GPT-4.1, without_revise — critical-independent anonymous
+    gpt_wo_ci_anon = load_json(DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON)
+
+    plot_directional_bars(
+        gpt_wo_ci_anon,
+        "Direction of Disagreement (GPT-4.1 — Without Revise, Critical-Independent, Anonymous)",
+        "directional_bars_gpt41_WITHOUT_REVISE_CRITICAL_INDEP_ANONYMOUS.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_wo_ci_anon,
+        "Asymmetric Alignment Strength (GPT-4.1 — Without Revise, Critical-Independent, Anonymous)",
+        "asymmetry_ratios_gpt41_WITHOUT_REVISE_CRITICAL_INDEP_ANONYMOUS.png",
+    )
+
     # ── Directional deference: random models, no see names ────────────────────
     rand_no_norm = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_NORMAL)
     rand_no_rot  = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_ROTATED)
@@ -468,6 +544,38 @@ if __name__ == "__main__":
         title="Disagreement Across Rounds (GPT-4.1 — Adversarial: Named vs Anonymous)",
         out_dir=FIG_DIR_ROUNDS,
         out_name="rounds_gpt41_ADVERSARIAL_NAMED_vs_ANONYMOUS.png",
+    )
+
+    # ── Rounds disagreement: without_revise vs with_revise — adversarial named ─
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_ADVERSARIAL_NAMED, METRICS_WITHOUT_REVISE_GPT41_ADV_NAMED],
+        title="Disagreement Across Rounds (GPT-4.1 — Adversarial Named: With vs Without Revise)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_ADVERSARIAL_NAMED_with_vs_without_revise.png",
+    )
+
+    # ── Rounds disagreement: without_revise vs with_revise — adversarial anonymous
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_ADVERSARIAL_ANON, METRICS_WITHOUT_REVISE_GPT41_ADV_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Adversarial Anonymous: With vs Without Revise)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_ADVERSARIAL_ANON_with_vs_without_revise.png",
+    )
+
+    # ── Rounds disagreement: without_revise vs with_revise — critical-independent named
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_INDEP, METRICS_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED],
+        title="Disagreement Across Rounds (GPT-4.1 — Critical-Independent Named: With vs Without Revise)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_CRITICAL_INDEP_NAMED_with_vs_without_revise.png",
+    )
+
+    # ── Rounds disagreement: without_revise vs with_revise — critical-independent anonymous
+    plot_rounds_disagreement(
+        folders=[METRICS_GPT41_SEE_INDEP_ANON, METRICS_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — Critical-Independent Anonymous: With vs Without Revise)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_CRITICAL_INDEP_ANON_with_vs_without_revise.png",
     )
 
     print(f"\nRounds figures saved to: {FIG_DIR_ROUNDS}")

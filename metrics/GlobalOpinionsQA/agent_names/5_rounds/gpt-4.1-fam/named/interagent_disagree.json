@@ -1,0 +1,31 @@
+{
+  "model": "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556/named",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 2082,
+      "disagreement_count": 816,
+      "disagreement_percentage": 39.19
+    },
+    "round_2": {
+      "valid_questions": 2083,
+      "disagreement_count": 466,
+      "disagreement_percentage": 22.37
+    },
+    "round_3": {
+      "valid_questions": 2089,
+      "disagreement_count": 380,
+      "disagreement_percentage": 18.19
+    },
+    "round_4": {
+      "valid_questions": 2087,
+      "disagreement_count": 316,
+      "disagreement_percentage": 15.14
+    },
+    "round_5": {
+      "valid_questions": 2087,
+      "disagreement_count": 290,
+      "disagreement_percentage": 13.9
+    }
+  },
+  "generated_at": "2026-03-05T07:56:40.361031+00:00"
+}

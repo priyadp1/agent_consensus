@@ -1,0 +1,31 @@
+{
+  "model": "results/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556/named",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 249,
+      "disagreement_count": 97,
+      "disagreement_percentage": 38.96
+    },
+    "round_2": {
+      "valid_questions": 251,
+      "disagreement_count": 58,
+      "disagreement_percentage": 23.11
+    },
+    "round_3": {
+      "valid_questions": 251,
+      "disagreement_count": 48,
+      "disagreement_percentage": 19.12
+    },
+    "round_4": {
+      "valid_questions": 251,
+      "disagreement_count": 30,
+      "disagreement_percentage": 11.95
+    },
+    "round_5": {
+      "valid_questions": 251,
+      "disagreement_count": 22,
+      "disagreement_percentage": 8.76
+    }
+  },
+  "generated_at": "2026-03-05T07:56:40.819277+00:00"
+}

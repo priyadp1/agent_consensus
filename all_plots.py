@@ -75,6 +75,20 @@ DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_NO_SEE = os.path.join(
     OUTPUT_BASE_GPT41_TWENTY_ROUND_NO_SEE, "gpt4.1_family_directional.json"
 )
 
+OUTPUT_BASE_GPT41_FIVE_ROUND_SEE  = "analysis_outputs/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/named"
+OUTPUT_BASE_GPT41_FIVE_ROUND_ANON = "analysis_outputs/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/anonymous"
+OUTPUT_BASE_RANDOM_FIVE_ROUND_SEE = "analysis_outputs/GlobalOpinionsQA/agent_names/5_rounds/random_models/named"
+
+DIRECTIONAL_JSON_FIVE_ROUND_GPT41_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_FIVE_ROUND_SEE, "gpt4.1_family_directional.json"
+)
+DIRECTIONAL_JSON_FIVE_ROUND_GPT41_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_FIVE_ROUND_ANON, "gpt4.1_family_directional.json"
+)
+DIRECTIONAL_JSON_FIVE_ROUND_RANDOM_SEE = os.path.join(
+    OUTPUT_BASE_RANDOM_FIVE_ROUND_SEE, "random_models_directional.json"
+)
+
 OUTPUT_BASE_RANDOM_NO_SEE = "analysis_outputs/GlobalOpinionsQA/random_models"
 
 ROUND_JSON_RANDOM_NO_SEE_NORMAL = os.path.join(
@@ -124,6 +138,10 @@ METRICS_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON  = "metrics/GlobalOpinionsQA/agent_
 
 METRICS_TWENTY_ROUND_GPT41_SEE    = "metrics/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/named"
 METRICS_TWENTY_ROUND_GPT41_NO_SEE = "metrics/GlobalOpinionsQA/gpt-4.1-family/20_rounds/anonymous"
+
+METRICS_FIVE_ROUND_GPT41_SEE    = "metrics/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/named"
+METRICS_FIVE_ROUND_GPT41_ANON   = "metrics/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/anonymous"
+METRICS_FIVE_ROUND_RANDOM_SEE   = "metrics/GlobalOpinionsQA/agent_names/5_rounds/random_models/named"
 
 METRICS_RANDOM_SEE_NORMAL   = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556"
 METRICS_RANDOM_SEE_ROTATED  = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556_rotated"
@@ -454,6 +472,48 @@ if __name__ == "__main__":
         "asymmetry_ratios_gpt41_TWENTY_ROUND_NO_SEE.png",
     )
 
+    # ── Directional deference: GPT-4.1, 5 rounds, see names ──────────────────
+    gpt_five_see = load_json(DIRECTIONAL_JSON_FIVE_ROUND_GPT41_SEE)
+
+    plot_directional_bars(
+        gpt_five_see,
+        "Direction of Disagreement (GPT-4.1 — 5 Rounds, See Names)",
+        "directional_bars_gpt41_FIVE_ROUND_SEE.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_five_see,
+        "Asymmetric Alignment Strength (GPT-4.1 — 5 Rounds, See Names)",
+        "asymmetry_ratios_gpt41_FIVE_ROUND_SEE.png",
+    )
+
+    # ── Directional deference: GPT-4.1, 5 rounds, anonymous ──────────────────
+    gpt_five_anon = load_json(DIRECTIONAL_JSON_FIVE_ROUND_GPT41_ANON)
+
+    plot_directional_bars(
+        gpt_five_anon,
+        "Direction of Disagreement (GPT-4.1 — 5 Rounds, Anonymous)",
+        "directional_bars_gpt41_FIVE_ROUND_ANON.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_five_anon,
+        "Asymmetric Alignment Strength (GPT-4.1 — 5 Rounds, Anonymous)",
+        "asymmetry_ratios_gpt41_FIVE_ROUND_ANON.png",
+    )
+
+    # ── Directional deference: random models, 5 rounds, see names ────────────
+    rand_five_see = load_json(DIRECTIONAL_JSON_FIVE_ROUND_RANDOM_SEE)
+
+    plot_directional_bars(
+        rand_five_see,
+        "Direction of Disagreement (Random Models — 5 Rounds, See Names)",
+        "directional_bars_random_FIVE_ROUND_SEE.png",
+    )
+    plot_asymmetry_ratios(
+        rand_five_see,
+        "Asymmetric Alignment Strength (Random Models — 5 Rounds, See Names)",
+        "asymmetry_ratios_random_FIVE_ROUND_SEE.png",
+    )
+
     # ── Directional deference: random models, no see names ────────────────────
     rand_no_norm = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_NORMAL)
     rand_no_rot  = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_ROTATED)
@@ -624,6 +684,22 @@ if __name__ == "__main__":
         title="Disagreement Across Rounds (GPT-4.1 — 20 Rounds: See Names vs No See Names)",
         out_dir=FIG_DIR_ROUNDS,
         out_name="rounds_gpt41_TWENTY_ROUND_SEE_vs_NO_SEE.png",
+    )
+
+    # ── Rounds disagreement: GPT-4.1 — 5 rounds, see names vs anonymous ──────
+    plot_rounds_disagreement(
+        folders=[METRICS_FIVE_ROUND_GPT41_SEE, METRICS_FIVE_ROUND_GPT41_ANON],
+        title="Disagreement Across Rounds (GPT-4.1 — 5 Rounds: See Names vs Anonymous)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_FIVE_ROUND_SEE_vs_ANON.png",
+    )
+
+    # ── Rounds disagreement: random models — 5 rounds vs 3 rounds, see names ─
+    plot_rounds_disagreement(
+        folders=[METRICS_RANDOM_SEE_NORMAL, METRICS_FIVE_ROUND_RANDOM_SEE],
+        title="Disagreement Across Rounds (Random Models — 3 Rounds vs 5 Rounds, See Names)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_random_SEE_3_vs_5_rounds.png",
     )
 
     print(f"\nRounds figures saved to: {FIG_DIR_ROUNDS}")

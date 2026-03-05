@@ -80,6 +80,18 @@ TWENTY_ROUND_GPT41_RESULTS_DIR_NO_SEE_NAMES = (
     "results/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/"
     "agents_3_questions_2556/anonymous"
 )
+FIVE_ROUND_GPT41_RESULTS_DIR_SEE_NAMES = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "agents_3_questions_2556/named"
+)
+FIVE_ROUND_GPT41_RESULTS_DIR_ANON = (
+    "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
+    "agents_3_questions_2556/anonymous"
+)
+FIVE_ROUND_RANDOM_RESULTS_DIR_SEE_NAMES = (
+    "results/GlobalOpinionsQA/agent_names/random_models/"
+    "agents_3_questions_2556/named"
+)
 
 
 # ── Output paths: Random models, see names ────────────────────────────────────
@@ -191,6 +203,36 @@ ROUND_JSON_TWENTY_ROUND_GPT41_NO_SEE = os.path.join(
 )
 DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_NO_SEE = os.path.join(
     OUTPUT_BASE_GPT41_TWENTY_ROUND_NO_SEE, "gpt4.1_family_directional.json"
+)
+
+# ── Output paths: GPT-4.1, 5 rounds, see names ────────────────────────────────
+OUTPUT_BASE_GPT41_FIVE_ROUND_SEE = "analysis_outputs/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/named"
+
+ROUND_JSON_FIVE_ROUND_GPT41_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_FIVE_ROUND_SEE, "per_round_disagreement.json"
+)
+DIRECTIONAL_JSON_FIVE_ROUND_GPT41_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_FIVE_ROUND_SEE, "gpt4.1_family_directional.json"
+)
+
+# ── Output paths: GPT-4.1, 5 rounds, anonymous ────────────────────────────────
+OUTPUT_BASE_GPT41_FIVE_ROUND_ANON = "analysis_outputs/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/anonymous"
+
+ROUND_JSON_FIVE_ROUND_GPT41_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_FIVE_ROUND_ANON, "per_round_disagreement.json"
+)
+DIRECTIONAL_JSON_FIVE_ROUND_GPT41_ANON = os.path.join(
+    OUTPUT_BASE_GPT41_FIVE_ROUND_ANON, "gpt4.1_family_directional.json"
+)
+
+# ── Output paths: Random models, 5 rounds, see names ─────────────────────────
+OUTPUT_BASE_RANDOM_FIVE_ROUND_SEE = "analysis_outputs/GlobalOpinionsQA/agent_names/5_rounds/random_models/named"
+
+ROUND_JSON_FIVE_ROUND_RANDOM_SEE = os.path.join(
+    OUTPUT_BASE_RANDOM_FIVE_ROUND_SEE, "per_round_disagreement.json"
+)
+DIRECTIONAL_JSON_FIVE_ROUND_RANDOM_SEE = os.path.join(
+    OUTPUT_BASE_RANDOM_FIVE_ROUND_SEE, "random_models_directional.json"
 )
 
 # ── Output paths: Random models, no see names ─────────────────────────────────
@@ -541,6 +583,15 @@ if __name__ == "__main__":
          (TWENTY_ROUND_GPT41_RESULTS_DIR_NO_SEE_NAMES,
           "metrics/GlobalOpinionsQA/gpt-4.1-family/20_rounds/anonymous"
           ),
+         (FIVE_ROUND_GPT41_RESULTS_DIR_SEE_NAMES,
+          "metrics/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/named"
+          ),
+         (FIVE_ROUND_GPT41_RESULTS_DIR_ANON,
+          "metrics/GlobalOpinionsQA/agent_names/5_rounds/gpt-4.1-fam/anonymous"
+          ),
+         (FIVE_ROUND_RANDOM_RESULTS_DIR_SEE_NAMES,
+          "metrics/GlobalOpinionsQA/agent_names/5_rounds/random_models/named"
+          ),
     ]
 
     for results_dir, metrics_dir in metrics_runs:
@@ -797,3 +848,48 @@ if __name__ == "__main__":
     init_twenty_no_see, s2l_twenty_no_see, l2s_twenty_no_see = analyze_conditioned(gpt_twenty_no_see, gpt_twenty_no_see)
     print_directional("TWENTY_ROUND_NO_SEE", init_twenty_no_see, s2l_twenty_no_see, l2s_twenty_no_see)
     save_directional(init_twenty_no_see, s2l_twenty_no_see, l2s_twenty_no_see, DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_NO_SEE)
+
+    # ── GPT-4.1: 5 rounds, see names ─────────────────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: 5 ROUNDS (SEE NAMES) ANALYSIS ===\n")
+
+    gpt_five_see = load_results(FIVE_ROUND_GPT41_RESULTS_DIR_SEE_NAMES)
+
+    print(f"Loaded {len(gpt_five_see)} 5-round see-names questions")
+
+    per_round_five_see = pair_disagree(gpt_five_see)
+    print_per_round("FIVE_ROUND_SEE", per_round_five_see)
+    save_per_round(per_round_five_see, ROUND_JSON_FIVE_ROUND_GPT41_SEE)
+
+    init_five_see, s2l_five_see, l2s_five_see = analyze_conditioned(gpt_five_see, gpt_five_see)
+    print_directional("FIVE_ROUND_SEE", init_five_see, s2l_five_see, l2s_five_see)
+    save_directional(init_five_see, s2l_five_see, l2s_five_see, DIRECTIONAL_JSON_FIVE_ROUND_GPT41_SEE)
+
+    # ── GPT-4.1: 5 rounds, anonymous ─────────────────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: 5 ROUNDS (ANONYMOUS) ANALYSIS ===\n")
+
+    gpt_five_anon = load_results(FIVE_ROUND_GPT41_RESULTS_DIR_ANON)
+
+    print(f"Loaded {len(gpt_five_anon)} 5-round anonymous questions")
+
+    per_round_five_anon = pair_disagree(gpt_five_anon)
+    print_per_round("FIVE_ROUND_ANON", per_round_five_anon)
+    save_per_round(per_round_five_anon, ROUND_JSON_FIVE_ROUND_GPT41_ANON)
+
+    init_five_anon, s2l_five_anon, l2s_five_anon = analyze_conditioned(gpt_five_anon, gpt_five_anon)
+    print_directional("FIVE_ROUND_ANON", init_five_anon, s2l_five_anon, l2s_five_anon)
+    save_directional(init_five_anon, s2l_five_anon, l2s_five_anon, DIRECTIONAL_JSON_FIVE_ROUND_GPT41_ANON)
+
+    # ── Random models: 5 rounds, see names ───────────────────────────────────
+    print("\n=== RANDOM MODELS: 5 ROUNDS (SEE NAMES) ANALYSIS ===\n")
+
+    rand_five_see = load_results(FIVE_ROUND_RANDOM_RESULTS_DIR_SEE_NAMES)
+
+    print(f"Loaded {len(rand_five_see)} 5-round random see-names questions")
+
+    per_round_five_rand_see = pair_disagree(rand_five_see)
+    print_per_round("FIVE_ROUND_RANDOM_SEE", per_round_five_rand_see)
+    save_per_round(per_round_five_rand_see, ROUND_JSON_FIVE_ROUND_RANDOM_SEE)
+
+    init_five_rand_see, s2l_five_rand_see, l2s_five_rand_see = analyze_conditioned(rand_five_see, rand_five_see)
+    print_directional("FIVE_ROUND_RANDOM_SEE", init_five_rand_see, s2l_five_rand_see, l2s_five_rand_see)
+    save_directional(init_five_rand_see, s2l_five_rand_see, l2s_five_rand_see, DIRECTIONAL_JSON_FIVE_ROUND_RANDOM_SEE)

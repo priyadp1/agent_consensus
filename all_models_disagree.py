@@ -72,6 +72,15 @@ WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_ANON = (
     "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/"
     "without_revise/agents_3_questions_2556/critical_independent/anonymous"
 )
+TWENTY_ROUND_GPT41_RESULTS_DIR_SEE_NAMES = (
+    "results/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/"
+    "agents_3_questions_2556/named"
+)
+TWENTY_ROUND_GPT41_RESULTS_DIR_NO_SEE_NAMES = (
+    "results/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/"
+    "agents_3_questions_2556/anonymous"
+)
+
 
 # ── Output paths: Random models, see names ────────────────────────────────────
 OUTPUT_BASE_RANDOM_SEE = "analysis_outputs/GlobalOpinionsQA/agent_names/random_models"
@@ -164,6 +173,26 @@ DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON = os.path.join(
     OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_CRITICAL_INDEPENDENT_ANON_directional.json"
 )
 
+# ── Output paths: GPT-4.1, 20 rounds, see names ───────────────────────────────
+OUTPUT_BASE_GPT41_TWENTY_ROUND_SEE = "analysis_outputs/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam"
+
+ROUND_JSON_TWENTY_ROUND_GPT41_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_TWENTY_ROUND_SEE, "per_round_disagreement.json"
+)
+DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_TWENTY_ROUND_SEE, "gpt4.1_family_directional.json"
+)
+
+# ── Output paths: GPT-4.1, 20 rounds, no see names ───────────────────────────
+OUTPUT_BASE_GPT41_TWENTY_ROUND_NO_SEE = "analysis_outputs/GlobalOpinionsQA/gpt-4.1-family/20_rounds"
+
+ROUND_JSON_TWENTY_ROUND_GPT41_NO_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_TWENTY_ROUND_NO_SEE, "per_round_disagreement.json"
+)
+DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_NO_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_TWENTY_ROUND_NO_SEE, "gpt4.1_family_directional.json"
+)
+
 # ── Output paths: Random models, no see names ─────────────────────────────────
 OUTPUT_BASE_RANDOM_NO_SEE = "analysis_outputs/GlobalOpinionsQA/random_models"
 
@@ -236,17 +265,25 @@ def compute_metrics(results_dir, metrics_dir):
         print(f"[SKIP] Results dir not found: {results_dir}")
         return
 
+    files = [f for f in os.listdir(results_dir) if f.startswith("q_") and f.endswith(".json")]
+    if not files:
+        print(f"[SKIP] No question files found in: {results_dir}")
+        return
+
     os.makedirs(metrics_dir, exist_ok=True)
 
-    total_valid = [0, 0, 0]
-    disagreements = [0, 0, 0]
+    # Detect number of rounds from the first file
+    with open(os.path.join(results_dir, files[0]), "r") as f:
+        sample = json.load(f)
+    num_rounds = len(sample.get("rounds", []))
 
-    for fname in os.listdir(results_dir):
-        if not fname.startswith("q_") or not fname.endswith(".json"):
-            continue
+    total_valid = [0] * num_rounds
+    disagreements = [0] * num_rounds
+
+    for fname in files:
         with open(os.path.join(results_dir, fname), "r") as f:
             data = json.load(f)
-        for i in range(3):
+        for i in range(num_rounds):
             result = round_disagree(data, i)
             if result is None:
                 continue
@@ -256,7 +293,7 @@ def compute_metrics(results_dir, metrics_dir):
 
     percentages = [
         (100 * disagreements[i] / total_valid[i]) if total_valid[i] > 0 else 0
-        for i in range(3)
+        for i in range(num_rounds)
     ]
 
     metrics = {
@@ -267,7 +304,7 @@ def compute_metrics(results_dir, metrics_dir):
                 "disagreement_count": disagreements[i],
                 "disagreement_percentage": round(percentages[i], 2),
             }
-            for i in range(3)
+            for i in range(num_rounds)
         },
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
@@ -277,7 +314,7 @@ def compute_metrics(results_dir, metrics_dir):
         json.dump(metrics, f, indent=2)
 
     print(f"[METRICS] {results_dir}")
-    for i in range(3):
+    for i in range(num_rounds):
         print(f"  Round {i+1}: {disagreements[i]}/{total_valid[i]} ({percentages[i]:.2f}%)")
     print(f"  Saved → {out_path}")
 
@@ -497,6 +534,12 @@ if __name__ == "__main__":
           ),
          (WITHOUT_REVISE_PROMPT_GPT_41_CRITICAL_INDEPENDENT_ANON,
           "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/critical_independent_anonymous"
+          ),
+         (TWENTY_ROUND_GPT41_RESULTS_DIR_SEE_NAMES,
+          "metrics/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/named"
+          ),
+         (TWENTY_ROUND_GPT41_RESULTS_DIR_NO_SEE_NAMES,
+          "metrics/GlobalOpinionsQA/gpt-4.1-family/20_rounds/anonymous"
           ),
     ]
 
@@ -724,3 +767,33 @@ if __name__ == "__main__":
     init_wo_ci_anon, s2l_wo_ci_anon, l2s_wo_ci_anon = analyze_conditioned(gpt_wo_ci_anon, gpt_wo_ci_anon)
     print_directional("WITHOUT_REVISE_CRIT_INDEP_ANON", init_wo_ci_anon, s2l_wo_ci_anon, l2s_wo_ci_anon)
     save_directional(init_wo_ci_anon, s2l_wo_ci_anon, l2s_wo_ci_anon, DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON)
+
+    # ── GPT-4.1: 20 rounds, see names ────────────────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: 20 ROUNDS (SEE NAMES) ANALYSIS ===\n")
+
+    gpt_twenty_see = load_results(TWENTY_ROUND_GPT41_RESULTS_DIR_SEE_NAMES)
+
+    print(f"Loaded {len(gpt_twenty_see)} 20-round see-names questions")
+
+    per_round_twenty_see = pair_disagree(gpt_twenty_see)
+    print_per_round("TWENTY_ROUND_SEE", per_round_twenty_see)
+    save_per_round(per_round_twenty_see, ROUND_JSON_TWENTY_ROUND_GPT41_SEE)
+
+    init_twenty_see, s2l_twenty_see, l2s_twenty_see = analyze_conditioned(gpt_twenty_see, gpt_twenty_see)
+    print_directional("TWENTY_ROUND_SEE", init_twenty_see, s2l_twenty_see, l2s_twenty_see)
+    save_directional(init_twenty_see, s2l_twenty_see, l2s_twenty_see, DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_SEE)
+
+    # ── GPT-4.1: 20 rounds, no see names ─────────────────────────────────────
+    print("\n=== GPT-4.1 FAMILY: 20 ROUNDS (NO SEE NAMES) ANALYSIS ===\n")
+
+    gpt_twenty_no_see = load_results(TWENTY_ROUND_GPT41_RESULTS_DIR_NO_SEE_NAMES)
+
+    print(f"Loaded {len(gpt_twenty_no_see)} 20-round no-see-names questions")
+
+    per_round_twenty_no_see = pair_disagree(gpt_twenty_no_see)
+    print_per_round("TWENTY_ROUND_NO_SEE", per_round_twenty_no_see)
+    save_per_round(per_round_twenty_no_see, ROUND_JSON_TWENTY_ROUND_GPT41_NO_SEE)
+
+    init_twenty_no_see, s2l_twenty_no_see, l2s_twenty_no_see = analyze_conditioned(gpt_twenty_no_see, gpt_twenty_no_see)
+    print_directional("TWENTY_ROUND_NO_SEE", init_twenty_no_see, s2l_twenty_no_see, l2s_twenty_no_see)
+    save_directional(init_twenty_no_see, s2l_twenty_no_see, l2s_twenty_no_see, DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_NO_SEE)

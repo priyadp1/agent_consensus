@@ -65,6 +65,16 @@ DIRECTIONAL_JSON_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON = os.path.join(
     OUTPUT_BASE_GPT41_SEE_WITHOUT_REVISE, "gpt4.1_family_CRITICAL_INDEPENDENT_ANON_directional.json"
 )
 
+OUTPUT_BASE_GPT41_TWENTY_ROUND_SEE = "analysis_outputs/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam"
+OUTPUT_BASE_GPT41_TWENTY_ROUND_NO_SEE = "analysis_outputs/GlobalOpinionsQA/gpt-4.1-family/20_rounds"
+
+DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_TWENTY_ROUND_SEE, "gpt4.1_family_directional.json"
+)
+DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_NO_SEE = os.path.join(
+    OUTPUT_BASE_GPT41_TWENTY_ROUND_NO_SEE, "gpt4.1_family_directional.json"
+)
+
 OUTPUT_BASE_RANDOM_NO_SEE = "analysis_outputs/GlobalOpinionsQA/random_models"
 
 ROUND_JSON_RANDOM_NO_SEE_NORMAL = os.path.join(
@@ -112,6 +122,9 @@ METRICS_WITHOUT_REVISE_GPT41_ADV_ANON         = "metrics/GlobalOpinionsQA/agent_
 METRICS_WITHOUT_REVISE_GPT41_CRIT_INDEP_NAMED = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/critical_independent_named"
 METRICS_WITHOUT_REVISE_GPT41_CRIT_INDEP_ANON  = "metrics/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/critical_independent_anonymous"
 
+METRICS_TWENTY_ROUND_GPT41_SEE    = "metrics/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/named"
+METRICS_TWENTY_ROUND_GPT41_NO_SEE = "metrics/GlobalOpinionsQA/gpt-4.1-family/20_rounds/anonymous"
+
 METRICS_RANDOM_SEE_NORMAL   = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556"
 METRICS_RANDOM_SEE_ROTATED  = "metrics/GlobalOpinionsQA/agent_names/random_models/agents_3_questions_2556_rotated"
 METRICS_RANDOM_NO_SEE_NORMAL  = "metrics/GlobalOpinionsQA/random_models/agents_3_questions_2089"
@@ -139,11 +152,8 @@ def load_model_metrics(folder):
         )
     data = load_json(path)
     rounds = data["rounds"]
-    return [
-        rounds["round_1"]["disagreement_percentage"],
-        rounds["round_2"]["disagreement_percentage"],
-        rounds["round_3"]["disagreement_percentage"],
-    ]
+    sorted_keys = sorted(rounds.keys(), key=lambda k: int(k.split("_")[1]))
+    return [rounds[k]["disagreement_percentage"] for k in sorted_keys]
 
 
 # ── Directional deference plots (from plot_defer.py) ─────────────────────────
@@ -198,14 +208,16 @@ def plot_asymmetry_ratios(data, title, filename, fig_dir=FIG_DIR_DEFER):
 # ── Rounds disagreement plot (from plot_rounds_disagree.py) ──────────────────
 
 def plot_rounds_disagreement(folders, title, out_dir, out_name):
-    rounds = [1, 2, 3]
     plt.figure(figsize=(12, 5))
 
+    max_rounds = 0
     for folder in folders:
         values = load_model_metrics(folder)
+        rounds = list(range(1, len(values) + 1))
+        max_rounds = max(max_rounds, len(values))
         plt.plot(rounds, values, marker="o", label=folder)
 
-    plt.xticks(rounds)
+    plt.xticks(range(1, max_rounds + 1))
     plt.xlabel("Deliberation Round")
     plt.ylabel("Questions with >= 1 Disagreement (%)")
     plt.title(title)
@@ -414,6 +426,34 @@ if __name__ == "__main__":
         "asymmetry_ratios_gpt41_WITHOUT_REVISE_CRITICAL_INDEP_ANONYMOUS.png",
     )
 
+    # ── Directional deference: GPT-4.1, 20 rounds, see names ─────────────────
+    gpt_twenty_see = load_json(DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_SEE)
+
+    plot_directional_bars(
+        gpt_twenty_see,
+        "Direction of Disagreement (GPT-4.1 — 20 Rounds, See Names)",
+        "directional_bars_gpt41_TWENTY_ROUND_SEE.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_twenty_see,
+        "Asymmetric Alignment Strength (GPT-4.1 — 20 Rounds, See Names)",
+        "asymmetry_ratios_gpt41_TWENTY_ROUND_SEE.png",
+    )
+
+    # ── Directional deference: GPT-4.1, 20 rounds, no see names ─────────────
+    gpt_twenty_no_see = load_json(DIRECTIONAL_JSON_TWENTY_ROUND_GPT41_NO_SEE)
+
+    plot_directional_bars(
+        gpt_twenty_no_see,
+        "Direction of Disagreement (GPT-4.1 — 20 Rounds, No See Names)",
+        "directional_bars_gpt41_TWENTY_ROUND_NO_SEE.png",
+    )
+    plot_asymmetry_ratios(
+        gpt_twenty_no_see,
+        "Asymmetric Alignment Strength (GPT-4.1 — 20 Rounds, No See Names)",
+        "asymmetry_ratios_gpt41_TWENTY_ROUND_NO_SEE.png",
+    )
+
     # ── Directional deference: random models, no see names ────────────────────
     rand_no_norm = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_NORMAL)
     rand_no_rot  = load_json(DIRECTIONAL_JSON_RANDOM_NO_SEE_ROTATED)
@@ -576,6 +616,14 @@ if __name__ == "__main__":
         title="Disagreement Across Rounds (GPT-4.1 — Critical-Independent Anonymous: With vs Without Revise)",
         out_dir=FIG_DIR_ROUNDS,
         out_name="rounds_gpt41_CRITICAL_INDEP_ANON_with_vs_without_revise.png",
+    )
+
+    # ── Rounds disagreement: GPT-4.1 — 20 rounds, see names vs no see names ───
+    plot_rounds_disagreement(
+        folders=[METRICS_TWENTY_ROUND_GPT41_SEE, METRICS_TWENTY_ROUND_GPT41_NO_SEE],
+        title="Disagreement Across Rounds (GPT-4.1 — 20 Rounds: See Names vs No See Names)",
+        out_dir=FIG_DIR_ROUNDS,
+        out_name="rounds_gpt41_TWENTY_ROUND_SEE_vs_NO_SEE.png",
     )
 
     print(f"\nRounds figures saved to: {FIG_DIR_ROUNDS}")

@@ -1,9 +1,10 @@
 experiment:
   name: gpt-4.1-fam
-  results_root: results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/without_revise/agents_3_questions_2556
+  results_root: results/GlobalOpinionsQA/agent_names/20_rounds/gpt-4.1-fam/without_revise/agents_3_questions_2556
 
 data:
   path: data/jsonl/GlobalOpinionsQA/train.jsonl
+  options_key: options
 
 agents:
   Agent 1: gpt-4.1-nano
@@ -12,4 +13,4 @@ agents:
 
 defaults:
   limit: 2556
-  max_rounds: 3
+  max_rounds: 20

@@ -14,7 +14,7 @@ AGENT_MODELS = {
     "Agent 3": "gpt-4.1"
 }
 
-DATA_PATH = "data/jsonl/OpinionsQA/test.jsonl"
+DATA_PATH = "data/jsonl/OpinionsQA/combined.jsonl"
 
 
 def stream_jsonL(path):

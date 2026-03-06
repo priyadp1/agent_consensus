@@ -29,7 +29,6 @@ def get_completed(results_dir):
     completed = set()
     if not os.path.exists(results_dir):
         return completed
-
     for fname in os.listdir(results_dir):
         if fname.startswith("q_") and fname.endswith(".json"):
             try:
@@ -41,9 +40,9 @@ def get_completed(results_dir):
     return completed
 
 
-def build_prompt(example):
+def build_prompt(example, options_key="options"):
     # Format a survey question and its options into a structured prompt string
-    options = example["options"]
+    options = example[options_key]
     letters = [chr(65 + i) for i in range(len(options))]
     option_block = "\n".join(
         f"({letters[i]}) {opt}" for i, opt in enumerate(options)
@@ -97,8 +96,11 @@ def parse_answer(text, num_options):
 def single_agent(config):
     # Run a single-agent experiment: one model answers each question independently
     data_path = config["data"]["path"]
+    options_key = config["data"]["options_key"]
     limit = config["defaults"]["limit"]
     results_root = config["experiment"]["results_root"]
+
+    print(f"  Dataset: {data_path} (options_key='{options_key}')")
 
     results_dir = os.path.join(results_root, f"single_agent_{limit}")
     os.makedirs(results_dir, exist_ok=True)
@@ -107,7 +109,7 @@ def single_agent(config):
     used = 0
 
     for example in stream_jsonL(data_path):
-        if not valid_question(example):
+        if not valid_question(example, key=options_key):
             continue
 
         # Skip questions already processed in a previous run
@@ -116,17 +118,18 @@ def single_agent(config):
             used += 1
             continue
 
-        prompt = build_prompt(example)
+        prompt = build_prompt(example, options_key=options_key)
         raw = run_model(prompt)
 
         # Treat non-string model output as a failure
         if not isinstance(raw, str):
             raw = ""
 
+        options = example[options_key]
         output = {
             "question": example["question"],
-            "options": example["options"],
-            "answer": parse_answer(raw, len(example["options"])),
+            "options": options,
+            "answer": parse_answer(raw, len(options)),
             "raw_output": raw.strip(),
             "model_failed": raw == ""
         }
@@ -145,9 +148,12 @@ def single_agent(config):
 async def multi_agent(config):
     agent_models = config["agents"]
     data_path = config["data"]["path"]
+    options_key = config["data"]["options_key"]
     limit = config["defaults"]["limit"]
     max_rounds = config["defaults"]["max_rounds"]
     results_root = config["experiment"]["results_root"]
+
+    print(f"  Dataset: {data_path} (options_key='{options_key}')")
 
     agents = list(agent_models.values())
 
@@ -184,7 +190,7 @@ async def multi_agent(config):
             print(f"\n  [{condition_name.upper()} | {variant.upper()}] Starting...")
 
             for example in stream_jsonL(data_path):
-                if not valid_question(example):
+                if not valid_question(example, key=options_key):
                     continue
 
                 if used in completed:
@@ -192,12 +198,14 @@ async def multi_agent(config):
                     used += 1
                     continue
 
+                options = example[options_key]
+
                 history = await agent_talk(
                     agents=agents,
                     agent_runners=agent_runners,
                     question=example["question"],
-                    options=example["options"],
-                    selections=example["selections"],
+                    options=options,
+                    selections=example.get("selections"),
                     max_rounds=max_rounds,
                     show_agent_names=show_agent_names
                 )
@@ -211,7 +219,7 @@ async def multi_agent(config):
                             raw = ""
 
                         parsed[agent_id] = {
-                            "answer": parse_answer(raw, len(example["options"])),
+                            "answer": parse_answer(raw, len(options)),
                             "raw_output": raw.strip(),
                             "model_failed": raw == ""
                         }
@@ -220,7 +228,7 @@ async def multi_agent(config):
 
                 output = {
                     "question": example["question"],
-                    "options": example["options"],
+                    "options": options,
                     "agent_models": agent_models,
                     "system_prompt_condition": condition_name,
                     "variant": variant,

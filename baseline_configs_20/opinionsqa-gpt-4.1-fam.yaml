@@ -1,0 +1,16 @@
+experiment:
+  name: gpt-4.1-fam
+  results_root: results/OpinionsQA/20_rounds/gpt-4.1-fam/agents_3_questions_2089
+
+data:
+  path: data/jsonl/OpinionsQA/combined.jsonl
+  options_key: options
+
+agents:
+  Agent 1: gpt-4.1-nano
+  Agent 2: gpt-4.1-mini
+  Agent 3: gpt-4.1
+
+defaults:
+  limit: 2556
+  max_rounds: 20

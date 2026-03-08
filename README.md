@@ -1,24 +1,69 @@
-# Agent_Consensus
-1. Have your python version as 3.10+
+# Agent Consensus
 
-2. Do pip install -r requirements.txt
+A multi-agent framework for studying consensus and opinion dynamics across language models.
 
-3. Make ur .env file containing your Azure Endpoint and Azure API Key
+## Prerequisites
 
-4. To download datasets:
-    a. If you're on Windows do python preprocessing/download_dataset.py  for OpinionsQA and GlobalOpinionsQA datasets
-    b. If you're on a Mac do python3 preprocessing/download_dataset.py  for OpinionsQA and GlobalOpinionsQA datasets
-    c. To download the anthropic dataset run: git clone https://github.com/anthropics/evals in the data folder
+- Python 3.10+
 
-5. To preproceess datasets run:
-    a. python combine_opinionsqa_datasets.py
-    b. python combine_persona_datasets.py
+## Setup
 
-6. To run experiments:
-    a. python sys_prompt_main.py (Runs experiments with system prompts)
-    b. python change_answer_all.py (Runs rotated experiments)
-    c. python main.py (Runs baseline multiagent experiments)
-    
-7. To analyze results:
-    a. python plots/all_models_disagree.py (Saves information on model disagreement rate and model deference rate to the analysis_outputs folder)
-    b. python plots/all_plots.py (Saves plots from the information in the analysis_outputs folder to the figures folder)
+### 1. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Configure Environment
+
+Create a `.env` file in the project root with your Azure credentials:
+
+```
+AZURE_ENDPOINT=your_azure_endpoint
+AZURE_API_KEY=your_azure_api_key
+```
+
+## Data
+
+### Download Datasets
+
+**Windows:**
+```bash
+python preprocessing/download_dataset.py
+```
+
+**Mac/Linux:**
+```bash
+python3 preprocessing/download_dataset.py
+```
+
+This downloads the OpinionsQA and GlobalOpinionsQA datasets.
+
+To download the Anthropic dataset, clone the evals repo into the `data/` folder:
+
+```bash
+cd data
+git clone https://github.com/anthropics/evals
+```
+
+### Preprocess Datasets
+
+```bash
+python combine_opinionsqa_datasets.py
+python combine_persona_datasets.py
+```
+
+## Running Experiments
+
+| Script | Description |
+|--------|-------------|
+| `python sys_prompt_main.py` | Runs experiments with system prompts |
+| `python change_answer_all.py` | Runs rotated experiments |
+| `python main.py` | Runs baseline multi-agent experiments |
+
+## Analyzing Results
+
+| Script | Description |
+|--------|-------------|
+| `python plots/all_models_disagree.py` | Saves model disagreement rate and deference rate to `analysis_outputs/` |
+| `python plots/all_plots.py` | Saves plots from `analysis_outputs/` to `figures/` |

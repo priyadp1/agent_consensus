@@ -1,6 +1,6 @@
 experiment:
   name: opinionsqa-gpt-4.1-fam
-  results_root: results/OpinionsQA/20_rounds/gpt-4.1-fam/with_revise/agents_3_questions_2556
+  results_root: results/OpinionsQA/20_rounds/gpt-4.1-fam/without_revise/agents_3_questions_2556
 
 data:
   path: data/jsonl/OpinionsQA/combined.jsonl

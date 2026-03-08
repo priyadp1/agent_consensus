@@ -9,7 +9,7 @@ import yaml
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from models.model2 import run_model
-from agents.multiagent2 import agent_talk
+from agents.multiagent import agent_talk
 from preprocessing.filter_questions import valid_question
 from models.model2 import SYSTEM_PROMPTS
 
@@ -255,7 +255,7 @@ async def multi_agent(config):
 
 
 if __name__ == "__main__":
-    config_dir = "configs_20"
+    config_dir = "sys_prompt_configs_20"
     # Collect all config files whose names end with "fam.yaml" or "fam.yml"
     config_files = sorted(
         f for f in os.listdir(config_dir)

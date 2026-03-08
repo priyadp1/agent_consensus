@@ -55,11 +55,16 @@ python combine_persona_datasets.py
 
 ## Running Experiments
 
-| Script | Description |
-|--------|-------------|
-| `python sys_prompt_main.py` | Runs experiments with system prompts |
-| `python change_answer_all.py` | Runs rotated experiments |
-| `python main.py` | Runs baseline multi-agent experiments |
+All scripts should be run from the `experiments/` directory.
+
+| Script | Config Dir | Description |
+|--------|-----------|-------------|
+| `python main.py` | `baseline_configs_20/` | Baseline multi-agent experiments — runs **named** and **anonymous** variants across GlobalOpinionsQA, OpinionsQA, and persona datasets |
+| `python sys_prompt_main.py` | `sys_prompt_configs_20/` | System prompt ablations — runs `critical_independent` and `adversarial` conditions, each with named and anonymous variants |
+| `python sys_prompt_no_revise.py` | `sys_prompt_configs_no_revise_20/` | Same as above but agents do not revise answers between rounds |
+| `python change_answer_all.py` | `rotate_configs/` | Rotated experiments — cyclically swaps round-1 answers between agents to test position/order effects |
+
+Each config file targets a specific dataset + model family combination (e.g. `globalqa-gpt-4.1-fam.yaml`). Results are saved under `results/` in subdirectories determined by each config's `results_root`.
 
 ## Analyzing Results
 

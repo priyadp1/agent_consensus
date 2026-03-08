@@ -1,6 +1,7 @@
 experiment:
   name: gpt-4.1-fam
-  results_root: results/GlobalOpinionsQA/20_rounds/gpt-4.1-fam/agents_3_questions_2089
+  results_root: results/GlobalOpinionsQA/20_rounds/gpt-4.1-fam/without_revise/agents_3_questions_2556
+
 data:
   path: data/jsonl/GlobalOpinionsQA/train.jsonl
   options_key: options

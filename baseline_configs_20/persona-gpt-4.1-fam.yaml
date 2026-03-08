@@ -1,6 +1,6 @@
 experiment:
   name: gpt-4.1-fam
-  results_root: results/anthropic-persona/agent_names/20_rounds/gpt-4.1-fam/agents_3_questions_2
+  results_root: results/anthropic-persona/20_rounds/gpt-4.1-fam/agents_3_questions_2089
 
 data:
   path: data/jsonl/anthropic-evals/persona_combined.jsonl

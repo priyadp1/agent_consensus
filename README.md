@@ -8,7 +8,7 @@
 4. To download datasets:
     a. If you're on Windows do python preprocessing/download_dataset.py  for OpinionsQA and GlobalOpinionsQA datasets
     b. If you're on a Mac do python3 preprocessing/download_dataset.py  for OpinionsQA and GlobalOpinionsQA datasets
-    c. To download the anthropic dataset run: git clone https://github.com/anthropics/evals
+    c. To download the anthropic dataset run: git clone https://github.com/anthropics/evals in the data folder
 
 5. To preproceess datasets run:
     a. python combine_opinionsqa_datasets.py

@@ -3,9 +3,11 @@ from datasets import load_dataset, get_dataset_config_names
 import os
 from huggingface_hub import snapshot_download
 import glob
+os.makedirs("data/jsonl", exist_ok=True)
 
 # Check and download llm_global_opinions
 dataset_dir = "data/jsonl/GlobalOpinionsQA"
+os.makedirs(dataset_dir, exist_ok=True)
 if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
     print("Dataset already exists: llm_global_opinions")
 else:
@@ -21,6 +23,7 @@ else:
 
 # Check and download OpinionQA
 dataset_dir = "data/jsonl/OpinionsQA"
+os.makedirs(dataset_dir, exist_ok=True)
 if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
     print("Dataset already exists: OpinionQA")
 else:

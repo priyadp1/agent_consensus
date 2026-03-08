@@ -1,10 +1,13 @@
 import json
 import os
+import sys
 import asyncio
 import re
 
-from model import run_model
-from multiagent import agent_talk
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from models.model import run_model
+from agents.multiagent import agent_talk
 from main import load_config, get_completed, parse_answer
 
 

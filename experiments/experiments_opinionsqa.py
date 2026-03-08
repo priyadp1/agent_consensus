@@ -1,12 +1,15 @@
 import json
 import os
+import sys
 import argparse
 import asyncio
 import re
 
-from model import run_model
-from multiagent import agent_talk
-from filter_questions import valid_question
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from models.model import run_model
+from agents.multiagent import agent_talk
+from preprocessing.filter_questions import valid_question
 
 AGENT_MODELS = {
     "Agent 1": "gpt-4.1-nano",

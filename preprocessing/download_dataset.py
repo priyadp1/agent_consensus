@@ -5,7 +5,7 @@ from huggingface_hub import snapshot_download
 import glob
 
 # Check and download llm_global_opinions
-dataset_dir = "data/jsonl/GlobalOpinionsQA"
+dataset_dir = "idk/data/jsonl/GlobalOpinionsQA"
 if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
     print("Dataset already exists: llm_global_opinions")
 else:
@@ -20,7 +20,7 @@ else:
 
 
 # Check and download OpinionQA
-dataset_dir = "data/jsonl/OpinionsQA"
+dataset_dir = "idk/data/jsonl/OpinionsQA"
 if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
     print("Dataset already exists: OpinionQA")
 else:

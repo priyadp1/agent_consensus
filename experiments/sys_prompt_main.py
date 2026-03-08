@@ -255,7 +255,7 @@ async def multi_agent(config):
 
 
 if __name__ == "__main__":
-    config_dir = "configs_3"
+    config_dir = "configs_20"
     # Collect all config files whose names end with "fam.yaml" or "fam.yml"
     config_files = sorted(
         f for f in os.listdir(config_dir)

@@ -7,7 +7,7 @@ from glob import glob
 input_files = []
 output_file = "data/jsonl/anthropic-evals/persona_combined.jsonl"
 
-for config_path in glob("data/anthropic-evals/persona/*.jsonl"):
+for config_path in glob("data/evals/persona/*.jsonl"):
     input_files.append(config_path)
 
 os.makedirs(os.path.dirname(output_file), exist_ok=True)

@@ -80,7 +80,7 @@ def run_model(prompt: str, model_name: str = DEFAULT_MODEL_NAME, system_prompt =
 
     except Exception as e:
         if "content_filter" in str(e).lower():
-            with open("azure_filtered.log", "a") as f:
+            with open("miscellaneous/azure_filtered.log", "a") as f:
                 f.write(prompt[:500] + "\n\n")
             return ""
         raise

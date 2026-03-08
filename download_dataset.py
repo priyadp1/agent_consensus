@@ -1,7 +1,8 @@
 import json
-
-from datasets import load_dataset
+from datasets import load_dataset, get_dataset_config_names
 import os
+from huggingface_hub import snapshot_download
+import glob
 
 # Check and download llm_global_opinions
 dataset_dir = "data/jsonl/GlobalOpinionsQA"
@@ -39,6 +40,7 @@ if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
 else:
     hle_ds = load_dataset(
         "cais/hle",
+        split = "test",
         cache_dir="./data"
     )
     print(hle_ds)
@@ -49,16 +51,3 @@ else:
             for item in split_data:
                 json.dump(item, f)
                 f.write("\n")
-
-# Check and download model-written-evals
-dataset_dir = "data/jsonl/model-written-evals"
-if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
-    print("Dataset already exists: model-written-evals")
-else:
-    model_evals_ds = load_dataset("Anthropic/model-written-evals",
-                                  cache_dir="./data"
-                                  )
-    print(model_evals_ds)
-    os.makedirs(dataset_dir, exist_ok=True)
-    for split, split_data in model_evals_ds.items():
-        split_data.to_json(f"{dataset_dir}/{split}.jsonl")

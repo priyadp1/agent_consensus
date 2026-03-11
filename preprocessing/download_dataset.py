@@ -36,21 +36,22 @@ else:
     for split, split_data in opinion_qa_ds.items():
         split_data.to_json(f"{dataset_dir}/{split}.jsonl")
 
+
 # Check and download hle
-#dataset_dir = "data/jsonl/hle"
-#if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
-  ###  print("Dataset already exists: hle")
-#else:
-    #hle_ds = load_dataset(
-       # "cais/hle",
-       # split = "test",
-      #  cache_dir="./data"
-  #  )
-   # print(hle_ds)
-   # os.makedirs(dataset_dir, exist_ok=True)
-   # for split, split_data in hle_ds.items():
-     #   path = f"{dataset_dir}/{split}.jsonl"
-     #   with open(path, "w") as f:
-          #  for item in split_data:
-            #    json.dump(item, f)
-            #    f.write("\n")#
+dataset_dir = "data/jsonl/hle"
+if os.path.exists(dataset_dir) and os.listdir(dataset_dir):
+    print("Dataset already exists: hle")
+else:
+    hle_ds = load_dataset(
+        "cais/hle",
+         split = "test",
+          cache_dir="./data"
+    )
+    print(hle_ds)
+    os.makedirs(dataset_dir, exist_ok=True)
+    path = f"{dataset_dir}/test.jsonl"
+    image_fields = {"image", "image_preview", "rationale_image"}
+    with open(path, "w") as f:
+        for item in hle_ds:
+            json.dump({k: v for k, v in item.items() if k not in image_fields}, f)
+            f.write("\n")

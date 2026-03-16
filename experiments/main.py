@@ -192,7 +192,7 @@ async def multi_agent(config):
                 agent_runners=agent_runners,
                 question=example["question"],
                 options=example["options"],
-                selections=example["selections"],
+                selections=example.get("selections"),
                 max_rounds=max_rounds,
                 show_agent_names=show_agent_names
             )

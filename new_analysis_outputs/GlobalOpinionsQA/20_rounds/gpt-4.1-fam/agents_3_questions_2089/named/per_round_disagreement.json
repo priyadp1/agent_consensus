@@ -1,0 +1,308 @@
+{
+  "gpt-4.1-mini vs gpt-4.1": {
+    "round_1": {
+      "disagreements": 482,
+      "total": 2085,
+      "percentage": 23.12
+    },
+    "round_2": {
+      "disagreements": 325,
+      "total": 2089,
+      "percentage": 15.56
+    },
+    "round_3": {
+      "disagreements": 284,
+      "total": 2088,
+      "percentage": 13.6
+    },
+    "round_4": {
+      "disagreements": 235,
+      "total": 2088,
+      "percentage": 11.25
+    },
+    "round_5": {
+      "disagreements": 221,
+      "total": 2088,
+      "percentage": 10.58
+    },
+    "round_6": {
+      "disagreements": 182,
+      "total": 2089,
+      "percentage": 8.71
+    },
+    "round_7": {
+      "disagreements": 187,
+      "total": 2089,
+      "percentage": 8.95
+    },
+    "round_8": {
+      "disagreements": 149,
+      "total": 2089,
+      "percentage": 7.13
+    },
+    "round_9": {
+      "disagreements": 149,
+      "total": 2088,
+      "percentage": 7.14
+    },
+    "round_10": {
+      "disagreements": 143,
+      "total": 2089,
+      "percentage": 6.85
+    },
+    "round_11": {
+      "disagreements": 144,
+      "total": 2089,
+      "percentage": 6.89
+    },
+    "round_12": {
+      "disagreements": 152,
+      "total": 2089,
+      "percentage": 7.28
+    },
+    "round_13": {
+      "disagreements": 144,
+      "total": 2089,
+      "percentage": 6.89
+    },
+    "round_14": {
+      "disagreements": 150,
+      "total": 2088,
+      "percentage": 7.18
+    },
+    "round_15": {
+      "disagreements": 149,
+      "total": 2089,
+      "percentage": 7.13
+    },
+    "round_16": {
+      "disagreements": 138,
+      "total": 2088,
+      "percentage": 6.61
+    },
+    "round_17": {
+      "disagreements": 158,
+      "total": 2088,
+      "percentage": 7.57
+    },
+    "round_18": {
+      "disagreements": 141,
+      "total": 2088,
+      "percentage": 6.75
+    },
+    "round_19": {
+      "disagreements": 135,
+      "total": 2089,
+      "percentage": 6.46
+    },
+    "round_20": {
+      "disagreements": 129,
+      "total": 2089,
+      "percentage": 6.18
+    }
+  },
+  "gpt-4.1-nano vs gpt-4.1": {
+    "round_1": {
+      "disagreements": 641,
+      "total": 2085,
+      "percentage": 30.74
+    },
+    "round_2": {
+      "disagreements": 339,
+      "total": 2081,
+      "percentage": 16.29
+    },
+    "round_3": {
+      "disagreements": 263,
+      "total": 2085,
+      "percentage": 12.61
+    },
+    "round_4": {
+      "disagreements": 234,
+      "total": 2084,
+      "percentage": 11.23
+    },
+    "round_5": {
+      "disagreements": 226,
+      "total": 2079,
+      "percentage": 10.87
+    },
+    "round_6": {
+      "disagreements": 200,
+      "total": 2081,
+      "percentage": 9.61
+    },
+    "round_7": {
+      "disagreements": 184,
+      "total": 2084,
+      "percentage": 8.83
+    },
+    "round_8": {
+      "disagreements": 181,
+      "total": 2083,
+      "percentage": 8.69
+    },
+    "round_9": {
+      "disagreements": 172,
+      "total": 2084,
+      "percentage": 8.25
+    },
+    "round_10": {
+      "disagreements": 171,
+      "total": 2083,
+      "percentage": 8.21
+    },
+    "round_11": {
+      "disagreements": 157,
+      "total": 2084,
+      "percentage": 7.53
+    },
+    "round_12": {
+      "disagreements": 156,
+      "total": 2083,
+      "percentage": 7.49
+    },
+    "round_13": {
+      "disagreements": 162,
+      "total": 2084,
+      "percentage": 7.77
+    },
+    "round_14": {
+      "disagreements": 164,
+      "total": 2082,
+      "percentage": 7.88
+    },
+    "round_15": {
+      "disagreements": 163,
+      "total": 2087,
+      "percentage": 7.81
+    },
+    "round_16": {
+      "disagreements": 158,
+      "total": 2084,
+      "percentage": 7.58
+    },
+    "round_17": {
+      "disagreements": 152,
+      "total": 2081,
+      "percentage": 7.3
+    },
+    "round_18": {
+      "disagreements": 171,
+      "total": 2083,
+      "percentage": 8.21
+    },
+    "round_19": {
+      "disagreements": 166,
+      "total": 2082,
+      "percentage": 7.97
+    },
+    "round_20": {
+      "disagreements": 121,
+      "total": 2085,
+      "percentage": 5.8
+    }
+  },
+  "gpt-4.1-nano vs gpt-4.1-mini": {
+    "round_1": {
+      "disagreements": 566,
+      "total": 2083,
+      "percentage": 27.17
+    },
+    "round_2": {
+      "disagreements": 301,
+      "total": 2081,
+      "percentage": 14.46
+    },
+    "round_3": {
+      "disagreements": 271,
+      "total": 2084,
+      "percentage": 13.0
+    },
+    "round_4": {
+      "disagreements": 251,
+      "total": 2083,
+      "percentage": 12.05
+    },
+    "round_5": {
+      "disagreements": 209,
+      "total": 2079,
+      "percentage": 10.05
+    },
+    "round_6": {
+      "disagreements": 213,
+      "total": 2081,
+      "percentage": 10.24
+    },
+    "round_7": {
+      "disagreements": 182,
+      "total": 2084,
+      "percentage": 8.73
+    },
+    "round_8": {
+      "disagreements": 182,
+      "total": 2083,
+      "percentage": 8.74
+    },
+    "round_9": {
+      "disagreements": 181,
+      "total": 2083,
+      "percentage": 8.69
+    },
+    "round_10": {
+      "disagreements": 161,
+      "total": 2083,
+      "percentage": 7.73
+    },
+    "round_11": {
+      "disagreements": 170,
+      "total": 2084,
+      "percentage": 8.16
+    },
+    "round_12": {
+      "disagreements": 172,
+      "total": 2083,
+      "percentage": 8.26
+    },
+    "round_13": {
+      "disagreements": 156,
+      "total": 2084,
+      "percentage": 7.49
+    },
+    "round_14": {
+      "disagreements": 163,
+      "total": 2081,
+      "percentage": 7.83
+    },
+    "round_15": {
+      "disagreements": 167,
+      "total": 2087,
+      "percentage": 8.0
+    },
+    "round_16": {
+      "disagreements": 165,
+      "total": 2083,
+      "percentage": 7.92
+    },
+    "round_17": {
+      "disagreements": 156,
+      "total": 2080,
+      "percentage": 7.5
+    },
+    "round_18": {
+      "disagreements": 183,
+      "total": 2082,
+      "percentage": 8.79
+    },
+    "round_19": {
+      "disagreements": 172,
+      "total": 2082,
+      "percentage": 8.26
+    },
+    "round_20": {
+      "disagreements": 151,
+      "total": 2085,
+      "percentage": 7.24
+    }
+  }
+}

@@ -2,7 +2,7 @@ import json
 import os
 from collections import defaultdict
 
-RESULTS_DIR = "results/HLE/20_rounds/gpt-4.1-fam/agents_3_questions_2089/named"
+RESULTS_DIR = "results/HLE/20_rounds/gpt-4.1-fam/agents_3_questions_591/named"
 DATA_PATH = "data/jsonl/hle/test_processed.jsonl"
 MODEL_ORDER = {
     "gpt-4.1-nano": 0,
@@ -132,11 +132,13 @@ def compute_deference_accuracy(data, ground_truth, num_rounds):
       correct -> wrong : model with correct answer in R1 switched to wrong answer
       wrong -> correct : model with wrong answer in R1 switched to correct answer
     """
-    initial = defaultdict(int)  # how many R1 disagreements per pair
-    s2l     = defaultdict(int)  # small deferred to large
-    l2s     = defaultdict(int)  # large deferred to small
-    c2w    = defaultdict(int)  # correct answer to wrong answer
-    w2c    = defaultdict(int)  # wrong answer to correct answer
+    initial     = defaultdict(int)  # how many R1 disagreements per pair
+    s2l         = defaultdict(int)  # small deferred to large
+    l2s         = defaultdict(int)  # large deferred to small
+    s2l_w2c     = defaultdict(int)  # small deferred to large, large was correct (wrong->correct)
+    s2l_c2w     = defaultdict(int)  # small deferred to large, small was correct (correct->wrong)
+    l2s_w2c     = defaultdict(int)  # large deferred to small, small was correct (wrong->correct)
+    l2s_c2w     = defaultdict(int)  # large deferred to small, large was correct (correct->wrong)
 
 
     for item in data:
@@ -181,15 +183,19 @@ def compute_deference_accuracy(data, ground_truth, num_rounds):
                     if cur_small == a_large:
                         s2l[key] += 1
                         if a_large == correct_answer:
-                            w2c[key] += 1
+                            s2l_w2c[key] += 1
                         elif a_small == correct_answer:
-                            c2w[key] += 1
+                            s2l_c2w[key] += 1
                         break
                     if cur_large == a_small:
                         l2s[key] += 1
+                        if a_small == correct_answer:
+                            l2s_w2c[key] += 1
+                        elif a_large == correct_answer:
+                            l2s_c2w[key] += 1
                         break
 
-    return initial, w2c, c2w
+    return initial, s2l, l2s, s2l_w2c, s2l_c2w, l2s_w2c, l2s_c2w
 
 
 
@@ -224,12 +230,17 @@ if __name__ == "__main__":
             print(f"  Round {i+1}: {correct}/{total} ({pct:.1f}%)")
 
     # ── Deference accuracy ─────────────────────────────────────────────────────
-    initial, w2c, c2w = compute_deference_accuracy(data, ground_truth, num_rounds)
+    initial, s2l, l2s, s2l_w2c, s2l_c2w, l2s_w2c, l2s_c2w = compute_deference_accuracy(data, ground_truth, num_rounds)
 
     print("\n=== Deference Accuracy ===")
     for key in sorted(initial.keys()):
         total = initial[key]
         print(f"{key}  (R1 disagreements: {total})")
         if total:
-            print(f"  wrong -> correct : {w2c[key]}/{total} ({w2c[key]/total*100:.1f}%)")
-            print(f"  correct -> wrong : {c2w[key]}/{total} ({c2w[key]/total*100:.1f}%)")
+            s = s2l[key]; l = l2s[key]
+            print(f"  small -> large   : {s}/{total} ({s/total*100:.1f}%)")
+            print(f"    wrong -> correct : {s2l_w2c[key]}/{s} ({s2l_w2c[key]/s*100:.1f}%)" if s else f"    wrong -> correct : 0/0")
+            print(f"    correct -> wrong : {s2l_c2w[key]}/{s} ({s2l_c2w[key]/s*100:.1f}%)" if s else f"    correct -> wrong : 0/0")
+            print(f"  large -> small   : {l}/{total} ({l/total*100:.1f}%)")
+            print(f"    wrong -> correct : {l2s_w2c[key]}/{l} ({l2s_w2c[key]/l*100:.1f}%)" if l else f"    wrong -> correct : 0/0")
+            print(f"    correct -> wrong : {l2s_c2w[key]}/{l} ({l2s_c2w[key]/l*100:.1f}%)" if l else f"    correct -> wrong : 0/0")

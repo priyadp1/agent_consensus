@@ -83,12 +83,20 @@ Each config file targets a specific dataset + model family combination (e.g. `hl
 | Script | Description |
 |--------|-------------|
 | `python Analysis_files/HLE_accuracy.py` | Walks all `results/HLE/` subdirectories and computes three metrics per directory (see below). Saves JSON outputs to `new_analysis_outputs/HLE/`. |
-| `python Analysis_files/HLE_accuracy_plot.py` | Reads `hle_accuracy.json` from `new_analysis_outputs/HLE/` and saves accuracy-across-rounds plots to `new_figures/HLE/`. |
+| `python Analysis_files/HLE_accuracy_plot.py` | Reads from `new_analysis_outputs/HLE/` and saves three plots per directory to `new_figures/HLE/` (see below). |
 
-`HLE_accuracy.py` computes the following metrics and saves them alongside each other:
+`HLE_accuracy.py` computes the following metrics and saves them per directory:
 
 | Output file | Metric |
 |-------------|--------|
 | `hle_accuracy.json` | Per-round accuracy — a question is correct only if **all** models answered correctly |
 | `hle_pairwise_accuracy.json` | Per model pair, per round — questions where **both** models in the pair answered correctly |
-| `hle_deference_accuracy.json` | Among R1 disagreements, how often the deferring model switched from wrong→correct (`w2c`) vs correct→wrong (`c2w`) |
+| `hle_deference_accuracy.json` | Among R1 disagreements, tracks direction of deference (`s2l`, `l2s`) and accuracy outcomes (`wrong→correct`, `correct→wrong`) broken down separately for each branch |
+
+`HLE_accuracy_plot.py` generates the following plots per directory:
+
+| Output file | Plot |
+|-------------|------|
+| `rounds_accuracy.png` | Accuracy across deliberation rounds |
+| `deference_direction.png` | Grouped bars showing Small→Large vs Large→Small deference rates per model pair |
+| `deference_accuracy_outcomes.png` | Four bars per pair showing `wrong→correct` and `correct→wrong` rates for both `s2l` and `l2s` branches |

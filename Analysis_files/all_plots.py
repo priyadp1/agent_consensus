@@ -35,7 +35,7 @@ def find_dirs_with(root, filename):
 
 # ── Plot functions ────────────────────────────────────────────────────────────
 
-def plot_directional_bars(data, title, out_path):
+def plot_deference(data, title, out_path):
     labels = list(data.keys())
     small_to_large = [data[k]["small_to_large_pct"] for k in labels]
     large_to_small = [data[k]["large_to_small_pct"] for k in labels]
@@ -100,7 +100,7 @@ if __name__ == "__main__":
             print("  [SKIP] Empty directional data.\n")
             continue
 
-        plot_directional_bars(
+        plot_deference(
             data,
             f"Direction of Disagreement ({label})",
             os.path.join(fig_dir, "directional_bars.png"),

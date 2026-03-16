@@ -2,7 +2,7 @@ import json
 import os
 from collections import defaultdict
 
-RESULTS_DIR = "results/GlobalOpinionsQA/20_rounds/gpt-4.1-fam/agents_3_questions_2089/named"
+RESULTS_DIR = "results/HLE/20_rounds/gpt-4.1-fam/agents_3_questions_591/named"
 MODEL_ORDER = {
     "gpt-4.1-nano": 0,
     "gpt-4.1-mini": 1,

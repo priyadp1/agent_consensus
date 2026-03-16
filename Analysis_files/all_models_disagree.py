@@ -128,17 +128,34 @@ def compute_metrics(results_dir, output_dir):
 
 # ── Pair-level disagreement ───────────────────────────────────────────────────
 
+def build_model_to_label(agent_models):
+    return {model: label for label, model in agent_models.items()}
+
+
+def round_key_for_model(round_data, model, model_to_label):
+    if model in round_data:
+        return model
+    label = model_to_label.get(model)
+    if label and label in round_data:
+        return label
+    return model
+
+
 def pair_disagree(data):
     counts = defaultdict(lambda: defaultdict(lambda: {"disagreements": 0, "total": 0}))
     for item in data:
         rounds = item["rounds"]
-        models = list(item["agent_models"].values())
+        agent_models = item.get("agent_models", {})
+        model_to_label = build_model_to_label(agent_models)
+        models = list(agent_models.values())
         for r_idx, r in enumerate(rounds):
             for i, m1 in enumerate(models):
                 for m2 in models[i + 1:]:
                     key = f"{m1} vs {m2}"
-                    a1 = get_answer(r, m1)
-                    a2 = get_answer(r, m2)
+                    k1 = round_key_for_model(r, m1, model_to_label)
+                    k2 = round_key_for_model(r, m2, model_to_label)
+                    a1 = get_answer(r, k1)
+                    a2 = get_answer(r, k2)
                     if a1 == "INVALID" or a2 == "INVALID":
                         continue
                     counts[key][r_idx]["total"] += 1
@@ -173,7 +190,9 @@ def analyze_conditioned(original_data, comparison_data):
     l2s = defaultdict(int)
 
     for orig, comp in zip(original_data, comparison_data):
-        models = list(orig["agent_models"].values())
+        agent_models = orig.get("agent_models", {})
+        model_to_label = build_model_to_label(agent_models)
+        models = list(agent_models.values())
         r1_orig = orig["rounds"][0]
         r_rest = comp["rounds"][1:]
 
@@ -184,8 +203,10 @@ def analyze_conditioned(original_data, comparison_data):
                 if MODEL_ORDER.get(m_small, -1) >= MODEL_ORDER.get(m_large, -1):
                     continue
 
-                a1 = get_answer(r1_orig, m_small)
-                b1 = get_answer(r1_orig, m_large)
+                k_small = round_key_for_model(r1_orig, m_small, model_to_label)
+                k_large = round_key_for_model(r1_orig, m_large, model_to_label)
+                a1 = get_answer(r1_orig, k_small)
+                b1 = get_answer(r1_orig, k_large)
 
                 if a1 == "INVALID" or b1 == "INVALID" or a1 == b1:
                     continue
@@ -194,10 +215,12 @@ def analyze_conditioned(original_data, comparison_data):
                 initial[key] += 1
 
                 for r in r_rest:
-                    if get_answer(r, m_small) == b1:
+                    rk_small = round_key_for_model(r, m_small, model_to_label)
+                    rk_large = round_key_for_model(r, m_large, model_to_label)
+                    if get_answer(r, rk_small) == b1:
                         s2l[key] += 1
                         break
-                    if get_answer(r, m_large) == a1:
+                    if get_answer(r, rk_large) == a1:
                         l2s[key] += 1
                         break
 

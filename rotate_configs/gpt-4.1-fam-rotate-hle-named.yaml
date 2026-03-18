@@ -1,9 +1,9 @@
 experiment:
   name: gpt-4.1-fam
-  results_root: results/GlobalOpinionsQA/gpt-4.1-family/agents_3_questions_2089
+  results_root: results/HLE/20_rounds/gpt-4.1-fam/named
 
 data:
-  path: data/jsonl/GlobalOpinionsQA/train.jsonl
+  path: data/jsonl/hle/test_processed.jsonl
 
 agents:
   Agent 1: gpt-4.1-nano

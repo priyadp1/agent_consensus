@@ -1,0 +1,308 @@
+{
+  "gpt-4.1-mini vs gpt-4.1": {
+    "round_1": {
+      "correct": 26,
+      "total": 309,
+      "accuracy_pct": 8.4
+    },
+    "round_2": {
+      "correct": 31,
+      "total": 317,
+      "accuracy_pct": 9.8
+    },
+    "round_3": {
+      "correct": 31,
+      "total": 318,
+      "accuracy_pct": 9.7
+    },
+    "round_4": {
+      "correct": 35,
+      "total": 319,
+      "accuracy_pct": 11.0
+    },
+    "round_5": {
+      "correct": 37,
+      "total": 318,
+      "accuracy_pct": 11.6
+    },
+    "round_6": {
+      "correct": 36,
+      "total": 318,
+      "accuracy_pct": 11.3
+    },
+    "round_7": {
+      "correct": 37,
+      "total": 318,
+      "accuracy_pct": 11.6
+    },
+    "round_8": {
+      "correct": 38,
+      "total": 318,
+      "accuracy_pct": 11.9
+    },
+    "round_9": {
+      "correct": 39,
+      "total": 317,
+      "accuracy_pct": 12.3
+    },
+    "round_10": {
+      "correct": 37,
+      "total": 317,
+      "accuracy_pct": 11.7
+    },
+    "round_11": {
+      "correct": 40,
+      "total": 318,
+      "accuracy_pct": 12.6
+    },
+    "round_12": {
+      "correct": 42,
+      "total": 318,
+      "accuracy_pct": 13.2
+    },
+    "round_13": {
+      "correct": 42,
+      "total": 319,
+      "accuracy_pct": 13.2
+    },
+    "round_14": {
+      "correct": 42,
+      "total": 317,
+      "accuracy_pct": 13.2
+    },
+    "round_15": {
+      "correct": 40,
+      "total": 317,
+      "accuracy_pct": 12.6
+    },
+    "round_16": {
+      "correct": 40,
+      "total": 319,
+      "accuracy_pct": 12.5
+    },
+    "round_17": {
+      "correct": 40,
+      "total": 318,
+      "accuracy_pct": 12.6
+    },
+    "round_18": {
+      "correct": 38,
+      "total": 318,
+      "accuracy_pct": 11.9
+    },
+    "round_19": {
+      "correct": 40,
+      "total": 319,
+      "accuracy_pct": 12.5
+    },
+    "round_20": {
+      "correct": 41,
+      "total": 318,
+      "accuracy_pct": 12.9
+    }
+  },
+  "gpt-4.1-nano vs gpt-4.1": {
+    "round_1": {
+      "correct": 21,
+      "total": 307,
+      "accuracy_pct": 6.8
+    },
+    "round_2": {
+      "correct": 32,
+      "total": 314,
+      "accuracy_pct": 10.2
+    },
+    "round_3": {
+      "correct": 33,
+      "total": 316,
+      "accuracy_pct": 10.4
+    },
+    "round_4": {
+      "correct": 34,
+      "total": 314,
+      "accuracy_pct": 10.8
+    },
+    "round_5": {
+      "correct": 37,
+      "total": 316,
+      "accuracy_pct": 11.7
+    },
+    "round_6": {
+      "correct": 37,
+      "total": 316,
+      "accuracy_pct": 11.7
+    },
+    "round_7": {
+      "correct": 37,
+      "total": 316,
+      "accuracy_pct": 11.7
+    },
+    "round_8": {
+      "correct": 38,
+      "total": 316,
+      "accuracy_pct": 12.0
+    },
+    "round_9": {
+      "correct": 39,
+      "total": 318,
+      "accuracy_pct": 12.3
+    },
+    "round_10": {
+      "correct": 40,
+      "total": 317,
+      "accuracy_pct": 12.6
+    },
+    "round_11": {
+      "correct": 39,
+      "total": 316,
+      "accuracy_pct": 12.3
+    },
+    "round_12": {
+      "correct": 42,
+      "total": 319,
+      "accuracy_pct": 13.2
+    },
+    "round_13": {
+      "correct": 42,
+      "total": 317,
+      "accuracy_pct": 13.2
+    },
+    "round_14": {
+      "correct": 42,
+      "total": 317,
+      "accuracy_pct": 13.2
+    },
+    "round_15": {
+      "correct": 40,
+      "total": 315,
+      "accuracy_pct": 12.7
+    },
+    "round_16": {
+      "correct": 39,
+      "total": 318,
+      "accuracy_pct": 12.3
+    },
+    "round_17": {
+      "correct": 40,
+      "total": 317,
+      "accuracy_pct": 12.6
+    },
+    "round_18": {
+      "correct": 41,
+      "total": 318,
+      "accuracy_pct": 12.9
+    },
+    "round_19": {
+      "correct": 38,
+      "total": 319,
+      "accuracy_pct": 11.9
+    },
+    "round_20": {
+      "correct": 43,
+      "total": 319,
+      "accuracy_pct": 13.5
+    }
+  },
+  "gpt-4.1-nano vs gpt-4.1-mini": {
+    "round_1": {
+      "correct": 17,
+      "total": 302,
+      "accuracy_pct": 5.6
+    },
+    "round_2": {
+      "correct": 36,
+      "total": 314,
+      "accuracy_pct": 11.5
+    },
+    "round_3": {
+      "correct": 33,
+      "total": 317,
+      "accuracy_pct": 10.4
+    },
+    "round_4": {
+      "correct": 37,
+      "total": 314,
+      "accuracy_pct": 11.8
+    },
+    "round_5": {
+      "correct": 38,
+      "total": 315,
+      "accuracy_pct": 12.1
+    },
+    "round_6": {
+      "correct": 38,
+      "total": 315,
+      "accuracy_pct": 12.1
+    },
+    "round_7": {
+      "correct": 39,
+      "total": 315,
+      "accuracy_pct": 12.4
+    },
+    "round_8": {
+      "correct": 41,
+      "total": 317,
+      "accuracy_pct": 12.9
+    },
+    "round_9": {
+      "correct": 40,
+      "total": 318,
+      "accuracy_pct": 12.6
+    },
+    "round_10": {
+      "correct": 38,
+      "total": 315,
+      "accuracy_pct": 12.1
+    },
+    "round_11": {
+      "correct": 40,
+      "total": 315,
+      "accuracy_pct": 12.7
+    },
+    "round_12": {
+      "correct": 41,
+      "total": 318,
+      "accuracy_pct": 12.9
+    },
+    "round_13": {
+      "correct": 43,
+      "total": 317,
+      "accuracy_pct": 13.6
+    },
+    "round_14": {
+      "correct": 41,
+      "total": 317,
+      "accuracy_pct": 12.9
+    },
+    "round_15": {
+      "correct": 42,
+      "total": 313,
+      "accuracy_pct": 13.4
+    },
+    "round_16": {
+      "correct": 38,
+      "total": 318,
+      "accuracy_pct": 11.9
+    },
+    "round_17": {
+      "correct": 42,
+      "total": 316,
+      "accuracy_pct": 13.3
+    },
+    "round_18": {
+      "correct": 39,
+      "total": 317,
+      "accuracy_pct": 12.3
+    },
+    "round_19": {
+      "correct": 40,
+      "total": 319,
+      "accuracy_pct": 12.5
+    },
+    "round_20": {
+      "correct": 41,
+      "total": 318,
+      "accuracy_pct": 12.9
+    }
+  }
+}

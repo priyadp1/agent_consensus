@@ -2,7 +2,7 @@ import json
 import os
 from collections import defaultdict
 
-RESULTS_DIR = "results/HLE/20_rounds/gpt-4.1-fam/agents_3_questions_591/named"
+RESULTS_DIR = "results/HLE/20_rounds/gpt-4.1-fam/agents_3_questions_591/anonymous"
 DATA_PATH = "data/jsonl/hle/test_processed.jsonl"
 MODEL_ORDER = {
     "gpt-4.1-nano": 0,

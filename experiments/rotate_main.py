@@ -11,23 +11,22 @@ from agents.multiagent import agent_talk
 from main import load_config, get_completed, parse_answer
 
 
-def rank_models(config_path):
-    # Return (biggest, middle, smallest) model names for a given config.
-    if config_path == "configs/gpt-4.1-fam-rotate.yaml":
-        biggest = "gpt-4.1"
-        middle = "gpt-4.1-mini"
-        smallest = "gpt-4.1-nano"
-    elif config_path == "configs/llama-fam-rotate.yaml":
-        biggest = "Meta-Llama-3.1-405B-Instruct"
-        middle = "Llama-3.3-70B-Instruct"
-        smallest = "Meta-Llama-3.1-8B-Instruct"
-    elif config_path == "configs/random_models-rotate.yaml":
-        biggest = "grok-3"
-        middle = "DeepSeek-R1"
-        smallest = "Llama-3.3-70B-Instruct"
+def rank_models(agent_to_model):
+    # Return (biggest, middle, smallest) model names by detecting the model family.
+    models = set(agent_to_model.values())
+
+    gpt41_family = {"gpt-4.1", "gpt-4.1-mini", "gpt-4.1-nano"}
+    llama_family = {"Meta-Llama-3.1-405B-Instruct", "Llama-3.3-70B-Instruct", "Meta-Llama-3.1-8B-Instruct"}
+    random_family = {"grok-3", "DeepSeek-R1", "Llama-3.3-70B-Instruct"}
+
+    if models == gpt41_family:
+        return "gpt-4.1", "gpt-4.1-mini", "gpt-4.1-nano"
+    elif models == llama_family:
+        return "Meta-Llama-3.1-405B-Instruct", "Llama-3.3-70B-Instruct", "Meta-Llama-3.1-8B-Instruct"
+    elif models == random_family:
+        return "grok-3", "DeepSeek-R1", "Llama-3.3-70B-Instruct"
     else:
-        raise ValueError(f"Unknown config path: {config_path}")
-    return biggest, middle, smallest
+        raise ValueError(f"Unknown model family: {models}")
 
 
 def rotate_R1_answers(R1, biggest_key, middle_key, smallest_key, num_options):
@@ -88,7 +87,7 @@ async def run_rotated_experiment(config_path, results_root):
     config = load_config(config_path)
     agent_to_model = config["agents"]  # {"agent_1": "gpt-4.1", ...}
 
-    biggest_model, middle_model, smallest_model = rank_models(config_path)
+    biggest_model, middle_model, smallest_model = rank_models(agent_to_model)
     model_to_agent = {v: k for k, v in agent_to_model.items()}
 
     for use_agent_labels in [False, True]:
@@ -182,7 +181,7 @@ async def run_rotated_experiment(config_path, results_root):
 
 
 if __name__ == "__main__":
-    config_dir = "configs"
+    config_dir = "rotate_configs"
     config_files = sorted(
         f for f in os.listdir(config_dir)
         if f.endswith(".yaml") or f.endswith(".yml")
@@ -192,9 +191,6 @@ if __name__ == "__main__":
         raise RuntimeError("No config files found in configs/")
 
     for cfg in config_files:
-        if "rotate" not in cfg:
-            continue
-
         config_path = os.path.join(config_dir, cfg)
         config = load_config(config_path)
         results_root = config["experiment"]["results_root"]

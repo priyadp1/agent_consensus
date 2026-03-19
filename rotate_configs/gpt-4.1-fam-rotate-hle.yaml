@@ -1,6 +1,6 @@
 experiment:
   name: gpt-4.1-fam
-  results_root: results/HLE/20_rounds/gpt-4.1-fam/named
+  results_root: results/HLE/20_rounds/gpt-4.1-fam/agents_3_questions_591
 
 data:
   path: data/jsonl/hle/test_processed.jsonl
@@ -12,4 +12,4 @@ agents:
 
 defaults:
   limit: 2556
-  max_rounds: 3
+  max_rounds: 20

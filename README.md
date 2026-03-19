@@ -63,11 +63,11 @@ All scripts should be run from the project root.
 | `python experiments/main.py` | `baseline_configs_20/` | Baseline multi-agent experiments — runs **named** and **anonymous** variants across GlobalOpinionsQA, OpinionsQA, and persona datasets |
 | `python experiments/sys_prompt_main.py` | `sys_prompt_configs_20/` | System prompt ablations — runs `critical_independent` and `adversarial` conditions, each with named and anonymous variants |
 | `python experiments/sys_prompt_no_revise.py` | `sys_prompt_configs_no_revise_20/` | Same as above but agents do not revise answers between rounds |
-| `python experiments/change_answer_all.py` | `rotate_configs/` | Rotated experiments — cyclically swaps round-1 answers between agents to test position/order effects |
+| `python experiments/rotate_main.py` | `rotate_configs/` | Rotated experiments — cyclically swaps round-1 answers between agents to test position/order effects |
 
 Each config file targets a specific dataset + model family combination (e.g. `hle-gpt-4.1-fam.yaml`). Results are saved under `results/` in subdirectories organized by dataset and config.
 
-**Supported datasets:** GlobalOpinionsQA, OpinionsQA, anthropic-persona, HLE
+**Supported datasets:** GlobalOpinionsQA, OpinionsQA, anthropic-persona, Humanity's Last Exam (HLE)
 
 ## Analyzing Results
 

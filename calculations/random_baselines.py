@@ -31,15 +31,27 @@ def calculate_true_disagreement_baseline(options_counts):
     true_disagreement_baseline = sum_baseline / length
     return true_disagreement_baseline
 
+def calculate_true_accuracy_baseline(options_counts):
+    models = 3
+    sum_baseline = 0
+    length = len(options_counts)
+    for i in range(length):
+        random_baseline = 1 / math.pow(options_counts[i], models - 1)
+        sum_baseline = sum_baseline + random_baseline
+    true_accuracy_baseline = sum_baseline / length
+    return true_accuracy_baseline
+
 
 if __name__ == "__main__":
-    results_dir = "results/GlobalOpinionsQA/agent_names/gpt-4.1-fam/agents_3_questions_2556/adversarial/named"
+    results_dir = "results/HLE/20_rounds/gpt-4.1-fam/agents_3_questions_591/named"
     option_counts = count_options(results_dir)
     pairwise_baseline = calculate_pairwise_baseline(list(option_counts.values()))
     true_disagreement_baseline = calculate_true_disagreement_baseline(list(option_counts.values()))
+    true_accuracy_baseline = calculate_true_accuracy_baseline(list(option_counts.values()))
     length = len(option_counts)
     options_counts = list(option_counts.values())
     print(f"Total questions: {length}")
     print(f"Option Counts: {options_counts}")
     print(f"Pairwise Baseline: {pairwise_baseline:.4f}")
     print(f"True Disagreement Baseline: {true_disagreement_baseline:.4f}")
+    print(f"True Accuracy Baseline: {true_accuracy_baseline:.4f}")

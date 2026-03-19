@@ -1,9 +1,10 @@
 experiment:
   name: gpt-4.1-fam
-  results_root: results/HLE/20_rounds/gpt-4.1-fam/without_revise
+  results_root: results/HLE/20_rounds/gpt-4.1-fam/without_revise/agents_3_questions_591
 
 data:
   path: data/jsonl/hle/test_processed.jsonl
+  options_key: options
 
 agents:
   Agent 1: gpt-4.1-nano

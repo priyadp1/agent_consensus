@@ -4,6 +4,7 @@ experiment:
 
 data:
   path: data/jsonl/hle/test_processed.jsonl
+  options_key: options
 
 agents:
   Agent 1: gpt-4.1-nano

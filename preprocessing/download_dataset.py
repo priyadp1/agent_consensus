@@ -45,7 +45,8 @@ else:
     hle_ds = load_dataset(
         "cais/hle",
          split = "test",
-          cache_dir="./data"
+          cache_dir="./data",
+          token = os.getenv("HF_TOKEN") # Make sure to set your Hugging Face token in the environment variable HF_TOKEN before running this code
     )
     print(hle_ds)
     os.makedirs(dataset_dir, exist_ok=True)

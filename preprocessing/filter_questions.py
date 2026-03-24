@@ -12,11 +12,15 @@ def valid_question(example, key="options"):
     if isinstance(options, str):
         try:
             options = ast.literal_eval(options)
-            example[key] = options
         except Exception:
             return False
 
     if not isinstance(options, list):
         return False
 
-    return 2 <= len(options) <= 5
+    if not (2 <= len(options) <= 5):
+        return False
+
+    # Normalize to "options" so the rest of the pipeline can always use example["options"]
+    example["options"] = options
+    return True

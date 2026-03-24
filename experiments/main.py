@@ -99,6 +99,7 @@ def parse_answer(text, num_options):
 def single_agent(config):
     # Run a single-agent experiment: one model answers each question independently
     data_path = config["data"]["path"]
+    options_key = config["data"].get("options_key", "options")
     limit = config["defaults"]["limit"]
     results_root = config["experiment"]["results_root"]
 
@@ -109,7 +110,7 @@ def single_agent(config):
     used = 0
 
     for example in stream_jsonL(data_path):
-        if not valid_question(example):
+        if not valid_question(example, key=options_key):
             continue
 
         # Skip questions already processed in a previous run
@@ -150,6 +151,7 @@ async def multi_agent(config):
     # both can coexist without any manual config changes.
     agent_models = config["agents"]
     data_path = config["data"]["path"]
+    options_key = config["data"].get("options_key", "options")
     limit = config["defaults"]["limit"]
     max_rounds = config["defaults"]["max_rounds"]
     results_root = config["experiment"]["results_root"]
@@ -177,7 +179,7 @@ async def multi_agent(config):
         print(f"\n  [{variant.upper()}] Starting variant...")
 
         for example in stream_jsonL(data_path):
-            if not valid_question(example):
+            if not valid_question(example, key=options_key):
                 continue
 
             # Skip questions already processed in a previous run of this variant

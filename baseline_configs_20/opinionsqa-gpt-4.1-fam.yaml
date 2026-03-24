@@ -4,7 +4,7 @@ experiment:
 
 data:
   path: data/jsonl/OpinionsQA/combined.jsonl
-  options_key: options
+  options_key: perspectives
 
 agents:
   Agent 1: gpt-4.1-nano

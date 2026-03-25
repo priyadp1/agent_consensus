@@ -1,0 +1,23 @@
+{
+  "gpt-4.1-mini -> gpt-4.1": {
+    "initial_disagreements": 103,
+    "small_to_large": 78,
+    "large_to_small": 25,
+    "small_to_large_pct": 75.73,
+    "large_to_small_pct": 24.27
+  },
+  "gpt-4.1-nano -> gpt-4.1": {
+    "initial_disagreements": 175,
+    "small_to_large": 134,
+    "large_to_small": 41,
+    "small_to_large_pct": 76.57,
+    "large_to_small_pct": 23.43
+  },
+  "gpt-4.1-nano -> gpt-4.1-mini": {
+    "initial_disagreements": 150,
+    "small_to_large": 129,
+    "large_to_small": 21,
+    "small_to_large_pct": 86.0,
+    "large_to_small_pct": 14.0
+  }
+}

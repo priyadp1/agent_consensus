@@ -81,6 +81,54 @@ def plot_rounds_disagreement(output_dir, title, out_path):
     print(f"  [rounds]            -> {out_path}")
 
 
+def load_disagreement_values(output_dir):
+    """Return (rounds list, percentages list) from interagent_disagree.json in output_dir."""
+    data = load_json(os.path.join(output_dir, "interagent_disagree.json"))
+    rounds_data = data["rounds"]
+    sorted_keys = sorted(rounds_data.keys(), key=lambda k: int(k.split("_")[1]))
+    values = [rounds_data[k]["disagreement_percentage"] for k in sorted_keys]
+    return list(range(1, len(values) + 1)), values
+
+
+def find_combined_parents(root):
+    """Yield parent dirs that have both named/ and anonymous/ with interagent_disagree.json."""
+    seen = set()
+    for dirpath, dirnames, filenames in os.walk(root):
+        if "interagent_disagree.json" in filenames:
+            parent = os.path.dirname(dirpath)
+            if parent in seen:
+                continue
+            named_metrics = os.path.join(parent, "named", "interagent_disagree.json")
+            anon_metrics = os.path.join(parent, "anonymous", "interagent_disagree.json")
+            if os.path.exists(named_metrics) and os.path.exists(anon_metrics):
+                seen.add(parent)
+                yield parent
+
+
+def plot_combined_variants(parent_output_dir, title, out_path):
+    named_dir = os.path.join(parent_output_dir, "named")
+    anon_dir = os.path.join(parent_output_dir, "anonymous")
+
+    rounds_n, values_n = load_disagreement_values(named_dir)
+    rounds_a, values_a = load_disagreement_values(anon_dir)
+
+    plt.figure(figsize=(12, 5))
+    plt.plot(rounds_n, values_n, marker="o", label="Named")
+    plt.plot(rounds_a, values_a, marker="s", linestyle="--", label="Anonymous")
+    plt.xticks(rounds_n)
+    plt.xlabel("Deliberation Round")
+    plt.ylabel("Questions with >= 1 Disagreement (%)")
+    plt.title(title)
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    plt.savefig(out_path, dpi=300)
+    plt.close()
+    print(f"  [combined rounds]   -> {out_path}")
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
@@ -117,4 +165,18 @@ if __name__ == "__main__":
             os.path.join(fig_dir, "rounds_disagreement.png"),
         )
 
-    print(f"All figures saved under '{FIGURES_ROOT}/'.")
+    combined_parents = sorted(find_combined_parents(OUTPUT_ROOT))
+    print(f"\nFound {len(combined_parents)} experiment(s) with both named and anonymous variants.\n")
+
+    for parent_output_dir in combined_parents:
+        label = dir_label(parent_output_dir)
+        fig_dir = output_to_figures(parent_output_dir)
+        print(f"Plotting combined: {parent_output_dir}")
+
+        plot_combined_variants(
+            parent_output_dir,
+            f"Disagreement Across Rounds — Named vs Anonymous ({label})",
+            os.path.join(fig_dir, "rounds_disagreement_combined.png"),
+        )
+
+    print(f"\nAll figures saved under '{FIGURES_ROOT}/'.")

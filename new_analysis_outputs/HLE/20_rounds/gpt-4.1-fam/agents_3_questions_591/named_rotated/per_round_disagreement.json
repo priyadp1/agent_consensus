@@ -1,0 +1,53 @@
+{
+  "gpt-4.1-mini vs gpt-4.1": {
+    "round_1": {
+      "disagreements": 163,
+      "total": 309,
+      "percentage": 52.75
+    },
+    "round_2": {
+      "disagreements": 83,
+      "total": 312,
+      "percentage": 26.6
+    },
+    "round_3": {
+      "disagreements": 74,
+      "total": 316,
+      "percentage": 23.42
+    }
+  },
+  "gpt-4.1-nano vs gpt-4.1": {
+    "round_1": {
+      "disagreements": 120,
+      "total": 307,
+      "percentage": 39.09
+    },
+    "round_2": {
+      "disagreements": 84,
+      "total": 312,
+      "percentage": 26.92
+    },
+    "round_3": {
+      "disagreements": 64,
+      "total": 314,
+      "percentage": 20.38
+    }
+  },
+  "gpt-4.1-nano vs gpt-4.1-mini": {
+    "round_1": {
+      "disagreements": 171,
+      "total": 302,
+      "percentage": 56.62
+    },
+    "round_2": {
+      "disagreements": 76,
+      "total": 307,
+      "percentage": 24.76
+    },
+    "round_3": {
+      "disagreements": 39,
+      "total": 311,
+      "percentage": 12.54
+    }
+  }
+}

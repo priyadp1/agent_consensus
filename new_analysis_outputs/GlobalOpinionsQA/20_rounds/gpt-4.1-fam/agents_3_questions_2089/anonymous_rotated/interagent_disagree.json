@@ -1,0 +1,20 @@
+{
+  "model": "results\\GlobalOpinionsQA\\20_rounds\\gpt-4.1-fam\\agents_3_questions_2089\\anonymous_rotated",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 2082,
+      "disagreement_count": 854,
+      "disagreement_percentage": 41.02
+    },
+    "round_2": {
+      "valid_questions": 2083,
+      "disagreement_count": 511,
+      "disagreement_percentage": 24.53
+    },
+    "round_3": {
+      "valid_questions": 2087,
+      "disagreement_count": 342,
+      "disagreement_percentage": 16.39
+    }
+  }
+}

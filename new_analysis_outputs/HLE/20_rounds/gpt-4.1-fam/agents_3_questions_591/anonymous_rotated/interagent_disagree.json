@@ -1,0 +1,20 @@
+{
+  "model": "results\\HLE\\20_rounds\\gpt-4.1-fam\\agents_3_questions_591\\anonymous_rotated",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 305,
+      "disagreement_count": 191,
+      "disagreement_percentage": 62.62
+    },
+    "round_2": {
+      "valid_questions": 312,
+      "disagreement_count": 112,
+      "disagreement_percentage": 35.9
+    },
+    "round_3": {
+      "valid_questions": 315,
+      "disagreement_count": 74,
+      "disagreement_percentage": 23.49
+    }
+  }
+}

@@ -95,25 +95,24 @@ async def run_rotated_experiment(config_path, results_root):
         old_results_dir = os.path.join(results_root, variant)
 
         if use_agent_labels:
-            # Anonymous: results keyed by agent label; map model names back to labels for rotation lookup
+            # Anonymous: agents identified by label; R1 files are always keyed by model name
             agents = list(agent_to_model.keys())
             agent_runners = {
                 label: (lambda p, m=model: run_model(p, model_name=m))
                 for label, model in agent_to_model.items()
             }
-            biggest_key  = model_to_agent[biggest_model]
-            middle_key   = model_to_agent[middle_model]
-            smallest_key = model_to_agent[smallest_model]
         else:
-            # Named: results keyed by model name directly
+            # Named: agents identified by model name directly
             agents = list(agent_to_model.values())
             agent_runners = {
                 model: (lambda p, m=model: run_model(p, model_name=m))
                 for model in agents
             }
-            biggest_key  = biggest_model
-            middle_key   = middle_model
-            smallest_key = smallest_model
+
+        # R1 saved files are always keyed by model name regardless of variant
+        biggest_key  = biggest_model
+        middle_key   = middle_model
+        smallest_key = smallest_model
 
         new_dir = old_results_dir + "_rotated"
         os.makedirs(new_dir, exist_ok=True)
@@ -149,10 +148,17 @@ async def run_rotated_experiment(config_path, results_root):
             if not rotation_applied:
                 R1_rotated = R1
 
-            history = [{
-                agent: R1_rotated[agent]["raw_output"]
-                for agent in agents
-            }]
+            if use_agent_labels:
+                # R1_rotated is keyed by model name; remap to agent labels for agent_talk
+                history = [{
+                    model_to_agent[model]: R1_rotated[model]["raw_output"]
+                    for model in [biggest_model, middle_model, smallest_model]
+                }]
+            else:
+                history = [{
+                    agent: R1_rotated[agent]["raw_output"]
+                    for agent in agents
+                }]
 
             new_rounds = await agent_talk(
                 agents=agents,

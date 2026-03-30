@@ -166,7 +166,7 @@ async def run_rotated_experiment(config_path, results_root):
                 question=old["question"],
                 options=old["options"],
                 selections=None,
-                max_rounds=3,
+                max_rounds=config["defaults"]["max_rounds"],
                 history=history
             )
 

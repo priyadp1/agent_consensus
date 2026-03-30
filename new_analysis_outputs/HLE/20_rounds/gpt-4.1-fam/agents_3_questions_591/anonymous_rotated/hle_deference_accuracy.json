@@ -1,0 +1,47 @@
+{
+  "gpt-4.1-mini -> gpt-4.1": {
+    "initial_disagreements": 160,
+    "small_to_large": 131,
+    "s2l_pct": 81.9,
+    "s2l_wrong_to_correct": 18,
+    "s2l_w2c_pct": 13.7,
+    "s2l_correct_to_wrong": 15,
+    "s2l_c2w_pct": 11.5,
+    "large_to_small": 17,
+    "l2s_pct": 10.6,
+    "l2s_wrong_to_correct": 1,
+    "l2s_w2c_pct": 5.9,
+    "l2s_correct_to_wrong": 5,
+    "l2s_c2w_pct": 29.4
+  },
+  "gpt-4.1-nano -> gpt-4.1": {
+    "initial_disagreements": 111,
+    "small_to_large": 84,
+    "s2l_pct": 75.7,
+    "s2l_wrong_to_correct": 9,
+    "s2l_w2c_pct": 10.7,
+    "s2l_correct_to_wrong": 13,
+    "s2l_c2w_pct": 15.5,
+    "large_to_small": 26,
+    "l2s_pct": 23.4,
+    "l2s_wrong_to_correct": 5,
+    "l2s_w2c_pct": 19.2,
+    "l2s_correct_to_wrong": 3,
+    "l2s_c2w_pct": 11.5
+  },
+  "gpt-4.1-nano -> gpt-4.1-mini": {
+    "initial_disagreements": 161,
+    "small_to_large": 65,
+    "s2l_pct": 40.4,
+    "s2l_wrong_to_correct": 5,
+    "s2l_w2c_pct": 7.7,
+    "s2l_correct_to_wrong": 11,
+    "s2l_c2w_pct": 16.9,
+    "large_to_small": 90,
+    "l2s_pct": 55.9,
+    "l2s_wrong_to_correct": 14,
+    "l2s_w2c_pct": 15.6,
+    "l2s_correct_to_wrong": 11,
+    "l2s_c2w_pct": 12.2
+  }
+}

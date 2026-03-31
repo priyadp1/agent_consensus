@@ -35,7 +35,7 @@ def find_dirs_with(root, filename):
 
 # ── Plot functions ─────────────────────────────────────────────────────────────
 
-def plot_rounds_accuracy(output_dir, title, out_path):
+def plot_rounds_accuracy(output_dir, out_path):
     data = load_json(os.path.join(output_dir, "hle_accuracy.json"))
     rounds_data = data["rounds_data"]
     sorted_keys = sorted(rounds_data.keys(), key=lambda k: int(k.split("_")[1]))
@@ -43,21 +43,22 @@ def plot_rounds_accuracy(output_dir, title, out_path):
     rounds = list(range(1, len(values) + 1))
 
     plt.figure(figsize=(12, 5))
-    plt.plot(rounds, values, marker="o")
-    plt.xticks(rounds)
-    plt.xlabel("Deliberation Round")
-    plt.ylabel("Accuracy (all models correct) (%)")
-    plt.title(title)
+    plt.plot(rounds, values, marker="o", linewidth=2.5, markersize=6)
+    plt.xticks(rounds, fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.xlabel("Deliberation Round", fontsize=14)
+    plt.ylabel("Accuracy (all models correct) (%)", fontsize=14)
+    plt.title("Accuracy Across Rounds", fontsize=16)
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     plt.savefig(out_path, dpi=300)
     plt.close()
-    print(f"  [accuracy] -> {out_path}")
+    print(f"  [accuracy]            -> {out_path}")
 
 
-def plot_deference_direction(output_dir, title, out_path):
+def plot_deference_direction(output_dir, out_path):
     data = load_json(os.path.join(output_dir, "hle_deference_accuracy.json"))
     if not data:
         return
@@ -74,7 +75,7 @@ def plot_deference_direction(output_dir, title, out_path):
     plt.bar(x + width / 2, large_to_small, width, label="Large → Small")
     plt.xticks(x, labels, rotation=30, ha="right")
     plt.ylabel("Percentage of Disagreements (%)")
-    plt.title(title)
+    plt.title("Direction of Deference")
     plt.legend()
     plt.tight_layout()
 
@@ -84,7 +85,7 @@ def plot_deference_direction(output_dir, title, out_path):
     print(f"  [deference direction] -> {out_path}")
 
 
-def plot_deference_accuracy_outcomes(output_dir, title, out_path):
+def plot_deference_accuracy_outcomes(output_dir, out_path):
     data = load_json(os.path.join(output_dir, "hle_deference_accuracy.json"))
     if not data:
         return
@@ -105,7 +106,7 @@ def plot_deference_accuracy_outcomes(output_dir, title, out_path):
     plt.bar(x + 1.5 * width, l2s_c2w, width, label="l2s: correct → wrong")
     plt.xticks(x, labels, rotation=30, ha="right")
     plt.ylabel("Percentage of Deferences in Branch (%)")
-    plt.title(title)
+    plt.title("Deference Accuracy Outcomes")
     plt.legend()
     plt.tight_layout()
 
@@ -139,7 +140,22 @@ def find_combined_parents(root):
                 yield parent
 
 
-def plot_combined_variants(parent_output_dir, title, out_path):
+def find_combined_rotated_parents(root):
+    """Yield parent dirs that have both named_rotated/ and anonymous_rotated/ with hle_accuracy.json."""
+    seen = set()
+    for dirpath, dirnames, filenames in os.walk(root):
+        if "hle_accuracy.json" in filenames:
+            parent = os.path.dirname(dirpath)
+            if parent in seen:
+                continue
+            named_metrics = os.path.join(parent, "named_rotated", "hle_accuracy.json")
+            anon_metrics = os.path.join(parent, "anonymous_rotated", "hle_accuracy.json")
+            if os.path.exists(named_metrics) and os.path.exists(anon_metrics):
+                seen.add(parent)
+                yield parent
+
+
+def plot_combined_variants(parent_output_dir, out_path):
     named_dir = os.path.join(parent_output_dir, "named")
     anon_dir = os.path.join(parent_output_dir, "anonymous")
 
@@ -147,12 +163,13 @@ def plot_combined_variants(parent_output_dir, title, out_path):
     rounds_a, values_a = load_accuracy_values(anon_dir)
 
     plt.figure(figsize=(12, 5))
-    plt.plot(rounds_n, values_n, marker="o", label="Named")
-    plt.plot(rounds_a, values_a, marker="s", linestyle="--", label="Anonymous")
-    plt.xticks(rounds_n)
-    plt.xlabel("Deliberation Round")
-    plt.ylabel("Accuracy (all models correct) (%)")
-    plt.title(title)
+    plt.plot(rounds_n, values_n, marker="o", linewidth=2.5, markersize=6, label="Named")
+    plt.plot(rounds_a, values_a, marker="s", linewidth=2.5, markersize=6, linestyle="--", label="Anonymous")
+    plt.xticks(rounds_n, fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.xlabel("Deliberation Round", fontsize=14)
+    plt.ylabel("Accuracy (all models correct) (%)", fontsize=14)
+    plt.title("Accuracy Across Rounds — Named vs Anonymous", fontsize=16)
     plt.legend()
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
@@ -160,7 +177,32 @@ def plot_combined_variants(parent_output_dir, title, out_path):
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     plt.savefig(out_path, dpi=300)
     plt.close()
-    print(f"  [combined accuracy] -> {out_path}")
+    print(f"  [combined accuracy]   -> {out_path}")
+
+
+def plot_combined_rotated_variants(parent_output_dir, out_path):
+    named_dir = os.path.join(parent_output_dir, "named_rotated")
+    anon_dir = os.path.join(parent_output_dir, "anonymous_rotated")
+
+    rounds_n, values_n = load_accuracy_values(named_dir)
+    rounds_a, values_a = load_accuracy_values(anon_dir)
+
+    plt.figure(figsize=(12, 5))
+    plt.plot(rounds_n, values_n, marker="o", linewidth=2.5, markersize=6, label="Named Rotated")
+    plt.plot(rounds_a, values_a, marker="s", linewidth=2.5, markersize=6, linestyle="--", label="Anonymous Rotated")
+    plt.xticks(rounds_n, fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.xlabel("Deliberation Round", fontsize=14)
+    plt.ylabel("Accuracy (all models correct) (%)", fontsize=14)
+    plt.title("Accuracy Across Rounds — Named Rotated vs Anonymous Rotated", fontsize=16)
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    plt.savefig(out_path, dpi=300)
+    plt.close()
+    print(f"  [combined rotated]    -> {out_path}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -172,27 +214,22 @@ if __name__ == "__main__":
     print(f"Found {len(dirs_accuracy)} accuracy, {len(dirs_deference)} deference director{'y' if len(dirs_deference) == 1 else 'ies'}.\n")
 
     for output_dir in dirs_accuracy:
-        label = dir_label(output_dir)
         fig_dir = output_to_figures(output_dir)
         print(f"Plotting: {output_dir}")
         plot_rounds_accuracy(
             output_dir,
-            f"Accuracy Across Rounds ({label})",
             os.path.join(fig_dir, "rounds_accuracy.png"),
         )
 
     for output_dir in dirs_deference:
-        label = dir_label(output_dir)
         fig_dir = output_to_figures(output_dir)
         print(f"Plotting deference: {output_dir}")
         plot_deference_direction(
             output_dir,
-            f"Direction of Deference ({label})",
             os.path.join(fig_dir, "deference_direction.png"),
         )
         plot_deference_accuracy_outcomes(
             output_dir,
-            f"Deference Accuracy Outcomes ({label})",
             os.path.join(fig_dir, "deference_accuracy_outcomes.png"),
         )
 
@@ -200,14 +237,22 @@ if __name__ == "__main__":
     print(f"\nFound {len(combined_parents)} experiment(s) with both named and anonymous variants.\n")
 
     for parent_output_dir in combined_parents:
-        label = dir_label(parent_output_dir)
         fig_dir = output_to_figures(parent_output_dir)
         print(f"Plotting combined: {parent_output_dir}")
-
         plot_combined_variants(
             parent_output_dir,
-            f"Accuracy Across Rounds — Named vs Anonymous ({label})",
             os.path.join(fig_dir, "rounds_accuracy_combined.png"),
+        )
+
+    combined_rotated_parents = sorted(find_combined_rotated_parents(OUTPUT_ROOT))
+    print(f"\nFound {len(combined_rotated_parents)} experiment(s) with both named_rotated and anonymous_rotated variants.\n")
+
+    for parent_output_dir in combined_rotated_parents:
+        fig_dir = output_to_figures(parent_output_dir)
+        print(f"Plotting combined rotated: {parent_output_dir}")
+        plot_combined_rotated_variants(
+            parent_output_dir,
+            os.path.join(fig_dir, "rounds_accuracy_combined_rotated.png"),
         )
 
     print(f"\nAll figures saved under '{FIGURES_ROOT}/'.")

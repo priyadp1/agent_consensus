@@ -35,7 +35,7 @@ def find_dirs_with(root, filename):
 
 # ── Plot functions ────────────────────────────────────────────────────────────
 
-def plot_deference(data, title, out_path):
+def plot_deference(data, out_path):
     labels = list(data.keys())
     small_to_large = [data[k]["small_to_large_pct"] for k in labels]
     large_to_small = [data[k]["large_to_small_pct"] for k in labels]
@@ -48,7 +48,7 @@ def plot_deference(data, title, out_path):
     plt.bar(x + width / 2, large_to_small, width, label="Large → Small")
     plt.xticks(x, labels, rotation=30, ha="right")
     plt.ylabel("Percentage of Disagreements (%)")
-    plt.title(title)
+    plt.title("Direction of Disagreement")
     plt.legend()
     plt.tight_layout()
 
@@ -58,7 +58,7 @@ def plot_deference(data, title, out_path):
     print(f"  [directional bars]  -> {out_path}")
 
 
-def plot_rounds_disagreement(output_dir, title, out_path):
+def plot_rounds_disagreement(output_dir, out_path):
     metrics_path = os.path.join(output_dir, "interagent_disagree.json")
     data = load_json(metrics_path)
     rounds_data = data["rounds"]
@@ -67,11 +67,12 @@ def plot_rounds_disagreement(output_dir, title, out_path):
     rounds = list(range(1, len(values) + 1))
 
     plt.figure(figsize=(12, 5))
-    plt.plot(rounds, values, marker="o")
-    plt.xticks(rounds)
-    plt.xlabel("Deliberation Round")
-    plt.ylabel("Questions with >= 1 Disagreement (%)")
-    plt.title(title)
+    plt.plot(rounds, values, marker="o", linewidth=2.5, markersize=6)
+    plt.xticks(rounds, fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.xlabel("Deliberation Round", fontsize=14)
+    plt.ylabel(" Disagreement (%)", fontsize=14)
+    plt.title("Disagreement Across Rounds", fontsize=16)
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
 
@@ -105,7 +106,22 @@ def find_combined_parents(root):
                 yield parent
 
 
-def plot_combined_variants(parent_output_dir, title, out_path):
+def find_combined_rotated_parents(root):
+    """Yield parent dirs that have both named_rotated/ and anonymous_rotated/ with interagent_disagree.json."""
+    seen = set()
+    for dirpath, dirnames, filenames in os.walk(root):
+        if "interagent_disagree.json" in filenames:
+            parent = os.path.dirname(dirpath)
+            if parent in seen:
+                continue
+            named_metrics = os.path.join(parent, "named_rotated", "interagent_disagree.json")
+            anon_metrics = os.path.join(parent, "anonymous_rotated", "interagent_disagree.json")
+            if os.path.exists(named_metrics) and os.path.exists(anon_metrics):
+                seen.add(parent)
+                yield parent
+
+
+def plot_combined_variants(parent_output_dir, out_path):
     named_dir = os.path.join(parent_output_dir, "named")
     anon_dir = os.path.join(parent_output_dir, "anonymous")
 
@@ -115,10 +131,11 @@ def plot_combined_variants(parent_output_dir, title, out_path):
     plt.figure(figsize=(12, 5))
     plt.plot(rounds_n, values_n, marker="o", label="Named")
     plt.plot(rounds_a, values_a, marker="s", linestyle="--", label="Anonymous")
-    plt.xticks(rounds_n)
-    plt.xlabel("Deliberation Round")
-    plt.ylabel("Questions with >= 1 Disagreement (%)")
-    plt.title(title)
+    plt.xticks(rounds_n, fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.xlabel("Deliberation Round", fontsize=14)
+    plt.ylabel(" Disagreement (%)", fontsize=14)
+    plt.title("Disagreement Across Rounds — Named vs Anonymous", fontsize=16)
     plt.legend()
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
@@ -127,6 +144,31 @@ def plot_combined_variants(parent_output_dir, title, out_path):
     plt.savefig(out_path, dpi=300)
     plt.close()
     print(f"  [combined rounds]   -> {out_path}")
+
+
+def plot_combined_rotated_variants(parent_output_dir, out_path):
+    named_dir = os.path.join(parent_output_dir, "named_rotated")
+    anon_dir = os.path.join(parent_output_dir, "anonymous_rotated")
+
+    rounds_n, values_n = load_disagreement_values(named_dir)
+    rounds_a, values_a = load_disagreement_values(anon_dir)
+
+    plt.figure(figsize=(12, 5))
+    plt.plot(rounds_n, values_n, marker="o", label="Named Rotated")
+    plt.plot(rounds_a, values_a, marker="s", linestyle="--", label="Anonymous Rotated")
+    plt.xticks(rounds_n, fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.xlabel("Deliberation Round", fontsize=14)
+    plt.ylabel(" Disagreement (%)", fontsize=14)
+    plt.title("Disagreement Across Rounds — Named Rotated vs Anonymous Rotated", fontsize=16)
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    plt.savefig(out_path, dpi=300)
+    plt.close()
+    print(f"  [combined rotated]  -> {out_path}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -139,7 +181,6 @@ if __name__ == "__main__":
           f"{len(dirs_with_metrics)} metrics files.\n")
 
     for output_dir in dirs_with_directional:
-        label = dir_label(output_dir)
         fig_dir = output_to_figures(output_dir)
         print(f"Plotting: {output_dir}")
 
@@ -150,18 +191,15 @@ if __name__ == "__main__":
 
         plot_deference(
             data,
-            f"Direction of Disagreement ({label})",
             os.path.join(fig_dir, "directional_bars.png"),
         )
 
     for output_dir in dirs_with_metrics:
-        label = dir_label(output_dir)
         fig_dir = output_to_figures(output_dir)
         print(f"Plotting rounds: {output_dir}")
 
         plot_rounds_disagreement(
             output_dir,
-            f"Disagreement Across Rounds ({label})",
             os.path.join(fig_dir, "rounds_disagreement.png"),
         )
 
@@ -169,14 +207,24 @@ if __name__ == "__main__":
     print(f"\nFound {len(combined_parents)} experiment(s) with both named and anonymous variants.\n")
 
     for parent_output_dir in combined_parents:
-        label = dir_label(parent_output_dir)
         fig_dir = output_to_figures(parent_output_dir)
         print(f"Plotting combined: {parent_output_dir}")
 
         plot_combined_variants(
             parent_output_dir,
-            f"Disagreement Across Rounds — Named vs Anonymous ({label})",
             os.path.join(fig_dir, "rounds_disagreement_combined.png"),
+        )
+
+    combined_rotated_parents = sorted(find_combined_rotated_parents(OUTPUT_ROOT))
+    print(f"\nFound {len(combined_rotated_parents)} experiment(s) with both named_rotated and anonymous_rotated variants.\n")
+
+    for parent_output_dir in combined_rotated_parents:
+        fig_dir = output_to_figures(parent_output_dir)
+        print(f"Plotting combined rotated: {parent_output_dir}")
+
+        plot_combined_rotated_variants(
+            parent_output_dir,
+            os.path.join(fig_dir, "rounds_disagreement_combined_rotated.png"),
         )
 
     print(f"\nAll figures saved under '{FIGURES_ROOT}/'.")

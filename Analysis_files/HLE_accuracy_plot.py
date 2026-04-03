@@ -75,9 +75,9 @@ def plot_deference_direction(output_dir, out_path):
     plt.bar(x + width / 2, large_to_small, width, label="Large -> Small")
     plt.xticks(x, labels, rotation=30, ha="right", fontsize=20)
     plt.yticks(fontsize=20)
-    plt.ylabel("Disagreement %", fontsize=16)
+    plt.ylabel("Disagreement %", fontsize=20)
     plt.title("Direction of Deference", fontsize=20)
-    plt.legend(fontsize=14, loc='upper left', bbox_to_anchor=(1.01, 1))
+    plt.legend(fontsize=20, loc='upper left', bbox_to_anchor=(1.01, 1))
     plt.tight_layout(pad=1.5)
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
@@ -107,9 +107,9 @@ def plot_deference_accuracy_outcomes(output_dir, out_path):
     plt.bar(x + 1.5 * width, l2s_c2w, width, label="l2s: correct -> wrong")
     plt.xticks(x, labels, rotation=30, ha="right", fontsize=20)
     plt.yticks(fontsize=20)
-    plt.ylabel("Percentage of Deferences in Branch (%)", fontsize=14)
+    plt.ylabel("Deference %", fontsize=20)
     plt.title("Deference Accuracy Outcomes", fontsize=20)
-    plt.legend(fontsize=14, loc='upper left', bbox_to_anchor=(1.01, 1))
+    plt.legend(fontsize=20, loc='upper left', bbox_to_anchor=(1.01, 1))
     plt.tight_layout(pad=1.5)
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)

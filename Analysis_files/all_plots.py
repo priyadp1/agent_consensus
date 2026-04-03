@@ -44,12 +44,12 @@ def plot_deference(data, out_path):
     width = 0.35
 
     plt.figure(figsize=(16, 7))
-    plt.bar(x - width / 2, small_to_large, width, label="Small → Large")
-    plt.bar(x + width / 2, large_to_small, width, label="Large → Small")
+    plt.bar(x - width / 2, small_to_large, width, label="Small -> Large")
+    plt.bar(x + width / 2, large_to_small, width, label="Large -> Small")
     plt.xticks(x, labels, rotation=30, ha="right", fontsize=20)
     plt.ylabel("Disagreement %", fontsize=20)
     plt.title("Direction of Disagreement", fontsize=20)
-    plt.legend(fontsize=16, loc='upper left', bbox_to_anchor=(1.01, 1))
+    plt.legend(fontsize=20, loc='upper left', bbox_to_anchor=(1.01, 1))
     plt.tight_layout(pad=1.5)
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)

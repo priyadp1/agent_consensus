@@ -43,17 +43,17 @@ def plot_deference(data, out_path):
     x = np.arange(len(labels))
     width = 0.35
 
-    plt.figure(figsize=(12, 5))
+    plt.figure(figsize=(16, 7))
     plt.bar(x - width / 2, small_to_large, width, label="Small → Large")
     plt.bar(x + width / 2, large_to_small, width, label="Large → Small")
     plt.xticks(x, labels, rotation=30, ha="right", fontsize=20)
-    plt.ylabel("Percentage of Disagreements (%)", fontsize=20)
+    plt.ylabel("Disagreement %", fontsize=20)
     plt.title("Direction of Disagreement", fontsize=20)
-    plt.legend(fontsize=20)
-    plt.tight_layout()
+    plt.legend(fontsize=16, loc='upper left', bbox_to_anchor=(1.01, 1))
+    plt.tight_layout(pad=1.5)
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    plt.savefig(out_path, dpi=300)
+    plt.savefig(out_path, dpi=300, bbox_inches='tight')
     plt.close()
     print(f"  [directional bars]  -> {out_path}")
 
@@ -66,7 +66,7 @@ def plot_rounds_disagreement(output_dir, out_path):
     values = [rounds_data[k]["disagreement_percentage"] for k in sorted_keys]
     rounds = list(range(1, len(values) + 1))
 
-    plt.figure(figsize=(12, 5))
+    plt.figure(figsize=(16, 7))
     plt.plot(rounds, values, marker="o", linewidth=2.5, markersize=6)
     plt.xticks(rounds, fontsize=20)
     plt.yticks(fontsize=20)
@@ -128,7 +128,7 @@ def plot_combined_variants(parent_output_dir, out_path):
     rounds_n, values_n = load_disagreement_values(named_dir)
     rounds_a, values_a = load_disagreement_values(anon_dir)
 
-    plt.figure(figsize=(12, 5))
+    plt.figure(figsize=(16, 7))
     plt.plot(rounds_n, values_n, marker="o", label="Named")
     plt.plot(rounds_a, values_a, marker="s", linestyle="--", label="Anonymous")
     plt.xticks(rounds_n, fontsize=20)
@@ -153,7 +153,7 @@ def plot_combined_rotated_variants(parent_output_dir, out_path):
     rounds_n, values_n = load_disagreement_values(named_dir)
     rounds_a, values_a = load_disagreement_values(anon_dir)
 
-    plt.figure(figsize=(12, 5))
+    plt.figure(figsize=(16, 7))
     plt.plot(rounds_n, values_n, marker="o", label="Named Rotated")
     plt.plot(rounds_a, values_a, marker="s", linestyle="--", label="Anonymous Rotated")
     plt.xticks(rounds_n, fontsize=20)

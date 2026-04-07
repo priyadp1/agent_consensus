@@ -1,10 +1,15 @@
 # Agent Consensus
 
-A multi-agent framework for studying consensus and opinion dynamics across language models.
+A multi-agent framework for studying consensus and opinion dynamics across language models. Three GPT-4.1 family models (`gpt-4.1-nano`, `gpt-4.1-mini`, `gpt-4.1`) deliberate over survey and factual questions across multiple rounds, allowing analysis of disagreement, deference, and accuracy as a function of model size and identity visibility.
+
+---
 
 ## Prerequisites
 
 - Python 3.10+
+- Azure OpenAI credentials
+
+---
 
 ## Setup
 
@@ -16,30 +21,25 @@ pip install -r requirements.txt
 
 ### 2. Configure Environment
 
-Create a `.env` file in the project root with your Azure credentials:
+Create a `.env` file in the project root:
 
 ```
 AZURE_ENDPOINT=your_azure_endpoint
 AZURE_API_KEY=your_azure_api_key
+HF_TOKEN=your_huggingface_token
 ```
+
+---
 
 ## Data
 
 ### Download Datasets
 
-**Windows:**
 ```bash
 python preprocessing/download_dataset.py
 ```
 
-**Mac/Linux:**
-```bash
-python3 preprocessing/download_dataset.py
-```
-
-This downloads the OpinionsQA and GlobalOpinionsQA datasets.
-
-To download the Anthropic dataset, clone the evals repo into the `data/` folder:
+Downloads OpinionsQA and GlobalOpinionsQA from HuggingFace. To also use the Anthropic persona dataset, clone the evals repo into `data/`:
 
 ```bash
 cd data
@@ -54,76 +54,81 @@ python preprocessing/preprocess_persona.py
 python preprocessing/preprocess_hle.py
 ```
 
+---
+
 ## Running Experiments
 
-All scripts should be run from the project root.
+All scripts should be run from the project root. Each experiment iterates over all `*.yaml` configs in its config directory, running **named** and **anonymous** variants for each dataset.
 
 | Script | Config Dir | Description |
-|--------|-----------|-------------|
-| `python experiments/main.py` | `baseline_configs_20/` | Baseline multi-agent experiments — runs **named** and **anonymous** variants across GlobalOpinionsQA, OpinionsQA, and persona datasets |
-| `python experiments/sys_prompt_main.py` | `sys_prompt_configs_20/` | System prompt ablations — runs `critical_independent` and `adversarial` conditions, each with named and anonymous variants |
-| `python experiments/sys_prompt_no_revise.py` | `sys_prompt_configs_no_revise_20/` | Same as above but agents do not revise answers between rounds |
-| `python experiments/rotate_main.py` | `rotate_configs/` | Rotated experiments — cyclically swaps round-1 answers between agents to test position/order effects |
+|--------|------------|-------------|
+| `python experiments/main.py` | `baseline_configs_20/` | Baseline multi-agent deliberation — named and anonymous variants across GlobalOpinionsQA, OpinionsQA, HLE, and persona datasets |
+| `python experiments/sys_prompt_main.py` | `sys_prompt_configs_20/` | System prompt ablations — `critical_independent` and `adversarial` conditions, each with named and anonymous variants; agents revise answers each round |
+| `python experiments/sys_prompt_no_revise.py` | `sys_prompt_configs_no_revise_20/` | Same as above but agents do not revise their answers between rounds |
+| `python experiments/rotate_main.py` | `rotate_configs/` | Rotation experiments — cyclically swaps round-1 answers between agents to isolate position/order effects |
 
-Each config file targets a specific dataset + model family combination (e.g. `hle-gpt-4.1-fam.yaml`). Results are saved under `results/` in subdirectories organized by dataset and config.
+Each experiment runs **3 agents** (`gpt-4.1-nano`, `gpt-4.1-mini`, `gpt-4.1`) for up to **20 deliberation rounds**. Results are saved under `results/` organized by dataset and config.
 
-**Supported datasets:** GlobalOpinionsQA, OpinionsQA, anthropic-persona, Humanity's Last Exam (HLE)
+**Supported datasets:** GlobalOpinionsQA · OpinionsQA · anthropic-persona · Humanity's Last Exam (HLE)
 
-## Analyzing Results
+---
 
-### Disagreement Analysis
+## Analysis
 
-| Script | Description |
-|--------|-------------|
-| `python Analysis_files/all_models_disagree.py` | Walks all `results/` subdirectories and computes per-round disagreement rate, pairwise disagreement, and directional deference. Saves JSON outputs to `new_analysis_outputs/`. |
-| `python Analysis_files/all_plots.py` | Reads from `new_analysis_outputs/` and saves disagreement and deference plots to `new_figures/`. |
-
-### HLE Accuracy Analysis
+### Disagreement & Deference
 
 | Script | Description |
 |--------|-------------|
-| `python Analysis_files/HLE_accuracy.py` | Walks all `results/HLE/` subdirectories and computes three metrics per directory (see below). Saves JSON outputs to `new_analysis_outputs/HLE/`. |
-| `python Analysis_files/HLE_accuracy_plot.py` | Reads from `new_analysis_outputs/HLE/` and saves three plots per directory to `new_figures/HLE/` (see below). |
+| `python Analysis_files/all_models_disagree.py` | Walks all `results/` subdirectories and computes per-round disagreement rate, pairwise disagreement, and directional deference (small→large vs large→small). Saves JSON outputs to `new_analysis_outputs/`. |
+| `python Analysis_files/all_plots.py` | Reads from `new_analysis_outputs/` and generates disagreement and deference plots to `new_figures/`. Produces individual per-variant plots and combined named-vs-anonymous overlays. |
 
-`HLE_accuracy.py` computes the following metrics and saves them per directory:
+### HLE Accuracy
+
+| Script | Description |
+|--------|-------------|
+| `python Analysis_files/HLE_accuracy.py` | Walks `results/HLE/` and computes three accuracy metrics per directory. Saves JSON outputs to `new_analysis_outputs/HLE/`. |
+| `python Analysis_files/HLE_accuracy_plot.py` | Reads from `new_analysis_outputs/HLE/` and saves three plots per directory to `new_figures/HLE/`. |
+
+`HLE_accuracy.py` computes the following metrics:
 
 | Output file | Metric |
 |-------------|--------|
-| `hle_accuracy.json` | Per-round accuracy — a question is correct only if **all** models answered correctly |
+| `hle_accuracy.json` | Per-round accuracy — a question is correct only if **all** agents answered correctly |
 | `hle_pairwise_accuracy.json` | Per model pair, per round — questions where **both** models in the pair answered correctly |
-| `hle_deference_accuracy.json` | Among R1 disagreements, tracks direction of deference (`s2l`, `l2s`) and accuracy outcomes (`wrong→correct`, `correct→wrong`) broken down separately for each branch |
+| `hle_deference_accuracy.json` | Among round-1 disagreements, tracks deference direction (`small→large`, `large→small`) and accuracy outcomes (`wrong→correct`, `correct→wrong`) |
 
-`HLE_accuracy_plot.py` generates the following plots per directory:
+`HLE_accuracy_plot.py` generates the following plots:
 
 | Output file | Plot |
 |-------------|------|
 | `rounds_accuracy.png` | Accuracy across deliberation rounds |
-| `deference_direction.png` | Grouped bars showing Small→Large vs Large→Small deference rates per model pair |
-| `deference_accuracy_outcomes.png` | Four bars per pair showing `wrong→correct` and `correct→wrong` rates for both `s2l` and `l2s` branches |
+| `deference_direction.png` | Grouped bars: Small→Large vs Large→Small deference rates per model pair |
+| `deference_accuracy_outcomes.png` | Four bars per pair: `wrong→correct` and `correct→wrong` rates for both deference directions |
+
+---
 
 ## Repository Structure
 
 ```
 agent_consensus/
 ├── Analysis_files/                        # Analysis scripts
-│   ├── all_models_disagree.py             # Computes disagreement and deference metrics across all results
-│   ├── all_plots.py                       # Generates disagreement and deference plots
-│   ├── HLE_accuracy.py                    # Computes accuracy metrics for HLE results
-│   └── HLE_accuracy_plot.py               # Generates accuracy and deference plots for HLE
+│   ├── all_models_disagree.py             # Disagreement and deference metrics across all results
+│   ├── all_plots.py                       # Disagreement and deference plots
+│   ├── HLE_accuracy.py                    # Accuracy metrics for HLE results
+│   └── HLE_accuracy_plot.py               # Accuracy and deference plots for HLE
 │
 ├── agents/                                # Multi-agent conversation orchestration
-│   ├── multiagent.py                      # Agent talk loop used by baseline and sys_prompt experiments
-│   ├── multiagent2.py                     # Agent talk loop variant used by no-revise experiments
-│   └── multiagent_rotate.py               # Agent talk loop for rotation experiments
+│   ├── multiagent.py                      # Core agent talk loop (baseline and sys_prompt experiments)
+│   ├── multiagent2.py                     # Variant used by no-revise experiments
+│   └── multiagent_rotate.py               # Variant for rotation experiments
 │
 ├── baseline_configs_20/                   # Configs for experiments/main.py
-│   ├── globalqa-gpt-4.1-fam.yaml
-│   ├── hle-gpt-4.1-fam.yaml
-│   ├── opinionsqa-gpt-4.1-fam.yaml
-│   └── persona-gpt-4.1-fam.yaml
+├── sys_prompt_configs_20/                 # Configs for experiments/sys_prompt_main.py
+├── sys_prompt_configs_no_revise_20/       # Configs for experiments/sys_prompt_no_revise.py
+├── rotate_configs/                        # Configs for experiments/rotate_main.py
 │
 ├── calculations/
-│   └── random_baselines.py                # Computes random baseline agreement rates
+│   └── random_baselines.py                # Computes random-baseline agreement rates
 │
 ├── data/                                  # Raw and preprocessed datasets
 │   ├── jsonl/                             # Preprocessed JSONL files used by experiments
@@ -134,27 +139,24 @@ agent_consensus/
 │
 ├── experiments/                           # Experiment runner scripts
 │   ├── main.py                            # Baseline multi-agent experiments
-│   ├── sys_prompt_main.py                 # System prompt experiments (agents revise answers)
+│   ├── sys_prompt_main.py                 # System prompt experiments (with answer revision)
 │   ├── sys_prompt_no_revise.py            # System prompt experiments (no answer revision)
-│   └── rotate_main.py                     # Rotation experiments (swaps round-1 answers between agents)
-│
-├── miscellaneous/                         # Archived configs, old outputs, and utility scripts
-│   ├── convert_to_zip.py                  # Zips results directory
-│   ├── extract_zip.py                     # Extracts zipped results
-│   └── ...                               # Old configs, figures, and metrics from earlier runs
+│   └── rotate_main.py                     # Rotation experiments
 │
 ├── models/                                # Model API wrappers
-│   ├── model.py                           # Azure API wrapper (used by baseline experiments)
+│   ├── model.py                           # Azure API wrapper (baseline experiments)
 │   └── model2.py                          # Azure API wrapper with system prompt support
 │
 ├── new_analysis_outputs/                  # JSON outputs from analysis scripts
 │   ├── GlobalOpinionsQA/
 │   ├── HLE/
+│   ├── OpinionsQA/
 │   └── anthropic-persona/
 │
 ├── new_figures/                           # Plots generated by analysis scripts
 │   ├── GlobalOpinionsQA/
 │   ├── HLE/
+│   ├── OpinionsQA/
 │   └── anthropic-persona/
 │
 ├── preprocessing/                         # Data download and preprocessing scripts
@@ -162,7 +164,7 @@ agent_consensus/
 │   ├── filter_questions.py                # Filters out invalid or malformed questions
 │   ├── preprocess_hle.py                  # Converts HLE dataset to JSONL
 │   ├── preprocess_opinionsqa.py           # Converts OpinionsQA and GlobalOpinionsQA to JSONL
-│   └── preprocess_persona.py             # Converts Anthropic persona dataset to JSONL
+│   └── preprocess_persona.py              # Converts Anthropic persona dataset to JSONL
 │
 ├── results/                               # Experiment outputs (one JSON file per question)
 │   ├── GlobalOpinionsQA/
@@ -170,29 +172,12 @@ agent_consensus/
 │   ├── OpinionsQA/
 │   └── anthropic-persona/
 │
-├── rotate_configs/                        # Configs for experiments/rotate_main.py
-│   ├── gpt-4.1-fam-rotate-global.yaml
-│   ├── gpt-4.1-fam-rotate-hle.yaml
-│   ├── gpt-4.1-fam-rotate-opinions.yaml
-│   └── gpt-4.1-fam-rotate-persona.yaml
-│
-├── sys_prompt_configs_20/                 # Configs for experiments/sys_prompt_main.py (with revise)
-│   ├── anthropic-persona-gpt-4.1-fam.yaml
-│   ├── globalqa-gpt-4.1-fam.yaml
-│   ├── hle-gpt-4.1-fam.yaml
-│   └── opinionsqa-gpt-4.1-fam.yaml
-│
-├── sys_prompt_configs_no_revise_20/       # Configs for experiments/sys_prompt_no_revise.py
-│   ├── anthropic-persona-gpt-4.1-fam.yaml
-│   ├── globalqa-gpt-4.1-fam.yaml
-│   ├── hle-gpt-4.1-fam.yaml
-│   └── opinionsqa-gpt-4.1-fam.yaml
-│
 ├── tests/                                 # Unit tests
-│   ├── test_accuracy.py                   # Tests for accuracy computation
-│   ├── test_disagree.py                   # Tests for disagreement computation
-│   └── test_models.py                     # Tests for model API wrappers
+│   ├── test_accuracy.py
+│   ├── test_disagree.py
+│   └── test_models.py
 │
+├── miscellaneous/                         # Utility scripts and archived outputs
 ├── .env                                   # Azure API credentials (not committed)
 ├── .gitignore
 ├── LICENSE

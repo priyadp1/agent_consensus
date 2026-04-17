@@ -143,13 +143,14 @@ def compute_pairwise_accuracy(data, ground_truth, num_rounds):
 
 def compute_deference_accuracy(data, ground_truth, num_rounds):
     """
-    Among pairs that disagreed in round 1, track who deferred to whom in later rounds:
-      small -> large : smaller model adopted the larger model's answer
-      large -> small : larger model adopted the smaller model's answer
-        correct -> wrong : model with correct answer in R1 switched to wrong answer
-        wrong -> correct : model with wrong answer in R1 switched to correct answer
+    For each consecutive round transition (n-1 -> n), among pairs that disagreed in
+    round n-1, track who deferred to whom in round n:
+      small -> large : smaller model adopted the larger model's round-(n-1) answer
+      large -> small : larger model adopted the smaller model's round-(n-1) answer
+        correct -> wrong : deferring model had the correct answer in round n-1
+        wrong -> correct : deferring model had the wrong answer in round n-1
     """
-    initial     = defaultdict(int)  # how many R1 disagreements per pair
+    initial     = defaultdict(int)  # disagreement transitions per pair
     s2l         = defaultdict(int)  # small deferred to large
     l2s         = defaultdict(int)  # large deferred to small
     s2l_w2c     = defaultdict(int)  # small deferred to large, large was correct (wrong->correct)
@@ -166,8 +167,6 @@ def compute_deference_accuracy(data, ground_truth, num_rounds):
         agent_models = item.get("agent_models", {})
         model_to_label = build_model_to_label(agent_models)
         models = list(agent_models.values())
-        r1     = rounds[0]
-        r_rest = rounds[1:num_rounds]
 
         for m_small in models:
             for m_large in models:
@@ -178,38 +177,43 @@ def compute_deference_accuracy(data, ground_truth, num_rounds):
                 if MODEL_ORDER[m_small] >= MODEL_ORDER[m_large]:
                     continue  # only consider (smaller, larger) pairs
 
-                k_small = round_key_for_model(r1, m_small, model_to_label)
-                k_large = round_key_for_model(r1, m_large, model_to_label)
-                a_small = get_answer(r1, k_small)
-                a_large = get_answer(r1, k_large)
-
-                if a_small == "INVALID" or a_large == "INVALID":
-                    continue
-                if a_small == a_large:
-                    continue  # no disagreement to track
-
                 key = f"{m_small} -> {m_large}"
-                initial[key] += 1
 
-                for r in r_rest:
-                    rk_small = round_key_for_model(r, m_small, model_to_label)
-                    rk_large = round_key_for_model(r, m_large, model_to_label)
-                    cur_small = get_answer(r, rk_small)
-                    cur_large = get_answer(r, rk_large)
+                for n in range(1, min(len(rounds), num_rounds)):
+                    r_prev = rounds[n - 1]
+                    r_curr = rounds[n]
+
+                    k_small_prev = round_key_for_model(r_prev, m_small, model_to_label)
+                    k_large_prev = round_key_for_model(r_prev, m_large, model_to_label)
+                    a_small = get_answer(r_prev, k_small_prev)
+                    a_large = get_answer(r_prev, k_large_prev)
+
+                    if a_small == "INVALID" or a_large == "INVALID" or a_small == a_large:
+                        continue  # no valid disagreement in round n-1
+
+                    initial[key] += 1
+
+                    k_small_curr = round_key_for_model(r_curr, m_small, model_to_label)
+                    k_large_curr = round_key_for_model(r_curr, m_large, model_to_label)
+                    cur_small = get_answer(r_curr, k_small_curr)
+                    cur_large = get_answer(r_curr, k_large_curr)
+
+                    if cur_small == "INVALID" or cur_large == "INVALID":
+                        continue
+
                     if cur_small == a_large:
                         s2l[key] += 1
                         if a_large == correct_answer:
                             s2l_w2c[key] += 1
                         elif a_small == correct_answer:
                             s2l_c2w[key] += 1
-                        break
+
                     if cur_large == a_small:
                         l2s[key] += 1
                         if a_small == correct_answer:
                             l2s_w2c[key] += 1
                         elif a_large == correct_answer:
                             l2s_c2w[key] += 1
-                        break
 
     return initial, s2l, l2s, s2l_w2c, s2l_c2w, l2s_w2c, l2s_c2w
 

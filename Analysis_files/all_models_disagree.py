@@ -186,7 +186,7 @@ def save_per_round(counts, path):
 
 def analyze_conditioned(original_data):
     # Counts are accumulated over all round-to-round transitions.
-    # For each transition (n-1 → n), the denominator is pairs that disagreed
+    # For each transition (n-1 -> n), the denominator is pairs that disagreed
     # in round n-1; deference is switching to the *other model's round-(n-1)* answer.
     initial = defaultdict(int)
     s2l = defaultdict(int)
@@ -259,6 +259,80 @@ def save_directional(initial, s2l, l2s, path):
     print(f"[directional]  -> {path}")
 
 
+def model_deference_each_round(data):
+    # Same logic as analyze_conditioned but keyed by round transition index.
+    # Returns: {pair_key: {transition_idx: {"initial": int, "s2l": int, "l2s": int}}}
+    counts = defaultdict(lambda: defaultdict(lambda: {"initial": 0, "s2l": 0, "l2s": 0}))
+
+    for item in data:
+        agent_models = item.get("agent_models", {})
+        model_to_label = build_model_to_label(agent_models)
+        models = list(agent_models.values())
+        rounds = item["rounds"]
+
+        for m_small in models:
+            for m_large in models:
+                if m_small == m_large:
+                    continue
+                if MODEL_ORDER.get(m_small, -1) >= MODEL_ORDER.get(m_large, -1):
+                    continue
+
+                key = f"{m_small} -> {m_large}"
+
+                for n in range(1, len(rounds)):
+                    r_prev = rounds[n - 1]
+                    r_curr = rounds[n]
+
+                    k_small_prev = round_key_for_model(r_prev, m_small, model_to_label)
+                    k_large_prev = round_key_for_model(r_prev, m_large, model_to_label)
+                    a_prev = get_answer(r_prev, k_small_prev)
+                    b_prev = get_answer(r_prev, k_large_prev)
+
+                    if a_prev == "INVALID" or b_prev == "INVALID" or a_prev == b_prev:
+                        continue
+
+                    counts[key][n - 1]["initial"] += 1
+
+                    k_small_curr = round_key_for_model(r_curr, m_small, model_to_label)
+                    k_large_curr = round_key_for_model(r_curr, m_large, model_to_label)
+                    a_curr = get_answer(r_curr, k_small_curr)
+                    b_curr = get_answer(r_curr, k_large_curr)
+
+                    if a_curr == "INVALID" or b_curr == "INVALID":
+                        continue
+
+                    if a_curr == b_prev:
+                        counts[key][n - 1]["s2l"] += 1
+                    if b_curr == a_prev:
+                        counts[key][n - 1]["l2s"] += 1
+
+    return counts
+
+
+def save_deference_each_round(counts, path):
+    out = {}
+    for key in sorted(counts.keys()):
+        out[key] = {}
+        for t_idx in sorted(counts[key].keys()):
+            d = counts[key][t_idx]
+            total = d["initial"]
+            s = d["s2l"]
+            l = d["l2s"]
+            out[key][f"round_{t_idx + 1}_to_{t_idx + 2}"] = {
+                "initial_disagreements": total,
+                "small_to_large": s,
+                "large_to_small": l,
+                "small_to_large_pct": round(s / total * 100, 2) if total > 0 else None,
+                "large_to_small_pct": round(l / total * 100, 2) if total > 0 else None,
+            }
+    ensure_dir(path)
+    with open(path, "w") as f:
+        json.dump(out, f, indent=2)
+    print(f"[deference/round] -> {path}")
+
+
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
@@ -287,3 +361,6 @@ if __name__ == "__main__":
 
         initial, s2l, l2s = analyze_conditioned(data)
         save_directional(initial, s2l, l2s, os.path.join(output_dir, "directional.json"))
+
+        round_counts = model_deference_each_round(data)
+        save_deference_each_round(round_counts, os.path.join(output_dir, "deference_each_round.json"))

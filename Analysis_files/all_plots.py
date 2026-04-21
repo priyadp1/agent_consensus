@@ -147,6 +147,64 @@ def plot_combined_variants(parent_output_dir, out_path):
     print(f"  [combined rounds]   -> {out_path}")
 
 
+def plot_deference_each_round(data, fig_dir):
+    """Save one bar chart per round transition into fig_dir.
+
+    Each figure mirrors plot_deference() but is filtered to a single
+    round transition.  Title: "Direction of Deference (Round N->N+1)".
+    """
+    pairs = [k for k in sorted(data.keys()) if data[k]]
+    if not pairs:
+        return
+
+    # Collect all transition keys across all pairs so every round is covered.
+    all_transitions = sorted(
+        {t for pair in pairs for t in data[pair].keys()}
+    )
+
+    os.makedirs(fig_dir, exist_ok=True)
+
+    for transition in all_transitions:
+        # Parse e.g. "round_1_to_2" -> round number label "1->2"
+        # transition format: round_{n}_to_{n+1}
+        parts = transition.split("_")   # ['round', '1', 'to', '2']
+        round_label = f"{parts[1]}->{parts[3]}"
+        round_num = parts[1]
+
+        labels = []
+        s2l_vals = []
+        l2s_vals = []
+
+        for pair in pairs:
+            if transition not in data[pair]:
+                continue
+            entry = data[pair][transition]
+            labels.append(pair)
+            s2l_vals.append(entry["small_to_large_pct"] or 0)
+            l2s_vals.append(entry["large_to_small_pct"] or 0)
+
+        if not labels:
+            continue
+
+        x = np.arange(len(labels))
+        width = 0.35
+
+        plt.figure(figsize=(16, 7))
+        plt.bar(x - width / 2, s2l_vals, width, label="Small -> Large")
+        plt.bar(x + width / 2, l2s_vals, width, label="Large -> Small")
+        plt.xticks(x, labels, rotation=30, ha="right", fontsize=26)
+        plt.yticks(fontsize=26)
+        plt.ylabel("Deference (%)", fontsize=26)
+        plt.title(f"Direction of Deference (Round {round_label})", fontsize=26)
+        plt.legend(fontsize=26, loc="upper left", bbox_to_anchor=(1.01, 1))
+        plt.tight_layout(pad=1.5)
+
+        out_path = os.path.join(fig_dir, f"deference_round_{round_num}.png")
+        plt.savefig(out_path, dpi=300, bbox_inches="tight")
+        plt.close()
+        print(f"  [deference round {round_label}] -> {out_path}")
+
+
 def plot_combined_rotated_variants(parent_output_dir, out_path):
     named_dir = os.path.join(parent_output_dir, "named_rotated")
     anon_dir = os.path.join(parent_output_dir, "anonymous_rotated")
@@ -177,9 +235,11 @@ def plot_combined_rotated_variants(parent_output_dir, out_path):
 if __name__ == "__main__":
     dirs_with_directional = sorted(find_dirs_with(OUTPUT_ROOT, "directional.json"))
     dirs_with_metrics = sorted(find_dirs_with(OUTPUT_ROOT, "interagent_disagree.json"))
+    dirs_with_deference_rounds = sorted(find_dirs_with(OUTPUT_ROOT, "deference_each_round.json"))
 
     print(f"Found {len(dirs_with_directional)} directional files, "
-          f"{len(dirs_with_metrics)} metrics files.\n")
+          f"{len(dirs_with_metrics)} metrics files, "
+          f"{len(dirs_with_deference_rounds)} deference-per-round files.\n")
 
     for output_dir in dirs_with_directional:
         fig_dir = output_to_figures(output_dir)
@@ -203,6 +263,16 @@ if __name__ == "__main__":
             output_dir,
             os.path.join(fig_dir, "rounds_disagreement.png"),
         )
+
+    print(f"\nPlotting deference per round ({len(dirs_with_deference_rounds)} datasets).\n")
+    for output_dir in dirs_with_deference_rounds:
+        fig_dir = output_to_figures(output_dir)
+        print(f"Plotting deference per round: {output_dir}")
+        data = load_json(os.path.join(output_dir, "deference_each_round.json"))
+        if not data:
+            print("  [SKIP] Empty.\n")
+            continue
+        plot_deference_each_round(data, fig_dir)
 
     combined_parents = sorted(find_combined_parents(OUTPUT_ROOT))
     print(f"\nFound {len(combined_parents)} experiment(s) with both named and anonymous variants.\n")

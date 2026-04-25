@@ -10,21 +10,21 @@ from models.model import run_model
 from agents.multiagent import agent_talk
 from main import load_config, get_completed, parse_answer
 
+# Maximum number of questions processed concurrently
+CONCURRENCY = 20
+
 
 def rank_models(agent_to_model):
     # Return (biggest, middle, smallest) model names by detecting the model family.
     models = set(agent_to_model.values())
 
     gpt41_family = {"gpt-4.1", "gpt-4.1-mini", "gpt-4.1-nano"}
-    llama_family = {"Meta-Llama-3.1-405B-Instruct", "Llama-3.3-70B-Instruct", "Meta-Llama-3.1-8B-Instruct"}
-    random_family = {"grok-3", "DeepSeek-R1", "Llama-3.3-70B-Instruct"}
+    random_family = {"Mistral-Large-3", "Kimi-K2.6", "Llama-4-Maverick-17B-128E-Instruct-FP8"}
 
     if models == gpt41_family:
         return "gpt-4.1", "gpt-4.1-mini", "gpt-4.1-nano"
-    elif models == llama_family:
-        return "Meta-Llama-3.1-405B-Instruct", "Llama-3.3-70B-Instruct", "Meta-Llama-3.1-8B-Instruct"
     elif models == random_family:
-        return "grok-3", "DeepSeek-R1", "Llama-3.3-70B-Instruct"
+        return "Kimi-K2.6", "Mistral-Large-3", "Llama-4-Maverick-17B-128E-Instruct-FP8"
     else:
         raise ValueError(f"Unknown model family: {models}")
 
@@ -127,63 +127,71 @@ async def run_rotated_experiment(config_path, results_root):
             key=lambda x: int(x[2:-5])
         )
 
+        # Print skips upfront, then process pending questions in parallel
+        pending = []
         for fname in files:
             qid = int(fname[2:-5])
-
             if qid in completed:
                 print(f"[SKIP] {variant} rotated question {qid}")
-                continue
-
-            with open(os.path.join(old_results_dir, fname)) as f:
-                old = json.load(f)
-
-            R1 = old["rounds"][0]
-            num_options = len(old["options"])
-
-            R1_rotated = rotate_R1_answers(
-                R1, biggest_key, middle_key, smallest_key, num_options
-            )
-
-            rotation_applied = R1_rotated is not None
-            if not rotation_applied:
-                R1_rotated = R1
-
-            if use_agent_labels:
-                # R1_rotated is keyed by model name; remap to agent labels for agent_talk
-                history = [{
-                    model_to_agent[model]: R1_rotated[model]["raw_output"]
-                    for model in [biggest_model, middle_model, smallest_model]
-                }]
             else:
-                history = [{
-                    agent: R1_rotated[agent]["raw_output"]
-                    for agent in agents
-                }]
+                pending.append((qid, fname))
 
-            new_rounds = await agent_talk(
-                agents=agents,
-                agent_runners=agent_runners,
-                question=old["question"],
-                options=old["options"],
-                selections=None,
-                max_rounds=config["defaults"]["max_rounds"],
-                history=history
-            )
+        sem = asyncio.Semaphore(CONCURRENCY)
 
-            parsed_rounds = [parse_round(r, num_options) for r in new_rounds]
+        async def process_one(qid, fname, use_agent_labels=use_agent_labels, new_dir=new_dir):
+            async with sem:
+                with open(os.path.join(old_results_dir, fname)) as f:
+                    old = json.load(f)
 
-            output = {
-                "question": old["question"],
-                "options": old["options"],
-                "agent_models": agent_to_model,
-                "rounds": parsed_rounds,
-                "rotation": rotation_applied
-            }
+                R1 = old["rounds"][0]
+                num_options = len(old["options"])
 
-            with open(os.path.join(new_dir, f"q_{qid}.json"), "w") as f:
-                json.dump(output, f, indent=2)
+                R1_rotated = rotate_R1_answers(
+                    R1, biggest_key, middle_key, smallest_key, num_options
+                )
 
-            print(f"[SAVED] {variant} rotated convo {qid} -> {new_dir}")
+                rotation_applied = R1_rotated is not None
+                if not rotation_applied:
+                    R1_rotated = R1
+
+                if use_agent_labels:
+                    # R1_rotated is keyed by model name; remap to agent labels for agent_talk
+                    history = [{
+                        model_to_agent[model]: R1_rotated[model]["raw_output"]
+                        for model in [biggest_model, middle_model, smallest_model]
+                    }]
+                else:
+                    history = [{
+                        agent: R1_rotated[agent]["raw_output"]
+                        for agent in agents
+                    }]
+
+                new_rounds = await agent_talk(
+                    agents=agents,
+                    agent_runners=agent_runners,
+                    question=old["question"],
+                    options=old["options"],
+                    selections=None,
+                    max_rounds=config["defaults"]["max_rounds"],
+                    history=history
+                )
+
+                parsed_rounds = [parse_round(r, num_options) for r in new_rounds]
+
+                output = {
+                    "question": old["question"],
+                    "options": old["options"],
+                    "agent_models": agent_to_model,
+                    "rounds": parsed_rounds,
+                    "rotation": rotation_applied
+                }
+
+                with open(os.path.join(new_dir, f"q_{qid}.json"), "w") as f:
+                    json.dump(output, f, indent=2)
+
+                print(f"[SAVED] {variant} rotated convo {qid} -> {new_dir}")
+
+        await asyncio.gather(*[process_one(qid, fname) for qid, fname in pending])
 
 
 if __name__ == "__main__":

@@ -1,3 +1,6 @@
+import asyncio
+
+
 async def agent_talk(agents, agent_runners, question, options, selections=None, max_rounds=3, history=None, show_agent_names=True):
     # selections is unused but kept for API compatibility
     # history: pass an existing list of round dicts to resume a previous conversation
@@ -18,9 +21,8 @@ async def agent_talk(agents, agent_runners, question, options, selections=None, 
     start_round = len(history)
 
     for _ in range(start_round, max_rounds):
-        round_answers = {}
 
-        for agent_id in agents:
+        def build_prompt_for_agent(agent_id):
             # If prior rounds exist, inject other agents' most recent answers as context
             if history:
                 other_responses = [
@@ -44,8 +46,7 @@ Here are answers from other respondents:
                 # First round: no prior context
                 context = ""
 
-            # Build the full prompt with the question, options, and peer context
-            prompt = f"""
+            return f"""
 You are answering a subjective public opinion survey question.
 
 Question:
@@ -68,17 +69,19 @@ where <LETTER> is one of: {allowed}
 Please ensure the final answer line appears exactly as shown, with no additional text after it.
 """
 
-            # Run the agent with the constructed prompt
+        async def call_agent(agent_id):
+            prompt = build_prompt_for_agent(agent_id)
             runner = agent_runners[agent_id]
-            response = runner(prompt)
-
-            # Normalize response to a string; treat non-string results as empty
+            response = await asyncio.to_thread(runner, prompt)
             if not isinstance(response, str):
                 response = ""
             else:
                 response = response.strip()
+            return agent_id, response
 
-            round_answers[agent_id] = response
+        # Run all agents in parallel within each round
+        results = await asyncio.gather(*[call_agent(agent_id) for agent_id in agents])
+        round_answers = {agent_id: response for agent_id, response in results}
 
         # Record all agents' answers for this round
         history.append(round_answers)

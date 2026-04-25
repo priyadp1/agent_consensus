@@ -13,6 +13,9 @@ from agents.multiagent import agent_talk
 from preprocessing.filter_questions import valid_question
 from models.model2 import SYSTEM_PROMPTS
 
+# Maximum number of questions processed concurrently
+CONCURRENCY = 20
+
 
 def load_config(path):
     # Load a YAML config file and return it as a dict
@@ -96,7 +99,7 @@ def parse_answer(text, num_options):
     return match.group(1)
 
 
-def single_agent(config):
+async def single_agent(config):
     # Run a single-agent experiment: one model answers each question independently
     data_path = config["data"]["path"]
     options_key = config["data"]["options_key"]
@@ -109,43 +112,52 @@ def single_agent(config):
     os.makedirs(results_dir, exist_ok=True)
 
     completed = get_completed(results_dir)
-    used = 0
 
+    # Collect all valid questions up to limit, preserving their index
+    all_valid = []
+    used = 0
     for example in stream_jsonL(data_path):
         if not valid_question(example, key=options_key):
             continue
-
-        # Skip questions already processed in a previous run
-        if used in completed:
-            print(f"[SKIP] Single-agent question {used}")
-            used += 1
-            continue
-
-        prompt = build_prompt(example, options_key=options_key)
-        raw = run_model(prompt)
-
-        # Treat non-string model output as a failure
-        if not isinstance(raw, str):
-            raw = ""
-
-        options = example[options_key]
-        output = {
-            "question": example["question"],
-            "options": options,
-            "answer": parse_answer(raw, len(options)),
-            "raw_output": raw.strip(),
-            "model_failed": raw == ""
-        }
-
-        output_path = os.path.join(results_dir, f"q_{used}.json")
-        with open(output_path, "w") as f:
-            json.dump(output, f, indent=2)
-
-        print(f"[SAVED] Single-agent convo {used} -> {output_path}")
-
+        all_valid.append((used, example))
         used += 1
         if used >= limit:
             break
+
+    # Print skips upfront, then process pending questions in parallel
+    pending = []
+    for qid, example in all_valid:
+        if qid in completed:
+            print(f"[SKIP] Single-agent question {qid}")
+        else:
+            pending.append((qid, example))
+
+    sem = asyncio.Semaphore(CONCURRENCY)
+
+    async def process_one(qid, example):
+        async with sem:
+            prompt = build_prompt(example, options_key=options_key)
+            raw = await asyncio.to_thread(run_model, prompt)
+
+            if not isinstance(raw, str):
+                raw = ""
+
+            options = example[options_key]
+            output = {
+                "question": example["question"],
+                "options": options,
+                "answer": parse_answer(raw, len(options)),
+                "raw_output": raw.strip(),
+                "model_failed": raw == ""
+            }
+
+            output_path = os.path.join(results_dir, f"q_{qid}.json")
+            with open(output_path, "w") as f:
+                json.dump(output, f, indent=2)
+
+            print(f"[SAVED] Single-agent convo {qid} -> {output_path}")
+
+    await asyncio.gather(*[process_one(qid, ex) for qid, ex in pending])
 
 
 async def multi_agent(config):
@@ -160,12 +172,12 @@ async def multi_agent(config):
 
     agents = list(agent_models.values())
 
-    # LOOP OVER SYSTEM PROMPT CONDITIONS
+    # Loop over system prompt conditions
     for condition_name, sp in SYSTEM_PROMPTS.items():
 
         print(f"\n=== Running condition: {condition_name} ===")
 
-        # Build agent runners with THIS system prompt
+        # Build agent runners with this system prompt
         agent_runners = {
             model_name: (
                 lambda p, m=model_name, sp=sp:
@@ -188,70 +200,76 @@ async def multi_agent(config):
             os.makedirs(results_dir, exist_ok=True)
 
             completed = get_completed(results_dir)
+
+            # Collect all valid questions up to limit, preserving their index
+            all_valid = []
             used = 0
-
-            print(f"\n  [{condition_name.upper()} | {variant.upper()}] Starting...")
-
             for example in stream_jsonL(data_path):
                 if not valid_question(example, key=options_key):
                     continue
-
-                if used in completed:
-                    print(f"[SKIP] {condition_name} ({variant}) question {used}")
-                    used += 1
-                    continue
-
-                options = example[options_key]
-
-                history = await agent_talk(
-                    agents=agents,
-                    agent_runners=agent_runners,
-                    question=example["question"],
-                    options=options,
-                    selections=example.get("selections"),
-                    max_rounds=max_rounds,
-                    show_agent_names=show_agent_names
-                )
-
-                parsed_rounds = []
-
-                for round_data in history:
-                    parsed = {}
-                    for agent_id, raw in round_data.items():
-                        if not isinstance(raw, str):
-                            raw = ""
-
-                        parsed[agent_id] = {
-                            "answer": parse_answer(raw, len(options)),
-                            "raw_output": raw.strip(),
-                            "model_failed": raw == ""
-                        }
-
-                    parsed_rounds.append(parsed)
-
-                output = {
-                    "question": example["question"],
-                    "options": options,
-                    "agent_models": agent_models,
-                    "system_prompt_condition": condition_name,
-                    "variant": variant,
-                    "rounds": parsed_rounds
-                }
-
-                output_path = os.path.join(results_dir, f"q_{used}.json")
-
-                with open(output_path, "w") as f:
-                    json.dump(output, f, indent=2)
-
-                print(
-                    f"[SAVED] {condition_name} ({variant}) convo {used} "
-                    f"(agents={len(agents)}, rounds={max_rounds}) -> {output_path}"
-                )
-
+                all_valid.append((used, example))
                 used += 1
                 if used >= limit:
                     break
 
+            print(f"\n  [{condition_name.upper()} | {variant.upper()}] Starting...")
+
+            # Print skips upfront, then process pending questions in parallel
+            pending = []
+            for qid, example in all_valid:
+                if qid in completed:
+                    print(f"[SKIP] {condition_name} ({variant}) question {qid}")
+                else:
+                    pending.append((qid, example))
+
+            sem = asyncio.Semaphore(CONCURRENCY)
+
+            async def process_one(qid, example, show_agent_names=show_agent_names, results_dir=results_dir):
+                async with sem:
+                    options = example[options_key]
+
+                    history = await agent_talk(
+                        agents=agents,
+                        agent_runners=agent_runners,
+                        question=example["question"],
+                        options=options,
+                        selections=example.get("selections"),
+                        max_rounds=max_rounds,
+                        show_agent_names=show_agent_names
+                    )
+
+                    parsed_rounds = []
+                    for round_data in history:
+                        parsed = {}
+                        for agent_id, raw in round_data.items():
+                            if not isinstance(raw, str):
+                                raw = ""
+                            parsed[agent_id] = {
+                                "answer": parse_answer(raw, len(options)),
+                                "raw_output": raw.strip(),
+                                "model_failed": raw == ""
+                            }
+                        parsed_rounds.append(parsed)
+
+                    output = {
+                        "question": example["question"],
+                        "options": options,
+                        "agent_models": agent_models,
+                        "system_prompt_condition": condition_name,
+                        "variant": variant,
+                        "rounds": parsed_rounds
+                    }
+
+                    output_path = os.path.join(results_dir, f"q_{qid}.json")
+                    with open(output_path, "w") as f:
+                        json.dump(output, f, indent=2)
+
+                    print(
+                        f"[SAVED] {condition_name} ({variant}) convo {qid} "
+                        f"(agents={len(agents)}, rounds={max_rounds}) -> {output_path}"
+                    )
+
+            await asyncio.gather(*[process_one(qid, ex) for qid, ex in pending])
 
 
 if __name__ == "__main__":
@@ -277,6 +295,6 @@ if __name__ == "__main__":
 
         # Dispatch to single- or multi-agent runner based on agent count
         if num_agents == 1:
-            single_agent(config)
+            asyncio.run(single_agent(config))
         else:
             asyncio.run(multi_agent(config))

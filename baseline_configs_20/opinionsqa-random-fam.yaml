@@ -1,0 +1,16 @@
+experiment:
+  name: random-fam
+  results_root: results/OpinionsQA/20_rounds/random-fam/agents_3_questions_2089
+
+data:
+  path: data/jsonl/OpinionsQA/combined.jsonl
+  options_key: perspectives
+
+agents:
+  Agent 1: Llama-4-Maverick-17B-128E-Instruct-FP8
+  Agent 2: Mistral-Large-3
+  Agent 3: Kimi-K2.6
+
+defaults:
+  limit: 2089
+  max_rounds: 20

@@ -10,11 +10,9 @@ AZURE_OPENAI_MODELS = {
 }
 
 FOUNDRY_MODELS = {
-    "DeepSeek-R1",
-    "grok-3",
-    "Llama-3.3-70B-Instruct",
-    "Meta-Llama-3.1-405B-Instruct",
-    "Meta-Llama-3.1-8B-Instruct"
+    "Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "Mistral-Large-3",
+    "Kimi-K2.6",
 
 }
 

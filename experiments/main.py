@@ -13,7 +13,7 @@ from agents.multiagent import agent_talk
 from preprocessing.filter_questions import valid_question
 
 # Maximum number of questions processed concurrently
-CONCURRENCY = 20
+CONCURRENCY = 3
 
 
 def load_config(path):

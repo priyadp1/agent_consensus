@@ -1,14 +1,14 @@
 experiment:
-  name: random-fam
-  results_root: results/GlobalOpinionsQA/20_rounds/random-fam/agents_3_questions_2089
+  name: gpt-4.1-fam
+  results_root: results/GlobalOpinionsQA/20_rounds/gpt-4.1-fam/agents_3_questions_2089
 
 data:
   path: data/jsonl/GlobalOpinionsQA/train.jsonl
 
 agents:
-  Agent 1: Llama-4-Maverick-17B-128E-Instruct-FP8
-  Agent 2: Mistral-Large-3
-  Agent 3: Kimi-K2.6
+  Agent 1: gpt-4.1-nano
+  Agent 2: gpt-4.1-mini
+  Agent 3: gpt-4.1
 
 defaults:
   limit: 2556

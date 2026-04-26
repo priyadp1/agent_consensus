@@ -2,7 +2,6 @@ import json
 import os
 import sys
 import asyncio
-import re
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -47,15 +46,14 @@ def rotate_R1_answers(R1, biggest_key, middle_key, smallest_key, num_options):
     if len({biggest_answer, middle_answer, smallest_answer}) == 1:
         return None
 
-    def swap_answers(raw, new_answer):
-        return re.sub(r"ANSWER:\s*[A-Z]", f"ANSWER: {new_answer}", raw)
-
+    # Rotate full raw_output (reasoning + answer) so they stay consistent:
+    # biggest gets middle's output, middle gets smallest's, smallest gets biggest's.
     R1_rotated = json.loads(json.dumps(R1))
-    R1_rotated[middle_key]["raw_output"]   = swap_answers(ori_middle,   smallest_answer)
-    R1_rotated[middle_key]["answer"]       = smallest_answer
-    R1_rotated[biggest_key]["raw_output"]  = swap_answers(ori_biggest,  middle_answer)
+    R1_rotated[biggest_key]["raw_output"]  = ori_middle
     R1_rotated[biggest_key]["answer"]      = middle_answer
-    R1_rotated[smallest_key]["raw_output"] = swap_answers(ori_smallest, biggest_answer)
+    R1_rotated[middle_key]["raw_output"]   = ori_smallest
+    R1_rotated[middle_key]["answer"]       = smallest_answer
+    R1_rotated[smallest_key]["raw_output"] = ori_biggest
     R1_rotated[smallest_key]["answer"]     = biggest_answer
 
     return R1_rotated

@@ -1,15 +1,15 @@
 experiment:
-  name: random-fam
-  results_root: results/HLE/20_rounds/random-fam/without_revise/agents_3_questions_591
+  name: gpt-4.1-fam
+  results_root: results/HLE/20_rounds/gpt-4.1-fam/without_revise/agents_3_questions_591
 
 data:
   path: data/jsonl/hle/test_processed.jsonl
   options_key: options
 
 agents:
-  Agent 1: Llama-4-Maverick-17B-128E-Instruct-FP8
-  Agent 2: Mistral-Large-3
-  Agent 3: Kimi-K2.6
+  Agent 1: gpt-4.1-nano
+  Agent 2: gpt-4.1-mini
+  Agent 3: gpt-4.1
 
 defaults:
   limit: 2556

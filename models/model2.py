@@ -44,9 +44,18 @@ def create_azure_openai_client():
 
 
 def create_foundry_client():
+    from urllib.parse import urlparse, parse_qs, urlunparse
+    raw = os.environ["AZURE_FOUNDRY_ENDPOINT"].strip()
+    parsed = urlparse(raw)
+    path = parsed.path.rstrip("/")
+    if path.endswith("/chat/completions"):
+        path = path[:-len("/chat/completions")]
+    base_url = urlunparse((parsed.scheme, parsed.netloc, path, "", "", ""))
+    api_version = parse_qs(parsed.query).get("api-version", ["2024-05-01-preview"])[0]
     return OpenAI(
-        base_url=os.environ["AZURE_FOUNDRY_ENDPOINT"],
+        base_url=base_url,
         api_key=os.environ["AZURE_FOUNDRY_API_KEY"],
+        default_query={"api-version": api_version},
     )
 
 def run_model(prompt: str, model_name: str = DEFAULT_MODEL_NAME, system_prompt = "You are a helpful AI assistant.") -> str:

@@ -1,0 +1,15 @@
+experiment:
+  name: gpt-4.1-NULL
+  results_root: results/anthropic-persona/20_rounds/gpt-4.1-NULL/agents_3_questions_2089
+data:
+  path: data/jsonl/anthropic-evals/persona_combined.jsonl
+  options_key: options
+
+agents:
+  Agent 1: gpt-4.1
+  Agent 2: gpt-4.1
+  Agent 3: gpt-4.1
+
+defaults:
+  limit: 300
+  max_rounds: 20

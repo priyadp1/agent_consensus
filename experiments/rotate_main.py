@@ -10,7 +10,7 @@ from agents.multiagent import agent_talk
 from main import load_config, get_completed, parse_answer
 
 # Maximum number of questions processed concurrently
-CONCURRENCY = 20
+CONCURRENCY = 3
 
 
 def rank_models(agent_to_model):

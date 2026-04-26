@@ -1,1 +1,23 @@
-{}
+{
+  "Llama-4-Maverick-17B-128E-Instruct-FP8 -> Kimi-K2.6": {
+    "initial_disagreements": 2825,
+    "small_to_large": 1885,
+    "large_to_small": 1795,
+    "small_to_large_pct": 66.73,
+    "large_to_small_pct": 63.54
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8 -> Mistral-Large-3": {
+    "initial_disagreements": 2713,
+    "small_to_large": 1264,
+    "large_to_small": 1477,
+    "small_to_large_pct": 46.59,
+    "large_to_small_pct": 54.44
+  },
+  "Mistral-Large-3 -> Kimi-K2.6": {
+    "initial_disagreements": 3587,
+    "small_to_large": 2280,
+    "large_to_small": 1983,
+    "small_to_large_pct": 63.56,
+    "large_to_small_pct": 55.28
+  }
+}

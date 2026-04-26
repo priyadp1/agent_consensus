@@ -201,10 +201,12 @@ def analyze_conditioned(original_data):
 
         for i, (label_small, m_small) in enumerate(agent_items):
             for label_large, m_large in agent_items[i + 1:]:
-                if MODEL_ORDER.get(m_small, -1) >= MODEL_ORDER.get(m_large, -1):
+                order_small = (MODEL_ORDER.get(m_small, -1), label_small)
+                order_large = (MODEL_ORDER.get(m_large, -1), label_large)
+                if order_small >= order_large:
                     continue
 
-                key = f"{m_small} -> {m_large}"
+                key = f"{m_small} ({label_small}) -> {m_large} ({label_large})" if m_small == m_large else f"{m_small} -> {m_large}"
 
                 for n in range(1, len(rounds)):
                     r_prev = rounds[n - 1]
@@ -270,10 +272,12 @@ def model_deference_each_round(data):
 
         for i, (label_small, m_small) in enumerate(agent_items):
             for label_large, m_large in agent_items[i + 1:]:
-                if MODEL_ORDER.get(m_small, -1) >= MODEL_ORDER.get(m_large, -1):
+                order_small = (MODEL_ORDER.get(m_small, -1), label_small)
+                order_large = (MODEL_ORDER.get(m_large, -1), label_large)
+                if order_small >= order_large:
                     continue
 
-                key = f"{m_small} -> {m_large}"
+                key = f"{m_small} ({label_small}) -> {m_large} ({label_large})" if m_small == m_large else f"{m_small} -> {m_large}"
 
                 for n in range(1, len(rounds)):
                     r_prev = rounds[n - 1]

@@ -1,1 +1,23 @@
-{}
+{
+  "gpt-4.1 (Agent 1) -> gpt-4.1 (Agent 2)": {
+    "initial_disagreements": 169,
+    "small_to_large": 119,
+    "large_to_small": 113,
+    "small_to_large_pct": 70.41,
+    "large_to_small_pct": 66.86
+  },
+  "gpt-4.1 (Agent 1) -> gpt-4.1 (Agent 3)": {
+    "initial_disagreements": 182,
+    "small_to_large": 118,
+    "large_to_small": 130,
+    "small_to_large_pct": 64.84,
+    "large_to_small_pct": 71.43
+  },
+  "gpt-4.1 (Agent 2) -> gpt-4.1 (Agent 3)": {
+    "initial_disagreements": 182,
+    "small_to_large": 117,
+    "large_to_small": 131,
+    "small_to_large_pct": 64.29,
+    "large_to_small_pct": 71.98
+  }
+}

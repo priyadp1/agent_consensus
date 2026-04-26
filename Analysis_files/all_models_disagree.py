@@ -146,14 +146,16 @@ def pair_disagree(data):
     for item in data:
         rounds = item["rounds"]
         agent_models = item.get("agent_models", {})
-        model_to_label = build_model_to_label(agent_models)
-        models = list(agent_models.values())
+        agent_items = list(agent_models.items())  # [(label, model), ...]
         for r_idx, r in enumerate(rounds):
-            for i, m1 in enumerate(models):
-                for m2 in models[i + 1:]:
+            for i, (label1, m1) in enumerate(agent_items):
+                for label2, m2 in agent_items[i + 1:]:
                     key = f"{m1} vs {m2}"
-                    k1 = round_key_for_model(r, m1, model_to_label)
-                    k2 = round_key_for_model(r, m2, model_to_label)
+                    # Prefer model name as round key (fam format); fall back to agent
+                    # label (null format, where all models share the same name and
+                    # round data is keyed by "Agent 1" / "Agent 2" / ... instead)
+                    k1 = m1 if m1 in r else label1
+                    k2 = m2 if m2 in r else label2
                     a1 = get_answer(r, k1)
                     a2 = get_answer(r, k2)
                     if a1 == "INVALID" or a2 == "INVALID":
@@ -194,14 +196,11 @@ def analyze_conditioned(original_data):
 
     for item in original_data:
         agent_models = item.get("agent_models", {})
-        model_to_label = build_model_to_label(agent_models)
-        models = list(agent_models.values())
+        agent_items = list(agent_models.items())  # [(label, model), ...]
         rounds = item["rounds"]
 
-        for m_small in models:
-            for m_large in models:
-                if m_small == m_large:
-                    continue
+        for i, (label_small, m_small) in enumerate(agent_items):
+            for label_large, m_large in agent_items[i + 1:]:
                 if MODEL_ORDER.get(m_small, -1) >= MODEL_ORDER.get(m_large, -1):
                     continue
 
@@ -211,8 +210,8 @@ def analyze_conditioned(original_data):
                     r_prev = rounds[n - 1]
                     r_curr = rounds[n]
 
-                    k_small_prev = round_key_for_model(r_prev, m_small, model_to_label)
-                    k_large_prev = round_key_for_model(r_prev, m_large, model_to_label)
+                    k_small_prev = m_small if m_small in r_prev else label_small
+                    k_large_prev = m_large if m_large in r_prev else label_large
                     a_prev = get_answer(r_prev, k_small_prev)
                     b_prev = get_answer(r_prev, k_large_prev)
 
@@ -222,8 +221,8 @@ def analyze_conditioned(original_data):
 
                     initial[key] += 1
 
-                    k_small_curr = round_key_for_model(r_curr, m_small, model_to_label)
-                    k_large_curr = round_key_for_model(r_curr, m_large, model_to_label)
+                    k_small_curr = m_small if m_small in r_curr else label_small
+                    k_large_curr = m_large if m_large in r_curr else label_large
                     a_curr = get_answer(r_curr, k_small_curr)
                     b_curr = get_answer(r_curr, k_large_curr)
 
@@ -266,14 +265,11 @@ def model_deference_each_round(data):
 
     for item in data:
         agent_models = item.get("agent_models", {})
-        model_to_label = build_model_to_label(agent_models)
-        models = list(agent_models.values())
+        agent_items = list(agent_models.items())  # [(label, model), ...]
         rounds = item["rounds"]
 
-        for m_small in models:
-            for m_large in models:
-                if m_small == m_large:
-                    continue
+        for i, (label_small, m_small) in enumerate(agent_items):
+            for label_large, m_large in agent_items[i + 1:]:
                 if MODEL_ORDER.get(m_small, -1) >= MODEL_ORDER.get(m_large, -1):
                     continue
 
@@ -283,8 +279,8 @@ def model_deference_each_round(data):
                     r_prev = rounds[n - 1]
                     r_curr = rounds[n]
 
-                    k_small_prev = round_key_for_model(r_prev, m_small, model_to_label)
-                    k_large_prev = round_key_for_model(r_prev, m_large, model_to_label)
+                    k_small_prev = m_small if m_small in r_prev else label_small
+                    k_large_prev = m_large if m_large in r_prev else label_large
                     a_prev = get_answer(r_prev, k_small_prev)
                     b_prev = get_answer(r_prev, k_large_prev)
 
@@ -293,8 +289,8 @@ def model_deference_each_round(data):
 
                     counts[key][n - 1]["initial"] += 1
 
-                    k_small_curr = round_key_for_model(r_curr, m_small, model_to_label)
-                    k_large_curr = round_key_for_model(r_curr, m_large, model_to_label)
+                    k_small_curr = m_small if m_small in r_curr else label_small
+                    k_large_curr = m_large if m_large in r_curr else label_large
                     a_curr = get_answer(r_curr, k_small_curr)
                     b_curr = get_answer(r_curr, k_large_curr)
 

@@ -1,0 +1,308 @@
+{
+  "Llama-4-Maverick-17B-128E-Instruct-FP8 vs Kimi-K2.6": {
+    "round_1": {
+      "disagreements": 24,
+      "total": 37,
+      "percentage": 64.86
+    },
+    "round_2": {
+      "disagreements": 14,
+      "total": 37,
+      "percentage": 37.84
+    },
+    "round_3": {
+      "disagreements": 11,
+      "total": 37,
+      "percentage": 29.73
+    },
+    "round_4": {
+      "disagreements": 6,
+      "total": 37,
+      "percentage": 16.22
+    },
+    "round_5": {
+      "disagreements": 2,
+      "total": 37,
+      "percentage": 5.41
+    },
+    "round_6": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_7": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_8": {
+      "disagreements": 5,
+      "total": 37,
+      "percentage": 13.51
+    },
+    "round_9": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_10": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_11": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_12": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_13": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_14": {
+      "disagreements": 2,
+      "total": 37,
+      "percentage": 5.41
+    },
+    "round_15": {
+      "disagreements": 2,
+      "total": 37,
+      "percentage": 5.41
+    },
+    "round_16": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_17": {
+      "disagreements": 6,
+      "total": 37,
+      "percentage": 16.22
+    },
+    "round_18": {
+      "disagreements": 3,
+      "total": 36,
+      "percentage": 8.33
+    },
+    "round_19": {
+      "disagreements": 2,
+      "total": 37,
+      "percentage": 5.41
+    },
+    "round_20": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    }
+  },
+  "Llama-4-Maverick-17B-128E-Instruct-FP8 vs Mistral-Large-3": {
+    "round_1": {
+      "disagreements": 19,
+      "total": 37,
+      "percentage": 51.35
+    },
+    "round_2": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_3": {
+      "disagreements": 2,
+      "total": 37,
+      "percentage": 5.41
+    },
+    "round_4": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_5": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_6": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_7": {
+      "disagreements": 2,
+      "total": 37,
+      "percentage": 5.41
+    },
+    "round_8": {
+      "disagreements": 0,
+      "total": 37,
+      "percentage": 0.0
+    },
+    "round_9": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_10": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_11": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_12": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_13": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_14": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_15": {
+      "disagreements": 2,
+      "total": 37,
+      "percentage": 5.41
+    },
+    "round_16": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_17": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_18": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_19": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_20": {
+      "disagreements": 0,
+      "total": 37,
+      "percentage": 0.0
+    }
+  },
+  "Mistral-Large-3 vs Kimi-K2.6": {
+    "round_1": {
+      "disagreements": 21,
+      "total": 37,
+      "percentage": 56.76
+    },
+    "round_2": {
+      "disagreements": 13,
+      "total": 37,
+      "percentage": 35.14
+    },
+    "round_3": {
+      "disagreements": 9,
+      "total": 37,
+      "percentage": 24.32
+    },
+    "round_4": {
+      "disagreements": 7,
+      "total": 37,
+      "percentage": 18.92
+    },
+    "round_5": {
+      "disagreements": 3,
+      "total": 37,
+      "percentage": 8.11
+    },
+    "round_6": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_7": {
+      "disagreements": 5,
+      "total": 37,
+      "percentage": 13.51
+    },
+    "round_8": {
+      "disagreements": 5,
+      "total": 37,
+      "percentage": 13.51
+    },
+    "round_9": {
+      "disagreements": 6,
+      "total": 37,
+      "percentage": 16.22
+    },
+    "round_10": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_11": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_12": {
+      "disagreements": 5,
+      "total": 37,
+      "percentage": 13.51
+    },
+    "round_13": {
+      "disagreements": 5,
+      "total": 37,
+      "percentage": 13.51
+    },
+    "round_14": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_15": {
+      "disagreements": 4,
+      "total": 37,
+      "percentage": 10.81
+    },
+    "round_16": {
+      "disagreements": 5,
+      "total": 37,
+      "percentage": 13.51
+    },
+    "round_17": {
+      "disagreements": 5,
+      "total": 37,
+      "percentage": 13.51
+    },
+    "round_18": {
+      "disagreements": 4,
+      "total": 36,
+      "percentage": 11.11
+    },
+    "round_19": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    },
+    "round_20": {
+      "disagreements": 1,
+      "total": 37,
+      "percentage": 2.7
+    }
+  }
+}

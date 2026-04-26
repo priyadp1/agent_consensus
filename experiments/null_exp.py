@@ -168,13 +168,15 @@ async def multi_agent(config):
     max_rounds = config["defaults"]["max_rounds"]
     results_root = config["experiment"]["results_root"]
 
-    # Use model names as agent identifiers
-    agents = list(agent_models.values())
+    # Use agent names (keys) as unique identifiers so that experiments where all
+    # agents share the same model name (e.g. gpt-4.1-NULL) still produce separate
+    # per-agent entries in each round instead of collapsing to a single dict key.
+    agents = list(agent_models.keys())
 
-    # Create a callable runner for each agent model, capturing the model name via default arg
+    # Create a callable runner for each agent, keyed by agent name
     agent_runners = {
-        model_name: (lambda p, m=model_name: run_model(p, model_name=m))
-        for model_name in agent_models.values()
+        agent_name: (lambda p, m=model_name: run_model(p, model_name=m))
+        for agent_name, model_name in agent_models.items()
     }
 
     # Run only the anonymous variant (agents see "Respondent N" labels, not real model names)

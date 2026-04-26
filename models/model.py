@@ -15,24 +15,23 @@ AZURE_OPENAI_MODELS = {
 }
 
 FOUNDRY_MODELS = {
-    "Llama-4-Maverick-17B-128E-Instruct-FP8",
     "Mistral-Large-3",
-    "Kimi-K2.6",
+    "Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "Phi-4",
 }
 
 # Max concurrent in-flight requests per model.
 # Foundry models (especially Kimi) have strict rate limits.
 _MODEL_CONCURRENCY = {
-    "Kimi-K2.6": 1,
     "Mistral-Large-3": 1,
     "Llama-4-Maverick-17B-128E-Instruct-FP8": 2,
+    "Phi-4": 2,
 }
 _DEFAULT_CONCURRENCY = 4
 
 # Minimum seconds between consecutive requests to a model.
 # Enforced while holding the semaphore so the gap is respected even under load.
 _MODEL_MIN_INTERVAL = {
-    "Kimi-K2.6": 3.0,
     "Mistral-Large-3": 2.0,
 }
 

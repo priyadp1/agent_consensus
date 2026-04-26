@@ -1,7 +1,15 @@
 import json
 import os
+import re
 import matplotlib.pyplot as plt
 import numpy as np
+
+
+def clean_pair_label(key):
+    """Strip model name from keys like 'gpt-4.1 (Agent 1) -> gpt-4.1 (Agent 2)' -> 'Agent 1 -> Agent 2'.
+    Leaves family-style keys like 'gpt-4.1-mini -> gpt-4.1' unchanged."""
+    m = re.match(r"^\S+ \((\w+ \d+)\) -> \S+ \((\w+ \d+)\)$", key)
+    return f"{m.group(1)} -> {m.group(2)}" if m else key
 
 OUTPUT_ROOT = "new_analysis_outputs"
 FIGURES_ROOT = "new_figures"
@@ -36,9 +44,10 @@ def find_dirs_with(root, filename):
 # ── Plot functions ────────────────────────────────────────────────────────────
 
 def plot_deference(data, out_path):
-    labels = list(data.keys())
-    small_to_large = [data[k]["small_to_large_pct"] for k in labels]
-    large_to_small = [data[k]["large_to_small_pct"] for k in labels]
+    keys = list(data.keys())
+    labels = [clean_pair_label(k) for k in keys]
+    small_to_large = [data[k]["small_to_large_pct"] for k in keys]
+    large_to_small = [data[k]["large_to_small_pct"] for k in keys]
 
     x = np.arange(len(labels))
     width = 0.35
@@ -179,7 +188,7 @@ def plot_deference_each_round(data, fig_dir):
             if transition not in data[pair]:
                 continue
             entry = data[pair][transition]
-            labels.append(pair)
+            labels.append(clean_pair_label(pair))
             s2l_vals.append(entry["small_to_large_pct"] or 0)
             l2s_vals.append(entry["large_to_small_pct"] or 0)
 

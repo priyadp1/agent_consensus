@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -63,11 +64,12 @@ def plot_deference_accuracy_outcomes(output_dir, out_path):
     if not data:
         return
 
-    labels = sorted(data.keys())
-    s2l_w2c = [data[k].get("s2l_w2c_pct", 0) for k in labels]
-    s2l_c2w = [data[k].get("s2l_c2w_pct", 0) for k in labels]
-    l2s_w2c = [data[k].get("l2s_w2c_pct", 0) for k in labels]
-    l2s_c2w = [data[k].get("l2s_c2w_pct", 0) for k in labels]
+    keys = sorted(data.keys())
+    labels = [re.sub(r"^\S+ \((\w+ \d+)\) -> \S+ \((\w+ \d+)\)$", r"\1 -> \2", k) for k in keys]
+    s2l_w2c = [data[k].get("s2l_w2c_pct", 0) for k in keys]
+    s2l_c2w = [data[k].get("s2l_c2w_pct", 0) for k in keys]
+    l2s_w2c = [data[k].get("l2s_w2c_pct", 0) for k in keys]
+    l2s_c2w = [data[k].get("l2s_c2w_pct", 0) for k in keys]
 
     x = np.arange(len(labels))
     width = 0.2

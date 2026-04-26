@@ -165,26 +165,25 @@ def compute_deference_accuracy(data, ground_truth, num_rounds):
             continue
 
         agent_models = item.get("agent_models", {})
-        model_to_label = build_model_to_label(agent_models)
-        models = list(agent_models.values())
+        agent_items = list(agent_models.items())  # [(label, model), ...]
 
-        for m_small in models:
-            for m_large in models:
-                if m_small == m_large:
+        for i, (label_small, m_small) in enumerate(agent_items):
+            for label_large, m_large in agent_items[i + 1:]:
+                if MODEL_ORDER.get(m_small, -1) == -1 or MODEL_ORDER.get(m_large, -1) == -1:
                     continue
-                if m_small not in MODEL_ORDER or m_large not in MODEL_ORDER:
-                    continue
-                if MODEL_ORDER[m_small] >= MODEL_ORDER[m_large]:
+                order_small = (MODEL_ORDER[m_small], label_small)
+                order_large = (MODEL_ORDER[m_large], label_large)
+                if order_small >= order_large:
                     continue  # only consider (smaller, larger) pairs
 
-                key = f"{m_small} -> {m_large}"
+                key = f"{m_small} ({label_small}) -> {m_large} ({label_large})" if m_small == m_large else f"{m_small} -> {m_large}"
 
                 for n in range(1, min(len(rounds), num_rounds)):
                     r_prev = rounds[n - 1]
                     r_curr = rounds[n]
 
-                    k_small_prev = round_key_for_model(r_prev, m_small, model_to_label)
-                    k_large_prev = round_key_for_model(r_prev, m_large, model_to_label)
+                    k_small_prev = m_small if m_small in r_prev else label_small
+                    k_large_prev = m_large if m_large in r_prev else label_large
                     a_small = get_answer(r_prev, k_small_prev)
                     a_large = get_answer(r_prev, k_large_prev)
 
@@ -193,8 +192,8 @@ def compute_deference_accuracy(data, ground_truth, num_rounds):
 
                     initial[key] += 1
 
-                    k_small_curr = round_key_for_model(r_curr, m_small, model_to_label)
-                    k_large_curr = round_key_for_model(r_curr, m_large, model_to_label)
+                    k_small_curr = m_small if m_small in r_curr else label_small
+                    k_large_curr = m_large if m_large in r_curr else label_large
                     cur_small = get_answer(r_curr, k_small_curr)
                     cur_large = get_answer(r_curr, k_large_curr)
 

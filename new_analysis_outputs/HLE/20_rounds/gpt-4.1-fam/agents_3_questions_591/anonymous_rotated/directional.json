@@ -1,23 +1,23 @@
 {
   "gpt-4.1-mini -> gpt-4.1": {
-    "initial_disagreements": 697,
-    "small_to_large": 547,
-    "large_to_small": 496,
-    "small_to_large_pct": 78.48,
-    "large_to_small_pct": 71.16
+    "initial_disagreements": 612,
+    "small_to_large": 493,
+    "large_to_small": 439,
+    "small_to_large_pct": 80.56,
+    "large_to_small_pct": 71.73
   },
   "gpt-4.1-nano -> gpt-4.1": {
-    "initial_disagreements": 541,
-    "small_to_large": 366,
-    "large_to_small": 341,
-    "small_to_large_pct": 67.65,
-    "large_to_small_pct": 63.03
+    "initial_disagreements": 552,
+    "small_to_large": 379,
+    "large_to_small": 393,
+    "small_to_large_pct": 68.66,
+    "large_to_small_pct": 71.2
   },
   "gpt-4.1-nano -> gpt-4.1-mini": {
-    "initial_disagreements": 486,
-    "small_to_large": 220,
-    "large_to_small": 326,
-    "small_to_large_pct": 45.27,
-    "large_to_small_pct": 67.08
+    "initial_disagreements": 468,
+    "small_to_large": 273,
+    "large_to_small": 271,
+    "small_to_large_pct": 58.33,
+    "large_to_small_pct": 57.91
   }
 }

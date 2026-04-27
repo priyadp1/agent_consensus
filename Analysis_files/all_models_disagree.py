@@ -11,10 +11,10 @@ MODEL_ORDER = {
     "Phi-4": 0,
     "Llama-4-Maverick-17B-128E-Instruct-FP8": 1,
     "Mistral-Large-3": 2,
-    # Random models (legacy)
-    "Llama-3.3-70B-Instruct": 0,
-    "DeepSeek-R1": 1,
-    "grok-3": 2,
+    #Mistral Models
+    "Ministral-3B": 0,
+    "mistral-medium-2505": 1,
+    "Mistral-Large-3": 2,
     # GPT-4.1 family
     "gpt-4.1-nano": 0,
     "gpt-4.1-mini": 1,

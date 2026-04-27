@@ -1,0 +1,16 @@
+experiment:
+  name: mistral-fam
+  results_root: results/anthropic-persona/20_rounds/mistral-fam/agents_3_questions_2089
+
+data:
+  path: data/jsonl/anthropic-evals/persona_combined.jsonl
+  options_key: options
+
+agents:
+  Agent 1: Mistral-Large-3
+  Agent 2: mistral-medium-2505
+  Agent 3: Ministral-3B
+
+defaults:
+  limit: 300
+  max_rounds: 20

@@ -1,0 +1,85 @@
+{
+  "Ministral-3B -> Mistral-Large-3": {
+    "round_1_to_2": {
+      "initial_disagreements": 1,
+      "small_to_large": 1,
+      "large_to_small": 1,
+      "small_to_large_pct": 100.0,
+      "large_to_small_pct": 100.0
+    },
+    "round_2_to_3": {
+      "initial_disagreements": 1,
+      "small_to_large": 1,
+      "large_to_small": 0,
+      "small_to_large_pct": 100.0,
+      "large_to_small_pct": 0.0
+    },
+    "round_12_to_13": {
+      "initial_disagreements": 1,
+      "small_to_large": 0,
+      "large_to_small": 1,
+      "small_to_large_pct": 0.0,
+      "large_to_small_pct": 100.0
+    },
+    "round_16_to_17": {
+      "initial_disagreements": 1,
+      "small_to_large": 0,
+      "large_to_small": 0,
+      "small_to_large_pct": 0.0,
+      "large_to_small_pct": 0.0
+    },
+    "round_19_to_20": {
+      "initial_disagreements": 1,
+      "small_to_large": 0,
+      "large_to_small": 1,
+      "small_to_large_pct": 0.0,
+      "large_to_small_pct": 100.0
+    }
+  },
+  "Ministral-3B -> mistral-medium-2505": {
+    "round_1_to_2": {
+      "initial_disagreements": 2,
+      "small_to_large": 1,
+      "large_to_small": 1,
+      "small_to_large_pct": 50.0,
+      "large_to_small_pct": 50.0
+    },
+    "round_2_to_3": {
+      "initial_disagreements": 1,
+      "small_to_large": 1,
+      "large_to_small": 0,
+      "small_to_large_pct": 100.0,
+      "large_to_small_pct": 0.0
+    }
+  },
+  "mistral-medium-2505 -> Mistral-Large-3": {
+    "round_1_to_2": {
+      "initial_disagreements": 1,
+      "small_to_large": 1,
+      "large_to_small": 0,
+      "small_to_large_pct": 100.0,
+      "large_to_small_pct": 0.0
+    },
+    "round_12_to_13": {
+      "initial_disagreements": 1,
+      "small_to_large": 0,
+      "large_to_small": 1,
+      "small_to_large_pct": 0.0,
+      "large_to_small_pct": 100.0
+    },
+    "round_16_to_17": {
+      "initial_disagreements": 1,
+      "small_to_large": 0,
+      "large_to_small": 1,
+      "small_to_large_pct": 0.0,
+      "large_to_small_pct": 100.0
+    },
+    "round_19_to_20": {
+      "initial_disagreements": 1,
+      "small_to_large": 0,
+      "large_to_small": 1,
+      "small_to_large_pct": 0.0,
+      "large_to_small_pct": 100.0
+    }
+  }
+}

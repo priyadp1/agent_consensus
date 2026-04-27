@@ -17,6 +17,8 @@ FOUNDRY_MODELS = {
     "Mistral-Large-3",
     "Llama-4-Maverick-17B-128E-Instruct-FP8",
     "Phi-4",
+    "mistral-medium-2505",
+    "Ministral-3B"
 }
 
 DEFAULT_MODEL_NAME = "gpt-4.1-mini"

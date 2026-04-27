@@ -1,6 +1,6 @@
 # Agent Consensus
 
-A multi-agent framework for studying consensus and opinion dynamics across language models. Three agents deliberate over survey and factual questions across multiple rounds, allowing analysis of disagreement, deference, and accuracy as a function of model size and identity visibility. Experiments use either the GPT-4.1 family (`gpt-4.1-nano`, `gpt-4.1-mini`, `gpt-4.1`) or a random family of frontier models (`Mistral-Large-3`, `Llama-4-Maverick-17B-128E-Instruct-FP8`, `Phi-4`).
+A multi-agent framework for studying consensus and model deference across varying experimental settings. Three agents deliberate over survey and factual questions across multiple rounds, allowing analysis of disagreement, deference, and accuracy as a function of model size and identity visibility. Experiments use either the GPT-4.1 family (`GPT-4.1-nano`, `GPT-4.1-mini`, `GPT-4.1`) or a random family of frontier models (`Mistral-Large-3`, `Llama-4-Maverick-17B-128E-Instruct-FP8`, `Phi-4`).
 
 ---
 
@@ -61,7 +61,7 @@ All scripts should be run from the project root. Each experiment iterates over a
 
 | Script | Config Dir | Agents | Description |
 |--------|------------|--------|-------------|
-| `python experiments/main.py` | `baseline_configs_20/` | Random family (`Mistral-Large-3`, `Llama-4-Maverick-17B-128E-Instruct-FP8`, `Kimi-K2.6`/`Phi-4`) | Baseline multi-agent deliberation — named and anonymous variants across GlobalOpinionsQA, HLE, and persona datasets |
+| `python experiments/main.py` | `baseline_configs_20/` | Random family (`Mistral-Large-3`, `Llama-4-Maverick-17B-128E-Instruct-FP8`, `Phi-4`) & GPT-4.1 family (`GPT-4.1` , `GPT-4.1-nano` , `GPT-4.1-mini`) | Baseline multi-agent deliberation — named and anonymous variants across GlobalOpinionsQA, HLE, and persona datasets |
 | `python experiments/sys_prompt_main.py` | `sys_prompt_configs_20/` | GPT-4.1 family | System prompt ablations — `critical_independent` and `adversarial` conditions, each with named and anonymous variants; agents revise answers each round |
 | `python experiments/sys_prompt_no_revise.py` | `sys_prompt_configs_no_revise_20/` | GPT-4.1 family | Same as above but agents do not revise their answers between rounds |
 | `python experiments/rotate_main.py` | `rotate_configs/` | GPT-4.1 family | Rotation experiments — cyclically swaps round-1 answers between agents to isolate position/order effects |

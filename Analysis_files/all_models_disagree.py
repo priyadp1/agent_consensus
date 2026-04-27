@@ -7,11 +7,15 @@ RESULTS_ROOT = "results"
 OUTPUT_ROOT = "new_analysis_outputs"
 
 MODEL_ORDER = {
-    # Random models 
+    # Random models (current: Phi < Llama < Mistral)
+    "Phi-4": 0,
+    "Llama-4-Maverick-17B-128E-Instruct-FP8": 1,
+    "Mistral-Large-3": 2,
+    # Random models (legacy)
     "Llama-3.3-70B-Instruct": 0,
     "DeepSeek-R1": 1,
     "grok-3": 2,
-    # GPT-4.1 family 
+    # GPT-4.1 family
     "gpt-4.1-nano": 0,
     "gpt-4.1-mini": 1,
     "gpt-4.1": 2,
@@ -121,7 +125,7 @@ def compute_metrics(results_dir, output_dir):
     with open(out_path, "w") as f:
         json.dump(metrics, f, indent=2)
 
-    print(f"  [metrics]     → {out_path}")
+    print(f"  [metrics]     -> {out_path}")
     for i in range(num_rounds):
         print(f"Round {i+1}: {disagreements[i]}/{total_valid[i]} ({percentages[i]:.2f}%)")
 
@@ -199,12 +203,16 @@ def analyze_conditioned(original_data):
         agent_items = list(agent_models.items())  # [(label, model), ...]
         rounds = item["rounds"]
 
-        for i, (label_small, m_small) in enumerate(agent_items):
-            for label_large, m_large in agent_items[i + 1:]:
-                order_small = (MODEL_ORDER.get(m_small, -1), label_small)
-                order_large = (MODEL_ORDER.get(m_large, -1), label_large)
-                if order_small >= order_large:
+        for i, (label_a, m_a) in enumerate(agent_items):
+            for label_b, m_b in agent_items[i + 1:]:
+                key_a = (MODEL_ORDER.get(m_a, -1), label_a)
+                key_b = (MODEL_ORDER.get(m_b, -1), label_b)
+                if key_a == key_b:
                     continue
+                if key_a < key_b:
+                    label_small, m_small, label_large, m_large = label_a, m_a, label_b, m_b
+                else:
+                    label_small, m_small, label_large, m_large = label_b, m_b, label_a, m_a
 
                 key = f"{m_small} ({label_small}) -> {m_large} ({label_large})" if m_small == m_large else f"{m_small} -> {m_large}"
 
@@ -270,12 +278,16 @@ def model_deference_each_round(data):
         agent_items = list(agent_models.items())  # [(label, model), ...]
         rounds = item["rounds"]
 
-        for i, (label_small, m_small) in enumerate(agent_items):
-            for label_large, m_large in agent_items[i + 1:]:
-                order_small = (MODEL_ORDER.get(m_small, -1), label_small)
-                order_large = (MODEL_ORDER.get(m_large, -1), label_large)
-                if order_small >= order_large:
+        for i, (label_a, m_a) in enumerate(agent_items):
+            for label_b, m_b in agent_items[i + 1:]:
+                key_a = (MODEL_ORDER.get(m_a, -1), label_a)
+                key_b = (MODEL_ORDER.get(m_b, -1), label_b)
+                if key_a == key_b:
                     continue
+                if key_a < key_b:
+                    label_small, m_small, label_large, m_large = label_a, m_a, label_b, m_b
+                else:
+                    label_small, m_small, label_large, m_large = label_b, m_b, label_a, m_a
 
                 key = f"{m_small} ({label_small}) -> {m_large} ({label_large})" if m_small == m_large else f"{m_small} -> {m_large}"
 

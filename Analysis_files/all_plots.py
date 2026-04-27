@@ -5,11 +5,25 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
+def shorten_model_name(name):
+    """Shorten long model names to their family prefix.
+    e.g. 'Llama-4-Maverick-17B-128E-Instruct-FP8' -> 'Llama', 'Phi-4' -> 'Phi'.
+    Leaves lowercase-starting names like 'gpt-4.1' or 'gpt-4.1-mini' unchanged."""
+    if name and name[0].isupper():
+        return name.split('-')[0]
+    return name
+
+
 def clean_pair_label(key):
     """Strip model name from keys like 'gpt-4.1 (Agent 1) -> gpt-4.1 (Agent 2)' -> 'Agent 1 -> Agent 2'.
-    Leaves family-style keys like 'gpt-4.1-mini -> gpt-4.1' unchanged."""
+    For family-style keys like 'Llama-4-Maverick-... -> Phi-4', shortens model names to their prefix."""
     m = re.match(r"^\S+ \((\w+ \d+)\) -> \S+ \((\w+ \d+)\)$", key)
-    return f"{m.group(1)} -> {m.group(2)}" if m else key
+    if m:
+        return f"{m.group(1)} -> {m.group(2)}"
+    if " -> " in key:
+        parts = key.split(" -> ")
+        return " -> ".join(shorten_model_name(p) for p in parts)
+    return key
 
 OUTPUT_ROOT = "new_analysis_outputs"
 FIGURES_ROOT = "new_figures"

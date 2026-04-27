@@ -34,6 +34,27 @@ def find_dirs_with(root, filename):
             yield dirpath
 
 
+def shorten_model_name(name):
+    """Shorten long model names to their family prefix.
+    e.g. 'Llama-4-Maverick-17B-128E-Instruct-FP8' -> 'Llama', 'Phi-4' -> 'Phi'.
+    Leaves lowercase-starting names like 'gpt-4.1' unchanged."""
+    if name and name[0].isupper():
+        return name.split('-')[0]
+    return name
+
+
+def clean_pair_label(key):
+    """Strip model name from keys like 'gpt-4.1 (Agent 1) -> gpt-4.1 (Agent 2)' -> 'Agent 1 -> Agent 2'.
+    For family-style keys like 'Llama-4-Maverick-... -> Phi-4', shortens model names to their prefix."""
+    m = re.match(r"^\S+ \((\w+ \d+)\) -> \S+ \((\w+ \d+)\)$", key)
+    if m:
+        return f"{m.group(1)} -> {m.group(2)}"
+    if " -> " in key:
+        parts = key.split(" -> ")
+        return " -> ".join(shorten_model_name(p) for p in parts)
+    return key
+
+
 # ── Plot functions ─────────────────────────────────────────────────────────────
 
 def plot_rounds_accuracy(output_dir, out_path):
@@ -65,7 +86,7 @@ def plot_deference_accuracy_outcomes(output_dir, out_path):
         return
 
     keys = sorted(data.keys())
-    labels = [re.sub(r"^\S+ \((\w+ \d+)\) -> \S+ \((\w+ \d+)\)$", r"\1 -> \2", k) for k in keys]
+    labels = [clean_pair_label(k) for k in keys]
     s2l_w2c = [data[k].get("s2l_w2c_pct", 0) for k in keys]
     s2l_c2w = [data[k].get("s2l_c2w_pct", 0) for k in keys]
     l2s_w2c = [data[k].get("l2s_w2c_pct", 0) for k in keys]

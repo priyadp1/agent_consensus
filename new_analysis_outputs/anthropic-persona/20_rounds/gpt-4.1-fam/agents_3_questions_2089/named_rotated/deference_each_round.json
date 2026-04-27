@@ -1,365 +1,407 @@
 {
   "gpt-4.1-mini -> gpt-4.1": {
     "round_1_to_2": {
-      "initial_disagreements": 10,
-      "small_to_large": 9,
-      "large_to_small": 3,
-      "small_to_large_pct": 90.0,
-      "large_to_small_pct": 30.0
+      "initial_disagreements": 197,
+      "small_to_large": 170,
+      "large_to_small": 75,
+      "small_to_large_pct": 86.29,
+      "large_to_small_pct": 38.07
     },
     "round_2_to_3": {
-      "initial_disagreements": 2,
-      "small_to_large": 2,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 50.0
+      "initial_disagreements": 123,
+      "small_to_large": 91,
+      "large_to_small": 91,
+      "small_to_large_pct": 73.98,
+      "large_to_small_pct": 73.98
     },
     "round_3_to_4": {
-      "initial_disagreements": 1,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 102,
+      "small_to_large": 88,
+      "large_to_small": 84,
+      "small_to_large_pct": 86.27,
+      "large_to_small_pct": 82.35
     },
     "round_4_to_5": {
-      "initial_disagreements": 1,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 92,
+      "small_to_large": 69,
+      "large_to_small": 68,
+      "small_to_large_pct": 75.0,
+      "large_to_small_pct": 73.91
     },
     "round_5_to_6": {
-      "initial_disagreements": 2,
-      "small_to_large": 1,
-      "large_to_small": 2,
-      "small_to_large_pct": 50.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 60,
+      "small_to_large": 51,
+      "large_to_small": 46,
+      "small_to_large_pct": 85.0,
+      "large_to_small_pct": 76.67
     },
     "round_6_to_7": {
-      "initial_disagreements": 1,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 53,
+      "small_to_large": 44,
+      "large_to_small": 43,
+      "small_to_large_pct": 83.02,
+      "large_to_small_pct": 81.13
     },
     "round_7_to_8": {
-      "initial_disagreements": 2,
-      "small_to_large": 2,
-      "large_to_small": 2,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 48,
+      "small_to_large": 41,
+      "large_to_small": 45,
+      "small_to_large_pct": 85.42,
+      "large_to_small_pct": 93.75
     },
     "round_8_to_9": {
-      "initial_disagreements": 3,
-      "small_to_large": 3,
-      "large_to_small": 3,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 53,
+      "small_to_large": 49,
+      "large_to_small": 39,
+      "small_to_large_pct": 92.45,
+      "large_to_small_pct": 73.58
     },
     "round_9_to_10": {
-      "initial_disagreements": 3,
-      "small_to_large": 3,
-      "large_to_small": 3,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 49,
+      "small_to_large": 40,
+      "large_to_small": 41,
+      "small_to_large_pct": 81.63,
+      "large_to_small_pct": 83.67
     },
     "round_10_to_11": {
-      "initial_disagreements": 4,
-      "small_to_large": 3,
-      "large_to_small": 4,
-      "small_to_large_pct": 75.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 40,
+      "small_to_large": 32,
+      "large_to_small": 38,
+      "small_to_large_pct": 80.0,
+      "large_to_small_pct": 95.0
     },
     "round_11_to_12": {
-      "initial_disagreements": 3,
-      "small_to_large": 3,
-      "large_to_small": 3,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 37,
+      "small_to_large": 34,
+      "large_to_small": 28,
+      "small_to_large_pct": 91.89,
+      "large_to_small_pct": 75.68
     },
     "round_12_to_13": {
-      "initial_disagreements": 4,
-      "small_to_large": 3,
-      "large_to_small": 4,
-      "small_to_large_pct": 75.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 40,
+      "small_to_large": 29,
+      "large_to_small": 34,
+      "small_to_large_pct": 72.5,
+      "large_to_small_pct": 85.0
     },
     "round_13_to_14": {
-      "initial_disagreements": 3,
-      "small_to_large": 3,
-      "large_to_small": 2,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 66.67
+      "initial_disagreements": 36,
+      "small_to_large": 32,
+      "large_to_small": 28,
+      "small_to_large_pct": 88.89,
+      "large_to_small_pct": 77.78
     },
     "round_14_to_15": {
-      "initial_disagreements": 3,
-      "small_to_large": 3,
-      "large_to_small": 3,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 37,
+      "small_to_large": 33,
+      "large_to_small": 31,
+      "small_to_large_pct": 89.19,
+      "large_to_small_pct": 83.78
     },
     "round_15_to_16": {
-      "initial_disagreements": 3,
-      "small_to_large": 2,
-      "large_to_small": 3,
-      "small_to_large_pct": 66.67,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 37,
+      "small_to_large": 33,
+      "large_to_small": 29,
+      "small_to_large_pct": 89.19,
+      "large_to_small_pct": 78.38
     },
     "round_16_to_17": {
-      "initial_disagreements": 2,
-      "small_to_large": 0,
-      "large_to_small": 2,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 35,
+      "small_to_large": 26,
+      "large_to_small": 30,
+      "small_to_large_pct": 74.29,
+      "large_to_small_pct": 85.71
     },
     "round_17_to_18": {
-      "initial_disagreements": 1,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 39,
+      "small_to_large": 32,
+      "large_to_small": 33,
+      "small_to_large_pct": 82.05,
+      "large_to_small_pct": 84.62
     },
     "round_18_to_19": {
-      "initial_disagreements": 1,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 37,
+      "small_to_large": 31,
+      "large_to_small": 29,
+      "small_to_large_pct": 83.78,
+      "large_to_small_pct": 78.38
     },
     "round_19_to_20": {
-      "initial_disagreements": 1,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 37,
+      "small_to_large": 31,
+      "large_to_small": 30,
+      "small_to_large_pct": 83.78,
+      "large_to_small_pct": 81.08
     }
   },
   "gpt-4.1-nano -> gpt-4.1": {
     "round_1_to_2": {
-      "initial_disagreements": 5,
-      "small_to_large": 3,
-      "large_to_small": 5,
-      "small_to_large_pct": 60.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 237,
+      "small_to_large": 205,
+      "large_to_small": 227,
+      "small_to_large_pct": 86.5,
+      "large_to_small_pct": 95.78
     },
     "round_2_to_3": {
-      "initial_disagreements": 7,
-      "small_to_large": 6,
-      "large_to_small": 0,
-      "small_to_large_pct": 85.71,
-      "large_to_small_pct": 0.0
+      "initial_disagreements": 284,
+      "small_to_large": 196,
+      "large_to_small": 79,
+      "small_to_large_pct": 69.01,
+      "large_to_small_pct": 27.82
     },
     "round_3_to_4": {
-      "initial_disagreements": 2,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 50.0,
-      "large_to_small_pct": 50.0
+      "initial_disagreements": 101,
+      "small_to_large": 60,
+      "large_to_small": 49,
+      "small_to_large_pct": 59.41,
+      "large_to_small_pct": 48.51
+    },
+    "round_4_to_5": {
+      "initial_disagreements": 109,
+      "small_to_large": 63,
+      "large_to_small": 52,
+      "small_to_large_pct": 57.8,
+      "large_to_small_pct": 47.71
     },
     "round_5_to_6": {
-      "initial_disagreements": 2,
-      "small_to_large": 0,
-      "large_to_small": 2,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 85,
+      "small_to_large": 55,
+      "large_to_small": 28,
+      "small_to_large_pct": 64.71,
+      "large_to_small_pct": 32.94
+    },
+    "round_6_to_7": {
+      "initial_disagreements": 76,
+      "small_to_large": 41,
+      "large_to_small": 31,
+      "small_to_large_pct": 53.95,
+      "large_to_small_pct": 40.79
     },
     "round_7_to_8": {
-      "initial_disagreements": 2,
-      "small_to_large": 0,
-      "large_to_small": 2,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 67,
+      "small_to_large": 41,
+      "large_to_small": 25,
+      "small_to_large_pct": 61.19,
+      "large_to_small_pct": 37.31
+    },
+    "round_8_to_9": {
+      "initial_disagreements": 64,
+      "small_to_large": 37,
+      "large_to_small": 23,
+      "small_to_large_pct": 57.81,
+      "large_to_small_pct": 35.94
     },
     "round_9_to_10": {
-      "initial_disagreements": 3,
-      "small_to_large": 2,
-      "large_to_small": 3,
-      "small_to_large_pct": 66.67,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 77,
+      "small_to_large": 53,
+      "large_to_small": 32,
+      "small_to_large_pct": 68.83,
+      "large_to_small_pct": 41.56
     },
     "round_10_to_11": {
-      "initial_disagreements": 5,
-      "small_to_large": 3,
-      "large_to_small": 3,
-      "small_to_large_pct": 60.0,
-      "large_to_small_pct": 60.0
+      "initial_disagreements": 71,
+      "small_to_large": 46,
+      "large_to_small": 27,
+      "small_to_large_pct": 64.79,
+      "large_to_small_pct": 38.03
     },
     "round_11_to_12": {
-      "initial_disagreements": 5,
-      "small_to_large": 4,
-      "large_to_small": 2,
-      "small_to_large_pct": 80.0,
-      "large_to_small_pct": 40.0
+      "initial_disagreements": 78,
+      "small_to_large": 55,
+      "large_to_small": 20,
+      "small_to_large_pct": 70.51,
+      "large_to_small_pct": 25.64
     },
     "round_12_to_13": {
-      "initial_disagreements": 4,
-      "small_to_large": 3,
-      "large_to_small": 2,
-      "small_to_large_pct": 75.0,
-      "large_to_small_pct": 50.0
+      "initial_disagreements": 86,
+      "small_to_large": 57,
+      "large_to_small": 25,
+      "small_to_large_pct": 66.28,
+      "large_to_small_pct": 29.07
     },
     "round_13_to_14": {
-      "initial_disagreements": 5,
-      "small_to_large": 4,
-      "large_to_small": 2,
-      "small_to_large_pct": 80.0,
-      "large_to_small_pct": 40.0
+      "initial_disagreements": 85,
+      "small_to_large": 63,
+      "large_to_small": 16,
+      "small_to_large_pct": 74.12,
+      "large_to_small_pct": 18.82
     },
     "round_14_to_15": {
-      "initial_disagreements": 1,
-      "small_to_large": 0,
-      "large_to_small": 1,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 82,
+      "small_to_large": 53,
+      "large_to_small": 23,
+      "small_to_large_pct": 64.63,
+      "large_to_small_pct": 28.05
     },
     "round_15_to_16": {
-      "initial_disagreements": 3,
-      "small_to_large": 2,
-      "large_to_small": 2,
-      "small_to_large_pct": 66.67,
-      "large_to_small_pct": 66.67
+      "initial_disagreements": 67,
+      "small_to_large": 48,
+      "large_to_small": 18,
+      "small_to_large_pct": 71.64,
+      "large_to_small_pct": 26.87
     },
     "round_16_to_17": {
-      "initial_disagreements": 3,
-      "small_to_large": 3,
-      "large_to_small": 2,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 66.67
+      "initial_disagreements": 65,
+      "small_to_large": 37,
+      "large_to_small": 24,
+      "small_to_large_pct": 56.92,
+      "large_to_small_pct": 36.92
     },
     "round_17_to_18": {
-      "initial_disagreements": 5,
-      "small_to_large": 4,
-      "large_to_small": 2,
-      "small_to_large_pct": 80.0,
-      "large_to_small_pct": 40.0
+      "initial_disagreements": 80,
+      "small_to_large": 54,
+      "large_to_small": 22,
+      "small_to_large_pct": 67.5,
+      "large_to_small_pct": 27.5
     },
     "round_18_to_19": {
-      "initial_disagreements": 2,
-      "small_to_large": 1,
-      "large_to_small": 0,
-      "small_to_large_pct": 50.0,
-      "large_to_small_pct": 0.0
+      "initial_disagreements": 64,
+      "small_to_large": 43,
+      "large_to_small": 18,
+      "small_to_large_pct": 67.19,
+      "large_to_small_pct": 28.12
     },
     "round_19_to_20": {
-      "initial_disagreements": 3,
-      "small_to_large": 2,
-      "large_to_small": 2,
-      "small_to_large_pct": 66.67,
-      "large_to_small_pct": 66.67
+      "initial_disagreements": 75,
+      "small_to_large": 47,
+      "large_to_small": 25,
+      "small_to_large_pct": 62.67,
+      "large_to_small_pct": 33.33
     }
   },
   "gpt-4.1-nano -> gpt-4.1-mini": {
     "round_1_to_2": {
-      "initial_disagreements": 9,
-      "small_to_large": 5,
-      "large_to_small": 9,
-      "small_to_large_pct": 55.56,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 308,
+      "small_to_large": 240,
+      "large_to_small": 238,
+      "small_to_large_pct": 77.92,
+      "large_to_small_pct": 77.27
     },
     "round_2_to_3": {
-      "initial_disagreements": 7,
-      "small_to_large": 5,
-      "large_to_small": 1,
-      "small_to_large_pct": 71.43,
-      "large_to_small_pct": 14.29
+      "initial_disagreements": 223,
+      "small_to_large": 178,
+      "large_to_small": 43,
+      "small_to_large_pct": 79.82,
+      "large_to_small_pct": 19.28
     },
     "round_3_to_4": {
-      "initial_disagreements": 1,
-      "small_to_large": 1,
-      "large_to_small": 0,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 0.0
+      "initial_disagreements": 117,
+      "small_to_large": 61,
+      "large_to_small": 60,
+      "small_to_large_pct": 52.14,
+      "large_to_small_pct": 51.28
     },
     "round_4_to_5": {
-      "initial_disagreements": 1,
-      "small_to_large": 0,
-      "large_to_small": 1,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 89,
+      "small_to_large": 57,
+      "large_to_small": 38,
+      "small_to_large_pct": 64.04,
+      "large_to_small_pct": 42.7
+    },
+    "round_5_to_6": {
+      "initial_disagreements": 91,
+      "small_to_large": 58,
+      "large_to_small": 37,
+      "small_to_large_pct": 63.74,
+      "large_to_small_pct": 40.66
     },
     "round_6_to_7": {
-      "initial_disagreements": 1,
-      "small_to_large": 0,
-      "large_to_small": 1,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 75,
+      "small_to_large": 43,
+      "large_to_small": 26,
+      "small_to_large_pct": 57.33,
+      "large_to_small_pct": 34.67
+    },
+    "round_7_to_8": {
+      "initial_disagreements": 65,
+      "small_to_large": 39,
+      "large_to_small": 26,
+      "small_to_large_pct": 60.0,
+      "large_to_small_pct": 40.0
     },
     "round_8_to_9": {
-      "initial_disagreements": 3,
-      "small_to_large": 0,
-      "large_to_small": 3,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 63,
+      "small_to_large": 31,
+      "large_to_small": 30,
+      "small_to_large_pct": 49.21,
+      "large_to_small_pct": 47.62
+    },
+    "round_9_to_10": {
+      "initial_disagreements": 64,
+      "small_to_large": 46,
+      "large_to_small": 20,
+      "small_to_large_pct": 71.88,
+      "large_to_small_pct": 31.25
     },
     "round_10_to_11": {
-      "initial_disagreements": 3,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 33.33,
+      "initial_disagreements": 63,
+      "small_to_large": 41,
+      "large_to_small": 21,
+      "small_to_large_pct": 65.08,
       "large_to_small_pct": 33.33
     },
     "round_11_to_12": {
-      "initial_disagreements": 4,
-      "small_to_large": 3,
-      "large_to_small": 1,
-      "small_to_large_pct": 75.0,
-      "large_to_small_pct": 25.0
+      "initial_disagreements": 83,
+      "small_to_large": 57,
+      "large_to_small": 25,
+      "small_to_large_pct": 68.67,
+      "large_to_small_pct": 30.12
     },
     "round_12_to_13": {
-      "initial_disagreements": 4,
-      "small_to_large": 2,
-      "large_to_small": 2,
-      "small_to_large_pct": 50.0,
-      "large_to_small_pct": 50.0
+      "initial_disagreements": 74,
+      "small_to_large": 52,
+      "large_to_small": 17,
+      "small_to_large_pct": 70.27,
+      "large_to_small_pct": 22.97
     },
     "round_13_to_14": {
-      "initial_disagreements": 4,
-      "small_to_large": 3,
-      "large_to_small": 1,
-      "small_to_large_pct": 75.0,
-      "large_to_small_pct": 25.0
+      "initial_disagreements": 89,
+      "small_to_large": 60,
+      "large_to_small": 26,
+      "small_to_large_pct": 67.42,
+      "large_to_small_pct": 29.21
     },
     "round_14_to_15": {
-      "initial_disagreements": 2,
-      "small_to_large": 0,
-      "large_to_small": 2,
-      "small_to_large_pct": 0.0,
-      "large_to_small_pct": 100.0
+      "initial_disagreements": 75,
+      "small_to_large": 54,
+      "large_to_small": 18,
+      "small_to_large_pct": 72.0,
+      "large_to_small_pct": 24.0
     },
     "round_15_to_16": {
-      "initial_disagreements": 2,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 50.0,
-      "large_to_small_pct": 50.0
+      "initial_disagreements": 76,
+      "small_to_large": 50,
+      "large_to_small": 27,
+      "small_to_large_pct": 65.79,
+      "large_to_small_pct": 35.53
     },
     "round_16_to_17": {
-      "initial_disagreements": 3,
-      "small_to_large": 2,
-      "large_to_small": 0,
-      "small_to_large_pct": 66.67,
-      "large_to_small_pct": 0.0
+      "initial_disagreements": 60,
+      "small_to_large": 37,
+      "large_to_small": 19,
+      "small_to_large_pct": 61.67,
+      "large_to_small_pct": 31.67
     },
     "round_17_to_18": {
-      "initial_disagreements": 4,
-      "small_to_large": 4,
-      "large_to_small": 1,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 25.0
+      "initial_disagreements": 73,
+      "small_to_large": 50,
+      "large_to_small": 21,
+      "small_to_large_pct": 68.49,
+      "large_to_small_pct": 28.77
     },
     "round_18_to_19": {
-      "initial_disagreements": 3,
-      "small_to_large": 1,
-      "large_to_small": 1,
-      "small_to_large_pct": 33.33,
-      "large_to_small_pct": 33.33
+      "initial_disagreements": 65,
+      "small_to_large": 44,
+      "large_to_small": 20,
+      "small_to_large_pct": 67.69,
+      "large_to_small_pct": 30.77
     },
     "round_19_to_20": {
-      "initial_disagreements": 2,
-      "small_to_large": 2,
-      "large_to_small": 0,
-      "small_to_large_pct": 100.0,
-      "large_to_small_pct": 0.0
+      "initial_disagreements": 76,
+      "small_to_large": 50,
+      "large_to_small": 23,
+      "small_to_large_pct": 65.79,
+      "large_to_small_pct": 30.26
     }
   }
 }

@@ -1,0 +1,23 @@
+{
+  "Llama-4-Maverick-17B-128E-Instruct-FP8 -> Phi-4": {
+    "initial_disagreements": 284,
+    "small_to_large": 201,
+    "large_to_small": 213,
+    "small_to_large_pct": 70.77,
+    "large_to_small_pct": 75.0
+  },
+  "Mistral-Large-3 -> Llama-4-Maverick-17B-128E-Instruct-FP8": {
+    "initial_disagreements": 326,
+    "small_to_large": 209,
+    "large_to_small": 151,
+    "small_to_large_pct": 64.11,
+    "large_to_small_pct": 46.32
+  },
+  "Mistral-Large-3 -> Phi-4": {
+    "initial_disagreements": 389,
+    "small_to_large": 254,
+    "large_to_small": 225,
+    "small_to_large_pct": 65.3,
+    "large_to_small_pct": 57.84
+  }
+}

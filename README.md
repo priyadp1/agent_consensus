@@ -1,6 +1,6 @@
 # Agent Consensus
 
-A multi-agent framework for studying consensus and opinion dynamics across language models. Three GPT-4.1 family models (`gpt-4.1-nano`, `gpt-4.1-mini`, `gpt-4.1`) deliberate over survey and factual questions across multiple rounds, allowing analysis of disagreement, deference, and accuracy as a function of model size and identity visibility.
+A multi-agent framework for studying consensus and opinion dynamics across language models. Three agents deliberate over survey and factual questions across multiple rounds, allowing analysis of disagreement, deference, and accuracy as a function of model size and identity visibility. Experiments use either the GPT-4.1 family (`gpt-4.1-nano`, `gpt-4.1-mini`, `gpt-4.1`) or a random family of frontier models (`Mistral-Large-3`, `Llama-4-Maverick-17B-128E-Instruct-FP8`, `Phi-4`).
 
 ---
 
@@ -39,7 +39,7 @@ HF_TOKEN=your_huggingface_token
 python preprocessing/download_dataset.py
 ```
 
-Downloads OpinionsQA and GlobalOpinionsQA from HuggingFace. To also use the Anthropic persona dataset, clone the evals repo into `data/`:
+Downloads GlobalOpinionsQA from HuggingFace. To also use the Anthropic persona dataset, clone the evals repo into `data/`:
 
 ```bash
 cd data
@@ -49,7 +49,6 @@ git clone https://github.com/anthropics/evals
 ### Preprocess Datasets
 
 ```bash
-python preprocessing/preprocess_opinionsqa.py
 python preprocessing/preprocess_persona.py
 python preprocessing/preprocess_hle.py
 ```
@@ -60,16 +59,17 @@ python preprocessing/preprocess_hle.py
 
 All scripts should be run from the project root. Each experiment iterates over all `*.yaml` configs in its config directory, running **named** and **anonymous** variants for each dataset.
 
-| Script | Config Dir | Description |
-|--------|------------|-------------|
-| `python experiments/main.py` | `baseline_configs_20/` | Baseline multi-agent deliberation — named and anonymous variants across GlobalOpinionsQA, OpinionsQA, HLE, and persona datasets |
-| `python experiments/sys_prompt_main.py` | `sys_prompt_configs_20/` | System prompt ablations — `critical_independent` and `adversarial` conditions, each with named and anonymous variants; agents revise answers each round |
-| `python experiments/sys_prompt_no_revise.py` | `sys_prompt_configs_no_revise_20/` | Same as above but agents do not revise their answers between rounds |
-| `python experiments/rotate_main.py` | `rotate_configs/` | Rotation experiments — cyclically swaps round-1 answers between agents to isolate position/order effects |
+| Script | Config Dir | Agents | Description |
+|--------|------------|--------|-------------|
+| `python experiments/main.py` | `baseline_configs_20/` | Random family (`Mistral-Large-3`, `Llama-4-Maverick-17B-128E-Instruct-FP8`, `Kimi-K2.6`/`Phi-4`) | Baseline multi-agent deliberation — named and anonymous variants across GlobalOpinionsQA, HLE, and persona datasets |
+| `python experiments/sys_prompt_main.py` | `sys_prompt_configs_20/` | GPT-4.1 family | System prompt ablations — `critical_independent` and `adversarial` conditions, each with named and anonymous variants; agents revise answers each round |
+| `python experiments/sys_prompt_no_revise.py` | `sys_prompt_configs_no_revise_20/` | GPT-4.1 family | Same as above but agents do not revise their answers between rounds |
+| `python experiments/rotate_main.py` | `rotate_configs/` | GPT-4.1 family | Rotation experiments — cyclically swaps round-1 answers between agents to isolate position/order effects |
+| `python experiments/null_exp.py` | `null_exp_configs/` | GPT-4.1 (`gpt-4.1` × 3) | Null/control experiment — all three agents share the same model; runs only the anonymous variant to measure same-model deliberation as a baseline |
 
-Each experiment runs **3 agents** (`gpt-4.1-nano`, `gpt-4.1-mini`, `gpt-4.1`) for up to **20 deliberation rounds**. Results are saved under `results/` organized by dataset and config.
+Each experiment runs **3 agents** for up to **20 deliberation rounds**. Results are saved under `results/` organized by dataset and config.
 
-**Supported datasets:** GlobalOpinionsQA · OpinionsQA · anthropic-persona · Humanity's Last Exam (HLE)
+**Supported datasets:** GlobalOpinionsQA · anthropic-persona · Humanity's Last Exam (HLE)
 
 ---
 
@@ -122,26 +122,24 @@ agent_consensus/
 │   ├── multiagent2.py                     # Variant used by no-revise experiments
 │   └── multiagent_rotate.py               # Variant for rotation experiments
 │
-├── baseline_configs_20/                   # Configs for experiments/main.py
-├── sys_prompt_configs_20/                 # Configs for experiments/sys_prompt_main.py
-├── sys_prompt_configs_no_revise_20/       # Configs for experiments/sys_prompt_no_revise.py
-├── rotate_configs/                        # Configs for experiments/rotate_main.py
-│
-├── calculations/
-│   └── random_baselines.py                # Computes random-baseline agreement rates
+├── baseline_configs_20/                   # Configs for experiments/main.py (random family agents)
+├── sys_prompt_configs_20/                 # Configs for experiments/sys_prompt_main.py (gpt-4.1 family)
+├── sys_prompt_configs_no_revise_20/       # Configs for experiments/sys_prompt_no_revise.py (gpt-4.1 family)
+├── rotate_configs/                        # Configs for experiments/rotate_main.py (gpt-4.1 family)
+├── null_exp_configs/                      # Configs for experiments/null_exp.py (gpt-4.1 × 3)
 │
 ├── data/                                  # Raw and preprocessed datasets
 │   ├── jsonl/                             # Preprocessed JSONL files used by experiments
 │   ├── evals/                             # Cloned Anthropic evals repo (persona dataset source)
 │   ├── Anthropic___llm_global_opinions/   # Cached HuggingFace GlobalOpinionsQA dataset
-│   ├── cais___hle/                        # Cached HuggingFace HLE dataset
-│   └── timchen0618___opinion_qa/          # Cached HuggingFace OpinionsQA dataset
+│   └── cais___hle/                        # Cached HuggingFace HLE dataset
 │
 ├── experiments/                           # Experiment runner scripts
-│   ├── main.py                            # Baseline multi-agent experiments
+│   ├── main.py                            # Baseline multi-agent experiments (random family)
 │   ├── sys_prompt_main.py                 # System prompt experiments (with answer revision)
 │   ├── sys_prompt_no_revise.py            # System prompt experiments (no answer revision)
-│   └── rotate_main.py                     # Rotation experiments
+│   ├── rotate_main.py                     # Rotation experiments
+│   └── null_exp.py                        # Null/control experiment (same model for all agents)
 │
 ├── models/                                # Model API wrappers
 │   ├── model.py                           # Azure API wrapper (baseline experiments)
@@ -150,26 +148,22 @@ agent_consensus/
 ├── new_analysis_outputs/                  # JSON outputs from analysis scripts
 │   ├── GlobalOpinionsQA/
 │   ├── HLE/
-│   ├── OpinionsQA/
 │   └── anthropic-persona/
 │
 ├── new_figures/                           # Plots generated by analysis scripts
 │   ├── GlobalOpinionsQA/
 │   ├── HLE/
-│   ├── OpinionsQA/
 │   └── anthropic-persona/
 │
 ├── preprocessing/                         # Data download and preprocessing scripts
-│   ├── download_dataset.py                # Downloads OpinionsQA and GlobalOpinionsQA from HuggingFace
+│   ├── download_dataset.py                # Downloads GlobalOpinionsQA from HuggingFace
 │   ├── filter_questions.py                # Filters out invalid or malformed questions
 │   ├── preprocess_hle.py                  # Converts HLE dataset to JSONL
-│   ├── preprocess_opinionsqa.py           # Converts OpinionsQA and GlobalOpinionsQA to JSONL
 │   └── preprocess_persona.py              # Converts Anthropic persona dataset to JSONL
 │
 ├── results/                               # Experiment outputs (one JSON file per question)
 │   ├── GlobalOpinionsQA/
 │   ├── HLE/
-│   ├── OpinionsQA/
 │   └── anthropic-persona/
 │
 ├── tests/                                 # Unit tests

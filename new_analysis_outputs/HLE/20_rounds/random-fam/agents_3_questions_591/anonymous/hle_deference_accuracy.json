@@ -1,1 +1,47 @@
-{}
+{
+  "Llama-4-Maverick-17B-128E-Instruct-FP8 -> Mistral-Large-3": {
+    "initial_disagreements": 144,
+    "small_to_large": 49,
+    "s2l_pct": 34.0,
+    "s2l_wrong_to_correct": 5,
+    "s2l_w2c_pct": 10.2,
+    "s2l_correct_to_wrong": 8,
+    "s2l_c2w_pct": 16.3,
+    "large_to_small": 68,
+    "l2s_pct": 47.2,
+    "l2s_wrong_to_correct": 6,
+    "l2s_w2c_pct": 8.8,
+    "l2s_correct_to_wrong": 8,
+    "l2s_c2w_pct": 11.8
+  },
+  "Phi-4 -> Llama-4-Maverick-17B-128E-Instruct-FP8": {
+    "initial_disagreements": 134,
+    "small_to_large": 79,
+    "s2l_pct": 59.0,
+    "s2l_wrong_to_correct": 20,
+    "s2l_w2c_pct": 25.3,
+    "s2l_correct_to_wrong": 17,
+    "s2l_c2w_pct": 21.5,
+    "large_to_small": 64,
+    "l2s_pct": 47.8,
+    "l2s_wrong_to_correct": 12,
+    "l2s_w2c_pct": 18.8,
+    "l2s_correct_to_wrong": 14,
+    "l2s_c2w_pct": 21.9
+  },
+  "Phi-4 -> Mistral-Large-3": {
+    "initial_disagreements": 686,
+    "small_to_large": 520,
+    "s2l_pct": 75.8,
+    "s2l_wrong_to_correct": 66,
+    "s2l_w2c_pct": 12.7,
+    "s2l_correct_to_wrong": 78,
+    "s2l_c2w_pct": 15.0,
+    "large_to_small": 548,
+    "l2s_pct": 79.9,
+    "l2s_wrong_to_correct": 67,
+    "l2s_w2c_pct": 12.2,
+    "l2s_correct_to_wrong": 79,
+    "l2s_c2w_pct": 14.4
+  }
+}

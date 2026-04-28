@@ -6,9 +6,18 @@ RESULTS_ROOT = "results/HLE"
 OUTPUT_ROOT = "new_analysis_outputs/HLE"
 DATA_PATH = "data/jsonl/hle/test_processed.jsonl"
 MODEL_ORDER = {
+    # Random models (current: Phi < Llama < Mistral)
+    "Phi-4": 0,
+    "Llama-4-Maverick-17B-128E-Instruct-FP8": 1,
+    "Mistral-Large-3": 2,
+    #Mistral Models
+    "Ministral-3B": 0,
+    "mistral-medium-2505": 1,
+    "Mistral-Large-3": 2,
+    # GPT-4.1 family
     "gpt-4.1-nano": 0,
     "gpt-4.1-mini": 1,
-    "gpt-4.1":      2,
+    "gpt-4.1": 2,
 }
 
 
@@ -167,14 +176,19 @@ def compute_deference_accuracy(data, ground_truth, num_rounds):
         agent_models = item.get("agent_models", {})
         agent_items = list(agent_models.items())  # [(label, model), ...]
 
-        for i, (label_small, m_small) in enumerate(agent_items):
-            for label_large, m_large in agent_items[i + 1:]:
-                if MODEL_ORDER.get(m_small, -1) == -1 or MODEL_ORDER.get(m_large, -1) == -1:
+        for i, (label_a, m_a) in enumerate(agent_items):
+            for label_b, m_b in agent_items[i + 1:]:
+                if MODEL_ORDER.get(m_a, -1) == -1 or MODEL_ORDER.get(m_b, -1) == -1:
                     continue
-                order_small = (MODEL_ORDER[m_small], label_small)
-                order_large = (MODEL_ORDER[m_large], label_large)
-                if order_small >= order_large:
-                    continue  # only consider (smaller, larger) pairs
+                ord_a = MODEL_ORDER[m_a]
+                ord_b = MODEL_ORDER[m_b]
+                if ord_a == ord_b:
+                    continue  # same tier, no meaningful smaller/larger distinction
+                # Ensure label_small/m_small always refers to the actually smaller model
+                if ord_a < ord_b:
+                    label_small, m_small, label_large, m_large = label_a, m_a, label_b, m_b
+                else:
+                    label_small, m_small, label_large, m_large = label_b, m_b, label_a, m_a
 
                 key = f"{m_small} ({label_small}) -> {m_large} ({label_large})" if m_small == m_large else f"{m_small} -> {m_large}"
 

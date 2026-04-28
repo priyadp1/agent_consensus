@@ -1,1 +1,47 @@
-{}
+{
+  "Ministral-3B -> Mistral-Large-3": {
+    "initial_disagreements": 857,
+    "small_to_large": 579,
+    "s2l_pct": 67.6,
+    "s2l_wrong_to_correct": 68,
+    "s2l_w2c_pct": 11.7,
+    "s2l_correct_to_wrong": 70,
+    "s2l_c2w_pct": 12.1,
+    "large_to_small": 645,
+    "l2s_pct": 75.3,
+    "l2s_wrong_to_correct": 80,
+    "l2s_w2c_pct": 12.4,
+    "l2s_correct_to_wrong": 77,
+    "l2s_c2w_pct": 11.9
+  },
+  "Ministral-3B -> mistral-medium-2505": {
+    "initial_disagreements": 498,
+    "small_to_large": 206,
+    "s2l_pct": 41.4,
+    "s2l_wrong_to_correct": 24,
+    "s2l_w2c_pct": 11.7,
+    "s2l_correct_to_wrong": 39,
+    "s2l_c2w_pct": 18.9,
+    "large_to_small": 300,
+    "l2s_pct": 60.2,
+    "l2s_wrong_to_correct": 49,
+    "l2s_w2c_pct": 16.3,
+    "l2s_correct_to_wrong": 39,
+    "l2s_c2w_pct": 13.0
+  },
+  "mistral-medium-2505 -> Mistral-Large-3": {
+    "initial_disagreements": 1238,
+    "small_to_large": 1094,
+    "s2l_pct": 88.4,
+    "s2l_wrong_to_correct": 153,
+    "s2l_w2c_pct": 14.0,
+    "s2l_correct_to_wrong": 153,
+    "s2l_c2w_pct": 14.0,
+    "large_to_small": 1085,
+    "l2s_pct": 87.6,
+    "l2s_wrong_to_correct": 148,
+    "l2s_w2c_pct": 13.6,
+    "l2s_correct_to_wrong": 159,
+    "l2s_c2w_pct": 14.7
+  }
+}

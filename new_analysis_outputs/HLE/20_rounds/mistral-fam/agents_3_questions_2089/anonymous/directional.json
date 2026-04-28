@@ -1,0 +1,23 @@
+{
+  "Ministral-3B -> Mistral-Large-3": {
+    "initial_disagreements": 826,
+    "small_to_large": 572,
+    "large_to_small": 657,
+    "small_to_large_pct": 69.25,
+    "large_to_small_pct": 79.54
+  },
+  "Ministral-3B -> mistral-medium-2505": {
+    "initial_disagreements": 372,
+    "small_to_large": 121,
+    "large_to_small": 231,
+    "small_to_large_pct": 32.53,
+    "large_to_small_pct": 62.1
+  },
+  "mistral-medium-2505 -> Mistral-Large-3": {
+    "initial_disagreements": 1163,
+    "small_to_large": 1085,
+    "large_to_small": 1057,
+    "small_to_large_pct": 93.29,
+    "large_to_small_pct": 90.89
+  }
+}

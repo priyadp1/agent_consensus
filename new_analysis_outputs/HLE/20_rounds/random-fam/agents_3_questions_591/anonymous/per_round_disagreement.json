@@ -1,308 +1,308 @@
 {
   "Llama-4-Maverick-17B-128E-Instruct-FP8 vs Phi-4": {
     "round_1": {
-      "disagreements": 6,
-      "total": 9,
-      "percentage": 66.67
+      "disagreements": 11,
+      "total": 20,
+      "percentage": 55.0
     },
     "round_2": {
-      "disagreements": 13,
-      "total": 69,
-      "percentage": 18.84
+      "disagreements": 27,
+      "total": 139,
+      "percentage": 19.42
     },
     "round_3": {
-      "disagreements": 7,
-      "total": 60,
-      "percentage": 11.67
+      "disagreements": 17,
+      "total": 128,
+      "percentage": 13.28
     },
     "round_4": {
-      "disagreements": 6,
-      "total": 68,
-      "percentage": 8.82
+      "disagreements": 11,
+      "total": 165,
+      "percentage": 6.67
     },
     "round_5": {
-      "disagreements": 5,
-      "total": 70,
-      "percentage": 7.14
+      "disagreements": 10,
+      "total": 165,
+      "percentage": 6.06
     },
     "round_6": {
-      "disagreements": 3,
-      "total": 76,
-      "percentage": 3.95
+      "disagreements": 8,
+      "total": 182,
+      "percentage": 4.4
     },
     "round_7": {
-      "disagreements": 5,
-      "total": 71,
-      "percentage": 7.04
+      "disagreements": 12,
+      "total": 170,
+      "percentage": 7.06
     },
     "round_8": {
-      "disagreements": 4,
-      "total": 77,
-      "percentage": 5.19
+      "disagreements": 8,
+      "total": 177,
+      "percentage": 4.52
     },
     "round_9": {
-      "disagreements": 1,
-      "total": 74,
-      "percentage": 1.35
+      "disagreements": 5,
+      "total": 182,
+      "percentage": 2.75
     },
     "round_10": {
-      "disagreements": 3,
-      "total": 82,
-      "percentage": 3.66
+      "disagreements": 4,
+      "total": 185,
+      "percentage": 2.16
     },
     "round_11": {
-      "disagreements": 1,
-      "total": 85,
-      "percentage": 1.18
+      "disagreements": 3,
+      "total": 197,
+      "percentage": 1.52
     },
     "round_12": {
-      "disagreements": 0,
-      "total": 94,
-      "percentage": 0.0
+      "disagreements": 2,
+      "total": 208,
+      "percentage": 0.96
     },
     "round_13": {
-      "disagreements": 2,
-      "total": 80,
-      "percentage": 2.5
+      "disagreements": 3,
+      "total": 186,
+      "percentage": 1.61
     },
     "round_14": {
-      "disagreements": 1,
-      "total": 88,
-      "percentage": 1.14
+      "disagreements": 3,
+      "total": 194,
+      "percentage": 1.55
     },
     "round_15": {
-      "disagreements": 1,
-      "total": 81,
-      "percentage": 1.23
+      "disagreements": 2,
+      "total": 182,
+      "percentage": 1.1
     },
     "round_16": {
-      "disagreements": 0,
-      "total": 87,
-      "percentage": 0.0
+      "disagreements": 1,
+      "total": 202,
+      "percentage": 0.5
     },
     "round_17": {
-      "disagreements": 1,
-      "total": 84,
-      "percentage": 1.19
+      "disagreements": 2,
+      "total": 191,
+      "percentage": 1.05
     },
     "round_18": {
-      "disagreements": 1,
-      "total": 91,
-      "percentage": 1.1
+      "disagreements": 3,
+      "total": 203,
+      "percentage": 1.48
     },
     "round_19": {
-      "disagreements": 1,
-      "total": 85,
-      "percentage": 1.18
+      "disagreements": 2,
+      "total": 195,
+      "percentage": 1.03
     },
     "round_20": {
-      "disagreements": 1,
-      "total": 91,
-      "percentage": 1.1
+      "disagreements": 2,
+      "total": 203,
+      "percentage": 0.99
     }
   },
   "Mistral-Large-3 vs Llama-4-Maverick-17B-128E-Instruct-FP8": {
     "round_1": {
-      "disagreements": 2,
-      "total": 10,
-      "percentage": 20.0
+      "disagreements": 5,
+      "total": 21,
+      "percentage": 23.81
     },
     "round_2": {
-      "disagreements": 20,
-      "total": 69,
-      "percentage": 28.99
+      "disagreements": 38,
+      "total": 142,
+      "percentage": 26.76
     },
     "round_3": {
-      "disagreements": 5,
-      "total": 60,
-      "percentage": 8.33
+      "disagreements": 14,
+      "total": 129,
+      "percentage": 10.85
     },
     "round_4": {
-      "disagreements": 3,
-      "total": 69,
-      "percentage": 4.35
+      "disagreements": 10,
+      "total": 166,
+      "percentage": 6.02
     },
     "round_5": {
-      "disagreements": 4,
-      "total": 70,
-      "percentage": 5.71
+      "disagreements": 14,
+      "total": 166,
+      "percentage": 8.43
     },
     "round_6": {
-      "disagreements": 2,
-      "total": 76,
-      "percentage": 2.63
+      "disagreements": 9,
+      "total": 182,
+      "percentage": 4.95
     },
     "round_7": {
-      "disagreements": 4,
-      "total": 71,
-      "percentage": 5.63
+      "disagreements": 12,
+      "total": 170,
+      "percentage": 7.06
     },
     "round_8": {
-      "disagreements": 2,
-      "total": 76,
-      "percentage": 2.63
+      "disagreements": 5,
+      "total": 177,
+      "percentage": 2.82
     },
     "round_9": {
-      "disagreements": 4,
-      "total": 75,
-      "percentage": 5.33
+      "disagreements": 5,
+      "total": 183,
+      "percentage": 2.73
     },
     "round_10": {
-      "disagreements": 3,
-      "total": 82,
-      "percentage": 3.66
+      "disagreements": 4,
+      "total": 188,
+      "percentage": 2.13
     },
     "round_11": {
       "disagreements": 6,
-      "total": 86,
-      "percentage": 6.98
+      "total": 199,
+      "percentage": 3.02
     },
     "round_12": {
-      "disagreements": 3,
-      "total": 92,
-      "percentage": 3.26
+      "disagreements": 4,
+      "total": 206,
+      "percentage": 1.94
     },
     "round_13": {
-      "disagreements": 4,
-      "total": 81,
-      "percentage": 4.94
+      "disagreements": 5,
+      "total": 187,
+      "percentage": 2.67
     },
     "round_14": {
-      "disagreements": 1,
-      "total": 89,
-      "percentage": 1.12
+      "disagreements": 2,
+      "total": 195,
+      "percentage": 1.03
     },
     "round_15": {
-      "disagreements": 1,
-      "total": 81,
-      "percentage": 1.23
+      "disagreements": 2,
+      "total": 182,
+      "percentage": 1.1
     },
     "round_16": {
       "disagreements": 0,
-      "total": 87,
+      "total": 203,
       "percentage": 0.0
     },
     "round_17": {
-      "disagreements": 1,
-      "total": 84,
-      "percentage": 1.19
+      "disagreements": 2,
+      "total": 191,
+      "percentage": 1.05
     },
     "round_18": {
-      "disagreements": 1,
-      "total": 91,
-      "percentage": 1.1
+      "disagreements": 3,
+      "total": 203,
+      "percentage": 1.48
     },
     "round_19": {
-      "disagreements": 2,
-      "total": 84,
-      "percentage": 2.38
+      "disagreements": 4,
+      "total": 194,
+      "percentage": 2.06
     },
     "round_20": {
-      "disagreements": 2,
-      "total": 90,
-      "percentage": 2.22
+      "disagreements": 5,
+      "total": 201,
+      "percentage": 2.49
     }
   },
   "Mistral-Large-3 vs Phi-4": {
     "round_1": {
-      "disagreements": 68,
-      "total": 141,
-      "percentage": 48.23
+      "disagreements": 142,
+      "total": 295,
+      "percentage": 48.14
     },
     "round_2": {
-      "disagreements": 53,
-      "total": 143,
-      "percentage": 37.06
+      "disagreements": 103,
+      "total": 294,
+      "percentage": 35.03
     },
     "round_3": {
-      "disagreements": 39,
-      "total": 144,
-      "percentage": 27.08
+      "disagreements": 76,
+      "total": 296,
+      "percentage": 25.68
     },
     "round_4": {
-      "disagreements": 28,
-      "total": 142,
-      "percentage": 19.72
+      "disagreements": 53,
+      "total": 296,
+      "percentage": 17.91
     },
     "round_5": {
-      "disagreements": 26,
-      "total": 143,
-      "percentage": 18.18
+      "disagreements": 48,
+      "total": 295,
+      "percentage": 16.27
     },
     "round_6": {
-      "disagreements": 22,
-      "total": 144,
-      "percentage": 15.28
+      "disagreements": 40,
+      "total": 300,
+      "percentage": 13.33
     },
     "round_7": {
-      "disagreements": 17,
-      "total": 144,
-      "percentage": 11.81
+      "disagreements": 33,
+      "total": 299,
+      "percentage": 11.04
     },
     "round_8": {
-      "disagreements": 17,
-      "total": 141,
-      "percentage": 12.06
+      "disagreements": 31,
+      "total": 296,
+      "percentage": 10.47
     },
     "round_9": {
-      "disagreements": 11,
-      "total": 142,
-      "percentage": 7.75
+      "disagreements": 23,
+      "total": 297,
+      "percentage": 7.74
     },
     "round_10": {
-      "disagreements": 11,
-      "total": 142,
-      "percentage": 7.75
+      "disagreements": 19,
+      "total": 293,
+      "percentage": 6.48
     },
     "round_11": {
-      "disagreements": 11,
-      "total": 142,
-      "percentage": 7.75
+      "disagreements": 19,
+      "total": 297,
+      "percentage": 6.4
     },
     "round_12": {
-      "disagreements": 8,
-      "total": 142,
-      "percentage": 5.63
+      "disagreements": 17,
+      "total": 296,
+      "percentage": 5.74
     },
     "round_13": {
-      "disagreements": 8,
-      "total": 143,
-      "percentage": 5.59
+      "disagreements": 17,
+      "total": 298,
+      "percentage": 5.7
     },
     "round_14": {
-      "disagreements": 6,
-      "total": 143,
-      "percentage": 4.2
+      "disagreements": 13,
+      "total": 299,
+      "percentage": 4.35
     },
     "round_15": {
-      "disagreements": 5,
-      "total": 142,
-      "percentage": 3.52
+      "disagreements": 10,
+      "total": 298,
+      "percentage": 3.36
     },
     "round_16": {
-      "disagreements": 3,
-      "total": 143,
-      "percentage": 2.1
+      "disagreements": 9,
+      "total": 298,
+      "percentage": 3.02
     },
     "round_17": {
-      "disagreements": 5,
-      "total": 143,
-      "percentage": 3.5
+      "disagreements": 12,
+      "total": 299,
+      "percentage": 4.01
     },
     "round_18": {
-      "disagreements": 5,
-      "total": 141,
-      "percentage": 3.55
+      "disagreements": 11,
+      "total": 295,
+      "percentage": 3.73
     },
     "round_19": {
-      "disagreements": 4,
-      "total": 143,
-      "percentage": 2.8
+      "disagreements": 10,
+      "total": 298,
+      "percentage": 3.36
     },
     "round_20": {
-      "disagreements": 7,
-      "total": 143,
-      "percentage": 4.9
+      "disagreements": 13,
+      "total": 296,
+      "percentage": 4.39
     }
   }
 }

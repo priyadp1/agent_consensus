@@ -1,0 +1,308 @@
+{
+  "Mistral-Large-3 vs Ministral-3B": {
+    "round_1": {
+      "correct": 10,
+      "total": 137,
+      "accuracy_pct": 7.3
+    },
+    "round_2": {
+      "correct": 26,
+      "total": 269,
+      "accuracy_pct": 9.7
+    },
+    "round_3": {
+      "correct": 22,
+      "total": 267,
+      "accuracy_pct": 8.2
+    },
+    "round_4": {
+      "correct": 22,
+      "total": 252,
+      "accuracy_pct": 8.7
+    },
+    "round_5": {
+      "correct": 24,
+      "total": 255,
+      "accuracy_pct": 9.4
+    },
+    "round_6": {
+      "correct": 24,
+      "total": 259,
+      "accuracy_pct": 9.3
+    },
+    "round_7": {
+      "correct": 28,
+      "total": 255,
+      "accuracy_pct": 11.0
+    },
+    "round_8": {
+      "correct": 23,
+      "total": 250,
+      "accuracy_pct": 9.2
+    },
+    "round_9": {
+      "correct": 30,
+      "total": 255,
+      "accuracy_pct": 11.8
+    },
+    "round_10": {
+      "correct": 28,
+      "total": 256,
+      "accuracy_pct": 10.9
+    },
+    "round_11": {
+      "correct": 30,
+      "total": 265,
+      "accuracy_pct": 11.3
+    },
+    "round_12": {
+      "correct": 28,
+      "total": 256,
+      "accuracy_pct": 10.9
+    },
+    "round_13": {
+      "correct": 27,
+      "total": 261,
+      "accuracy_pct": 10.3
+    },
+    "round_14": {
+      "correct": 26,
+      "total": 251,
+      "accuracy_pct": 10.4
+    },
+    "round_15": {
+      "correct": 26,
+      "total": 256,
+      "accuracy_pct": 10.2
+    },
+    "round_16": {
+      "correct": 28,
+      "total": 251,
+      "accuracy_pct": 11.2
+    },
+    "round_17": {
+      "correct": 30,
+      "total": 259,
+      "accuracy_pct": 11.6
+    },
+    "round_18": {
+      "correct": 27,
+      "total": 258,
+      "accuracy_pct": 10.5
+    },
+    "round_19": {
+      "correct": 29,
+      "total": 264,
+      "accuracy_pct": 11.0
+    },
+    "round_20": {
+      "correct": 28,
+      "total": 258,
+      "accuracy_pct": 10.9
+    }
+  },
+  "Mistral-Large-3 vs mistral-medium-2505": {
+    "round_1": {
+      "correct": 20,
+      "total": 299,
+      "accuracy_pct": 6.7
+    },
+    "round_2": {
+      "correct": 21,
+      "total": 299,
+      "accuracy_pct": 7.0
+    },
+    "round_3": {
+      "correct": 24,
+      "total": 299,
+      "accuracy_pct": 8.0
+    },
+    "round_4": {
+      "correct": 25,
+      "total": 300,
+      "accuracy_pct": 8.3
+    },
+    "round_5": {
+      "correct": 27,
+      "total": 300,
+      "accuracy_pct": 9.0
+    },
+    "round_6": {
+      "correct": 27,
+      "total": 300,
+      "accuracy_pct": 9.0
+    },
+    "round_7": {
+      "correct": 28,
+      "total": 300,
+      "accuracy_pct": 9.3
+    },
+    "round_8": {
+      "correct": 29,
+      "total": 300,
+      "accuracy_pct": 9.7
+    },
+    "round_9": {
+      "correct": 29,
+      "total": 300,
+      "accuracy_pct": 9.7
+    },
+    "round_10": {
+      "correct": 30,
+      "total": 300,
+      "accuracy_pct": 10.0
+    },
+    "round_11": {
+      "correct": 31,
+      "total": 300,
+      "accuracy_pct": 10.3
+    },
+    "round_12": {
+      "correct": 30,
+      "total": 300,
+      "accuracy_pct": 10.0
+    },
+    "round_13": {
+      "correct": 32,
+      "total": 300,
+      "accuracy_pct": 10.7
+    },
+    "round_14": {
+      "correct": 31,
+      "total": 300,
+      "accuracy_pct": 10.3
+    },
+    "round_15": {
+      "correct": 32,
+      "total": 300,
+      "accuracy_pct": 10.7
+    },
+    "round_16": {
+      "correct": 31,
+      "total": 299,
+      "accuracy_pct": 10.4
+    },
+    "round_17": {
+      "correct": 30,
+      "total": 300,
+      "accuracy_pct": 10.0
+    },
+    "round_18": {
+      "correct": 31,
+      "total": 300,
+      "accuracy_pct": 10.3
+    },
+    "round_19": {
+      "correct": 30,
+      "total": 300,
+      "accuracy_pct": 10.0
+    },
+    "round_20": {
+      "correct": 31,
+      "total": 300,
+      "accuracy_pct": 10.3
+    }
+  },
+  "mistral-medium-2505 vs Ministral-3B": {
+    "round_1": {
+      "correct": 8,
+      "total": 137,
+      "accuracy_pct": 5.8
+    },
+    "round_2": {
+      "correct": 28,
+      "total": 270,
+      "accuracy_pct": 10.4
+    },
+    "round_3": {
+      "correct": 24,
+      "total": 266,
+      "accuracy_pct": 9.0
+    },
+    "round_4": {
+      "correct": 25,
+      "total": 252,
+      "accuracy_pct": 9.9
+    },
+    "round_5": {
+      "correct": 26,
+      "total": 255,
+      "accuracy_pct": 10.2
+    },
+    "round_6": {
+      "correct": 30,
+      "total": 259,
+      "accuracy_pct": 11.6
+    },
+    "round_7": {
+      "correct": 28,
+      "total": 255,
+      "accuracy_pct": 11.0
+    },
+    "round_8": {
+      "correct": 29,
+      "total": 250,
+      "accuracy_pct": 11.6
+    },
+    "round_9": {
+      "correct": 28,
+      "total": 255,
+      "accuracy_pct": 11.0
+    },
+    "round_10": {
+      "correct": 28,
+      "total": 256,
+      "accuracy_pct": 10.9
+    },
+    "round_11": {
+      "correct": 31,
+      "total": 265,
+      "accuracy_pct": 11.7
+    },
+    "round_12": {
+      "correct": 33,
+      "total": 256,
+      "accuracy_pct": 12.9
+    },
+    "round_13": {
+      "correct": 26,
+      "total": 261,
+      "accuracy_pct": 10.0
+    },
+    "round_14": {
+      "correct": 32,
+      "total": 251,
+      "accuracy_pct": 12.7
+    },
+    "round_15": {
+      "correct": 29,
+      "total": 256,
+      "accuracy_pct": 11.3
+    },
+    "round_16": {
+      "correct": 29,
+      "total": 252,
+      "accuracy_pct": 11.5
+    },
+    "round_17": {
+      "correct": 30,
+      "total": 259,
+      "accuracy_pct": 11.6
+    },
+    "round_18": {
+      "correct": 28,
+      "total": 258,
+      "accuracy_pct": 10.9
+    },
+    "round_19": {
+      "correct": 27,
+      "total": 264,
+      "accuracy_pct": 10.2
+    },
+    "round_20": {
+      "correct": 30,
+      "total": 258,
+      "accuracy_pct": 11.6
+    }
+  }
+}

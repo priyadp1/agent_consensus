@@ -1,0 +1,308 @@
+{
+  "Llama-4-Maverick-17B-128E-Instruct-FP8 vs Phi-4": {
+    "round_1": {
+      "correct": 1,
+      "total": 20,
+      "accuracy_pct": 5.0
+    },
+    "round_2": {
+      "correct": 12,
+      "total": 139,
+      "accuracy_pct": 8.6
+    },
+    "round_3": {
+      "correct": 12,
+      "total": 128,
+      "accuracy_pct": 9.4
+    },
+    "round_4": {
+      "correct": 16,
+      "total": 165,
+      "accuracy_pct": 9.7
+    },
+    "round_5": {
+      "correct": 18,
+      "total": 165,
+      "accuracy_pct": 10.9
+    },
+    "round_6": {
+      "correct": 16,
+      "total": 182,
+      "accuracy_pct": 8.8
+    },
+    "round_7": {
+      "correct": 15,
+      "total": 170,
+      "accuracy_pct": 8.8
+    },
+    "round_8": {
+      "correct": 12,
+      "total": 177,
+      "accuracy_pct": 6.8
+    },
+    "round_9": {
+      "correct": 20,
+      "total": 182,
+      "accuracy_pct": 11.0
+    },
+    "round_10": {
+      "correct": 17,
+      "total": 185,
+      "accuracy_pct": 9.2
+    },
+    "round_11": {
+      "correct": 18,
+      "total": 197,
+      "accuracy_pct": 9.1
+    },
+    "round_12": {
+      "correct": 19,
+      "total": 208,
+      "accuracy_pct": 9.1
+    },
+    "round_13": {
+      "correct": 16,
+      "total": 186,
+      "accuracy_pct": 8.6
+    },
+    "round_14": {
+      "correct": 16,
+      "total": 194,
+      "accuracy_pct": 8.2
+    },
+    "round_15": {
+      "correct": 14,
+      "total": 182,
+      "accuracy_pct": 7.7
+    },
+    "round_16": {
+      "correct": 17,
+      "total": 202,
+      "accuracy_pct": 8.4
+    },
+    "round_17": {
+      "correct": 18,
+      "total": 191,
+      "accuracy_pct": 9.4
+    },
+    "round_18": {
+      "correct": 19,
+      "total": 203,
+      "accuracy_pct": 9.4
+    },
+    "round_19": {
+      "correct": 18,
+      "total": 195,
+      "accuracy_pct": 9.2
+    },
+    "round_20": {
+      "correct": 19,
+      "total": 203,
+      "accuracy_pct": 9.4
+    }
+  },
+  "Mistral-Large-3 vs Llama-4-Maverick-17B-128E-Instruct-FP8": {
+    "round_1": {
+      "correct": 3,
+      "total": 21,
+      "accuracy_pct": 14.3
+    },
+    "round_2": {
+      "correct": 12,
+      "total": 142,
+      "accuracy_pct": 8.5
+    },
+    "round_3": {
+      "correct": 12,
+      "total": 129,
+      "accuracy_pct": 9.3
+    },
+    "round_4": {
+      "correct": 17,
+      "total": 166,
+      "accuracy_pct": 10.2
+    },
+    "round_5": {
+      "correct": 16,
+      "total": 166,
+      "accuracy_pct": 9.6
+    },
+    "round_6": {
+      "correct": 17,
+      "total": 182,
+      "accuracy_pct": 9.3
+    },
+    "round_7": {
+      "correct": 16,
+      "total": 170,
+      "accuracy_pct": 9.4
+    },
+    "round_8": {
+      "correct": 14,
+      "total": 177,
+      "accuracy_pct": 7.9
+    },
+    "round_9": {
+      "correct": 19,
+      "total": 183,
+      "accuracy_pct": 10.4
+    },
+    "round_10": {
+      "correct": 19,
+      "total": 188,
+      "accuracy_pct": 10.1
+    },
+    "round_11": {
+      "correct": 17,
+      "total": 199,
+      "accuracy_pct": 8.5
+    },
+    "round_12": {
+      "correct": 20,
+      "total": 206,
+      "accuracy_pct": 9.7
+    },
+    "round_13": {
+      "correct": 16,
+      "total": 187,
+      "accuracy_pct": 8.6
+    },
+    "round_14": {
+      "correct": 17,
+      "total": 195,
+      "accuracy_pct": 8.7
+    },
+    "round_15": {
+      "correct": 15,
+      "total": 182,
+      "accuracy_pct": 8.2
+    },
+    "round_16": {
+      "correct": 18,
+      "total": 203,
+      "accuracy_pct": 8.9
+    },
+    "round_17": {
+      "correct": 19,
+      "total": 191,
+      "accuracy_pct": 9.9
+    },
+    "round_18": {
+      "correct": 19,
+      "total": 203,
+      "accuracy_pct": 9.4
+    },
+    "round_19": {
+      "correct": 18,
+      "total": 194,
+      "accuracy_pct": 9.3
+    },
+    "round_20": {
+      "correct": 19,
+      "total": 201,
+      "accuracy_pct": 9.5
+    }
+  },
+  "Mistral-Large-3 vs Phi-4": {
+    "round_1": {
+      "correct": 18,
+      "total": 295,
+      "accuracy_pct": 6.1
+    },
+    "round_2": {
+      "correct": 24,
+      "total": 294,
+      "accuracy_pct": 8.2
+    },
+    "round_3": {
+      "correct": 26,
+      "total": 296,
+      "accuracy_pct": 8.8
+    },
+    "round_4": {
+      "correct": 25,
+      "total": 296,
+      "accuracy_pct": 8.4
+    },
+    "round_5": {
+      "correct": 25,
+      "total": 295,
+      "accuracy_pct": 8.5
+    },
+    "round_6": {
+      "correct": 29,
+      "total": 300,
+      "accuracy_pct": 9.7
+    },
+    "round_7": {
+      "correct": 30,
+      "total": 299,
+      "accuracy_pct": 10.0
+    },
+    "round_8": {
+      "correct": 26,
+      "total": 296,
+      "accuracy_pct": 8.8
+    },
+    "round_9": {
+      "correct": 29,
+      "total": 297,
+      "accuracy_pct": 9.8
+    },
+    "round_10": {
+      "correct": 29,
+      "total": 293,
+      "accuracy_pct": 9.9
+    },
+    "round_11": {
+      "correct": 30,
+      "total": 297,
+      "accuracy_pct": 10.1
+    },
+    "round_12": {
+      "correct": 31,
+      "total": 296,
+      "accuracy_pct": 10.5
+    },
+    "round_13": {
+      "correct": 31,
+      "total": 298,
+      "accuracy_pct": 10.4
+    },
+    "round_14": {
+      "correct": 31,
+      "total": 299,
+      "accuracy_pct": 10.4
+    },
+    "round_15": {
+      "correct": 32,
+      "total": 298,
+      "accuracy_pct": 10.7
+    },
+    "round_16": {
+      "correct": 31,
+      "total": 298,
+      "accuracy_pct": 10.4
+    },
+    "round_17": {
+      "correct": 32,
+      "total": 299,
+      "accuracy_pct": 10.7
+    },
+    "round_18": {
+      "correct": 32,
+      "total": 295,
+      "accuracy_pct": 10.8
+    },
+    "round_19": {
+      "correct": 32,
+      "total": 298,
+      "accuracy_pct": 10.7
+    },
+    "round_20": {
+      "correct": 32,
+      "total": 296,
+      "accuracy_pct": 10.8
+    }
+  }
+}

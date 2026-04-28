@@ -1,23 +1,23 @@
 {
   "Llama-4-Maverick-17B-128E-Instruct-FP8 -> Mistral-Large-3": {
-    "initial_disagreements": 126,
-    "small_to_large": 46,
-    "large_to_small": 52,
-    "small_to_large_pct": 36.51,
-    "large_to_small_pct": 41.27
+    "initial_disagreements": 152,
+    "small_to_large": 55,
+    "large_to_small": 68,
+    "small_to_large_pct": 36.18,
+    "large_to_small_pct": 44.74
   },
   "Phi-4 -> Llama-4-Maverick-17B-128E-Instruct-FP8": {
-    "initial_disagreements": 114,
-    "small_to_large": 61,
-    "large_to_small": 50,
-    "small_to_large_pct": 53.51,
-    "large_to_small_pct": 43.86
+    "initial_disagreements": 131,
+    "small_to_large": 68,
+    "large_to_small": 54,
+    "small_to_large_pct": 51.91,
+    "large_to_small_pct": 41.22
   },
   "Phi-4 -> Mistral-Large-3": {
-    "initial_disagreements": 614,
-    "small_to_large": 489,
-    "large_to_small": 500,
-    "small_to_large_pct": 79.64,
-    "large_to_small_pct": 81.43
+    "initial_disagreements": 724,
+    "small_to_large": 569,
+    "large_to_small": 588,
+    "small_to_large_pct": 78.59,
+    "large_to_small_pct": 81.22
   }
 }

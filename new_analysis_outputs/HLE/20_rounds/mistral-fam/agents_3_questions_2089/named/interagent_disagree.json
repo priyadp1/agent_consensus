@@ -1,0 +1,105 @@
+{
+  "model": "results\\HLE\\20_rounds\\mistral-fam\\agents_3_questions_2089\\named",
+  "rounds": {
+    "round_1": {
+      "valid_questions": 47,
+      "disagreement_count": 41,
+      "disagreement_percentage": 87.23
+    },
+    "round_2": {
+      "valid_questions": 109,
+      "disagreement_count": 46,
+      "disagreement_percentage": 42.2
+    },
+    "round_3": {
+      "valid_questions": 108,
+      "disagreement_count": 40,
+      "disagreement_percentage": 37.04
+    },
+    "round_4": {
+      "valid_questions": 99,
+      "disagreement_count": 27,
+      "disagreement_percentage": 27.27
+    },
+    "round_5": {
+      "valid_questions": 101,
+      "disagreement_count": 30,
+      "disagreement_percentage": 29.7
+    },
+    "round_6": {
+      "valid_questions": 99,
+      "disagreement_count": 24,
+      "disagreement_percentage": 24.24
+    },
+    "round_7": {
+      "valid_questions": 102,
+      "disagreement_count": 26,
+      "disagreement_percentage": 25.49
+    },
+    "round_8": {
+      "valid_questions": 99,
+      "disagreement_count": 22,
+      "disagreement_percentage": 22.22
+    },
+    "round_9": {
+      "valid_questions": 99,
+      "disagreement_count": 19,
+      "disagreement_percentage": 19.19
+    },
+    "round_10": {
+      "valid_questions": 102,
+      "disagreement_count": 21,
+      "disagreement_percentage": 20.59
+    },
+    "round_11": {
+      "valid_questions": 108,
+      "disagreement_count": 24,
+      "disagreement_percentage": 22.22
+    },
+    "round_12": {
+      "valid_questions": 102,
+      "disagreement_count": 20,
+      "disagreement_percentage": 19.61
+    },
+    "round_13": {
+      "valid_questions": 105,
+      "disagreement_count": 22,
+      "disagreement_percentage": 20.95
+    },
+    "round_14": {
+      "valid_questions": 104,
+      "disagreement_count": 21,
+      "disagreement_percentage": 20.19
+    },
+    "round_15": {
+      "valid_questions": 103,
+      "disagreement_count": 18,
+      "disagreement_percentage": 17.48
+    },
+    "round_16": {
+      "valid_questions": 98,
+      "disagreement_count": 19,
+      "disagreement_percentage": 19.39
+    },
+    "round_17": {
+      "valid_questions": 104,
+      "disagreement_count": 17,
+      "disagreement_percentage": 16.35
+    },
+    "round_18": {
+      "valid_questions": 103,
+      "disagreement_count": 18,
+      "disagreement_percentage": 17.48
+    },
+    "round_19": {
+      "valid_questions": 106,
+      "disagreement_count": 17,
+      "disagreement_percentage": 16.04
+    },
+    "round_20": {
+      "valid_questions": 105,
+      "disagreement_count": 17,
+      "disagreement_percentage": 16.19
+    }
+  }
+}

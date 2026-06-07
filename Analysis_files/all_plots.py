@@ -71,7 +71,7 @@ def plot_deference(data, out_path):
     plt.bar(x + width / 2, large_to_small, width, label="Large -> Small")
     plt.xticks(x, labels, rotation=30, ha="right", fontsize=26)
     plt.yticks(fontsize=26)
-    plt.ylabel("Disagreement %", fontsize=26)
+    plt.ylabel("Deference %", fontsize=26)
     plt.title("Direction of Deference", fontsize=26)
     plt.legend(fontsize=26, loc='upper left', bbox_to_anchor=(1.01, 1))
     plt.tight_layout(pad=1.5)

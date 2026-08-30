@@ -193,7 +193,8 @@ def save_per_round(counts, path):
 def analyze_conditioned(original_data):
     # Counts are accumulated over all round-to-round transitions.
     # For each transition (n-1 -> n), the denominator is pairs that disagreed
-    # in round n-1; deference is switching to the *other model's round-(n-1)* answer.
+    # in round n-1 and both have valid answers in round n; deference is switching
+    # to the *other model's round-(n-1)* answer.
     initial = defaultdict(int)
     s2l = defaultdict(int)
     l2s = defaultdict(int)
@@ -229,15 +230,16 @@ def analyze_conditioned(original_data):
                     if a_prev == "INVALID" or b_prev == "INVALID" or a_prev == b_prev:
                         continue
 
-                    initial[key] += 1
-
                     k_small_curr = m_small if m_small in r_curr else label_small
                     k_large_curr = m_large if m_large in r_curr else label_large
                     a_curr = get_answer(r_curr, k_small_curr)
                     b_curr = get_answer(r_curr, k_large_curr)
 
+                    # Also require valid current-round answers before counting in the denominator
                     if a_curr == "INVALID" or b_curr == "INVALID":
                         continue
+
+                    initial[key] += 1
 
                     # Small deferred to large: adopted large's round-(n-1) answer
                     if a_curr == b_prev:
@@ -303,15 +305,16 @@ def model_deference_each_round(data):
                     if a_prev == "INVALID" or b_prev == "INVALID" or a_prev == b_prev:
                         continue
 
-                    counts[key][n - 1]["initial"] += 1
-
                     k_small_curr = m_small if m_small in r_curr else label_small
                     k_large_curr = m_large if m_large in r_curr else label_large
                     a_curr = get_answer(r_curr, k_small_curr)
                     b_curr = get_answer(r_curr, k_large_curr)
 
+                    # Also require valid current-round answers before counting in the denominator
                     if a_curr == "INVALID" or b_curr == "INVALID":
                         continue
+
+                    counts[key][n - 1]["initial"] += 1
 
                     if a_curr == b_prev:
                         counts[key][n - 1]["s2l"] += 1
